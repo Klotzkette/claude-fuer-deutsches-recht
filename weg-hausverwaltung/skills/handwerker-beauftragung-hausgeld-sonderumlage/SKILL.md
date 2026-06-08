@@ -29,7 +29,7 @@ description: "Handwerker Beauftragung Hausgeld Sonderumlage im Plugin Weg Hausve
 
 **Fokus:** Begleitet Handwerkerbeauftragung in der WEG (Stand 05/2026): Leistungsbeschreibung, Vergleichsangebote, Beschlussbedarf, Budget, Nachträge, Abnahme, Rechnungskontrolle, Gewährleistung, Dokumentation; berücksichtigt § 27 WEG (Verwalterkompetenz), § 21 WEG (Kostenfolge), GEG-Pflichten beim Heizungstausch und Sondervergütungspraxis.
 
-# Handwerkerbeauftragung und Vergabe
+### Handwerkerbeauftragung und Vergabe
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Handwerkerbeauftragung und Vergabe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -130,7 +130,7 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 
 **Fokus:** Prüft Hausgeld, Vorschüsse, Rückstände, Sonderumlagen, Liquidität, Mahnungen, Ratenzahlung, Beschlussgrundlage und Klagepfad der GdWE (Stand 05/2026). Berücksichtigt BGH V ZR 190/24 zum Zurückbehaltungsrecht und V ZR 139/23 zur Verteilung von Prozesskosten.
 
-# Hausgeld, Sonderumlage und Liquidität
+### Hausgeld, Sonderumlage und Liquidität
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hausgeld, Sonderumlage und Liquidität` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -219,7 +219,7 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 
 **Fokus:** Ordnet Alltagskonflikte in WEG-Anlagen: Tauben auf Balkonen, Fahrradkeller, Diebstahl, Kinderlärm, Spielhof, Weihnachtsbaum, Brandschutz, Hausordnung und Kommunikation. Output: Maßnahmenmatrix und deeskalierende Schreiben.
 
-# Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum
+### Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

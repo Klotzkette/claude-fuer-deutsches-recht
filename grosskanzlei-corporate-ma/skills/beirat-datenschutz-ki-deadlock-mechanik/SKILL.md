@@ -33,7 +33,7 @@ description: "Beirat Datenschutz KI Deadlock Mechanik im Corporate/M&A (Großkan
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Datenschutz Und KI
+### Beirat Datenschutz Und KI
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Datenschutz Und KI` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Deadlock Mechanik
+### Beirat Deadlock Mechanik
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Deadlock Mechanik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Entscheidungsbefugnisse
+### Beirat Entscheidungsbefugnisse
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Entscheidungsbefugnisse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -216,7 +216,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Fakultativer Aufsichtsrat 52 Gmbhg
+### Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Fakultativer Aufsichtsrat 52 Gmbhg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -277,7 +277,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Familiengesellschaft
+### Beirat Familiengesellschaft
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Familiengesellschaft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -338,7 +338,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Geschaeftsfuehrerabberufung
+### Beirat Geschaeftsfuehrerabberufung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Geschaeftsfuehrerabberufung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -399,7 +399,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Geschaeftsfuehrerbestellung
+### Beirat Geschaeftsfuehrerbestellung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Geschaeftsfuehrerbestellung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

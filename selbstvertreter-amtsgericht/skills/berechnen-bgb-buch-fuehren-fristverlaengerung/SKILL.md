@@ -29,7 +29,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 
 **Fokus:** Berechnung von Prozessfristen nach §§ 187 188 BGB. Beginn am Tag nach Ereignis Ende am gleichen Wochentag der Folgewoche Frist-Ende auf Wochenende oder Feiertag verschiebt sich. Praxis-Beispiele und typische Fallen.
 
-# Fristen richtig berechnen
+### Fristen richtig berechnen
 
 ## Worum geht es?
 
@@ -172,7 +172,7 @@ Stand: 05/2026. §§ 187, 188, 193 BGB unveraendert.
 
 **Fokus:** Eigenes Fristen-System für Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelprüfung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen.
 
-# Ein eigenes Fristen-Buch fuehren
+### Ein eigenes Fristen-Buch fuehren
 
 ## Worum geht es?
 
@@ -300,7 +300,7 @@ Stand: 05/2026. Praxis-Tipp.
 
 **Fokus:** Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Welche Fristen verlaengerbar sind welche nicht (Notfristen). Begründung Frist-Antrag rechtzeitig stellen Folge bei nicht-Bewilligung Substituierende Strategie.
 
-# Eine Frist verlaengern: Antrag richtig stellen
+### Eine Frist verlaengern: Antrag richtig stellen
 
 ## Worum geht es?
 

@@ -30,7 +30,7 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 
 **Fokus:** Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben.
 
-# Untersuchungsvermerk (Arbeitsrecht)
+### Untersuchungsvermerk (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungsvermerk (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -231,7 +231,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 **Fokus:** Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll.
 
-# Untersuchungs-Zusammenfassung für Zielgruppen (Arbeitsrecht)
+### Untersuchungs-Zusammenfassung für Zielgruppen (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungs-Zusammenfassung für Zielgruppen (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -464,7 +464,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 **Fokus:** Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen nach § 623 BGB und § 130 BGB: Bote, Einwurf, Einschreiben, Krankheit, Urlaub, Empfangsverweigerung, Dreiwochenfrist, Beweis des konkreten Inhalts und prozessfeste Zustellmatrix.
 
-# Kündigung: Zugang, Umschlag, Bote und Beweiswerkstatt
+### Kündigung: Zugang, Umschlag, Bote und Beweiswerkstatt
 
 ## Einsatz
 Anwendungsfall: eine Kündigung erklärt, abgewehrt oder rekonstruiert werden muss und der Fall am Zugang, am Inhalt des Umschlags oder an § 4 KSchG kippen kann.
@@ -489,7 +489,7 @@ Erzeuge immer eine Tabelle: `Zustellweg / Beleg / beweisbarer Inhalt / Zugangsta
 
 **Fokus:** Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Kuendigungszugang Beweislast Und Zugangsmoment
+### Zugang Kuendigungszugang Beweislast Und Zugangsmoment
 
 ## Aufgabe
 

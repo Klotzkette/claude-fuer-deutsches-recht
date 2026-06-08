@@ -33,7 +33,7 @@ description: "Notar Vollmachten im Corporate/M&A (Großkanzlei-Praxis): prüft k
 
 **Fokus:** Verhandlungsstrategie und Battlecards für SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege.
 
-# Negotiation Strategy Battlecards
+### Negotiation Strategy Battlecards
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Negotiation Strategy Battlecards` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Notar-, Vollmachts- und Signaturmechanik für Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik.
 
-# Notar Vollmachten Signaturmechanik
+### Notar Vollmachten Signaturmechanik
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Notar Vollmachten Signaturmechanik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -205,7 +205,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Zielobjekt-Screening und Pipeline-Analyse aus öffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und Branchenhinweisen erstellen. §§ 14-17 GWB Marktabgrenzung, MAR Insiderinformationen. Prüfraster Anforderungsprofil, Markt-Fit, IP-Status, Compliance-Risiken, Synergien, Warnsignale. Output Ziel-Screening-Report mit Scorecard, Pipeline-Rangliste und DD-Vorabhinweisen. Abgrenzung zu DD-Legal/Commercial für formale Due Diligence und zu Transaktionsstruktur.
 
-# Outside-in Target Screening
+### Outside-in Target Screening
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Outside-in Target Screening` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -306,7 +306,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Outside-in Target Screening
+### Outside-in Target Screening
 
 ## Zweck
 
@@ -378,7 +378,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Interaktiver Deal-Padlet-Canvas für Corporate/M&A: visualisiert Parteien, Struktur, Dokumente, Risiken, Q&A, CPs, Gremien, Register, To-dos und Entscheidungspunkte als bewegliches Arbeitsboard.
 
-# Padlet Deal Canvas
+### Padlet Deal Canvas
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Padlet Deal Canvas` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -464,7 +464,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
 
-# Pension bAV Liabilities
+### Pension bAV Liabilities
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pension bAV Liabilities` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -550,7 +550,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Prüfraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO für Pre-Signing-Phasen und zu Signing-Closing-CPs.
 
-# Post-Closing Integration
+### Post-Closing Integration
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Post-Closing Integration` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -651,7 +651,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Post-Closing Integration
+### Post-Closing Integration
 
 ## Zweck
 
@@ -758,7 +758,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Prüfraster WpUEG-Schwellen, Ad-hoc-Prüfung, Insiderlisten-Verwaltung, Stellungnahme Zielgesellschaft, Marktgeruecht-Reaktion. Output Compliance-Landkarte Public M&A mit Zeitplan und Meldepflichten-Übersicht. Abgrenzung zu Regulatory-FDI-Merger-Control und zu SPA/APA-Entwurf.
 
-# Public M&A, Kapitalmarkt und MAR
+### Public M&A, Kapitalmarkt und MAR
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Public M&A, Kapitalmarkt und MAR` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -859,7 +859,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Public M&A, Kapitalmarkt und MAR
+### Public M&A, Kapitalmarkt und MAR
 
 ## Zweck
 

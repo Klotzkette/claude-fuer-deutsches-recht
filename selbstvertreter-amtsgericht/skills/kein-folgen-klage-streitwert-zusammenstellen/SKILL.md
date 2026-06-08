@@ -29,7 +29,7 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 
 **Fokus:** Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage.
 
-# Was passiert, wenn Sie eine Tatsache **nicht** beweisen koennen?
+### Was passiert, wenn Sie eine Tatsache **nicht** beweisen koennen?
 
 ## Worum geht es?
 
@@ -178,7 +178,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 **Fokus:** Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt.
 
-# Streitwert in der Klage angeben
+### Streitwert in der Klage angeben
 
 ## Worum geht es?
 
@@ -315,7 +315,7 @@ Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG:
 
 **Fokus:** Klage und Anlagen als komplettes Paket für das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch für Klageerwiderung und Replik mit B-Anlagen.
 
-# Klage komplett zusammenstellen — Schritt für Schritt
+### Klage komplett zusammenstellen — Schritt für Schritt
 
 ## Worum geht es?
 

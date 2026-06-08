@@ -29,7 +29,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 
 **Fokus:** Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Prüfraster: Sachverhaltserfassung Schutzfähigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills.
 
-# Erstgespraech und Mandatsannahme im Urheber- und Medienrecht
+### Erstgespraech und Mandatsannahme im Urheber- und Medienrecht
 
 ## Triage zu Beginn — klaere vor jedem weiteren Schritt
 
@@ -176,7 +176,7 @@ Thema: Persönlichkeitsrecht Online-Archiv Berichterstattung — thematisch pass
 
 **Fokus:** Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung Lizenzkette Belege. Vorformulierte Unterlassungserklärung prüfen Vertragsstrafe Hoehe Abgrenzung modifizierte Unterlassungserklärung. Streitwertbegrenzung § 97a Abs. 3 UrhG Verbraucher 1000 EUR Abmahnkostenanspruch. Rückforderung bei missbraeuchlicher Abmahnung § 8c UWG analog. Negative Feststellungsklage.
 
-# Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht
+### Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -457,7 +457,7 @@ Halluzinations-Reparatur Bundle 026:
 
 **Fokus:** Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Prüfraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklärung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht für allgemeine Urheberrechtsverletzungen.
 
-# Filesharing-Abmahnung Verteidigung
+### Filesharing-Abmahnung Verteidigung
 
 ## Zweck
 

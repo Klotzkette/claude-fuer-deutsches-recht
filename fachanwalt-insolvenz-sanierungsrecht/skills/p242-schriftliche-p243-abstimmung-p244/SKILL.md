@@ -47,7 +47,7 @@ description: "Inso P242 Schriftliche P243 Abstimmung P244 im Insolvenz- und Sani
 
 **Fokus:** § 242 InsO (Schriftliche Abstimmung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 242 InsO — Schriftliche Abstimmung
+### § 242 InsO — Schriftliche Abstimmung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 242 InsO — Schriftliche Abstimmung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 243 InsO (Abstimmung in Gruppen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 243 InsO — Abstimmung in Gruppen
+### § 243 InsO — Abstimmung in Gruppen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 243 InsO — Abstimmung in Gruppen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 244 InsO (Erforderliche Mehrheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 244 InsO — Erforderliche Mehrheiten
+### § 244 InsO — Erforderliche Mehrheiten
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 244 InsO — Erforderliche Mehrheiten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -209,7 +209,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 245 InsO (Obstruktionsverbot) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 245 InsO — Obstruktionsverbot
+### § 245 InsO — Obstruktionsverbot
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 245 InsO — Obstruktionsverbot` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -263,7 +263,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 245a InsO (Schlechterstellung bei natürlichen Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 245a InsO — Schlechterstellung bei natürlichen Personen
+### § 245a InsO — Schlechterstellung bei natürlichen Personen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 245a InsO — Schlechterstellung bei natürlichen Personen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -317,7 +317,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 246 InsO (Zustimmung nachrangiger Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 246 InsO — Zustimmung nachrangiger Insolvenzgläubiger
+### § 246 InsO — Zustimmung nachrangiger Insolvenzgläubiger
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 246 InsO — Zustimmung nachrangiger Insolvenzgläubiger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -371,7 +371,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 246a InsO (Zustimmung der Anteilsinhaber) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 246a InsO — Zustimmung der Anteilsinhaber
+### § 246a InsO — Zustimmung der Anteilsinhaber
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 246a InsO — Zustimmung der Anteilsinhaber` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -425,7 +425,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 247 InsO (Zustimmung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 247 InsO — Zustimmung des Schuldners
+### § 247 InsO — Zustimmung des Schuldners
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 247 InsO — Zustimmung des Schuldners` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -479,7 +479,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 248 InsO (Gerichtliche Bestätigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 248 InsO — Gerichtliche Bestätigung
+### § 248 InsO — Gerichtliche Bestätigung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 248 InsO — Gerichtliche Bestätigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -532,7 +532,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 248a InsO (Gerichtliche Bestätigung einer Planberichtigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 248a InsO — Gerichtliche Bestätigung einer Planberichtigung
+### § 248a InsO — Gerichtliche Bestätigung einer Planberichtigung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 248a InsO — Gerichtliche Bestätigung einer Planberichtigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -585,7 +585,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 249 InsO (Bedingter Plan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 249 InsO — Bedingter Plan
+### § 249 InsO — Bedingter Plan
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 249 InsO — Bedingter Plan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -639,7 +639,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 251 InsO (Minderheitenschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 251 InsO — Minderheitenschutz
+### § 251 InsO — Minderheitenschutz
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 251 InsO — Minderheitenschutz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -693,7 +693,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 252 InsO (Bekanntgabe der Entscheidung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 252 InsO — Bekanntgabe der Entscheidung
+### § 252 InsO — Bekanntgabe der Entscheidung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 252 InsO — Bekanntgabe der Entscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -747,7 +747,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 253 InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 253 InsO — Rechtsmittel
+### § 253 InsO — Rechtsmittel
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 253 InsO — Rechtsmittel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -801,7 +801,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 254 InsO (Allgemeine Wirkungen des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 254 InsO — Allgemeine Wirkungen des Plans
+### § 254 InsO — Allgemeine Wirkungen des Plans
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 254 InsO — Allgemeine Wirkungen des Plans` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -855,7 +855,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 254a InsO (Rechte an Gegenständen. Sonstige Wirkungen des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 254a InsO — Rechte an Gegenständen. Sonstige Wirkungen des Plans
+### § 254a InsO — Rechte an Gegenständen. Sonstige Wirkungen des Plans
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 254a InsO — Rechte an Gegenständen. Sonstige Wirkungen des Plans` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -909,7 +909,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 254b InsO (Wirkung für alle Beteiligten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 254b InsO — Wirkung für alle Beteiligten
+### § 254b InsO — Wirkung für alle Beteiligten
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 254b InsO — Wirkung für alle Beteiligten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -963,7 +963,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 256 InsO (Streitige Forderungen. Ausfallforderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 256 InsO — Streitige Forderungen. Ausfallforderungen
+### § 256 InsO — Streitige Forderungen. Ausfallforderungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 256 InsO — Streitige Forderungen. Ausfallforderungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1017,7 +1017,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 257 InsO (Vollstreckung aus dem Plan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 257 InsO — Vollstreckung aus dem Plan
+### § 257 InsO — Vollstreckung aus dem Plan
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 257 InsO — Vollstreckung aus dem Plan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1071,7 +1071,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 259 InsO (Wirkungen der Aufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 259 InsO — Wirkungen der Aufhebung
+### § 259 InsO — Wirkungen der Aufhebung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 259 InsO — Wirkungen der Aufhebung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1125,7 +1125,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 259a InsO (Vollstreckungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 259a InsO — Vollstreckungsschutz
+### § 259a InsO — Vollstreckungsschutz
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 259a InsO — Vollstreckungsschutz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -31,7 +31,7 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 
 **Fokus:** Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendors with German clients.
 
-# Records of Processing Activities (RoPA) – Processor Template (English)
+### Records of Processing Activities (RoPA) – Processor Template (English)
 
 ## Purpose
 
@@ -139,7 +139,7 @@ Version 1.1 – [change] – [date, author]
 
 **Fokus:** Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl.
 
-# RoPA für KI-Anwendungen – Besonderheiten
+### RoPA für KI-Anwendungen – Besonderheiten
 
 ## Zweck
 
@@ -242,7 +242,7 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 
 **Fokus:** Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Master-RoPA und Entity-Anhaenge.
 
-# RoPA im Konzern und in Multi-Entity-Strukturen
+### RoPA im Konzern und in Multi-Entity-Strukturen
 
 ## Zweck
 
@@ -374,7 +374,7 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 
 **Fokus:** Auskunft: Behörden-, Gerichts- oder Registerweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Auskunft: Behörden-, Gerichts- oder Registerweg
+### Auskunft: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Auskunft: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -427,7 +427,7 @@ Bei unvollständiger Auskunft frühzeitig nachhaken und konkret benennen, was fe
 
 **Fokus:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

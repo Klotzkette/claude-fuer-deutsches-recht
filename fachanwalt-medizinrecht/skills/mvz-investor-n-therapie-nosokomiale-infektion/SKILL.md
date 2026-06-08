@@ -30,7 +30,7 @@ description: "MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: pr�
 
 **Fokus:** Investor-MVZ Compliance: moderner Medizinrechts-Skill für MVZ-Träger, ärztliche Leitung, Weisungsfreiheit, Zuweisung, Abrechnung und Berufsrecht. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Investor-MVZ Compliance
+### Investor-MVZ Compliance
 
 ## Fachkern: Investor-MVZ Compliance
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** N-of-1-Therapie und Heilversuch: moderner Medizinrechts-Skill für Individualisierte Therapie außerhalb Standardpfad, Erkenntnisgrenze, Einwilligung und Kostenträger. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# N-of-1-Therapie und Heilversuch
+### N-of-1-Therapie und Heilversuch
 
 ## Fachkern: N-of-1-Therapie und Heilversuch
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -143,7 +143,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Nosokomiale Infektion und Hygiene: moderner Medizinrechts-Skill für Hygienemangel, MRSA/CRE, OP-Saal, Aufbereitung, voll beherrschbares Risiko. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Nosokomiale Infektion und Hygiene
+### Nosokomiale Infektion und Hygiene
 
 ## Fachkern: Nosokomiale Infektion und Hygiene
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -198,7 +198,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Notaufnahme-Triage: moderner Medizinrechts-Skill für Triagefehler, Überlastung, Dokumentation, Wartezeit, ESI/MTS und Organisationshaftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Notaufnahme-Triage
+### Notaufnahme-Triage
 
 ## Fachkern: Notaufnahme-Triage
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

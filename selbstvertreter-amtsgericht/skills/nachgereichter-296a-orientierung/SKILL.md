@@ -29,7 +29,7 @@ description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgerich
 
 **Fokus:** Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht.
 
-# Nachgereichter Schriftsatz nach Schluss der Verhandlung
+### Nachgereichter Schriftsatz nach Schluss der Verhandlung
 
 ## Worum geht es?
 
@@ -167,7 +167,7 @@ Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
 
 **Fokus:** Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen.
 
-# Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten
+### Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten
 
 ## Worum geht es?
 
@@ -280,7 +280,7 @@ Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung
 
 **Fokus:** Parteivernehmung nach §§ 445 ff. ZPO. Subsidiaeres Beweismittel auf Antrag oder von Amts wegen. Bedingungen und Beweiswert. Wann lohnt sich Parteivernehmung warum gilt die eigene Aussage als schwach.
 
-# Parteivernehmung: Wenn Sie selbst aussagen
+### Parteivernehmung: Wenn Sie selbst aussagen
 
 ## Worum geht es?
 

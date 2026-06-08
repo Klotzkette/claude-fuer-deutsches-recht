@@ -31,7 +31,7 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 
 **Fokus:** Audit- und Kontrollrechte des Verantwortlichen gegenueber dem Auftragsverarbeiter nach Art. 28 Abs. 3 lit. h DSGVO. Behandelt Vor-Ort-Audits Selbstauskunft Zertifikate sowie das Verhaeltnis zwischen Audit-Recht und Geschaeftsgeheimnis. Output: Audit-Klausel mit Frequenz Verfahren Kostenregel und Eskalation.
 
-# AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO
+### AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO
 
 ## Zweck / Purpose
 
@@ -149,7 +149,7 @@ Audit-Klausel:
 
 **Fokus:** Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster für Sub-AV-Listen.
 
-# Cloud und Sub-Auftragsverarbeitung Art. 28 Abs. 2 und Abs. 4 DSGVO
+### Cloud und Sub-Auftragsverarbeitung Art. 28 Abs. 2 und Abs. 4 DSGVO
 
 ## Zweck / Purpose
 
@@ -252,7 +252,7 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 
 **Fokus:** Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und Fallback.
 
-# EU-US Data Privacy Framework (DPF) im AVV
+### EU-US Data Privacy Framework (DPF) im AVV
 
 ## Zweck / Purpose
 
@@ -355,7 +355,7 @@ DPF-und-Fallback-Klausel:
 
 **Fokus:** AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konzern-AVV mit zentraler Group-IT Shared-Service-Center und konzernweiter Liste der Auftragsverarbeiter. Klaert die Frage ob Konzern als Einheit auftritt oder jede Gesellschaft eigenstaendig. Output: Konzern-AVV-Klauselgeruest mit Beitrittsmechanik.
 
-# AVV im Konzern und in Multi-Party-Konstellationen
+### AVV im Konzern und in Multi-Party-Konstellationen
 
 ## Zweck / Purpose
 
@@ -468,7 +468,7 @@ Konzern-AVV-Klauseln (Auszug):
 
 **Fokus:** Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rückgabe Lösung Audits. Output: AVV-Prüfmemo oder Vertragsentwurf. Abgrenzung: nicht für Joint-Controller-Vereinbarungen (joint-controller-vereinbarung).
 
-# AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO
+### AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO
 
 ## Zweck
 

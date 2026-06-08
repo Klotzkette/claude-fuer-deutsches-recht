@@ -31,7 +31,7 @@ description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Fam
 
 **Fokus:** Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Kapitalwert korrespondierender Kapitalwert prüfen
+### Kapitalwert korrespondierender Kapitalwert prüfen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kapitalwert korrespondierender Kapitalwert prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.
+### Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -117,7 +117,7 @@ BGB §§ 1626, 1671, 1684; FamFG §§ 26, 158. Rechtsprechung wird nur mit Geric
 
 **Fokus:** Kirchliche Zusatzversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Kirchliche Zusatzversorgung
+### Kirchliche Zusatzversorgung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kirchliche Zusatzversorgung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Kosten Versorgungsträger Teilungskosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Kosten Versorgungsträger Teilungskosten
+### Kosten Versorgungsträger Teilungskosten
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kosten Versorgungsträger Teilungskosten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -219,7 +219,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Kurze Ehezeit § 3 Abs 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Kurze Ehezeit § 3 Abs 3 VersAusglG
+### Kurze Ehezeit § 3 Abs 3 VersAusglG
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kurze Ehezeit § 3 Abs 3 VersAusglG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

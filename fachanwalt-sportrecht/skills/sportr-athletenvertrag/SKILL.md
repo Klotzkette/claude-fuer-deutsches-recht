@@ -29,7 +29,7 @@ description: "Sportr Athletenvertrag im Sportrecht: prüft konkret Profi-Sportle
 
 **Fokus:** Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Prüfraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Prüfungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht).
 
-# Spieler-Transfer-Klausel
+### Spieler-Transfer-Klausel
 
 ## Zweck
 
@@ -158,7 +158,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 
 **Fokus:** Bauleiter Athletenvertrag: Verguetung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklausel, Beendigung. Pruefraster Verband und Vereinsperspektive.
 
-# Sport: Athletenvertrag Bauleiter
+### Sport: Athletenvertrag Bauleiter
 
 ## Spezialwissen: Sport: Athletenvertrag Bauleiter
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
@@ -207,7 +207,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Prüfraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Prüfung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage).
 
-# eSports-Verein — Vereinsrecht und DOSB-Anerkennung
+### eSports-Verein — Vereinsrecht und DOSB-Anerkennung
 
 ## Zweck
 

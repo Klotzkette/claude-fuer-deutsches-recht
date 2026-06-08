@@ -29,7 +29,7 @@ description: "Erstgespraech Mandatsannahme Abmahnung UWG im Plugin Fachanwalt Ge
 
 **Fokus:** Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistellung Eilbedürfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills.
 
-# Erstgespraech und Mandatsannahme im Marken-, Patent-, Design- und Wettbewerbsrecht
+### Erstgespraech und Mandatsannahme im Marken-, Patent-, Design- und Wettbewerbsrecht
 
 ## Triage zu Beginn — klaere vor jedem weiteren Schritt
 
@@ -516,7 +516,7 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 **Fokus:** Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht für Markenrecht vor EUIPO oder DPMA.
 
-# Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz
+### Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz
 
 ## Triage zu Beginn — klaere vor Bearbeitung
 

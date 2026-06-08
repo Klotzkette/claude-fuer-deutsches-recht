@@ -31,7 +31,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 **Fokus:** Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Pruefraster.
 
-# Elterngeld Elterngeldstellen Beeg
+### Elterngeld Elterngeldstellen Beeg
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Elterngeld Elterngeldstellen Beeg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 **Fokus:** Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster.
 
-# Em Rente Medizinische Feststellung
+### Em Rente Medizinische Feststellung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Em Rente Medizinische Feststellung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -146,7 +146,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 **Fokus:** Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene.
 
-# Soziales Entschaedigungsrecht — SGB XIV
+### Soziales Entschaedigungsrecht — SGB XIV
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Soziales Entschaedigungsrecht — SGB XIV` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -292,7 +292,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 
 **Fokus:** Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine.
 
-# Erstattung Zu Unrecht 50 Sgb X
+### Erstattung Zu Unrecht 50 Sgb X
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstattung Zu Unrecht 50 Sgb X` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -338,7 +338,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 
 **Fokus:** EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV.
 
-# Erwerbsminderungs-Rente — Streit mit der Rentenversicherung
+### Erwerbsminderungs-Rente — Streit mit der Rentenversicherung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erwerbsminderungs-Rente — Streit mit der Rentenversicherung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

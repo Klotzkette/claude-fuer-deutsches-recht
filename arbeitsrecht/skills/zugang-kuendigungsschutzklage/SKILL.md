@@ -30,7 +30,7 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 
 **Fokus:** Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga
+### Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga
 
 ## Aufgabe
 
@@ -89,7 +89,7 @@ Skill für Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 
 **Fokus:** Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte.
 
-# Aufhebungsvertrag
+### Aufhebungsvertrag
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufhebungsvertrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -266,7 +266,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 **Fokus:** Prüfungslinie für aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Aufhebungsvertrag — Sperrzeit-Prognose
+### Aufhebungsvertrag — Sperrzeit-Prognose
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufhebungsvertrag — Sperrzeit-Prognose` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -617,7 +617,7 @@ und die Empfehlung verstanden habe."
 
 **Fokus:** Prüfungslinie für bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Rechtsprechung live prüfen
+### Rechtsprechung live prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

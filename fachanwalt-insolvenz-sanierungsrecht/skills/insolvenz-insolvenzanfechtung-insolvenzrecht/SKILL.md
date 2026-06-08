@@ -31,7 +31,7 @@ description: "Insolvenzanfechtung Insolvenzrecht im Insolvenz- und Sanierungsrec
 
 **Fokus:** Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk
+### Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -121,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Insolvenzrecht: Internationaler Bezug und Schnittstellen im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Insolvenzrecht: Internationaler Bezug und Schnittstellen
+### Insolvenzrecht: Internationaler Bezug und Schnittstellen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzrecht: Internationaler Bezug und Schnittstellen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -166,7 +166,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Krypto: Mandantenkommunikation und Entscheidungsvorlage im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Krypto: Mandantenkommunikation und Entscheidungsvorlage
+### Krypto: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krypto: Mandantenkommunikation und Entscheidungsvorlage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -211,7 +211,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung
+### Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

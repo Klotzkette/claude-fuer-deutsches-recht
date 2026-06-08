@@ -29,7 +29,7 @@ description: "FA Urheber Medien Mandant Redteam Gate im Plugin Fachanwalt Urhebe
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-urheber-medienrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-urheber-medienrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
@@ -64,7 +64,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-urheber-medienrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-urheber-medienrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
@@ -99,7 +99,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Lizenzvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Lizenzvertrag: Fristennotiz und nächster Schritt
+### Lizenzvertrag: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Lizenzvertrag: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

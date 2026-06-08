@@ -30,7 +30,7 @@ description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt 
 
 **Fokus:** Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zuständigkeit § 8 SGG örtliche Zuständigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe).
 
-# Klage zum Sozialgericht
+### Klage zum Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klage zum Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -143,7 +143,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Akteneinsicht Laie
+### Laienhilfe: Akteneinsicht Laie
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Akteneinsicht Laie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -221,7 +221,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Arbeitslosengeld Sperrzeit
+### Laienhilfe: Arbeitslosengeld Sperrzeit
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Arbeitslosengeld Sperrzeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -300,7 +300,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Asylblg
+### Laienhilfe: Asylblg
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Asylblg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

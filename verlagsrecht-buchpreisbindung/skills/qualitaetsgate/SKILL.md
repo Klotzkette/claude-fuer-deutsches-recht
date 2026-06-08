@@ -28,7 +28,7 @@ description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Ver
 
 **Fokus:** Qualitätsgate Verlagsakte: Abschluss-Checkliste für das gesamte Plugin verlagsrecht-buchpreisbindung. Vollständigkeitsprüfung aller 49 Vorgänger-Skills und Gesamt-Compliance-Kontrolle einer Verlagsakte.
 
-# Qualitätsgate Verlagsakte — Abschlusskontrolle
+### Qualitätsgate Verlagsakte — Abschlusskontrolle
 
 ## Zweck dieses Skills
 

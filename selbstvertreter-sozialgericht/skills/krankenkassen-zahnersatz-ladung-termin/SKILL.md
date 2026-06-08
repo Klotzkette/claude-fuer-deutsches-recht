@@ -31,7 +31,7 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 
 **Fokus:** Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine.
 
-# Krankenkassen Zahnersatz 55 Sgb V
+### Krankenkassen Zahnersatz 55 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Zahnersatz 55 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -83,7 +83,7 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 
 **Fokus:** Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt.
 
-# Die Ladung zum Termin — was tun?
+### Die Ladung zum Termin — was tun?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Ladung zum Termin — was tun?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -221,7 +221,7 @@ Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerk
 
 **Fokus:** Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behörde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger.
 
-# Die Leistungsklage — § 54 Abs. 5 SGG
+### Die Leistungsklage — § 54 Abs. 5 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Leistungsklage — § 54 Abs. 5 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -356,7 +356,7 @@ Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
 
 **Fokus:** Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft Gutachten Welche Fragen welcher Arzt. Vorbereitung Untersuchung und Reaktion auf Gutachten.
 
-# Medizinische Gutachten — Ihre Strategie
+### Medizinische Gutachten — Ihre Strategie
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Medizinische Gutachten — Ihre Strategie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -509,7 +509,7 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
 
 **Fokus:** Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Pruefraster.
 
-# Mitwirkungspflicht 60 Bis 67 Sgb I
+### Mitwirkungspflicht 60 Bis 67 Sgb I
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mitwirkungspflicht 60 Bis 67 Sgb I` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

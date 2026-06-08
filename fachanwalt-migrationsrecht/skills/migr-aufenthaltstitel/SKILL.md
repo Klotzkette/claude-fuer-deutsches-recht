@@ -27,7 +27,7 @@ description: "Migr Aufenthaltstitel im Migrationsrecht im Fachanwalt Migrationsr
 
 **Fokus:** Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU. Pro Titel Anspruchsvoraussetzungen, Zuständigkeit, typische Versagungsgruende.
 
-# Migr: Aufenthaltstitel-Uebersicht
+### Migr: Aufenthaltstitel-Uebersicht
 
 ## Aufgabe
 Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU.

@@ -47,7 +47,7 @@ description: "Inso P134 Unentgeltliche P135 im Insolvenz- und Sanierungsrecht: p
 
 **Fokus:** § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 134 InsO — Unentgeltliche Leistung
+### § 134 InsO — Unentgeltliche Leistung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 134 InsO — Unentgeltliche Leistung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 135 InsO (Gesellschafterdarlehen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 135 InsO — Gesellschafterdarlehen
+### § 135 InsO — Gesellschafterdarlehen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 135 InsO — Gesellschafterdarlehen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 136 InsO (Stille Gesellschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 136 InsO — Stille Gesellschaft
+### § 136 InsO — Stille Gesellschaft
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 136 InsO — Stille Gesellschaft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -209,7 +209,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 137 InsO — Wechsel- und Scheckzahlungen
+### § 137 InsO — Wechsel- und Scheckzahlungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 137 InsO — Wechsel- und Scheckzahlungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -263,7 +263,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 138 InsO (Nahestehende Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 138 InsO — Nahestehende Personen
+### § 138 InsO — Nahestehende Personen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 138 InsO — Nahestehende Personen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -317,7 +317,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 140 InsO (Zeitpunkt der Vornahme einer Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 140 InsO — Zeitpunkt der Vornahme einer Rechtshandlung
+### § 140 InsO — Zeitpunkt der Vornahme einer Rechtshandlung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 140 InsO — Zeitpunkt der Vornahme einer Rechtshandlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -371,7 +371,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 141 InsO (Vollstreckbarer Titel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 141 InsO — Vollstreckbarer Titel
+### § 141 InsO — Vollstreckbarer Titel
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 141 InsO — Vollstreckbarer Titel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -425,7 +425,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 142 InsO (Bargeschäft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 142 InsO — Bargeschäft
+### § 142 InsO — Bargeschäft
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 142 InsO — Bargeschäft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -479,7 +479,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 143 InsO (Rechtsfolgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 143 InsO — Rechtsfolgen
+### § 143 InsO — Rechtsfolgen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 143 InsO — Rechtsfolgen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -533,7 +533,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 144 InsO (Ansprüche des Anfechtungsgegners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 144 InsO — Ansprüche des Anfechtungsgegners
+### § 144 InsO — Ansprüche des Anfechtungsgegners
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 144 InsO — Ansprüche des Anfechtungsgegners` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -587,7 +587,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 145 InsO (Anfechtung gegen Rechtsnachfolger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 145 InsO — Anfechtung gegen Rechtsnachfolger
+### § 145 InsO — Anfechtung gegen Rechtsnachfolger
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 145 InsO — Anfechtung gegen Rechtsnachfolger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -641,7 +641,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 146 InsO (Verjährung des Anfechtungsanspruchs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 146 InsO — Verjährung des Anfechtungsanspruchs
+### § 146 InsO — Verjährung des Anfechtungsanspruchs
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 146 InsO — Verjährung des Anfechtungsanspruchs` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -695,7 +695,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 148 InsO (Übernahme der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 148 InsO — Übernahme der Insolvenzmasse
+### § 148 InsO — Übernahme der Insolvenzmasse
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 148 InsO — Übernahme der Insolvenzmasse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -749,7 +749,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 149 InsO (Wertgegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 149 InsO — Wertgegenstände
+### § 149 InsO — Wertgegenstände
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 149 InsO — Wertgegenstände` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -803,7 +803,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 150 InsO (Siegelung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 150 InsO — Siegelung
+### § 150 InsO — Siegelung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 150 InsO — Siegelung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -857,7 +857,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 151 InsO (Verzeichnis der Massegegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 151 InsO — Verzeichnis der Massegegenstände
+### § 151 InsO — Verzeichnis der Massegegenstände
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 151 InsO — Verzeichnis der Massegegenstände` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -911,7 +911,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 152 InsO (Gläubigerverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 152 InsO — Gläubigerverzeichnis
+### § 152 InsO — Gläubigerverzeichnis
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 152 InsO — Gläubigerverzeichnis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -965,7 +965,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 153 InsO (Vermögensübersicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 153 InsO — Vermögensübersicht
+### § 153 InsO — Vermögensübersicht
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 153 InsO — Vermögensübersicht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1019,7 +1019,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 154 InsO (Niederlegung in der Geschäftsstelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 154 InsO — Niederlegung in der Geschäftsstelle
+### § 154 InsO — Niederlegung in der Geschäftsstelle
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 154 InsO — Niederlegung in der Geschäftsstelle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1073,7 +1073,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 156 InsO (Berichtstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 156 InsO — Berichtstermin
+### § 156 InsO — Berichtstermin
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 156 InsO — Berichtstermin` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1127,7 +1127,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 158 InsO (Maßnahmen vor der Entscheidung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 158 InsO — Maßnahmen vor der Entscheidung
+### § 158 InsO — Maßnahmen vor der Entscheidung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 158 InsO — Maßnahmen vor der Entscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

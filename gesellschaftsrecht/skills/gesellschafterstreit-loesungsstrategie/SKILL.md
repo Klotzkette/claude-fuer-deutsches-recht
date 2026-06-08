@@ -88,7 +88,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Mandant / Kanzlei intern — **Tonfall:** sachlich-strategisch
 
 ```
-# Gesellschafterstreit-Strategie
+### Gesellschafterstreit-Strategie
 Gesellschaft: [FIRMA / HRB-NUMMER]
 Mandant: [NAME + ROLLE]
 Bearbeitungsstand: [DATUM]

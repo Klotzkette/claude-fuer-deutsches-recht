@@ -30,7 +30,7 @@ description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft k
 
 **Fokus:** ATMP-Pharmakovigilanz und RMP: moderner Medizinrechts-Skill für Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# ATMP-Pharmakovigilanz und RMP
+### ATMP-Pharmakovigilanz und RMP
 
 ## Fachkern: ATMP-Pharmakovigilanz und RMP
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Prüfungslinie für aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Aufklärungsfehler — Beweisstrategie
+### Aufklärungsfehler — Beweisstrategie
 
 ## Fachkern: Aufklärungsfehler — Beweisstrategie
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -301,7 +301,7 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 **Fokus:** Befundherausgabe, ePA und Akte: moderner Medizinrechts-Skill für Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Befundherausgabe, ePA und Akte
+### Befundherausgabe, ePA und Akte
 
 ## Fachkern: Befundherausgabe, ePA und Akte
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -359,7 +359,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB.
 
-# Behandlungsfehler-Anspruch prüfen
+### Behandlungsfehler-Anspruch prüfen
 
 ## Fachkern: Behandlungsfehler-Anspruch prüfen
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

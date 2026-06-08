@@ -29,7 +29,7 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 
 **Fokus:** Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill.
 
-# Fachanwalt für Arbeitsrecht — Orientierung
+### Fachanwalt für Arbeitsrecht — Orientierung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Arbeitsrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -132,7 +132,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie.
 
-# Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
+### Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -299,7 +299,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang. Beweislast des Arbeitgebers, Anforderungen BAG-Linie, Notarpraxis, Gerichtsvollzieher-Alternative.
 
-# Zugang der Kündigung durch Boten — Beweisvermerk und Prozessstrategie
+### Zugang der Kündigung durch Boten — Beweisvermerk und Prozessstrategie
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang der Kündigung durch Boten — Beweisvermerk und Prozessstrategie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -30,7 +30,7 @@ description: "Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prü
 
 **Fokus:** Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Anästhesie Hochrisiko-Aufklärung
+### Anästhesie Hochrisiko-Aufklärung
 
 ## Fachkern: Anästhesie Hochrisiko-Aufklärung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Approbation und digitales Fehlverhalten
+### Approbation und digitales Fehlverhalten
 
 ## Fachkern: Approbation und digitales Fehlverhalten
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -140,7 +140,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Arztanstellung im MVZ: moderner Medizinrechts-Skill für Anstellungsgenehmigung, Versorgungsauftrag, Arbeitszeit, Nebentätigkeit und Haftungsverteilung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Arztanstellung im MVZ
+### Arztanstellung im MVZ
 
 ## Fachkern: Arztanstellung im MVZ
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -195,7 +195,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Assistierter Suizid Beratung: moderner Medizinrechts-Skill für Ärztliche Beratung, Freiverantwortlichkeit, Berufsrecht, Strafrechtsgrenzen und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Assistierter Suizid Beratung
+### Assistierter Suizid Beratung
 
 ## Fachkern: Assistierter Suizid Beratung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

@@ -29,7 +29,7 @@ description: "Buergschaften Mithaftung Strafbefehl Bussgeld im Plugin Verbrauche
 
 **Fokus:** Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.; Normanker: BGB §§ 765 ff., 138; InsO Forderungsprüfung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
+### Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
 
 ## Fachkern: Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand und Regress.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ BGB §§ 765 ff., 138; InsO Forderungsprüfung. Entscheidend ist immer der aktue
 
 **Fokus:** Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.; Normanker: InsO § 302; StGB Geldstrafe; OWiG; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
+### Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
 
 ## Fachkern: Strafbefehl, Geldstrafe und Bußgeld: Restschuldbefreiung, Ersatzfreiheitsstrafe, Raten und Prioritäten.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO § 302; StGB Geldstrafe; OWiG. Entscheidend ist immer der aktuelle Normstan
 
 **Fokus:** Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.; Normanker: InsO § 302; InsO § 174 Abs. 2; BGB § 823; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
+### Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
 
 ## Fachkern: Deliktforderung und § 302 InsO: vorsätzliche unerlaubte Handlung, Unterhalt, Steuerstraftat und Widerspruch gegen Attribut.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

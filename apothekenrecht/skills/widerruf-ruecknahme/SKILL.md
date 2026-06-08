@@ -28,7 +28,7 @@ description: "Widerruf Rücknahme im Plugin Apothekenrecht im Apothekenrecht: pr
 
 **Fokus:** Widerruf Rücknahme Ruhen Apothekenerlaubnis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht.
 
-# Widerruf Rücknahme Ruhen Apothekenerlaubnis
+### Widerruf Rücknahme Ruhen Apothekenerlaubnis
 
 ## Fachkern: Widerruf Rücknahme Ruhen Apothekenerlaubnis
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.

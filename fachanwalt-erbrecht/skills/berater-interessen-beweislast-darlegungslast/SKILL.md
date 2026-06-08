@@ -29,7 +29,7 @@ description: "Berater Interessen Beweislast Darlegungslast im Plugin Fachanwalt 
 
 **Fokus:** Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Berater: Mehrparteienkonflikt und Interessenmatrix
+### Berater: Mehrparteienkonflikt und Interessenmatrix
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berater: Mehrparteienkonflikt und Interessenmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Chronologie: Beweislast, Darlegungslast und Substantiierung
+### Chronologie: Beweislast, Darlegungslast und Substantiierung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie: Beweislast, Darlegungslast und Substantiierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine
+### Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

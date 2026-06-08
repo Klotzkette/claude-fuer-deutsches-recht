@@ -29,7 +29,7 @@ description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucheri
 
 **Fokus:** Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.
+### Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.
 
 ## Fachkern: Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO §§ 27, 35, 36, 80, 89. Entscheidend ist immer der aktuelle Normstand der 
 
 **Fokus:** Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.
+### Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.
 
 ## Fachkern: Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO §§ 305, 307; BGB Anerkenntnisrisiken. Entscheidend ist immer der aktuelle
 
 **Fokus:** Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.
+### Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.
 
 ## Fachkern: Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

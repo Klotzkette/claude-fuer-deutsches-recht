@@ -31,7 +31,7 @@ description: "Famr Mandantenaufnahme Regenbogenfamilien im Plugin Fachanwalt Fam
 
 **Fokus:** Mandantenaufnahme im Familienrecht: emotionale Lage, Eilbedarf (Gewaltschutz, Kindeswohlgefaehrdung, Wegnahme Kind), Vertraulichkeit Familienangehoerige, Verfahrenskostenhilfe. Strukturiertes Erstgespraechs-Protokoll und Mustertext Mandatsbestaetigung.
 
-# Familienrecht: Mandantenaufnahme
+### Familienrecht: Mandantenaufnahme
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Familienrecht: Mandantenaufnahme` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -87,7 +87,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Regenbogenfamilien: rechtliche Elternschaft nach BGH, Stiefkindadoption, Co-Mutter-Anerkennung, Reform des Abstammungsrechts (Entwurf 2024 ff.), Sorgerecht bei Trennung. Pruefraster und aktueller Rechtsprechungsstand.
 
-# Familienrecht: Regenbogenfamilien
+### Familienrecht: Regenbogenfamilien
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Familienrecht: Regenbogenfamilien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -143,7 +143,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Versorgungsausgleich: VersAusglG, Anrechte Berechnung pro Versorgungstraeger, externe Teilung, interne Teilung, Anpassung wegen Unterhaltszahlung. Pruefraster und Beispielsfall. Schnittstelle Rentenversicherung.
 
-# FamR: Versorgungsausgleich
+### FamR: Versorgungsausgleich
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `FamR: Versorgungsausgleich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -200,7 +200,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Fehlerhafte Auskunft Versorgungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Fehlerhafte Auskunft Versorgungsträger
+### Fehlerhafte Auskunft Versorgungsträger
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fehlerhafte Auskunft Versorgungsträger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -251,7 +251,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen.
 
-# Fragebogen Versorgungsausgleich ausfüllen
+### Fragebogen Versorgungsausgleich ausfüllen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fragebogen Versorgungsausgleich ausfüllen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -152,7 +152,7 @@ VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
 ⚠️ Prüfer-Hinweis
 [Quellen, gelesene Seiten, gekennzeichnete Punkte, Aktualitätsprüfung]
 
-# SaaS-/MSA-Prüfung: [Anbieter] – [Vertragsbezeichnung]
+### SaaS-/MSA-Prüfung: [Anbieter] – [Vertragsbezeichnung]
 
 **Seite:** [Käufer / Verkäufer]
 **Jahreswert (ACV):** [Betrag / nicht angegeben – bitte nennen für Eskalationsrouting]

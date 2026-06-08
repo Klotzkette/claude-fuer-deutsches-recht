@@ -29,7 +29,7 @@ description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Ur
 
 **Fokus:** Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen.
 
-# Presse-Gegendarstellung
+### Presse-Gegendarstellung
 
 ## Kaltstart-Rückfragen
 
@@ -137,7 +137,7 @@ Halluzinations-Reparatur Bundle 026:
 
 **Fokus:** Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren.
 
-# Schiedsstelle DPMA / VGG — Urheber-/Medienrecht
+### Schiedsstelle DPMA / VGG — Urheber-/Medienrecht
 
 ## Zweck
 
@@ -251,7 +251,7 @@ Stand: 05/2026. VGG seit 2016. DPMA-Schiedsstellen-Praxis stabil. DSM-RL ab 7.6.
 
 **Fokus:** Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen.
 
-# TDM § 44b UrhG – KI-Training und Opt-out
+### TDM § 44b UrhG – KI-Training und Opt-out
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -367,11 +367,11 @@ Disallow: /
 User-agent: FacebookBot
 Disallow: /
 
-# Generelle TDM-Reservation gemäß § 44b Abs. 3 UrhG /
-# Art. 4 Abs. 3 DSM-RL / Art. 53 KI-VO
-# Text and Data Mining for AI Training: PROHIBITED
-# TDM Reservation Notice: no AI training on this content
-# Stand: [Datum]
+### Generelle TDM-Reservation gemäß § 44b Abs. 3 UrhG /
+### Art. 4 Abs. 3 DSM-RL / Art. 53 KI-VO
+### Text and Data Mining for AI Training: PROHIBITED
+### TDM Reservation Notice: no AI training on this content
+### Stand: [Datum]
 ```
 
 ```

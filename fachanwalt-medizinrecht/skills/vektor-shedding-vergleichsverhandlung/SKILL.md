@@ -28,7 +28,7 @@ description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konk
 
 **Fokus:** Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Vektor-Shedding und Umweltrisiko
+### Vektor-Shedding und Umweltrisiko
 
 ## Fachkern: Vektor-Shedding und Umweltrisiko
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern.
 
-# Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
+### Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 
 ## Fachkern: Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

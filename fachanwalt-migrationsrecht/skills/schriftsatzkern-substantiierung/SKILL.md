@@ -31,7 +31,7 @@ description: "Schriftsatzkern Substantiierung im Migrationsrecht: prüft konkret
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+### Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -321,7 +321,7 @@ IV. BEWEISANGEBOTE
 
 **Fokus:** Abschiebungshaft: Fachmodul im Migrationsrecht; prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Abschiebungshaft
+### Abschiebungshaft
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel.
@@ -357,7 +357,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Haftgrun
 
 **Fokus:** Abschiebungsverbot § 60 Abs. 5/7: Fachmodul im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Abschiebungsverbot § 60 Abs. 5/7
+### Abschiebungsverbot § 60 Abs. 5/7
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr.
@@ -393,7 +393,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EMRK, Kr
 
 **Fokus:** Akteneinsicht Migration: Fachmodul im Migrationsrecht; prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Akteneinsicht Migration
+### Akteneinsicht Migration
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie.
@@ -429,7 +429,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft BAMF/ABH
 
 **Fokus:** Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Anerkennung Berufsabschluss
+### Anerkennung Berufsabschluss
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang.

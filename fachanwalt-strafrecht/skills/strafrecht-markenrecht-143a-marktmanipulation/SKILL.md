@@ -36,7 +36,7 @@ description: "Markenrecht 143a Marktmanipulation im Strafrecht: prüft konkret B
 
 **Fokus:** Bandenmäßige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmäßige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
 
-# Bandenmäßige Markenrechtsverletzung nach Paragraph 143a MarkenG
+### Bandenmäßige Markenrechtsverletzung nach Paragraph 143a MarkenG
 
 ## Worum geht es
 
@@ -136,7 +136,7 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 
 **Fokus:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Algo-Trading Krypto Boersenmakler.
 
-# Marktmanipulation § 120 WpHG iVm Art. 15 MAR
+### Marktmanipulation § 120 WpHG iVm Art. 15 MAR
 
 ## Worum geht es
 
@@ -258,7 +258,7 @@ Marktmanipulation ist verboten.
 
 **Fokus:** Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher.
 
-# Mietpreisüberhöhung § 5 WiStrG 1954
+### Mietpreisüberhöhung § 5 WiStrG 1954
 
 ## ACHTUNG Ordnungswidrigkeit nicht Straftat
 
@@ -361,7 +361,7 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 
 **Fokus:** Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden für die Verteidigung.
 
-# Minder schwerer Fall des Totschlags § 213 StGB
+### Minder schwerer Fall des Totschlags § 213 StGB
 
 ## Worum geht es
 
@@ -468,7 +468,7 @@ In der Praxis ist § 213 StGB der wichtigste Strafmilderungsschluessel im Toetun
 
 **Fokus:** Misshandlung Schutzbefohlener nach § 225 StGB. Schutz von Personen unter 18 Jahren oder hilflosen Personen. Drei Tatvarianten: quaelen; roh misshandeln; pflichtwidrige Vernachlaessigung. Qualifikation § 225 Abs. 3 StGB Lebensgefahr und schwere Gesundheitsschaedigung. Strafrahmen sechs Monate bis zehn Jahre.
 
-# Misshandlung Schutzbefohlener § 225 StGB
+### Misshandlung Schutzbefohlener § 225 StGB
 
 ## Worum geht es
 
@@ -585,7 +585,7 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 
 **Fokus:** Mord nach § 211 StGB. Praxisleitfaden für Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung.
 
-# Mord § 211 StGB – Mordmerkmale-Praxisleitfaden
+### Mord § 211 StGB – Mordmerkmale-Praxisleitfaden
 
 ## Worum geht es
 
@@ -692,7 +692,7 @@ Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wege
 
 **Fokus:** Noetigung nach § 240 StGB. Mit Gewalt oder durch Drohung mit empfindlichem Uebel jemanden rechtswidrig zu einer Handlung Duldung oder Unterlassung noetigen. Verwerflichkeitsklausel Abs. 2. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Sitzblockaden Drohung kuenftiger Gewalt staendige BGH-Rechtsprechung.
 
-# Noetigung § 240 StGB
+### Noetigung § 240 StGB
 
 ## Worum geht es
 
@@ -799,7 +799,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 
 **Fokus:** NpSG Neue-psychoaktive-Stoffe-Gesetz seit 26.11.2016: Strafrahmen § 4 NpSG, Stoffgruppenliste Anlage, Abgrenzung zu BtMG und Arzneimittelrecht. Praxis bei Designer-Drogen, Spice-Praeparaten, Cathinonen.
 
-# NpSG: Neue psychoaktive Stoffe
+### NpSG: Neue psychoaktive Stoffe
 
 ## Worum geht es
 
@@ -909,7 +909,7 @@ NpSG kennt keine "nicht geringe Menge" wie das BtMG. Mengenfragen werden ueber �
 
 **Fokus:** Strafbarkeit der Patentverletzung Paragraph 142 PatG. Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antragsdelikt. Praxis selten Strafverfahren typischerweise zivilrechtlich. Verteidigung Patentbestand Aequivalent Erschoepfung Vorsatz. Abgrenzung zu Gebrauchsmuster Paragraph 25 GebrMG.
 
-# Strafbarkeit der Patentverletzung nach Paragraph 142 PatG
+### Strafbarkeit der Patentverletzung nach Paragraph 142 PatG
 
 ## Worum geht es
 
@@ -1004,7 +1004,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 
 **Fokus:** Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr für Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB.
 
-# Raeuberischer Diebstahl § 252 StGB
+### Raeuberischer Diebstahl § 252 StGB
 
 ## Worum geht es
 

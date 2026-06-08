@@ -30,7 +30,7 @@ description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-V
 
 **Fokus:** De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht.
 
-# De-facto-Vergabe-Klage
+### De-facto-Vergabe-Klage
 
 ## Zweck
 
@@ -228,7 +228,7 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 
 **Fokus:** Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2.
 
-# Eignungsprüfung
+### Eignungsprüfung
 
 ## Kaltstart-Rückfragen
 
@@ -538,7 +538,7 @@ Vergabeverfahren [BEZEICHNUNG]
 
 **Fokus:** Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Pruefraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
-# Freiberufliche Leistungen (§ 50 VgV)
+### Freiberufliche Leistungen (§ 50 VgV)
 
 ## Aufgabe
 Vergabe von Architekten-, Ingenieur-, Rechts-, Wirtschaftspruefer- und sonstigen freiberuflichen Leistungen vergaberechts- und honorarrechtskonform aufsetzen oder pruefen. Schluesselfrage: Welches Verfahren, wie Honorar in der Wertung beruecksichtigen?
@@ -605,7 +605,7 @@ EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.
 
 **Fokus:** Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
-# Inhouse und interkommunale Zusammenarbeit
+### Inhouse und interkommunale Zusammenarbeit
 
 ## Aufgabe
 Inhouse-Geschaeft oder horizontale interkommunale Zusammenarbeit als Ausnahme von der Ausschreibungspflicht pruefen. Fehlt eine Ausnahme, droht De-facto-Vergabe und § 135 GWB-Unwirksamkeit.

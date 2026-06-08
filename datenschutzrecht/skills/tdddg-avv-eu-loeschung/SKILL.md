@@ -31,7 +31,7 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 
 **Fokus:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
+### Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -77,7 +77,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz für den internen EU-Raum.
 
-# EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)
+### EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)
 
 ## Zweck / Purpose
 
@@ -166,7 +166,7 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 
 **Fokus:** Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g DSGVO. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Logfile-Behandlung. Output: Loeschkonzept-Klausel und Loeschprotokoll-Muster.
 
-# Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO
+### Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO
 
 ## Zweck / Purpose
 
@@ -266,7 +266,7 @@ Klausel zu Loeschung und Rueckgabe:
 
 **Fokus:** Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
+### Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -320,7 +320,7 @@ SCC bringen Standardisierung, aber starre Klauseln. Bei sensiblen Daten oder hoh
 
 **Fokus:** Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln.
 
-# Standardvertragsklauseln-SCC-Paket
+### Standardvertragsklauseln-SCC-Paket
 
 ## Zweck
 

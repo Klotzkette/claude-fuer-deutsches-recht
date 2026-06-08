@@ -29,7 +29,7 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 
 **Fokus:** Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen.
 
-# Die Rechtsantragsstelle als Hilfe für Buerger
+### Die Rechtsantragsstelle als Hilfe für Buerger
 
 ## Worum geht es?
 
@@ -142,7 +142,7 @@ Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG
 
 **Fokus:** Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht.
 
-# Wenn Sie verlieren: Vollstreckung abwehren oder mildern
+### Wenn Sie verlieren: Vollstreckung abwehren oder mildern
 
 ## Worum geht es?
 
@@ -312,7 +312,7 @@ Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen
 
 **Fokus:** Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt wenn Vorschuss eingegangen ist. Berechnung Zahlung Bedeutung für § 167 ZPO und Verjährungs-Hemmung. Was tun bei finanziellen Schwierigkeiten PKH-Antrag.
 
-# Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt
+### Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt
 
 ## Worum geht es?
 

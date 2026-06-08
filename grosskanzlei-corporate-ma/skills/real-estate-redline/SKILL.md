@@ -33,7 +33,7 @@ description: "Real Estate Redline im Corporate/M&A (Großkanzlei-Praxis): prüft
 
 **Fokus:** Purchase Price Adjustment und Earn-out Skill: modelliert Anpassungen, Earn-out-KPIs, Manipulationsschutz, Covenants und Streitbeilegung.
 
-# Purchase Price Adjustment Earn Out
+### Purchase Price Adjustment Earn Out
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Purchase Price Adjustment Earn Out` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Real Estate, Leases und Sites Due Diligence: prueft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet.
 
-# Real Estate Leases Sites
+### Real Estate Leases Sites
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Real Estate Leases Sites` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -205,7 +205,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Redline Comparison Automation für M&A-Dokumente: vergleicht Markups, extrahiert Key Issues, erkennt stille Aenderungen und baut Antwortvorschlaege.
 
-# Redline Comparison Automation
+### Redline Comparison Automation
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Redline Comparison Automation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -291,7 +291,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Register Filings und Implementation Manager: plant Handelsregister, Transparenzregister, Gesellschafterlisten, Umwandlungsanmeldungen, Notarvollzug und Post-Closing-Filings.
 
-# Register Filings Implementation
+### Register Filings Implementation
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Register Filings Implementation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -377,7 +377,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Fusionskontrolle und FDI-Investitionsprüfung für M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prüft ob Kartellrechts-Freigabe oder AWV-Prüfung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, §§ 55 ff. AWV FDI-Prüfung. Prüfraster Umsatzschwellen je Jurisdiktion, Vollzugsverbot bis Freigabe, Multi-Jurisdiction-Filing-Koordination, Sektorrisiken. Output Regulatorische Freigabe-Landkarte mit Filing-Pflichten, Zeitplan und Risikobewertung. Abgrenzung zu Signing-Closing-CPs und zu Transaktionsstruktur.
 
-# Fusionskontrolle und Investitionskontrolle
+### Fusionskontrolle und Investitionskontrolle
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fusionskontrolle und Investitionskontrolle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -478,7 +478,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Fusionskontrolle und Investitionskontrolle
+### Fusionskontrolle und Investitionskontrolle
 
 ## Zweck
 
@@ -586,7 +586,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. §§ 1-93 StaRUG, §§ 217-269 InsO Insolvenzplan, § 18 InsO drohende Zahlungsunfähigkeit. Prüfraster Gläubiger-Klasseneinteilung, Plananforderungen, Abstimmungsquoren, Distressed-M&A-Optionen. Output Restrukturierungs-Optionsvergleich mit Plan-Entwurf und Zeitplan. Abgrenzung zu Distressed-MA und zu Fortbestehensprognose-Plugin.
 
-# StaRUG und Insolvenzplan
+### StaRUG und Insolvenzplan
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `StaRUG und Insolvenzplan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -684,7 +684,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# StaRUG und Insolvenzplan
+### StaRUG und Insolvenzplan
 
 ## Zweck
 
@@ -800,7 +800,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Risk Heatmap Board für Corporate/M&A: visualisiert Risiken nach Wahrscheinlichkeit, Impact, Verhandelbarkeit, Quellenstaerke, Owner und Deal-Blocker-Potential.
 
-# Risk Heatmap Board
+### Risk Heatmap Board
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Risk Heatmap Board` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

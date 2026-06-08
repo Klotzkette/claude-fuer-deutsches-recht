@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# KI-Governance und Berufsrecht
+### KI-Governance und Berufsrecht
 
 ## Zweck
 

@@ -29,7 +29,7 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Sportrecht: prüf
 
 **Fokus:** Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen. Verbandsfrist gegen Sanktion typisch 1-2 Wochen. Normen je nach Routing. Prüfraster Mandanten-Typ Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation bei Spielsperre oder Doping-Verdacht. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-sportrecht-orientierung (Überblick).
 
-# Mandat-Triage Sportrecht
+### Mandat-Triage Sportrecht
 
 ## Zweck
 
@@ -181,7 +181,7 @@ Sportrechts-Mandate sind oft saison- und turnierbezogen — eine Sperre vor eine
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage ordentliches Gericht/Sportgericht, CAS-/DIS-Schiedsantrag, Antidoping: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Sport- und Sponsoringrecht
+### Schriftsatzkern und Substantiierung im Sport- und Sponsoringrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -383,7 +383,7 @@ Vor Versand:
 
 **Fokus:** Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Code: Compliance-Dokumentation und Aktenvermerk
+### Code: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Code: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

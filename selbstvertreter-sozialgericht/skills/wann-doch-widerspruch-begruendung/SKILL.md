@@ -31,7 +31,7 @@ description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialger
 
 **Fokus:** Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe.
 
-# Wann sollten Sie doch einen Anwalt einschalten?
+### Wann sollten Sie doch einen Anwalt einschalten?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wann sollten Sie doch einen Anwalt einschalten?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -173,7 +173,7 @@ Stand: 05/2026. Praxisempfehlung.
 
 **Fokus:** Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen.
 
-# So begruenden Sie Ihren Widerspruch — für Laien
+### So begruenden Sie Ihren Widerspruch — für Laien
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `So begruenden Sie Ihren Widerspruch — für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -323,7 +323,7 @@ Stand: 05/2026. § 24 SGB X garantiert Ihr Anhörungsrecht. § 25 SGB X gibt Ans
 
 **Fokus:** Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt.
 
-# Sich gegen ein negatives Gutachten wehren
+### Sich gegen ein negatives Gutachten wehren
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sich gegen ein negatives Gutachten wehren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -474,7 +474,7 @@ Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
 
 **Fokus:** Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid.
 
-# Widerspruchsbescheid erhalten — was jetzt?
+### Widerspruchsbescheid erhalten — was jetzt?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Widerspruchsbescheid erhalten — was jetzt?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -610,7 +610,7 @@ Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig f�
 
 **Fokus:** Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zuständig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht.
 
-# Wohngeld und Sozialhilfe — wo gehoeren Sie hin?
+### Wohngeld und Sozialhilfe — wo gehoeren Sie hin?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wohngeld und Sozialhilfe — wo gehoeren Sie hin?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

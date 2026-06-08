@@ -29,7 +29,7 @@ description: "VKR Bussgeldverfahren Bussgeld Einspruch im Plugin Fachanwalt Verk
 
 **Fokus:** Bussgeldverfahren Grundzuege: Anhörungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff. OWiG. Strategien Verteidigung, Punkterabatt bei Punkteabbau-Seminar. Pruefraster.
 
-# Verkehrsrecht: Bussgeldverfahren
+### Verkehrsrecht: Bussgeldverfahren
 
 ## Spezialwissen: Verkehrsrecht: Bussgeldverfahren
 - **Normen-/Quellenanker:** OLG, OWiG.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Prüfungslinie für bussgeld einspruch pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Bußgeldbescheid prüfen und Einspruch
+### Bußgeldbescheid prüfen und Einspruch
 
 ## Zweck
 
@@ -381,7 +381,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjährung. Prüfraster: Form- und Verfahrensfehler Verjährung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhörung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Prüfprotokoll und Einspruchsempfehlung. Abgrenzung zu bußgeld-einspruch-prüfen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug.
 
-# Bußgeldbescheid prüfen
+### Bußgeldbescheid prüfen
 
 ## Kaltstart-Rückfragen
 

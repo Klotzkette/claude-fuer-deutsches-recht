@@ -30,7 +30,7 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 
 **Fokus:** Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung.
 
-# EU-Rente-Antrag
+### EU-Rente-Antrag
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `EU-Rente-Antrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 
 **Fokus:** Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht.
 
-# Krankengeld-Aussteuerung
+### Krankengeld-Aussteuerung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankengeld-Aussteuerung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -255,7 +255,7 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 **Fokus:** Prüfungslinie für fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
+### Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -550,7 +550,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. verifizierbare Quellen lizenzpflichtige Literaturquellen Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing).
 
-# Fachanwalt für Sozialrecht — Orientierung
+### Fachanwalt für Sozialrecht — Orientierung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Sozialrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

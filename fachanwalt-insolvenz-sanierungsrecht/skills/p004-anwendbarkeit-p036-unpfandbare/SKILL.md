@@ -31,7 +31,7 @@ description: "Inso P004 Anwendbarkeit P036 Unpfandbare im Insolvenz- und Sanieru
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-insolvenz-sanierungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Red-Team Qualitygate` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -74,7 +74,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 4 InsO — Anwendbarkeit der Zivilprozeßordnung
+### § 4 InsO — Anwendbarkeit der Zivilprozeßordnung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 4 InsO — Anwendbarkeit der Zivilprozeßordnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -126,7 +126,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 36 InsO (Unpfändbare Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 36 InsO — Unpfändbare Gegenstände
+### § 36 InsO — Unpfändbare Gegenstände
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 36 InsO — Unpfändbare Gegenstände` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -180,7 +180,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Antrag Sachwalter Plan Beschluss Aufhebung.
 
-# Schutzschirmverfahren § 270d InsO
+### Schutzschirmverfahren § 270d InsO
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schutzschirmverfahren § 270d InsO` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -442,7 +442,7 @@ A4: Vermoegensverzeichnis (vorlaeufig)
 
 **Fokus:** Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz. Pro Typ: Schwelle, Antragsrecht, Akteure, Ablauf, typische Outcomes. Entscheidungstabelle.
 
-# Insolvenzrecht: Verfahrenstypen
+### Insolvenzrecht: Verfahrenstypen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzrecht: Verfahrenstypen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

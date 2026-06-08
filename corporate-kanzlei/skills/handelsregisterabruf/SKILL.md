@@ -101,7 +101,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Handelsregisterabruf und -analyse
+### Handelsregisterabruf und -analyse
 
 ## Triage — klaere vor Beginn
 

@@ -28,7 +28,7 @@ description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im 
 
 **Fokus:** Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts. Beschreibt informelle Vorklaerungen Datenanforderungen § 5 NKRG Eskalationsstufen Konfliktbewaeltigung Dialog mit dem federfuehrenden Referat und Schnittstelle Bundesministerium der Justiz als institutionelle Anbindung des NKR. Mit Mustertexten für Nachforderungsschreiben und Eskalationsmail.
 
-# NKR-Zusammenarbeit mit Bundesregierung und Ressorts
+### NKR-Zusammenarbeit mit Bundesregierung und Ressorts
 
 ## Worum geht es konkret
 

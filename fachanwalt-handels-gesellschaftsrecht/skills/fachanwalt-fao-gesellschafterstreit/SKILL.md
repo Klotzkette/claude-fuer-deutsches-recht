@@ -29,7 +29,7 @@ description: "FAO Gesellschafterstreit im Plugin Fachanwalt Handels Gesellschaft
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# FAO: Dokumentenmatrix, Lückenliste und Nachforderung
+### FAO: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `FAO: Dokumentenmatrix, Lückenliste und Nachforderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk
+### Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

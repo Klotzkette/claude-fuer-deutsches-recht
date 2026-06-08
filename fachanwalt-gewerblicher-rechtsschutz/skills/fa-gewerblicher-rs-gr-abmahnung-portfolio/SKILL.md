@@ -38,7 +38,7 @@ description: "FA Gewerblicher RS GR Abmahnung Portfolio im Plugin Fachanwalt Gew
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Gewerblicher Rechtsschutz — Allgemein
+### Fachanwalt Gewerblicher Rechtsschutz — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -174,7 +174,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte.
 
-# GR: Abmahnung-Workflow
+### GR: Abmahnung-Workflow
 
 ## Aufgabe
 Dieser Skill steuert den vollständigen Abmahnung-im gewerblichen Rechtsschutz: von der Prüfung der Berechtigung über Inhalt und Fristsetzung bis zur Reaktion auf die Unterlassungserklärung.
@@ -302,7 +302,7 @@ Skill gehört zu `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skills: `faev
 
 **Fokus:** Schutzrechtsportfolio-Pflege: Jahresgebühren-Fristenplan, Verlängerungsfristen Marke/Patent/Design/Gebrauchsmuster, Löschungsrisiken, DPMA-Statusabfrage, Portfolioaudit, Kostenoptimierung und strategische Aufgabe von Schutzrechten.
 
-# Schutzrechtsportfolio-Pflege
+### Schutzrechtsportfolio-Pflege
 
 ## Aufgabe
 Dieser Skill steuert die systematische Pflege eines Schutzrechtsportfolios: Fristen, Gebühren, Verlängerungen, Statusabfragen und strategische Entscheidungen über Beibehaltung oder Aufgabe von Schutzrechten.

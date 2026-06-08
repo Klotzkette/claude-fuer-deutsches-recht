@@ -47,7 +47,7 @@ description: "Inso P159 Verwertung P160 Besonders P161 im Insolvenz- und Sanieru
 
 **Fokus:** § 159 InsO (Verwertung der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 159 InsO — Verwertung der Insolvenzmasse
+### § 159 InsO — Verwertung der Insolvenzmasse
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 159 InsO — Verwertung der Insolvenzmasse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 160 InsO — Besonders bedeutsame Rechtshandlungen
+### § 160 InsO — Besonders bedeutsame Rechtshandlungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 160 InsO — Besonders bedeutsame Rechtshandlungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 161 InsO (Vorläufige Untersagung der Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 161 InsO — Vorläufige Untersagung der Rechtshandlung
+### § 161 InsO — Vorläufige Untersagung der Rechtshandlung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 161 InsO — Vorläufige Untersagung der Rechtshandlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -209,7 +209,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 162 InsO (Betriebsveräußerung an besonders Interessierte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 162 InsO — Betriebsveräußerung an besonders Interessierte
+### § 162 InsO — Betriebsveräußerung an besonders Interessierte
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 162 InsO — Betriebsveräußerung an besonders Interessierte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -263,7 +263,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 163 InsO (Betriebsveräußerung unter Wert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 163 InsO — Betriebsveräußerung unter Wert
+### § 163 InsO — Betriebsveräußerung unter Wert
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 163 InsO — Betriebsveräußerung unter Wert` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -317,7 +317,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 164 InsO (Wirksamkeit der Handlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 164 InsO — Wirksamkeit der Handlung
+### § 164 InsO — Wirksamkeit der Handlung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 164 InsO — Wirksamkeit der Handlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -371,7 +371,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 165 InsO (Verwertung unbeweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 165 InsO — Verwertung unbeweglicher Gegenstände
+### § 165 InsO — Verwertung unbeweglicher Gegenstände
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 165 InsO — Verwertung unbeweglicher Gegenstände` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -425,7 +425,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 166 InsO (Verwertung beweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 166 InsO — Verwertung beweglicher Gegenstände
+### § 166 InsO — Verwertung beweglicher Gegenstände
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 166 InsO — Verwertung beweglicher Gegenstände` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -479,7 +479,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 167 InsO (Unterrichtung des Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 167 InsO — Unterrichtung des Gläubigers
+### § 167 InsO — Unterrichtung des Gläubigers
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 167 InsO — Unterrichtung des Gläubigers` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -533,7 +533,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 168 InsO (Mitteilung der Veräußerungsabsicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 168 InsO — Mitteilung der Veräußerungsabsicht
+### § 168 InsO — Mitteilung der Veräußerungsabsicht
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 168 InsO — Mitteilung der Veräußerungsabsicht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -587,7 +587,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 169 InsO (Schutz des Gläubigers vor einer Verzögerung der Verwertung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 169 InsO — Schutz des Gläubigers vor einer Verzögerung der Verwertung
+### § 169 InsO — Schutz des Gläubigers vor einer Verzögerung der Verwertung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 169 InsO — Schutz des Gläubigers vor einer Verzögerung der Verwertung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -641,7 +641,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 170 InsO (Verteilung des Erlöses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 170 InsO — Verteilung des Erlöses
+### § 170 InsO — Verteilung des Erlöses
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 170 InsO — Verteilung des Erlöses` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -695,7 +695,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 171 InsO (Berechnung des Kostenbeitrags) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 171 InsO — Berechnung des Kostenbeitrags
+### § 171 InsO — Berechnung des Kostenbeitrags
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 171 InsO — Berechnung des Kostenbeitrags` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -749,7 +749,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 172 InsO (Sonstige Verwendung beweglicher Sachen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 172 InsO — Sonstige Verwendung beweglicher Sachen
+### § 172 InsO — Sonstige Verwendung beweglicher Sachen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 172 InsO — Sonstige Verwendung beweglicher Sachen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -803,7 +803,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 173 InsO (Verwertung durch den Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 173 InsO — Verwertung durch den Gläubiger
+### § 173 InsO — Verwertung durch den Gläubiger
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 173 InsO — Verwertung durch den Gläubiger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -857,7 +857,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 174 InsO (Anmeldung der Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 174 InsO — Anmeldung der Forderungen
+### § 174 InsO — Anmeldung der Forderungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 174 InsO — Anmeldung der Forderungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -911,7 +911,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 175 InsO (Tabelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 175 InsO — Tabelle
+### § 175 InsO — Tabelle
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 175 InsO — Tabelle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -965,7 +965,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 176 InsO (Verlauf des Prüfungstermins) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 176 InsO — Verlauf des Prüfungstermins
+### § 176 InsO — Verlauf des Prüfungstermins
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 176 InsO — Verlauf des Prüfungstermins` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1019,7 +1019,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 177 InsO (Nachträgliche Anmeldungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 177 InsO — Nachträgliche Anmeldungen
+### § 177 InsO — Nachträgliche Anmeldungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 177 InsO — Nachträgliche Anmeldungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1073,7 +1073,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 178 InsO (Voraussetzungen und Wirkungen der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 178 InsO — Voraussetzungen und Wirkungen der Feststellung
+### § 178 InsO — Voraussetzungen und Wirkungen der Feststellung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 178 InsO — Voraussetzungen und Wirkungen der Feststellung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1127,7 +1127,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 179 InsO (Streitige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 179 InsO — Streitige Forderungen
+### § 179 InsO — Streitige Forderungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 179 InsO — Streitige Forderungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Urhg im Plugin Fachanwalt Urheber Medienrecht: pr체ft konkret Schn
 
 **Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Schnittstellen: Zahlen, Schwellenwerte und Berechnung
+### Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -103,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Urhg: Dokumentenmatrix, L체ckenliste und Nachforderung im Plugin fachanwalt urheber medienrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Urhg: Dokumentenmatrix, L체ckenliste und Nachforderung
+### Urhg: Dokumentenmatrix, L체ckenliste und Nachforderung
 
 ## Spezialwissen: Urhg: Dokumentenmatrix, L체ckenliste und Nachforderung
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

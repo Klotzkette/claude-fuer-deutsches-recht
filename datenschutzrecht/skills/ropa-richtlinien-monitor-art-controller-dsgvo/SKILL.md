@@ -31,7 +31,7 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 
 **Fokus:** Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung.
 
-# Policy-Monitor – Drift-Monitoring Datenschutzerklärung
+### Policy-Monitor – Drift-Monitoring Datenschutzerklärung
 
 ## Zweck
 
@@ -204,7 +204,7 @@ Verantwortlich: [PERSON/ROLLE]
 
 **Fokus:** Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel für Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage für Kanzleien und Unternehmen.
 
-# RoPA-Vorlage Verantwortlicher (Controller) – Deutsch
+### RoPA-Vorlage Verantwortlicher (Controller) – Deutsch
 
 ## Zweck
 
@@ -308,7 +308,7 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 
 **Fokus:** Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA).
 
-# Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
+### Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
 
 ## Zweck
 
@@ -434,7 +434,7 @@ Konkrete Vorlagen liefern die Skills:
 
 **Fokus:** RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. 9 DSGVO (Gesundheit, biometrische Daten, Religion, Gewerkschaftszugehoerigkeit), bei Beschaeftigtendaten § 26 BDSG und strafrechtlichen Verurteilungen Art. 10 DSGVO. Erhoehte Anforderungen an Zweckbestimmung, Erforderlichkeit, Rechtsgrundlage und TOMs.
 
-# RoPA bei besonderen Datenkategorien – Art. 9 DSGVO, § 26 BDSG, Art. 10 DSGVO
+### RoPA bei besonderen Datenkategorien – Art. 9 DSGVO, § 26 BDSG, Art. 10 DSGVO
 
 ## Zweck
 
@@ -544,7 +544,7 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 
 **Fokus:** Full English-language template for the Records of Processing Activities (RoPA) of the controller under Article 30(1) GDPR. Seven mandatory contents, cover sheet, three worked examples (HR, client files, CRM with US sub-processor), and a versioning footer. Suitable for German law firms with international clients.
 
-# Records of Processing Activities (RoPA) – Controller Template (English)
+### Records of Processing Activities (RoPA) – Controller Template (English)
 
 ## Purpose
 

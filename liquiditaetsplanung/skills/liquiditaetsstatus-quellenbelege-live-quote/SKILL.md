@@ -29,7 +29,7 @@ description: "Liquiditaetsstatus Quellenbelege Live Quote im Plugin Liquiditaets
 
 **Fokus:** Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Liquiditätsstatus nur aus belastbaren Quellenbelegen
+### Liquiditätsstatus nur aus belastbaren Quellenbelegen
 
 ## Fachkern: Liquiditätsstatus nur aus belastbaren Quellenbelegen
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -72,7 +72,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Live: Mandantenkommunikation und Entscheidungsvorlage
+### Live: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Fachkern: Live: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Quote: Verhandlung, Vergleich und Eskalation im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Quote: Verhandlung, Vergleich und Eskalation
+### Quote: Verhandlung, Vergleich und Eskalation
 
 ## Fachkern: Quote: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

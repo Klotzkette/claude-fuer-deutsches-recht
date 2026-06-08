@@ -31,7 +31,7 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 
 **Fokus:** Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt.
 
-# Folgenorientierte Auslegung: Methodik und empirische Anforderungen
+### Folgenorientierte Auslegung: Methodik und empirische Anforderungen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Folgenorientierte Auslegung: Methodik und empirische Anforderungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung.
 
-# Formale Legalität vs. Einzelfallgerechtigkeit
+### Formale Legalität vs. Einzelfallgerechtigkeit
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Formale Legalität vs. Einzelfallgerechtigkeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Erstelle eine Matrix `Formaler Befund / Härte / Normanker / Kompetenz / Verallg
 
 **Fokus:** Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die verfassungsrechtlich gebotene Rückbindung an demokratisch legitimierte Normen verletzen.
 
-# Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll
+### Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -252,7 +252,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf den Gesetzgeberwillen und unzulässiger Materialbindung liegt. Geeignet für Fälle mit strittiger historischer Auslegung.
 
-# Gesetzgeberwille und Materialien: Methodische Disziplin
+### Gesetzgeberwille und Materialien: Methodische Disziplin
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesetzgeberwille und Materialien: Methodische Disziplin` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -341,7 +341,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt zwischen gesetzgeberischer, richterlicher und wissenschaftlicher Rechtsbildung unterschieden wird.
 
-# Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung
+### Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

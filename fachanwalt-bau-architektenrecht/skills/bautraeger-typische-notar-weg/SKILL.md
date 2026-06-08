@@ -30,7 +30,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 **Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klaerung.
 
-# Bautraeger Typische Notar Fehler Checkliste
+### Bautraeger Typische Notar Fehler Checkliste
 
 ## Typische Notar-Fehler
 
@@ -75,7 +75,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 **Fokus:** WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster.
 
-# Bautraeger Weg Abgeschlossenheitsbescheinigung
+### Bautraeger Weg Abgeschlossenheitsbescheinigung
 
 ## Norm
 
@@ -107,7 +107,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 **Fokus:** WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Pruefraster.
 
-# Bautraeger Weg Erstverwalter Bestellung
+### Bautraeger Weg Erstverwalter Bestellung
 
 ## Norm
 
@@ -144,7 +144,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 
 **Fokus:** WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster.
 
-# Bautraeger Weg Gemeinschaftsordnung Pruefen
+### Bautraeger Weg Gemeinschaftsordnung Pruefen
 
 ## Norm
 

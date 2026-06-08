@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine
+### Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Sachversicherung: Verhandlung, Vergleich und Eskalation
+### Sachversicherung: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Sachversicherung: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Schnittstelle: Zahlen, Schwellenwerte und Berechnung
+### Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** VVG, VAG.

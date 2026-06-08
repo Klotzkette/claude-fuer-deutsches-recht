@@ -30,7 +30,7 @@ description: "Mehrere Verstoesse Milderung Durch im Datenschutz-Sanktionsverfahr
 
 **Fokus:** Mehrere Verstöße und Art. 83 Abs. 3: Mehrfachverstöße aus derselben Verarbeitung und Höchstgrenze nach Art. 83 Abs. 3 prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Mehrere Verstöße und Art. 83 Abs. 3
+### Mehrere Verstöße und Art. 83 Abs. 3
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Milderung durch Compliance vor dem Vorfall: Vorhandene Schulungen, DSFA, AVV, Audits und technische Tests als konkrete Entlastung belegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Milderung durch Compliance vor dem Vorfall
+### Milderung durch Compliance vor dem Vorfall
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Milderung durch Remediation nach dem Vorfall: Nachträgliche Maßnahmen, Wirksamkeitsprüfung und Betroffenenschutz für Art.-83-Milderung dokumentieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Milderung durch Remediation nach dem Vorfall
+### Milderung durch Remediation nach dem Vorfall
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Geheimnisse gegenüber Datenschutzaufsicht: Geschäftsgeheimnis, Mandatsgeheimnis, Bankgeheimnis und Sozialgeheimnis bei Behördenvorlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Geheimnisse gegenüber Datenschutzaufsicht
+### Geheimnisse gegenüber Datenschutzaufsicht
 
 ## Aufgabe
 

@@ -47,7 +47,7 @@ description: "Inso P109 Schuldner P110 P111 Verausserung im Insolvenz- und Sanie
 
 **Fokus:** § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 109 InsO — Schuldner als Mieter oder Pächter
+### § 109 InsO — Schuldner als Mieter oder Pächter
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 109 InsO — Schuldner als Mieter oder Pächter` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 110 InsO — Schuldner als Vermieter oder Verpächter
+### § 110 InsO — Schuldner als Vermieter oder Verpächter
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 110 InsO — Schuldner als Vermieter oder Verpächter` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 111 InsO — Veräußerung des Miet- oder Pachtobjekts
+### § 111 InsO — Veräußerung des Miet- oder Pachtobjekts
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 111 InsO — Veräußerung des Miet- oder Pachtobjekts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -209,7 +209,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 112 InsO (Kündigungssperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 112 InsO — Kündigungssperre
+### § 112 InsO — Kündigungssperre
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 112 InsO — Kündigungssperre` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -263,7 +263,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 113 InsO — Kündigung eines Dienstverhältnisses
+### § 113 InsO — Kündigung eines Dienstverhältnisses
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 113 InsO — Kündigung eines Dienstverhältnisses` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -317,7 +317,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 114 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen.
 
-# § 114 InsO — (weggefallen)
+### § 114 InsO — (weggefallen)
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 114 InsO — (weggefallen)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -369,7 +369,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 115 InsO (Erlöschen von Aufträgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 115 InsO — Erlöschen von Aufträgen
+### § 115 InsO — Erlöschen von Aufträgen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 115 InsO — Erlöschen von Aufträgen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -423,7 +423,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 117 InsO (Erlöschen von Vollmachten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 117 InsO — Erlöschen von Vollmachten
+### § 117 InsO — Erlöschen von Vollmachten
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 117 InsO — Erlöschen von Vollmachten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -477,7 +477,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 118 InsO — Auflösung von Gesellschaften
+### § 118 InsO — Auflösung von Gesellschaften
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 118 InsO — Auflösung von Gesellschaften` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -531,7 +531,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 119 InsO (Unwirksamkeit abweichender Vereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 119 InsO — Unwirksamkeit abweichender Vereinbarungen
+### § 119 InsO — Unwirksamkeit abweichender Vereinbarungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 119 InsO — Unwirksamkeit abweichender Vereinbarungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -585,7 +585,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 120 InsO — Kündigung von Betriebsvereinbarungen
+### § 120 InsO — Kündigung von Betriebsvereinbarungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 120 InsO — Kündigung von Betriebsvereinbarungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -639,7 +639,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 122 InsO (Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 122 InsO — Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung
+### § 122 InsO — Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 122 InsO — Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -693,7 +693,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 123 InsO (Umfang des Sozialplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 123 InsO — Umfang des Sozialplans
+### § 123 InsO — Umfang des Sozialplans
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 123 InsO — Umfang des Sozialplans` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -747,7 +747,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 125 InsO (Interessenausgleich und Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 125 InsO — Interessenausgleich und Kündigungsschutz
+### § 125 InsO — Interessenausgleich und Kündigungsschutz
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 125 InsO — Interessenausgleich und Kündigungsschutz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -801,7 +801,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 127 InsO — Klage des Arbeitnehmers
+### § 127 InsO — Klage des Arbeitnehmers
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 127 InsO — Klage des Arbeitnehmers` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -855,7 +855,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 128 InsO (Betriebsveräußerung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 128 InsO — Betriebsveräußerung
+### § 128 InsO — Betriebsveräußerung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 128 InsO — Betriebsveräußerung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -909,7 +909,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 129 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 129 InsO — Grundsatz
+### § 129 InsO — Grundsatz
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 129 InsO — Grundsatz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -963,7 +963,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 130 InsO (Kongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 130 InsO — Kongruente Deckung
+### § 130 InsO — Kongruente Deckung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 130 InsO — Kongruente Deckung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1017,7 +1017,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 131 InsO (Inkongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 131 InsO — Inkongruente Deckung
+### § 131 InsO — Inkongruente Deckung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 131 InsO — Inkongruente Deckung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1071,7 +1071,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 132 InsO — Unmittelbar nachteilige Rechtshandlungen
+### § 132 InsO — Unmittelbar nachteilige Rechtshandlungen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 132 InsO — Unmittelbar nachteilige Rechtshandlungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1125,7 +1125,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 133 InsO — Vorsätzliche Benachteiligung
+### § 133 InsO — Vorsätzliche Benachteiligung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 133 InsO — Vorsätzliche Benachteiligung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

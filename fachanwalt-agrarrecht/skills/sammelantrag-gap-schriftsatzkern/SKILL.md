@@ -29,7 +29,7 @@ description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Lan
 
 **Fokus:** Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid.
 
-# Sammelantrag GAP — Checkliste
+### Sammelantrag GAP — Checkliste
 
 ## Zweck
 
@@ -264,7 +264,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Agrar-, Forst- und Lebensmittelrecht
+### Schriftsatzkern und Substantiierung im Agrar-, Forst- und Lebensmittelrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -476,7 +476,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

@@ -53,22 +53,22 @@ Konkret zu prüfen:
 **Tonfall:** direkt, respektvoll, eine Information pro Satz
 
 ```
-# Worum geht es?
+### Worum geht es?
 
 [1-2 kurze Saetze. Kein Nebensatz.]
 
-# Was bedeutet das für Sie?
+### Was bedeutet das für Sie?
 
 [Jede Information in einem eigenen Satz.]
 [Aktiv formulieren.]
 
-# Was muessen Sie jetzt tun?
+### Was muessen Sie jetzt tun?
 
 1. [Erste Handlung]
 2. [Zweite Handlung]
 3. [Dritte Handlung]
 
-# Wichtiges Datum
+### Wichtiges Datum
 
 [TAG]. [MONAT] [JAHR]
 
@@ -76,12 +76,12 @@ Das ist die Frist.
 Wenn Sie diese Frist verpassen, dann:
 [Rechtsfolge in einem Satz]
 
-# Schwere Woerter
+### Schwere Woerter
 
 Wort: [FACHBEGRIFF]
 Das bedeutet: [Erklaerung in 1-2 Saetzen]
 
-# Wer kann helfen?
+### Wer kann helfen?
 
 [Name / Stelle / Telefonnummer / Adresse]
 ```
@@ -134,29 +134,29 @@ Bitte prüfen Sie den Bescheid noch einmal.
 ## Empfohlene Form
 
 ```markdown
-# Worum geht es?
+### Worum geht es?
 
 ...
 
-# Was bedeutet das für Sie?
+### Was bedeutet das für Sie?
 
 ...
 
-# Was müssen Sie jetzt tun?
+### Was müssen Sie jetzt tun?
 
 1. ...
 2. ...
 3. ...
 
-# Wichtiges Datum
+### Wichtiges Datum
 
 ...
 
-# Schwere Wörter
+### Schwere Wörter
 
 ...
 
-# Wer kann helfen?
+### Wer kann helfen?
 
 ...
 ```

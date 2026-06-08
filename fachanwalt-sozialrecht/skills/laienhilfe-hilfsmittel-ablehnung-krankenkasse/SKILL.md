@@ -30,7 +30,7 @@ description: "Laienhilfe Hilfsmittel Ablehnung Krankenkasse im Plugin Fachanwalt
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Ablehnung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Hilfsmittel Ablehnung
+### Laienhilfe: Hilfsmittel Ablehnung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Hilfsmittel Ablehnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -116,7 +116,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Hilfsmittel Krankenkasse
+### Laienhilfe: Hilfsmittel Krankenkasse
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Hilfsmittel Krankenkasse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -195,7 +195,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Kdu Miete Heizung
+### Laienhilfe: Kdu Miete Heizung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Kdu Miete Heizung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -275,7 +275,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Kinder Jugendhilfe Abgrenzung
+### Laienhilfe: Kinder Jugendhilfe Abgrenzung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Kinder Jugendhilfe Abgrenzung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

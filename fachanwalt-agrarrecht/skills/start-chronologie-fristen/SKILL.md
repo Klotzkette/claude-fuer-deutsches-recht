@@ -38,7 +38,7 @@ description: "Start Chronologie Fristen im Agrarrecht: prüft konkret Einstieg, 
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Agrarrecht — Allgemein
+### Fachanwalt Agrarrecht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -176,7 +176,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-agrarrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-agrarrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
@@ -211,7 +211,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-agrarrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Aufgabe
 Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fachanwalt-agrarrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..

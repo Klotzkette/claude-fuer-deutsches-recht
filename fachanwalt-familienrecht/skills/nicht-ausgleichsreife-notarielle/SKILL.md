@@ -31,7 +31,7 @@ description: "Nicht Ausgleichsreife Notarielle im Plugin Fachanwalt Familienrech
 
 **Fokus:** Nicht ausgleichsreife Anrechte § 19 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Nicht ausgleichsreife Anrechte § 19 VersAusglG
+### Nicht ausgleichsreife Anrechte § 19 VersAusglG
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Nicht ausgleichsreife Anrechte § 19 VersAusglG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Notarielle Scheidungsfolgenvereinbarung VA: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Notarielle Scheidungsfolgenvereinbarung VA
+### Notarielle Scheidungsfolgenvereinbarung VA
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Notarielle Scheidungsfolgenvereinbarung VA` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -133,7 +133,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Öffentlicher Dienst Zusatzversorgung VBL: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Öffentlicher Dienst Zusatzversorgung VBL
+### Öffentlicher Dienst Zusatzversorgung VBL
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Öffentlicher Dienst Zusatzversorgung VBL` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -184,7 +184,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Pensionszusage Bewertung Insolvenzrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Pensionszusage Bewertung Insolvenzrisiko
+### Pensionszusage Bewertung Insolvenzrisiko
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pensionszusage Bewertung Insolvenzrisiko` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -235,7 +235,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Private Rentenversicherung Kapitalwahlrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Private Rentenversicherung Kapitalwahlrecht
+### Private Rentenversicherung Kapitalwahlrecht
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Private Rentenversicherung Kapitalwahlrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

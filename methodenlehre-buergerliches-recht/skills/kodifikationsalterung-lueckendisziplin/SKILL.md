@@ -31,7 +31,7 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 
 **Fokus:** Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist.
 
-# Kodifikationsalterung und Lückendisziplin
+### Kodifikationsalterung und Lückendisziplin
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kodifikationsalterung und Lückendisziplin` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen.
 
-# Konservative Methodenkritik: Gesetzesbindung und Texttreue
+### Konservative Methodenkritik: Gesetzesbindung und Texttreue
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Konservative Methodenkritik: Gesetzesbindung und Texttreue` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -208,7 +208,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wird, welche Fehlertypen bei Abwägungen rügbar sind und wie die Grenze zwischen zulässiger Überprüfung und unzulässiger Ersatzabwägung verläuft.
 
-# Kontrolle von Abwägungsentscheidungen
+### Kontrolle von Abwägungsentscheidungen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kontrolle von Abwägungsentscheidungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -296,7 +296,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Systemdenken. Recht als Politik mit anderen Mitteln. Anwendung als kritische Aussensicht auf das deutsche Zivilrecht und seine Wertungsjurisprudenz. Vergleich mit deutscher Tradition.
 
-# American Legal Realism und Critical Legal Studies
+### American Legal Realism und Critical Legal Studies
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `American Legal Realism und Critical Legal Studies` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -441,7 +441,7 @@ Stand: Mai 2026.
 
 **Fokus:** Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent.
 
-# Legalitätsqualität der Auslegung
+### Legalitätsqualität der Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legalitätsqualität der Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

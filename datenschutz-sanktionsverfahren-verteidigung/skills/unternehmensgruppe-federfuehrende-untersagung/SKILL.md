@@ -30,7 +30,7 @@ description: "Unternehmensgruppe Federfuehrende Untersagung im Datenschutz-Sankt
 
 **Fokus:** Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Unternehmensgruppe und federführende Aufsicht
+### Unternehmensgruppe und federführende Aufsicht
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Untersagung und Verarbeitungsstopp: Vorläufige oder endgültige Beschränkung einer Verarbeitung mit Eilrechtsschutz und milderen Mitteln angreifen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Untersagung und Verarbeitungsstopp
+### Untersagung und Verarbeitungsstopp
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Verhältnismäßigkeit und Existenzgefahr: Liquidität, Eigenkapital, Insolvenznähe, Arbeitsplätze und Ratenzahlung gegen Abschreckung abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Verhältnismäßigkeit und Existenzgefahr
+### Verhältnismäßigkeit und Existenzgefahr
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Verhältnismäßigkeit der Aufsichtsmaßnahme: Datenschutzgewinn, Betriebsfolgen, Grundrechte, mildere Mittel und Angemessenheit abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Verhältnismäßigkeit der Aufsichtsmaßnahme
+### Verhältnismäßigkeit der Aufsichtsmaßnahme
 
 ## Aufgabe
 

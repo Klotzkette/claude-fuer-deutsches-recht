@@ -30,7 +30,7 @@ description: "Fristenzentrale Zustellung Fristverlaengerung im Datenschutz-Sankt
 
 **Fokus:** Fristenzentrale Zustellung und Wiedervorlage: Zustellung, Bekanntgabe, Rechtsbehelfsbelehrung, Einspruchsfrist, Behördenfrist und gerichtliche Eilfrist absichern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Fristenzentrale Zustellung und Wiedervorlage
+### Fristenzentrale Zustellung und Wiedervorlage
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Fristverlängerung gegenüber Aufsicht: Fristverlängerung und Teilantwort beantragen, ohne Verzögerung oder Pflichtverletzung einzuräumen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Fristverlängerung gegenüber Aufsicht
+### Fristverlängerung gegenüber Aufsicht
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** GRCh-Verfahrensgrundrechte: Art. 47/48/50/52 GRCh für Verteidigungsrechte, Rechtsschutz und Verhältnismäßigkeit nutzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# GRCh-Verfahrensgrundrechte
+### GRCh-Verfahrensgrundrechte
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** KI-Tools im Sanktionsverfahren: KI-Aktenauswertung mit Pseudonymisierung, Mandatsgeheimnis, Anbieterprüfung und Quellenkontrolle freigeben. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# KI-Tools im Sanktionsverfahren
+### KI-Tools im Sanktionsverfahren
 
 ## Aufgabe
 

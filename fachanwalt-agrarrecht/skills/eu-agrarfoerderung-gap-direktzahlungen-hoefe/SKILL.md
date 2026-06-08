@@ -29,7 +29,7 @@ description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft
 
 **Fokus:** Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# EU-Agrarförderung
+### EU-Agrarförderung
 
 ## Kaltstart-Rückfragen
 
@@ -142,7 +142,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch.
 
-# Sammelantrag GAP-Direktzahlungen
+### Sammelantrag GAP-Direktzahlungen
 
 ## Zweck
 
@@ -264,7 +264,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit.
 
-# Höfe-Übergabe
+### Höfe-Übergabe
 
 ## Kaltstart-Rückfragen
 

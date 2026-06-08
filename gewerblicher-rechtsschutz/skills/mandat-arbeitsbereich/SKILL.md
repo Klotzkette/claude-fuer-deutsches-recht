@@ -127,7 +127,7 @@ Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Ar
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
 
-# Mandat: [Mandant] — [Kurzbeschreibung]
+### Mandat: [Mandant] — [Kurzbeschreibung]
 
 **Kurzzeichen:** [kurzzeichen]
 **Eröffnet:** [JJJJ-MM-TT]
@@ -169,7 +169,7 @@ Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Ar
 ### Vorlage `verlauf.md`
 
 ```markdown
-# Verlauf: [Mandant] — [Kurzbeschreibung]
+### Verlauf: [Mandant] — [Kurzbeschreibung]
 
 Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
 

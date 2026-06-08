@@ -299,7 +299,7 @@ II. ANWENDBARES RECHT
 
 **Fokus:** Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht.
 
-# IntWR: CISG-Pruefraster
+### IntWR: CISG-Pruefraster
 
 ## Aufgabe
 Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe.
@@ -386,7 +386,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster für Rechtswahl und gewoehnlicher Aufenthalt.
 
-# IntWR: Rom I + II Leitfaden
+### IntWR: Rom I + II Leitfaden
 
 ## Aufgabe
 Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Pruefraster für Rechtswahl und gewoehnlichen Aufenthalt.

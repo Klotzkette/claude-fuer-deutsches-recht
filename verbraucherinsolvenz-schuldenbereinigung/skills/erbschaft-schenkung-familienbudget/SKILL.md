@@ -29,7 +29,7 @@ description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz 
 
 **Fokus:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
+### Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
 
 ## Fachkern: Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO §§ 35, 295; BGB Erbrecht. Entscheidend ist immer der aktuelle Normstand d
 
 **Fokus:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
+### Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
 
 ## Fachkern: Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ ZPO Pfändungsfreigrenzen; SGB-Schnittstellen. Entscheidend ist immer der aktuel
 
 **Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
+### Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
 
 ## Fachkern: Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

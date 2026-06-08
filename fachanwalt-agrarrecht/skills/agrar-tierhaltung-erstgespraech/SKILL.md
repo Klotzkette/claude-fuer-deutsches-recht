@@ -29,7 +29,7 @@ description: "Agrar Tierhaltung Erstgespraech im Agrarrecht: prüft konkret Spez
 
 **Fokus:** Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung. Klage gegen Bescheid des Veterinaeramts, Bestandsschutz, Umweltvertraeglichkeitspruefung. Pruefraster und Mustertexte.
 
-# Agrar: Tierhaltung-Genehmigung
+### Agrar: Tierhaltung-Genehmigung
 
 ## Spezialwissen: Agrar: Tierhaltung-Genehmigung
 - **Normen-/Quellenanker:** TierSchG, TierSchNutztV, BImSchG.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Agrar-, Forst- und Lebensmittelrecht
+### Erstgespraech und Mandatsannahme im Agrar-, Forst- und Lebensmittelrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -247,7 +247,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhörung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG.
 
-# Düngerechtliche Ordnungswidrigkeit
+### Düngerechtliche Ordnungswidrigkeit
 
 ## Kaltstart-Rückfragen
 

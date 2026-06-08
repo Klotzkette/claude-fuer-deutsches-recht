@@ -31,7 +31,7 @@ description: "Datenschutz Ropa ART Processor Anwendungsfall Triage Joint im Date
 
 **Fokus:** Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele für Hosting, Steuerberatung, Lohnbuchhaltung.
 
-# RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch
+### RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch
 
 ## Zweck
 
@@ -138,7 +138,7 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 
 **Fokus:** Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills.
 
-# Datenschutz-Triage neuer Verarbeitungsvorgänge
+### Datenschutz-Triage neuer Verarbeitungsvorgänge
 
 ## Zweck
 
@@ -372,7 +372,7 @@ Verantwortlich: [PERSON / ROLLE]
 
 **Fokus:** Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deutscher Vertragssprache. Behandelt Aufgabenverteilung Anlaufstelle für Betroffene Transparenz Innenregress und EuGH-Rechtsprechung zu Fanpages Like-Button und Zeugen Jehovas. Output: deutscher Klauselsatz für Joint-Controller-Vereinbarung.
 
-# Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung
+### Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung
 
 ## Zweck / Purpose
 
@@ -512,7 +512,7 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 
 **Fokus:** Grundtatbestand der Auftragsverarbeitung nach Art. 28 DSGVO. Klaert Rollenzuordnung Verantwortlicher gegen Auftragsverarbeiter wenn ein Dienstleister personenbezogene Daten im fremden Auftrag verarbeitet. Wann gilt Art. 28 wann Art. 26 wann Funktionsuebertragung. Output: Pruefvermerk zur Rollenzuordnung und AVV-Pflicht.
 
-# Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand
+### Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand
 
 ## Zweck / Purpose
 
@@ -612,7 +612,7 @@ Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
 
 **Fokus:** Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Pruefraster.
 
-# AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste
+### AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste
 
 ## Zweck / Purpose
 

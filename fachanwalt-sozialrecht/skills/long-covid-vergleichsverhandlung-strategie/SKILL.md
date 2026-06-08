@@ -28,7 +28,7 @@ description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt So
 
 **Fokus:** Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychisch-somatischen Abgrenzungen durch Krankenversicherung, Rentenversicherung, Versorgungsamt und Sozialgericht.
 
-# Long Covid/ME-CFS: Erwerbsminderung, GdB, Reha, Krankengeld und Beweis
+### Long Covid/ME-CFS: Erwerbsminderung, GdB, Reha, Krankengeld und Beweis
 
 ## Einsatz
 Für Fälle, in denen Behörden Long Covid als „unklar“, „psychisch“, „subjektiv“ oder „nicht objektivierbar“ abtun oder Leistungen wegen fehlender Belastbarkeit, Erwerbsminderung, GdB, Pflegegrad oder Reha streitig sind.
@@ -50,7 +50,7 @@ Erzeuge eine Funktionsmatrix `Symptom / objektivierbarer Befund / Alltagsfolge /
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Sozialrecht (SGB I-XIV)
+### Vergleichsverhandlung und Einigung im Sozialrecht (SGB I-XIV)
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Sozialrecht (SGB I-XIV)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

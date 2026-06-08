@@ -36,7 +36,7 @@ description: "DSV Sanktion Beschwerde Einspruch Owig im Datenschutzrecht: prüft
 
 **Fokus:** Datenschutzrecht-Brückenskill: Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Beschwerde eines Betroffenen als Auslöser
+### Beschwerde eines Betroffenen als Auslöser
 
 ## Aufgabe
 
@@ -97,7 +97,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Einspruch § 67 OWiG Frist und Form: Zweiwochenfrist sichern und fristwahrenden Einspruch ohne unnötige Begründung einlegen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Einspruch § 67 OWiG Frist und Form
+### Einspruch § 67 OWiG Frist und Form
 
 ## Aufgabe
 
@@ -158,7 +158,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Fristenzentrale Zustellung und Wiedervorlage: Zustellung, Bekanntgabe, Rechtsbehelfsbelehrung, Einspruchsfrist, Behördenfrist und gerichtliche Eilfrist absichern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Fristenzentrale Zustellung und Wiedervorlage
+### Fristenzentrale Zustellung und Wiedervorlage
 
 ## Aufgabe
 
@@ -219,7 +219,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Fristverlängerung gegenüber Aufsicht: Fristverlängerung und Teilantwort beantragen, ohne Verzögerung oder Pflichtverletzung einzuräumen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Fristverlängerung gegenüber Aufsicht
+### Fristverlängerung gegenüber Aufsicht
 
 ## Aufgabe
 
@@ -280,7 +280,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Parallelverfahren Art. 82 DSGVO und Massenklagen: Bußgeldverteidigung mit Schadensersatzabwehr, Massenklagen und Anerkenntnisrisiken abstimmen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Parallelverfahren Art. 82 DSGVO und Massenklagen
+### Parallelverfahren Art. 82 DSGVO und Massenklagen
 
 ## Aufgabe
 
@@ -341,7 +341,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Parallelverfahren § 42 BDSG und Strafrecht: Strafrechtliche Datenschutzrisiken, Durchsuchung, Aussageverhalten und Verteidigerkoordination erkennen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Parallelverfahren § 42 BDSG und Strafrecht
+### Parallelverfahren § 42 BDSG und Strafrecht
 
 ## Aufgabe
 
@@ -402,7 +402,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs, Verschlüsselung, Löschung, Zugriffen und Datenabfluss gerichtsfest vorbereiten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# IT-Forensik und Sachverständige
+### IT-Forensik und Sachverständige
 
 ## Aufgabe
 
@@ -463,7 +463,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Wiedereinsetzung nach Fristversäumnis: Versäumte Einspruchs- oder Rechtsmittelfristen mit Zustellungs- und Büroorganisationsprüfung retten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Wiedereinsetzung nach Fristversäumnis
+### Wiedereinsetzung nach Fristversäumnis
 
 ## Aufgabe
 
@@ -524,7 +524,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Zuständigkeit Amtsgericht Landgericht § 41 BDSG: Prüfen, ob wegen Geldbuße über 100.000 EUR das Landgericht statt Amtsgericht entscheidet. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Zuständigkeit Amtsgericht Landgericht § 41 BDSG
+### Zuständigkeit Amtsgericht Landgericht § 41 BDSG
 
 ## Aufgabe
 
@@ -585,7 +585,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Zwischenverfahren § 69 OWiG: Nach Einspruch Rücknahme, weitere Ermittlungen oder Vorlage über Staatsanwaltschaft an das Gericht taktisch nutzen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Zwischenverfahren § 69 OWiG
+### Zwischenverfahren § 69 OWiG
 
 ## Aufgabe
 

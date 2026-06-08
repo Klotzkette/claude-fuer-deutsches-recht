@@ -211,7 +211,7 @@ Schreiben Sie das Profil nach folgender Struktur (Prosatext mit Tabellen,
 kein YAML, direkt editierbar):
 
 ```markdown
-# Kanzleiprofil Vertragsrecht
+### Kanzleiprofil Vertragsrecht
 
 *Erstellt vom Erstgespräch am [DATUM]. Diese Datei direkt bearbeiten —
 jede Skill des Plugins liest sie vor jeder Aktion. Korrekturen hier

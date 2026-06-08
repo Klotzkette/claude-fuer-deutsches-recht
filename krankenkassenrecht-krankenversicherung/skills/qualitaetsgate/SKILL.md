@@ -28,7 +28,7 @@ description: "KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung im K
 
 **Fokus:** Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen.
 
-# Qualitätsgate: Krankenversicherungsakte
+### Qualitätsgate: Krankenversicherungsakte
 
 ## Skill-Zweck
 

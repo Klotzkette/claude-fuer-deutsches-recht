@@ -30,7 +30,7 @@ description: "Kueschk Annahmeverzug Lohnsteuer im Plugin Arbeitsrecht: prüft ko
 
 **Fokus:** Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung.
 
-# Annahmeverzugslöhne und Zwischenverdienst
+### Annahmeverzugslöhne und Zwischenverdienst
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Annahmeverzugslöhne und Zwischenverdienst` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -142,7 +142,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist.
 
-# Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit
+### Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -308,7 +308,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 **Fokus:** Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhörung bei betriebsrat-anhoerung.
 
-# Abmahnung im Arbeitsrecht
+### Abmahnung im Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abmahnung im Arbeitsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -489,7 +489,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+AZR+782%2F11
 
 **Fokus:** AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs. 4 AGG (zwei Monate). Stellenausschreibung, Auswahlverfahren, Beschäftigungsbedingungen, Beförderung, Entlohnung, Kündigung.
 
-# AGG-Prüfung bei Bewerbern und Beschäftigten
+### AGG-Prüfung bei Bewerbern und Beschäftigten
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AGG-Prüfung bei Bewerbern und Beschäftigten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 
 **Fokus:** Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist.
 
-# Sammeln Sie Beweise — bevor Sie klagen
+### Sammeln Sie Beweise — bevor Sie klagen
 
 ## Worum geht es?
 
@@ -191,7 +191,7 @@ Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
 
 **Fokus:** PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools.
 
-# PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App
+### PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App
 
 ## Worum geht es?
 
@@ -350,7 +350,7 @@ Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vo
 
 **Fokus:** Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch auf Dolmetscher Verfahrenssprache deutsch Kosten Eil-Antrag bei Sprachbarriere. Praktischer Leitfaden für Selbstvertreter mit nicht-Deutsch als Muttersprache.
 
-# Dolmetscher im Verfahren
+### Dolmetscher im Verfahren
 
 ## Worum geht es?
 

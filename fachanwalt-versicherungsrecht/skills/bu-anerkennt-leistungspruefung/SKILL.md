@@ -29,7 +29,7 @@ description: "Versr BU Anerkennt Leistungspruefung im Plugin Fachanwalt Versiche
 
 **Fokus:** Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU. Beispielfall Streit ueber Anerkenntnis und Wiedereinsetzung der Leistung.
 
-# Versr: BU-Anerkennt
+### Versr: BU-Anerkennt
 
 ## Spezialwissen: Versr: BU-Anerkennt
 - **Normen-/Quellenanker:** BU.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall BU-Leistungspruefung: Berufsbeschreibung, 50-Prozent-Grenze, Mitwirkungspflichten, Nachpruefungsverfahren. Pruefraster für Versicherungsnehmer mit psychischer und somatischer Erkrankung.
 
-# VersR: BU-Leistungspruefung
+### VersR: BU-Leistungspruefung
 
 ## Spezialwissen: VersR: BU-Leistungspruefung
 - **Normen-/Quellenanker:** BU.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** BU-Anerkenntnis, Nachprüfung und Leistungseinstellung: Vergleichszustand, Gesundheitsverbesserung, Berufswechsel, Mitwirkung und Prozessstrategie.
 
-# FA Versicherungsrecht: BU-Nachprüfung
+### FA Versicherungsrecht: BU-Nachprüfung
 
 ## Einsatz
 

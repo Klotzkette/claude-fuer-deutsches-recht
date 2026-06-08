@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Embargo: Fristennotiz und nächster Schritt im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Embargo: Fristennotiz und nächster Schritt
+### Embargo: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Embargo: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG, UNCITR.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schiedsverfahren: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schiedsverfahren: Behörden-, Gerichts- oder Registerweg
+### Schiedsverfahren: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Schiedsverfahren: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

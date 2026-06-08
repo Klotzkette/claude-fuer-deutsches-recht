@@ -29,7 +29,7 @@ description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am A
 
 **Fokus:** Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt eine Antwort Sachverhaltsstellung Bestreiten Einreden Beweisanbietung Antrag auf Klage-Abweisung. Strukturierte Vorgehensweise für den Beklagten ohne Anwalt.
 
-# Klageerwiderung: jeden Punkt der Klage beantworten
+### Klageerwiderung: jeden Punkt der Klage beantworten
 
 ## Worum geht es?
 
@@ -238,7 +238,7 @@ Stand: 05/2026. § 138 ZPO unveraendert.
 
 **Fokus:** Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren.
 
-# Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren
+### Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren
 
 ## Worum geht es?
 
@@ -387,7 +387,7 @@ Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht g
 
 **Fokus:** Bezeichnung Sortierung und Beifuegung von Anlagen zur Klageschrift. K1 K2 K3 für Klaeger B1 B2 B3 für Beklagter. Anlagenverzeichnis Leseführung im Sachvortrag und Vorbereitung der Abschriften für Gericht und Beklagten.
 
-# Anlagen zur Klage richtig bezeichnen
+### Anlagen zur Klage richtig bezeichnen
 
 ## Worum geht es?
 

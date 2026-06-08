@@ -29,7 +29,7 @@ description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesell
 
 **Fokus:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Gesellschaftervertrag: Abschlussprodukt und Übergabe
+### Gesellschaftervertrag: Abschlussprodukt und Übergabe
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftervertrag: Abschlussprodukt und Übergabe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -356,7 +356,7 @@ Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
 
 **Fokus:** Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster für einheitliche Strategie und Pflichtenkollision.
 
-# HGR: Kollektivverteidigung Vorstand
+### HGR: Kollektivverteidigung Vorstand
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HGR: Kollektivverteidigung Vorstand` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

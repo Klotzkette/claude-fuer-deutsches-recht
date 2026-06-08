@@ -31,7 +31,7 @@ description: "Migr Ausweisung Abschiebung Duldung im Migrationsrecht: prüft kon
 
 **Fokus:** Spezialfall Ausweisung und Abschiebung §§ 53 ff. AufenthG: Abwaegung Ausweisungsinteresse vs. Bleibeinteresse, Verhaeltnismaessigkeit Art. 8 EMRK, EuGH Ziebell. Pruefraster für Anhörung und Klage.
 
-# Migr: Ausweisung Abschiebung
+### Migr: Ausweisung Abschiebung
 
 ## Spezialwissen: Migr: Ausweisung Abschiebung
 - **Normen-/Quellenanker:** AufenthG, Art. 8, EMRK.
@@ -80,7 +80,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19d AufenthG Beschaeftigungsduldung, § 25b AufenthG nachhaltige Integration, neues Chancen-Aufenthaltsrecht. Konkret Mandantenpfad.
 
-# Migr: Duldung-Spurwechsel
+### Migr: Duldung-Spurwechsel
 
 ## Spezialwissen: Migr: Duldung-Spurwechsel
 - **Normen-/Quellenanker:** AufenthG.
@@ -128,7 +128,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung. Pruefraster Antrag Einbuergerungsbehoerde.
 
-# Migr: Einbuergerung Reform
+### Migr: Einbuergerung Reform
 
 ## Spezialwissen: Migr: Einbuergerung Reform
 - **Normen-/Quellenanker:** StAG.
@@ -177,7 +177,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschaeftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU. Entscheidungstabelle.
 
-# Migrationsrecht: Zwecke
+### Migrationsrecht: Zwecke
 
 ## Spezialwissen: Migrationsrecht: Zwecke
 - **Normen-/Quellenanker:** EU.
@@ -225,7 +225,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung. Pruefraster und typische Stolpersteine.
 
-# Migr: Fachkraefte-Praxis
+### Migr: Fachkraefte-Praxis
 
 ## Spezialwissen: Migr: Fachkraefte-Praxis
 - **Normen-/Quellenanker:** BA.

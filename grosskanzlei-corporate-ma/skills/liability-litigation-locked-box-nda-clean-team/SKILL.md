@@ -33,7 +33,7 @@ description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (G
 
 **Fokus:** Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjährung und Buyer Protections im SPA.
 
-# Liability Limitations Basket Cap
+### Liability Limitations Basket Cap
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Liability Limitations Basket Cap` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer.
 
-# Litigation Disputes DD
+### Litigation Disputes DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Litigation Disputes DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -205,7 +205,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik.
 
-# Locked Box Completion Accounts
+### Locked Box Completion Accounts
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Locked Box Completion Accounts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -291,7 +291,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Prüfraster Statuskarten-Format, Ampelfarben, Deal-Phasenlayout, Risikokategorien, Owner-Matrix-Darstellung. Output konsistente visuelle Arbeitsoberflaeche für Partner, Counsel, Associate und Mandant. Abgrenzung zu Ausgabe-Versand-Signing für tatsaechlichen Versand und zu Schreibcanvas für inhaltliche Qualitaet.
 
-# Corporate-Cowork-Look
+### Corporate-Cowork-Look
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate-Cowork-Look` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -392,7 +392,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Corporate-Cowork-Look
+### Corporate-Cowork-Look
 
 ## Zweck
 
@@ -465,7 +465,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** MAC, Ordinary Course und Interim Covenants: prueft Signing-to-Closing-Pflichten, Zustimmungsvorbehalte, Notice-Prozesse und Covenant-Verstoesse.
 
-# MAC Ordinary Course Covenants
+### MAC Ordinary Course Covenants
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `MAC Ordinary Course Covenants` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -551,7 +551,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle für M&A-Managementtermine vor.
 
-# Management Presentation Prep
+### Management Presentation Prep
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Management Presentation Prep` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -637,7 +637,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
 
-# NDA Clean Team Protokoll
+### NDA Clean Team Protokoll
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `NDA Clean Team Protokoll` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

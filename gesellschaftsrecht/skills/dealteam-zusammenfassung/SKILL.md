@@ -97,7 +97,7 @@ Nach Erstellung: prüfen, ob neue Vollzugspunkte aufgedeckt wurden, die in der V
 ```
 [VERTRAULICH — ANWALTLICHES ARBEITSERGEBNIS]
 
-# [DEAL-CODE] — Statusbericht — [DATUM]
+### [DEAL-CODE] — Statusbericht — [DATUM]
 
 Transaktion: Erwerb [ZIELGESELLSCHAFT] durch [KAEUFER]; Kaufpreis: [X] EUR;
 Vollzug geplant: [DATUM].
@@ -119,7 +119,7 @@ Empfehlung: [Fortsetzen / Preis anpassen / Klärung einholen / Abbruch erwägen]
 ```
 [VERTRAULICH — ANWALTLICHES ARBEITSERGEBNIS]
 
-# [DEAL-CODE] — Deal-Lead-Briefing — [DATUM]
+### [DEAL-CODE] — Deal-Lead-Briefing — [DATUM]
 
 ## Transaktionsübersicht
 [Parteien, Struktur, Preis, Timeline]

@@ -30,7 +30,7 @@ description: "Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret 
 
 **Fokus:** Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Psychedelika Studie und Therapie
+### Psychedelika Studie und Therapie
 
 ## Fachkern: Psychedelika Studie und Therapie
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Radiologie-KI und Befundfehler: moderner Medizinrechts-Skill für KI-Vorschlag, ärztlicher Befund, Overreliance, Softwareupdate und verpasster Zufallsbefund. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Radiologie-KI und Befundfehler
+### Radiologie-KI und Befundfehler
 
 ## Fachkern: Radiologie-KI und Befundfehler
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -141,7 +141,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Registerdaten Patientensicherheit
+### Registerdaten Patientensicherheit
 
 ## Fachkern: Registerdaten Patientensicherheit
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -196,7 +196,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Robotische Operation
+### Robotische Operation
 
 ## Fachkern: Robotische Operation
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

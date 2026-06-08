@@ -168,7 +168,7 @@ VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
 ⚠️ Prüfer-Hinweis
 [Quellen, gelesen Seiten, gekennzeichnete Punkte]
 
-# Vertrags-Prüfvermerk: [Lieferant] – [Vertragsbezeichnung]
+### Vertrags-Prüfvermerk: [Lieferant] – [Vertragsbezeichnung]
 
 **Seite:** [Auftraggeber / Auftragnehmer]
 **Vertragstyp:** [Werk-/Dienst-/Kaufvertrag]

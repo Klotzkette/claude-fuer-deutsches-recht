@@ -30,7 +30,7 @@ description: "Vergabe Nachpruefung OS Vergabeakte im Plugin Fachanwalt Vergabere
 
 **Fokus:** Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk.
 
-# Vergabe-Nachprüfung — Erfolgs-Aussichten
+### Vergabe-Nachprüfung — Erfolgs-Aussichten
 
 ## Zweck
 
@@ -324,7 +324,7 @@ Datum Memo: [TT.MM.JJJJ]
 
 **Fokus:** Vergabe-OS für Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.
 
-# Vergabe-OS Master-Orchestrator
+### Vergabe-OS Master-Orchestrator
 
 ## Zweck
 
@@ -387,7 +387,7 @@ Kurzbild, Phasenkarte, Fristenampel, Skill-Routing, Arbeitsplan, Mandantennaechs
 
 **Fokus:** Vergabeakte und Dokumentationsvermerk für Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit.
 
-# Vergabeakte und Dokumentationsvermerk
+### Vergabeakte und Dokumentationsvermerk
 
 ## Zweck
 
@@ -450,7 +450,7 @@ Aktenstruktur, Dokumentationsvermerk, Lueckenliste, Haftungsampel.
 
 **Fokus:** Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Mandantenbriefing und Nachterminplan.
 
-# Vergabekammer-Termin Simulation
+### Vergabekammer-Termin Simulation
 
 ## Zweck
 

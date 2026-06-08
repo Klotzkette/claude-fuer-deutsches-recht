@@ -31,7 +31,7 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 
 **Fokus:** Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger.
 
-# Was kostet ein SG-Verfahren wirklich?
+### Was kostet ein SG-Verfahren wirklich?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Was kostet ein SG-Verfahren wirklich?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -171,7 +171,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 **Fokus:** Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster.
 
-# Krankenkassen Arzneimittel 31 Sgb V
+### Krankenkassen Arzneimittel 31 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Arzneimittel 31 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -222,7 +222,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 **Fokus:** Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Pruefraster.
 
-# Krankenkassen Fahrkosten 60 Sgb V
+### Krankenkassen Fahrkosten 60 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Fahrkosten 60 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -274,7 +274,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 **Fokus:** Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen für den Selbstbeschaffungsanspruch. Liefert Pruefraster.
 
-# Krankenkassen Genehmigungsfiktion 13 Sgb V
+### Krankenkassen Genehmigungsfiktion 13 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Genehmigungsfiktion 13 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -328,7 +328,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 **Fokus:** Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhaeltnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage.
 
-# Krankenkassen Haeusliche Krankenpflege 37 Sgb V
+### Krankenkassen Haeusliche Krankenpflege 37 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Haeusliche Krankenpflege 37 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 
 **Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Anlageberatung fehlerhaft
+### Anlageberatung fehlerhaft
 
 ## Kaltstart-Rückfragen
 
@@ -154,7 +154,7 @@ Mit freundlichen Gruessen
 
 **Fokus:** Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung).
 
-# Cybertrading-Anlagebetrug
+### Cybertrading-Anlagebetrug
 
 ## Zweck
 
@@ -422,7 +422,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 **Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Kreditkündigung
+### Kreditkündigung
 
 ## Kaltstart-Rückfragen
 

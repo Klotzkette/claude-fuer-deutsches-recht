@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Werbung: Beweislast, Darlegungslast und Substantiierung im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Werbung: Beweislast, Darlegungslast und Substantiierung
+### Werbung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Werbung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.

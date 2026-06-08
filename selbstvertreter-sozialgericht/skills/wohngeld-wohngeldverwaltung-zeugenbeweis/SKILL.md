@@ -30,7 +30,7 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 **Fokus:** Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster.
 
-# Wohngeld Wohngeldverwaltung
+### Wohngeld Wohngeldverwaltung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wohngeld Wohngeldverwaltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -87,7 +87,7 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 **Fokus:** Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt.
 
-# Zeugen vor dem Sozialgericht
+### Zeugen vor dem Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zeugen vor dem Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -218,7 +218,7 @@ Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigu
 
 **Fokus:** Zugunstenantrag nach § 44 SGB X: Antrag auf Aufhebung eines bestandskraeftigen rechtswidrigen Verwaltungsakts zugunsten des Buergers. Klaert Voraussetzungen Frist Rueckwirkung bis zu 4 Jahre. Skill liefert Antragsvorlage.
 
-# Zugunstenantrag 44 Sgb X Bestandskraft
+### Zugunstenantrag 44 Sgb X Bestandskraft
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugunstenantrag 44 Sgb X Bestandskraft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -268,7 +268,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 **Fokus:** Zulassungs- und Rechtsmittelgrenzen im Sozialgerichtsverfahren: § 144 SGG 750 EUR, laufende Leistungen über ein Jahr, Erstattungsstreitigkeiten 10.000 EUR, Berufungszulassung, Nichtzulassungsbeschwerde, Revision, BSG-Anwaltszwang und Kostenrisiken.
 
-# Zulassungsgrenzen-Check Sozialgericht
+### Zulassungsgrenzen-Check Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zulassungsgrenzen-Check Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

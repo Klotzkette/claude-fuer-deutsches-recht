@@ -29,7 +29,7 @@ description: "Gewerblicher Kanzlei im Plugin Fachanwalt Urheber Medienrecht: pr�
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Gewerblicher: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Gewerblicher: Compliance-Dokumentation und Aktenvermerk
+### Gewerblicher: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Gewerblicher: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -103,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Kanzlei: Formular, Portal und Einreichungslogik
+### Kanzlei: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Kanzlei: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

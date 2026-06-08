@@ -29,7 +29,7 @@ description: "Wochen Liqui Ausgabengruppen Cash im Plugin Liquiditaetsplanung: p
 
 **Fokus:** Wochen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wochen: Fristen, Form, Zuständigkeit und Rechtsweg
+### Wochen: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Fachkern: Wochen: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Ausgabengruppen systematisch erfassen: Personal (Lohn, SV, LSt), Material/Wareneinsatz, Miete, Energie, Versicherungen, Beratungs-/Anwaltskosten, Steuerzahlungen, Investitionen, Zinsen, Tilgung. Vorlage Tabelle.
 
-# Liqui: Ausgabengruppen
+### Liqui: Ausgabengruppen
 
 ## Fachkern: Liqui: Ausgabengruppen
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -116,7 +116,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Cash-Pooling im Konzern: rechtliche Risiken Existenzvernichtung BGH II ZR 78/06, Sanierungstauglichkeit, Pruefung Avale gegen Konzerngesellschaften, Steuerrisiken § 8b KStG. Output: Cash-Pool-Risiko-Memo.
 
-# Cash-Pooling im Konzern
+### Cash-Pooling im Konzern
 
 ## Fachkern: Cash-Pooling im Konzern
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

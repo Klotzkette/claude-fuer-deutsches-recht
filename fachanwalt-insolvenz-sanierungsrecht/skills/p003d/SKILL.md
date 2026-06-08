@@ -28,7 +28,7 @@ description: "Inso P003d im Insolvenz- und Sanierungsrecht im Fachanwalt Insolve
 
 **Fokus:** § 3d InsO (Verweisung an den Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 3d InsO — Verweisung an den Gruppen-Gerichtsstand
+### § 3d InsO — Verweisung an den Gruppen-Gerichtsstand
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 3d InsO — Verweisung an den Gruppen-Gerichtsstand` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

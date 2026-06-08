@@ -29,7 +29,7 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 
 **Fokus:** Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag.
 
-# Welche Norm traegt Ihren Anspruch?
+### Welche Norm traegt Ihren Anspruch?
 
 ## Worum geht es?
 
@@ -168,7 +168,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen.
 
-# Brauche ich vor dem Amtsgericht einen Anwalt?
+### Brauche ich vor dem Amtsgericht einen Anwalt?
 
 ## Worum geht es?
 
@@ -270,7 +270,7 @@ Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsger
 
 **Fokus:** Augenscheinsbeweis nach § 371 ZPO. Inaugenscheinnahme von Sachen am Ort oder im Gericht Fotos Videos als Augenscheins-Objekte. Wann Augenschein sinnvoll ist Bezeichnung im Beweisantrag und Sicherung von veraenderlichen Objekten.
 
-# Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
+### Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
 
 ## Worum geht es?
 

@@ -40,7 +40,7 @@ description: "Anschluss im Datenschutzrecht: prüft konkret Einstieg, Schnelltri
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Datenschutzrecht — Allgemein
+### Datenschutzrecht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -275,7 +275,7 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 
 **Fokus:** Anschluss-Skills Router im Plugin datenschutzrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
 
-# Anschluss-Skills Router
+### Anschluss-Skills Router
 
 ## Aufgabe
 Dieses Modul bearbeitet: Anschluss-Skills Router im Plugin datenschutzrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor..
@@ -310,7 +310,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Chronologie und Belegmatrix im Plugin datenschutzrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin datenschutzrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
@@ -345,7 +345,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristen- und Risikoampel im Plugin datenschutzrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Aufgabe
 Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin datenschutzrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
@@ -392,7 +392,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Mandantenkommunikation im Plugin datenschutzrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin datenschutzrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..

@@ -139,7 +139,7 @@ falls vorhanden.
 ```markdown
 [ARBEITSPRODUKT-HEADER – gemäß Plugin-Konfiguration; Vertraulichkeitsmarkierung beachten]
 
-# Mandat: [Mandant] – [Kurzbeschreibung]
+### Mandat: [Mandant] – [Kurzbeschreibung]
 
 **Slug:** [slug]
 **Eröffnet:** [JJJJ-MM-TT]
@@ -185,7 +185,7 @@ mandatsübergreifender Kontext trotz globaler Aktivierung zulässig ist.]
 ## `verlauf.md`-Initialisierung
 
 ```markdown
-# Verlauf: [Mandant] – [Kurzbeschreibung]
+### Verlauf: [Mandant] – [Kurzbeschreibung]
 
 Nur-Anhänge-Ereignisprotokoll. Neuestes oben.
 

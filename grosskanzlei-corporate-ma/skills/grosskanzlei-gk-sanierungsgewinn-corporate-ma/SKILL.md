@@ -33,7 +33,7 @@ description: "GK Sanierungsgewinn Corporate MA im Corporate/M&A (Großkanzlei-Pr
 
 **Fokus:** Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Verlustvortrag-Inventur, Verbrauchssimulation und Red-Flag-Liste für SPA-Verhandlung. Adressat ist das M&A-Team der Großkanzlei in Buy-side und Sell-side. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess
+### Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Deal-OS-Orchestrator für grosse Corporate- und M&A-Mandate: steuert Deal-Phase, Rolle, Fristen, Workstreams, Risikoampeln, Padlet-Canvas, Tabellenmatrix, Junior-Fuehrung und naechste Deliverables aus einer Hand.
 
-# Deal-OS Orchestrator
+### Deal-OS Orchestrator
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Deal-OS Orchestrator` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -241,7 +241,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24 UmwStG Einbringung. Prüfraster Anteilsuebertragung-Modalitaeten, Haftsumme Registeranpassung, Einlagen-Nachweis, Komplementaer-Haftung, steuerliche Transparenz. Output KG-spezifische Transaktionscheckliste mit Registerschritten und steuerlichen Hinweisen. Abgrenzung zu Umwandlungsrecht für Formwechsel und zu Transaktionsstruktur für Gesamtstruktur.
 
-# KG und Personengesellschaften
+### KG und Personengesellschaften
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KG und Personengesellschaften` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -342,7 +342,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# KG und Personengesellschaften
+### KG und Personengesellschaften
 
 ## Zweck
 
@@ -456,7 +456,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. § 43a BRAO Aktenführung, GoBD Aufbewahrung. Prüfraster Ordnerstruktur 00-90-Archive, Deal-Code, Gegenparteien, Notar, Steuerberater, W&I-Versicherer. Output vollständig strukturierter Matter-Workspace mit Aktenzeichen, Parteienregister und Workstream-Übersicht. Abgrenzung zu Deal-Intake für erste Erfassung und zu Aktenanlage für freistehende Version.
 
-# Deal-Akte
+### Deal-Akte
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Deal-Akte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -557,7 +557,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Deal-Akte
+### Deal-Akte
 
 ## Zweck
 
@@ -630,7 +630,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Q&A-Prozess und Information Requests in der Due Diligence steuern: Anwendungsfall Deal-Team muss aus DD-Analyse gezielte Fragen an Verkaeufer formulieren, priorisieren und Antworten gegen Datenraum-Belege prüfen. SPA Due Diligence Prozess, MAR Vertraulichkeit. Prüfraster Fragen nach Workstream und Prioritaet kategorisieren, Antworten-Qualitaet bewerten, unzureichende Antworten nachfassen, Strategieschutz bei Frageformulierung. Output Q&A-Tracker mit offenen, beantworteten und eskalationsbedürftigen Fragen. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Reporting.
 
-# Q&A und Information Requests
+### Q&A und Information Requests
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Q&A und Information Requests` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -730,7 +730,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Q&A und Information Requests
+### Q&A und Information Requests
 
 ## Zweck
 
@@ -803,7 +803,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** M&A-Bieterprozess simulieren für Training und Mandatsvorbereitung: Anwendungsfall Junior-Anwalt oder Deal-Team ueben beschleunigten Transaktions-Tag mit Datenraum Q&A SPA-Markup CP-Liste und Board-Call. SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Szenario Seller-side/Buy-side, Deal-Ereignisse simulieren, Entscheidungspunkte steuern, Lessons Learned dokumentieren. Output simulierter Deal-Tag mit Entscheidungsprotokoll und Nachbereitung. Abgrenzung zu freundlichem Copilot für Echtzeit-Begleitung und zu Kommandocenter für echte Mandate.
 
-# Bieterprozess-Simulation
+### Bieterprozess-Simulation
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bieterprozess-Simulation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -904,7 +904,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Bieterprozess-Simulation
+### Bieterprozess-Simulation
 
 ## Zweck
 
@@ -976,7 +976,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** 3D-Tabellenreview M&A-Datenraum: Dokumente Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft verbinden: Anwendungsfall Deal-Team prüft Datenraum-Dokumente systematisch mit internem Review-Cube nach mehreren Workstream-Perspektiven. SPA Due Diligence. Prüfraster Spaltenprompts für Datenpunkte, Zeilendefinition als Dokumente oder Cluster, Blaetter für Legal/Tax/Finance-Perspektive. Output 3D-Review-Matrix mit workstreamspezifischen Befunden und Luecken. Abgrenzung zum freistehenden Tabellenreview-Skill und zu DD-Reporting.
 
-# 3D-Tabellenreview im Datenraum
+### 3D-Tabellenreview im Datenraum
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `3D-Tabellenreview im Datenraum` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1077,7 +1077,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# 3D-Tabellenreview im Datenraum
+### 3D-Tabellenreview im Datenraum
 
 ## Zweck
 

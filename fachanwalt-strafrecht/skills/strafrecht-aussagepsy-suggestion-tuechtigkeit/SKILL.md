@@ -36,7 +36,7 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 
 **Fokus:** Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata für die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung.
 
-# Suggestion und Falscherinnerung
+### Suggestion und Falscherinnerung
 
 ## Worum geht es
 
@@ -116,7 +116,7 @@ Im Plaedoyer trennen Sie klar: "Es ist nicht zu unterstellen, die Zeugin luege. 
 
 **Fokus:** Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin.
 
-# Aussagetuechtigkeit und Aussagebereitschaft
+### Aussagetuechtigkeit und Aussagebereitschaft
 
 ## Worum geht es
 
@@ -195,7 +195,7 @@ Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der A
 
 **Fokus:** Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug für Beweisverwertungsverbot und Plaedoyer-Argumentation.
 
-# Falschgestaendnisse und Vernehmungsfehler
+### Falschgestaendnisse und Vernehmungsfehler
 
 ## Worum geht es
 
@@ -292,7 +292,7 @@ Im Plaedoyer methodisch arbeiten: "Mein Mandant hat gestanden — aber ein Gesta
 
 **Fokus:** BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger.
 
-# BGH-Grundsaetze zur aussagepsychologischen Begutachtung
+### BGH-Grundsaetze zur aussagepsychologischen Begutachtung
 
 ## Worum geht es
 
@@ -370,7 +370,7 @@ Im Schlussvortrag arbeiten Sie nicht mit Vorwuerfen ("die Zeugin luegt"), sonder
 
 **Fokus:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster für die Verteidigung, Replik gegen mangelhafte Gutachten.
 
-# Anforderungen an aussagepsychologische Sachverstaendigengutachten
+### Anforderungen an aussagepsychologische Sachverstaendigengutachten
 
 ## Worum geht es
 
@@ -462,7 +462,7 @@ Im Plaedoyer methodisch arbeiten: "Das vorgelegte aussagepsychologische Gutachte
 
 **Fokus:** Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug für Aussage-gegen-Aussage mit jugendlichen Belastungszeugen.
 
-# Jugendliche Zeugen und Aussage unter Belastung
+### Jugendliche Zeugen und Aussage unter Belastung
 
 ## Worum geht es
 
@@ -554,7 +554,7 @@ Im Plaedoyer differenziert und respektvoll: "Die Zeugin ist 16 Jahre alt. Sie is
 
 **Fokus:** Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug für Aussage-gegen-Aussage mit kindlicher Belastungszeugin.
 
-# Kindliche Zeugen in Strafverfahren
+### Kindliche Zeugen in Strafverfahren
 
 ## Worum geht es
 
@@ -635,7 +635,7 @@ Im Plaedoyer respektvoll, niemals herabsetzend: "Die Aussage des Kindes ist nich
 
 **Fokus:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge für das Kreuzverhoer.
 
-# Konstanzanalyse, Aussageentwicklung und Inkonstanzen
+### Konstanzanalyse, Aussageentwicklung und Inkonstanzen
 
 ## Worum geht es
 
@@ -720,7 +720,7 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 
 **Fokus:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug für die Aussagegenese-Pruefung bei Vielfach-Vernehmungen.
 
-# Mehrfach vernommene Zeugen und Aussageverfestigung
+### Mehrfach vernommene Zeugen und Aussageverfestigung
 
 ## Worum geht es
 
@@ -801,7 +801,7 @@ Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus e
 
 **Fokus:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster für die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
 
-# Realkennzeichen nach Steller und Koehnken
+### Realkennzeichen nach Steller und Koehnken
 
 ## Worum geht es
 

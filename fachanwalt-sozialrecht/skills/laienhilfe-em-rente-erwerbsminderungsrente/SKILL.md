@@ -30,7 +30,7 @@ description: "Laienhilfe EM Rente Erwerbsminderungsrente im Plugin Fachanwalt So
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Em Rente Gutachten
+### Laienhilfe: Em Rente Gutachten
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Em Rente Gutachten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -109,7 +109,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Erwerbsminderungsrente Antrag
+### Laienhilfe: Erwerbsminderungsrente Antrag
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Erwerbsminderungsrente Antrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -186,7 +186,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Fehlervermeidung Sozialrecht
+### Laienhilfe: Fehlervermeidung Sozialrecht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Fehlervermeidung Sozialrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -278,7 +278,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Gutachten Fehler Finden
+### Laienhilfe: Gutachten Fehler Finden
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Gutachten Fehler Finden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

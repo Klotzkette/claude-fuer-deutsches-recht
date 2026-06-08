@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Deckungsklage: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
+### Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Deckungsprüfung, Obliegenheiten und Regressrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Deckungsprüfung, Obliegenheiten und Regressrisiko
+### Deckungsprüfung, Obliegenheiten und Regressrisiko
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-versicherungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.
@@ -122,7 +122,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** Einfuehrung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Einfuehrung: Sonderfall und Edge-Case-Prüfung
+### Einfuehrung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Einfuehrung: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** VVG, VAG.

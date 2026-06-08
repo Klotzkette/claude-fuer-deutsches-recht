@@ -36,7 +36,7 @@ description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Bet
 
 **Fokus:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo für Akte und Mandanten plus Pruefraster für Plaedoyer.
 
-# Betrug § 263 StGB — Grundtatbestand
+### Betrug § 263 StGB — Grundtatbestand
 
 ## Worum geht es
 
@@ -156,7 +156,7 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 **Fokus:** BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster für Verteidigung und Strafzumessung.
 
-# § 29 BtMG Grundtatbestand: Anbau, Erwerb, Besitz, Handeltreiben
+### § 29 BtMG Grundtatbestand: Anbau, Erwerb, Besitz, Handeltreiben
 
 ## Worum geht es
 
@@ -258,7 +258,7 @@ Tatbestandsausschluss durch Erlaubnis (§ 3 BtMG, Bundesopiumstelle BfArM).
 
 **Fokus:** BtMG-Qualifikation § 29a BtMG: nicht geringe Menge. Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. Pruefraster und Verteidigungsstrategie.
 
-# § 29a BtMG: Nicht geringe Menge
+### § 29a BtMG: Nicht geringe Menge
 
 ## Worum geht es
 
@@ -358,7 +358,7 @@ Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich 
 
 **Fokus:** § 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM. Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG. Pruefraster Bande, Waffenbegriff, minder schwerer Fall.
 
-# § 30 BtMG: Qualifikationen Banden-, Gewerbs- und Waffenhandel
+### § 30 BtMG: Qualifikationen Banden-, Gewerbs- und Waffenhandel
 
 ## Worum geht es
 
@@ -454,7 +454,7 @@ Stoffliche Erfassung wie § 29 BtMG; setzt nicht geringe Menge nicht voraus, jed
 
 **Fokus:** § 30a BtMG: schwerer Banden- und bewaffneter Handel. Verbrechen mit fuenf Jahren Mindeststrafe. Abs. 1 Bandenhandel mit nicht geringer Menge. Abs. 2 Schusswaffe oder gefaehrliche Werkzeuge. Minder schwerer Fall Abs. 3.
 
-# § 30a BtMG: Schwerer Bandenhandel
+### § 30a BtMG: Schwerer Bandenhandel
 
 ## Worum geht es
 
@@ -550,7 +550,7 @@ Mengen wie § 29a BtMG (BGH-Faustregeln): Heroin 1.5 g HHC, Kokain 5 g KHC, Amph
 
 **Fokus:** § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe. Abgrenzung zu § 46b StGB grosse Kronzeugenregelung. Voraussetzungen, Verhandlungstaktik, Zeugenschutz.
 
-# § 31 BtMG: Kleine Kronzeugenregelung Aufklaerungshilfe
+### § 31 BtMG: Kleine Kronzeugenregelung Aufklaerungshilfe
 
 ## Worum geht es
 
@@ -654,7 +654,7 @@ Wir beantragen Strafrahmenverschiebung nach § 49 Abs. 1 StGB, hilfsweise Absehe
 
 **Fokus:** § 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie. Voraussetzungen Abhaengigkeit, Reststrafe bis zwei Jahre, Therapiezusage. Verfahren mit Vollstreckungsbehoerde, Therapieabbruch, Strafrest-Aussetzung § 36 BtMG.
 
-# § 35 BtMG: Therapie statt Strafe
+### § 35 BtMG: Therapie statt Strafe
 
 ## Worum geht es
 
@@ -757,7 +757,7 @@ Ich beantrage die Zurueckstellung gemaess § 35 BtMG und vorläufige Aussetzung 
 
 **Fokus:** Eigenbedarfsverteidigung im BtMG/KCanG: § 31a BtMG Absehen von Strafverfolgung, § 153 sowie § 153a StPO, Konsumeinheiten-Argumentation, Abgrenzung zum Handeltreiben. Suchtgutachten und Therapieanbahnung als Verteidigungsbausteine.
 
-# BtMG/KCanG: Konsumeigenbedarfs-Verteidigung
+### BtMG/KCanG: Konsumeigenbedarfs-Verteidigung
 
 ## Worum geht es
 
@@ -873,7 +873,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 
 **Fokus:** Praxis-Mengen-Tabelle nicht geringe Menge: Cannabis, Heroin, Kokain, Amphetamin, MDMA, Methamphetamin, LSD. BGH-Faustregeln zur Wirkstoffmenge. Berechnungsformel, Streckmittel, Mischpraeparate. Pruefraster für Verteidiger.
 
-# BtMG: Mengen-Tabelle nicht geringe Menge
+### BtMG: Mengen-Tabelle nicht geringe Menge
 
 ## Worum geht es
 
@@ -991,7 +991,7 @@ Die nicht geringe Menge ([Schwelle] g) wird damit [Faktor]-fach erreicht/untersc
 
 **Fokus:** Cannabis-Uebergangsregeln 01.04.2024: Altfaelle nach BtMG vor KCanG-Inkrafttreten, Amnestie-Regelung Art. 13 KCanG-Einfuehrungsgesetz, milderes Gesetz § 2 Abs. 3 StGB, Tilgung Bundeszentralregister, Wiederaufnahme.
 
-# Cannabis: Uebergangsregeln Altfaelle und Amnestie
+### Cannabis: Uebergangsregeln Altfaelle und Amnestie
 
 ## Worum geht es
 

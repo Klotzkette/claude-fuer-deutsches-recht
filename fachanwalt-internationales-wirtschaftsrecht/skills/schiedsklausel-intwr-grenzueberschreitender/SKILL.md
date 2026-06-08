@@ -29,7 +29,7 @@ description: "Schiedsklausel Intwr Grenzueberschreitender im Internationalen Wir
 
 **Fokus:** Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren).
 
-# Schiedsklausel — Prüfung und Gestaltung
+### Schiedsklausel — Prüfung und Gestaltung
 
 ## Kaltstart-Rückfragen
 
@@ -315,7 +315,7 @@ Anwendbares Recht: [RECHTSORDNUNG]
 
 **Fokus:** Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt.
 
-# IntWR: Schiedsklausel New York
+### IntWR: Schiedsklausel New York
 
 ## Spezialwissen: IntWR: Schiedsklausel New York
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
@@ -364,7 +364,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung
+### Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-internationales-wirtschaftsrecht`. Kontext des Plugins: Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.

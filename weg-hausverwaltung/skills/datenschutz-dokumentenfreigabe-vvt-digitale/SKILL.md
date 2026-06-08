@@ -29,7 +29,7 @@ description: "Datenschutz Dokumentenfreigabe VVT Digitale im Plugin Weg Hausverw
 
 **Fokus:** Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwaltungsunterlagen); § 28 Abs. 4 WEG nur für den Vermögensbericht.
 
-# Datenschutz und Dokumentenfreigabe
+### Datenschutz und Dokumentenfreigabe
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenschutz und Dokumentenfreigabe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -122,7 +122,7 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 
 **Fokus:** VVT nach Art. 30 DSGVO, TOM nach Art. 32 und AVV nach Art. 28 DSGVO für die typische Hausverwaltung (Stand 06/2026): Verarbeitungsverzeichnis-Muster, TOM-Mindeststandards, AVV-Pflichten gegenueber Buchhaltungssoftware und Cloud-Diensten.
 
-# Datenschutz: VVT, TOM und AVV für die Hausverwaltung
+### Datenschutz: VVT, TOM und AVV für die Hausverwaltung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenschutz: VVT, TOM und AVV für die Hausverwaltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -198,7 +198,7 @@ EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugt
 
 **Fokus:** Hybride und rein digitale Eigentuemerversammlung nach § 23 Abs. 1 WEG barrierefrei durchfuehren (Stand 06/2026): Live-Untertitel Zoom/Teams, Screenreader-kompatible Abstimmung, Tonqualitaet, Vollmacht in Textform. BGH V ZR 33/24.
 
-# Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit
+### Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

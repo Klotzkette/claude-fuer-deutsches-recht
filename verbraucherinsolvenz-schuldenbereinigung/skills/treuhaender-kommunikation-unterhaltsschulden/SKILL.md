@@ -29,7 +29,7 @@ description: "Treuhaender Kommunikation Unterhaltsschulden im Plugin Verbraucher
 
 **Fokus:** Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.; Normanker: InsO §§ 80 und 292 und 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.
+### Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.
 
 ## Fachkern: Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO §§ 80, 292, 295. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 **Fokus:** Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.; Normanker: InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.
+### Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.
 
 ## Fachkern: Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz. Entscheidend ist immer d
 
 **Fokus:** Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.; Normanker: InsO § 304; AO; SGB IV; BGB/HGB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.
+### Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.
 
 ## Fachkern: Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

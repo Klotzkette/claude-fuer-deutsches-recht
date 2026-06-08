@@ -30,7 +30,7 @@ description: "Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt 
 
 **Fokus:** Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster für Bieter und Vergabekammer.
 
-# Verg: Nachpruefungsverfahren
+### Verg: Nachpruefungsverfahren
 
 ## Spezialwissen: Verg: Nachpruefungsverfahren
 - **Normen-/Quellenanker:** GWB, BGH, BVerfG.
@@ -89,7 +89,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster für Vergabestelle.
 
-# Verg: Vergabeverfahren
+### Verg: Vergabeverfahren
 
 ## Aufgabe
 Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft.
@@ -179,7 +179,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist pruefen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen.
 
-# Paragraph 134 GWB Vorinformation und Stillhaltefrist
+### Paragraph 134 GWB Vorinformation und Stillhaltefrist
 
 ## Zweck
 
@@ -242,7 +242,7 @@ Fristenblatt, Fehlercheck, Sofortplan, Mandantenmail.
 
 **Fokus:** Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
 
-# Paragraph 132 GWB Vertragsaenderung
+### Paragraph 132 GWB Vertragsaenderung
 
 ## Zweck
 

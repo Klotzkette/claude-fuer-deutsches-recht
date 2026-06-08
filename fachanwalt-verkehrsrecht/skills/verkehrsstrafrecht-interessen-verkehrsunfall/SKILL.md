@@ -29,7 +29,7 @@ description: "Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt 
 
 **Fokus:** Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix
+### Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
+### Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
@@ -103,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
+### Vergleichsverhandlung und Einigung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 
 ## Wann dieser Arbeitsgang greift
 

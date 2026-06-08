@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
-# Workload Balance
+### Workload Balance
 
 ## Fachkern: Workload Balance
 

@@ -29,7 +29,7 @@ description: "Liqui Drohender Zahlungsunfaehigkeit im Plugin Liquiditaetsplanung
 
 **Fokus:** Liquiditaetsplanung bei drohender Zahlungsunfaehigkeit § 18 InsO: 24-Monats-Planung, Zugang StaRUG-Restrukturierung, Geschaeftsleiterpflichten. Pruefraster und Schnittstelle Insolvenzantrag.
 
-# Liqui: drohende ZU
+### Liqui: drohende ZU
 
 ## Fachkern: Liqui: drohende ZU
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Liquiditaetsplanung bei eingetretener Zahlungsunfaehigkeit § 17 InsO: 3-Wochen-Vorschau zur Pruefung Insolvenzantragspflicht, Liquiditaetsluecke kleiner 10 Prozent + Schliessung binnen 3 Wochen waere Liquiditaetsstockung. Pruefraster BGH II ZR 296/05.
 
-# Liqui: eingetretene ZU
+### Liqui: eingetretene ZU
 
 ## Fachkern: Liqui: eingetretene ZU
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -127,7 +127,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Liquiditaetsplanung für Bankgespraech: kompakte Vorlage 13 Wochen + Jahresansicht, Annahmen-Block, Sensitivitaet, Kreditlinien-Ausnutzung, Begleittext. Empfehlung: realistisch, nicht zu optimistisch, mit Fallback-Hebeln.
 
-# Liqui für Bankgespraech
+### Liqui für Bankgespraech
 
 ## Fachkern: Liqui für Bankgespraech
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

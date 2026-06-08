@@ -33,7 +33,7 @@ description: "IP IT Junior Mentor im Corporate/M&A (Großkanzlei-Praxis): prüft
 
 **Fokus:** Insurance Risk DD und Policies Check: prueft D&O, Cyber, Product Liability, Warranty, Property, Claims History und Versicherbarkeit von Risiken.
 
-# Insurance Risk DD
+### Insurance Risk DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insurance Risk DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** IP, IT und Data Assets Due Diligence: prueft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control.
 
-# IP IT Data Assets DD
+### IP IT Data Assets DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `IP IT Data Assets DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -205,7 +205,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Junior-Mentor für Corporate/M&A: erklaert Begriffe, zerlegt Aufgaben in First-Year-Schritte, prueft Entwuerfe freundlich, staerkt Schwachstellen und gibt Senior-Review-taugliches Feedback.
 
-# Junior Mentor Training Loop
+### Junior Mentor Training Loop
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Junior Mentor Training Loop` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -291,7 +291,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** KI-Einsatz im Transaktionsmandat berufsrechtlich absichern: Anwendungsfall Anwalt moechte KI-Tools für Datenraumanalyse oder Vertragsentwurf nutzen und muss Mandatsgeheimnis, Datenschutz und KI-VO-Betreiberpflichten einhalten. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster Datenklassen-Kategorisierung, Need-to-know, Pseudonymisierung, AVV-Prüfung, Mandantenfreigabe, Halluzinations-Kontrolle. Output Berufsrechts-Compliance-Protokoll für KI-Nutzung im Mandat. Abgrenzung zu Datenqualitaet-XAI-Qualitaetskontrolle und zu Konflikt-GwG-Check.
 
-# KI-Governance und Berufsrecht
+### KI-Governance und Berufsrecht
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KI-Governance und Berufsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -392,7 +392,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# KI-Governance und Berufsrecht
+### KI-Governance und Berufsrecht
 
 ## Zweck
 
@@ -490,7 +490,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Deal-Kommandocenter Corporate/M&A: Schnellstart und Fallrouting für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate.
 
-# Deal-Kommandocenter
+### Deal-Kommandocenter
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Deal-Kommandocenter` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -591,7 +591,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Deal-Kommandocenter
+### Deal-Kommandocenter
 
 ## Zweck
 
@@ -675,7 +675,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Legal Fact Book Generator: erstellt ein sell-side-taugliches Faktenbuch mit Corporate, Material Contracts, Litigation, Employment, IP, Regulatory, Real Estate und Compliance.
 
-# Legal Fact Book Generator
+### Legal Fact Book Generator
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legal Fact Book Generator` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -761,7 +761,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates.
 
-# Lessons Learned Post Mortem
+### Lessons Learned Post Mortem
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lessons Learned Post Mortem` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

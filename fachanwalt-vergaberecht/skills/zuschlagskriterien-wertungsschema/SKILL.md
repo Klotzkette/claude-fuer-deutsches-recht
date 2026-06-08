@@ -30,7 +30,7 @@ description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberech
 
 **Fokus:** Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
-# Zuschlagskriterien und Wertungsschema
+### Zuschlagskriterien und Wertungsschema
 
 ## Aufgabe
 Erstelle oder pruefe ein vergaberechtsfestes Wertungsschema oder bereite eine Wertungsruege vor. Output je nach Rolle: Wertungsmatrix mit Begruendungstext für Auftraggeber, Pruefvermerk und Ruegeschriftsatz-Modul für Bieter.
@@ -104,7 +104,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle a
 
 **Fokus:** Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern.
 
-# Foerdermittel und Rueckforderung
+### Foerdermittel und Rueckforderung
 
 ## Zweck
 
@@ -167,7 +167,7 @@ Foerdermittel-Risikomatrix, Heilungsplan, Aktenvermerk, Zuwendungsgeberbrief.
 
 **Fokus:** KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung.
 
-# KI-, Cloud- und Datenbeschaffung
+### KI-, Cloud- und Datenbeschaffung
 
 ## Zweck
 
@@ -230,7 +230,7 @@ Anforderungskatalog, Bewertungsmatrix, Risikoampel, Vertrags-/Vergabehinweise.
 
 **Fokus:** Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation.
 
-# Leistungsbeschreibung Neutralitaet
+### Leistungsbeschreibung Neutralitaet
 
 ## Zweck
 

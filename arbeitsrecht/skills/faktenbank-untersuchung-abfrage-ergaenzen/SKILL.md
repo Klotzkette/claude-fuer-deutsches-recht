@@ -30,7 +30,7 @@ description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: 
 
 **Fokus:** Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle.
 
-# Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht
+### Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -86,7 +86,7 @@ Jede aktuelle arbeitsrechtliche Antwort enthält am Ende kurz:
 
 **Fokus:** Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der Anwalt das Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln durchlesen zu müssen.
 
-# Untersuchungsprotokoll-Abfrage (Arbeitsrecht)
+### Untersuchungsprotokoll-Abfrage (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungsprotokoll-Abfrage (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -283,7 +283,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 **Fokus:** Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen. Verarbeitet Dokumentenpakete anhand dokumentierter Auswahlkriterien, markiert relevante Funde und protokolliert alles Gesichtete zur Deckungsverifikation. Lädt, wenn neue Beweise, Befragungsnotizen oder Dokumentenlieferungen für eine laufende Untersuchung eingehen.
 
-# Untersuchungs-Datenpflege (Arbeitsrecht)
+### Untersuchungs-Datenpflege (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungs-Datenpflege (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -480,7 +480,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 **Fokus:** Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 
-# Untersuchungseröffnung (Arbeitsrecht)
+### Untersuchungseröffnung (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untersuchungseröffnung (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

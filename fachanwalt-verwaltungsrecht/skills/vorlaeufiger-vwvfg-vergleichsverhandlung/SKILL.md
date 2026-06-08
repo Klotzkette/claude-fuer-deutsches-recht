@@ -29,7 +29,7 @@ description: "Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verw
 
 **Fokus:** Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage
+### Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
+### Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -103,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behörde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage.
 
-# Vergleichsverhandlung und Einigung im Allgemeines Verwaltungs- und Bauplanungsrecht
+### Vergleichsverhandlung und Einigung im Allgemeines Verwaltungs- und Bauplanungsrecht
 
 ## Wann dieser Arbeitsgang greift
 

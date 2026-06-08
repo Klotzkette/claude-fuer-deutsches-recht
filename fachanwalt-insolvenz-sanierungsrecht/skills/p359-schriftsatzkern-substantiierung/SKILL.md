@@ -31,7 +31,7 @@ description: "Inso P359 Schriftsatzkern Substantiierung im Insolvenz- und Sanier
 
 **Fokus:** § 359 InsO (Verweisung auf das Einführungsgesetz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 359 InsO — Verweisung auf das Einführungsgesetz
+### § 359 InsO — Verweisung auf das Einführungsgesetz
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 359 InsO — Verweisung auf das Einführungsgesetz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -83,7 +83,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** Substantiierter Schriftsatzkern für Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Insolvenz- und Restrukturierungsrecht
+### Schriftsatzkern und Substantiierung im Insolvenz- und Restrukturierungsrecht
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatzkern und Substantiierung im Insolvenz- und Restrukturierungsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -306,7 +306,7 @@ Vor Versand:
 
 **Fokus:** Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine
+### Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -351,7 +351,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Berater: Red-Team und Qualitätskontrolle im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Berater: Red-Team und Qualitätskontrolle
+### Berater: Red-Team und Qualitätskontrolle
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berater: Red-Team und Qualitätskontrolle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -396,7 +396,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Chronologie: Abschlussprodukt und Übergabe im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Chronologie: Abschlussprodukt und Übergabe
+### Chronologie: Abschlussprodukt und Übergabe
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie: Abschlussprodukt und Übergabe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

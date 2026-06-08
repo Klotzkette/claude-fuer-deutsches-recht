@@ -28,7 +28,7 @@ description: "Zeugeninterviews Mitarbeiter Zwangsgeld im Datenschutz-Sanktionsve
 
 **Fokus:** Mitarbeiterinterviews im Sanktionsverfahren: Beschäftigteninterviews mit Belehrung, Betriebsrat, Datenschutz, Aussagefreiheit und Konfliktcheck führen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Mitarbeiterinterviews im Sanktionsverfahren
+### Mitarbeiterinterviews im Sanktionsverfahren
 
 ## Aufgabe
 
@@ -89,7 +89,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Zwangsgeld und Vollstreckung der Aufsicht: Zwangsgeldandrohung, Festsetzung, Erfüllbarkeit, Frist und Vollstreckungsabwehr bearbeiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Zwangsgeld und Vollstreckung der Aufsicht
+### Zwangsgeld und Vollstreckung der Aufsicht
 
 ## Aufgabe
 

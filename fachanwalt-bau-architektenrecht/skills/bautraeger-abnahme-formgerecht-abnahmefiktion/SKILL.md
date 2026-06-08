@@ -30,7 +30,7 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 
 **Fokus:** Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster.
 
-# Bautraeger Abnahme Formgerecht 640 Bgb
+### Bautraeger Abnahme Formgerecht 640 Bgb
 
 ## Norm
 
@@ -70,7 +70,7 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 
 **Fokus:** Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster.
 
-# Bautraeger Abnahmefiktion Clause Unwirksam
+### Bautraeger Abnahmefiktion Clause Unwirksam
 
 ## Typische Klausel
 
@@ -107,7 +107,7 @@ oder
 
 **Fokus:** Anlagen zur Baubeschreibung beim Bautraegervertrag. Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter Anlagen.
 
-# Bautraeger Anlagen Zur Baubeschreibung
+### Bautraeger Anlagen Zur Baubeschreibung
 
 ## Typische Anlagen
 
@@ -157,7 +157,7 @@ oder
 
 **Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
 
-# Bautraeger Aufflassungsvormerkung 883 Bgb
+### Bautraeger Aufflassungsvormerkung 883 Bgb
 
 ## Norm
 

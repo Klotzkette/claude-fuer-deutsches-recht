@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Agrarrecht im Fachanwalt Agrarr
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Agrar-, Forst- und Lebensmittelrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Agrar-, Forst- und Lebensmittelrecht
+### Vergleichsverhandlung und Einigung im Agrar-, Forst- und Lebensmittelrecht
 
 ## Wann dieser Arbeitsgang greift
 

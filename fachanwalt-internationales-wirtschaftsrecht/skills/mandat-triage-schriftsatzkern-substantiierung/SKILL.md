@@ -29,7 +29,7 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Internationalen W
 
 **Fokus:** Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht).
 
-# Mandat-Triage Internationales Wirtschaftsrecht
+### Mandat-Triage Internationales Wirtschaftsrecht
 
 ## Zweck
 
@@ -214,7 +214,7 @@ Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht
+### Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -512,7 +512,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 **Fokus:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Aussenhandel: Zahlen, Schwellenwerte und Berechnung
+### Aussenhandel: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Aussenhandel: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

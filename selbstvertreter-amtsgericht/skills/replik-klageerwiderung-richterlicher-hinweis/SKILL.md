@@ -29,7 +29,7 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 
 **Fokus:** Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen.
 
-# Replik: Wie Sie als Klaeger auf die Klageerwiderung antworten
+### Replik: Wie Sie als Klaeger auf die Klageerwiderung antworten
 
 ## Worum geht es?
 
@@ -211,7 +211,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 **Fokus:** Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken.
 
-# Richterlicher Hinweis nach § 139 ZPO: Was tun?
+### Richterlicher Hinweis nach § 139 ZPO: Was tun?
 
 ## Worum geht es?
 
@@ -350,7 +350,7 @@ Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
 
 **Fokus:** Sachverständigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverständigen Privatgutachten als Urkunde Gerichtsgutachten Prüfung der Glaubwürdigkeit. Wann ist Sachverständigen-Beweis sinnvoll und wann reicht Privatgutachten.
 
-# Sachverstaendigenbeweis: Wenn Fachfrage entscheidet
+### Sachverstaendigenbeweis: Wenn Fachfrage entscheidet
 
 ## Worum geht es?
 

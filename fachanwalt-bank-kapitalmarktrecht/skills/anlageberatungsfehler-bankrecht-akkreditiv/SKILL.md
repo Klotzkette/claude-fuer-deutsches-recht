@@ -29,7 +29,7 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 
 **Fokus:** Prüfungslinie für anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Anlageberatungsfehler prüfen
+### Anlageberatungsfehler prüfen
 
 ## Zweck
 
@@ -266,7 +266,7 @@ Kapitalmarktrecht]
 
 **Fokus:** Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung.
 
-# Akkreditiv, Standby LC und Dokumentenstreit
+### Akkreditiv, Standby LC und Dokumentenstreit
 
 ## Aufgabe
 
@@ -297,7 +297,7 @@ ICC-Regelwerke wie UCP, URC, ISP oder URDG nicht aus Modellwissen zitieren. Wenn
 
 **Fokus:** Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress.
 
-# Bürgschaft auf erste Anforderung
+### Bürgschaft auf erste Anforderung
 
 ## Aufgabe
 

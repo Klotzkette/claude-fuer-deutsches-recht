@@ -28,7 +28,7 @@ description: "UPC Unified im Plugin Patentrecherche im Patentrecherche: prüft k
 
 **Fokus:** Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation. Pruefraster für Patentinhaber und potentielle Verletzer.
 
-# UPC: Spezialdetails
+### UPC: Spezialdetails
 
 ## Spezialwissen: UPC: Spezialdetails
 - **Normen-/Quellenanker:** UPC.

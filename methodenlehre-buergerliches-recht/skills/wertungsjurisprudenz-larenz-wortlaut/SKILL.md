@@ -28,7 +28,7 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 
 **Fokus:** Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertungen statt subjektiver Interessen. Rueckbindung an Grundrechte und Rechtssystem. Methodisches Pruefraster und Anwendung im BGB.
 
-# Wertungsjurisprudenz nach Larenz und Canaris
+### Wertungsjurisprudenz nach Larenz und Canaris
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wertungsjurisprudenz nach Larenz und Canaris` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -139,7 +139,7 @@ Stand: Mai 2026.
 
 **Fokus:** Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster für den Wortlaut-Schritt jeder Auslegung.
 
-# Wortlaut / grammatikalische Auslegung
+### Wortlaut / grammatikalische Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wortlaut / grammatikalische Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

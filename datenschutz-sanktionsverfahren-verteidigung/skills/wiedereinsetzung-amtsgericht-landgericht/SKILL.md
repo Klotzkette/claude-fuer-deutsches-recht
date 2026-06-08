@@ -30,7 +30,7 @@ description: "Wiedereinsetzung Amtsgericht Landgericht im Datenschutz-Sanktionsv
 
 **Fokus:** Wiedereinsetzung nach Fristversäumnis: Versäumte Einspruchs- oder Rechtsmittelfristen mit Zustellungs- und Büroorganisationsprüfung retten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Wiedereinsetzung nach Fristversäumnis
+### Wiedereinsetzung nach Fristversäumnis
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Zuständigkeit Amtsgericht Landgericht § 41 BDSG: Prüfen, ob wegen Geldbuße über 100.000 EUR das Landgericht statt Amtsgericht entscheidet. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Zuständigkeit Amtsgericht Landgericht § 41 BDSG
+### Zuständigkeit Amtsgericht Landgericht § 41 BDSG
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Zwischenverfahren § 69 OWiG: Nach Einspruch Rücknahme, weitere Ermittlungen oder Vorlage über Staatsanwaltschaft an das Gericht taktisch nutzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Zwischenverfahren § 69 OWiG
+### Zwischenverfahren § 69 OWiG
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Anordnung plus Bußgeld Doppelspur: Verwaltungsgerichtliche und OWiG-Verteidigung bei gleicher Tatsachengrundlage widerspruchsfrei koordinieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Anordnung plus Bußgeld Doppelspur
+### Anordnung plus Bußgeld Doppelspur
 
 ## Aufgabe
 

@@ -29,7 +29,7 @@ description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarkt
 
 **Fokus:** Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing).
 
-# Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
+### Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -134,7 +134,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# SCHUFA-Eintrag
+### SCHUFA-Eintrag
 
 ## Kaltstart-Rückfragen
 
@@ -217,7 +217,7 @@ Mit freundlichen Gruessen
 
 **Fokus:** Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# SCHUFA-Löschungsanspruch
+### SCHUFA-Löschungsanspruch
 
 ## Zweck
 

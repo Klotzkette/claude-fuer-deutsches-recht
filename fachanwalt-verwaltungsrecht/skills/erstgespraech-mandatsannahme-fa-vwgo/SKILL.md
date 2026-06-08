@@ -29,7 +29,7 @@ description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltu
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Allgemeines Verwaltungs- und Bauplanungsrecht
+### Erstgespraech und Mandatsannahme im Allgemeines Verwaltungs- und Bauplanungsrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -188,7 +188,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
+### Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
 
 ## Kernsachverhalt
 
@@ -392,7 +392,7 @@ Eine vollständige Arbeitsakte mit sechs Fallvarianten und allen Ausgangsdokumen
 
 **Fokus:** Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo.
 
-# Anfechtungsklage
+### Anfechtungsklage
 
 ## Kaltstart-Rückfragen
 

@@ -31,7 +31,7 @@ description: "Massenbenachrichtigung Meldekette Auftragsverarbeiter im Plugin Fa
 
 **Fokus:** Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art. 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; Bounces; Sprachvarianten; Hotline-Dimensionierung; Pressewelle; Hilfsdienste wie Schufa-Auskunft. Output: Versandplan, Skalierungsraster, Q&A-Matrix. Abgrenzung: keine individuelle Benachrichtigung; keine Behördenmeldung.
 
-# Massenbenachrichtigung bei großem Datenschutzvorfall
+### Massenbenachrichtigung bei großem Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -87,7 +87,7 @@ Q&A-Matrix: 20-30 Fragen mit abgestimmten Antworten.
 
 **Fokus:** Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftragsverarbeiter; Vertragsstrafen; Beweissicherungspflichten beim Auftragsverarbeiter. Output: Mustermeldung Auftragsverarbeiter an Verantwortlichen plus Eskalationsschreiben. Abgrenzung: keine Behördenmeldung durch den Auftragsverarbeiter.
 
-# Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO
+### Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -148,7 +148,7 @@ Eskalationsschreiben bei Schweigen: Fristsetzung 24 h; danach Vertragsstrafe und
 
 **Fokus:** Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten. Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; parallele Meldung an betroffene Behörden; Sprache der Meldung; Drittstaaten-Aufsichten und ihre Meldepflichten (z.B. UK ICO, Schweiz EDÖB); Schnittstelle zu Art. 49 DSGVO-Übermittlungen; Hinweispflichten an US-Aufsichten bei BIPA, CCPA, GLBA. Output: Memo zur Meldelandkarte. Abgrenzung: keine vertiefte US-Beratung.
 
-# Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten
+### Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -196,7 +196,7 @@ Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4:
 
 **Fokus:** Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht. Behandelt: § 8b BSIG für KRITIS; NIS-2-Umsetzung mit erweiterten Meldepflichten; BaFin BAIT/MaRisk für Finanzinstitute; BNetzA für TK- und Postdienste; Meldungen nach § 168 TKG; Konsistenz der Meldetexte; Datenschutzschnittstelle. Output: Memo zur Mehrfachmeldelandschaft. Abgrenzung: keine vertiefte BaFin-Beratung.
 
-# Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2
+### Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -252,7 +252,7 @@ Texte synchronisiert; Aktenzeichen wechselseitig zitieren.
 
 **Fokus:** Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige.
 
-# § 203 StGB Berufsgeheimnis im Datenschutzvorfall
+### § 203 StGB Berufsgeheimnis im Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 

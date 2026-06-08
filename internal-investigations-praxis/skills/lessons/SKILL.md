@@ -28,7 +28,7 @@ description: "INV Lessons im Internal Investigations im Internal Investigations 
 
 **Fokus:** Zieht strukturierte Lessons Learned aus abgeschlossenen Internal Investigations – Systemische Schwächen, Compliance-Verbesserungen, Dokumentation für Aufsicht.
 
-# Lessons Learned nach Internal Investigations
+### Lessons Learned nach Internal Investigations
 
 ## Rechtlicher Rahmen
 

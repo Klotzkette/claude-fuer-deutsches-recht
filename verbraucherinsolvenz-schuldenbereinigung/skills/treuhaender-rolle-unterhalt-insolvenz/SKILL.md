@@ -29,7 +29,7 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 
 **Fokus:** Verbraucherinsolvenz: Rolle des Treuhaenders. Skill behandelt die Aufgaben des Treuhaenders in der Wohlverhaltensphase Vermoegensaufsicht Verteilung Forderungspruefung Glaeubigerinformation. Verguetung und Kostenfragen. Liefert Pruefraster.
 
-# Verbraucherinsolvenz Treuhaender Rolle
+### Verbraucherinsolvenz Treuhaender Rolle
 
 ## Fachkern: Verbraucherinsolvenz Treuhaender Rolle
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -84,7 +84,7 @@ Skill für Treuhaender-Mandate.
 
 **Fokus:** Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Pruefraster.
 
-# Verbraucherinsolvenz Unterhalt Und Insolvenz
+### Verbraucherinsolvenz Unterhalt Und Insolvenz
 
 ## Fachkern: Verbraucherinsolvenz Unterhalt Und Insolvenz
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -130,7 +130,7 @@ Skill für Schnittstelle Insolvenz / Unterhalt.
 
 **Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Pruefraster.
 
-# Verbraucherinsolvenz Versagungsgruende
+### Verbraucherinsolvenz Versagungsgruende
 
 ## Fachkern: Verbraucherinsolvenz Versagungsgruende
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

@@ -30,7 +30,7 @@ description: "Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozial
 
 **Fokus:** ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.; Normanker: SGB VI § 43; SGB IX § 152; SGG §§ 103 und 106; AWMF Long/Post-COVID; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.
+### ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutacht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -64,7 +64,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.; Normanker: SGB X Amtsermittlung; SGB VI § 43; SGB IX § 152; ICD U09.9 als Zusatzkennzeichen; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.
+### Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber be` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -98,7 +98,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.; Normanker: SGB IX Teilhabe; SGB VI Reha; SGB V Heil-/Hilfsmittel; SGB III; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.
+### Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitslebe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -132,7 +132,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behörden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check).
 
-# Mandanten-Intake (Sozialrecht)
+### Mandanten-Intake (Sozialrecht)
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandanten-Intake (Sozialrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

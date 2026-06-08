@@ -31,7 +31,7 @@ description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigen
 
 **Fokus:** Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Schimmel/Lüften/Heizen
+### Schimmel/Lüften/Heizen
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schimmel/Lüften/Heizen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Schriftsatz aus Stapel
+### Schriftsatz aus Stapel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatz aus Stapel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Teilungserklärung auslesen
+### Teilungserklärung auslesen
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Teilungserklärung auslesen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Untervermietung-Entscheidung
+### Untervermietung-Entscheidung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Untervermietung-Entscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Vergleichsfenster Mietstreit
+### Vergleichsfenster Mietstreit
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsfenster Mietstreit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

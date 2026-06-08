@@ -30,7 +30,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 **Fokus:** Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung.
 
-# Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht
+### Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht
 
 ## Mandantenfragen beim Kaltstart
 
@@ -368,7 +368,7 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 
 **Fokus:** Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill.
 
-# Fachanwalt für Bau- und Architektenrecht — Orientierung
+### Fachanwalt für Bau- und Architektenrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -470,7 +470,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgutachten-Antrag VOB/B. Abgrenzung: nicht staatliches Klageverfahren.
 
-# VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht
+### VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht
 
 ## Zweck
 
@@ -586,7 +586,7 @@ Stand: 05/2026. SOBau 2020. § 18 VOB/B unverändert. BGH-Linien stabil. Bei VOB
 
 **Fokus:** Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme.
 
-# Werkmangel prüfen — Bau- und Werkvertragsrecht
+### Werkmangel prüfen — Bau- und Werkvertragsrecht
 
 ## Triage — Bevor du loslegst, kläre
 

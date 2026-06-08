@@ -36,7 +36,7 @@ description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkre
 
 **Fokus:** Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata für Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen.
 
-# Replik gegen staatsanwaltliche Aussagebewertung
+### Replik gegen staatsanwaltliche Aussagebewertung
 
 ## Worum geht es
 
@@ -137,7 +137,7 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 
 **Fokus:** Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug für Vernehmungsanalyse.
 
-# Vernehmungslehre und Vernehmungsmethodik
+### Vernehmungslehre und Vernehmungsmethodik
 
 ## Worum geht es
 
@@ -236,7 +236,7 @@ Im Plaedoyer methodisch arbeiten: "Die polizeiliche Vernehmung der Belastungszeu
 
 **Fokus:** Aussetzung nach § 221 StGB. Konkretes Gefaehrdungsdelikt. Versetzen in hilflose Lage oder Imstichlassen bei Obhuts- oder Beistandspflicht. Gefahr des Todes oder einer schweren Gesundheitsschaedigung. Qualifikationen Abs. 2 und Erfolgsqualifikation Tod Abs. 3.
 
-# Aussetzung § 221 StGB
+### Aussetzung § 221 StGB
 
 ## Worum geht es
 
@@ -357,7 +357,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 
 **Fokus:** Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Pruefraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo.
 
-# Bandenbetrug § 263 Abs. 5 StGB
+### Bandenbetrug § 263 Abs. 5 StGB
 
 ## Worum geht es
 
@@ -454,7 +454,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 **Fokus:** Bankrott nach Paragraph 283 StGB. Tatbestandsalternativen Beiseiteschaffen Verheimlichen Zerstoeren Verkuerzung. Krise und Insolvenzreife als objektive Strafbarkeitsbedingung. Vorsatz und Fahrlaessigkeitsvarianten Absatz 4 und 5. Faktische Geschaeftsfuehrer Paragraph 14 StGB. Verteidigungsstrategien in Insolvenzverfahren und Strafverfahren.
 
-# Bankrott nach Paragraph 283 StGB
+### Bankrott nach Paragraph 283 StGB
 
 ## Worum geht es konkret
 
@@ -569,7 +569,7 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 
 **Fokus:** Strafzumessung bei Bankrott und Insolvenzdelikten. Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre Paragraph 6 GmbHG. Bewaehrung bei Insolvenzstraftaten. Wiedergutmachung Paragraph 46a StGB.
 
-# Strafzumessung und Vermoegensabschoepfung bei Insolvenzstraftaten
+### Strafzumessung und Vermoegensabschoepfung bei Insolvenzstraftaten
 
 ## Worum geht es konkret
 
@@ -709,7 +709,7 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 **Fokus:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persönliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
 
-# Bedrohung § 241 StGB
+### Bedrohung § 241 StGB
 
 ## Worum geht es
 
@@ -816,7 +816,7 @@ Strafrahmen:
 
 **Fokus:** Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB. Regelbeispiele Gewerbsmaessigkeit und Inkaufnahme wirtschaftlicher Not vieler Glaeubiger. Strafrahmen 6 Monate bis 10 Jahre. Verteidigung gegen die Regelbeispielsindikation. Abgrenzung zu Paragraph 283 StGB Grundtatbestand. Praxisrelevanz in Wirtschaftsstrafverfahren.
 
-# Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB
+### Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB
 
 ## Worum geht es konkret
 
@@ -913,7 +913,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 
 **Fokus:** Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo für Bauunternehmen Pharma Healthcare Einkaufsabteilungen.
 
-# Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB
+### Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB
 
 ## Worum geht es
 
@@ -1027,7 +1027,7 @@ Auch für auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 
 **Fokus:** Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen ueber Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust grosser Ausmasses oder grosse Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen.
 
-# Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB
+### Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB
 
 ## Worum geht es
 

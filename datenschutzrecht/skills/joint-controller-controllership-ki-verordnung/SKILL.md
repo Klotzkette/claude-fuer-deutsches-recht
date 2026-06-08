@@ -31,7 +31,7 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 
 **Fokus:** Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung).
 
-# Gemeinsame Verantwortlichkeit Art. 26 DSGVO
+### Gemeinsame Verantwortlichkeit Art. 26 DSGVO
 
 ## Zweck
 
@@ -469,7 +469,7 @@ Das Wesentliche dieser Vereinbarung wird Betroffenen gemäß Art. 26 Abs. 2 DSGV
 
 **Fokus:** English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2) GDPR. Output: complete English joint controller agreement template.
 
-# Joint Controller Agreement – English Template (Article 26 GDPR)
+### Joint Controller Agreement – English Template (Article 26 GDPR)
 
 ## Zweck / Purpose
 
@@ -639,7 +639,7 @@ Date: Date:
 
 **Fokus:** KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-Compliance-Prüfmemo Massnahmenliste. Abgrenzung: nicht für allgemeine KI-Governance ohne Datenschutzbezug.
 
-# KI-Verordnung — Compliance-Prüfung
+### KI-Verordnung — Compliance-Prüfung
 
 ## Zweck
 
@@ -959,7 +959,7 @@ Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
 
 **Fokus:** Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Output: Compliance-Memo Nutzungsempfehlung. Abgrenzung: nicht für allgemeine KI-VO-Fragen (ki-verordnung-compliance).
 
-# Mandantendaten und KI-Dienstleister (§ 203 StGB, Art. 28 DSGVO)
+### Mandantendaten und KI-Dienstleister (§ 203 StGB, Art. 28 DSGVO)
 
 ## Zweck
 
@@ -1117,7 +1117,7 @@ Empfehlung: freigegeben / Nachverhandlung erforderlich / nicht freigegeben
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Datenpanne mit Erpressung und Meldelogik: 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik
+### Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik
 
 ## Spezialkern: Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik
 

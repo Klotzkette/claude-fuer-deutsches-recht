@@ -31,7 +31,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 **Fokus:** Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage.
 
-# Akteneinsicht 25 Sgb X
+### Akteneinsicht 25 Sgb X
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Akteneinsicht 25 Sgb X` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -88,7 +88,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 
 **Fokus:** Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern.
 
-# Das Gericht ermittelt für Sie — § 103 SGG
+### Das Gericht ermittelt für Sie — § 103 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Gericht ermittelt für Sie — § 103 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -233,7 +233,7 @@ Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laie
 
 **Fokus:** Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt.
 
-# Die Anfechtungsklage — § 54 Abs. 1 SGG
+### Die Anfechtungsklage — § 54 Abs. 1 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Anfechtungsklage — § 54 Abs. 1 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -382,7 +382,7 @@ Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 1
 
 **Fokus:** Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren.
 
-# Anlagen zur Klage — sortieren und bezeichnen
+### Anlagen zur Klage — sortieren und bezeichnen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anlagen zur Klage — sortieren und bezeichnen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -518,7 +518,7 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeich
 
 **Fokus:** Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte.
 
-# Anwaltskosten erstattet bekommen
+### Anwaltskosten erstattet bekommen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anwaltskosten erstattet bekommen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

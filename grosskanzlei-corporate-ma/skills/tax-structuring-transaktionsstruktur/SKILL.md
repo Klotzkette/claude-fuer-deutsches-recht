@@ -33,7 +33,7 @@ description: "TAX Structuring Transaktionsstruktur im Corporate/M&A (Großkanzle
 
 **Fokus:** Tax Structuring General für Corporate/M&A: fuehrt steuerliche Strukturthemen, UmwStG-Schnittstellen, Verlustvortraege, Grunderwerbsteuer, Quellensteuer und SPA-Tax-Klauseln zusammen.
 
-# Tax Structuring General
+### Tax Structuring General
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Tax Structuring General` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Prüfraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht für spezifische UmwG-Faelle und zu SPA/APA-Entwurf.
 
-# Transaktionsstrukturierung
+### Transaktionsstrukturierung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Transaktionsstrukturierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -220,7 +220,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Transaktionsstrukturierung
+### Transaktionsstrukturierung
 
 ## Zweck
 
@@ -333,7 +333,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-mit Schritt-für-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur.
 
-# Umwandlungsrecht
+### Umwandlungsrecht
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umwandlungsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -434,7 +434,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Umwandlungsrecht
+### Umwandlungsrecht
 
 ## Zweck
 
@@ -546,7 +546,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungstatbestand. Prüfraster Buchwertantrag-Voraussetzungen, steuerliche Rückwirkung Siebenmonatsfrist, § 8c KStG Schaedlichkeitsprüfung, GrESt-Befreiung und Nachbehaltefristen. Output Steuerliche Strukturmatrix mit Buchwertantrag und Risikobewertung. Abgrenzung zu Umwandlungsrecht für gesellschaftsrechtliche Seite und zu Transaktionsstruktur.
 
-# Umwandlungssteuerrecht
+### Umwandlungssteuerrecht
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umwandlungssteuerrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -645,7 +645,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Umwandlungssteuerrecht
+### Umwandlungssteuerrecht
 
 ## Zweck
 
@@ -755,7 +755,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehender Billing- GoBD- und E-Rechnungsfür M&A-Mandate: Anwendungsfall Kanzlei muss für M&A-Mandat GoBD-konforme Rechnung XRechnung-XML und ZUGFeRD-Prüfpaket erstellen. § 3a RVG Stundenhonorar, GoBD Aufbewahrung, ZUGFeRD XRechnung Standard. Prüfraster Big-Law-Narrative, Phasenbudget WIP, Caps Success Fees, Auslagen Umsatzsteuer, DATEV-Buchungslogik. Output E-Rechnung-Paket mit XRechnung-XML ZUGFeRD-Prüfbericht und Buchungsnachweis. Abgrenzung zu Billing-Narratives-Skill für plugingebundene Abrechnung.
 
-# Freistehender Billing-, GoBD- und E-Rechnungsworkflow
+### Freistehender Billing-, GoBD- und E-Rechnungsworkflow
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Billing-, GoBD- und E-Rechnungsworkflow` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -856,7 +856,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Freistehender Billing-, GoBD- und E-Rechnungsworkflow
+### Freistehender Billing-, GoBD- und E-Rechnungsworkflow
 
 ## Zweck
 
@@ -925,7 +925,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Abgrenzung Aufsichtsrat
+### Beirat Abgrenzung Aufsichtsrat
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Abgrenzung Aufsichtsrat` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -986,7 +986,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Amtszeit Und Rotation
+### Beirat Amtszeit Und Rotation
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Amtszeit Und Rotation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

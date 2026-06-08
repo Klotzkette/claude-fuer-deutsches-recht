@@ -36,7 +36,7 @@ description: "DSV Sanktion Datenpanne Akteneinsicht Vorlage im Datenschutzrecht:
 
 **Fokus:** Datenschutzrecht-Brückenskill: Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen
+### Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen
 
 ## Aufgabe
 
@@ -97,7 +97,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Dokumentenmatrix vor Akteneinsicht: VVT, DSFA, TOM, AVV, Löschkonzept, Incident-Timeline, DSB-Vermerke, Schulungen und Logs einsammeln. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Dokumentenmatrix vor Akteneinsicht
+### Dokumentenmatrix vor Akteneinsicht
 
 ## Aufgabe
 
@@ -158,7 +158,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Durchsuchung Beschlagnahme und Datenzugriff: Extremfälle von Behördenzugriffen auf Server, Kommunikation, Mandatsunterlagen und Geschäftsgeheimnisse vorbereiten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Durchsuchung Beschlagnahme und Datenzugriff
+### Durchsuchung Beschlagnahme und Datenzugriff
 
 ## Aufgabe
 
@@ -219,7 +219,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Frühstellungnahme vor Bußgeldbescheid
+### Frühstellungnahme vor Bußgeldbescheid
 
 ## Aufgabe
 
@@ -280,7 +280,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Hauptverhandlung § 71 OWiG: Hauptverhandlung mit StPO-Logik, Beweisaufnahme, Zeugen, Sachverständigen und Anträgen vorbereiten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Hauptverhandlung § 71 OWiG
+### Hauptverhandlung § 71 OWiG
 
 ## Aufgabe
 
@@ -341,7 +341,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Kosten Auslagen und D&O-Risiko: Verteidigungskosten, Bußgeld, D&O-Meldung, Organhaftung und Versicherungsdeckung abschätzen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Kosten Auslagen und D&O-Risiko
+### Kosten Auslagen und D&O-Risiko
 
 ## Aufgabe
 
@@ -402,7 +402,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Mandanteninterview ohne Selbstbelastung
+### Mandanteninterview ohne Selbstbelastung
 
 ## Aufgabe
 
@@ -463,7 +463,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Maßnahmenplan als Sanktionsminderung: Root Cause, Sofortmaßnahme, Owner, Budget, Wirksamkeitsmessung und Nachweise bußgeldmindernd aufbereiten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Maßnahmenplan als Sanktionsminderung
+### Maßnahmenplan als Sanktionsminderung
 
 ## Aufgabe
 
@@ -524,7 +524,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Organisationsverschulden ersteinschätzen
+### Organisationsverschulden ersteinschätzen
 
 ## Aufgabe
 
@@ -585,7 +585,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Rechtsbeschwerde § 79 OWiG: Rechtsbeschwerde, Zulassung, Verfahrensrügen und unionsrechtliche Vorlagefragen prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Rechtsbeschwerde § 79 OWiG
+### Rechtsbeschwerde § 79 OWiG
 
 ## Aufgabe
 

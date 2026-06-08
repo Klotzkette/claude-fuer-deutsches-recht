@@ -31,7 +31,7 @@ description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret St
 
 **Fokus:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# StPO: Dokumentenmatrix, Lückenliste und Nachforderung
+### StPO: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: StPO: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** StPO.
@@ -94,7 +94,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** StPO.
@@ -131,7 +131,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
+### Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** StPO.
@@ -168,7 +168,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Zeugenbeistand: Internationaler Bezug und Schnittstellen
+### Zeugenbeistand: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Zeugenbeistand: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** StPO.
@@ -229,7 +229,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Abschlussnach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen.
 
-# Abschluss: Urteil, Bewährung und Vollstreckung
+### Abschluss: Urteil, Bewährung und Vollstreckung
 
 ## Zweck
 

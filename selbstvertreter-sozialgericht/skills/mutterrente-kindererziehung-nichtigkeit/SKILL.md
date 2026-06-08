@@ -31,7 +31,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 
 **Fokus:** Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster.
 
-# Mutterrente Und Kindererziehung 56 Sgb Vi
+### Mutterrente Und Kindererziehung 56 Sgb Vi
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mutterrente Und Kindererziehung 56 Sgb Vi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -81,7 +81,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 
 **Fokus:** Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung für Vollziehung und Vollstreckung. Liefert Pruefraster.
 
-# Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X
+### Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -133,7 +133,7 @@ VA ist nichtig wenn besonders schwerer Fehler vorliegt und dieser Fehler bei ver
 
 **Fokus:** Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Wenn LSG Revision nicht zugelassen hat. Grundsatzbedeutung Divergenz Verfahrensmangel mit Anwalt.
 
-# Nichtzulassungsbeschwerde — § 160a SGG
+### Nichtzulassungsbeschwerde — § 160a SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Nichtzulassungsbeschwerde — § 160a SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -243,7 +243,7 @@ Stand: 05/2026. § 160a SGG aktuell. Sehr enges Verfahren.
 
 **Fokus:** Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG.
 
-# Orientierung — Sich selbst vertreten am Sozialgericht
+### Orientierung — Sich selbst vertreten am Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung — Sich selbst vertreten am Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -372,7 +372,7 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. B
 
 **Fokus:** Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage.
 
-# Persoenliches Budget 29 Sgb Ix
+### Persoenliches Budget 29 Sgb Ix
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Persoenliches Budget 29 Sgb Ix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -31,7 +31,7 @@ description: "Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prü
 
 **Fokus:** Staatenlosigkeit: Fachmodul im Migrationsrecht; prüft Status, Dokumente, Schutz, Reiseausweis und Einbürgerungsweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Staatenlosigkeit
+### Staatenlosigkeit
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Status, Dokumente, Schutz, Reiseausweis und Einbürgerungsweg.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Status, 
 
 **Fokus:** Stag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Stag: Verhandlung, Vergleich und Eskalation
+### Stag: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Stag: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU, GEAS.
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Subsidiärer Schutz: Fachmodul im Migrationsrecht; prüft ernsthaften Schaden, bewaffneten Konflikt, Art. 3 EMRK und Länderquellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Subsidiärer Schutz
+### Subsidiärer Schutz
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft ernsthaften Schaden, bewaffneten Konflikt, Art. 3 EMRK und Länderquellen.
@@ -147,7 +147,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft ernsthaf
 
 **Fokus:** Untätigkeitsklage: Fachmodul im Migrationsrecht; prüft Antrag, Sperrfrist, zureichender Grund, Klageziel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Untätigkeitsklage
+### Untätigkeitsklage
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Antrag, Sperrfrist, zureichender Grund, Klageziel.
@@ -183,7 +183,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Antrag, 
 
 **Fokus:** Ehe-/Geburtsurkunden: Fachmodul im Migrationsrecht; prüft Echtheit, Register, Übersetzung, Legalisation/Apostille und Plausibilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Ehe-/Geburtsurkunden
+### Ehe-/Geburtsurkunden
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Echtheit, Register, Übersetzung, Legalisation/Apostille und Plausibilität.

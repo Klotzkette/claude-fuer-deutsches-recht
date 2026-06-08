@@ -29,7 +29,7 @@ description: "Versr D O Spezialfall Deckungsklage Leitfaden im Plugin Fachanwalt
 
 **Fokus:** D&O-Deckung bei Organhaftung: Claims-made, Notice, Wissentlichkeit, Innenhaftung, Insolvenz, Abwehrkosten und Vergleichskontrolle.
 
-# FA Versicherungsrecht: D&O Claims-made
+### FA Versicherungsrecht: D&O Claims-made
 
 ## Einsatz
 
@@ -63,7 +63,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse. Pruefraster für Konzern und Versicherer.
 
-# VersR: D-and-O Spezial
+### VersR: D-and-O Spezial
 
 ## Spezialwissen: VersR: D-and-O Spezial
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
@@ -112,7 +112,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz: Deckungszusage, Abwehrdeckung, Stichentscheid bei Erfolgsaussicht. Pruefraster für Anwalt im Rechtsschutzverfahren.
 
-# VersR: Deckungsklage
+### VersR: Deckungsklage
 
 ## Spezialwissen: VersR: Deckungsklage
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

@@ -30,7 +30,7 @@ description: "Zugang Einwurf Einschreiben Bote Liest im Plugin Arbeitsrecht: pr�
 
 **Fokus:** Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal
+### Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal
 
 ## Aufgabe
 
@@ -79,7 +79,7 @@ Skill für Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert
 
 **Fokus:** Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb
+### Zugang Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb
 
 ## Aufgabe
 
@@ -130,7 +130,7 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 
 **Fokus:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Persoenliche Uebergabe Empfangsverweigerung Und Z
+### Zugang Persoenliche Uebergabe Empfangsverweigerung Und Z
 
 ## Aufgabe
 
@@ -178,7 +178,7 @@ Skill für persönliche Uebergabe der Kuendigung und Behandlung der Empfangsverw
 
 **Fokus:** Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Hausbriefkasten Leerungszeiten Und Zugang
+### Zugang Hausbriefkasten Leerungszeiten Und Zugang
 
 ## Aufgabe
 

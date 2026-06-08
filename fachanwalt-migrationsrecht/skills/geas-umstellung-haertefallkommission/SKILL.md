@@ -31,7 +31,7 @@ description: "Geas Umstellung Haertefallkommission im Migrationsrecht: prüft ko
 
 **Fokus:** GEAS-Umstellung 2026: Fachmodul im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# GEAS-Umstellung 2026
+### GEAS-Umstellung 2026
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft neues EU
 
 **Fokus:** Härtefallkommission: Fachmodul im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Härtefallkommission
+### Härtefallkommission
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier.
@@ -103,7 +103,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landesre
 
 **Fokus:** Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Innerstaatliche Fluchtalternative
+### Innerstaatliche Fluchtalternative
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen.
@@ -139,7 +139,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Erreichb
 
 **Fokus:** Integrationskurs: Fachmodul im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Integrationskurs
+### Integrationskurs
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG.
@@ -175,7 +175,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpflic
 
 **Fokus:** Journalisten/Aktivisten: Fachmodul im Migrationsrecht; prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Journalisten/Aktivisten
+### Journalisten/Aktivisten
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen.

@@ -29,7 +29,7 @@ description: "HGB Kanzlei Beweislast Mopeg im Plugin Fachanwalt Handels Gesellsc
 
 **Fokus:** HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# HGB: Risikoampel, Gegenargumente und Verteidigungslinien
+### HGB: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HGB: Risikoampel, Gegenargumente und Verteidigungslinien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -77,7 +77,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Kanzlei: Beweislast, Darlegungslast und Substantiierung
+### Kanzlei: Beweislast, Darlegungslast und Substantiierung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kanzlei: Beweislast, Darlegungslast und Substantiierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -122,7 +122,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Mopeg: Formular, Portal und Einreichungslogik im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Mopeg: Formular, Portal und Einreichungslogik
+### Mopeg: Formular, Portal und Einreichungslogik
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mopeg: Formular, Portal und Einreichungslogik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

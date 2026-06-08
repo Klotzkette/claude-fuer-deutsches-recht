@@ -33,7 +33,7 @@ description: "GK MA NPL Schuldschein Darlehen im Corporate/M&A (Großkanzlei-Pra
 
 **Fokus:** Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie.
 
-# Big Law M&A: NPL Portfolio und Loan-to-own
+### Big Law M&A: NPL Portfolio und Loan-to-own
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Big Law M&A: NPL Portfolio und Loan-to-own` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -93,7 +93,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen.
 
-# Big Law M&A: Schuldschein Transfer
+### Big Law M&A: Schuldschein Transfer
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Big Law M&A: Schuldschein Transfer` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -153,7 +153,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreihenfolge nach § 3a Abs. 3 EStG und die Schnittstellen zu Restrukturierungsdokumenten. Liefert Prüfraster, Mustertexte für Sanierungsabreden und Verhandlungsleitlinien. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A
+### Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -294,7 +294,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – BMF-Ankoppelung und Strategie
+### Sanierungsgewinn – BMF-Ankoppelung und Strategie
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – BMF-Ankoppelung und Strategie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -444,7 +444,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-Marker und Strategie für notifizierungspflichtige Sanierungen. Adressat ist das Großkanzlei-Team in Sanierungsmandaten mit öffentlich-rechtlichem Einschlag oder staatlicher Beteiligung. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – EU-Beihilfe und Altmark
+### Sanierungsgewinn – EU-Beihilfe und Altmark
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – EU-Beihilfe und Altmark` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -601,7 +601,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und § 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
+### Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -773,7 +773,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit § 3a EStG, § 8c KStG-Effekt, übertragende Sanierung nach §§ 163 InsO, § 613a BGB-Wirkung und Tax-Strukturierung. Liefert Vergleichsraster, Strukturwahl-Matrix und SPA-Mustertexte für beide Varianten. Adressat ist das Großkanzlei-Team in der Strukturentscheidung. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Im Asset Deal vs. Share Deal
+### Sanierungsgewinn – Im Asset Deal vs. Share Deal
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Im Asset Deal vs. Share Deal` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

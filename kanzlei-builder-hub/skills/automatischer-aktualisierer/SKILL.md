@@ -61,7 +61,7 @@ Für jeden Skill in der Installationsliste:
 Für jedes Update den vollständigen Diff anzeigen:
 
 ```diff
-# [skill-name] — [installierter SHA] → [neuester SHA]
+### [skill-name] — [installierter SHA] → [neuester SHA]
 
 ## Änderungen in SKILL.md
 [Unified Diff]

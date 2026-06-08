@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsanschrift.
 
-# Zweigniederlassung ausländischer Gesellschaft
+### Zweigniederlassung ausländischer Gesellschaft
 
 ## Fachlicher Zuschnitt
 

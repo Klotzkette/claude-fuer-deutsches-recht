@@ -31,7 +31,7 @@ description: "Geduldete Beschaeftigung Identitaetsklaerung im Migrationsrecht: p
 
 **Fokus:** Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht; prüft Arbeitserlaubnis, Identität, Voraufenthalt, Lebensunterhalt und Spurwechsel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Geduldete Beschäftigung
+### Geduldete Beschäftigung
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Arbeitserlaubnis, Identität, Voraufenthalt, Lebensunterhalt und Spurwechsel.
@@ -65,7 +65,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Identitätsklärung: Prüfungslinie für Migrationsrecht; führt durch Passbeschaffung, Mitwirkung, Zumutbarkeit und Beweisalternativen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Identitätsklärung
+### Identitätsklärung
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: führt durch Passbeschaffung, Mitwirkung, Zumutbarkeit und Beweisalternativen.
@@ -99,7 +99,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Kindeswohl/Familie: Prüfungslinie für Migrationsrecht; prüft Art. 6 GG, Art. 8 EMRK, Schule, Sorge, Umgang und Trennung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Kindeswohl/Familie
+### Kindeswohl/Familie
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Art. 6 GG, Art. 8 EMRK, Schule, Sorge, Umgang und Trennung.
@@ -133,7 +133,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Laienmodus Migrationsrecht: Prüfungslinie für Migrationsrecht; erklärt Bescheide, Aufenthaltstitel, Fristen und Risiken verständlich und handlungsnah; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Laienmodus Migrationsrecht
+### Laienmodus Migrationsrecht
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: erklärt Bescheide, Aufenthaltstitel, Fristen und Risiken verständlich und handlungsnah.
@@ -167,7 +167,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-migrationsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-migrationsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..

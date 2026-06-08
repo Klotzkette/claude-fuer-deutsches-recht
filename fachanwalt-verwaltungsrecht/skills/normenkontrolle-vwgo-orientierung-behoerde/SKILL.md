@@ -29,7 +29,7 @@ description: "Normenkontrolle Vwgo Orientierung Behörde im Plugin Fachanwalt Ve
 
 **Fokus:** Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen. Normen: § 47 VwGO (Normenkontrolle OVG), Art. 14 GG (Eigentumsschutz), § 1 Abs. 7 BauGB (Abwaegungsgebot). Prüfraster: Antragsfrist 1 Jahr ab Inkrafttreten, Antragsbefugnis, OVG-Zuständigkeit, Abwaegungsfehler. Output Normenkontrollantrag-Entwurf. Abgrenzung: Anfechtungsklage gegen einzelnen VA siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Planfeststellung siehe energietrassen-planfeststellung-rechtsschutz.
 
-# Normenkontrolle § 47 VwGO
+### Normenkontrolle § 47 VwGO
 
 ## Zweck
 
@@ -186,7 +186,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Überblick. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Detailarbeit in Fachmodule; Mandats-Triage siehe mandat-triage-verwaltungsrecht.
 
-# Fachanwalt für Verwaltungsrecht — Orientierung
+### Fachanwalt für Verwaltungsrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -266,7 +266,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behörde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhörung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin.
 
-# Verwaltungsrechts-Vergleich / Behördenkommunikation
+### Verwaltungsrechts-Vergleich / Behördenkommunikation
 
 ## Zweck
 

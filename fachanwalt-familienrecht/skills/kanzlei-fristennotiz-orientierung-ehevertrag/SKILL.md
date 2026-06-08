@@ -31,7 +31,7 @@ description: "Kanzlei Fristennotiz Orientierung Ehevertrag im Plugin Fachanwalt 
 
 **Fokus:** Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Kanzlei: Fristennotiz und nächster Schritt
+### Kanzlei: Fristennotiz und nächster Schritt
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kanzlei: Fristennotiz und nächster Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+### Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -121,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.; Normanker: BGB §§ 138 und 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.
+### Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentati` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -156,7 +156,7 @@ BGB §§ 138, 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen. 
 
 **Fokus:** Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Ehevertrag: Red-Team und Qualitätskontrolle
+### Ehevertrag: Red-Team und Qualitätskontrolle
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ehevertrag: Red-Team und Qualitätskontrolle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -201,7 +201,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Trennungsjahr in der Praxis § 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall. Praxistipps für Beweissicherung, Schriftverkehr, Mandantenleitfaden. Schnittstelle Steuerrecht (Steuerklassenwechsel).
 
-# Familienrecht: Trennungsjahr
+### Familienrecht: Trennungsjahr
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Familienrecht: Trennungsjahr` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

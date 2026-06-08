@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
 
-# Besitzdogmatik, historische Schule und Systemdenken
+### Besitzdogmatik, historische Schule und Systemdenken
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitzdogmatik, historische Schule und Systemdenken` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -112,7 +112,7 @@ Schließe mit einem Satz, ob die historische Dogmatik das Ergebnis trägt, nur e
 
 **Fokus:** Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
 
-# Daseinsvorsorge und Verwaltungsrealismus
+### Daseinsvorsorge und Verwaltungsrealismus
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Daseinsvorsorge und Verwaltungsrealismus` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -176,7 +176,7 @@ Gib eine Daseinsvorsorge-Prüfung mit:
 
 **Fokus:** Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen.
 
-# Demokratie, Gesetzgeber und Gericht
+### Demokratie, Gesetzgeber und Gericht
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Demokratie, Gesetzgeber und Gericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

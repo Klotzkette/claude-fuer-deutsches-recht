@@ -29,7 +29,7 @@ description: "Pflichtteilsergaenzung Frist Fachanwalt im Plugin Fachanwalt Erbre
 
 **Fokus:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Pflichtteilsergaenzung: Fristennotiz und nächster Schritt
+### Pflichtteilsergaenzung: Fristennotiz und nächster Schritt
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteilsergaenzung: Fristennotiz und nächster Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Prüfraster: Testierfähigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht für Pflichtteilsberechnungen.
 
-# Testamentsentwurf
+### Testamentsentwurf
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsentwurf` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -164,7 +164,7 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 
 **Fokus:** Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht für Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung).
 
-# Nachlassinsolvenz und Erbenhaftung begrenzen
+### Nachlassinsolvenz und Erbenhaftung begrenzen
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Nachlassinsolvenz und Erbenhaftung begrenzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

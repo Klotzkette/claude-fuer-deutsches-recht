@@ -31,7 +31,7 @@ description: "Zugewinn TOD Umgangsregelung im Plugin Fachanwalt Familienrecht: p
 
 **Fokus:** Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Zugewinn: Formular, Portal und Einreichungslogik
+### Zugewinn: Formular, Portal und Einreichungslogik
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugewinn: Formular, Portal und Einreichungslogik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG
+### Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -127,7 +127,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Tod nach Rechtskraft vor Umsetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Tod nach Rechtskraft vor Umsetzung
+### Tod nach Rechtskraft vor Umsetzung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Tod nach Rechtskraft vor Umsetzung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -178,7 +178,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Massstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer.
 
-# Umgangsregelung — Mustervorlagen
+### Umgangsregelung — Mustervorlagen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umgangsregelung — Mustervorlagen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -534,7 +534,7 @@ Vollstreckungstitel muss enthalten:
 
 **Fokus:** Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt.
 
-# Unterhalt nach Düsseldorfer Tabelle
+### Unterhalt nach Düsseldorfer Tabelle
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unterhalt nach Düsseldorfer Tabelle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

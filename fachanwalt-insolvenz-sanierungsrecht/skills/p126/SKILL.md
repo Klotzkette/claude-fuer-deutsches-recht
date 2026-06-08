@@ -28,7 +28,7 @@ description: "Inso P126 im Insolvenz- und Sanierungsrecht im Fachanwalt Insolven
 
 **Fokus:** § 126 InsO (Beschlußverfahren zum Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 126 InsO — Beschlußverfahren zum Kündigungsschutz
+### § 126 InsO — Beschlußverfahren zum Kündigungsschutz
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 126 InsO — Beschlußverfahren zum Kündigungsschutz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

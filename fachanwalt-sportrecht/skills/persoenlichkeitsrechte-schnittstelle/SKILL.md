@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik im Plugin fachanwalt sportrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik
+### Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt sportrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
+### Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Spielervertraege: Verhandlung, Vergleich und Eskalation
+### Spielervertraege: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Spielervertraege: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

@@ -31,7 +31,7 @@ description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungs
 
 **Fokus:** Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ordnungsmäßige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Überschneidung) und miet-weg-mediation (außergerichtlich).
 
-# WEG-Beschlussanfechtung (§ 44 WEG)
+### WEG-Beschlussanfechtung (§ 44 WEG)
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG-Beschlussanfechtung (§ 44 WEG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -272,7 +272,7 @@ nichtig festzustellen.
 
 **Fokus:** Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund. Pruefraster bei Schriftformmaengeln und langfristigen Vertraegen.
 
-# Gewerberaum: Mietzeit/Kuendigung
+### Gewerberaum: Mietzeit/Kuendigung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gewerberaum: Mietzeit/Kuendigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -328,7 +328,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte für Vermieter und Mieter, OLG-Rechtsprechung zur Verwertbarkeit.
 
-# Mietspiegel und KI
+### Mietspiegel und KI
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietspiegel und KI` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -384,7 +384,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendungsfristen und verwertbare Schreiben.
 
-# Betriebskostenabrechnung Mietrecht
+### Betriebskostenabrechnung Mietrecht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebskostenabrechnung Mietrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -455,7 +455,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle n
 
 **Fokus:** Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung. Pruefraster typische Forderungen Vermieter und Einreden Mieter.
 
-# Miet: Mietkaution-Streit
+### Miet: Mietkaution-Streit
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet: Mietkaution-Streit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

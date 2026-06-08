@@ -30,7 +30,7 @@ description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft 
 
 **Fokus:** Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerdaten und Kostenträgerstrategie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Orphan ATMP Zugang
+### Orphan ATMP Zugang
 
 ## Fachkern: Orphan ATMP Zugang
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -87,7 +87,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custody und falsche Krebsdiagnose. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Pathologie Probenverwechslung
+### Pathologie Probenverwechslung
 
 ## Fachkern: Pathologie Probenverwechslung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -142,7 +142,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Patientenverfügung in der Klinik: moderner Medizinrechts-Skill für Auslegung von Patientenverfügung, Vorsorgevollmacht, Ethikkomitee und Haftungsangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Patientenverfügung in der Klinik
+### Patientenverfügung in der Klinik
 
 ## Fachkern: Patientenverfügung in der Klinik
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -197,7 +197,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Prädiktive Genetik und Familie: moderner Medizinrechts-Skill für Prädiktiver Test, Angehörigeninformation, Recht auf Nichtwissen und Beratungsdokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Prädiktive Genetik und Familie
+### Prädiktive Genetik und Familie
 
 ## Fachkern: Prädiktive Genetik und Familie
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

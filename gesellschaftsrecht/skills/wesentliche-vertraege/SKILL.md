@@ -28,7 +28,7 @@ description: "Wesentliche Vertraege im Plugin Gesellschaftsrecht im Gesellschaft
 
 **Fokus:** Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext.
 
-# Material-Vertragsverzeichnis (Disclosure Schedule)
+### Material-Vertragsverzeichnis (Disclosure Schedule)
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Material-Vertragsverzeichnis (Disclosure Schedule)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -28,7 +28,7 @@ description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht im Einigungsv
 
 **Fokus:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren. Klage skizzieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
-# Wohnhaus Ddr Enteignung Klage Skizzier
+### Wohnhaus Ddr Enteignung Klage Skizzier
 
 ## Arbeitsauftrag
 

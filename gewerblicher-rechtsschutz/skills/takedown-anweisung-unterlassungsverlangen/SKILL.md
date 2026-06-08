@@ -205,7 +205,7 @@ Empfehlung mit zwei Sätzen Begründung.
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE]
 
-# Eingegangene Meldung — Triagierung
+### Eingegangene Meldung — Triagierung
 
 **Kurzzeichen:** [kurzzeichen]
 **Eingegangen:** [JJJJ-MM-TT]

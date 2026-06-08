@@ -166,7 +166,7 @@ Entspricht das Produkt wirklich dem, was der Werbetext verspricht? Häufiges Ph�
 ### Schritt 5: Ausgabe zusammenstellen
 
 ```markdown
-# Werbeaussagen-Prüfvermerk: [Kampagne / Asset-Name]
+### Werbeaussagen-Prüfvermerk: [Kampagne / Asset-Name]
 
 **Geprüft:** [Datum]
 **Werbemittel:** [Landingpage / E-Mail / Anzeige / etc.]

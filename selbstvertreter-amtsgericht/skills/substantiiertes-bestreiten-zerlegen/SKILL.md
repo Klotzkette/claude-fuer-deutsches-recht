@@ -29,7 +29,7 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 
 **Fokus:** Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen.
 
-# Bestreiten muss substantiiert sein — wie es geht
+### Bestreiten muss substantiiert sein — wie es geht
 
 ## Worum geht es?
 
@@ -183,7 +183,7 @@ Stand: 05/2026. § 138 ZPO unveraendert. BGH-Rechtsprechung zur sekundaeren Darl
 
 **Fokus:** Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren.
 
-# Den Tatbestand zerlegen: Jedes Merkmal beweisen
+### Den Tatbestand zerlegen: Jedes Merkmal beweisen
 
 ## Worum geht es?
 
@@ -339,7 +339,7 @@ Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
 
 **Fokus:** Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schluesselargumente Beweisstuecke Zeugen Anträge Anträge auf Bewilligung erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten.
 
-# Termin im Amtsgericht: So bereiten Sie sich vor
+### Termin im Amtsgericht: So bereiten Sie sich vor
 
 ## Worum geht es?
 

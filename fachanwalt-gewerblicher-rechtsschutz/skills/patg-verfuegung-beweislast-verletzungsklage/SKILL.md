@@ -29,7 +29,7 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 
 **Fokus:** PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ.
 
-# PatG: Schriftsatz-, Brief- und Memo-Bausteine
+### PatG: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Aufgabe
 Dieser Skill liefert Schriftsatz-Gerüste, Briefbausteine und Memo-Strukturen für patenrechtliche Mandate: Verletzungsklage, Nichtigkeitsklage, Berechtigungsanfrage und UPC-Verfahren.
@@ -194,7 +194,7 @@ VI. Empfehlung
 
 **Fokus:** Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren.
 
-# Einstweilige Verfügung: Beweislast und Darlegungslast
+### Einstweilige Verfügung: Beweislast und Darlegungslast
 
 ## Aufgabe
 Dieser Skill behandelt die Darlegungs- und Beweislast in einstweiligen Verfügungsverfahren: Glaubhaftmachung von Verfügungsanspruch und -grund, Mittel und Grenzen.
@@ -326,7 +326,7 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 
 **Fokus:** Verletzungsklage: Sonderfälle und Edge Cases. Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzrechts-Übertragung, Designverletzung bei must-fit, Parallelimport.
 
-# Verletzungsklage: Sonderfälle und Edge Cases
+### Verletzungsklage: Sonderfälle und Edge Cases
 
 ## Aufgabe
 Dieser Skill behandelt die typischen Sonderfälle und Edge Cases bei Verletzungsklagen im gewerblichen Rechtsschutz: ungewöhnliche Einwände, Abgrenzungsprobleme und Randkonstellationen.

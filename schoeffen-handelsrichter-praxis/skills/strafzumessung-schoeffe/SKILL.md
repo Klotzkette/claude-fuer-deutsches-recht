@@ -28,7 +28,7 @@ description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im
 
 **Fokus:** Strafzumessung für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Schuld, Prävention, Vorleben, Geständnis, Opferfolgen und Bewährung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
-# Strafzumessung für Schöffen: Sitzungspraxis
+### Strafzumessung für Schöffen: Sitzungspraxis
 
 ## Fachkern: Strafzumessung für Schöffen: Sitzungspraxis
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.

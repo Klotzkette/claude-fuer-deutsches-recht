@@ -13,7 +13,7 @@ description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwe
 
 ---
 
-# Mandantenintake
+### Mandantenintake
 
 ## Zweck
 

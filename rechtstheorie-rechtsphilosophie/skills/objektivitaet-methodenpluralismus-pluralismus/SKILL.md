@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden plausible Ergebnisse erzeugen.
 
-# Objektivität und Methodenpluralismus
+### Objektivität und Methodenpluralismus
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Objektivität und Methodenpluralismus` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft rechtlichen Pluralismus in EU, Bund, Land, Satzung, Soft Law, Verbandsrecht, Plattformregeln und privaten Ordnungen.
 
-# Pluralismus und Mehrebenenordnung
+### Pluralismus und Mehrebenenordnung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pluralismus und Mehrebenenordnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -144,7 +144,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft positivistische Argumente, ohne moralische Fragen zu verdrängen: Gesetzesbindung, Rechtsquellenklarheit, Trennung von Geltung und Bewertung.
 
-# Positivismus ohne Moralautomat
+### Positivismus ohne Moralautomat
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Positivismus ohne Moralautomat` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

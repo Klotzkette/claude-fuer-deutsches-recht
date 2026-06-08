@@ -31,7 +31,7 @@ description: "Inso P054 Kosten P088 Vollstreckung P095 im Insolvenz- und Sanieru
 
 **Fokus:** § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 54 InsO — Kosten des Insolvenzverfahrens
+### § 54 InsO — Kosten des Insolvenzverfahrens
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 54 InsO — Kosten des Insolvenzverfahrens` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 88 InsO — Vollstreckung vor Verfahrenseröffnung
+### § 88 InsO — Vollstreckung vor Verfahrenseröffnung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 88 InsO — Vollstreckung vor Verfahrenseröffnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -139,7 +139,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 95 InsO — Eintritt der Aufrechnungslage im Verfahren
+### § 95 InsO — Eintritt der Aufrechnungslage im Verfahren
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 95 InsO — Eintritt der Aufrechnungslage im Verfahren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -193,7 +193,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 121 InsO (Betriebsänderungen und Vermittlungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 121 InsO — Betriebsänderungen und Vermittlungsverfahren
+### § 121 InsO — Betriebsänderungen und Vermittlungsverfahren
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 121 InsO — Betriebsänderungen und Vermittlungsverfahren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -247,7 +247,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 124 InsO (Sozialplan vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 124 InsO — Sozialplan vor Verfahrenseröffnung
+### § 124 InsO — Sozialplan vor Verfahrenseröffnung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 124 InsO — Sozialplan vor Verfahrenseröffnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

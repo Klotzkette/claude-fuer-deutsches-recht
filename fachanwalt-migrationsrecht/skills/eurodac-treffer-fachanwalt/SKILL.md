@@ -28,7 +28,7 @@ description: "Eurodac Treffer Fachanwalt im Migrationsrecht: prüft konkret EURO
 
 **Fokus:** EURODAC-Treffer: Fachmodul im Migrationsrecht; prüft Trefferart, Datum, Mitgliedstaat, Datenschutz, Zuständigkeit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# EURODAC-Treffer
+### EURODAC-Treffer
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Trefferart, Datum, Mitgliedstaat, Datenschutz, Zuständigkeit.
@@ -64,7 +64,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Treffera
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

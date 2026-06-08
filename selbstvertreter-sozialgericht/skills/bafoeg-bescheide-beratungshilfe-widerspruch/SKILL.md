@@ -31,7 +31,7 @@ description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am
 
 **Fokus:** BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage.
 
-# Bafoeg Bescheide Widerspruch
+### Bafoeg Bescheide Widerspruch
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bafoeg Bescheide Widerspruch` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -110,7 +110,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 
 **Fokus:** Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil.
 
-# Beratungshilfe — Anwalt vor dem Widerspruch
+### Beratungshilfe — Anwalt vor dem Widerspruch
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beratungshilfe — Anwalt vor dem Widerspruch` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -238,7 +238,7 @@ Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktue
 
 **Fokus:** Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-Liste der Berufskrankheitenverordnung (BKV) typische BK (Larmschwerhoerigkeit Asbestose Hauterkrankungen) den Wie-Tatbestand (§ 9 Abs. 2 SGB VII) und das aufwendige Anerkennungsverfahren. Liefert Vorlage.
 
-# Berufskrankheit Bk Meldung Bkv
+### Berufskrankheit Bk Meldung Bkv
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berufskrankheit Bk Meldung Bkv` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -296,7 +296,7 @@ Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktue
 
 **Fokus:** Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung.
 
-# Berufung zum LSG — § 144 SGG
+### Berufung zum LSG — § 144 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berufung zum LSG — § 144 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -459,7 +459,7 @@ Stand: 05/2026. § 144 SGG aktuell. Wertgrenze 750 EUR.
 
 **Fokus:** Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt.
 
-# Wenn die Wertgrenze nicht erreicht ist — Zulassung?
+### Wenn die Wertgrenze nicht erreicht ist — Zulassung?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wenn die Wertgrenze nicht erreicht ist — Zulassung?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

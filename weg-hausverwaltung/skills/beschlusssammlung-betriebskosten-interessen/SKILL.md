@@ -29,7 +29,7 @@ description: "Beschlusssammlung Betriebskosten Interessen im Plugin Weg Hausverw
 
 **Fokus:** Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine
+### Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Betriebskosten: Mehrparteienkonflikt und Interessenmatrix im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Betriebskosten: Mehrparteienkonflikt und Interessenmatrix
+### Betriebskosten: Mehrparteienkonflikt und Interessenmatrix
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebskosten: Mehrparteienkonflikt und Interessenmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -135,7 +135,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien
+### Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -30,7 +30,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss.
 
-# Bautraeger Belehrungspflicht 17 Beurkg
+### Bautraeger Belehrungspflicht 17 Beurkg
 
 ## Norm
 
@@ -72,7 +72,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit.
 
-# Bautraeger Bonitaetspruefung Warnsignale
+### Bautraeger Bonitaetspruefung Warnsignale
 
 ## Warnsignale waehrend Bau
 
@@ -110,7 +110,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster.
 
-# Bautraeger Elektronische Notarverkuendung 2023
+### Bautraeger Elektronische Notarverkuendung 2023
 
 ## Reform
 
@@ -142,7 +142,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster.
 
-# Bautraeger Finanzierungsgrundschuld Belastungsfolge
+### Bautraeger Finanzierungsgrundschuld Belastungsfolge
 
 ## Globalgrundschuld
 

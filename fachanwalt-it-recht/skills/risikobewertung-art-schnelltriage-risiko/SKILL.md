@@ -31,7 +31,7 @@ description: "DSV Risikobewertung ART Schnelltriage Risiko im Plugin Fachanwalt 
 
 **Fokus:** Strukturiert die Schwellenwertentscheidung nach Art. 33 und Art. 34 DSGVO als anwaltlichen Entscheidungsbaum. Behandelt: voraussichtlich-kein-Risiko-Schwelle Art. 33 Abs. 1; Meldeschwelle; voraussichtlich-hohes-Risiko Art. 34 Abs. 1; Ausnahmen Art. 34 Abs. 3 (technische Schutzmaßnahmen, nachträgliche Risikominderung, unverhältnismäßiger Aufwand); EDSA-Auslegung; deutsche Praxis. Output: Entscheidungsbaum mit Begründungstexten für jede Verzweigung. Abgrenzung: keine konkrete Meldung; keine ENISA-Quantifizierung.
 
-# Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum
+### Schwellenwerte Art. 33 und Art. 34 DSGVO — Entscheidungsbaum
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -85,7 +85,7 @@ Frage 4: Art. 34 Abs. 3 DSGVO Ausnahme? Ja → öffentliche Bekanntmachung statt
 
 **Fokus:** Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung. Behandelt: Vertraulichkeits-, Integritäts- und Verfügbarkeitsverletzung; Datenkategorien; Identifizierbarkeit; Anzahl betroffener Personen; Reversibilität; besondere Schutzbedürftigkeit Kinder Patienten Mitarbeiter; Eintrittswahrscheinlichkeit und Schwere; vorläufige Ampel grün gelb rot schwarz. Output: Triage-Memo mit Begründung und Empfehlung Meldung Ja/Nein/Vorsorglich. Abgrenzung: ersetzt nicht die vertiefte Bewertung nach EDSA-Leitlinien und ENISA.
 
-# Schnelltriage Risikoeinschätzung nach Datenschutzvorfall
+### Schnelltriage Risikoeinschätzung nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -145,7 +145,7 @@ Begründung: drei bis fünf Sätze für die Akte.
 
 **Fokus:** Generiert eine priorisierte Sofortmaßnahmen-Checkliste innerhalb der ersten Stunden nach Bekanntwerden eines Datenschutzvorfalls. Behandelt: Eindämmung; Beweissicherung; Zugriffsbeschränkung; Passwort-Reset; Account-Sperrung; Netzwerksegmentierung; forensische Erstsicherung; Benachrichtigung interner Stakeholder; Versicherungsmeldung; Logging-Sicherung; Backups schützen; Pressepolitik; rechtliche Sofortmaßnahmen bei Insider-Tätern oder Strafanzeige. Output: priorisierte Maßnahmenliste mit Verantwortlichen und Zeitvorgaben. Abgrenzung: keine Behördenmeldung; keine vertiefte Forensik.
 
-# Sofortmaßnahmen-Checkliste nach Datenschutzvorfall
+### Sofortmaßnahmen-Checkliste nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -211,7 +211,7 @@ Priorität 4 (24-72 h):
 
 **Fokus:** Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher. Behandelt: Sozialdatenbegriff § 67 SGB X; Sozialgeheimnis § 35 SGB I; Verhältnis zur DSGVO; Meldepflicht nach § 83a SGB X; besondere Bußgeldvorschriften; Aufsichtsstruktur Bund/Länder. Output: Memo zur Meldepflicht-Doppelspur und Empfehlung. Abgrenzung: keine konkrete Behördenmeldung.
 
-# Sozialdaten im Datenschutzvorfall — SGB I und SGB X
+### Sozialdaten im Datenschutzvorfall — SGB I und SGB X
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -264,7 +264,7 @@ Berichtsformate parallel halten; Konsistenz beachten.
 
 **Fokus:** Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills. Behandelt: Ransomware; Insider-Threat; Fehlversand E-Mail/Brief; Endgeräteverlust; verlorener Datenträger; Cloud-Fehlkonfiguration; offene S3-Buckets; kompromittiertes E-Mail-Konto; Phishing-Erfolg; Schatten-IT; kompromittierter Dienstleister; Web-Defacement; Datenleck durch Whistleblower. Output: Übersichts-Matrix mit Erstbewertung und Verweisen auf vertiefte Skills. Abgrenzung: ersetzt nicht die Einzelbewertung.
 
-# Spezialfälle Datenschutzvorfall — Übersicht für die Triage
+### Spezialfälle Datenschutzvorfall — Übersicht für die Triage
 
 ## Triage — kläre vor der Bearbeitung
 

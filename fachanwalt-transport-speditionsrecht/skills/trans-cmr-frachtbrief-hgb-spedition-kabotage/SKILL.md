@@ -29,7 +29,7 @@ description: "Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt 
 
 **Fokus:** Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger.
 
-# Trans: CMR-Frachtbrief
+### Trans: CMR-Frachtbrief
 
 ## Spezialwissen: Trans: CMR-Frachtbrief
 - **Normen-/Quellenanker:** CMR, Art. 6, Art. 17, SZR, BGH, BVerfG.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber.
 
-# Trans: HGB-Spedition
+### Trans: HGB-Spedition
 
 ## Spezialwissen: Trans: HGB-Spedition
 - **Normen-/Quellenanker:** HGB, BGH, BVerfG.
@@ -127,7 +127,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht. Pruefraster Frachtfuehrer aus Drittstaat.
 
-# Trans: Kabotage Mobility Package
+### Trans: Kabotage Mobility Package
 
 ## Spezialwissen: Trans: Kabotage Mobility Package
 - **Normen-/Quellenanker:** EU, VO.

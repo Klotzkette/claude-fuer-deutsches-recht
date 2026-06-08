@@ -31,7 +31,7 @@ description: "Chatcontrol Csam Einlassung Vorbereiten im Strafrecht: prüft konk
 
 **Fokus:** Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten. § 53 StPO Zeugnisverweigerungsrecht, § 97 StPO Beschlagnahmeverbot, BRAO Anwaltsgeheimnis, EU-Chat-Control-VO-Entwurf. Prüfraster Anwaltsgeheimnis-Schutz, Beschlagnahmeschutz, EU-Regulierungsrisiken, Mandatskommunikation-Sicherheit. Output Rechtsgutachten zu Chat-Control-Risiken für Anwaltsgeheimnis. Abgrenzung zu KI-Governance-Berufsrecht und zu Akteneinsicht.
 
-# ChatControl / EU-CSAM und Anwaltsgeheimnis § 53 StPO
+### ChatControl / EU-CSAM und Anwaltsgeheimnis § 53 StPO
 
 ## Zweck
 
@@ -156,7 +156,7 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 
 **Fokus:** Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO. Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teilschweigen kann gewürdigt werden. Strategie nach Aktenlage Beweiswert Belastungszeugen Bewertung Indizien. Schriftliche oder muendliche Einlassung Schutz vor Falschangaben Glaubwürdigkeitsanalyse. Einlassung wirkt nach BGH zugunsten Beweisbewertung.
 
-# Einlassung vorbereiten
+### Einlassung vorbereiten
 
 ## Kaltstart-Rückfragen
 
@@ -269,7 +269,7 @@ Mit kollegialen Gruessen
 
 **Fokus:** Hauptverhandlung im Strafverfahren vorbereiten: Anwendungsfall Strafverteidiger muss Hauptverhandlung strukturiert vorbereiten mit Einlassung Beweisanträgen und Verfahrenstaktik. § 136 StPO Schweigerecht, § 244 StPO Beweisanträge, § 258 StPO Schlusspledoyer, § 261 StPO freie Beweiswürdigung. Prüfraster Einlassung erarbeiten, Beweisantrag-Liste erstellen, Zeugenliste prüfen, Sachverständigen-Einwendungen vorbereiten, Plaedoyer-Gliederung. Output Vorbereitungschecklist für Hauptverhandlung mit Skript und Reaktionsplan. Abgrenzung zu Plaedoyer-Vorbereitung für spezifisches Schlusspledoyer und zu Einlassung-Vorbereiten.
 
-# Hauptverhandlung vorbereiten
+### Hauptverhandlung vorbereiten
 
 ## Kaltstart-Rückfragen
 
@@ -372,7 +372,7 @@ Dieses Fachmodul nicht nur für die große Strategie, sondern auch für die Tage
 
 **Fokus:** Insolvenzantrag-Massnahmen durch Staatsanwaltschaft im Wirtschaftsstrafrecht: Anwendungsfall Staatsanwaltschaft hat Insolvenzantrag gestellt oder Vermögenswerte beschlagnahmt und Verteidiger muss reagieren. § 283 StGB Bankrott, § 15a InsO Antragspflicht, §§ 111b ff. StPO Beschlagnahme. Prüfraster Insolvenzantrag-Berechtigung prüfen, Beschlagnahme anfechten, Insolvenzantragspflichtverletzung als Strafbarkeitsrisiko einordnen. Output Verteidigungs-Strategie-Memo mit Massnahmenliste gegen Staatsanwaltschafts-Insolvenzantrag. Abgrenzung zu Distressed-MA und zu Wirtschaftsstrafrecht.
 
-# Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n
+### Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -652,7 +652,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Nebenklage und Opfervertretung im Strafverfahren: Anwendungsfall Opfer einer Straftat moechte als Nebenklaeger am Verfahren teilnehmen und anwaltliche Vertretung benoetigen. §§ 395-406h StPO Nebenklage, § 403 StPO Adhaesionsantrag, OEG Opferentschaedigungsgesetz. Prüfraster Nebenklageberechtigung prüfen, Beitrittserklärung formulieren, Akteneinsicht beantragen, taktische Interessen Opfer vs. Strafverfolgung abwaegen. Output Nebenklagebeitrittserklärung mit Antragsliste und Strategie-Memo. Abgrenzung zu Adhaesionsverfahren und zu Erstgespraeach-Mandatsannahme.
 
-# Nebenklage und Opfervertretung im Strafverfahren
+### Nebenklage und Opfervertretung im Strafverfahren
 
 ## Kernsachverhalt & Mandantenfragen
 

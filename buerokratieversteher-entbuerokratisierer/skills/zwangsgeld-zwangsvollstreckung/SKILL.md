@@ -28,7 +28,7 @@ description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Büro
 
 **Fokus:** Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen.
 
-# Zwangsgeld und Behördenvollstreckung
+### Zwangsgeld und Behördenvollstreckung
 
 ## Aufgabe
 Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen.

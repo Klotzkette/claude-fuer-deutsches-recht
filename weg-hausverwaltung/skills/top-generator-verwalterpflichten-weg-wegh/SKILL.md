@@ -29,7 +29,7 @@ description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwal
 
 **Fokus:** Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine.
 
-# TOP-Generator - von Emotion zu Beschluss
+### TOP-Generator - von Emotion zu Beschluss
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `TOP-Generator - von Emotion zu Beschluss` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -84,7 +84,7 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 
 **Fokus:** Prüft Verwalterbestellung, Abberufung, Verwaltervertrag, Aufgaben und Befugnisse nach §§ 26 und 27 WEG (Stand 05/2026), laufende Verwaltung, Eilmaßnahmen, Vertretung der GdWE und Haftung; berücksichtigt BGH V ZR 34/24 (keine Schutzwirkung des Verwaltervertrags) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
 
-# Verwalterpflichten §§ 26, 27 WEG
+### Verwalterpflichten §§ 26, 27 WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verwalterpflichten §§ 26, 27 WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was brau
 
 **Fokus:** Spezialfall bauliche Veraenderung Beschluss WEG nach Reform: privilegierte Massnahmen, Kostenverteilung. Pruefraster für Verwalter und Eigentuemergemeinschaft.
 
-# WEGh: Bauliche Veraenderung WEG
+### WEGh: Bauliche Veraenderung WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEGh: Bauliche Veraenderung WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

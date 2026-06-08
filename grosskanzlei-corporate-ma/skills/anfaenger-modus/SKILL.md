@@ -102,7 +102,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Anfänger-Modus / First-Year-Associate
+### Anfänger-Modus / First-Year-Associate
 
 ## Zweck
 

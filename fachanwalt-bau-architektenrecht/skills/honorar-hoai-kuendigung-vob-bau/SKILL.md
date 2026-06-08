@@ -30,7 +30,7 @@ description: "Honorar HOAI Kuendigung VOB BAU im Plugin Fachanwalt Bau Architekt
 
 **Fokus:** HOAI in Grundzuegen: Leistungsbilder § 34 ff. HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitpunkte.
 
-# Bau: HOAI-Honorar
+### Bau: HOAI-Honorar
 
 ## Spezialwissen: Bau: HOAI-Honorar
 - **Normen-/Quellenanker:** HOAI.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB. Pruefraster und Schriftsatzbausteine für Mandant.
 
-# Bau: VOB-Kuendigung
+### Bau: VOB-Kuendigung
 
 ## Spezialwissen: Bau: VOB-Kuendigung
 - **Normen-/Quellenanker:** VOB, BGB.
@@ -127,7 +127,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Schiedsgutachten in Bauvertraegen: §§ 317 ff. BGB analog, vereinbarte Verbindlichkeit, Inhaltsbestimmung gegen Tatsachenermittlung. SOBau-Regeln, DIS-Schiedsgutachten, einstweilige Verfuegung. Pruefraster und Mustertexte.
 
-# Bau: Schiedsgutachten
+### Bau: Schiedsgutachten
 
 ## Spezialwissen: Bau: Schiedsgutachten
 - **Normen-/Quellenanker:** BGB, DIS.
@@ -175,7 +175,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Sicherungsmittel: § 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergschaft, Gewaehrleistungsbuergschaft, Insolvenz Bauunternehmer. Pruefraster und Mustertexte für Anforderung und Klage.
 
-# Bau: Sicherungsmittel
+### Bau: Sicherungsmittel
 
 ## Spezialwissen: Bau: Sicherungsmittel
 - **Normen-/Quellenanker:** BGB.

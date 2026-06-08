@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Sponsoring: Internationaler Bezug und Schnittstellen
+### Sponsoring: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Sponsoring: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Sportr: Sonderfall und Edge-Case-Pr체fung im Plugin fachanwalt sportrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Sportr: Sonderfall und Edge-Case-Pr체fung
+### Sportr: Sonderfall und Edge-Case-Pr체fung
 
 ## Spezialwissen: Sportr: Sonderfall und Edge-Case-Pr체fung
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt sportrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

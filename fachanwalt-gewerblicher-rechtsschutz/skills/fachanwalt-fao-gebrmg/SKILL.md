@@ -29,7 +29,7 @@ description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft 
 
 **Fokus:** Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung.
 
-# Erstprüfung und Mandatsziel
+### Erstprüfung und Mandatsziel
 
 ## Aufgabe
 Dieser Skill strukturiert die anwaltliche Erstprüfung im gewerblichen Rechtsschutz: Screening der Schutzrechte, Definition des Mandatsziels, Kostenaufklärung und erste strategische Weichenstellung.
@@ -156,7 +156,7 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 
 **Fokus:** FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler.
 
-# FAO-Dokumentenmatrix und Lückenliste
+### FAO-Dokumentenmatrix und Lückenliste
 
 ## Aufgabe
 Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fachanwaltsbezeichnung „Fachanwalt für gewerblichen Rechtsschutz" (§ 14k FAO): Falllistenstruktur, Dokumentation, Lückenanalyse.
@@ -265,7 +265,7 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 
 **Fokus:** Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung.
 
-# Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation
+### Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation
 
 ## Aufgabe
 Dieser Skill behandelt das Gebrauchsmusterrecht in der Praxis: Schutzvoraussetzungen, Abgrenzung zum Patent, Verletzungsverfahren, Verhandlungs- und Vergleichsstrategie und Eskalationspfade.

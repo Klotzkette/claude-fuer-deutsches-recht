@@ -31,7 +31,7 @@ description: "Workflow Rechtsmittel Redteam Qualitygate im Miet- und Wohnungseig
 
 **Fokus:** Rechtsmittel Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Rechtsmittel Miet/WEG
+### Rechtsmittel Miet/WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsmittel Miet/WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Red-Team Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Red-Team Miet/WEG
+### Red-Team Miet/WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Red-Team Miet/WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Red-Team Qualitygate` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -162,7 +162,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Restaurant in WEG-Anlage: Prüfungslinie für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Restaurant in WEG-Anlage
+### Restaurant in WEG-Anlage
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Restaurant in WEG-Anlage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -206,7 +206,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Räumungsrisiko-Ampel: Prüfungslinie für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Räumungsrisiko-Ampel
+### Räumungsrisiko-Ampel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Räumungsrisiko-Ampel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

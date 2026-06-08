@@ -30,7 +30,7 @@ description: "Einstweilige Anordnung Eugh Vorlage im Datenschutz-Sanktionsverfah
 
 **Fokus:** Einstweilige Anordnung § 123 VwGO: Vorläufigen Rechtsschutz bei Untätigkeit, Duldung, Datenfreigabe oder nicht klassischer Anfechtung gestalten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Einstweilige Anordnung § 123 VwGO
+### Einstweilige Anordnung § 123 VwGO
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** EuGH-Vorlagefragen entwickeln: Vorlagefragen zu Art. 83, Umsatzbegriff, Verfahrensgarantien, Art. 58 und Grundrechtecharta formulieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# EuGH-Vorlagefragen entwickeln
+### EuGH-Vorlagefragen entwickeln
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Gerichtstermin-Sprechzettel: Hauptverhandlung oder Erörterungstermin mit Rollen, Beweisthemen, Anträgen und Sprechzetteln vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Gerichtstermin-Sprechzettel
+### Gerichtstermin-Sprechzettel
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Finanzieller Vorteil und Gewinnabschöpfung: Vorteile, Kostenersparnis, Kausalität, Schätzung und Gegenrechnung mit Remediation-Kosten prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Finanzieller Vorteil und Gewinnabschöpfung
+### Finanzieller Vorteil und Gewinnabschöpfung
 
 ## Aufgabe
 

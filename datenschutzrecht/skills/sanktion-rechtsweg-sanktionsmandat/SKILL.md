@@ -31,7 +31,7 @@ description: "DSV Sanktion Rechtsweg Sanktionsmandat im Datenschutzrecht: prüft
 
 **Fokus:** Datenschutzrecht-Brückenskill: Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren
+### Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren
 
 ## Aufgabe
 
@@ -92,7 +92,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Schlussprodukt des Sanktionsmandats planen
+### Schlussprodukt des Sanktionsmandats planen
 
 ## Aufgabe
 
@@ -153,7 +153,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Scope Cut Behördenfragen einhegen: Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Scope Cut Behördenfragen einhegen
+### Scope Cut Behördenfragen einhegen
 
 ## Aufgabe
 
@@ -214,7 +214,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Selbstbelastung und Mitwirkungspflichten: Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Selbstbelastung und Mitwirkungspflichten
+### Selbstbelastung und Mitwirkungspflichten
 
 ## Aufgabe
 
@@ -275,7 +275,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Staatsanwaltschaft im DSGVO-OWiG-Verfahren
+### Staatsanwaltschaft im DSGVO-OWiG-Verfahren
 
 ## Aufgabe
 

@@ -29,7 +29,7 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 
 **Fokus:** Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung.
 
-# Abmahnung: Formular, Portal und Einreichungslogik
+### Abmahnung: Formular, Portal und Einreichungslogik
 
 ## Aufgabe
 Dieser Skill behandelt die formalen Anforderungen an Abmahnungen im gewerblichen Rechtsschutz: gesetzliche Formerfordernisse, Übermittlungswege, Portalzugang und häufige Fehlerquellen.
@@ -135,7 +135,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 
 **Fokus:** Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe.
 
-# Bezüge, Zahlen, Schwellen und Berechnung
+### Bezüge, Zahlen, Schwellen und Berechnung
 
 ## Aufgabe
 Dieser Skill liefert die wichtigsten Zahlen, Gebühren und Berechnungsrahmen im gewerblichen Rechtsschutz: Streitwerte, Anwaltsgebühren, Gerichtsgebühren, Schadensersatz und Behördengebühren.
@@ -253,7 +253,7 @@ Entgangener Gewinn + nachgewiesener Schaden.
 
 **Fokus:** DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege.
 
-# DesignG: Behörden, Gerichte und Registerweg
+### DesignG: Behörden, Gerichte und Registerweg
 
 ## Aufgabe
 Dieser Skill behandelt die behördlichen und gerichtlichen Wege im Designrecht: Anmeldung, Register, Nichtigkeitsverfahren, Gerichtszuständigkeiten und Rechtsmittelwege.

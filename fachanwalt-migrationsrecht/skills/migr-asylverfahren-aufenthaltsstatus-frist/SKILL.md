@@ -30,7 +30,7 @@ description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: pr�
 
 **Fokus:** Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund.
 
-# Migr: Asyl Anhörung
+### Migr: Asyl Anhörung
 
 ## Aufgabe
 Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung.
@@ -120,7 +120,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche
+### Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-migrationsrecht`. Kontext des Plugins: Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.
@@ -159,7 +159,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Aufenthaltstitel: Fristennotiz und nächster Schritt
+### Aufenthaltstitel: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Aufenthaltstitel: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
@@ -203,7 +203,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
+### Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

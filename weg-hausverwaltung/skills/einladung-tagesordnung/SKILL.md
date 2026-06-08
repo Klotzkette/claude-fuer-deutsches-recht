@@ -29,7 +29,7 @@ description: "Einladung Tagesordnung im Plugin Weg Hausverwaltung: prüft konkre
 
 **Fokus:** Chronologie und Belegmatrix im Plugin weg-hausverwaltung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -72,7 +72,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristen- und Risikoampel im Plugin weg-hausverwaltung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen- und Risikoampel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -115,7 +115,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Prüft und erstellt Einladungen zur Eigentümerversammlung mit Tagesordnung, Ladungsfrist, Zugang, Vollmacht, Beschlussgegenständen, Anlagen und Fristenkontrolle (Stand 05/2026). Berücksichtigt § 24 Abs. 4 WEG (Ladungsfrist 3 Wochen), § 23 Abs. 1a WEG (virtuelle Versammlung) und den Vorbefassungsmaßstab BGH V ZR 86/24.
 
-# Einladung, Tagesordnung und Fristen
+### Einladung, Tagesordnung und Fristen
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Einladung, Tagesordnung und Fristen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

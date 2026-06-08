@@ -31,7 +31,7 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 
 **Fokus:** Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster für Verteidiger und Drittbetroffene.
 
-# StrafR: Vermoegensabschoepfung
+### StrafR: Vermoegensabschoepfung
 
 ## Spezialwissen: StrafR: Vermoegensabschoepfung
 - **Normen-/Quellenanker:** BGH.
@@ -80,7 +80,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Pruefraster Wirtschaftsstrafkammer.
 
-# StrafR: Wirtschaftsstrafrecht
+### StrafR: Wirtschaftsstrafrecht
 
 ## Spezialwissen: StrafR: Wirtschaftsstrafrecht
 - **Normen-/Quellenanker:** HGB, AktG.
@@ -129,7 +129,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und Verteidigungslinie.
 
-# Polizeifilmerei, § 201 StGB Und KUG In Der Verteidigung
+### Polizeifilmerei, § 201 StGB Und KUG In Der Verteidigung
 
 ## Worum es geht
 
@@ -204,7 +204,7 @@ Es wird beantragt, die vollständige Einsatzdokumentation einschließlich Bodyca
 
 **Fokus:** Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB. Baut eine schnelle Verteidigungsakte mit Fristen, Einspruch, Akteneinsicht, § 199 StPO-Erwiderung, § 203 StPO-Eröffnungsangriff, Einstellungsanregung, Strafantrag/besonderes öffentliches Interesse nach § 194 StGB und einer Checkliste gegen überdehnte Politikerbeleidigungs-Vorwürfe.
 
-# § 188 StGB — Anklage, Strafbefehl, Eröffnungsverfahren
+### § 188 StGB — Anklage, Strafbefehl, Eröffnungsverfahren
 
 ## Einsatz
 
@@ -270,7 +270,7 @@ Bei Strafbefehl:
 
 **Fokus:** Art.-5-GG-Verteidigung bei § 188 StGB in Schriftsatz und Hauptverhandlung. Entwickelt Argumentation zu politischer Machtkritik, Deutung der Äußerung, Meinung/Tatsache, § 193 StGB, Schmähkritik-Engführung, Eignung zur erheblichen Erschwerung, Befragung von Anzeigeerstatter/Zeugen und Plädoyerbausteinen.
 
-# § 188 StGB — Art. 5 GG, Schriftsatz und Hauptverhandlung
+### § 188 StGB — Art. 5 GG, Schriftsatz und Hauptverhandlung
 
 ## Einsatz
 

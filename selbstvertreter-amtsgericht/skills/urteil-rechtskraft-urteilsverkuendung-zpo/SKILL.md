@@ -29,7 +29,7 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 
 **Fokus:** Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter.
 
-# Rechtskraft des Urteils
+### Rechtskraft des Urteils
 
 ## Worum geht es?
 
@@ -139,7 +139,7 @@ Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
 
 **Fokus:** Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben.
 
-# Urteilsverkuendung: So endet das Verfahren
+### Urteilsverkuendung: So endet das Verfahren
 
 ## Worum geht es?
 
@@ -279,7 +279,7 @@ Stand: 05/2026. § 310 ZPO unveraendert.
 
 **Fokus:** Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und Außergeschäftsraum-Vertraegen kann der Verbraucher am eigenen Wohnsitz klagen oder verklagt werden. Voraussetzungen und Beispiele aus dem Versandhandel Online-Verkauf und Fernabsatzvertraegen.
 
-# Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz
+### Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz
 
 ## Worum geht es?
 

@@ -31,7 +31,7 @@ description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungse
 
 **Fokus:** GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# GEG/Wärmepumpe-Routing
+### GEG/Wärmepumpe-Routing
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `GEG/Wärmepumpe-Routing` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Gerichtstermin Vorbereitung
+### Gerichtstermin Vorbereitung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gerichtstermin Vorbereitung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Gewerberaum-Intake
+### Gewerberaum-Intake
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gewerberaum-Intake` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Haustier-/Nachbarkonflikt
+### Haustier-/Nachbarkonflikt
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Haustier-/Nachbarkonflikt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Hausverwaltungs-Intake
+### Hausverwaltungs-Intake
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hausverwaltungs-Intake` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

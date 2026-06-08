@@ -29,7 +29,7 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 
 **Fokus:** Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung.
 
-# Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
+### Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
 
 ## Zweck
 
@@ -146,7 +146,7 @@ Technischer Baustein:
 
 **Fokus:** US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender.
 
-# US-Transfer-TIA-Dokumentation
+### US-Transfer-TIA-Dokumentation
 
 ## Zweck
 
@@ -292,7 +292,7 @@ Erzeuge auf Wunsch ein zusammenhängendes Paket:
 
 **Fokus:** Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung).
 
-# VVT — Verzeichnis von Verarbeitungstätigkeiten
+### VVT — Verzeichnis von Verarbeitungstätigkeiten
 
 ## Zweck
 

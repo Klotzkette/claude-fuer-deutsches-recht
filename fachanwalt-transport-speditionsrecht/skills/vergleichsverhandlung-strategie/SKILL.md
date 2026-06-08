@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Spe
 
 **Fokus:** Vergleichsverhandlung im Transport- und Speditionsrecht strategisch vorbereiten: BATNA, Angebotsstrategie. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Forderungshoehe, Haftungslimits, Vergleichsspielraum. Output: Vergleichsverhandlungs-Strategie Transport. Abgrenzung: nicht ADSP-Schiedsverfahren.
 
-# Vergleichsverhandlung und Einigung im Transport-, Speditions- und Logistikrecht
+### Vergleichsverhandlung und Einigung im Transport-, Speditions- und Logistikrecht
 
 ## Wann dieser Arbeitsgang greift
 

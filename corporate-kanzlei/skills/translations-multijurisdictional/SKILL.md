@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Multijurisdiktionale Uebersetzungen und Dokumente
+### Multijurisdiktionale Uebersetzungen und Dokumente
 
 ## Triage — klaere vor Erstellung
 

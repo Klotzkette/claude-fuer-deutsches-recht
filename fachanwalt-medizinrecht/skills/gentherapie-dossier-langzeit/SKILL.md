@@ -28,7 +28,7 @@ description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Genth
 
 **Fokus:** Gentherapie-Dossier und GMP-Kette: moderner Medizinrechts-Skill für Qualität, Nichtklinik, Klinik, Herstellkette, Freigabe und Chargen-/Vektorlogik bei Gentherapeutika. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Gentherapie-Dossier und GMP-Kette
+### Gentherapie-Dossier und GMP-Kette
 
 ## Fachkern: Gentherapie-Dossier und GMP-Kette
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Gentherapie Langzeit-Follow-up: moderner Medizinrechts-Skill für Nachbeobachtung über Jahre, Registerdaten, Patientenumzug, Abbruch der Nachsorge und Haftungsfolgen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Gentherapie Langzeit-Follow-up
+### Gentherapie Langzeit-Follow-up
 
 ## Fachkern: Gentherapie Langzeit-Follow-up
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

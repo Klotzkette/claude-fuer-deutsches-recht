@@ -29,7 +29,7 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
@@ -64,7 +64,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
@@ -109,7 +109,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** BImSchG-Genehmigung für Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Prüfraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Prüfung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin.
 
-# Energieanlagen-BImSchG-Genehmigung-Verfahren
+### Energieanlagen-BImSchG-Genehmigung-Verfahren
 
 ## Kernsachverhalt
 

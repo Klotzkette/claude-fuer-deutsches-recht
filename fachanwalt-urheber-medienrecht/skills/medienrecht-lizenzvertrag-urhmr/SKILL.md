@@ -29,7 +29,7 @@ description: "Lizenzvertrag Urhmr im Plugin Fachanwalt Urheber Medienrecht: prü
 
 **Fokus:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung.
 
-# Lizenzvertrag-Verhandlung
+### Lizenzvertrag-Verhandlung
 
 ## Zweck
 
@@ -227,7 +227,7 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
 **Fokus:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster für Urheber und Nutzer.
 
-# UrhMR: Urhebervertrag Bauleiter
+### UrhMR: Urhebervertrag Bauleiter
 
 ## Spezialwissen: UrhMR: Urhebervertrag Bauleiter
 - **Normen-/Quellenanker:** UrhG.

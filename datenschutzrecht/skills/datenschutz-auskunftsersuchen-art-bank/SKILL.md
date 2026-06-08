@@ -31,7 +31,7 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 
 **Fokus:** Auskunftsersuchen nach Art. 15 DSGVO praxisgerecht abarbeiten. Frist Art. 12 III DSGVO ein Monat Verlaengerung um zwei Monate moeglich Begruendung im ersten Monat. Sieben-Fragen-Diagnose zur Mandantenbeurteilung. Schritt-für-Schritt-Anleitung: Identitaet pruefen Datenkategorien sammeln Empfaengerkreis bestimmen Datenkopie Art. 15 III DSGVO erstellen. EuGH C-487/21 Datenkopie EuGH C-307/22 Patientenakte EuGH C-579/21 Empfaengerangabe. Mustertexte für Antwortbrief und Kopfbestaetigung. Abgrenzung: keine Schadensersatzklage (datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit).
 
-# Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis
+### Datenschutz Auskunftsersuchen — Art. 15 DSGVO in der Praxis
 
 ## Zweck
 
@@ -153,7 +153,7 @@ Sieben-Fragen-Diagnose:
 
 **Fokus:** Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten.
 
-# Bankablehnung wegen Score: Beweisplan
+### Bankablehnung wegen Score: Beweisplan
 
 ## Einsatz
 
@@ -187,7 +187,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
-# Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
+### Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
 
 ## Zweck
 
@@ -331,7 +331,7 @@ Sieben-Fragen-Diagnose:
 
 **Fokus:** Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständigkeit, Sachverhalt, Anträge, Belege, gerichtliche Kontrolle.
 
-# Aufsichtsbeschwerde gegen Auskunftei
+### Aufsichtsbeschwerde gegen Auskunftei
 
 ## Einsatz
 
@@ -365,7 +365,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
 
-# Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
+### Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
 
 ## Zweck
 

@@ -29,7 +29,7 @@ description: "Erbfall EU Mandat Triage Pflichtteil Auskunft im Plugin Fachanwalt
 
 **Fokus:** Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.; Normanker: EuErbVO; FamFG; GBO; IPR; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.
+### Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbu` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -61,7 +61,7 @@ EuErbVO; FamFG; GBO; IPR. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeich
 
 **Fokus:** Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills.
 
-# Mandat-Triage Erbrecht
+### Mandat-Triage Erbrecht
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Erbrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -213,7 +213,7 @@ Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensib
 
 **Fokus:** Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.; Normanker: BGB §§ 2303 und 2314 und 2325; ZPO Stufenklage; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.
+### Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

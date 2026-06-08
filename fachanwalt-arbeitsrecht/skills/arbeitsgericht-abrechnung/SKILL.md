@@ -29,7 +29,7 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 
 **Fokus:** Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.
+### Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrec` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -59,7 +59,7 @@ SGB III Sperrzeit; BGB; KSchG; GewO § 109. Rechtsprechung wird nur mit Gericht,
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Individual- und kollektives Arbeitsrecht
+### Vergleichsverhandlung und Einigung im Individual- und kollektives Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Individual- und kollektives Arbeitsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -242,7 +242,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.; Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; BAG-Rechtsprechung live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.
+### Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 
 **Fokus:** Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde.
 
-# Wenn PKH bewilligt oder abgelehnt wird
+### Wenn PKH bewilligt oder abgelehnt wird
 
 ## Worum geht es?
 
@@ -169,7 +169,7 @@ Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
 
 **Fokus:** Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten.
 
-# PKH mit Ratenzahlung
+### PKH mit Ratenzahlung
 
 ## Worum geht es?
 
@@ -273,7 +273,7 @@ Stand: 05/2026. § 120 ZPO unveraendert. Aktuelle PKH-Raten-Tabelle ueber justiz
 
 **Fokus:** Antrag auf Prozesskostenhilfe nach § 114 ZPO. Voraussetzungen Bedürftigkeit Erfolgsaussicht keine Mutwilligkeit. Antragsformular Belege Einkommensnachweise. Wirkung Befreiung von Gerichtskosten und Anwaltskosten. Hinweise für Selbstvertreter.
 
-# Prozesskostenhilfe (PKH): Klage trotz Geldknappheit
+### Prozesskostenhilfe (PKH): Klage trotz Geldknappheit
 
 ## Worum geht es?
 

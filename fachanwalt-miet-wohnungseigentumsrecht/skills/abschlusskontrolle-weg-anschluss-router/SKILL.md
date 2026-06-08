@@ -31,7 +31,7 @@ description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigen
 
 **Fokus:** Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills.
 
-# Miet- und WEG-Kompass
+### Miet- und WEG-Kompass
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet- und WEG-Kompass` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -81,7 +81,7 @@ Gib zuerst eine Kurzlage aus: `Falltyp`, `Frist`, `größtes Risiko`, `fehlende 
 
 **Fokus:** Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Abschlusskontrolle Miet/WEG
+### Abschlusskontrolle Miet/WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abschlusskontrolle Miet/WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -125,7 +125,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
 
-# Anschluss-Skills Router
+### Anschluss-Skills Router
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anschluss-Skills Router` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Balkonkraftwerk und Solar
+### Balkonkraftwerk und Solar
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Balkonkraftwerk und Solar` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -212,7 +212,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Barrierefreiheit in Miete/WEG
+### Barrierefreiheit in Miete/WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Barrierefreiheit in Miete/WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

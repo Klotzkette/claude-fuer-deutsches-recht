@@ -43,7 +43,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Zwitterrecht ALR — historisch-medizinische Dimension. Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Liefert rechtshistorische Pruefraster.
 
-# Pralr Zwitterrecht Historisch Medizinisch Rechtsfolgen
+### Pralr Zwitterrecht Historisch Medizinisch Rechtsfolgen
 
 ## Praxis vor BGB
 

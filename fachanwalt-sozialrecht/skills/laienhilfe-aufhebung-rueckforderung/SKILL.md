@@ -30,7 +30,7 @@ description: "Laienhilfe Aufhebung Rueckforderung im Plugin Fachanwalt Sozialrec
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Aufhebung Rueckforderung
+### Laienhilfe: Aufhebung Rueckforderung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Aufhebung Rueckforderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -109,7 +109,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Beitragsbescheid Krankenkasse
+### Laienhilfe: Beitragsbescheid Krankenkasse
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Beitragsbescheid Krankenkasse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -189,7 +189,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Berufskrankheit
+### Laienhilfe: Berufskrankheit
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Berufskrankheit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -271,7 +271,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Berufung Beschwerde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Berufung Beschwerde
+### Laienhilfe: Berufung Beschwerde
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Berufung Beschwerde` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

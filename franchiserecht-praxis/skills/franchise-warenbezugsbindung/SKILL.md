@@ -28,7 +28,7 @@ description: "Franchise Warenbezugsbindung im Franchiserecht im Franchiserecht: 
 
 **Fokus:** Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Pruefung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Liefert Pruefraster.
 
-# Franchise Warenbezugsbindung Vbe
+### Franchise Warenbezugsbindung Vbe
 
 ## Aufgabe
 

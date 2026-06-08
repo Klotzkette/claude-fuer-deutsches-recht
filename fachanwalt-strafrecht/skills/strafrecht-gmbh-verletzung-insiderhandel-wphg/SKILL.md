@@ -36,7 +36,7 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 
 **Fokus:** Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise.
 
-# Verletzung der Anzeigepflicht nach Paragraph 84 GmbHG
+### Verletzung der Anzeigepflicht nach Paragraph 84 GmbHG
 
 ## Worum geht es konkret
 
@@ -142,7 +142,7 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 
 **Fokus:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
 
-# Insiderhandel § 119 WpHG iVm Art. 14 MAR
+### Insiderhandel § 119 WpHG iVm Art. 14 MAR
 
 ## Worum geht es
 
@@ -265,7 +265,7 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 **Fokus:** Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott.
 
-# Insolvenzverschleppung nach Paragraph 15a InsO
+### Insolvenzverschleppung nach Paragraph 15a InsO
 
 ## Worum geht es konkret
 
@@ -373,7 +373,7 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 **Fokus:** Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus.
 
-# Grenzbeschlagnahme bei IP-Verletzungen nach VO (EU) 608/2013 und Paragraph 142a MarkenG
+### Grenzbeschlagnahme bei IP-Verletzungen nach VO (EU) 608/2013 und Paragraph 142a MarkenG
 
 ## Worum geht es
 
@@ -475,7 +475,7 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 
 **Fokus:** Verteidigung im IP-Strafrecht und Strafantragsfristen. Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB. Privatklage Adhaesion Antragsruecknahme. Verstaendigung Verbotsirrtum Erschoepfung. Trade-off Strafanzeige vs. zivilrechtliches Vorgehen aus Mandantensicht.
 
-# Verteidigung im IP-Strafrecht und Strafantragsfristen
+### Verteidigung im IP-Strafrecht und Strafantragsfristen
 
 ## Worum geht es
 
@@ -600,7 +600,7 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 
 **Fokus:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse für Crowdfunding, Token Offerings, geschlossene Fonds.
 
-# Kapitalanlagebetrug § 264a StGB
+### Kapitalanlagebetrug § 264a StGB
 
 ## Worum geht es
 
@@ -703,7 +703,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 **Fokus:** KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff. KCanG. Erlaubnisverfahren, Mengenkontingent 50 g monatlich pro Mitglied, Mitgliederzahl, Vereinsstruktur. Strafbarkeit bei Verstoss gegen Erlaubnis.
 
-# KCanG: Anbauvereinigung (Cannabis Social Club)
+### KCanG: Anbauvereinigung (Cannabis Social Club)
 
 ## Worum geht es
 
@@ -807,7 +807,7 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 
 **Fokus:** Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach § 34 sowie § 35 KCanG.
 
-# KCanG: Konsum und Eigenbesitz seit 01.04.2024
+### KCanG: Konsum und Eigenbesitz seit 01.04.2024
 
 ## Worum geht es
 
@@ -920,7 +920,7 @@ Weitere Beratung zu Anbauvereinigung oder Schenkung an Bekannte gerne im Folgete
 
 **Fokus:** Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis.
 
-# KCanG: § 34, § 35 Strafvorschriften Cannabis
+### KCanG: § 34, § 35 Strafvorschriften Cannabis
 
 ## Worum geht es
 
@@ -1028,7 +1028,7 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 
 **Fokus:** Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB. BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidungen. Verfassungsrechtliche Grenzen der schadensgleichen Vermoegensgefaehrdung. Revisions- und Verfassungsangriff.
 
-# Konkrete Vermoegensgefaehrdung vs. Schaden bei Paragraph 266 StGB
+### Konkrete Vermoegensgefaehrdung vs. Schaden bei Paragraph 266 StGB
 
 ## Worum geht es konkret
 

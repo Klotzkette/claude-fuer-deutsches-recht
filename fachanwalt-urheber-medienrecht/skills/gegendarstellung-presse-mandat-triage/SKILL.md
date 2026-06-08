@@ -29,7 +29,7 @@ description: "Gegendarstellung Presse Mandat Triage im Plugin Fachanwalt Urheber
 
 **Fokus:** Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Online-Gegendarstellungen nach TMG oder DSA.
 
-# Gegendarstellung nach Pressegesetz
+### Gegendarstellung nach Pressegesetz
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -307,7 +307,7 @@ Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
 
 **Fokus:** Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills.
 
-# Mandat-Triage Urheber- und Medienrecht
+### Mandat-Triage Urheber- und Medienrecht
 
 ## Triage-Fragen
 
@@ -408,7 +408,7 @@ Naechste Schritte:[MASSNAHME 1] bis [DATUM]
 
 **Fokus:** Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz.
 
-# Schriftsatzkern und Substantiierung im Urheber- und Medienrecht
+### Schriftsatzkern und Substantiierung im Urheber- und Medienrecht
 
 ## Triage zu Beginn
 

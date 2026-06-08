@@ -28,7 +28,7 @@ description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law 
 
 **Fokus:** Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit.
 
-# Urheberrecht Angewandte Kunst
+### Urheberrecht Angewandte Kunst
 
 ## Wann dieser Skill hilft
 

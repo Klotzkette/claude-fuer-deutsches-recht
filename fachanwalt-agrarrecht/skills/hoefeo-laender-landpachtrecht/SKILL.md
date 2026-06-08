@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung
+### Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Länder: Behörden-, Gerichts- oder Registerweg
+### Länder: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Länder: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
+### Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

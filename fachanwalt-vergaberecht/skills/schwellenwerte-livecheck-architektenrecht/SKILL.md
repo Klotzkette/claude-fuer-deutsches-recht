@@ -45,7 +45,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk.
 
-# Schwellenwerte 2026/2027 Livecheck
+### Schwellenwerte 2026/2027 Livecheck
 
 ## Zweck
 
@@ -108,7 +108,7 @@ Schwellenwerttabelle, Rechenweg, Los-/Zusammenrechnungspruefung, Rechtswegempfeh
 
 **Fokus:** Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Architektenrecht: Compliance-Dokumentation und Aktenvermerk
+### Architektenrecht: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Architektenrecht: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG, VO.
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel im Plugin fachanwalt vergaberecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
+### Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -202,7 +202,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Konzession: Formular, Portal und Einreichungslogik im Plugin fachanwalt vergaberecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Konzession: Formular, Portal und Einreichungslogik
+### Konzession: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Konzession: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.

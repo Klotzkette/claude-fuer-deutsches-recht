@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Forstrecht: Red-Team und Qualitätskontrolle
+### Forstrecht: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Forstrecht: Red-Team und Qualitätskontrolle
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Hoefe: Sonderfall und Edge-Case-Prüfung
+### Hoefe: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Hoefe: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

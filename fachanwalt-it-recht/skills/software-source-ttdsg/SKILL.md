@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstellen: Formular, Portal und Einreichungslogik
+### Schnittstellen: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Schnittstellen: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Software: Dokumentenmatrix, Lückenliste und Nachforderung
+### Software: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Software: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Source: Internationaler Bezug und Schnittstellen im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Source: Internationaler Bezug und Schnittstellen
+### Source: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Source: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -157,7 +157,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Ttdsg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Ttdsg: Verhandlung, Vergleich und Eskalation
+### Ttdsg: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Ttdsg: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -194,7 +194,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Verhandlung: Abschlussprodukt und Übergabe im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verhandlung: Abschlussprodukt und Übergabe
+### Verhandlung: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Verhandlung: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

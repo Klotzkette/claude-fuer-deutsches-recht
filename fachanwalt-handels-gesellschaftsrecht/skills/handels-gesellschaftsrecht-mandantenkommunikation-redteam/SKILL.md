@@ -29,7 +29,7 @@ description: "Mandantenkommunikation Redteam im Plugin Fachanwalt Handels Gesell
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-handels-gesellschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -101,7 +101,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-handels-gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Red-Team Qualitygate` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -144,7 +144,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Prüfraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Übernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit.
 
-# Squeeze-out Verfahren
+### Squeeze-out Verfahren
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Squeeze-out Verfahren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

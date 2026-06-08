@@ -28,7 +28,7 @@ description: "Notfall Mutmassliche OFF Label im Medizinrecht: prüft konkret Not
 
 **Fokus:** Notfall und mutmaßliche Einwilligung: moderner Medizinrechts-Skill für Bewusstlosigkeit, Zeitdruck, Patientenverfügung, Stellvertreter und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Notfall und mutmaßliche Einwilligung
+### Notfall und mutmaßliche Einwilligung
 
 ## Fachkern: Notfall und mutmaßliche Einwilligung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenlage, lebensbedrohliche Erkrankung und GKV-Erstattung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Off-Label bei seltener Erkrankung
+### Off-Label bei seltener Erkrankung
 
 ## Fachkern: Off-Label bei seltener Erkrankung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

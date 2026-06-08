@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Kanzlei: Mehrparteienkonflikt und Interessenmatrix
+### Kanzlei: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Kanzlei: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Livecheck: Abschlussprodukt und Übergabe
+### Livecheck: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Livecheck: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -119,7 +119,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Mandat: Mandantenkommunikation und Entscheidungsvorlage
+### Mandat: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Mandat: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Orientierung: Sonderfall und Edge-Case-Prüfung
+### Orientierung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

@@ -269,10 +269,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ### Baustein 3: Gesellschafts-Compliance-Tracker YAML (vollständig)
 
 ```yaml
-# Gesellschafts-Compliance-Tracker
-# Erstellt: [JJJJ-MM-TT]
-# Zuletzt aktualisiert: [JJJJ-MM-TT]
-# HINWEIS: Fristen sind nur Referenz — beim Bundesanzeiger/HR/TR bestätigen
+### Gesellschafts-Compliance-Tracker
+### Erstellt: [JJJJ-MM-TT]
+### Zuletzt aktualisiert: [JJJJ-MM-TT]
+### HINWEIS: Fristen sind nur Referenz — beim Bundesanzeiger/HR/TR bestätigen
 
 metadaten:
  unternehmen: "[Konzern- / Mandantenname]"

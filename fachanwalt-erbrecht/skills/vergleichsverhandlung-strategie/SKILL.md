@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Erbrecht im F
 
 **Fokus:** Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft).
 
-# Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht
+### Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

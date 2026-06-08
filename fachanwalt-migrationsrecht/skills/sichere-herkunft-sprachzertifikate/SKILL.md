@@ -28,7 +28,7 @@ description: "Sichere Herkunft Sprachzertifikate im Migrationsrecht: prüft konk
 
 **Fokus:** Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Sichere Herkunft/Drittstaat
+### Sichere Herkunft/Drittstaat
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken.
@@ -64,7 +64,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EU/natio
 
 **Fokus:** Sprachzertifikate: Fachmodul im Migrationsrecht; prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Sprachzertifikate
+### Sprachzertifikate
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle.

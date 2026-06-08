@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren.
 
-# Unrecht und Gehorsamsgrenzen
+### Unrecht und Gehorsamsgrenzen
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unrecht und Gehorsamsgrenzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz.
 
-# Verwaltungsaufgabe versus Rechtsform
+### Verwaltungsaufgabe versus Rechtsform
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verwaltungsaufgabe versus Rechtsform` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -157,7 +157,7 @@ Schließe mit einer präzisen Empfehlung zur rechtssicheren Rechtsform.
 
 **Fokus:** Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert.
 
-# Wirtschaftsprivatrecht und Dogmatik
+### Wirtschaftsprivatrecht und Dogmatik
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wirtschaftsprivatrecht und Dogmatik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

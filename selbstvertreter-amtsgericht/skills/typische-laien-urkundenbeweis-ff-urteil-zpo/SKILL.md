@@ -29,7 +29,7 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 
 **Fokus:** Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen.
 
-# Die haeufigsten Fehler — und wie Sie sie vermeiden
+### Die haeufigsten Fehler — und wie Sie sie vermeiden
 
 ## Worum geht es?
 
@@ -157,7 +157,7 @@ Stand: 05/2026. Praxis-Skill.
 
 **Fokus:** Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten.
 
-# Urkundenbeweis: Schriftliche Dokumente als Beweis
+### Urkundenbeweis: Schriftliche Dokumente als Beweis
 
 ## Worum geht es?
 
@@ -299,7 +299,7 @@ Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
 
 **Fokus:** Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung.
 
-# Das schriftliche Urteil pruefen
+### Das schriftliche Urteil pruefen
 
 ## Worum geht es?
 

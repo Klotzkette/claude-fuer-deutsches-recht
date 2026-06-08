@@ -85,14 +85,14 @@ Mit `--bundle` legt der Skill **zusätzlich** `Schriftsatz_mit_Anlagen.pdf` an: 
 `werkzeuge/build_fluggast_anlagen.py`. Aufruf-Beispiel:
 
 ```bash
-# Forderungsschreiben mit Belegen
+### Forderungsschreiben mit Belegen
 python3 werkzeuge/build_fluggast_anlagen.py \
  --belege ./mandat-mueller/belege \
  --schriftsatz ./mandat-mueller/forderungsschreiben.pdf \
  --ausgang ./mandat-mueller/anlagen \
  --titel "Forderungsschreiben Erste Stufe"
 
-# Klage mit gebundeltem Schriftsatz + Anlagen
+### Klage mit gebundeltem Schriftsatz + Anlagen
 python3 werkzeuge/build_fluggast_anlagen.py \
  --belege ./mandat-mueller/belege \
  --schriftsatz ./mandat-mueller/klage.pdf \

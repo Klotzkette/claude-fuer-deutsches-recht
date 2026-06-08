@@ -31,7 +31,7 @@ description: "Bauliche Veraenderung Betriebskosten im Miet- und Wohnungseigentum
 
 **Fokus:** Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht; ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Bauliche-Veränderung-Routing
+### Bauliche-Veränderung-Routing
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche-Veränderung-Routing` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht; entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Betriebskosten-Schnellscan
+### Betriebskosten-Schnellscan
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebskosten-Schnellscan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -162,7 +162,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht; klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# CO2-Kosten-Routing
+### CO2-Kosten-Routing
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `CO2-Kosten-Routing` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -206,7 +206,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Datenschutz Hausverwaltung
+### Datenschutz Hausverwaltung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenschutz Hausverwaltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

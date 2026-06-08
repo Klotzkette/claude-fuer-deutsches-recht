@@ -29,7 +29,7 @@ description: "Medienverfuegung Beweislast im Plugin Fachanwalt Urheber Medienrec
 
 **Fokus:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
+### Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Persönlichkeitsrecht, Medienverfügung und Abmahnung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Persönlichkeitsrecht, Medienverfügung und Abmahnung
+### Persönlichkeitsrecht, Medienverfügung und Abmahnung
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-urheber-medienrecht`. Kontext des Plugins: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.
@@ -105,7 +105,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
+### Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

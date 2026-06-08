@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist.
 
-# Regeln, Prinzipien und Abwägung
+### Regeln, Prinzipien und Abwägung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, Prinzipien und Abwägung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -113,7 +113,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine.
 
-# Regeln, stilles Wissen und kognitive Entlastung
+### Regeln, stilles Wissen und kognitive Entlastung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Regeln, stilles Wissen und kognitive Entlastung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -176,7 +176,7 @@ Gib eine Regelwissen-Analyse aus:
 
 **Fokus:** Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung.
 
-# Sprache, Begriffe und Fiktionen
+### Sprache, Begriffe und Fiktionen
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sprache, Begriffe und Fiktionen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

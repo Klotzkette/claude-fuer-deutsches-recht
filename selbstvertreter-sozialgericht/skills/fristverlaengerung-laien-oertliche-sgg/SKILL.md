@@ -31,7 +31,7 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 
 **Fokus:** Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten.
 
-# Fristverlaengerung im SG-Verfahren
+### Fristverlaengerung im SG-Verfahren
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristverlaengerung im SG-Verfahren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -161,7 +161,7 @@ Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 
 **Fokus:** Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behörde Sondervorschriften. Wie Sie das richtige SG finden.
 
-# Welches Sozialgericht in welcher Stadt? — § 57 SGG
+### Welches Sozialgericht in welcher Stadt? — § 57 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Welches Sozialgericht in welcher Stadt? — § 57 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -262,7 +262,7 @@ Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung na
 
 **Fokus:** Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht.
 
-# Welche Streitigkeiten gehoeren vor das Sozialgericht?
+### Welche Streitigkeiten gehoeren vor das Sozialgericht?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Welche Streitigkeiten gehoeren vor das Sozialgericht?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -372,7 +372,7 @@ Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialg
 
 **Fokus:** Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext.
 
-# Das Widerspruchsverfahren — § 78 SGG
+### Das Widerspruchsverfahren — § 78 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Widerspruchsverfahren — § 78 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -508,7 +508,7 @@ Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion für Bekanntgabe seit 1.1.2025 (P
 
 **Fokus:** Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen.
 
-# Die Widerspruchsfrist — § 84 SGG
+### Die Widerspruchsfrist — § 84 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Widerspruchsfrist — § 84 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -27,7 +27,7 @@ Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatu
 
 ---
 
-# Mandantenbrief in einfacher Sprache
+### Mandantenbrief in einfacher Sprache
 
 ## Triage zu Beginn
 1. Was soll der Brief mitteilen: Ergebnis einer Pruefung, Verfahrensstand, konkreter naechster Schritt oder Ablehnung?

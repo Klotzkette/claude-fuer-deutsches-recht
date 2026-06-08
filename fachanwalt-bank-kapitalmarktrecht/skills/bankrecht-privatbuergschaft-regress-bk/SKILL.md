@@ -29,7 +29,7 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 
 **Fokus:** Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie.
 
-# Privatbürgschaft und Sittenwidrigkeit
+### Privatbürgschaft und Sittenwidrigkeit
 
 ## Aufgabe
 
@@ -64,7 +64,7 @@ Keine Rechtsprechungsfundstelle ohne Live-Check mit Gericht, Datum und Aktenzeic
 
 **Fokus:** Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen: § 774 BGB, Aufwendungsersatz, Kontobelastung, Sicherheiten, Mitbürgen, Insolvenz, Anfechtung und Vergleich.
 
-# Regress nach Avalzahlung
+### Regress nach Avalzahlung
 
 ## Aufgabe
 
@@ -101,7 +101,7 @@ Liefere:
 
 **Fokus:** Fachanwalts-Fachmodul für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen.
 
-# Bankaufsicht: ZAG, DORA, Inhaberkontrolle und CRR – Arbeitskern
+### Bankaufsicht: ZAG, DORA, Inhaberkontrolle und CRR – Arbeitskern
 
 ## Worum es geht
 

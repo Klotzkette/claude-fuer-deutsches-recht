@@ -31,7 +31,7 @@ description: "Unterhaltsberechnung im Plugin Fachanwalt Familienrecht: prüft ko
 
 **Fokus:** Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Prüfraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Übersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich.
 
-# Unterhaltsberechnung
+### Unterhaltsberechnung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unterhaltsberechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -131,7 +131,7 @@ Mit kollegialen Gruessen
 
 **Fokus:** Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen.
 
-# Versorgungsausgleich
+### Versorgungsausgleich
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versorgungsausgleich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -310,7 +310,7 @@ Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
 
 **Fokus:** Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermögen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermögen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Prüfraster: Anfangsvermögen/Endvermögen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermögen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjährung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen.
 
-# Zugewinnausgleich berechnen
+### Zugewinnausgleich berechnen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugewinnausgleich berechnen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -413,7 +413,7 @@ Mit kollegialen Gruessen
 
 **Fokus:** Familienrecht einfuehrend: Ehe, Scheidung, Zugewinn, Versorgungsausgleich, Unterhalt (Trennungs-, Ehegatten-, Kindes-, Volljaehrigen-), Sorgerecht, Umgangsrecht, Vaterschaft, Adoption. Entscheidungstabelle für Mandantenanfragen und Verweis auf Detail-Skills.
 
-# Familienrecht: Themen-Map
+### Familienrecht: Themen-Map
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Familienrecht: Themen-Map` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -469,7 +469,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Kindeswohlgefaehrdung und Eilantrag: § 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung § 49 FamFG, Inobhutnahme Jugendamt § 42 SGB VIII. Pruefraster und Mustertexte für Eilantrag.
 
-# FamR: Kindeswohl-Eilantrag
+### FamR: Kindeswohl-Eilantrag
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `FamR: Kindeswohl-Eilantrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

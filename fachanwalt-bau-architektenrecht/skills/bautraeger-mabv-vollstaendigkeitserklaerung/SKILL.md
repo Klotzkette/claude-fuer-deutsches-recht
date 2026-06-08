@@ -30,7 +30,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 **Fokus:** MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster.
 
-# Bautraeger Mabv Vollstaendigkeitserklaerung 7
+### Bautraeger Mabv Vollstaendigkeitserklaerung 7
 
 ## Norm
 
@@ -57,7 +57,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 **Fokus:** Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage.
 
-# Bautraeger Maengelruegen Und Formerfordernis
+### Bautraeger Maengelruegen Und Formerfordernis
 
 ## Form
 
@@ -93,7 +93,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 **Fokus:** Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster.
 
-# Bautraeger Pfandfreigabe Und Loeschung
+### Bautraeger Pfandfreigabe Und Loeschung
 
 ## Verfahren
 
@@ -129,7 +129,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 **Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster.
 
-# Bautraeger Rangruecktritt Grundpfandrechte
+### Bautraeger Rangruecktritt Grundpfandrechte
 
 ## Hintergrund
 

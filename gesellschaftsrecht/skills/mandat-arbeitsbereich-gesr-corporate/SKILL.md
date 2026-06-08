@@ -196,7 +196,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — je nach Nutzerprofil aus CLAUDE.md]
 
-# Mandat: [Mandant] — [Kurzbeschreibung]
+### Mandat: [Mandant] — [Kurzbeschreibung]
 
 **Slug:** [slug]
 **Eröffnet:** [JJJJ-MM-TT]
@@ -248,7 +248,7 @@ einsehen? Ist mandatsübergreifender Kontext für dieses Mandat unzulässig?]
 ### Baustein 3: Verlaufsdatei-Vorlage (verlauf.md)
 
 ```markdown
-# Verlauf: [Mandant] — [Kurzbeschreibung]
+### Verlauf: [Mandant] — [Kurzbeschreibung]
 
 Nur-Anhängen-Ereignisprotokoll. Neuestes oben.
 

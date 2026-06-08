@@ -28,7 +28,7 @@ description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung: pr
 
 **Fokus:** Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung. Strafrahmen statt Strafmass; Bindungswirkung bei vollstaendiger Belehrung; Belehrungspflicht Abs. 4 und 5. BVerfG 2 BvR 2628/10 vom 19.03.2013 Verfassungskonformitaet. BGH 1 StR 525/11 vom 07.02.2012 Belehrungspflicht. Typischer Gestaendnisrabatt 25 bis 33 Prozent. Schnittstelle TOA Strafmilderung Plaedoyer.
 
-# Verstaendigung — § 257c StPO
+### Verstaendigung — § 257c StPO
 
 ## Worum geht es?
 

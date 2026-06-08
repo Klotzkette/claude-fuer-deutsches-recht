@@ -29,7 +29,7 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-sportrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-sportrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
@@ -64,7 +64,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-sportrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-sportrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
@@ -99,7 +99,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff. DIS-Sportschiedsgerichtsordnung FIFA RSTP Art. 17. Prüfraster Schiedsklausel-Prüfung Frist-Check Verfahrensart Beweis. Output Schiedsklage-Entwurf Strategie-Memo. Abgrenzung zu cas-berufung-vorbereiten (Berufung) und fachanwalt-sportrecht-doping-verfahren (Doping).
 
-# Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände
+### Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände
 
 ## Zweck
 

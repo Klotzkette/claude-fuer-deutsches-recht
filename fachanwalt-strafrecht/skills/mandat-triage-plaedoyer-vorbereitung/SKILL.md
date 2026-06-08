@@ -31,7 +31,7 @@ description: "Mandat Triage Plaedoyer Vorbereitung im Strafrecht: prüft konkret
 
 **Fokus:** Strukturierte Eingangs-Abfrage für Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftprüfung § 117 StPO, Haftbeschwerde § 304 StPO, Akteneinsicht § 147 StPO, Rechtsmittel und U-Haft-Eskalation. Routing zu Akteneinsicht, Haftmanagement und Strafprozess-Cockpit.
 
-# Mandat-Triage Strafrecht
+### Mandat-Triage Strafrecht
 
 ## Zweck
 
@@ -164,7 +164,7 @@ Erstkontakt im Strafverfahren — oft mit hoher Eilbedürftigkeit (Festnahme U-H
 
 **Fokus:** Plaedoyer für Strafverteidigung vorbereiten und strukturieren: Anwendungsfall nach Abschluss der Beweisaufnahme muss Strafverteidiger Schlusspledoyer mit Schuldfrage Strafzumessung und Verfahrenshindernissen vorbereiten. § 258 StPO Schlusspledoyer, § 46 StGB Strafzumessung, § 261 StPO freie Beweiswürdigung. Prüfraster Schuldfrage anhand Beweisaufnahme, Beweiswürdigungs-Angriff, Strafzumessung Milderungsgründe, Verfahrenshindernisse. Output Plaedoyer-Gliederung mit Kernargumentation und Antragsformulierungen. Abgrenzung zu Hauptverhandlung-Vorbereiten für Gesamtvorbereitung und zu Schriftsatzkern.
 
-# Plädoyer-Vorbereitung Strafverteidigung
+### Plädoyer-Vorbereitung Strafverteidigung
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -444,7 +444,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision: Anwendungsfall Strafverteidiger muss Einspruch gegen Strafbefehl Revisionsbegründung oder Klageerzwingungsantrag verfassen. §§ 410 ff. StPO Einspruch Strafbefehl, § 344 StPO Revisionsbegründung, § 172 Abs. 2 bis 3 StPO Klageerzwingungsantrag, § 147 StPO Akteneinsicht. Prüfraster Tatsachenvortrag-Geruest, Beweisantrag-Liste, Verfahrenshindernisse, Sachrügen und Verfahrensrügen, Strafmass-Hilfsantrag. Output vollständiger Verteidigungs-Schriftsatz mit Antrag Begründung und Beweisangebot. Abgrenzung zu Plaedoyer-Vorbereitung und zu Hauptverhandlung.
 
-# Schriftsatzkern und Substantiierung im Allgemeines und Wirtschaftsstrafrecht
+### Schriftsatzkern und Substantiierung im Allgemeines und Wirtschaftsstrafrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -660,7 +660,7 @@ Vor Versand:
 
 **Fokus:** Adhaesion: Formular, Portal und Einreichungslogik im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Adhaesion: Formular, Portal und Einreichungslogik
+### Adhaesion: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Adhaesion: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** StPO.
@@ -697,7 +697,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
+### Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** StPO, Art. 6, EMRK.

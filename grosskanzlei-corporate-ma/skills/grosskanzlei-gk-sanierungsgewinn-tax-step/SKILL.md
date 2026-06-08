@@ -33,7 +33,7 @@ description: "GK Sanierungsgewinn TAX Step im Corporate/M&A (Großkanzlei-Praxis
 
 **Fokus:** Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Tax Due Diligence im Distressed M&A
+### Sanierungsgewinn – Tax Due Diligence im Distressed M&A
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Tax Due Diligence im Distressed M&A` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -166,7 +166,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Tax Step Plan in der Restrukturierung
+### Sanierungsgewinn – Tax Step Plan in der Restrukturierung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Tax Step Plan in der Restrukturierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -321,7 +321,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adressat ist das Tax- und Restrukturierungsteam der Großkanzlei in der Vorbereitung der Sanierungsmaßnahme. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
+### Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Vorbescheid und verbindliche Auskunft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -476,7 +476,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** AI VDR Classifier: klassifiziert Datenraumdokumente, erkennt Dokumentfamilien, fehlende Anlagen, Widersprueche, Dubletten, Clean-Room-Bedarf und Pruefprioritaeten.
 
-# AI VDR Classifier
+### AI VDR Classifier
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AI VDR Classifier` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -562,7 +562,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschliesslich Transitional Services, IP-License, Supply, Lease, Escrow und Management Agreements.
 
-# Ancillary Documents TSA SLA
+### Ancillary Documents TSA SLA
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ancillary Documents TSA SLA` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -648,7 +648,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Anfänger- und First-Year-Associate-Modus für Großkanzlei Corporate/M&A: fragt Erfahrungslevel, Deal-Phase, Aufgabe, Frist, Unterlagen und gewünschte Führung ab; erklärt Begriffe, zerlegt Aufgaben in kleine Schritte, schlägt passende Plugin-Skills vor und baut Review-Gates für Senior Review.
 
-# Anfänger-Modus / First-Year-Associate
+### Anfänger-Modus / First-Year-Associate
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anfänger-Modus / First-Year-Associate` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -749,7 +749,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Anfänger-Modus / First-Year-Associate
+### Anfänger-Modus / First-Year-Associate
 
 ## Zweck
 
@@ -901,7 +901,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Antitrust, Gun-Jumping und Clean-Team Spezialist: prueft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design.
 
-# Antitrust Gun Jumping Clean Team
+### Antitrust Gun Jumping Clean Team
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Antitrust Gun Jumping Clean Team` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

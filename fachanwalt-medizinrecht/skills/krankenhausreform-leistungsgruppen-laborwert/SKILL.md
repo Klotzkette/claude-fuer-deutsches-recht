@@ -30,7 +30,7 @@ description: "Krankenhausreform Leistungsgruppen Laborwert im Medizinrecht: prü
 
 **Fokus:** Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Krankenhausreform Leistungsgruppen
+### Krankenhausreform Leistungsgruppen
 
 ## Fachkern: Krankenhausreform Leistungsgruppen
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Laborwert Alarmpflicht: moderner Medizinrechts-Skill für Kritischer Laborwert, Befundübermittlung, Praxisurlaub, Portalnachricht und verpasste Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Laborwert Alarmpflicht
+### Laborwert Alarmpflicht
 
 ## Fachkern: Laborwert Alarmpflicht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -138,7 +138,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen.
 
-# Mandat-Triage Medizinrecht
+### Mandat-Triage Medizinrecht
 
 ## Fachkern: Mandat-Triage Medizinrecht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -299,7 +299,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Medical Tourism Liability: moderner Medizinrechts-Skill für Ästhetik-/Zahn-/Fertilitätsbehandlung im Ausland, Vermittler, Nachbehandlung und Gerichtsstand. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Medical Tourism Liability
+### Medical Tourism Liability
 
 ## Fachkern: Medical Tourism Liability
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

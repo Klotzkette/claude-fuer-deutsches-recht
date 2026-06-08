@@ -30,7 +30,7 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 
 **Fokus:** Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster.
 
-# Bautraeger Rueckabwicklung Bei Insolvenz
+### Bautraeger Rueckabwicklung Bei Insolvenz
 
 ## Rueckabwicklungsschritte
 
@@ -67,7 +67,7 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 
 **Fokus:** Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster.
 
-# Bautraeger Selbstvornahme Und Vorschussklage
+### Bautraeger Selbstvornahme Und Vorschussklage
 
 ## Norm
 
@@ -106,7 +106,7 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 
 **Fokus:** Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf.
 
-# Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen
+### Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen
 
 ## Sonderwuensche
 
@@ -149,7 +149,7 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 
 **Fokus:** Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien für den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit.
 
-# Bautraeger Typische Nichtigkeitsfallen Checkliste
+### Bautraeger Typische Nichtigkeitsfallen Checkliste
 
 ## Nichtigkeitstatbestaende
 

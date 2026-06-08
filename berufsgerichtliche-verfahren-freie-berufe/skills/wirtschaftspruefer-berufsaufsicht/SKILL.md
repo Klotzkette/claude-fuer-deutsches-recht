@@ -28,7 +28,7 @@ description: "Wirtschaftspruefer Berufsaufsicht im Berufsgerichtliche Verfahren 
 
 **Fokus:** Wirtschaftsprüfer Berufsaufsicht WPO: prüft WPK, APAS, Qualitätskontrolle, berufsgerichtliche Maßnahmen und Prüfungsfehler in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
-# Wirtschaftsprüfer Berufsaufsicht WPO
+### Wirtschaftsprüfer Berufsaufsicht WPO
 
 ## Fachkern: Wirtschaftsprüfer Berufsaufsicht WPO
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.

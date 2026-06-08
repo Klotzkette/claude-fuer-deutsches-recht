@@ -131,7 +131,7 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-# Mandat: [Mandant] — [Kurzbeschreibung]
+### Mandat: [Mandant] — [Kurzbeschreibung]
 
 **Slug:** [slug]
 **Eröffnet:** [JJJJ-MM-TT]
@@ -173,7 +173,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ### Seed `verlauf.md`
 
 ```markdown
-# Verlauf: [Mandant] — [Kurzbeschreibung]
+### Verlauf: [Mandant] — [Kurzbeschreibung]
 
 Chronologisches Ereignisprotokoll. Jüngster Eintrag oben.
 

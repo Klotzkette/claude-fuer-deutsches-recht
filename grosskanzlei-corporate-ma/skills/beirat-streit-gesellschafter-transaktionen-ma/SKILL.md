@@ -33,7 +33,7 @@ description: "Beirat Streit Gesellschafter Transaktionen MA im Corporate/M&A (Gr
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Streit Gesellschafter
+### Beirat Streit Gesellschafter
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Streit Gesellschafter` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Transaktionen M&A
+### Beirat Transaktionen M&A
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Transaktionen M&A` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Verguetung
+### Beirat Verguetung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Verguetung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -216,7 +216,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Verschwiegenheit
+### Beirat Verschwiegenheit
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Verschwiegenheit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -277,7 +277,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Veto Rechte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Veto Rechte
+### Beirat Veto Rechte
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Veto Rechte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -338,7 +338,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Zustimmungsvorbehalte
+### Beirat Zustimmungsvorbehalte
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Zustimmungsvorbehalte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -399,7 +399,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und Register.
 
-# Big Law M&A: LMA Loan Transfer
+### Big Law M&A: LMA Loan Transfer
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Big Law M&A: LMA Loan Transfer` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

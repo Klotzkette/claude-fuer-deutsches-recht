@@ -31,7 +31,7 @@ description: "Vermieter Intake Vermietung Ferienwohnung im Miet- und Wohnungseig
 
 **Fokus:** Vermieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Vermieter-Intake
+### Vermieter-Intake
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vermieter-Intake` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Ferienwohnung/Zweckentfremdung: Prüfungslinie für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Ferienwohnung/Zweckentfremdung
+### Ferienwohnung/Zweckentfremdung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ferienwohnung/Zweckentfremdung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Versicherungen Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Versicherungen Miete/WEG
+### Versicherungen Miete/WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versicherungen Miete/WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Verwalterhaftung-Start: Prüfungslinie für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Verwalterhaftung-Start
+### Verwalterhaftung-Start
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verwalterhaftung-Start` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Wasserschaden sofort: Prüfungslinie für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Wasserschaden sofort
+### Wasserschaden sofort
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wasserschaden sofort` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

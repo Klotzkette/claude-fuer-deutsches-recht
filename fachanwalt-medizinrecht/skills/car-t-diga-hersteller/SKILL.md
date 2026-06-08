@@ -28,7 +28,7 @@ description: "CAR T Diga Hersteller im Medizinrecht: prüft konkret CAR-T-Behand
 
 **Fokus:** CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# CAR-T-Behandlung: Klinikhaftung
+### CAR-T-Behandlung: Klinikhaftung
 
 ## Fachkern: CAR-T-Behandlung: Klinikhaftung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -86,7 +86,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# DiGA: Hersteller, Arzt und Haftung
+### DiGA: Hersteller, Arzt und Haftung
 
 ## Fachkern: DiGA: Hersteller, Arzt und Haftung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

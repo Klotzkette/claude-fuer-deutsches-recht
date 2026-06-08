@@ -31,7 +31,7 @@ description: "Modernisierungsmieterhoehung WEM im Miet- und Wohnungseigentumsrec
 
 **Fokus:** Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze. Pruefraster Vermieter und Mieter. Mustertext Mieterhoehungsschreiben.
 
-# Miet: Modernisierungsmieterhoehung
+### Miet: Modernisierungsmieterhoehung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet: Modernisierungsmieterhoehung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -88,7 +88,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Massnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz. Pruefraster Vorbereitung Versammlung.
 
-# Miet: WEG bauliche Veraenderung
+### Miet: WEG bauliche Veraenderung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet: WEG bauliche Veraenderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -145,7 +145,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Modernisierung und Erhaltung abgrenzen: Modernisierungsumlage 8 Prozent (Kappung 3 Euro/qm in 6 Jahren), Erhaltungsaufwand auf Vermieter, Duldungspflicht Mieter §§ 555a ff. BGB. Ankuendigung, Form, Inhalt, Mietminderung waehrend Massnahme. Pruefraster und Mustertexte.
 
-# Mietrecht: Modernisierung/Erhalt
+### Mietrecht: Modernisierung/Erhalt
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietrecht: Modernisierung/Erhalt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -201,7 +201,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen. Verfahren bei der Gemeinde, Klage gegen Verweigerung. Mustertexte.
 
-# Milieuschutz: Genehmigung
+### Milieuschutz: Genehmigung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Milieuschutz: Genehmigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -257,7 +257,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Substantiierter Schriftsatzkern für Räumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Wohnraum-, Gewerberaum- und WEG-Recht
+### Schriftsatzkern und Substantiierung im Wohnraum-, Gewerberaum- und WEG-Recht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatzkern und Substantiierung im Wohnraum-, Gewerberaum- und WEG-Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

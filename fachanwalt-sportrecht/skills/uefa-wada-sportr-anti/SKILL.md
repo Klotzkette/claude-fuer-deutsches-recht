@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Uefa: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Uefa: Risikoampel, Gegenargumente und Verteidigungslinien
+### Uefa: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Uefa: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Wada: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wada: Zahlen, Schwellenwerte und Berechnung
+### Wada: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Wada: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Anti-Doping in der Praxis: NADA-Code, WADA-Code, Strict Liability, Verfahrensgang vor Schiedsgericht der NADA und CAS in Lausanne. Aussetzungsgruende, mildernde Umstaende. Pruefraster und Mustertexte für Verteidigung.
 
-# Sportrecht: Anti-Doping
+### Sportrecht: Anti-Doping
 
 ## Spezialwissen: Sportrecht: Anti-Doping
 - **Normen-/Quellenanker:** NADA, WADA, CAS.

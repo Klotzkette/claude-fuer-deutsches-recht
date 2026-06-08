@@ -29,7 +29,7 @@ description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwa
 
 **Fokus:** Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Prüfraster Normen-Überblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing).
 
-# Fachanwalt für Sportrecht — Orientierung
+### Fachanwalt für Sportrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -102,7 +102,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion).
 
-# Stadion-Hausverbot
+### Stadion-Hausverbot
 
 ## Zweck
 
@@ -198,7 +198,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 **Fokus:** Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Vereinsstrafrecht
+### Vereinsstrafrecht
 
 ## Kaltstart-Rückfragen
 

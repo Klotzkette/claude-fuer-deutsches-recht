@@ -28,7 +28,7 @@ description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Ve
 
 **Fokus:** Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit.
 
-# Zweckänderung
+### Zweckänderung
 
 ## Aufgabe
 Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit.

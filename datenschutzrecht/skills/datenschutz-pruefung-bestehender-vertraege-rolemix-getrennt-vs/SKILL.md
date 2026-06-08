@@ -31,7 +31,7 @@ description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im 
 
 **Fokus:** Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan.
 
-# AVV-Audit – Pruefung bestehender Vertraege
+### AVV-Audit – Pruefung bestehender Vertraege
 
 ## Zweck / Purpose
 
@@ -169,7 +169,7 @@ Frist: [DATUM]
 
 **Fokus:** Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung.
 
-# Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung
+### Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung
 
 ## Zweck / Purpose
 
@@ -311,7 +311,7 @@ Datum, Unterschrift Datenschutzbeauftragter
 
 **Fokus:** TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch.
 
-# TOM-Anlage Art. 32 DSGVO
+### TOM-Anlage Art. 32 DSGVO
 
 ## Zweck / Purpose
 
@@ -470,7 +470,7 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 
 **Fokus:** Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenenbenachrichtigung Dokumentation. Output: Meldeschreiben an Aufsichtsbehoerde Betroffenenbenachrichtigung Dokumentationsprotokoll. Abgrenzung: nicht für praeventive Massnahmen (dsfa-erstellung).
 
-# Datenpannen-Meldung (Art. 33/34 DSGVO)
+### Datenpannen-Meldung (Art. 33/34 DSGVO)
 
 ## Zweck
 
@@ -605,7 +605,7 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 
 **Fokus:** Art. 17 DSGVO im Auskunfteifall: Interessenabwägung, öffentliche Registerfrist, Einschränkung, Widerspruch und gerichtliche Durchsetzung.
 
-# Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung
+### Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung
 
 ## Einsatz
 

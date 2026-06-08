@@ -75,7 +75,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Liest `deadlines.yaml` und erzeugt folgende Tabelle:
 
 ```markdown
-# Fristenübersicht — [heute]
+### Fristenübersicht — [heute]
 
 **Aktive Fristen:** [N]
 **Überfällig:** [N] ⚠

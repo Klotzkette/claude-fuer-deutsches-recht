@@ -31,7 +31,7 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 **Fokus:** Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation.
 
-# Pflegegeld Pflegegrad 1 Bis 5
+### Pflegegeld Pflegegrad 1 Bis 5
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegegeld Pflegegrad 1 Bis 5` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -107,7 +107,7 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 **Fokus:** Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine.
 
-# Pflegegrad Mds Gutachten Widerspruch
+### Pflegegrad Mds Gutachten Widerspruch
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegegrad Mds Gutachten Widerspruch` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -170,7 +170,7 @@ Modul 2 oder 3 — das schwerwiegendere zaehlt.
 
 **Fokus:** Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte für Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden für Betroffene und Angehoerige.
 
-# Pflegegrad-Streit nach SGB XI
+### Pflegegrad-Streit nach SGB XI
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegegrad-Streit nach SGB XI` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -359,7 +359,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Massnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage.
 
-# Pflegekasse Pflegehilfsmittel 40 Sgb Xi
+### Pflegekasse Pflegehilfsmittel 40 Sgb Xi
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegekasse Pflegehilfsmittel 40 Sgb Xi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -408,7 +408,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. SGB XI. Skill klaert die kostenlosen Pflegekurse Pflegeberatung Verhinderungspflegegeld Pflegezeit und Familienpflegezeit. Liefert Antragsvorlage.
 
-# Pflegekasse Pflegekurse Und Angehoerige
+### Pflegekasse Pflegekurse Und Angehoerige
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegekasse Pflegekurse Und Angehoerige` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

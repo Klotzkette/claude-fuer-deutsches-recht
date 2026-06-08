@@ -31,7 +31,7 @@ description: "Passbeschaffung Zumutbarkeit Petition im Migrationsrecht: pr체ft k
 
 **Fokus:** Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht; pr체ft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Passbeschaffung Zumutbarkeit
+### Passbeschaffung Zumutbarkeit
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: pr체ft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: pr체ft Mitwirku
 
 **Fokus:** Petition Migration: Fachmodul im Migrationsrecht; pr체ft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Petition Migration
+### Petition Migration
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: pr체ft Landtag/Bundestag, Ziel, Timing, Parallelverfahren.
@@ -103,7 +103,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: pr체ft Landtag/
 
 **Fokus:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
+### Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
@@ -147,7 +147,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
+### Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
@@ -191,7 +191,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Reform: Mandantenkommunikation und Entscheidungsvorlage
+### Reform: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Reform: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.

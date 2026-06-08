@@ -30,7 +30,7 @@ description: "Kinder Schutzbeduerftige Kosten Auslagen im Datenschutz-Sanktionsv
 
 **Fokus:** Kinder und vulnerable Betroffene: Kinder, Patienten, Beschäftigte, Mieterinteressenten und andere Schutzgruppen sanktionsrechtlich einordnen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Kinder und vulnerable Betroffene
+### Kinder und vulnerable Betroffene
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Kosten Auslagen und D&O-Risiko: Verteidigungskosten, Bußgeld, D&O-Meldung, Organhaftung und Versicherungsdeckung abschätzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Kosten Auslagen und D&O-Risiko
+### Kosten Auslagen und D&O-Risiko
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Lieferanten und Auftragsverarbeiter Regress: Regress, AVV-Haftung, Freistellung und Beweissicherung gegen Auftragsverarbeiter nach einem Bußgeldfall vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Lieferanten und Auftragsverarbeiter Regress
+### Lieferanten und Auftragsverarbeiter Regress
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Löschkonzept und Aufbewahrungsfehler: Fehlende Löschung, überlange Speicherung, Backups und Aufbewahrungspflichten als Bußgeldthema strukturieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Löschkonzept und Aufbewahrungsfehler
+### Löschkonzept und Aufbewahrungsfehler
 
 ## Aufgabe
 

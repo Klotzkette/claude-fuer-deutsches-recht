@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Normenkontrolle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verwaltungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Normenkontrolle: Zahlen, Schwellenwerte und Berechnung
+### Normenkontrolle: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Normenkontrolle: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verwaltungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix
+### Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Orientierung: Sonderfall und Edge-Case-Pr체fung im Plugin fachanwalt verwaltungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Orientierung: Sonderfall und Edge-Case-Pr체fung
+### Orientierung: Sonderfall und Edge-Case-Pr체fung
 
 ## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Pr체fung
 - **Normen-/Quellenanker:** VwGO, VwVfG.

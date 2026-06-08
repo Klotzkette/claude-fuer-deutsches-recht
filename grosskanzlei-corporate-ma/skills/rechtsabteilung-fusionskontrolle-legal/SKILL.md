@@ -31,7 +31,7 @@ description: "Rechtsabteilung Fusionskontrolle Legal im Corporate/M&A (Großkanz
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Fusionskontrolle als Closing Condition
+### Rechtsabteilung: Fusionskontrolle als Closing Condition
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Fusionskontrolle als Closing Condition` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -84,7 +84,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz
+### Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -137,7 +137,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Locked Box Leakage aus Konzerncashpool
+### Rechtsabteilung: Locked Box Leakage aus Konzerncashpool
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Locked Box Leakage aus Konzerncashpool` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -190,7 +190,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
+### Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -243,7 +243,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
 
-# GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+### GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 
 ## Kernproblem
 Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren.

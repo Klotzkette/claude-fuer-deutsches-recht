@@ -30,7 +30,7 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 
 **Fokus:** Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil.
 
-# Klageschrift Entfristungsklage — Anwaltliche Version
+### Klageschrift Entfristungsklage — Anwaltliche Version
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift Entfristungsklage — Anwaltliche Version` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -178,7 +178,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 **Fokus:** Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
 
-# Klageschrift Entfristungsklage — Laien-Baustein
+### Klageschrift Entfristungsklage — Laien-Baustein
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift Entfristungsklage — Laien-Baustein` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -330,7 +330,7 @@ ____________________________
 
 **Fokus:** Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist.
 
-# Entfristung: Laie oder Anwalt?
+### Entfristung: Laie oder Anwalt?
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Entfristung: Laie oder Anwalt?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -401,7 +401,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche Annahmeverzug; Weiterbeschaeftigungsantrag.
 
-# Rechtsfolge der unwirksamen Befristung — § 16 TzBfG
+### Rechtsfolge der unwirksamen Befristung — § 16 TzBfG
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsfolge der unwirksamen Befristung — § 16 TzBfG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 
 **Fokus:** Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung).
 
-# Pflichtteilsergänzungsanspruch § 2325 BGB
+### Pflichtteilsergänzungsanspruch § 2325 BGB
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteilsergänzungsanspruch § 2325 BGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 **Fokus:** Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung.
 
-# Testamentsvollstreckung
+### Testamentsvollstreckung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsvollstreckung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -536,7 +536,7 @@ Anlagen: Beweise für Pflichtverletzungen
 
 **Fokus:** Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen. §§ 2032 2042 2047 BGB Erbengemeinschaft. Prüfraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage.
 
-# Mediation / Vergleich bei Erbengemeinschaft
+### Mediation / Vergleich bei Erbengemeinschaft
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mediation / Vergleich bei Erbengemeinschaft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

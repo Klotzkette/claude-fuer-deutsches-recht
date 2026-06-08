@@ -31,7 +31,7 @@ description: "Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: 
 
 **Fokus:** Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Blaue Karte: EU-Mobilität
+### Blaue Karte: EU-Mobilität
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Wechsel 
 
 **Fokus:** Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Blaue Karte: Gehalt und Abschluss
+### Blaue Karte: Gehalt und Abschluss
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung.
@@ -103,7 +103,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mindestg
 
 **Fokus:** Bleiberecht §§ 25a/25b: Fachmodul im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Bleiberecht §§ 25a/25b
+### Bleiberecht §§ 25a/25b
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt.
@@ -139,7 +139,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Jugendli
 
 **Fokus:** Chancen-Aufenthalt: Fachmodul im Migrationsrecht; prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Chancen-Aufenthalt
+### Chancen-Aufenthalt
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss.
@@ -175,7 +175,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Voraufen
 
 **Fokus:** Chancenkarte Punktesystem: Fachmodul im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Chancenkarte Punktesystem
+### Chancenkarte Punktesystem
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus.

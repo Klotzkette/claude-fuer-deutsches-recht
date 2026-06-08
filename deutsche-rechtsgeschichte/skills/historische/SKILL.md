@@ -28,7 +28,7 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 
 **Fokus:** Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Deutsche Rechtsgeschichte: 020 Historische Verfassungsvergleiche Als Argumentations
+### Deutsche Rechtsgeschichte: 020 Historische Verfassungsvergleiche Als Argumentations
 
 ## Aufgabe
 

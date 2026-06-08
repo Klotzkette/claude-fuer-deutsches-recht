@@ -28,7 +28,7 @@ description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht: prüf
 
 **Fokus:** Routet Widerspruch, Anfechtungsklage, § 80 Abs. 5 VwGO und § 123 VwGO bei versammlungsrechtlichen Bescheiden.
 
-# Schneller Rechtsschutz vor dem Termin
+### Schneller Rechtsschutz vor dem Termin
 
 ## Worum es geht
 Kläre Bescheidtyp: Verbot, Auflage, Sofortvollzug, Untätigkeit, faktische Verhinderung, verweigerte Zulassung in Bannmeile. Daraus folgt der richtige Eilrechtsschutz.

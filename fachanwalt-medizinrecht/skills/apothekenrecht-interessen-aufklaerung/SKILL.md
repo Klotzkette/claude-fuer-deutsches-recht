@@ -28,7 +28,7 @@ description: "Apothekenrecht Interessen Aufklaerung im Medizinrecht: prüft konk
 
 **Fokus:** Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix
+### Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix
 
 ## Fachkern: Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Aufklaerung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Aufklaerung: Beweislast, Darlegungslast und Substantiierung
+### Aufklaerung: Beweislast, Darlegungslast und Substantiierung
 
 ## Fachkern: Aufklaerung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

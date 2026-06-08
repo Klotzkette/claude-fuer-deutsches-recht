@@ -29,7 +29,7 @@ description: "Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherin
 
 **Fokus:** Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.
+### Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.
 
 ## Fachkern: Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO §§ 305, 307-309; ZPO §§ 850c ff.. Entscheidend ist immer der aktuelle N
 
 **Fokus:** Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.
+### Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.
 
 ## Fachkern: Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO §§ 35, 49; ZVG; BGB Sicherheiten. Entscheidend ist immer der aktuelle Nor
 
 **Fokus:** Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.
+### Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.
 
 ## Fachkern: Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

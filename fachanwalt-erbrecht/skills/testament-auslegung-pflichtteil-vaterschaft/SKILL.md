@@ -29,7 +29,7 @@ description: "Testament Auslegung Pflichtteil Vaterschaft im Plugin Fachanwalt E
 
 **Fokus:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Testament: Risikoampel, Gegenargumente und Verteidigungslinien
+### Testament: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testament: Risikoampel, Gegenargumente und Verteidigungslinien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.; Normanker: BGB §§ 133 und 2084 und 2065; FamFG Erbschein; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.
+### Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -106,7 +106,7 @@ BGB §§ 133, 2084, 2065; FamFG Erbschein. Rechtsprechung wird nur mit Gericht, 
 
 **Fokus:** Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs. 5 BGB, § 2317 BGB, § 199 BGB und Auskunftsansprüchen nach § 2314 BGB.
 
-# Pflichtteil: postmortale Vaterschaft, Verjährung, Auskunft und Stufenklage
+### Pflichtteil: postmortale Vaterschaft, Verjährung, Auskunft und Stufenklage
 
 ## Verifizierter Kern
 BGH, Urteil vom 12.03.2025 - IV ZR 88/24: Für die Entstehung des Pflichtteilsanspruchs bleibt § 2317 Abs. 1 BGB maßgeblich; Kenntnis im Sinne von § 199 Abs. 1 Nr. 2 BGB kann bei nichtehelichem Kind zusätzlich Kenntnis von Anerkennung oder rechtskräftiger Feststellung der Vaterschaft verlangen.

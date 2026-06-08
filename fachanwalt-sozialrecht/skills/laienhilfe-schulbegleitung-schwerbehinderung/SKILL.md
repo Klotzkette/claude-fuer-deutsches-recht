@@ -30,7 +30,7 @@ description: "Laienhilfe Schulbegleitung Schwerbehinderung im Plugin Fachanwalt 
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Schulbegleitung Kind. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Schulbegleitung Kind
+### Laienhilfe: Schulbegleitung Kind
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Schulbegleitung Kind` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -99,7 +99,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Schwerbehinderung Gdb
+### Laienhilfe: Schwerbehinderung Gdb
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Schwerbehinderung Gdb` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -179,7 +179,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii Grundsicherung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Sgb Xii Grundsicherung
+### Laienhilfe: Sgb Xii Grundsicherung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Sgb Xii Grundsicherung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -248,7 +248,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Telefonat Behörde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Telefonat Behörde
+### Laienhilfe: Telefonat Behörde
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Telefonat Behörde` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

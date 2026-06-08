@@ -88,7 +88,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Mandant / Kanzlei intern — **Tonfall:** sachlich-juristisch
 
 ```
-# Haftungsanalyse Geschäftsführer-Haftung § 43 GmbHG
+### Haftungsanalyse Geschäftsführer-Haftung § 43 GmbHG
 Gesellschaft: [FIRMA / HRB-NUMMER]
 Geschäftsführer: [NAME]
 Bearbeitungsstand: [DATUM]

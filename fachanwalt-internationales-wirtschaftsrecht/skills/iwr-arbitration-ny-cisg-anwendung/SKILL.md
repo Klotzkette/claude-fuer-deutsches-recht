@@ -29,7 +29,7 @@ description: "IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsre
 
 **Fokus:** Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Pruefung Versagungsgruende Art. V, Anerkennungsverfahren in Deutschland nach § 1061 ZPO. Pruefraster und Schriftsatzbausteine.
 
-# IWR: Schiedsgerichts-Vollstreckung
+### IWR: Schiedsgerichts-Vollstreckung
 
 ## Spezialwissen: IWR: Schiedsgerichts-Vollstreckung
 - **Normen-/Quellenanker:** ZPO, IWR.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster für Vertragsentwurf.
 
-# IWR: CISG-Anwendung
+### IWR: CISG-Anwendung
 
 ## Spezialwissen: IWR: CISG-Anwendung
 - **Normen-/Quellenanker:** UN, CISG, Art. 39, Art. 74, BGB, IWR.
@@ -125,7 +125,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art. 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte für typische Konstellationen B2B und Verbraucher.
 
-# IWR: Rechtswahl-Praxis
+### IWR: Rechtswahl-Praxis
 
 ## Spezialwissen: IWR: Rechtswahl-Praxis
 - **Normen-/Quellenanker:** Art. 3, ROM, Art. 25, EuGVVO, IWR.

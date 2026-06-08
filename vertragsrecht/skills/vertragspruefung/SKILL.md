@@ -291,7 +291,7 @@ und Eskalationsanfrage formulieren.
 ```markdown
 [ARBEITSERGEBNIS-KENNZEICHNUNG]
 
-# Vertragsprüfung: [Vertragspartner] — [Vertragstyp]
+### Vertragsprüfung: [Vertragspartner] — [Vertragstyp]
 **Prüfdatum:** [Datum]
 **Mandatsseite:** [Verwender / Vertragspartner-Seite]
 **Routing:** [angewandte Prüfpfade]

@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad.
 
-# Krisenverfassung und permanenter Notstand
+### Krisenverfassung und permanenter Notstand
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krisenverfassung und permanenter Notstand` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -114,7 +114,7 @@ Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, ab
 
 **Fokus:** Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung.
 
-# Legalitätsprinzipien als Rechtsstaatsmotor
+### Legalitätsprinzipien als Rechtsstaatsmotor
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legalitätsprinzipien als Rechtsstaatsmotor` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -173,7 +173,7 @@ Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, insti
 
 **Fokus:** Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen.
 
-# Legitimität richterlicher Rechtsfortbildung
+### Legitimität richterlicher Rechtsfortbildung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legitimität richterlicher Rechtsfortbildung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

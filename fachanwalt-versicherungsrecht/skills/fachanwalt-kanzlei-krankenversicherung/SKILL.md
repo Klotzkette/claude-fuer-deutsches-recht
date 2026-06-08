@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
+### Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kanzlei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Kanzlei: Compliance-Dokumentation und Aktenvermerk
+### Kanzlei: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Kanzlei: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien
+### Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** VVG, VAG.

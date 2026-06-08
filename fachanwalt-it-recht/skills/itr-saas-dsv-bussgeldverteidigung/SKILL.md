@@ -31,7 +31,7 @@ description: "ITR Saas DSV Bussgeldverteidigung im Plugin Fachanwalt It Recht: p
 
 **Fokus:** SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B.
 
-# IT-Recht: SaaS-Vertragstypen
+### IT-Recht: SaaS-Vertragstypen
 
 ## Spezialwissen: IT-Recht: SaaS-Vertragstypen
 - **Normen-/Quellenanker:** IT, BGH.
@@ -79,7 +79,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG.
 
-# Bußgeldverteidigung Art. 83 DSGVO nach Datenschutzvorfall
+### Bußgeldverteidigung Art. 83 DSGVO nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -137,7 +137,7 @@ Schritt 6: Stellungnahme verfassen; ggf. Bußgeldbescheid abwarten; Einspruch fr
 
 **Fokus:** Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung.
 
-# Schadensersatz nach Art. 82 DSGVO — Verteidigung
+### Schadensersatz nach Art. 82 DSGVO — Verteidigung
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -196,7 +196,7 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 
 **Fokus:** Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjährung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Prüfraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Rücktritt Open-Source-GPL-Compliance. Output Mangel-Prüfprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung.
 
-# Softwarefehler — Mangelhaftung prüfen
+### Softwarefehler — Mangelhaftung prüfen
 
 ## Kaltstart-Rückfragen
 
@@ -459,7 +459,7 @@ Anlagen: Fehlerprotokoll, Screenshots, Log-Auszuege (Anlage K1–K3)
 
 **Fokus:** Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsprivileg; Scope; Triage versus tiefe Analyse; Berichtsformate; Kommunikation mit Aufsichtsbehörde; Schnittstellen zur Cyberversicherung. Output: Beauftragungsmuster, Briefing für Forensiker und Steuerungsraster. Abgrenzung: keine eigene forensische Tätigkeit; keine technische Anleitung.
 
-# Forensische Erstsicherung — Beauftragung und Steuerung
+### Forensische Erstsicherung — Beauftragung und Steuerung
 
 ## Triage — kläre vor der Bearbeitung
 

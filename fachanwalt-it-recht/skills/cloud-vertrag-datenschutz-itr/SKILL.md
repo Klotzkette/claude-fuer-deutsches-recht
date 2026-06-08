@@ -31,7 +31,7 @@ description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüf
 
 **Fokus:** Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr.
 
-# Vertragsstrafe prüfen
+### Vertragsstrafe prüfen
 
 ## Kaltstart-Rückfragen
 
@@ -190,7 +190,7 @@ sind verifiziert.
 
 **Fokus:** Datenschutz-Due-Diligence für Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Pruefung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
 
-# IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
+### IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
 
 ## Zweck
 
@@ -335,7 +335,7 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 
 **Fokus:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-für-Schritt für Vertragspruefung. Mustertexte für Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
 
-# IT-Recht — Datenschutz im IT-Vertrag
+### IT-Recht — Datenschutz im IT-Vertrag
 
 ## Zweck
 
@@ -451,7 +451,7 @@ Sieben-Fragen-Diagnose:
 
 **Fokus:** Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster für Customer und Vendor.
 
-# IT: KI-Systeme Vertragsklausel
+### IT: KI-Systeme Vertragsklausel
 
 ## Spezialwissen: IT: KI-Systeme Vertragsklausel
 - **Normen-/Quellenanker:** KI, IT.
@@ -500,7 +500,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus. Standardklauseln und Verhandlungstipps.
 
-# IT: SaaS-Vertrag Bauleiter
+### IT: SaaS-Vertrag Bauleiter
 
 ## Spezialwissen: IT: SaaS-Vertrag Bauleiter
 - **Normen-/Quellenanker:** IT.

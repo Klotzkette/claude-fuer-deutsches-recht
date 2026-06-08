@@ -29,7 +29,7 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 
 **Fokus:** Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie.
 
-# Spezial: Vergleichspraxis — Mehrparteien, Konflikt und Interessen
+### Spezial: Vergleichspraxis — Mehrparteien, Konflikt und Interessen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Vergleichspraxis — Mehrparteien, Konflikt und Interessen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -136,7 +136,7 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 
 **Fokus:** Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch. Aufklärungspflicht des Anwalts, Dokumentation der Entscheidung, Informed Consent.
 
-# Spezial: Verifizierte Mandantenentscheidung
+### Spezial: Verifizierte Mandantenentscheidung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Verifizierte Mandantenentscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -242,7 +242,7 @@ Wenn der Mandant eine Entscheidung treffen will, die nach Einschätzung des Anwa
 
 **Fokus:** Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um.
 
-# Entgeltgleichheit: Paarvergleich, Bonus, Phantom Shares und Beweislast
+### Entgeltgleichheit: Paarvergleich, Bonus, Phantom Shares und Beweislast
 
 ## Verifizierter Kern
 BAG, Urteil vom 23.10.2025 - 8 AZR 300/24, bundesarbeitsgericht.de: Eine Entgeltgleichheitsklage kann auf eine einzelne Vergleichsperson des anderen Geschlechts gestützt werden; bei Entgeltgleichheit gilt eine unionsrechtlich geprägte Beweislastlogik über § 22 AGG, ohne dass schon überwiegende Wahrscheinlichkeit verlangt wird.

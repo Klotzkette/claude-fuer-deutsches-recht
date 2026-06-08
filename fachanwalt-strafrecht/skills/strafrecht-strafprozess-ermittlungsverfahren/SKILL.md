@@ -31,7 +31,7 @@ description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret So
 
 **Fokus:** Sofortmaßnahmen im Ermittlungsverfahren: Polizei- oder StA-Kontakt, Vorladung, Durchsuchung, Beschlagnahme, Festnahme, Akteneinsicht, Schweigerecht, Pflichtverteidigung, Presse- und Familienkontakt in eine sichere Verteidigungsroutine bringen.
 
-# Ermittlungsverfahren: Sofortmaßnahmen
+### Ermittlungsverfahren: Sofortmaßnahmen
 
 ## Zweck
 
@@ -87,7 +87,7 @@ Erzeuge:
 
 **Fokus:** Rechtsmittel- und Notfristencockpit im Strafverfahren: prüft Strafbefehlseinspruch, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung, Empfangsbekenntnis, Fristbeginn und Mandantenentscheidung.
 
-# Rechtsmittel- und Notfristencockpit
+### Rechtsmittel- und Notfristencockpit
 
 ## Zweck
 
@@ -159,7 +159,7 @@ Prüfe:
 
 **Fokus:** BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste für Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung.
 
-# BtMG-Strafverfahren: Verteidigungspraxis
+### BtMG-Strafverfahren: Verteidigungspraxis
 
 ## Worum geht es
 
@@ -283,7 +283,7 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 
 **Fokus:** Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung.
 
-# Haeusliche Gewalt im Strafverfahren — Verteidigerleitfaden
+### Haeusliche Gewalt im Strafverfahren — Verteidigerleitfaden
 
 ## Worum geht es konkret
 
@@ -373,7 +373,7 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 
 **Fokus:** Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung.
 
-# Strafverfahren bei Markenstraftaten nach Paragraph 144 MarkenG
+### Strafverfahren bei Markenstraftaten nach Paragraph 144 MarkenG
 
 ## Worum geht es
 

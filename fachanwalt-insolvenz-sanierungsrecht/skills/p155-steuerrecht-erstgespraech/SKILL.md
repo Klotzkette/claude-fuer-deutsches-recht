@@ -31,7 +31,7 @@ description: "Inso P155 Steuerrecht Erstgespraech im Insolvenz- und Sanierungsre
 
 **Fokus:** § 155 InsO (Handels- und steuerrechtliche Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 155 InsO — Handels- und steuerrechtliche Rechnungslegung
+### § 155 InsO — Handels- und steuerrechtliche Rechnungslegung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 155 InsO — Handels- und steuerrechtliche Rechnungslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Steuerrecht: Formular, Portal und Einreichungslogik
+### Steuerrecht: Formular, Portal und Einreichungslogik
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuerrecht: Formular, Portal und Einreichungslogik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Insolvenz- und Restrukturierungsrecht
+### Erstgespraech und Mandatsannahme im Insolvenz- und Restrukturierungsrecht
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Insolvenz- und Restrukturierungsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -310,7 +310,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 **Fokus:** Fachanwaltlicher Fachmodul für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket.
 
-# Drittstaateninsolvenz in Deutschland — Anerkennung, Register, Vollzug
+### Drittstaateninsolvenz in Deutschland — Anerkennung, Register, Vollzug
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Drittstaateninsolvenz in Deutschland — Anerkennung, Register, Vollzug` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -402,7 +402,7 @@ InsO §§ 335, 343, 346 bis 348, GBO § 29, GmbHG §§ 15, 40 und BGB §§ 873, 
 
 **Fokus:** Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own.
 
-# Fachanwalt Insolvenz: NPL und Distressed Debt
+### Fachanwalt Insolvenz: NPL und Distressed Debt
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Insolvenz: NPL und Distressed Debt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Beamten-Disziplinarverfahren führen oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Prüfraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhältnis), Anhörung, VG-Klage. Output Anhörungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage.
 
-# Beamten-Disziplinarverfahren
+### Beamten-Disziplinarverfahren
 
 ## Zweck
 
@@ -212,7 +212,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Verwaltungsakt, Rechtsbehelf und Vorverfahren
+### Verwaltungsakt, Rechtsbehelf und Vorverfahren
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-verwaltungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
@@ -251,7 +251,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
+### VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** VwGO, VwVfG.

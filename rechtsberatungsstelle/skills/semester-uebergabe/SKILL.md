@@ -64,7 +64,7 @@ Falls kein zentrales Fallregister existiert: Eingabe einer Fallliste erforderlic
 Für jeden Fall:
 
 ```markdown
-# Fallübergabe — [Fallbezeichnung] — [Semester-Ende]
+### Fallübergabe — [Fallbezeichnung] — [Semester-Ende]
 
 **Fall-ID:** [fall-id]
 **Rechtsgebiet:** [Gebiet]
@@ -142,7 +142,7 @@ auf Behördenantwort), dies benennen.]
 Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erstellen:
 
 ```markdown
-# Kohortenübergabe-Zusammenfassung — [Semester-Ende]
+### Kohortenübergabe-Zusammenfassung — [Semester-Ende]
 
 **Ausscheidende Studierende:** [N]
 **Eintretende Studierende:** [N]

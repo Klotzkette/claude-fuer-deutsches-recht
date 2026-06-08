@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Marktzugang: Sonderfall und Edge-Case-Prüfung
+### Marktzugang: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Marktzugang: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Montrealer: Verhandlung, Vergleich und Eskalation
+### Montrealer: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Montrealer: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Pruefen: Abschlussprodukt und Übergabe
+### Pruefen: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Pruefen: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

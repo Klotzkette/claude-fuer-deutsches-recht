@@ -28,7 +28,7 @@ description: "INS Incident im Insiderrecht und Compliance im Insiderrecht Compli
 
 **Fokus:** Fuehrt einen Tabletop-Drill für Insiderrecht-Krisenfaelle durch: simulierte Ad-hoc-Entscheidung, Aufschub-Pruefer und BaFin-Kommunikation unter Zeitdruck.
 
-# Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
+### Incident Drill – Insiderrecht-Krisenübung (Tabletop Exercise)
 
 ## Konzept
 

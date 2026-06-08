@@ -29,7 +29,7 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 
 **Fokus:** Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis.
 
-# Saeumnis im Termin: Konsequenzen und was Sie tun koennen
+### Saeumnis im Termin: Konsequenzen und was Sie tun koennen
 
 ## Worum geht es?
 
@@ -178,7 +178,7 @@ Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
 
 **Fokus:** Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO.
 
-# Versaeumnisurteil verhindern und ggf. einlegen
+### Versaeumnisurteil verhindern und ggf. einlegen
 
 ## Worum geht es?
 
@@ -330,7 +330,7 @@ Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
 
 **Fokus:** Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel beim Amtsgericht. Prüft Fristen, Zuständigkeit, Anwaltszwang, Streitwert, Antrag, Tatsachenvortrag, Beweise, Anlagen, Kosten, Zustellung und rote Warnsignale.
 
-# Sanity-Check Selbstvertretung Amtsgericht
+### Sanity-Check Selbstvertretung Amtsgericht
 
 ## Zweck
 

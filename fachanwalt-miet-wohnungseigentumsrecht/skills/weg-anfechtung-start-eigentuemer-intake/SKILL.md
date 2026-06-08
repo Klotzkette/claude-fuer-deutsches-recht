@@ -31,7 +31,7 @@ description: "WEG Anfechtung Start Eigentuemer Intake im Miet- und Wohnungseigen
 
 **Fokus:** WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# WEG-Anfechtung-Start
+### WEG-Anfechtung-Start
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG-Anfechtung-Start` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# WEG-Eigentümer-Intake
+### WEG-Eigentümer-Intake
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG-Eigentümer-Intake` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# WEG-Protokoll nachbereiten
+### WEG-Protokoll nachbereiten
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG-Protokoll nachbereiten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Eigentümerversammlung vorbereiten
+### Eigentümerversammlung vorbereiten
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigentümerversammlung vorbereiten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# WhatsApp-/E-Mail-Beweis
+### WhatsApp-/E-Mail-Beweis
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WhatsApp-/E-Mail-Beweis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

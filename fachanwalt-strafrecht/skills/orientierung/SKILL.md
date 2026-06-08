@@ -31,7 +31,7 @@ description: "Orientierung im Strafrecht: prüft konkret Orientierung im Strafre
 
 **Fokus:** Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und passendes Fachmodul finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zur richtigen Prüfungslinie. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme.
 
-# Fachanwalt für Strafrecht — Orientierung
+### Fachanwalt für Strafrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -119,7 +119,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Untersuchungshaft und Haftprüfung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftprüfungsantrag stellen. §§ 112-113 StPO Haftgründe Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftprüfung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Prüfraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhältnismäßige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftprüfungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten.
 
-# Untersuchungshaft Haftprüfung
+### Untersuchungshaft Haftprüfung
 
 ## Zweck
 
@@ -293,7 +293,7 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 **Fokus:** Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist. § 257c StPO Verständigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Prüfraster Verständigungs-Eignung beurteilen, Gestaendnis-Risiken prüfen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verständigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung für Hauptverhandlung und zu Einlassung.
 
-# Verständigung § 257c StPO / TOA § 46a StGB
+### Verständigung § 257c StPO / TOA § 46a StGB
 
 ## Zweck
 
@@ -419,7 +419,7 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 
 **Fokus:** Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klaeren. § 136 StPO Schweigerecht Erstbelehrung, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Prüfraster Schweigerecht kommunizieren, eigene Einschaetzung zurückhalten bis Akte vorliegt, Honorarvereinbarung über RVG hinaus, Verteidigungsstrategie aktiv vs. passiv besprechen. Output Erstgespraeach-Protokoll mit Sofortmassnahmen und Honorarvereinbarung. Abgrenzung zu Erstgespraeach-Mandatsannahme für allgemeine Aufnahme und zu Akteneinsicht.
 
-# Wahlverteidiger-Mandat
+### Wahlverteidiger-Mandat
 
 ## Zweck
 
@@ -581,7 +581,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Zeugenbeistand im Strafverfahren für Zeugen mit eigenem Rechtsinteresse: Anwendungsfall Person ist als Zeuge geladen hat aber eigenes Aussageverweigerungsrecht oder Selbstbelastungsrisiko und benoetigt anwaltlichen Beistand. § 68b StPO Zeugenbeistand, § 55 StPO Auskunftsverweigerungsrecht, § 52 StPO Zeugnisverweigerungsrecht. Prüfraster Auskunftsverweigerungsrecht nach § 55 prüfen, Schutz vor Selbstbelastung, Zeugen-Aussage vorbereiten oder Aussage verweigern, Beistand aktiv ausüben. Output Strategie-Memo für Zeugenbeistand mit Aussagepfaden und Verweigerungs-Optionen. Abgrenzung zu Erstgespraeach für Beschuldigte und zu Nebenklage.
 
-# Zeugenbeistand im Strafverfahren
+### Zeugenbeistand im Strafverfahren
 
 ## Kernsachverhalt & Mandantenfragen
 

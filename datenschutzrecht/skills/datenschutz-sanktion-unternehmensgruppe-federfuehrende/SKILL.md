@@ -31,7 +31,7 @@ description: "Datenschutz Sanktion Unternehmensgruppe Federfuehrende im Datensch
 
 **Fokus:** Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Unternehmensgruppe und federführende Aufsicht
+### Unternehmensgruppe und federführende Aufsicht
 
 ## Aufgabe
 
@@ -92,7 +92,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Veröffentlichung von Bußgeldentscheidungen
+### Veröffentlichung von Bußgeldentscheidungen
 
 ## Aufgabe
 
@@ -153,7 +153,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
+### Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
 
 ## Aufgabe
 
@@ -214,7 +214,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung.
 
-# Schadensersatz nach Art. 82 DSGVO — Verteidigung
+### Schadensersatz nach Art. 82 DSGVO — Verteidigung
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -273,7 +273,7 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 
 **Fokus:** Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte für Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen).
 
-# Datenschutz Livecheck — BfDI und Landesaufsichten
+### Datenschutz Livecheck — BfDI und Landesaufsichten
 
 ## Zweck
 

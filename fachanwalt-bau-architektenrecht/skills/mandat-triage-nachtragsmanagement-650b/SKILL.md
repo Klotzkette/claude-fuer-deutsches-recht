@@ -30,7 +30,7 @@ description: "Mandat Triage Nachtragsmanagement 650b im Plugin Fachanwalt Bau Ar
 
 **Fokus:** Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme.
 
-# Mandat-Triage Bau- und Architektenrecht
+### Mandat-Triage Bau- und Architektenrecht
 
 ## Zweck
 
@@ -172,7 +172,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung.
 
-# Nachtragsmanagement § 650b BGB
+### Nachtragsmanagement § 650b BGB
 
 ## Mandantenfragen beim Kaltstart
 
@@ -533,7 +533,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 **Fokus:** Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollständiger Schriftsatz.
 
-# Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht
+### Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -794,7 +794,7 @@ Aktenzeichen geprueft und korrigiert:
 
 **Fokus:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

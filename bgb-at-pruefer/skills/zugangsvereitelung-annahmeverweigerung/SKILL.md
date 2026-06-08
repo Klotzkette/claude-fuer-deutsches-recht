@@ -28,7 +28,7 @@ description: "Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im
 
 **Fokus:** Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug.
 
-# Zugangsvereitelung und Annahmeverweigerung
+### Zugangsvereitelung und Annahmeverweigerung
 
 ## Mandantenfall
 

@@ -30,7 +30,7 @@ description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konk
 
 **Fokus:** Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten.
 
-# Allgemeiner und besonderer Feststellungsantrag
+### Allgemeiner und besonderer Feststellungsantrag
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Allgemeiner und besonderer Feststellungsantrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -109,7 +109,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 **Fokus:** Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag stellen.
 
-# Auflösungsantrag des Arbeitnehmers — § 9 KSchG
+### Auflösungsantrag des Arbeitnehmers — § 9 KSchG
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Auflösungsantrag des Arbeitnehmers — § 9 KSchG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -227,7 +227,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 **Fokus:** Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe.
 
-# Berufung und Revision: LAG und BAG
+### Berufung und Revision: LAG und BAG
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berufung und Revision: LAG und BAG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -364,7 +364,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 **Fokus:** Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik.
 
-# Typische Arbeitgeber-Strategien im Kündigungsschutzprozess
+### Typische Arbeitgeber-Strategien im Kündigungsschutzprozess
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Typische Arbeitgeber-Strategien im Kündigungsschutzprozess` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 
 **Fokus:** Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prüft Lösegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwäsche AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster Deckungsschutz Versicherer Lösegeldzahlung Sanktionsprüfung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionsprüfung Deckungsanalyse und Handlungsempfehlung für oder gegen Lösegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage.
 
-# Cyber-Lösegeld bei Ransomware mit Sanktions-Risiko
+### Cyber-Lösegeld bei Ransomware mit Sanktions-Risiko
 
 ## Zweck
 
@@ -362,7 +362,7 @@ Ransomware-Angriff + Lösegeld-Forderung?
 
 **Fokus:** Cyberversicherung bei Ransomware: Deckung, Lösegeld, Forensik, DSGVO-Meldung, DORA/NIS2 und Sanktionsrecht.
 
-# FA Versicherungsrecht: Cyber, Ransomware, Sanktionen
+### FA Versicherungsrecht: Cyber, Ransomware, Sanktionen
 
 ## Einsatz
 
@@ -396,7 +396,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlässig § 14 VVG Fälligkeit. Prüfraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlässigkeit Kausalität Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-prüfen und klage-versicherer-strategie.
 
-# Deckungsanfrage prüfen
+### Deckungsanfrage prüfen
 
 ## Zweck
 

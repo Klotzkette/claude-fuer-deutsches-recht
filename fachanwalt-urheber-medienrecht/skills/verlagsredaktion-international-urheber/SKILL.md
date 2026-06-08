@@ -29,7 +29,7 @@ description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urhebe
 
 **Fokus:** Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verlagsredaktion: Internationaler Bezug und Schnittstellen
+### Verlagsredaktion: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Verlagsredaktion: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung).
 
-# Urheber-Abmahnung prüfen
+### Urheber-Abmahnung prüfen
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -377,7 +377,7 @@ Halluzinations-Reparatur Bundle 026:
 
 **Fokus:** Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster für Betroffene und Plattform.
 
-# UrhMR: Deepfake Persoenlichkeitsrecht
+### UrhMR: Deepfake Persoenlichkeitsrecht
 
 ## Spezialwissen: UrhMR: Deepfake Persoenlichkeitsrecht
 - **Normen-/Quellenanker:** KUG, AI.

@@ -30,7 +30,7 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 
 **Fokus:** Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausübung Recht der Mangelbeseitigung. Pruefraster für Schriftsatz.
 
-# Bau: Symptomtheorie-Mangelruege
+### Bau: Symptomtheorie-Mangelruege
 
 ## Spezialwissen: Bau: Symptomtheorie-Mangelruege
 - **Normen-/Quellenanker:** BGH.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster.
 
-# Bautraeger Haftungsausschluss 307 Bgb
+### Bautraeger Haftungsausschluss 307 Bgb
 
 ## Norm
 
@@ -121,7 +121,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster.
 
-# Bautraeger Maengelhaftung Fuenf Jahre 634A
+### Bautraeger Maengelhaftung Fuenf Jahre 634A
 
 ## Norm
 
@@ -160,7 +160,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Maengelhaftung: Verhandlung, Vergleich und Eskalation
+### Maengelhaftung: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Maengelhaftung: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

@@ -30,7 +30,7 @@ description: "Veroeffentlichung Bussgeldentscheidungen im Datenschutz-Sanktionsv
 
 **Fokus:** Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Veröffentlichung von Bußgeldentscheidungen
+### Veröffentlichung von Bußgeldentscheidungen
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Anwesenheit und Entbindung § 73 OWiG
+### Anwesenheit und Entbindung § 73 OWiG
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** One-Stop-Shop Art. 56 und 60: Lead Authority, betroffene Aufsichten, Draft Decision, Einwände und grenzüberschreitende Verteidigung steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# One-Stop-Shop Art. 56 und 60
+### One-Stop-Shop Art. 56 und 60
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Akteneinsicht § 49 OWiG und § 147 StPO
+### Akteneinsicht § 49 OWiG und § 147 StPO
 
 ## Aufgabe
 

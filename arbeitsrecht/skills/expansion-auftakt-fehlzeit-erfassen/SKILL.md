@@ -30,7 +30,7 @@ description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft
 
 **Fokus:** Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt "wir stellen in [Land/Region] ein", "Expansion nach [Land]" oder "erste Einstellung in [Land]".
 
-# Expansions-Kickoff (Arbeitsrecht)
+### Expansions-Kickoff (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expansions-Kickoff (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -203,7 +203,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 **Fokus:** Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag.
 
-# /arbeitsrecht:fehlzeit-erfassen
+### /arbeitsrecht:fehlzeit-erfassen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:fehlzeit-erfassen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -347,7 +347,7 @@ Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
 
 **Fokus:** Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard.
 
-# /arbeitsrecht:fehlzeiten-register
+### /arbeitsrecht:fehlzeiten-register
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:fehlzeiten-register` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -474,7 +474,7 @@ Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 
 **Fokus:** Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt "Handbuch aktualisieren", "neue Regelung einpflegen" oder "Richtlinie ändern".
 
-# Personalhandbuch-Aktualisierung (Arbeitsrecht)
+### Personalhandbuch-Aktualisierung (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Personalhandbuch-Aktualisierung (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

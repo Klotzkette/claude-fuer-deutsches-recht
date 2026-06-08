@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Regulatory, FDI und Fusionskontrolle
+### Regulatory, FDI und Fusionskontrolle
 
 ## Triage — klaere vor Beginn
 

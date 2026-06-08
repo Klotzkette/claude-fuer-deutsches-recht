@@ -28,7 +28,7 @@ description: "KI Medizinprodukt Klinische CTR im Medizinrecht: prüft konkret KI
 
 **Fokus:** KI-Medizinprodukt High-Risk: moderner Medizinrechts-Skill für KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# KI-Medizinprodukt High-Risk
+### KI-Medizinprodukt High-Risk
 
 ## Fachkern: KI-Medizinprodukt High-Risk
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -86,7 +86,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Klinische Prüfung CTR/AMG: moderner Medizinrechts-Skill für Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Klinische Prüfung CTR/AMG
+### Klinische Prüfung CTR/AMG
 
 ## Fachkern: Klinische Prüfung CTR/AMG
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

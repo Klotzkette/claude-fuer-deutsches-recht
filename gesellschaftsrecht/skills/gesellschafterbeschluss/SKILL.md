@@ -88,7 +88,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Beschlussvorlage
 
 ```
-# Gesellschafterbeschluss
+### Gesellschafterbeschluss
 [GESELLSCHAFTSNAME], [HRB-NUMMER]
 Gesellschafterversammlung vom [DATUM]
 
@@ -113,7 +113,7 @@ _________________________________
 ### Anfechtungs-Memo
 
 ```
-# Anfechtungs-Memo: Beschluss [GESELLSCHAFT] v. [DATUM]
+### Anfechtungs-Memo: Beschluss [GESELLSCHAFT] v. [DATUM]
 
 Beschlussgegenstand: [BESCHLUSSINHALT]
 

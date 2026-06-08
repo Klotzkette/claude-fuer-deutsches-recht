@@ -31,7 +31,7 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 
 **Fokus:** Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung.
 
-# Historische Compliance-Dokumentation und Aktenführung
+### Historische Compliance-Dokumentation und Aktenführung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historische Compliance-Dokumentation und Aktenführung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -123,7 +123,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht.
 
-# Lückenfüllung bei Sonderfällen und Edge Cases
+### Lückenfüllung bei Sonderfällen und Edge Cases
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lückenfüllung bei Sonderfällen und Edge Cases` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -215,7 +215,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren. Es zeigt, wie aus dem Mandantenanliegen eine rechtlich präzise Fragestellung entwickelt wird, welche Auslegungsmethoden für die Erstprüfung heranzuziehen sind und wie Mandatsziel, Rechtsfrage und Bearbeitungsstrategie methodisch aufeinander abgestimmt werden. Das Skill sichert von Anfang an die methodische Kohärenz des Mandats.
 
-# Erstprüfung und Mandatszieldefinition
+### Erstprüfung und Mandatszieldefinition
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstprüfung und Mandatszieldefinition` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -306,7 +306,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht. Es zeigt, wie Kollisionsnormen (Rom I, Rom II, CISG) angewendet werden, wie Gerichtsstandsvereinbarungen und Schiedsklauseln methodisch geprüft und internationale Vertragsschnittstellen erkannt werden. Besonderes Gewicht liegt auf der pragmatischen Priorisierung — Wann lohnt es sich, den internationalen Aspekt methodisch vertieft zu prüfen, und wann reicht ein Schnittstellen-Screening?
 
-# Internationaler Bezug und Schnittstellen im bürgerlichen Recht
+### Internationaler Bezug und Schnittstellen im bürgerlichen Recht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Internationaler Bezug und Schnittstellen im bürgerlichen Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -398,7 +398,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung von materiell-rechtlicher Prüfung und prozessrechtlichen Beweisanforderungen, sodass eine anwaltliche Position von Anfang an beweiskräftig aufgebaut wird.
 
-# Rechtsanwendung: Tatbestand, Beweis und Belege
+### Rechtsanwendung: Tatbestand, Beweis und Belege
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsanwendung: Tatbestand, Beweis und Belege` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

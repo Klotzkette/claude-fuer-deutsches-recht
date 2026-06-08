@@ -31,7 +31,7 @@ description: "Dsfa Beweislast DSGVO Erstellung Sonderfall im Datenschutzrecht: p
 
 **Fokus:** Dsfa: Beweislast, Darlegungslast und Substantiierung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Dsfa: Beweislast, Darlegungslast und Substantiierung
+### Dsfa: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Dsfa: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -99,7 +99,7 @@ Schlanke DSFA-Templates beschleunigen die Erstellung, lassen aber bei Hochrisiko
 
 **Fokus:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
+### DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -148,7 +148,7 @@ Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7
 
 **Fokus:** Erstellung: Sonderfall und Edge-Case-Prüfung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Erstellung: Sonderfall und Edge-Case-Prüfung
+### Erstellung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Erstellung: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -202,7 +202,7 @@ Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entsp
 
 **Fokus:** Generator: Red-Team und Qualitätskontrolle im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Generator: Red-Team und Qualitätskontrolle
+### Generator: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Generator: Red-Team und Qualitätskontrolle
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -239,7 +239,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Paket: Internationaler Bezug und Schnittstellen im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Paket: Internationaler Bezug und Schnittstellen
+### Paket: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Paket: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

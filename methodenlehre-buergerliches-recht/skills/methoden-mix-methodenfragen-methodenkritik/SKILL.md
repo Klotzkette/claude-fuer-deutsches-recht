@@ -31,7 +31,7 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 
 **Fokus:** Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie für offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins.
 
-# Methoden-Mix in der Praxis (Anwaltsschriftsatz)
+### Methoden-Mix in der Praxis (Anwaltsschriftsatz)
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methoden-Mix in der Praxis (Anwaltsschriftsatz)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -218,7 +218,7 @@ Stand: Mai 2026.
 
 **Fokus:** Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfassungsrecht als Einheit und hilft, Verfassungsrügen aus Methodenfehlern herzuleiten.
 
-# Methodenfragen als Verfassungsfragen
+### Methodenfragen als Verfassungsfragen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenfragen als Verfassungsfragen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -306,7 +306,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Prüft System- und Wertungsargumente im Zivilrecht kritisch auf demokratische Rückbindung, NS-Belastung, Scheinobjektivität und Quellenhygiene.
 
-# Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle
+### Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle
 
 ## Arbeitsauftrag
 Wenn ein Schriftsatz oder Gutachten mit „System“, „Natur der Sache“, „objektiver Wertung“ oder „konkreter Ordnung“ argumentiert, wird hier red-geteamt.
@@ -330,7 +330,7 @@ Red-Team-Memo mit ersetzbaren Formulierungen für Schriftsatz oder Gutachten.
 
 **Fokus:** Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch).
 
-# Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
+### Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -489,7 +489,7 @@ Die ausführliche methodische Grundlage einschließlich der Sektionen zu Anspruc
 
 **Fokus:** Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturiertes Audit-Verfahren für methodische Unabhängigkeit und stärkt die Integrität juristischer Argumentation.
 
-# Methodenwahl-Audit: Ergebnisoffenheit prüfen
+### Methodenwahl-Audit: Ergebnisoffenheit prüfen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenwahl-Audit: Ergebnisoffenheit prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Testamentsvollstrecker Kontrolle ERB im Plugin Fachanwalt Erbrecht
 
 **Fokus:** Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.; Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
+### Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -61,7 +61,7 @@ BGB §§ 2197 ff., 2218, 2227, 2219. Rechtsprechung wird nur mit Gericht, Datum,
 
 **Fokus:** Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG. Pruefraster für Steuer- und Erbrechtspraxis.
 
-# Erb: Steuer-Optimierung
+### Erb: Steuer-Optimierung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erb: Steuer-Optimierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -118,7 +118,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist. Pruefraster.
 
-# Erbrecht: Unternehmensnachfolge
+### Erbrecht: Unternehmensnachfolge
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbrecht: Unternehmensnachfolge` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

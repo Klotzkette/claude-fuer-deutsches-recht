@@ -29,7 +29,7 @@ description: "Erstgespraech Mandatsannahme Verkehr Autonom im Plugin Fachanwalt 
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
+### Erstgespraech und Mandatsannahme im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 
 ## Wann dieser Arbeitsgang greift
 
@@ -202,7 +202,7 @@ Frontmatter unveraendert. Kein Commit. Bearbeiter: KI-Audit-Agent.
 
 **Fokus:** Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Prüfraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten.
 
-# Autonomes Fahren PKW — § 1d StVG Haftungskonzept
+### Autonomes Fahren PKW — § 1d StVG Haftungskonzept
 
 ## Zweck
 
@@ -338,7 +338,7 @@ BGH VI ZR 12/24: WRONG_TOPIC; tatsaechliches Thema ist Haushaltsfuehrungsschaden
 
 **Fokus:** Mandant hat Führerschein entzogen bekommen oder befürchtet Entziehung und fragt nach Möglichkeiten. § 69 StGB strafgerichtlich § 3 StVG verwaltungsrechtlich. Prüfraster: Sperrfrist § 69a StGB vorläufige Entziehung § 111a StPO Wiedererteilung § 20 FeV MPU-Anordnung §§ 13 14 FeV Beschwerde § 304 StPO Widerspruch Verwaltungsverfahren Punkteabbau § 4 Abs. 7 StVG. Output: Verteidigungsstrategie und Antragsschriftsatz. Abgrenzung zu fachanwalt-verkehrsrecht-mpu-vorbereitung (MPU-Prep) und mandat-triage-verkehrsrecht.
 
-# Fahrerlaubnis-Entzug
+### Fahrerlaubnis-Entzug
 
 ## Kaltstart-Rückfragen
 

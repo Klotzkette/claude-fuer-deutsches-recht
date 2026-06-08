@@ -31,7 +31,7 @@ description: "Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüf
 
 **Fokus:** Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie.
 
-# Erwerbsminderungsrente Belegfuehrung
+### Erwerbsminderungsrente Belegfuehrung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erwerbsminderungsrente Belegfuehrung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -96,7 +96,7 @@ EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter 
 
 **Fokus:** Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden.
 
-# Fahrtkosten und Zeugen-Auslagen erstatten
+### Fahrtkosten und Zeugen-Auslagen erstatten
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fahrtkosten und Zeugen-Auslagen erstatten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -228,7 +228,7 @@ Stand: 05/2026. JVEG aktuell. Konkrete Saetze pruefen.
 
 **Fokus:** Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext.
 
-# Die Feststellungsklage — § 55 SGG
+### Die Feststellungsklage — § 55 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Feststellungsklage — § 55 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -364,7 +364,7 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 **Fokus:** GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften für chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage.
 
-# Gdb Feststellung Versorgungsamt Sgb Ix
+### Gdb Feststellung Versorgungsamt Sgb Ix
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gdb Feststellung Versorgungsamt Sgb Ix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -428,7 +428,7 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 **Fokus:** Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen.
 
-# Das Gericht ist für Sie kostenfrei — § 183 SGG
+### Das Gericht ist für Sie kostenfrei — § 183 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Das Gericht ist für Sie kostenfrei — § 183 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

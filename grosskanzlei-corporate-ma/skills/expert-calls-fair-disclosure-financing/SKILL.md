@@ -33,7 +33,7 @@ description: "Expert Calls Fair Disclosure Financing im Corporate/M&A (Großkanz
 
 **Fokus:** Expert Calls und Transkript-Auswertung für M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Prüfraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate für DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests.
 
-# Expert Calls und Transkripte
+### Expert Calls und Transkripte
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expert Calls und Transkripte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -134,7 +134,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Expert Calls und Transkripte
+### Expert Calls und Transkripte
 
 ## Zweck
 
@@ -222,7 +222,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Prüfraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmäßiges Wissen. Output Klauselvorschlaege für Knowledge-Qualifikation mit Risikobewertung für Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf.
 
-# Fair Disclosure und Knowledge
+### Fair Disclosure und Knowledge
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fair Disclosure und Knowledge` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -323,7 +323,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Fair Disclosure und Knowledge
+### Fair Disclosure und Knowledge
 
 ## Zweck
 
@@ -410,7 +410,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Financing und Security Documents Skill: prueft Akquisitionsfinanzierung, Sicherheiten, Intercreditor, Conditions, Funds Flow und Bank-Deliverables.
 
-# Financing Security Documents
+### Financing Security Documents
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Financing Security Documents` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -496,7 +496,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Foreign Subsidies Regulation FSR Skill: prueft EU-FSR-Relevanz, Drittstaaten-Finanzbeitraege, Transaktionsdaten, Filing-Risiko und Koordination mit Merger Control/FDI.
 
-# Foreign Subsidies Regulation FSR
+### Foreign Subsidies Regulation FSR
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Foreign Subsidies Regulation FSR` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -582,7 +582,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freundlicher M&A-Deal-Copilot für junge Anwaelte und Associates: Anwendungsfall Junior-Associate oder Trainee arbeitet an erster groesserer Corporate-Transaktion und braucht verstaendnisbasierte Begleitung ohne Vorwurf. M&A-Praxis, SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Absicht aus Rohtext ableiten, unausgesprochene Fragen aufdecken, Fachbegriffe erklären, naechste Schritte aufzeigen. Output kurze hilfreiche Hinweise mit Weiterleitung zum passendes Fachmodul. Abgrenzung zum Kommandocenter für strukturierten Deal-Start.
 
-# Freundlicher Deal-Copilot
+### Freundlicher Deal-Copilot
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freundlicher Deal-Copilot` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -683,7 +683,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Freundlicher Deal-Copilot
+### Freundlicher Deal-Copilot
 
 ## Zweck
 
@@ -757,7 +757,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. §§ 8-11 GmbHG, §§ 39-40 AktG, §§ 29 ff. HGB. Prüfraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals für Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill für Recherche und zu Signing-Closing-CPs.
 
-# Corporate Housekeeping und Register
+### Corporate Housekeeping und Register
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate Housekeeping und Register` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -858,7 +858,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Corporate Housekeeping und Register
+### Corporate Housekeeping und Register
 
 ## Zweck
 
@@ -966,7 +966,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Handelsregister-Abruf und Registerrecherche für M&A-Transaktionen: Anwendungsfall Anwalt recherchiert offiziellen Registerstand für Zielgesellschaft, Kaeufer-Holding, Komplementaer-GmbH oder Beteiligungsketten. §§ 8-10 GmbHG, §§ 29 ff. HGB, § 15 HGB Registerpublizitaet. Prüfraster Eintragungsstand, Vertretungsmacht, Satzungsversion, Eintragungsdatum, aktuell laufende Registerverfahren. Output Registerauszug-Auswertung mit gesellschaftsrechtlichem Status und Handlungsempfehlungen. Abgrenzung zu Corporate-Housekeeping für interne Prüfung und zu Gesellschaftsrecht-Register.
 
-# Handelsregister- und Registerabruf
+### Handelsregister- und Registerabruf
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Handelsregister- und Registerabruf` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1066,7 +1066,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Handelsregister- und Registerabruf
+### Handelsregister- und Registerabruf
 
 ## Zweck
 

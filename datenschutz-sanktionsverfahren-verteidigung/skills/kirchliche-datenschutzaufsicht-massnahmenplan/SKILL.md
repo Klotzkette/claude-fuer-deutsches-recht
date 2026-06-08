@@ -30,7 +30,7 @@ description: "Kirchliche Datenschutzaufsicht Massnahmenplan im Datenschutz-Sankt
 
 **Fokus:** Kirchliche Datenschutzaufsicht: KDG, DSG-EKD, kirchliche Aufsichten, kirchliche Gerichte und Sanktionslogik einordnen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Kirchliche Datenschutzaufsicht
+### Kirchliche Datenschutzaufsicht
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Maßnahmenplan als Sanktionsminderung: Root Cause, Sofortmaßnahme, Owner, Budget, Wirksamkeitsmessung und Nachweise bußgeldmindernd aufbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Maßnahmenplan als Sanktionsminderung
+### Maßnahmenplan als Sanktionsminderung
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Öffentliche Stellen und Bußgeldfähigkeit: Bußgeldfähigkeit öffentlicher Stellen nach Art. 83 Abs. 7 DSGVO, BDSG und Landesrecht prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Öffentliche Stellen und Bußgeldfähigkeit
+### Öffentliche Stellen und Bußgeldfähigkeit
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Schlussprodukt des Sanktionsmandats planen
+### Schlussprodukt des Sanktionsmandats planen
 
 ## Aufgabe
 

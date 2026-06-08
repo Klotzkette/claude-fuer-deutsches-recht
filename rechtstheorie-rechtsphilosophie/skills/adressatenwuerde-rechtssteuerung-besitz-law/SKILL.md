@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden.
 
-# Adressatenwürde und Rechtssteuerung
+### Adressatenwürde und Rechtssteuerung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Adressatenwürde und Rechtssteuerung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -100,7 +100,7 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 
 **Fokus:** Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus.
 
-# Besitz und Law & Economics: Transaktionskosten
+### Besitz und Law & Economics: Transaktionskosten
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz und Law & Economics: Transaktionskosten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
 
 **Fokus:** Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
 
-# Besitz, Rechtsrealismus und praktische Bedürfnisse
+### Besitz, Rechtsrealismus und praktische Bedürfnisse
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Besitz, Rechtsrealismus und praktische Bedürfnisse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

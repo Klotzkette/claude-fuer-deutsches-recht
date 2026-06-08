@@ -29,7 +29,7 @@ description: "Verwr Folgenbeseitigung Planfeststellung im Plugin Fachanwalt Verw
 
 **Fokus:** Spezialfall Folgenbeseitigungsanspruch: Grundlage Art. 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Pruefraster für Klage.
 
-# VerwR: Folgenbeseitigung
+### VerwR: Folgenbeseitigung
 
 ## Spezialwissen: VerwR: Folgenbeseitigung
 - **Normen-/Quellenanker:** Art. 20, GG, BGH.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff. VwVfG, öffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Pruefraster für Einwender.
 
-# VerwR: Planfeststellung
+### VerwR: Planfeststellung
 
 ## Spezialwissen: VerwR: Planfeststellung
 - **Normen-/Quellenanker:** VwVfG, BGH, BVerfG.
@@ -127,7 +127,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs. 5 Antrag, § 123 einstweilige Anordnung. Pruefraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag.
 
-# VerwR: Vorlaeufiger Rechtsschutz
+### VerwR: Vorlaeufiger Rechtsschutz
 
 ## Aufgabe
 Leitfaden vorläufiger Rechtsschutz VwGO: § 80 V VwGO (Anfechtungssituationen mit aufschiebender Wirkung), § 80a VwGO (Drittwiderspruch), § 123 VwGO (einstweilige Anordnung in allen anderen Faellen). Pruefraster Eilbeduerftigkeit, Anordnungsanspruch/Anordnungsgrund. Verhaeltnis zu Art. 19 IV GG.

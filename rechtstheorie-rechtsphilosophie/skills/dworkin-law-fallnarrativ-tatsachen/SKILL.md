@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür.
 
-# Dworkin: Recht als Integrität, Prinzipien und hard cases
+### Dworkin: Recht als Integrität, Prinzipien und hard cases
 
 ## Theorieachse
 Dworkin ist im Plugin kein Zitatlieferant, sondern ein Prüfwerkzeug für Fälle, in denen Normtext und Präjudizien mehrere vertretbare Lösungen zulassen. Die Frage lautet dann: Welche Lösung macht das geltende Recht als Ganzes in seiner besten, rechtsstaatlich verantwortbaren Gestalt verständlich?
@@ -65,7 +65,7 @@ Erzeuge eine `Fit/Justification-Matrix` mit These, Normtext, Präjudiz, Prinzip,
 
 **Fokus:** Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben.
 
-# Fallnarrativ, Tatsachen, Beweis
+### Fallnarrativ, Tatsachen, Beweis
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fallnarrativ, Tatsachen, Beweis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -114,7 +114,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Erkennt formale und begriffsjuristische Scheinloesungen, ohne Systematik und Dogmatik vorschnell zu verachten.
 
-# Formalismus und Begriffszauber
+### Formalismus und Begriffszauber
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Formalismus und Begriffszauber` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

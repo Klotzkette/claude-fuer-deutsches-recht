@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Prip: Sonderfall und Edge-Case-Prüfung
+### Prip: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Prip: Sonderfall und Edge-Case-Prüfung
 - **Konkreter Gegenstand:** Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Regulatorisches: Internationaler Bezug und Schnittstellen
+### Regulatorisches: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Regulatorisches: Internationaler Bezug und Schnittstellen
 - **Konkreter Gegenstand:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstellen: Compliance-Dokumentation und Aktenvermerk
+### Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 - **Konkreter Gegenstand:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

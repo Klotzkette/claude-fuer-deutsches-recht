@@ -29,7 +29,7 @@ description: "Liqui Eingangsdaten IDW S6 Liqp im Plugin Liquiditaetsplanung: pr�
 
 **Fokus:** Eingangsdaten-Checkliste für Liquiditaetsplanung: BWA, OPOS Debitoren/Kreditoren, Kontoauszuege, Steuerkonten, SV-Konten, Personalkosten, Investitionsplanung. Pruefliste Quellen und Vollstaendigkeit. Output: standardisiertes Datentemplate.
 
-# Liqui: Eingangsdaten-Checkliste
+### Liqui: Eingangsdaten-Checkliste
 
 ## Fachkern: Liqui: Eingangsdaten-Checkliste
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Verbindet Liquiditätsvorschau, GuV-Planung und Planbilanz zu einer Sanierungsplanung auf IDW-S-6-Niveau. Prüft Maßnahmenwirkung, Fortbestehensprognose, Sanierungsfähigkeit, Szenarien, Planungsannahmen, Belegregister, kleinere Unternehmen und Übergabe an Bank, Insolvenzverwalter oder Restrukturierungsberater. Output: Planungsanforderung, Annahmenlog, Maßnahmen-Brücke und Sanierungsplanungs-Ampel.
 
-# Integrierte Sanierungsplanung
+### Integrierte Sanierungsplanung
 
 ## Fachkern: Integrierte Sanierungsplanung
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -206,7 +206,7 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 
 **Fokus:** Leitfaden Bankenreporting bei Krise: Anforderungen Hausbank, Konsortium, KfW, Reportingfrequenz, Covenant-Reporting. Pruefraster für CFO und Berater.
 
-# LiqP: Bankenreporting
+### LiqP: Bankenreporting
 
 ## Fachkern: LiqP: Bankenreporting
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

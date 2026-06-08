@@ -28,7 +28,7 @@ description: "Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prü
 
 **Fokus:** Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Produkthaftung Medizinprodukt PLD 2024
+### Produkthaftung Medizinprodukt PLD 2024
 
 ## Fachkern: Produkthaftung Medizinprodukt PLD 2024
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler; materielle Folgeschäden. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Schmerzensgeld bei Hightech-Schaden
+### Schmerzensgeld bei Hightech-Schaden
 
 ## Fachkern: Schmerzensgeld bei Hightech-Schaden
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

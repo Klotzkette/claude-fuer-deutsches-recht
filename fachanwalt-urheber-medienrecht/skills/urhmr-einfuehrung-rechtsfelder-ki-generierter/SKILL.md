@@ -29,7 +29,7 @@ description: "Urhmr Einfuehrung Rechtsfelder KI Generierter im Plugin Fachanwalt
 
 **Fokus:** Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle.
 
-# UrhMR: Rechtsfelder
+### UrhMR: Rechtsfelder
 
 ## Spezialwissen: UrhMR: Rechtsfelder
 - **Normen-/Quellenanker:** UrhG, UWG.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster.
 
-# UrhMR: KI-Content
+### UrhMR: KI-Content
 
 ## Spezialwissen: UrhMR: KI-Content
 - **Normen-/Quellenanker:** KI, BGH, UrhG, TDM, VO, Art. 50.
@@ -125,7 +125,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Pruefraster Verlag und Plattform.
 
-# UrhMR: Leistungsschutzrecht Presse
+### UrhMR: Leistungsschutzrecht Presse
 
 ## Spezialwissen: UrhMR: Leistungsschutzrecht Presse
 - **Normen-/Quellenanker:** UrhG, DSM, BGH.

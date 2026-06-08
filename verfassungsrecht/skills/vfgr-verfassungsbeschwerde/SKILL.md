@@ -28,7 +28,7 @@ description: "Vfgr Verfassungsbeschwerde im Plugin Verfassungsrecht im Verfassun
 
 **Fokus:** Spezialfall Verfassungsbeschwerde Substantiierung § 23, § 92 BVerfGG: Beschwerdebefugnis, Selbst- gegenwaertig- unmittelbar, Rechtswegerschoepfung. Pruefraster für Anwalt.
 
-# VfgR: VB-Substantiierung
+### VfgR: VB-Substantiierung
 
 ## Fachkern: VfgR: VB-Substantiierung
 - **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.

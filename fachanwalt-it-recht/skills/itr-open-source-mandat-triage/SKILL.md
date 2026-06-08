@@ -31,7 +31,7 @@ description: "ITR Open Source Mandat Triage im Plugin Fachanwalt It Recht: prüf
 
 **Fokus:** Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice.
 
-# IT: Open-Source-Compliance
+### IT: Open-Source-Compliance
 
 ## Spezialwissen: IT: Open-Source-Compliance
 - **Normen-/Quellenanker:** GPL, AGPL, LGPL, MIT, SBOM, KI, IT.
@@ -80,7 +80,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte.
 
-# IT-Recht: Source-Code-Escrow
+### IT-Recht: Source-Code-Escrow
 
 ## Spezialwissen: IT-Recht: Source-Code-Escrow
 - **Normen-/Quellenanker:** IT.
@@ -128,7 +128,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h.
 
-# Mandat-Triage IT-Recht
+### Mandat-Triage IT-Recht
 
 ## Zweck
 
@@ -334,7 +334,7 @@ Bearbeiter: [NAME RA/RAin]
 
 **Fokus:** Substantiierter Schriftsatzkern für Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bußgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im IT-, Datenschutz- und Telemedienrecht
+### Schriftsatzkern und Substantiierung im IT-, Datenschutz- und Telemedienrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -611,7 +611,7 @@ Rechtsanwaeltin / Rechtsanwalt
 
 **Fokus:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
+### Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

@@ -31,7 +31,7 @@ description: "Behördenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: pr
 
 **Fokus:** Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Behördenpaket: Zahlen, Schwellenwerte und Berechnung
+### Behördenpaket: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Behördenpaket: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
+### Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -118,7 +118,7 @@ Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risi
 
 **Fokus:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
+### Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
+### Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -192,7 +192,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Drittlandstransfer: Verhandlung, Vergleich und Eskalation im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Drittlandstransfer: Verhandlung, Vergleich und Eskalation
+### Drittlandstransfer: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Drittlandstransfer: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

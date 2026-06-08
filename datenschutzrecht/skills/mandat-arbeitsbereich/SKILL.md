@@ -55,7 +55,7 @@ Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext.
 ## Matter.md-Struktur
 
 ```markdown
-# Mandat: [Mandat-ID]
+### Mandat: [Mandat-ID]
 
 ## Mandant
 - **Name:** [Mandantenname]

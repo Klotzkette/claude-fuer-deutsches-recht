@@ -29,7 +29,7 @@ description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schu
 
 **Fokus:** Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.
+### Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.
 
 ## Fachkern: Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ EuInsVO; InsO; internationale Zustellung. Entscheidend ist immer der aktuelle No
 
 **Fokus:** Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.
+### Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.
 
 ## Fachkern: Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO § 305 Abs. 1 Nr. 1. Entscheidend ist immer der aktuelle Normstand der InsO
 
 **Fokus:** Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.
+### Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.
 
 ## Fachkern: Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

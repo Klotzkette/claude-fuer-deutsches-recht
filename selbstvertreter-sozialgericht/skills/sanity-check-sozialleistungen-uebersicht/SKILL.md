@@ -31,7 +31,7 @@ description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am So
 
 **Fokus:** Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreiheit, PKH und rote Flaggen.
 
-# Sanity-Check Selbstvertretung Sozialgericht
+### Sanity-Check Selbstvertretung Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanity-Check Selbstvertretung Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -156,7 +156,7 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 
 **Fokus:** Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger.
 
-# Sozialleistungen — Uebersicht aller SGB
+### Sozialleistungen — Uebersicht aller SGB
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sozialleistungen — Uebersicht aller SGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -273,7 +273,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Buergergeld-Ref
 
 **Fokus:** Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen.
 
-# Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen
+### Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -406,7 +406,7 @@ Stand: 05/2026. Klassische Auslegungs-Praxis. Bei Unsicherheit Beratungsstelle.
 
 **Fokus:** Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen.
 
-# Terminvorbereitung — Checkliste für Laien
+### Terminvorbereitung — Checkliste für Laien
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Terminvorbereitung — Checkliste für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -561,7 +561,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 **Fokus:** Die häufigsten Fehler von Buergern ohne Anwalt vor dem SG. Frist Form Belege Antrag. Liste der Stolpersteine und wie Sie sie vermeiden.
 
-# Typische Fehler — und wie Sie sie vermeiden
+### Typische Fehler — und wie Sie sie vermeiden
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Typische Fehler — und wie Sie sie vermeiden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

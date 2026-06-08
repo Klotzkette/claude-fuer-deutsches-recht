@@ -29,7 +29,7 @@ description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbr
 
 **Fokus:** Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.; Normanker: BGB §§ 2032 ff., 2042; ZVG; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.
+### Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -61,7 +61,7 @@ BGB §§ 2032 ff., 2042; ZVG. Rechtsprechung wird nur mit Gericht, Datum, Aktenz
 
 **Fokus:** Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills.
 
-# Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht
+### Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -233,7 +233,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 **Fokus:** Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht.
 
-# Erbschaftsausschlagung
+### Erbschaftsausschlagung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbschaftsausschlagung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

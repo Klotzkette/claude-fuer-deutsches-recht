@@ -29,7 +29,7 @@ description: "Interessen Verifikation Beweislast Vorschau im Plugin Liquiditaets
 
 **Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
+### Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 
 ## Fachkern: Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Verifikation: Beweislast, Darlegungslast und Substantiierung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verifikation: Beweislast, Darlegungslast und Substantiierung
+### Verifikation: Beweislast, Darlegungslast und Substantiierung
 
 ## Fachkern: Verifikation: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -105,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung
+### Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Fachkern: Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

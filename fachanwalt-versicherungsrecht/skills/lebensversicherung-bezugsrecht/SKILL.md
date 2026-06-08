@@ -29,7 +29,7 @@ description: "Versr Lebensversicherung Bezugsrecht im Plugin Fachanwalt Versiche
 
 **Fokus:** Lebensversicherung: Bezugsrecht, Erbfall, Scheidung, Sicherungsabtretung, Rückkaufswert, Überschüsse und Bewertungsreserven.
 
-# FA Versicherungsrecht: Lebensversicherung Auszahlung
+### FA Versicherungsrecht: Lebensversicherung Auszahlung
 
 ## Einsatz
 
@@ -63,7 +63,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober Fahrlässigkeit, Rechtsfolgenbelehrung, Kausalitätsgegenbeweis und Quote.
 
-# FA Versicherungsrecht: § 28 VVG Quotierung
+### FA Versicherungsrecht: § 28 VVG Quotierung
 
 ## Einsatz
 
@@ -97,7 +97,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht. Folgen Leistungsfreiheit bei Vorsatz, Quotelung bei grober Fahrlaessigkeit, Kausalitaetsgegenbeweis Versicherungsnehmer. Pruefraster Mandant.
 
-# Versr: Obliegenheitsverletzung
+### Versr: Obliegenheitsverletzung
 
 ## Spezialwissen: Versr: Obliegenheitsverletzung
 - **Normen-/Quellenanker:** VVG.

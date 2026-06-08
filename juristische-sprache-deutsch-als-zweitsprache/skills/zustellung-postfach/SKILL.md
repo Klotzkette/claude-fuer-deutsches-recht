@@ -28,7 +28,7 @@ description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Jurist
 
 **Fokus:** Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
 
-# Zustellung Brief Postfach
+### Zustellung Brief Postfach
 
 ## Zweck
 

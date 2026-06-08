@@ -597,7 +597,7 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 
 **Fokus:** Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie.
 
-# M&A Due Diligence Findings
+### M&A Due Diligence Findings
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `M&A Due Diligence Findings` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

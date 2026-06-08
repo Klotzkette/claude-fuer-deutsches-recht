@@ -30,7 +30,7 @@ description: "Hinschg Whistleblower Interne Untersuchung im Plugin Arbeitsrecht:
 
 **Fokus:** Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben.
 
-# HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
+### HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -340,7 +340,7 @@ Bei Rückfragen wenden Sie sich bitte an
 
 **Fokus:** Referenz-Skill: gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit Relevanzprüfung, Quellendeckungs-Tracking, Abfragen gegen das Protokoll, Memo-Entwurf und Zielgruppen-Zusammenfassungen. Wird von /untersuchung-eroeffnen, /untersuchung-ergaenzen, /untersuchung-abfrage, /untersuchungs-memo und /untersuchungs-zusammenfassung geladen; nicht direkt aufzurufen.
 
-# Interne Untersuchung — Referenz-Skill (Arbeitsrecht)
+### Interne Untersuchung — Referenz-Skill (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Interne Untersuchung — Referenz-Skill (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -481,7 +481,7 @@ Erstelle folgende Dateien:
 `investigation-[slug]/log.yaml`:
 
 ```yaml
-# VERTRAULICH — INTERNE UNTERSUCHUNG — [Datum]
+### VERTRAULICH — INTERNE UNTERSUCHUNG — [Datum]
 sache: "[Sachbezeichnung]"
 sache_slug: "[slug]"
 eroeffnet: "[ISO-Datum]"
@@ -510,7 +510,7 @@ Wird aus der Untersuchungsart generiert — siehe Checklisten-Vorlagen unten.
 `investigation-[slug]/dokumente-geprueft.yaml`:
 
 ```yaml
-# VERTRAULICH — INTERNE UNTERSUCHUNG — [Datum]
+### VERTRAULICH — INTERNE UNTERSUCHUNG — [Datum]
 sache: "[Sachbezeichnung]"
 gesamt_geprueft: 0
 gesamt_relevant: 0
@@ -1057,7 +1057,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 **Fokus:** Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG).
 
-# /arbeitsrecht:kündigungs-prüfung
+### /arbeitsrecht:kündigungs-prüfung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:kündigungs-prüfung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1259,7 +1259,7 @@ Die beabsichtigte Kündigung ist der des Arbeitnehmers C am ehesten begründbar.
 
 **Fokus:** Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird.
 
-# Kündigungsschutzklage (§ 4 KSchG)
+### Kündigungsschutzklage (§ 4 KSchG)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsschutzklage (§ 4 KSchG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

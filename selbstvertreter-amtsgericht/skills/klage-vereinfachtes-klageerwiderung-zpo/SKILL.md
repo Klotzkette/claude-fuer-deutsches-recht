@@ -29,7 +29,7 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 
 **Fokus:** Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt.
 
-# Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)
+### Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)
 
 ## Worum geht es?
 
@@ -164,7 +164,7 @@ Stand: 05/2026. § 495a ZPO aktuelle Fassung: Wertgrenze 1.000 EUR (Anhebung von
 
 **Fokus:** Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts.
 
-# Sie sind verklagt: Welche Fristen laufen?
+### Sie sind verklagt: Welche Fristen laufen?
 
 ## Worum geht es?
 
@@ -314,7 +314,7 @@ Stand: 05/2026. §§ 274 ff. ZPO unveraendert.
 
 **Fokus:** Mahnbescheid nach §§ 688 ff. ZPO als guenstige Alternative zur Klage. Online-Formular Mahngerichte Widerspruchs-Folgen Vollstreckungsbescheid. Wann ist Mahnverfahren sinnvoll wann nicht. Mit Hinweisen zur Hemmung der Verjährung.
 
-# Mahnbescheid statt Klage: schnell und billig
+### Mahnbescheid statt Klage: schnell und billig
 
 ## Worum geht es?
 

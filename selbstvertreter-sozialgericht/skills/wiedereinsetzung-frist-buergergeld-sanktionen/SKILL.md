@@ -31,7 +31,7 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 
 **Fokus:** Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt.
 
-# Frist verpasst? Wiedereinsetzung nach § 67 SGG
+### Frist verpasst? Wiedereinsetzung nach § 67 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Frist verpasst? Wiedereinsetzung nach § 67 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -197,7 +197,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 **Fokus:** Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine.
 
-# Buergergeld Sanktionen 31A Sgb Ii
+### Buergergeld Sanktionen 31A Sgb Ii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Buergergeld Sanktionen 31A Sgb Ii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -248,7 +248,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 **Fokus:** Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Pruefraster und Strategie bei Streit.
 
-# Krankenkassen Krankengeld 44 Sgb V
+### Krankenkassen Krankengeld 44 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Krankengeld 44 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -307,7 +307,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 **Fokus:** Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Pruefraster.
 
-# Schwerbehindertenausweis Merkzeichen Pruefen
+### Schwerbehindertenausweis Merkzeichen Pruefen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schwerbehindertenausweis Merkzeichen Pruefen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -376,7 +376,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 **Fokus:** Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt.
 
-# Widerspruch einreichen — die sicheren Wege
+### Widerspruch einreichen — die sicheren Wege
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Widerspruch einreichen — die sicheren Wege` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

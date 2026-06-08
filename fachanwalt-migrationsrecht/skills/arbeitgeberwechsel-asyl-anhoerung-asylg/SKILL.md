@@ -31,7 +31,7 @@ description: "Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft
 
 **Fokus:** Arbeitgeberwechsel: Fachmodul im Migrationsrecht; prüft Nebenbestimmung, Frist, Mitteilung, Zustimmung und Risiko Arbeitsplatzverlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Arbeitgeberwechsel
+### Arbeitgeberwechsel
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Nebenbestimmung, Frist, Mitteilung, Zustimmung und Risiko Arbeitsplatzverlust.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Nebenbes
 
 **Fokus:** Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht; bereitet Kernschilderung, Widersprüche, Chronologie und Beweismittel vor; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Asylanhörung/Glaubhaftigkeit
+### Asylanhörung/Glaubhaftigkeit
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: bereitet Kernschilderung, Widersprüche, Chronologie und Beweismittel vor.
@@ -103,7 +103,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: bereitet Kernsc
 
 **Fokus:** Asylg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Asylg: Dokumentenmatrix, Lückenliste und Nachforderung
+### Asylg: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Asylg: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
@@ -147,7 +147,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Ausbildungsduldung: Fachmodul im Migrationsrecht; prüft Ausbildung, Identität, Ausschlüsse, Fristen, Anschlussaufenthalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Ausbildungsduldung
+### Ausbildungsduldung
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ausbildung, Identität, Ausschlüsse, Fristen, Anschlussaufenthalt.
@@ -183,7 +183,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ausbildu
 
 **Fokus:** Ausweisung Abwägung: Fachmodul im Migrationsrecht; prüft §§ 53 ff. AufenthG, Bleibeinteressen, Familie, Straftat, Prognose; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Ausweisung Abwägung
+### Ausweisung Abwägung
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft §§ 53 ff. AufenthG, Bleibeinteressen, Familie, Straftat, Prognose.

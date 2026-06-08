@@ -40,7 +40,7 @@ description: "Start Chronologie Fristen im Plugin Fachanwalt It Recht: prüft ko
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt IT Recht — Allgemein
+### Fachanwalt IT Recht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -178,7 +178,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-it-recht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-it-recht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
@@ -213,7 +213,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-it-recht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Aufgabe
 Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fachanwalt-it-recht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
@@ -262,7 +262,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-it-recht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-it-recht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
@@ -309,7 +309,7 @@ Bei IT-Vertragsverhandlungen ist die Empfehlung "Klage" selten die beste Erstopt
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-it-recht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-it-recht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..

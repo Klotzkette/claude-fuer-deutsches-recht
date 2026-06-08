@@ -29,7 +29,7 @@ description: "HGR DIS Gesellschaftsrecht Token Fristennotiz im Plugin Fachanwalt
 
 **Fokus:** Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Prüfraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie.
 
-# Gesellschafterstreit / DIS-Schiedsverfahren
+### Gesellschafterstreit / DIS-Schiedsverfahren
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterstreit / DIS-Schiedsverfahren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -185,7 +185,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -230,7 +230,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Token: Fristennotiz und nächster Schritt
+### Token: Fristennotiz und nächster Schritt
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Token: Fristennotiz und nächster Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

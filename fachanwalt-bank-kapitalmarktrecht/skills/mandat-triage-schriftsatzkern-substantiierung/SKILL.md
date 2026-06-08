@@ -29,7 +29,7 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Plugin Fachanwalt
 
 **Fokus:** Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjährung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Prüfraster Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation Kontosperrung BaFin-Anordnung. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick).
 
-# Mandat-Triage Bank- und Kapitalmarktrecht
+### Mandat-Triage Bank- und Kapitalmarktrecht
 
 ## Zweck
 
@@ -227,7 +227,7 @@ Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgeric
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Bank-, Kapitalmarkt- und Wertpapierrecht
+### Schriftsatzkern und Substantiierung im Bank-, Kapitalmarkt- und Wertpapierrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -434,7 +434,7 @@ Vor Versand:
 
 **Fokus:** Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Konkreter Gegenstand:** Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

@@ -38,7 +38,7 @@ description: "FA Bank Kapitalmarkt BK Bafin Chronologie im Plugin Fachanwalt Ban
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Bank Kapitalmarktrecht — Allgemein
+### Fachanwalt Bank Kapitalmarktrecht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -167,7 +167,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext für Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren.
 
-# BK: BaFin-Beschwerdeverfahren
+### BK: BaFin-Beschwerdeverfahren
 
 ## Spezialwissen: BK: BaFin-Beschwerdeverfahren
 - **Normen-/Quellenanker:** BK.
@@ -216,7 +216,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-bank-kapitalmarktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-bank-kapitalmarktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..

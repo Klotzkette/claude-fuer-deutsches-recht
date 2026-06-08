@@ -97,7 +97,7 @@ Verbindlich: `../references/zitierweise.md`.
 ## Ausgabeformat
 
 ```yaml
-# demand-letters/[slug]/intake.md
+### demand-letters/[slug]/intake.md
 mandant:
  name: ""
  typ: "Unternehmer / Verbraucher"

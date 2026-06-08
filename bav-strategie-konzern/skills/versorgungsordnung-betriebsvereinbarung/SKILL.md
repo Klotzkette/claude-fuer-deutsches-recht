@@ -28,7 +28,7 @@ description: "Versorgungsordnung Betriebsvereinbarung im betriebliche Altersvers
 
 **Fokus:** Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschäftsführervertrag.
 
-# Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
+### Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
 
 ## Fachkern: Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
 

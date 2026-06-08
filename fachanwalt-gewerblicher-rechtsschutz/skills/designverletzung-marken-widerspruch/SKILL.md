@@ -331,7 +331,7 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 
 **Fokus:** Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG).
 
-# Marken-Widerspruchsverfahren
+### Marken-Widerspruchsverfahren
 
 ## Triage zu Beginn
 

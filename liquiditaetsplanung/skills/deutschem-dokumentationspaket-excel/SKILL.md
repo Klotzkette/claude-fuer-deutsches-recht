@@ -29,7 +29,7 @@ description: "Deutschem Dokumentationspaket Excel im Plugin Liquiditaetsplanung:
 
 **Fokus:** Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Fachkern: Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
+### Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
 
 ## Fachkern: Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Excel: Behörden-, Gerichts- oder Registerweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Excel: Behörden-, Gerichts- oder Registerweg
+### Excel: Behörden-, Gerichts- oder Registerweg
 
 ## Fachkern: Excel: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

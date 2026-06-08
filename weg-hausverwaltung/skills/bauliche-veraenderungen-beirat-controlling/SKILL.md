@@ -29,7 +29,7 @@ description: "Bauliche Veraenderungen Beirat Controlling im Plugin Weg Hausverwa
 
 **Fokus:** Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2026): Anspruch, Gestattung, Grenzen, Kostenfolge, Gebrauch, Auflagen, Rückbau, Beschlussvorschlag und Anfechtungsrisiko, einschließlich der BGH-Linie 2024-2025 zu Klimasplitgeräten, Fassadendurchbrüchen und Mieterhandeln.
 
-# Bauliche Veränderungen nach § 20 WEG
+### Bauliche Veränderungen nach § 20 WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche Veränderungen nach § 20 WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -124,7 +124,7 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 
 **Fokus:** Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
 
-# Beirat: Controlling und Verwalterbegleitung
+### Beirat: Controlling und Verwalterbegleitung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat: Controlling und Verwalterbegleitung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -220,7 +220,7 @@ Der Beirat bekommt eine strukturierte, nicht übergriffige Kontroll- und Unterst
 
 **Fokus:** Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung (V ZR 102/23) und Erkundigungsobliegenheit (V ZR 17/24).
 
-# Beschlussanfechtung Risiko
+### Beschlussanfechtung Risiko
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschlussanfechtung Risiko` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

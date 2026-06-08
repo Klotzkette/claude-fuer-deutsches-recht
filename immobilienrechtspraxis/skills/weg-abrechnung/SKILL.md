@@ -28,7 +28,7 @@ description: "WEG Abrechnung im Plugin Immobilienrechtspraxis im Immobilienrecht
 
 **Fokus:** Datenpaket WEG-Abrechnung zu Mietern: übersetzt Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2-Daten und Belege in eine mietrechtlich brauchbare Betriebskostenabrechnung; mit Abrechnungsspitze, nicht umlagefähigen Positionen und Eigentümerkommunikation.
 
-# WEG-Abrechnung als Mieterdatenpaket
+### WEG-Abrechnung als Mieterdatenpaket
 
 ## Fachkern: WEG-Abrechnung als Mieterdatenpaket
 - **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.

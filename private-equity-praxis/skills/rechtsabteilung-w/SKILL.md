@@ -28,7 +28,7 @@ description: "Rechtsabteilung W im Private Equity Praxis im Private Equity Praxi
 
 **Fokus:** Rechtsabteilungs-Fachmodul für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: W&I-Claim nach Financial Statements Breach
+### Rechtsabteilung: W&I-Claim nach Financial Statements Breach
 
 ## Fachkern: Rechtsabteilung: W&I-Claim nach Financial Statements Breach
 - **Normen-/Quellenanker:** GmbHG, AktG, UmwG, GWB/FKVO, AWG/AWV, KAGB/AIFM-Bezug, LMA-Finanzierung, InsO/StaRUG, Steuer- und Managementbeteiligungsfragen.

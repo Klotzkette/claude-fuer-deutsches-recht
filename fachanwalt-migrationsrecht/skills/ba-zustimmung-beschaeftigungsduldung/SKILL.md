@@ -28,7 +28,7 @@ description: "BA Zustimmung Beschaeftigungsduldung im Migrationsrecht: prüft ko
 
 **Fokus:** BA-Zustimmung Beschäftigung: Fachmodul im Migrationsrecht; prüft Zustimmungserfordernis, Vorrang/Arbeitsbedingungen, Ausnahmen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# BA-Zustimmung Beschäftigung
+### BA-Zustimmung Beschäftigung
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Zustimmungserfordernis, Vorrang/Arbeitsbedingungen, Ausnahmen.
@@ -64,7 +64,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Zustimmu
 
 **Fokus:** Beschäftigungsduldung: Fachmodul im Migrationsrecht; prüft Beschäftigungszeiten, Lebensunterhalt, Identität, Straffreiheit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Beschäftigungsduldung
+### Beschäftigungsduldung
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Beschäftigungszeiten, Lebensunterhalt, Identität, Straffreiheit.

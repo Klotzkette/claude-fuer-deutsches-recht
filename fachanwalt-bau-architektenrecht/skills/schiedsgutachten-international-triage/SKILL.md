@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Schiedsgutachten: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schiedsgutachten: Internationaler Bezug und Schnittstellen
+### Schiedsgutachten: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Schiedsgutachten: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstellen: Compliance-Dokumentation und Aktenvermerk
+### Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -119,7 +119,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Triage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Triage: Beweislast, Darlegungslast und Substantiierung
+### Triage: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Triage: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergaberecht: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vergaberecht: Zahlen, Schwellenwerte und Berechnung
+### Vergaberecht: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Vergaberecht: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

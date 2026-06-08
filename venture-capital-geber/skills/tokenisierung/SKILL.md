@@ -28,7 +28,7 @@ description: "VC Tokenisierung im Venture Capital im Venture Capital (Geber): pr
 
 **Fokus:** Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation.
 
-# Tokenisierung und digitale Beteiligung
+### Tokenisierung und digitale Beteiligung
 
 ## Aufgabe
 

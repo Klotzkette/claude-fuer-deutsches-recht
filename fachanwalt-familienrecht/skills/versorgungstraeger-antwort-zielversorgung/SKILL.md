@@ -28,7 +28,7 @@ description: "Versorgungstraeger Antwort Zielversorgung im Plugin Fachanwalt Fam
 
 **Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen.
 
-# Versorgungsträger Antwort prüfen
+### Versorgungsträger Antwort prüfen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versorgungsträger Antwort prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -79,7 +79,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Zielversorgung wählen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Zielversorgung wählen externe Teilung
+### Zielversorgung wählen externe Teilung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zielversorgung wählen externe Teilung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -28,7 +28,7 @@ description: "ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvol
 
 **Fokus:** Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag. Pruefraster für Glaeubiger und Schuldner.
 
-# ZwV: Zwangsversteigerung Grundstueck
+### ZwV: Zwangsversteigerung Grundstueck
 
 ## Spezialwissen: ZwV: Zwangsversteigerung Grundstueck
 - **Normen-/Quellenanker:** ZVG, ZwV.

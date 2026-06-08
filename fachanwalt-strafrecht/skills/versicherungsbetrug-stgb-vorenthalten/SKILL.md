@@ -34,7 +34,7 @@ description: "Versicherungsbetrug Stgb Vorenthalten im Strafrecht: prüft konkre
 
 **Fokus:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo für Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
 
-# Versicherungsmissbrauch § 265 StGB
+### Versicherungsmissbrauch § 265 StGB
 
 ## Worum geht es
 
@@ -140,7 +140,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 **Fokus:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
 
-# Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB
+### Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB
 
 ## Worum geht es konkret
 
@@ -253,7 +253,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 **Fokus:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo für Hochschulen Behörden kommunale Mandatstraeger.
 
-# Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB
+### Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB
 
 ## Worum geht es
 
@@ -369,7 +369,7 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen D
 
 **Fokus:** Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG. Unerlaubter Umgang mit Schusswaffen und Munition Erwerb Besitz Fuehren Verbringen. Erlaubnistatbestaende Wesentliche Bauteile. Qualifikationen Banden gewerbliche Begehung. Verteidigungslinien Vorsatz Erlaubnislage Anlasswaffen. Konkurrenzen Paragraph 244 IV StGB nicht einschlaegig.
 
-# Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG
+### Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG
 
 ## Worum geht es
 
@@ -491,7 +491,7 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 **Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership.
 
-# Sektorenwechsel und wirtschaftliche Bestechung bei Amtsverhaeltnis
+### Sektorenwechsel und wirtschaftliche Bestechung bei Amtsverhaeltnis
 
 ## Worum geht es
 
@@ -613,7 +613,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 **Fokus:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien für den Geschaeftsleiter im Wirtschaftsstrafverfahren.
 
-# Zahlungsverbot nach Paragraph 15b InsO
+### Zahlungsverbot nach Paragraph 15b InsO
 
 ## Worum geht es konkret
 
@@ -712,7 +712,7 @@ Sonderregel für Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 
 **Fokus:** Wucher § 291 StGB inkl. Mietwucher, Kreditwucher, Lohnwucher und Vermittlungswucher: Verteidigung bei Vorwurf der Ausbeutung einer Zwangslage, Unerfahrenheit, Urteilsschwaeche oder erheblichen Willensschwaeche zu auffaelligem Missverhaeltnis. Strafrahmen bis drei Jahre oder Geldstrafe; besonders schwerer Fall § 291 Abs. 2 StGB. Abgrenzung zu § 5 WiStrG 1954.
 
-# Wucher § 291 StGB (Mietwucher, Zinswucher, Lohnwucher)
+### Wucher § 291 StGB (Mietwucher, Zinswucher, Lohnwucher)
 
 ## Worum geht es
 
@@ -834,7 +834,7 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 
 **Fokus:** Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich für prozessuale Einigung und Strafverteidiger will Verständigung Einstellung oder TOA vorbereiten. § 257c StPO Verständigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Prüfraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verständigung-257c-TOA-46a und zu Plaedoyer.
 
-# Verhandlungs- und Einigungsstrategie im Strafverfahren
+### Verhandlungs- und Einigungsstrategie im Strafverfahren
 
 ## Wann dieser Arbeitsgang greift
 

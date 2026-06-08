@@ -32,7 +32,7 @@ description: "Livecheck Medizinrecht Medr Mpdg im Medizinrecht: prüft konkret L
 
 **Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Livecheck: Abschlussprodukt und Übergabe
+### Livecheck: Abschlussprodukt und Übergabe
 
 ## Fachkern: Livecheck: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Fachkern: Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -108,7 +108,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Medr: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Medr: Mandantenkommunikation und Entscheidungsvorlage
+### Medr: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Fachkern: Medr: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -146,7 +146,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Mpdg: Compliance-Dokumentation und Aktenvermerk
+### Mpdg: Compliance-Dokumentation und Aktenvermerk
 
 ## Fachkern: Mpdg: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -184,7 +184,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Patientenrechte: Behörden-, Gerichts- oder Registerweg
+### Patientenrechte: Behörden-, Gerichts- oder Registerweg
 
 ## Fachkern: Patientenrechte: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -222,7 +222,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstellen: Internationaler Bezug und Schnittstellen
+### Schnittstellen: Internationaler Bezug und Schnittstellen
 
 ## Fachkern: Schnittstellen: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

@@ -30,7 +30,7 @@ description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft k
 
 **Fokus:** Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit.
 
-# KSchG-Anwendbarkeit prüfen
+### KSchG-Anwendbarkeit prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KSchG-Anwendbarkeit prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -144,7 +144,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG.
 
-# Vorsicht: Elektronische Signaturen bei Befristungsabreden
+### Vorsicht: Elektronische Signaturen bei Befristungsabreden
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vorsicht: Elektronische Signaturen bei Befristungsabreden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -233,7 +233,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
 
-# Grundwarnung: Dreiwochenfrist § 17 TzBfG
+### Grundwarnung: Dreiwochenfrist § 17 TzBfG
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundwarnung: Dreiwochenfrist § 17 TzBfG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -347,7 +347,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen § 54 und § 57 ArbGG.
 
-# Gütetermin und Kammertermin: Sprechzettel Entfristungsklage
+### Gütetermin und Kammertermin: Sprechzettel Entfristungsklage
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gütetermin und Kammertermin: Sprechzettel Entfristungsklage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

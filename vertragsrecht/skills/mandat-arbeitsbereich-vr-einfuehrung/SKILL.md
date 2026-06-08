@@ -178,7 +178,7 @@ Mit Nutzer bestätigen.
 ```markdown
 [ARBEITSERGEBNIS-KENNZEICHNUNG — gemäß Kanzleiprofil ## Ausgaben]
 
-# Mandat: [Mandant] — [Kurzbeschreibung]
+### Mandat: [Mandant] — [Kurzbeschreibung]
 
 **Kürzel:** [kürzel]
 **Eröffnet:** [JJJJ-MM-TT]
@@ -224,7 +224,7 @@ ob mandatsübergreifender Kontext trotz globaler Einstellung unzulässig ist.]
 ### Vorlage `verlauf.md` (Seed)
 
 ```markdown
-# Verlauf: [Mandant] — [Kurzbeschreibung]
+### Verlauf: [Mandant] — [Kurzbeschreibung]
 
 Append-only Ereignisprotokoll. Aktuellster Eintrag oben.
 

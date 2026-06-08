@@ -29,7 +29,7 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 
 **Fokus:** Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor.
 
-# Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck
+### Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck
 
 ## Worum geht es?
 
@@ -172,7 +172,7 @@ Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
 
 **Fokus:** Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat.
 
-# Wann ist es Zeit, doch einen Anwalt zu nehmen?
+### Wann ist es Zeit, doch einen Anwalt zu nehmen?
 
 ## Worum geht es?
 
@@ -330,7 +330,7 @@ Stand: 05/2026. Praxis-Skill.
 
 **Fokus:** Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen.
 
-# Widerklage: Eigener Angriff gegen den Klaeger
+### Widerklage: Eigener Angriff gegen den Klaeger
 
 ## Worum geht es?
 

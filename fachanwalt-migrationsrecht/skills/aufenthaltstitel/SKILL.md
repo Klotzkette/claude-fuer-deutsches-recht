@@ -30,7 +30,7 @@ description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Ert
 
 **Fokus:** Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identität kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung.
 
-# Aufenthaltstitel-Antrag
+### Aufenthaltstitel-Antrag
 
 ## Kaltstart-Rückfragen
 
@@ -387,7 +387,7 @@ Anlagen: 1 Vollmacht, 2 Einkommensnachweise, 3 Reisepass, 4 Fuehrungszeugnis,
 
 **Fokus:** Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung.
 
-# Ausweisung-Widerspruch § 53 AufenthG
+### Ausweisung-Widerspruch § 53 AufenthG
 
 ## Zweck
 
@@ -627,7 +627,7 @@ Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
 
 **Fokus:** Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhörungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhörungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behördenkorrespondenz-Muster Anhörungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst.
 
-# BAMF-Anhörung / Ausländerbehörde-Kommunikation
+### BAMF-Anhörung / Ausländerbehörde-Kommunikation
 
 ## Zweck
 
@@ -838,7 +838,7 @@ die Formulierung bleibt unveraendert.
 
 **Fokus:** Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO.
 
-# Einbürgerung
+### Einbürgerung
 
 ## Kaltstart-Rückfragen
 

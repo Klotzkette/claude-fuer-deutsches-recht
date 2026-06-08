@@ -31,7 +31,7 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 
 **Fokus:** Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit.
 
-# Abwägung: Materialauswahl und Abwägungsgrundlagen
+### Abwägung: Materialauswahl und Abwägungsgrundlagen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung: Materialauswahl und Abwägungsgrundlagen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet.
 
-# Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
+### Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -209,7 +209,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Pruefraster mit Begruendungsstaerke.
 
-# Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
+### Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -325,7 +325,7 @@ Stand: Mai 2026.
 
 **Fokus:** Protokolliert methodisch präzise die Grenze zwischen erlaubter Auslegung und unerlaubter richterlicher Rechtsfortbildung im Zivilrecht. Das Skill hilft, Wortlautgrenzen zu identifizieren, Lückenfeststellungen zu begründen und Rechtsfortbildungsschritte demokratisch zu legitimieren. Es dient als Prüfprotokoll für Anwälte, Richter und Wissenschaftler, die Auslegungsschritte revisionsrechtlich absichern oder angreifen wollen.
 
-# Auslegung versus Rechtsfortbildung: Grenzprotokoll
+### Auslegung versus Rechtsfortbildung: Grenzprotokoll
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Auslegung versus Rechtsfortbildung: Grenzprotokoll` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -414,7 +414,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung.
 
-# Begründung, Anhörung und Adressatenfähigkeit
+### Begründung, Anhörung und Adressatenfähigkeit
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Begründung, Anhörung und Adressatenfähigkeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

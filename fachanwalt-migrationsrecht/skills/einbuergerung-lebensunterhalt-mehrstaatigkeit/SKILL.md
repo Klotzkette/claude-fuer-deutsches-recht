@@ -31,7 +31,7 @@ description: "Einbuergerung Lebensunterhalt Mehrstaatigkeit im Migrationsrecht: 
 
 **Fokus:** Einbürgerung Lebensunterhalt: Fachmodul im Migrationsrecht; prüft Einkommen, Sozialleistungen, Prognose, Ausnahmegründe; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Einbürgerung Lebensunterhalt
+### Einbürgerung Lebensunterhalt
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Einkommen, Sozialleistungen, Prognose, Ausnahmegründe.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Einkomme
 
 **Fokus:** Einbürgerung Mehrstaatigkeit: Fachmodul im Migrationsrecht; prüft Reformstand, Staatsangehörigkeitsrecht, Dokumente, Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Einbürgerung Mehrstaatigkeit
+### Einbürgerung Mehrstaatigkeit
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Reformstand, Staatsangehörigkeitsrecht, Dokumente, Risiken.
@@ -103,7 +103,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Reformst
 
 **Fokus:** Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht; prüft Bagatellgrenzen, Register, Tilgung, Ausschlüsse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Einbürgerung Vorstrafen
+### Einbürgerung Vorstrafen
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Bagatellgrenzen, Register, Tilgung, Ausschlüsse.
@@ -139,7 +139,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Bagatell
 
 **Fokus:** Einreise-/Aufenthaltsverbot: Fachmodul im Migrationsrecht; prüft Befristung, Verkürzung, Sperrwirkung, EU-Bezug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Einreise-/Aufenthaltsverbot
+### Einreise-/Aufenthaltsverbot
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Befristung, Verkürzung, Sperrwirkung, EU-Bezug.
@@ -175,7 +175,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Befristu
 
 **Fokus:** Elternnachzug: Fachmodul im Migrationsrecht; prüft Minderjährige Schutzberechtigte, außergewöhnliche Härte, Sicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Elternnachzug
+### Elternnachzug
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Minderjährige Schutzberechtigte, außergewöhnliche Härte, Sicherung.

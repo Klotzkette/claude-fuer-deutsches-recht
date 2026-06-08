@@ -28,7 +28,7 @@ description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pru
 
 **Fokus:** KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies.
 
-# KI-Flaschenhälse und Wettbewerb
+### KI-Flaschenhälse und Wettbewerb
 
 ## Ziel
 

@@ -29,7 +29,7 @@ description: "Fristennotiz Naechster Pachtvertrag Streitig im Agrarrecht: prüft
 
 **Fokus:** Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Uebergabe: Fristennotiz und nächster Schritt
+### Uebergabe: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Uebergabe: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage.
 
-# Pachtvertrags-Streitigkeiten
+### Pachtvertrags-Streitigkeiten
 
 ## Zweck
 
@@ -203,7 +203,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Pachtvertrag: Abschlussprodukt und Übergabe
+### Pachtvertrag: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Pachtvertrag: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

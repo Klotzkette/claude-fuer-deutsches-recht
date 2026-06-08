@@ -33,7 +33,7 @@ description: "Auction Authority Monitoring Bank Consents im Corporate/M&A (Groß
 
 **Fokus:** Auction Process Letter Generator: erstellt und prueft Prozessbriefe für strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln.
 
-# Auction Process Letter
+### Auction Process Letter
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Auction Process Letter` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben.
 
-# Authority Matrix Approvals
+### Authority Matrix Approvals
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Authority Matrix Approvals` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -205,7 +205,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Überwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Prüfraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO für manuelle Aufgabenlisten und zu Fristen-CP-Kalender.
 
-# Automationen und Monitoring (Corporate M&A)
+### Automationen und Monitoring (Corporate M&A)
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Automationen und Monitoring (Corporate M&A)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -385,7 +385,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Bank Consents und Change-of-Control in Finanzierungsvertraegen: erkennt Consent-Pflichten, Default-Risiken, Waiver-Bedarf und Closing-CPs.
 
-# Bank Consents Change Control
+### Bank Consents Change Control
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bank Consents Change Control` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -471,7 +471,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Bidder Instructions und VDR Rules für grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen.
 
-# Bidder Instructions VDR Rules
+### Bidder Instructions VDR Rules
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bidder Instructions VDR Rules` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -557,7 +557,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Prüfraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffähige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD für freistehende Abrechnung.
 
-# Big-Law Billing Narratives (Corporate M&A)
+### Big-Law Billing Narratives (Corporate M&A)
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Big-Law Billing Narratives (Corporate M&A)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -781,7 +781,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Board Consents, Minutes und Resolutions für M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung.
 
-# Board Consents Minutes Resolutions
+### Board Consents Minutes Resolutions
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Board Consents Minutes Resolutions` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

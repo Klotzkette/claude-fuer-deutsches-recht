@@ -29,7 +29,7 @@ description: "Liqp Liquiditaetspool Cash Rollende 13wochen im Plugin Liquiditaet
 
 **Fokus:** Spezialfall Liquiditaetspool und Cash-Pooling im Konzern: § 30 GmbHG, BGH-Rechtsprechung, vollwertiger Rueckzahlungsanspruch. Pruefraster für Konzernmutter und Tochter.
 
-# LiqP: Cash-Pooling Spezial
+### LiqP: Cash-Pooling Spezial
 
 ## Fachkern: LiqP: Cash-Pooling Spezial
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -79,7 +79,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bauleiter rollende 13-Wochen-Liquiditaetsplanung: Einnahmen / Ausgaben / Saldo / kumulierter Saldo, Granularitaet, Update-Zyklen. Pruefraster Mittelstand und Konzerntochter.
 
-# LiqP: 13-Wochen-Plan Bauleiter
+### LiqP: 13-Wochen-Plan Bauleiter
 
 ## Fachkern: LiqP: 13-Wochen-Plan Bauleiter
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -129,7 +129,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Warenkredit und Skontostrategien in der Krise: Lieferantenverhandlung, Vorkasse, verlaengerter Eigentumsvorbehalt, Factoring. Pruefraster für Treasury.
 
-# LiqP: Warenkredit Skonto
+### LiqP: Warenkredit Skonto
 
 ## Fachkern: LiqP: Warenkredit Skonto
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

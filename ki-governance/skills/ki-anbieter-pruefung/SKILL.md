@@ -159,7 +159,7 @@ Chirurgische Redlines signalisieren: wir haben sorgfältig gelesen.
 ## Ausgabeformat
 
 ```markdown
-# KI-Anbieterprüfung: [Anbietername]
+### KI-Anbieterprüfung: [Anbietername]
 Geprüftes Dokument: [Typ] | Datum: [heute]
 Anwendungsfall(e): [Zweck] | Governance-Stufe: [Standard/Erhöht/Hoch]
 

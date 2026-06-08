@@ -30,7 +30,7 @@ description: "Bauordnungsrecht Einfuehrung Fachanwalt HOAI im Plugin Fachanwalt 
 
 **Fokus:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
+### Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Einfuehrung: Formular, Portal und Einreichungslogik
+### Einfuehrung: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Einfuehrung: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -104,7 +104,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -141,7 +141,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
+### Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

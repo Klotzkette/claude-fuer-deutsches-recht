@@ -28,7 +28,7 @@ description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufs
 
 **Fokus:** Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger Umformulierungs-Skill sondern Dokumentationswerkzeug.
 
-# Vorher-Nachher-Tabelle
+### Vorher-Nachher-Tabelle
 
 ## Fachkern: Vorher-Nachher-Tabelle
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.

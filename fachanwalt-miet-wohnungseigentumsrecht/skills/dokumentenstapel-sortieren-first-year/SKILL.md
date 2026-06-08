@@ -31,7 +31,7 @@ description: "Dokumentenstapel Sortieren First Year im Miet- und Wohnungseigentu
 
 **Fokus:** Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht; ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Dokumentenstapel sortieren
+### Dokumentenstapel sortieren
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Dokumentenstapel sortieren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** First-Year-Associate-Coach Mietrecht: Prüfungslinie für Miet- und WEG-Recht; führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# First-Year-Associate-Coach Mietrecht
+### First-Year-Associate-Coach Mietrecht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `First-Year-Associate-Coach Mietrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Fotobeweis-Mangel: Prüfungslinie für Miet- und WEG-Recht; macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Fotobeweis-Mangel
+### Fotobeweis-Mangel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fotobeweis-Mangel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen- und Risikoampel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -206,7 +206,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristenrettung Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Fristenrettung Miet/WEG
+### Fristenrettung Miet/WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristenrettung Miet/WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

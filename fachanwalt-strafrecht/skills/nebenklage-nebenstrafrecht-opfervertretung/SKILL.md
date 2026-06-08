@@ -31,7 +31,7 @@ description: "Nebenklage Nebenstrafrecht Opfervertretung im Strafrecht: prüft k
 
 **Fokus:** Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Nebenklage: Compliance-Dokumentation und Aktenvermerk
+### Nebenklage: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Nebenklage: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** StPO.
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg
+### Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** StPO.
@@ -105,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
+### Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** StPO.
@@ -142,7 +142,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Revision: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Revision: Zahlen, Schwellenwerte und Berechnung
+### Revision: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Revision: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** StPO, LG, GVG, OLG.
@@ -179,7 +179,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
+### Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** StPO.

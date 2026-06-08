@@ -31,7 +31,7 @@ description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft
 
 **Fokus:** Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.
 
-# Output wählen
+### Output wählen
 
 ## Aufgabe
 Dieses Modul bearbeitet: Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung..
@@ -78,7 +78,7 @@ Bei einer Datenpannenmeldung nach Art. 33 stets das Online-Meldeformular der zus
 
 **Fokus:** Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
@@ -126,7 +126,7 @@ Häufiger Fehler in der DSGVO-Beratung: Vermischung von TDDDG-Einwilligung (Endg
 
 **Fokus:** Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung.
 
-# Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO
+### Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -176,7 +176,7 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 
 **Fokus:** Bußgeldverteidigung nach Art. 83 DSGVO bis 4 Prozent Jahresumsatz oder 20 Mio. EUR. EDSA-Leitlinien 04/2022 zur Bemessung. Sieben-Fragen-Diagnose: Anhörung oder Bußgeldbescheid, Aufsichtsbehörde, Norm DSGVO/BDSG, Bezugsumsatz, Vorwurf, Verschulden, Maßnahmenlage. Schritt-für-Schritt: Akteneinsicht, keine vorschnelle Stellungnahme, dynamische Geldbemessung, EDSA-Methodik, § 41 BDSG, OWiG/StPO-Verfahrensgarantien. Einspruch nach § 67 OWiG binnen zwei Wochen. EuGH C-807/21 Deutsche Wohnen und C-683/21: Unternehmensgeldbuße ohne Identifizierung einer natürlichen Person, aber nicht ohne Vorsatz oder Fahrlässigkeit. Mustertexte Einspruch, Stellungnahme, Erledigungsvorschlag. Abgrenzung: keine zivilrechtliche Schadensersatzabwehr.
 
-# Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO
+### Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO
 
 ## Zweck
 
@@ -311,7 +311,7 @@ Sieben-Fragen-Diagnose:
 
 **Fokus:** Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Beschlussverfahren § 72 OWiG
+### Beschlussverfahren § 72 OWiG
 
 ## Aufgabe
 

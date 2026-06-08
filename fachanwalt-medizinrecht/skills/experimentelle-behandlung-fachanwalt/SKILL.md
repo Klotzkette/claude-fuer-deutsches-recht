@@ -30,7 +30,7 @@ description: "Experimentelle Behandlung Fachanwalt im Medizinrecht: prüft konkr
 
 **Fokus:** Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Experimentelle Behandlung Vertrag
+### Experimentelle Behandlung Vertrag
 
 ## Fachkern: Experimentelle Behandlung Vertrag
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission.
 
-# Behandlungsvertrag §§ 630a-h BGB
+### Behandlungsvertrag §§ 630a-h BGB
 
 ## Fachkern: Behandlungsvertrag §§ 630a-h BGB
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -295,7 +295,7 @@ Mit freundlichen Gruessen
 
 **Fokus:** Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern.
 
-# Honorarvertrag Kassenärztliche Vereinigung
+### Honorarvertrag Kassenärztliche Vereinigung
 
 ## Fachkern: Honorarvertrag Kassenärztliche Vereinigung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -526,7 +526,7 @@ Anlagen: Patientenstatistik, Diagnoseprofile, eigene RLV-Berechnung, Vollmacht
 
 **Fokus:** Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine
+### Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachkern: Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

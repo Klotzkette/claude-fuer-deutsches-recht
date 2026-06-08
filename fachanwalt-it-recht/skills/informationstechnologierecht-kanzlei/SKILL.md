@@ -31,7 +31,7 @@ description: "Informationstechnologierecht Kanzlei im Plugin Fachanwalt It Recht
 
 **Fokus:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -80,7 +80,7 @@ Bei Software-Werkverträgen ist die Abnahme (§ 640 BGB) der entscheidende Wende
 
 **Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Kanzlei: Beweislast, Darlegungslast und Substantiierung
+### Kanzlei: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Kanzlei: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -137,7 +137,7 @@ Bei SLA-Mängeln häufiger Fehler: Verfügbarkeit als Quartalsdurchschnitt verei
 
 **Fokus:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
+### Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -203,7 +203,7 @@ Sofortige Anerkennung eines Audit-Defizits beendet Konflikt, kann aber zu Ketten
 
 **Fokus:** Open: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Open: Mehrparteienkonflikt und Interessenmatrix
+### Open: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Open: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -240,7 +240,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Orientierung: Sonderfall und Edge-Case-Prüfung
+### Orientierung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

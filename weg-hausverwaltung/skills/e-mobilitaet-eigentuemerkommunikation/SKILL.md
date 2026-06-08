@@ -29,7 +29,7 @@ description: "E Mobilitaet Eigentuemerkommunikation im Plugin Weg Hausverwaltung
 
 **Fokus:** Prüft E-Mobilität, Wallboxen, Ladeinfrastruktur, Steckersolar, Dach-PV und unzulässige Kellerstrom-Lösungen in WEG-Anlagen. Ordnet § 20 WEG, Brandschutz, Messkonzept, Kosten, Netzanschluss und Beschlussvarianten. Output: Beschluss- und Risikomatrix.
 
-# E-Mobilität, Steckersolar und Kellerstrom
+### E-Mobilität, Steckersolar und Kellerstrom
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `E-Mobilität, Steckersolar und Kellerstrom` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -89,7 +89,7 @@ Die Gemeinschaft stellt klar, dass provisorische Stromführungen aus Kellerabtei
 
 **Fokus:** Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker bei Beschwerden, Rückfragen, Fristen und Beschlussumsetzung (Stand 05/2026). Berücksichtigt aktuelle BGH-Linien (Abrechnung, Vorbefassung, Schlüsseländerung, vermietender Eigentümer).
 
-# Eigentümerkommunikation und Beschwerden
+### Eigentümerkommunikation und Beschwerden
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigentümerkommunikation und Beschwerden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -187,7 +187,7 @@ Antworten, die freundlich, verbindlich und beweissicher sind, ohne falsche Recht
 
 **Fokus:** Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einladungszeitplan, Raum/virtueller Teilnahme bis zur Nachbereitung. Berücksichtigt § 23 Abs. 1a WEG, BGH-Linie zu Vorbefassung (V ZR 86/24), Abrechnung (V ZR 102/23) und Schlüsseländerung (V ZR 236/23, V ZR 128/23).
 
-# Eigentümerversammlung Vorbereiten
+### Eigentümerversammlung Vorbereiten
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigentümerversammlung Vorbereiten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

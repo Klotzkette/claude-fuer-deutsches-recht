@@ -29,7 +29,7 @@ description: "Rechtsprechung Livecheck im Plugin Fachanwalt Arbeitsrecht: prüft
 
 **Fokus:** Red-Team Qualitätsgate: abschließende Qualitätskontrolle vor Ausgabe eines Schriftsatzes, Memos, Mandantenbriefs oder Vergleichs — Quellenverifikation, Gegenargument-Check, Fristencheck, Scheingenauigkeit-Scan, Mandatsziel-Abgleich.
 
-# Workflow: Red-Team Qualitätsgate
+### Workflow: Red-Team Qualitätsgate
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Red-Team Qualitätsgate` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -161,7 +161,7 @@ Checkliste:
 
 **Fokus:** Internationaler Bezug im Arbeitsrecht: EuGH-Rechtsprechung (Massenentlassung, Befristung, Diskriminierung, Urlaub), EU-Richtlinien (RL 2023/970, RL 2001/23, RL 2008/94, RL 2003/88), Entsendung AEntG, internationales Privatrecht Rom I.
 
-# Spezial: Rechtsprechung — Internationaler Bezug und Schnittstellen
+### Spezial: Rechtsprechung — Internationaler Bezug und Schnittstellen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Rechtsprechung — Internationaler Bezug und Schnittstellen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -263,7 +263,7 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 
 **Fokus:** Live-Check für arbeitsrechtliche Rechtsprechung: Prüfprotokoll für BAG-, LAG- und EuGH-Zitate, Verifizierungswege über bundesarbeitsgericht.de, openjur.de, dejure.org, curia.europa.eu, Umgang mit nicht verifizierbaren Quellen.
 
-# Spezial: Rechtsprechung Live-Check Arbeitsrecht
+### Spezial: Rechtsprechung Live-Check Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Rechtsprechung Live-Check Arbeitsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

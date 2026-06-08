@@ -29,7 +29,7 @@ description: "Athletenvertrag im Sportrecht: prüft konkret Athlet steht vor NAD
 
 **Fokus:** Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein).
 
-# Doping-Verfahren
+### Doping-Verfahren
 
 ## Kaltstart-Rückfragen
 
@@ -314,7 +314,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Athletenvertrag: Fristennotiz und nächster Schritt
+### Athletenvertrag: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Athletenvertrag: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -351,7 +351,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
+### Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

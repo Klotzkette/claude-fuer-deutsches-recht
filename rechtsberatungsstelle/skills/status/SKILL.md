@@ -106,7 +106,7 @@ unter Aufsicht von [Supervisorenname, Rechtsanwalt/-anwältin]
 - Einschätzung des Studierenden (wie läuft es, Bedenken)
 
 ```markdown
-# Fallstatus: [Mandant] — [Gegenstand] — [Datum]
+### Fallstatus: [Mandant] — [Gegenstand] — [Datum]
 
 **Studierender:** [Name] | **Verfahrensstand:** [Vorberatung / Widerspruch eingereicht /
 Klage erhoben / Verhandlung ausstehend / etc.]

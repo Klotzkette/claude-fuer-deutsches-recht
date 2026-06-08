@@ -30,7 +30,7 @@ description: "Parallelverfahren ART Strafrecht BDSG im Datenschutz-Sanktionsverf
 
 **Fokus:** Parallelverfahren Art. 82 DSGVO und Massenklagen: Bußgeldverteidigung mit Schadensersatzabwehr, Massenklagen und Anerkenntnisrisiken abstimmen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Parallelverfahren Art. 82 DSGVO und Massenklagen
+### Parallelverfahren Art. 82 DSGVO und Massenklagen
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Parallelverfahren § 42 BDSG und Strafrecht: Strafrechtliche Datenschutzrisiken, Durchsuchung, Aussageverhalten und Verteidigerkoordination erkennen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Parallelverfahren § 42 BDSG und Strafrecht
+### Parallelverfahren § 42 BDSG und Strafrecht
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren
+### Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** IT-Forensik und Sachverständige: Gutachten zu Logs, TOMs, Verschlüsselung, Löschung, Zugriffen und Datenabfluss gerichtsfest vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# IT-Forensik und Sachverständige
+### IT-Forensik und Sachverständige
 
 ## Aufgabe
 

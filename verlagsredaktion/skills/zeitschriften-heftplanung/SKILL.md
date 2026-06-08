@@ -28,7 +28,7 @@ description: "Zeitschriften Heftplanung im Verlagsredaktion (Recht) im Verlagsre
 
 **Fokus:** Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autor:innen, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.
 
-# Zeitschriften-Heftplanung
+### Zeitschriften-Heftplanung
 
 ## Prüfung
 

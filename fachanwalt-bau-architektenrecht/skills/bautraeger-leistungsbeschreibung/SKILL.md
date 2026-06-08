@@ -30,7 +30,7 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 
 **Fokus:** Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Pruefraster.
 
-# Bautraeger Leistungsbeschreibung Baubeschreibung
+### Bautraeger Leistungsbeschreibung Baubeschreibung
 
 ## § 650l BGB Verbraucherbauvertrag
 
@@ -70,7 +70,7 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 
 **Fokus:** MaBV § 10 Buchfuehrungspflicht. Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Pruefberichte. Folgen bei Versaeumnis. Liefert Pruefraster.
 
-# Bautraeger Mabv Buchfuehrungspflicht 10
+### Bautraeger Mabv Buchfuehrungspflicht 10
 
 ## Norm
 
@@ -102,7 +102,7 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 
 **Fokus:** MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell. Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Pruefraster.
 
-# Bautraeger Mabv Erweiterte Sicherheit 7
+### Bautraeger Mabv Erweiterte Sicherheit 7
 
 ## Vergleich zu § 3-Modell
 
@@ -142,7 +142,7 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 
 **Fokus:** MaBV-Verstoss gewerberechtliche Folgen. Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhaeltnis zum zivilrechtlichen Schutz. Liefert Pruefraster.
 
-# Bautraeger Mabv Gewerberechtliche Folgen
+### Bautraeger Mabv Gewerberechtliche Folgen
 
 ## Gewerberechtliche Sanktionen
 

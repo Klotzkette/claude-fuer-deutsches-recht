@@ -62,7 +62,7 @@ Mandatsordner anlegen:
 
 `mandat.md` Vorlage:
 ```markdown
-# Mandat: [Bezeichnung]
+### Mandat: [Bezeichnung]
 Erstellt: [TT.MM.JJJJ]
 Mandant: [Kürzel]
 Art: [Typ]

@@ -29,7 +29,7 @@ description: "Autonome LKW CMR Schadensregulierung im Plugin Fachanwalt Transpor
 
 **Fokus:** Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüfraster: Halterhaftung, technisches Versagen, Konvoi-Führer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtführerhaftung ohne Automatisierung.
 
-# Autonome LKW-Konvois – Haftung § 1d StVG und CMR
+### Autonome LKW-Konvois – Haftung § 1d StVG und CMR
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -311,7 +311,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen. Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht.
 
-# CMR-Schadensregulierung
+### CMR-Schadensregulierung
 
 ## Zweck
 
@@ -435,7 +435,7 @@ ADSp-Aktualität: Die ADSp 2017 sind weiterhin Branchenstandard (keine ADSp 2025
 
 **Fokus:** Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Prüfraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtführerhaftung §§ 407 ff. HGB.
 
-# Speditions-Haftung §§ 453 ff. HGB
+### Speditions-Haftung §§ 453 ff. HGB
 
 ## Zweck
 

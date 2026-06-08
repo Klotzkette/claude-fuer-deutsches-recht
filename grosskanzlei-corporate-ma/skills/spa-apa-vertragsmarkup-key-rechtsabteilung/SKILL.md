@@ -29,7 +29,7 @@ description: "SPA APA Vertragsmarkup KEY Rechtsabteilung im Corporate/M&A (Groß
 
 **Fokus:** SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Change Klausel. Prüfraster Reps and Warranties Katalog, MAC-Klausel-Formulierung, Earn-Out-Mechanismus, Freistellungsregelungen, Closing Conditions. Output vollständiger SPA/APA-Vertragsentwurf mit Garantiekatalog MAC Earn-Out und Closing-Bedingungen. Abgrenzung zu Vertragsmarkup-Key-Issues und zu Signing-Closing-CPs.
 
-# SPA/APA-Entwurf
+### SPA/APA-Entwurf
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `SPA/APA-Entwurf` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -199,7 +199,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433 ff. BGB Kaufrecht, SPA Reps and Warranties. Prüfraster Aenderungen nach wirtschaftlicher Relevanz clustern, Rote Linien und Konzessionen trennen, Parteiposition Buy-side/Sell-side dokumentieren. Output Key Issues List mit priorisierten Verhandlungspunkten und Gegenmarkup-Vorschlaegen. Abgrenzung zu SPA/APA-Entwurf für Erstellung und zu Disclosure-Schedules.
 
-# Markup und Key Issues
+### Markup und Key Issues
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Markup und Key Issues` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -299,7 +299,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Markup und Key Issues
+### Markup und Key Issues
 
 ## Zweck
 
@@ -385,7 +385,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch
+### Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

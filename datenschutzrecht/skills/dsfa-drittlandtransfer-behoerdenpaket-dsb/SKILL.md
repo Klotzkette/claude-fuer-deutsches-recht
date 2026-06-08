@@ -31,7 +31,7 @@ description: "Dsfa Drittlandtransfer Behördenpaket DSB im Datenschutzrecht: pr�
 
 **Fokus:** Behördenfähiges Dokumentations- und Antwortpaket für Drittlandtransfers erstellen: Deckvermerk, Transferregister, DPF/SCC/TIA-Nachweise, TOMs, Subprozessoren, Maßnahmenplan und Antwort an deutsche Datenschutzaufsicht.
 
-# Drittlandtransfer-Behördenpaket-Output
+### Drittlandtransfer-Behördenpaket-Output
 
 ## Zweck
 
@@ -178,7 +178,7 @@ Wenn der Nutzer "ausdrucken", "vorlegen", "Behörde" oder "Aktenvermerk" sagt, l
 
 **Fokus:** Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Prüfraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungsprüfmemo Empfehlung. Abgrenzung: nicht für Aufgaben des DSB (Art. 39 DSGVO).
 
-# DSB-Bestellungspflicht und -Anforderungen
+### DSB-Bestellungspflicht und -Anforderungen
 
 ## Zweck
 
@@ -527,7 +527,7 @@ Empfehlung: DSB bestellen (bis [FRIST]) / DSB wechseln / kein Handlungsbedarf
 
 **Fokus:** Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich ist. Trigger-Pruefung Anwendungsbereich Schwellwert. Generalklausel Art. 35 Abs. 1 voraussichtlich hohes Risiko; Regelbeispiele Art. 35 Abs. 3; Pflichtlisten Art. 35 Abs. 4 BfDI. Output: Triage-Vermerk DSFA-pflichtig oder nicht.
 
-# DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO
+### DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO
 
 ## Zweck
 
@@ -643,7 +643,7 @@ Unterschrift DSB: ____________________
 
 **Fokus:** Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach Art. 35 Abs. 4 DSGVO und mit den Listen der Landesdatenschutzbehoerden. Output: dokumentierter Listenabgleich mit Trefferanalyse und ggf. Verweis auf zwingende DSFA.
 
-# BfDI- und Länder-Blacklist Abgleich
+### BfDI- und Länder-Blacklist Abgleich
 
 ## Zweck
 
@@ -752,7 +752,7 @@ Unterschrift: ____________________
 
 **Fokus:** Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO: Aktenstruktur Versionierung Aufbewahrung Beweiswert. Output: DSFA-Akte mit Aktenuebersicht und Aufbewahrungsregeln.
 
-# DSFA-Dokumentation und Rechenschaftspflicht
+### DSFA-Dokumentation und Rechenschaftspflicht
 
 ## Zweck
 

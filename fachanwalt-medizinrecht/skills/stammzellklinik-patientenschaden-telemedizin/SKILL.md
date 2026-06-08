@@ -30,7 +30,7 @@ description: "Stammzellklinik Patientenschaden Telemedizin im Medizinrecht: prü
 
 **Fokus:** Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Stammzellklinik und Patientenschaden
+### Stammzellklinik und Patientenschaden
 
 ## Fachkern: Stammzellklinik und Patientenschaden
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Telemedizin Standardhaftung: moderner Medizinrechts-Skill für Fernbehandlung, Grenzen ohne körperliche Untersuchung, Triage, Videoausfall und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Telemedizin Standardhaftung
+### Telemedizin Standardhaftung
 
 ## Fachkern: Telemedizin Standardhaftung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht.
 
-# Approbations-Widerspruch
+### Approbations-Widerspruch
 
 ## Fachkern: Approbations-Widerspruch
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -395,7 +395,7 @@ Anlagen: Widerrufsbescheid, Vollmacht, Therapienachweise
 
 **Fokus:** Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft. Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsausschuss. Steuerliche Implikationen. Pruefraster.
 
-# Medizinrecht: MVZ-Strukturierung
+### Medizinrecht: MVZ-Strukturierung
 
 ## Fachkern: Medizinrecht: MVZ-Strukturierung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

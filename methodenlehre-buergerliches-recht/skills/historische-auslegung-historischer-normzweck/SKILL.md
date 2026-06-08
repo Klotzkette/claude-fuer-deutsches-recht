@@ -31,7 +31,7 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 
 **Fokus:** Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-ueber dipbt.bundestag.de.
 
-# Historische Auslegung
+### Historische Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historische Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -137,7 +137,7 @@ Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Origin
 
 **Fokus:** Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, fachliche Einordnung und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben.
 
-# Historischer Normzweck: Methodik als erster Auslegungsschritt
+### Historischer Normzweck: Methodik als erster Auslegungsschritt
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Historischer Normzweck: Methodik als erster Auslegungsschritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -225,7 +225,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten und Schriftsätzen die institutionellen Konsequenzen verschiedener Auslegungsoptionen durchzudenken.
 
-# Institutionelle Folgen und Regelbindung in der Rechtsanwendung
+### Institutionelle Folgen und Regelbindung in der Rechtsanwendung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Institutionelle Folgen und Regelbindung in der Rechtsanwendung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -314,7 +314,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjurisprudenz. Kritik. Anwendung im BGB: Schadensrecht, Vertragsrecht, Generalklauseln. Wo Hecks Methode bis heute traegt und wo sie durch Wertungsjurisprudenz verfeinert ist.
 
-# Interessenjurisprudenz nach Philipp Heck
+### Interessenjurisprudenz nach Philipp Heck
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Interessenjurisprudenz nach Philipp Heck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -420,7 +420,7 @@ Stand: Mai 2026.
 
 **Fokus:** Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung.
 
-# Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung
+### Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung
 
 ## Zweck
 Dieser Skill verhindert, dass im Zivilrecht ein guter Gedanke als geltendes Recht ausgegeben wird. Er zwingt jede These in eine Normstufen- und Kompetenzprüfung.

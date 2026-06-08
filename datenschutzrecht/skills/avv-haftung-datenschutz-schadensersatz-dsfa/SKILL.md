@@ -31,7 +31,7 @@ description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: p
 
 **Fokus:** Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine für Innen- und Aussenhaftung mit Cap-Hinweisen.
 
-# AVV-Haftung und Risikoallokation – Art. 82 DSGVO
+### AVV-Haftung und Risikoallokation – Art. 82 DSGVO
 
 ## Zweck / Purpose
 
@@ -124,7 +124,7 @@ Haftungsklausel:
 
 **Fokus:** Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjährung Anspruchskonkurrenz. Schritt-für-Schritt für Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung.
 
-# Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
+### Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
 
 ## Zweck
 
@@ -255,7 +255,7 @@ Sieben-Fragen-Diagnose:
 
 **Fokus:** Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung.
 
-# Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere
+### Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere
 
 ## Zweck
 
@@ -371,7 +371,7 @@ Unterschrift DSB: ____________________
 
 **Fokus:** Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster für Klaegervertreter.
 
-# DSR: Art-82-Schadensersatz
+### DSR: Art-82-Schadensersatz
 
 ## Spezialwissen: DSR: Art-82-Schadensersatz
 - **Normen-/Quellenanker:** Art. 82, DSGVO, DSR.
@@ -420,7 +420,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG.
 
-# Bußgeldverteidigung Art. 83 DSGVO nach Datenschutzvorfall
+### Bußgeldverteidigung Art. 83 DSGVO nach Datenschutzvorfall
 
 Dieser Skill ist die schnelle Datenschutzrecht-Brücke. Für die volle Verteidigung im Sanktionsverfahren zusätzlich das Spezialplugin `datenschutz-sanktionsverfahren-verteidigung` laden. Dort werden Bußgeldverfahren, Art.-58-Anordnungen, verwaltungsgerichtlicher Rechtsschutz, OWiG/StPO-Verfahrensgarantien und Behördenstrategie vertieft.
 

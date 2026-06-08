@@ -29,7 +29,7 @@ description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz S
 
 **Fokus:** Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
+### Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
 
 ## Fachkern: Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 304; § 15a InsO als Altlast; Forderungsstruktur. Entscheidend ist immer
 
 **Fokus:** Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster.
 
-# Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
+### Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
 
 ## Fachkern: Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -133,7 +133,7 @@ Skill für die verkuerzte Restschuldbefreiung.
 
 **Fokus:** Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster.
 
-# Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
+### Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 
 ## Fachkern: Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

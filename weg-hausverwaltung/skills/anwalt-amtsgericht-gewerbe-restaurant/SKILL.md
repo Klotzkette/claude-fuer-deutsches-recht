@@ -29,7 +29,7 @@ description: "Anwalt Amtsgericht Gewerbe Restaurant im Plugin Weg Hausverwaltung
 
 **Fokus:** Erkennt, wann ein WEG-/Hausverwaltungsvorgang nicht mehr nur Verwaltung ist (Stand 05/2026): Anwalt, Beschlussklage, Hausgeldklage, einstweiliger Rechtsschutz, Beweissicherung, Verwalterhaftung über GdWE oder Vergleich; berücksichtigt Fristen aus § 45 WEG, BGH V ZR 17/24 (Erkundigungsobliegenheit) und V ZR 139/23 (Prozesskostenverteilung).
 
-# Eskalation: Anwalt und Amtsgericht
+### Eskalation: Anwalt und Amtsgericht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eskalation: Anwalt und Amtsgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -121,7 +121,7 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 
 **Fokus:** Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen: Geruch, Lüftung, Lärm, Müll, Lieferverkehr, Fettabscheider, Sondernutzung, Brandschutz und Mieter-/Eigentümerrollen. Output: Eskalations- und Beschlussplan.
 
-# Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung
+### Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -181,7 +181,7 @@ Die Verwaltung wird beauftragt, die durch den Betrieb der Gewerbeeinheit Nr. [..
 
 **Fokus:** Ordnet unübersichtliche WEG- und Hausverwaltungsakten mit vielen Konflikten: Heizung, Dach, Gewerbe, Geruch, Tauben, Fahrrad, Kinder, Wallbox, Steckersolar, Nebenkosten, Protokolle und Beschlüsse. Output: Konfliktlandkarte, Prioritätenplan und Skill-Routing.
 
-# Großakte und Konfliktlandkarte
+### Großakte und Konfliktlandkarte
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Großakte und Konfliktlandkarte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

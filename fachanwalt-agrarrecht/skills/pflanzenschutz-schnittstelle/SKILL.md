@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Pflanzenschutz: Internationaler Bezug und Schnittstellen
+### Pflanzenschutz: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Pflanzenschutz: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
+### Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Tierschutz: Formular, Portal und Einreichungslogik
+### Tierschutz: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Tierschutz: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

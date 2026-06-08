@@ -26,7 +26,7 @@ Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendung
 
 ---
 
-# Beratungsstellenprofil anpassen
+### Beratungsstellenprofil anpassen
 
 ## Triage zu Beginn
 1. Welcher Abschnitt des Profils soll angepasst werden: Semesterwechsel, Fachbereich, Prüfungsgates, Anleiter-Kontakt oder Gesetzesaenderung?

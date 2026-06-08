@@ -29,7 +29,7 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 
 **Fokus:** Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Prüfung Schriftsatz Klage.
 
-# Gegendarstellung Presserecht
+### Gegendarstellung Presserecht
 
 ## Zweck
 
@@ -149,7 +149,7 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 
 **Fokus:** Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen).
 
-# Modifizierte Unterlassungserklärung im Urheberrecht
+### Modifizierte Unterlassungserklärung im Urheberrecht
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -463,7 +463,7 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 **Fokus:** Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
 
-# Fachanwalt für Urheber- und Medienrecht — Orientierung
+### Fachanwalt für Urheber- und Medienrecht — Orientierung
 
 ## Triage: Welches Sachgebiet?
 

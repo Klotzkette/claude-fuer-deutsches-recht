@@ -117,7 +117,7 @@ Abgleich gegen Richtlinie und Register:
 
 **Sweep-Bericht:**
 ```
-# KI-Richtlinien-Monitor — Sweep-Bericht
+### KI-Richtlinien-Monitor — Sweep-Bericht
 Datum: [Datum] | Gescannte Ausgaben: [N] | Neu: [N]
 Gefundene Lücken: [N] ERFORDERLICH | [N] EMPFOHLEN
 
@@ -136,7 +136,7 @@ Formulierungsvorschlag: "[Richtlinientext]" — ergänzen in [Abschnitt]
 
 **Direktanfrage-Ausgabe:**
 ```
-# KI-Richtlinienprüfung: [Praxis]
+### KI-Richtlinienprüfung: [Praxis]
 Ergebnis: [RICHTLINIENÄNDERUNG ERFORDERLICH / EMPFOHLEN / KEINE ÄNDERUNG]
 
 ## Was abgedeckt ist | ## Was fehlt | ## Was im Widerspruch steht

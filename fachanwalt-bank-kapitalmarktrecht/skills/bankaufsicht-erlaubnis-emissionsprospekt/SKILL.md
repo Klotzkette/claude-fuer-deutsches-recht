@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken
+### Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-bank-kapitalmarktrecht`. Kontext des Plugins: Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.
@@ -89,7 +89,7 @@ Wenn Zahlungsdienst, Cloud/IKT, Organanzeige, Beteiligungserwerb oder Kapitalfol
 
 **Fokus:** Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage
+### Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage
 - **Konkreter Gegenstand:** Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -129,7 +129,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Konkreter Gegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

@@ -29,7 +29,7 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 
 **Fokus:** Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht.
 
-# Duplik: Antwort des Beklagten auf die Replik
+### Duplik: Antwort des Beklagten auf die Replik
 
 ## Worum geht es?
 
@@ -177,7 +177,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 **Fokus:** Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB.
 
-# Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis!
+### Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis!
 
 ## Worum geht es?
 
@@ -323,7 +323,7 @@ Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
 
 **Fokus:** Einreden aktiv geltend machen Verjährung Aufrechnung Zurückbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prüft nicht von Amts wegen außer bei rechtsvernichtenden oder rechtshindernden Einwendungen.
 
-# Einreden: Sie muessen sie erheben!
+### Einreden: Sie muessen sie erheben!
 
 ## Worum geht es?
 

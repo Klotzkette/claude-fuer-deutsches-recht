@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Team: Sonderfall und Edge-Case-Prüfung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Team: Sonderfall und Edge-Case-Prüfung
+### Team: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Team: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** DFG, KI.

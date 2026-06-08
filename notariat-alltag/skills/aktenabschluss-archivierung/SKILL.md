@@ -28,7 +28,7 @@ description: "Aktenabschluss Archivierung im Plugin Notariat Alltag im Notariat:
 
 **Fokus:** Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste.
 
-# Notariat im Alltag: Aktenabschluss, Archivierung, offene Vollzugsreste
+### Notariat im Alltag: Aktenabschluss, Archivierung, offene Vollzugsreste
 
 ## Zweck und Anwendungsbereich
 

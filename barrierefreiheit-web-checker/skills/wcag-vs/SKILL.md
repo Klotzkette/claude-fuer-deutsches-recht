@@ -28,7 +28,7 @@ description: "WCAG VS im Plugin Barrierefreiheit Web Checker im Barrierefreiheit
 
 **Fokus:** Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle. Pruefraster welche Anforderung welche Norm bedient, wo die EN ueber WCAG hinausgeht (mobile, biometrische, mehrteilige Inhalte). Tooling-Auswahl je Norm.
 
-# WCAG- und EN 301 549-Mapping
+### WCAG- und EN 301 549-Mapping
 
 ## Spezialwissen: WCAG- und EN 301 549-Mapping
 - **Normen-/Quellenanker:** WCAG, EN, BITV.

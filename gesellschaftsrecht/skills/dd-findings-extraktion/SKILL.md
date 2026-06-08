@@ -167,7 +167,7 @@ Für große Kategorien (300 Verträge): in Chargen verarbeiten. Nach jeder Charg
 > oder beides sind. Verteilung außerhalb des Vertraulichkeitskreises kann den
 > Schutz aufheben.
 
-# DD-Issues: [DEAL-CODE] — [KATEGORIE]
+### DD-Issues: [DEAL-CODE] — [KATEGORIE]
 Erstellt: [DATUM] | Bearbeiter: [NAME]
 
 Geprüfte Dokumente: [N] von [M] in Kategorie

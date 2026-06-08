@@ -30,7 +30,7 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 
 **Fokus:** Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Länder ueberwiegend), § 55 BHO, LHO der Länder, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe.
 
-# UVgO und Unterschwellenvergabe
+### UVgO und Unterschwellenvergabe
 
 ## Aufgabe
 Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Länder) strukturieren oder angreifen. Rechtsschutz unterscheidet sich grundlegend vom Oberschwellenverfahren (kein VK-Verfahren).
@@ -97,7 +97,7 @@ Landesweite Umsetzungsstaende UVgO und Wertgrenzen (z. B. NRW, BY, HE) vor Berat
 
 **Fokus:** Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden; Auftraggeber will sperren. Normen: §§ 123-126 GWB (zwingende und fakultative Ausschlussgruende), § 125 GWB (Selbstreinigung), Wettbewerbsregister § 8 WRegG. Pruefraster: Tatbestand § 123 zwingend vs. § 124 fakultativ, Sperrfristen § 126 GWB (drei Jahre § 123; zwei Jahre § 124), Selbstreinigungs-Trias Schadenswiedergutmachung Kooperation Compliance, Wettbewerbsregister-Eintrag pruefen. Output Selbstreinigungs-Memo, Sperraufhebungs-Antragsentwurf. Abgrenzung: Eignung siehe fachanwalt-vergaberecht-eignungspruefung.
 
-# Vergabesperre und Selbstreinigung
+### Vergabesperre und Selbstreinigung
 
 ## Aufgabe
 Vergabesperre verhindern, aufheben oder durchsetzen. § 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister § 8 WRegG ist die zentrale Eintragungsstelle.
@@ -185,7 +185,7 @@ EuGH-Linie zu Selbstreinigung (z. B. C-41/18 Meca, C-267/18 Delta Antrepriza) vo
 
 **Fokus:** VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Prüfraster: Aufklärungsverlangen VK, Vergleichsbereitschaft Auftraggeber, OLG-Risiko bei Beschwerde, Vergleichs-Konditionen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Nachprüfungsantrag initial siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; OLG-Beschwerde siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk.
 
-# VK-Vergleich / OLG-Vergabesenat-Verhandlung
+### VK-Vergleich / OLG-Vergabesenat-Verhandlung
 
 ## Zweck
 
@@ -371,7 +371,7 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 
 **Fokus:** VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
-# VOB-A-Bauvergabe (Abschnitte 1 und 2)
+### VOB-A-Bauvergabe (Abschnitte 1 und 2)
 
 ## Aufgabe
 Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) strukturieren oder angreifen. Schnittstelle: VOB-B regelt anschliessenden Bauvertrag, ist aber nicht Gegenstand des Vergabeskills.

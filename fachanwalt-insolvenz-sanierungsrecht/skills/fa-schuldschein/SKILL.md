@@ -28,7 +28,7 @@ description: "FA Schuldschein im Insolvenz- und Sanierungsrecht im Fachanwalt In
 
 **Fokus:** Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan.
 
-# Fachanwalt Insolvenz: Schuldschein, LMA und Syndikatsdarlehen
+### Fachanwalt Insolvenz: Schuldschein, LMA und Syndikatsdarlehen
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Insolvenz: Schuldschein, LMA und Syndikatsdarlehen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

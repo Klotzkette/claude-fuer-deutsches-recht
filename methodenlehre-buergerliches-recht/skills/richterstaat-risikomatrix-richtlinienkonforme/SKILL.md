@@ -31,7 +31,7 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 
 **Fokus:** Dieses Skill erstellt eine strukturierte Risikomatrix für Sachverhalte, in denen richterliche Rechtsfortbildung oder Ermessen erhebliche Rechtsunsicherheit erzeugt. Es bewertet das Risiko einer richtungsändernden Rechtsprechung, identifiziert Einflussfaktoren auf Gerichte und hilft Mandanten, strategische Entscheidungen unter Berücksichtigung richterlicher Gestaltungsmacht zu treffen. Dabei werden verfassungsrechtliche Grenzen des Richterstaats methodisch einbezogen.
 
-# Richterstaat-Risikomatrix
+### Richterstaat-Risikomatrix
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Richterstaat-Risikomatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -124,7 +124,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill behandelt die Pflicht zur richtlinienkonformen Auslegung des nationalen Rechts sowie deren methodische Grenzen. Es zeigt, wie weit nationale Gerichte und Anwälte das BGB im Lichte von EU-Richtlinien auslegen dürfen und müssen, wo der contra-legem-Vorbehalt greift und wann stattdessen Staatshaftungsansprüche oder eine Vorabentscheidung nach Art. 267 AEUV in Betracht kommen. Besonderes Gewicht liegt auf der Abgrenzung richtlinienkonformer Auslegung von verdeckter Rechtsfortbildung.
 
-# Richtlinienkonforme Auslegung und ihre Grenzen
+### Richtlinienkonforme Auslegung und ihre Grenzen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Richtlinienkonforme Auslegung und ihre Grenzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -215,7 +215,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Prueft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer Auslegung oder Rechtsfortbildung im Zivilrecht mit Art. 20 Abs. 3 GG, Dispositionsschutz und Prozessstrategie.
 
-# Rückwirkung und überraschende Rechtsfortbildung
+### Rückwirkung und überraschende Rechtsfortbildung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rückwirkung und überraschende Rechtsfortbildung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -258,7 +258,7 @@ Erstelle eine Chronologie mit Vertrauensschutzampel und einem Schriftsatzbaustei
 
 **Fokus:** Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kein neutraler Beschreibungsakt ist, sondern ein wertungsgeleiteter Auswahlprozess. Es trainiert die Fähigkeit, implizite Wertungen bei der Sachverhaltserhebung zu erkennen, rechtlich relevante Tatsachen von irrelevanten zu trennen und den Sachverhalt so zu strukturieren, dass er die methodisch korrekte Subsumtion ermöglicht. Dabei werden Perspektiven von Mandant und Gericht methodisch gegenübergestellt und Selektionsfehler systematisch vermieden.
 
-# Sachverhalt als Wertungsprodukt
+### Sachverhalt als Wertungsprodukt
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sachverhalt als Wertungsprodukt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -349,7 +349,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert das Geruest für jede Normauslegung in Memo, Schriftsatz und Gutachten und verweist auf die Einzel-Skills für Wortlaut, System, Historie und Telos.
 
-# Savigny und der Vierer-Kanon der Auslegung
+### Savigny und der Vierer-Kanon der Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Savigny und der Vierer-Kanon der Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

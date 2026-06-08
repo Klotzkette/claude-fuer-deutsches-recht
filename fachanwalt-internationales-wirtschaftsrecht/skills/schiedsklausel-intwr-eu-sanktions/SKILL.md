@@ -29,7 +29,7 @@ description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsre
 
 **Fokus:** Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schiedsklausel: Formular, Portal und Einreichungslogik
+### Schiedsklausel: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Schiedsklausel: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster für Exportkontrolle und Bankzahlungen.
 
-# IntWR: Sanktionen Trade Compliance
+### IntWR: Sanktionen Trade Compliance
 
 ## Spezialwissen: IntWR: Sanktionen Trade Compliance
 - **Normen-/Quellenanker:** EU, VO.

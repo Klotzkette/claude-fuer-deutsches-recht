@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Lebens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Lebens: Behörden-, Gerichts- oder Registerweg
+### Lebens: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Lebens: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Leistungsablehnung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Leistungsablehnung: Internationaler Bezug und Schnittstellen
+### Leistungsablehnung: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Leistungsablehnung: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage
+### Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** VVG, VAG.

@@ -31,7 +31,7 @@ description: "Interessen Verwertung Beweislast Starug im Insolvenz- und Sanierun
 
 **Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
+### Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schnittstellen: Mehrparteienkonflikt und Interessenmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Verwertung: Beweislast, Darlegungslast und Substantiierung
+### Verwertung: Beweislast, Darlegungslast und Substantiierung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verwertung: Beweislast, Darlegungslast und Substantiierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -121,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster für Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und vorinsolvenzlicher Verhandlung.
 
-# StaRUG: Plan-Spezial
+### StaRUG: Plan-Spezial
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `StaRUG: Plan-Spezial` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -177,7 +177,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Prüft Anfechtungsansprüche und Verteidigungslinien nach §§ 129-147 InsO mit Zeitachsen, Kenntnisindizien, Bargeschäft, § 135 InsO, Rechtsfolgen und KI-gestützter Aktenauswertung.
 
-# Insolvenzanfechtung: §§ 129-147 InsO, Bargeschäft, Gesellschafterdarlehen und Verteidigung
+### Insolvenzanfechtung: §§ 129-147 InsO, Bargeschäft, Gesellschafterdarlehen und Verteidigung
 
 ## Normenradar
 InsO §§ 129, 130, 131, 132, 133, 134, 135, 142, 143-147; § 17 Zahlungsunfähigkeit, § 19 Überschuldung; BGB Bereicherungs-/Zinsfragen nur nachrangig.
@@ -200,7 +200,7 @@ Anfechtungsmatrix plus Gegner-Red-Team: `Tatbestand / Beleg / Gegenbeleg / Wertu
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Insolvenz- und Restrukturierungsrecht
+### Vergleichsverhandlung und Einigung im Insolvenz- und Restrukturierungsrecht
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Insolvenz- und Restrukturierungsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

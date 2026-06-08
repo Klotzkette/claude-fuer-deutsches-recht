@@ -31,7 +31,7 @@ description: "DSV Meldung Lfdi MV RLP Saarland Saechsdsb im Plugin Fachanwalt It
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Baden-Württemberg; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LfDI BW
+### Meldung Art. 33 DSGVO an die LfDI BW
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -136,7 +136,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg-Vorpommern und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG M-V Datenschutzgesetz Mecklenburg-Vorpommern; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LfDI MV
+### Meldung Art. 33 DSGVO an die LfDI MV
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -241,7 +241,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland-Pfalz und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Rheinland-Pfalz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LfDI RLP
+### Meldung Art. 33 DSGVO an die LfDI RLP
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -346,7 +346,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Saarland und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SDSG Saarländisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die UDS
+### Meldung Art. 33 DSGVO an die UDS
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -451,7 +451,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SächsDSDG / SächsDSUG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die SaechsDSB
+### Meldung Art. 33 DSGVO an die SaechsDSB
 
 ## Triage — kläre vor der Bearbeitung
 

@@ -28,7 +28,7 @@ description: "Tumorboard Onkologiepflicht Unregulierte im Medizinrecht: prüft k
 
 **Fokus:** Tumorboard und Onkologiepflicht: moderner Medizinrechts-Skill für Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Tumorboard und Onkologiepflicht
+### Tumorboard und Onkologiepflicht
 
 ## Fachkern: Tumorboard und Onkologiepflicht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Unregulierte Zelltherapie abwehren: moderner Medizinrechts-Skill für Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Unregulierte Zelltherapie abwehren
+### Unregulierte Zelltherapie abwehren
 
 ## Fachkern: Unregulierte Zelltherapie abwehren
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

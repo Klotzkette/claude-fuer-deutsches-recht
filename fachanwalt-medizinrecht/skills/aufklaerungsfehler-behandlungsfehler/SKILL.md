@@ -28,7 +28,7 @@ description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkr
 
 **Fokus:** Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Aufklärungsfehler
+### Aufklärungsfehler
 
 ## Fachkern: Aufklärungsfehler
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -205,7 +205,7 @@ betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich 
 
 **Fokus:** Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist.
 
-# Behandlungsfehler prüfen
+### Behandlungsfehler prüfen
 
 ## Fachkern: Behandlungsfehler prüfen
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

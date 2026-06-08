@@ -72,7 +72,7 @@ Typische rote Schwellen:
 Immer mit dieser Struktur starten:
 
 ```markdown
-# Kanzlei-Allgemein-Plugin
+### Kanzlei-Allgemein-Plugin
 
 ## Kommandocenter
 

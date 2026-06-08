@@ -33,7 +33,7 @@ description: "DUE Diligence Employment ESG Executive Summary im Corporate/M&A (G
 
 **Fokus:** Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln, Kündigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules.
 
-# Kommerzielle Vertrags-DD
+### Kommerzielle Vertrags-DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kommerzielle Vertrags-DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -134,7 +134,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Kommerzielle Vertrags-DD
+### Kommerzielle Vertrags-DD
 
 ## Zweck
 
@@ -224,7 +224,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting.
 
-# Legal Due Diligence
+### Legal Due Diligence
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Legal Due Diligence` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -324,7 +324,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Legal Due Diligence
+### Legal Due Diligence
 
 ## Zweck
 
@@ -441,7 +441,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht für Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Prüfraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial für Einzelanalysen.
 
-# DD Reporting und Legal Fact Book
+### DD Reporting und Legal Fact Book
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DD Reporting und Legal Fact Book` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -541,7 +541,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# DD Reporting und Legal Fact Book
+### DD Reporting und Legal Fact Book
 
 ## Zweck
 
@@ -629,7 +629,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
 
-# Employment Works Council 613a
+### Employment Works Council 613a
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Employment Works Council 613a` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -715,7 +715,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Environmental, ESG und Compliance DD für M&A: prueft Umweltgenehmigungen, Lieferketten, Sanktionen, Anti-Korruption, ESG-Offenlegung und Reputationsrisiken.
 
-# Environmental ESG Compliance DD
+### Environmental ESG Compliance DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Environmental ESG Compliance DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -801,7 +801,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Exclusivity, No-Shop und Prozessdisziplin Skill: entwirft und prueft Exklusivitaet, Break Fees, Fiduciary Out, Prozessverstoss und Kommunikationsregeln.
 
-# Exclusivity No Shop Process Discipline
+### Exclusivity No Shop Process Discipline
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Exclusivity No Shop Process Discipline` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -887,7 +887,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate.
 
-# Executive Summary Onepager
+### Executive Summary Onepager
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Executive Summary Onepager` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -28,7 +28,7 @@ description: "Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkre
 
 **Fokus:** Beweislast in Hightech-Medizin: moderner Medizinrechts-Skill für Black-Box-Gerät, KI, Vektorcharge, Registerdaten und Beweisnot im Arzthaftungsprozess. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Beweislast in Hightech-Medizin
+### Beweislast in Hightech-Medizin
 
 ## Fachkern: Beweislast in Hightech-Medizin
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Biobank Consent Withdrawal: moderner Medizinrechts-Skill für Biobankprobe, Broad Consent, Widerruf, Forschungsnutzung und Rückmeldung von Zufallsbefunden. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Biobank Consent Withdrawal
+### Biobank Consent Withdrawal
 
 ## Fachkern: Biobank Consent Withdrawal
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

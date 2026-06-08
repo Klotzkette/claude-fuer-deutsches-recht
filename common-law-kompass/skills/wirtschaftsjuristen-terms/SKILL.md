@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** UK, US, UCC.

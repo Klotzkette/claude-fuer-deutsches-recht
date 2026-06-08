@@ -36,7 +36,7 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 
 **Fokus:** Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off.
 
-# Computerbetrug § 263a StGB
+### Computerbetrug § 263a StGB
 
 ## Worum geht es
 
@@ -139,7 +139,7 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 **Fokus:** Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht.
 
-# Strafvorschriften des Designgesetzes nach Paragraph 51 DesignG
+### Strafvorschriften des Designgesetzes nach Paragraph 51 DesignG
 
 ## Worum geht es
 
@@ -232,7 +232,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Anzahl verkaufter Stuecke, Umsatz, S
 
 **Fokus:** Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhaeltnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren.
 
-# Erpresserischer Menschenraub und Geiselnahme §§ 239a, 239b StGB
+### Erpresserischer Menschenraub und Geiselnahme §§ 239a, 239b StGB
 
 ## Worum geht es
 
@@ -340,7 +340,7 @@ Strafrahmen:
 
 **Fokus:** Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung.
 
-# Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht
+### Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht
 
 ## Worum geht es konkret
 
@@ -454,7 +454,7 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 
 **Fokus:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft für und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen.
 
-# Falschbeurkundung im Amt Paragraph 348 StGB und mittelbare Falschbeurkundung Paragraph 271 StGB
+### Falschbeurkundung im Amt Paragraph 348 StGB und mittelbare Falschbeurkundung Paragraph 271 StGB
 
 ## Worum geht es
 
@@ -569,7 +569,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 
 **Fokus:** Gefaehrliche Koerperverletzung nach § 224 StGB. Qualifikationen Nr. 1 Gift und gesundheitsschaedliche Stoffe; Nr. 2 Waffe oder gefaehrliches Werkzeug; Nr. 3 hinterlistiger Ueberfall; Nr. 4 mit anderen Beteiligten gemeinschaftlich; Nr. 5 lebensgefaehrdende Behandlung. Strafrahmen sechs Monate bis zehn Jahre.
 
-# Gefaehrliche Koerperverletzung § 224 StGB
+### Gefaehrliche Koerperverletzung § 224 StGB
 
 ## Worum geht es
 
@@ -668,7 +668,7 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 
 **Fokus:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo für Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
 
-# Geldwaesche § 261 StGB Reform 2021 (All-Crimes-Approach)
+### Geldwaesche § 261 StGB Reform 2021 (All-Crimes-Approach)
 
 ## Worum geht es
 
@@ -798,7 +798,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 **Fokus:** Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschäftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing.
 
-# Strafvorschriften des Geschaeftsgeheimnisgesetzes nach Paragraph 23 GeschGehG
+### Strafvorschriften des Geschaeftsgeheimnisgesetzes nach Paragraph 23 GeschGehG
 
 ## Worum geht es
 
@@ -897,7 +897,7 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 **Fokus:** Glaeubigerbeguenstigung nach Paragraph 283c StGB. Bevorzugte Befriedigung eines Glaeubigers in der Krise zum Nachteil der Glaeubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenzung Paragraph 130 InsO Anfechtung. Verteidigung mit Bargeschaeftsausnahme Paragraph 142 InsO und Sanierungsversuch.
 
-# Glaeubigerbeguenstigung nach Paragraph 283c StGB
+### Glaeubigerbeguenstigung nach Paragraph 283c StGB
 
 ## Worum geht es konkret
 
@@ -995,7 +995,7 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 
 **Fokus:** Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG. Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Pruefungsberichten. Schutzgut Vertrauen des Rechtsverkehrs. Abgrenzung zu Paragraph 263 StGB und Paragraph 331 HGB. Praxisrelevanz Gruendung Kapitalerhoehung Sanierung.
 
-# Falsche Angaben nach Paragraph 82 GmbHG
+### Falsche Angaben nach Paragraph 82 GmbHG
 
 ## Worum geht es konkret
 

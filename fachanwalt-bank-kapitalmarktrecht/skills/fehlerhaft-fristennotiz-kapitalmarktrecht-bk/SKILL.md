@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fehlerhaft: Fristennotiz und nächster Schritt
+### Fehlerhaft: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Fehlerhaft: Fristennotiz und nächster Schritt
 - **Konkreter Gegenstand:** Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Konkreter Gegenstand:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklaerung, fehlerhafte Angaben, Schaden, Kausalitaet. Klagewege, Kapitalanleger-Musterverfahrensgesetz KapMuG, Insolvenz des Emittenten. Pruefraster.
 
-# BK: Prospekthaftung
+### BK: Prospekthaftung
 
 ## Spezialwissen: BK: Prospekthaftung
 - **Normen-/Quellenanker:** WpPG, ProspektG, KapMuG, BK.

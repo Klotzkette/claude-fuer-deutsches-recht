@@ -100,7 +100,7 @@ Für jeden Anspruch / jede Strafbarkeit / jede Verwaltungsrechtsfrage:
 ### Schritt 3: Strukturiertes Feedback
 
 ```markdown
-# Gutachten-Feedback — [Datum]
+### Gutachten-Feedback — [Datum]
 
 **Sachverhalt:** [Kurzfassung oder Verweis]
 **Länge der Lösung:** [N Wörter]

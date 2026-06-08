@@ -29,7 +29,7 @@ description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsger
 
 **Fokus:** Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert.
 
-# Ist das Amtsgericht für Ihren Fall sachlich zuständig?
+### Ist das Amtsgericht für Ihren Fall sachlich zuständig?
 
 ## Worum geht es?
 
@@ -123,7 +123,7 @@ Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhe
 
 **Fokus:** Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen.
 
-# Ist Ihre Forderung schon verjaehrt?
+### Ist Ihre Forderung schon verjaehrt?
 
 ## Worum geht es?
 
@@ -249,7 +249,7 @@ Stand: 05/2026. §§ 195 ff. BGB unveraendert. Beachten Sie BGH-Rechtsprechung z
 
 **Fokus:** Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall Post-Stoerung.
 
-# Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben
+### Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben
 
 ## Worum geht es?
 

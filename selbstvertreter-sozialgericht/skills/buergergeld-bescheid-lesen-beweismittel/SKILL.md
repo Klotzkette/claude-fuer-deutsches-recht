@@ -31,7 +31,7 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 
 **Fokus:** Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster.
 
-# Bescheid Lesen Tenor Begruendung Belehrung
+### Bescheid Lesen Tenor Begruendung Belehrung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bescheid Lesen Tenor Begruendung Belehrung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 
 **Fokus:** Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau.
 
-# Beweismittel am Sozialgericht — Ueberblick
+### Beweismittel am Sozialgericht — Ueberblick
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beweismittel am Sozialgericht — Ueberblick` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -251,7 +251,7 @@ Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
 
 **Fokus:** Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermögen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag für Buerger.
 
-# Buergergeld — Streit mit dem Jobcenter
+### Buergergeld — Streit mit dem Jobcenter
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Buergergeld — Streit mit dem Jobcenter` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -399,7 +399,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Pruefraster.
 
-# Buergergeld Kosten Der Unterkunft 22 Sgb Ii
+### Buergergeld Kosten Der Unterkunft 22 Sgb Ii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Buergergeld Kosten Der Unterkunft 22 Sgb Ii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -445,7 +445,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe für werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster.
 
-# Buergergeld Mehrbedarf 21 Sgb Ii
+### Buergergeld Mehrbedarf 21 Sgb Ii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Buergergeld Mehrbedarf 21 Sgb Ii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

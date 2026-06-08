@@ -31,7 +31,7 @@ description: "DSV Meldung Tlfdi ULD SH Nachmeldung im Plugin Fachanwalt It Recht
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus ThürDSG Thüringer Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die TLfDI
+### Meldung Art. 33 DSGVO an die TLfDI
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -136,7 +136,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Schleswig-Holstein; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die ULD
+### Meldung Art. 33 DSGVO an die ULD
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -241,7 +241,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur Strafanzeige; Schluss der Meldung. Output: Nachmeldungs-Schreiben mit Bezug auf Aktenzeichen der Erstmeldung. Abgrenzung: keine neue Erstmeldung.
 
-# Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO
+### Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -299,7 +299,7 @@ Mit dieser Nachmeldung gilt die Meldung als endgültig.
 
 **Fokus:** Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch. Behandelt: Beispielfallgruppen Ransomware; Datenexfiltration; Insider; Verlust; Fehlversand; soziale Ingenieurkunst; jeweils mit Schwere-Schwellen für Meldepflicht Art. 33 DSGVO und Benachrichtigungspflicht Art. 34 DSGVO. Output: strukturierte Bewertung mit Bezug auf konkrete Beispielfallgruppe und begründeter Empfehlung Meldung Ja/Nein und Benachrichtigung Ja/Nein. Abgrenzung: keine Behördenmeldung; keine ENISA-Methodik.
 
-# Risikobewertung nach EDSA-Leitlinie 9/2022
+### Risikobewertung nach EDSA-Leitlinie 9/2022
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -351,7 +351,7 @@ Risikomatrix: Eintrittswahrscheinlichkeit × Schwere; Begründung mit EDSA-Refer
 
 **Fokus:** Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an. Behandelt: Data Processing Context DPC; Ease of Identification EI; Circumstances of Breach CB; Schweregradformel SE = DPC × EI + CB; vier Stufen Low Medium High Very High; Übersetzung in Meldepflicht Art. 33 und Benachrichtigung Art. 34 DSGVO. Output: quantitative ENISA-Bewertung mit Faktoren und Schwellenwerten. Abgrenzung: keine EDSA-Beispielmethodik; keine Behördenmeldung.
 
-# ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen
+### ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen
 
 ## Triage — kläre vor der Bearbeitung
 

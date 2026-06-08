@@ -31,7 +31,7 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 
 **Fokus:** Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern.
 
-# Oekonomische Analyse des Rechts (Law and Economics)
+### Oekonomische Analyse des Rechts (Law and Economics)
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Oekonomische Analyse des Rechts (Law and Economics)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -146,7 +146,7 @@ Stand: Mai 2026.
 
 **Fokus:** Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem.
 
-# Originalismus und Gesetzgebungsmaterialien in Deutschland
+### Originalismus und Gesetzgebungsmaterialien in Deutschland
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Originalismus und Gesetzgebungsmaterialien in Deutschland` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -234,7 +234,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck, Larenz. Wo die Begriffsjurisprudenz heute noch trifft (Allgemeiner Teil, Stellvertretungsrecht) und wo nicht. Pruefraster zur Erkennung begriffsjuristischer Argumentation.
 
-# Pandektenwissenschaft und Begriffsjurisprudenz
+### Pandektenwissenschaft und Begriffsjurisprudenz
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pandektenwissenschaft und Begriffsjurisprudenz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -351,7 +351,7 @@ Stand: Mai 2026.
 
 **Fokus:** Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen und wo seine Grenzen bei Extremunrecht und Normkollisionen deutlich werden.
 
-# Positivismus und Textrückbindung in der Zivilrechtsmethodik
+### Positivismus und Textrückbindung in der Zivilrechtsmethodik
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Positivismus und Textrückbindung in der Zivilrechtsmethodik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -439,7 +439,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsanmerkungen, die mit empirisch ungesicherten oder rhetorisch überformten Argumenten konfrontiert sind.
 
-# Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion
+### Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

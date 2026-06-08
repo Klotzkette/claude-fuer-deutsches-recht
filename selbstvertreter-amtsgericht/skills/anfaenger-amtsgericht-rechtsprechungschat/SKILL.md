@@ -29,7 +29,7 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 
 **Fokus:** Geführter Anfänger-für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel.
 
-# Anfänger-Amtsgericht
+### Anfänger-Amtsgericht
 
 ## Zweck
 
@@ -150,7 +150,7 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 
 **Fokus:** Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden.
 
-# Rechtsprechungschat Amtsgericht
+### Rechtsprechungschat Amtsgericht
 
 ## Zweck
 
@@ -247,7 +247,7 @@ Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 
 **Fokus:** Fristbeginn ab Zustellung. Wie Zustellung erfolgt gelber Umschlag Postzustellungsurkunde Empfangsbekenntnis Ersatzzustellung. Warum das genaue Datum so wichtig ist und wie Sie es dokumentieren.
 
-# Wann beginnt die Frist? Zustellung protokollieren
+### Wann beginnt die Frist? Zustellung protokollieren
 
 ## Worum geht es?
 

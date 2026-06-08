@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verbraucherkredit: Verhandlung, Vergleich und Eskalation
+### Verbraucherkredit: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verbraucherkredit: Verhandlung, Vergleich und Eskalation
 - **Konkreter Gegenstand:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Widerrufsjoker: Formular, Portal und Einreichungslogik
+### Widerrufsjoker: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Widerrufsjoker: Formular, Portal und Einreichungslogik
 - **Konkreter Gegenstand:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wphg: Dokumentenmatrix, Lückenliste und Nachforderung
+### Wphg: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Wphg: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Konkreter Gegenstand:** Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

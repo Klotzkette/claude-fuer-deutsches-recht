@@ -28,7 +28,7 @@ description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarech
 
 **Fokus:** Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wirkung: Behörden-, Gerichts- oder Registerweg
+### Wirkung: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Wirkung: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** EU.

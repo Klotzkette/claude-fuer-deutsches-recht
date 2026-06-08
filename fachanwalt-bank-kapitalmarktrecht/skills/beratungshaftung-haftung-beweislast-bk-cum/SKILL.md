@@ -46,7 +46,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
+### Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
 - **Konkreter Gegenstand:** Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Haftung: Beweislast, Darlegungslast und Substantiierung
+### Haftung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Haftung: Beweislast, Darlegungslast und Substantiierung
 - **Konkreter Gegenstand:** Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung..
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht 짠 370 AO, Verj채hrung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster f체r Mandant.
 
-# BK: Cum-Ex / Cum-Cum
+### BK: Cum-Ex / Cum-Cum
 
 ## Spezialwissen: BK: Cum-Ex / Cum-Cum
 - **Normen-/Quellenanker:** AO, BGH, BK.

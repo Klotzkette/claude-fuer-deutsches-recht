@@ -66,7 +66,7 @@ Nicht versuchen, HTML/CSS zu erzwingen, wenn Cowork es nicht sicher rendert.
 Jede zentrale Ausgabe soll so beginnen:
 
 ```markdown
-# Kanzlei-Allgemein-Plugin
+### Kanzlei-Allgemein-Plugin
 
 ## Kommandocenter
 

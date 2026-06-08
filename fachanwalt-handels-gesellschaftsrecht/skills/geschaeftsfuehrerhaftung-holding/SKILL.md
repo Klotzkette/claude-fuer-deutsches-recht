@@ -29,7 +29,7 @@ description: "Geschaeftsfuehrerhaftung Holding im Plugin Fachanwalt Handels Gese
 
 **Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
+### Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -353,7 +353,7 @@ Kosten ca.:
 
 **Fokus:** Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster für Cash-Pool-Strukturen und Konzernfinanzierung.
 
-# GmbH: Gesellschafterdarlehen
+### GmbH: Gesellschafterdarlehen
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `GmbH: Gesellschafterdarlehen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -31,7 +31,7 @@ description: "Beschlussanfechtung Abrechnungsfrist im Miet- und Wohnungseigentum
 
 **Fokus:** Beschlussanfechtung nach § 44 WEG spezial: Klagefrist 1 Monat, Begruendungsfrist 2 Monate ab Beschluss, formale Fehler vs. materielle Mangelhaftigkeit, ausschliesslich Eigentuemerklage nicht Mieter. Pruefraster und Klageaufbau. Routet in fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung.
 
-# Beschlussanfechtung: Spezialdetails
+### Beschlussanfechtung: Spezialdetails
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschlussanfechtung: Spezialdetails` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -87,7 +87,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs. 3 BGB, Zugang, Jahresfrist, Vermieter-Nichtvertretenmüssen, Guthaben, Korrekturen, WEG-Verzögerung, Gewerberaumabweichungen und Prozessstrategie.
 
-# Abrechnungsfrist/Nachforderung
+### Abrechnungsfrist/Nachforderung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abrechnungsfrist/Nachforderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -137,7 +137,7 @@ Dieser Skill prüft, ob eine Nachforderung aus einer Betriebskostenabrechnung ze
 
 **Fokus:** Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Erhalt: Fristennotiz und nächster Schritt
+### Erhalt: Fristennotiz und nächster Schritt
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erhalt: Fristennotiz und nächster Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -182,7 +182,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# Fristlose Kündigung wegen Störung
+### Fristlose Kündigung wegen Störung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristlose Kündigung wegen Störung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -226,7 +226,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: ord
 
 **Fokus:** Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

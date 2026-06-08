@@ -29,7 +29,7 @@ description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerbli
 
 **Fokus:** Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf.
 
-# Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz
+### Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz
 
 ## Aufgabe
 Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzungen: Beweismittel, Darlegungslast, Beweissicherungsklage und Beweissicherung im Eilverfahren.
@@ -143,7 +143,7 @@ Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzun
 
 **Fokus:** Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation.
 
-# Markenanmeldung: Compliance, Dokumentation und Akte
+### Markenanmeldung: Compliance, Dokumentation und Akte
 
 ## Aufgabe
 Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Markenanmeldungen: Vor-Recherche, Anmeldeakte, Fristen-Tracking und Benutzungsnachweis-Vorsorge.
@@ -260,7 +260,7 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 
 **Fokus:** MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix.
 
-# MarkenG: Risikoampel und Gegenargumente
+### MarkenG: Risikoampel und Gegenargumente
 
 ## Aufgabe
 Dieser Skill liefert die Risikoampel und Gegenargumente für Markensachen: Verwechslungsgefahr prüfen, Erschöpfungseinwand, Nichtbenutzung und weitere Verteidigungslinien.

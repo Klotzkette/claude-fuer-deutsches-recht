@@ -29,7 +29,7 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 
 **Fokus:** Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen §§ 9 und 38 BetrVG, Wahlrecht § 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender.
 
-# Spezial: Betriebsrat — Zahlen, Schwellen und Berechnung
+### Spezial: Betriebsrat — Zahlen, Schwellen und Berechnung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Betriebsrat — Zahlen, Schwellen und Berechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -167,7 +167,7 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 
 **Fokus:** BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer.
 
-# Spezial: BetrVG — Behörden, Gericht und Registerweg
+### Spezial: BetrVG — Behörden, Gericht und Registerweg
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: BetrVG — Behörden, Gericht und Registerweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -298,7 +298,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 
 **Fokus:** Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare.
 
-# Spezial: Datum, Formular, Portal und Einreichung
+### Spezial: Datum, Formular, Portal und Einreichung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Datum, Formular, Portal und Einreichung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

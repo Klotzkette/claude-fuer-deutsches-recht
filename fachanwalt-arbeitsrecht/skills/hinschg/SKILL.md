@@ -29,7 +29,7 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 
 **Fokus:** Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren.
 
-# HinSchG-Whistleblower-Schutz gegen Repressalie
+### HinSchG-Whistleblower-Schutz gegen Repressalie
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HinSchG-Whistleblower-Schutz gegen Repressalie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -297,7 +297,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhörung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhörung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
 
-# Kündigungsschutzklage (§ 4 KSchG)
+### Kündigungsschutzklage (§ 4 KSchG)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsschutzklage (§ 4 KSchG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -557,7 +557,7 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 
 **Fokus:** Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Massenentlassung § 17 KSchG
+### Massenentlassung § 17 KSchG
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

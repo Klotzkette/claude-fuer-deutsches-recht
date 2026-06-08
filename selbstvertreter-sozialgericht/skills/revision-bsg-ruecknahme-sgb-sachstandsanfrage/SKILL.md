@@ -31,7 +31,7 @@ description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung 
 
 **Fokus:** Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil.
 
-# Revision zum BSG — § 160 SGG
+### Revision zum BSG — § 160 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Revision zum BSG — § 160 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -137,7 +137,7 @@ Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.
 
 **Fokus:** Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung für die Zukunft oder rueckwirkend. Liefert Pruefraster.
 
-# Rücknahme 48 Sgb X Aenderung
+### Rücknahme 48 Sgb X Aenderung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rücknahme 48 Sgb X Aenderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -187,7 +187,7 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 
 **Fokus:** Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage.
 
-# Sachstandsanfrage Und Untaetigkeitsbeschwerde
+### Sachstandsanfrage Und Untaetigkeitsbeschwerde
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sachstandsanfrage Und Untaetigkeitsbeschwerde` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -238,7 +238,7 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 
 **Fokus:** Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag.
 
-# Eigenes Gutachten — § 109 SGG
+### Eigenes Gutachten — § 109 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenes Gutachten — § 109 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -397,7 +397,7 @@ Stand: 05/2026. § 109 SGG aktuell. Pruefen Sie aktuelle Gerichtskosten-Praxis b
 
 **Fokus:** Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger.
 
-# Wenn Sie zum Termin nicht koennen oder es vergessen
+### Wenn Sie zum Termin nicht koennen oder es vergessen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wenn Sie zum Termin nicht koennen oder es vergessen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

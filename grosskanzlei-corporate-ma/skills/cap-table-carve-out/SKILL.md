@@ -33,7 +33,7 @@ description: "CAP Table Carve OUT im Corporate/M&A (Großkanzlei-Praxis): prüft
 
 **Fokus:** Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs.
 
-# Board Paper und Business Judgment (Corporate M&A)
+### Board Paper und Business Judgment (Corporate M&A)
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Board Paper und Business Judgment (Corporate M&A)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -225,7 +225,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Cap Table und Ownership Chain Analyzer: rekonstruiert Beteiligungsketten, wirtschaftliche Berechtigte, Optionen, VSOP/ESOP, Wandeldarlehen, Gesellschafterlisten und Registerlage.
 
-# Cap Table Ownership Chain
+### Cap Table Ownership Chain
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Cap Table Ownership Chain` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -311,7 +311,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschaeftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen.
 
-# Carve Out Separation TSA
+### Carve Out Separation TSA
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Carve Out Separation TSA` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -397,7 +397,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Client Update Pack für M&A-Mandanten: erstellt laufende Statusupdates, Weekly Reports, Entscheidungsvorlagen, Risikoampeln und naechste Mandanten-Requests.
 
-# Client Update Pack
+### Client Update Pack
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Client Update Pack` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -483,7 +483,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Prüfraster Vollständigkeit Signaturketten, Versionierung Anlagen, Registerbelege, Closing Deliverables, Widerrufsrechte. Output strukturierte Closing Bible mit Inhaltsverzeichnis, Signaturkettenprotokoll, Registerstandsnachweisen und Deal-Archiv. Abgrenzung zu Signing Closing Conditions Skill für CP-Prüfung und zu Matter-File Skill für laufende Aktenstruktur.
 
-# Closing Bible und Archiv
+### Closing Bible und Archiv
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Closing Bible und Archiv` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -583,7 +583,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Closing Bible und Archiv
+### Closing Bible und Archiv
 
 ## Zweck
 
@@ -702,7 +702,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Prüfraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Länderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau.
 
-# Konflikt-, GwG- und Sanktionscheck
+### Konflikt-, GwG- und Sanktionscheck
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Konflikt-, GwG- und Sanktionscheck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -803,7 +803,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Konflikt-, GwG- und Sanktionscheck
+### Konflikt-, GwG- und Sanktionscheck
 
 ## Zweck
 
@@ -926,7 +926,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Data Protection Transfer DD für M&A: prueft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration.
 
-# Data Protection Transfer DD
+### Data Protection Transfer DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Data Protection Transfer DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

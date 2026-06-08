@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien
+### Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Rahmenvereinbarung: Internationaler Bezug und Schnittstellen
+### Rahmenvereinbarung: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Rahmenvereinbarung: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -139,7 +139,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstelle: Zahlen, Schwellenwerte und Berechnung
+### Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -186,7 +186,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung
+### Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.

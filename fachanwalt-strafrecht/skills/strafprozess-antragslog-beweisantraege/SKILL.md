@@ -31,7 +31,7 @@ description: "Strafprozess Antragslog Beweisantraege im Strafrecht: prüft konkr
 
 **Fokus:** Antragslog für die Hauptverhandlung: verwaltet Beweisanträge, Beweisermittlungsanträge, Widersprüche, § 257-StPO-Erklärungen, Ablehnungsbeschlüsse, Wiederholungsbedarf, Revisionssicherung und taktische Priorität.
 
-# Antragslog, Beweisanträge und Widerspruch
+### Antragslog, Beweisanträge und Widerspruch
 
 ## Zweck
 
@@ -98,7 +98,7 @@ Nicht alles ist später heilbar. Deshalb am Sitzungstag prüfen:
 
 **Fokus:** Verteidigung gegen automatisierten biometrischen Internetabgleich nach dem Regierungsentwurf zu § 98d StPO-E: Rechtsstand prüfen, Akteneinsicht nachfordern, Anordnung, Zweck, Anlasstat, Subsidiarität, Protokollierung, Löschung, KI-VO, Drittbetroffenheit, Trefferqualität, Black-Box-Risiko und Verwertbarkeit angreifen.
 
-# Biometrischer Internetabgleich im Strafverfahren
+### Biometrischer Internetabgleich im Strafverfahren
 
 ## Zweck
 
@@ -260,7 +260,7 @@ Vor vollständiger Offenlegung kann die Verteidigung weder die Rechtmäßigkeit 
 
 **Fokus:** Tägliches Strafprozess-Cockpit für Verteidiger: bearbeitet Verfahrensstand, Fristen, Haftlage, Akteneinsicht, offene Anträge, Mandantenkommunikation, Beweisfragen, Termine und nächste Schritte in einer laufend aktualisierbaren Verteidigungsübersicht.
 
-# Strafprozess-Cockpit für die tägliche Verteidigung
+### Strafprozess-Cockpit für die tägliche Verteidigung
 
 ## Zweck
 
@@ -330,7 +330,7 @@ StPO-Normen, Fristen und Formanforderungen live prüfen, wenn sie das Ergebnis t
 
 **Fokus:** Haft- und Besuchsmanagement für Untersuchungshaft: organisiert Haftbefehl, Haftprüfung, Haftbeschwerde, Akteneinsicht, Besuch, Telefon, Post, Familie, Arbeitgeber, Haftverschonungsplan und Beschleunigungskontrolle.
 
-# Haft- und Besuchsmanagement
+### Haft- und Besuchsmanagement
 
 ## Zweck
 
@@ -400,7 +400,7 @@ Nächster Schritt:
 
 **Fokus:** Hauptverhandlungs-Tagesmappe: erstellt für jeden Sitzungstag Zeitplan, Zeugen- und Beweisprogramm, Einlassungsentscheidung, Fragelisten, Antragsentwürfe, Mandantenbriefing, Pausenstrategie, Protokollnotizen und Nachbereitungsaufgaben.
 
-# Hauptverhandlungs-Tagesmappe und Sitzungsplan
+### Hauptverhandlungs-Tagesmappe und Sitzungsplan
 
 ## Zweck
 

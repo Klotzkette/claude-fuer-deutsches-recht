@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien
+### Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# BGB: Verhandlung, Vergleich und Eskalation
+### BGB: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: BGB: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** BGB, HöfeO, GAP, EU.
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Compliance: Compliance-Dokumentation und Aktenvermerk
+### Compliance: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Compliance: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

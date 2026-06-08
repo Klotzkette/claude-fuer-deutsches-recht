@@ -28,7 +28,7 @@ description: "Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfec
 
 **Fokus:** Zweckverfehlung, Wegfall des Leistungszwecks und kondiktionsrechtliche Zweckabreden prüfen. Normen: § 812 Abs. 1 S. 2 BGB. Output: Zweckkondiktions-Prüfbogen.
 
-# Zweckverfehlung und Kondiktionszweck
+### Zweckverfehlung und Kondiktionszweck
 
 ## Triage — kläre vor der Subsumtion
 

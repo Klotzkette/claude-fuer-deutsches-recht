@@ -30,7 +30,7 @@ description: "Loeschungsanordnung Datenbestand Logfiles im Datenschutz-Sanktions
 
 **Fokus:** Löschungsanordnung und Datenbestand: Löschungsanordnung, Aufbewahrungspflichten, Litigation Hold, Backups und technische Machbarkeit lösen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Löschungsanordnung und Datenbestand
+### Löschungsanordnung und Datenbestand
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Logfiles und technische Beweise: SIEM, Access Logs, Admin-Aktivitäten, Zeitstempel, Retention und Integrität als Beweise bewerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Logfiles und technische Beweise
+### Logfiles und technische Beweise
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Mandanteninterview ohne Selbstbelastung
+### Mandanteninterview ohne Selbstbelastung
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Mandantenreport regulatorische Risikolage: Aus Bußgeld- und Anordnungsrisiken einen entscheidungsfähigen Monats- oder Krisenreport bauen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Mandantenreport regulatorische Risikolage
+### Mandantenreport regulatorische Risikolage
 
 ## Aufgabe
 

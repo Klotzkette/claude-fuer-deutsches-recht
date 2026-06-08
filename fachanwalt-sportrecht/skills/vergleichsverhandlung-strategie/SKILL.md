@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Sportrecht im Fachanwalt Sportr
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Sport- und Sponsoringrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Sport- und Sponsoringrecht
+### Vergleichsverhandlung und Einigung im Sport- und Sponsoringrecht
 
 ## Wann dieser Arbeitsgang greift
 

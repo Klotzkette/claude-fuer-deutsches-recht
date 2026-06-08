@@ -28,7 +28,7 @@ description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrue
 
 **Fokus:** Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorläufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin.
 
-# Stabilisierungsanordnung und Vollstreckungssperre — §§ 49-59 StaRUG
+### Stabilisierungsanordnung und Vollstreckungssperre — §§ 49-59 StaRUG
 
 Die Stabilisierungsanordnung ist das operative Schutzschild des StaRUG-Verfahrens. Sie stoppt einzelne Gläubiger daran, während laufender Restrukturierungsverhandlungen zu vollstrecken und so den Verhandlungsprozess zu torpedieren. Damit unterscheidet sie sich fundamental vom Insolvenzverfahren — sie schützt das Unternehmen, ohne die Insolvenz zu eröffnen und ohne Publizität zu erzeugen. Wer dieses Instrument kennt und rechtzeitig einsetzt, hält das Heft des Handelns in der Hand.
 

@@ -31,7 +31,7 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 
 **Fokus:** Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster.
 
-# Buergergeld Ueberbrueckungsgeld
+### Buergergeld Ueberbrueckungsgeld
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Buergergeld Ueberbrueckungsgeld` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -80,7 +80,7 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 **Fokus:** PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse.
 
-# PDFs erzeugen — Schritt für Schritt
+### PDFs erzeugen — Schritt für Schritt
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PDFs erzeugen — Schritt für Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -229,7 +229,7 @@ Stand: 05/2026. Apps und Tools veraendern sich. Bei Fragen: lokale Computer-Bera
 
 **Fokus:** Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit Sprachschwierigkeiten. Antrag muendliche Verhandlung Gebaerdensprache.
 
-# Dolmetscher beim SG
+### Dolmetscher beim SG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Dolmetscher beim SG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -354,7 +354,7 @@ Stand: 05/2026. § 185 GVG aktuell. Praxis-erprobt.
 
 **Fokus:** DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Auskunftsrecht ueber gespeicherte personenbezogene Daten beim Sozialleistungstraeger Verhaeltnis zu § 25 SGB X Akteneinsicht Frist Form Kostenfreiheit und Beschwerde bei Aufsichtsbehoerde. Liefert Vorlage.
 
-# Dsgvo Art 15 Auskunft Sozialakte
+### Dsgvo Art 15 Auskunft Sozialakte
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Dsgvo Art 15 Auskunft Sozialakte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -412,7 +412,7 @@ Art. 15 DSGVO: Recht auf Auskunft ueber verarbeitete personenbezogene Daten.
 
 **Fokus:** Eilrechtsschutz nach § 86b SGG für Buerger. Aufschiebende Wirkung und einstweilige Anordnung. Anordnungsanspruch Anordnungsgrund existenzielle Leistungen Pflegegrad Buergergeld Krankenkasse.
 
-# Eilrechtsschutz beim Sozialgericht — § 86b SGG
+### Eilrechtsschutz beim Sozialgericht — § 86b SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eilrechtsschutz beim Sozialgericht — § 86b SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

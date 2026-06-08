@@ -28,7 +28,7 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 
 **Fokus:** Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Vbuh: Verhandlung, Vergleich und Eskalation
+### Vbuh: Verhandlung, Vergleich und Eskalation
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vbuh: Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

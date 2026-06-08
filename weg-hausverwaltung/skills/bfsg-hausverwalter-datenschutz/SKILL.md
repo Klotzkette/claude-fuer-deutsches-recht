@@ -29,7 +29,7 @@ description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüf
 
 **Fokus:** Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung.
 
-# BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale
+### BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -89,7 +89,7 @@ Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-S
 
 **Fokus:** Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22.
 
-# Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG
+### Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -156,7 +156,7 @@ Frist: 1 Monat ab Eingang (Art. 12 Abs. 3 DSGVO). Verlängerung um bis zu 2 Mona
 
 **Fokus:** Datenschutzverletzungen nach Art. 33/34 DSGVO melden (Stand 06/2026): 72-Stunden-Frist, Risikobewertung, Meldung an Aufsichtsbehoerde, Betroffenenbenachrichtigung. Typische Pannen in der Hausverwaltung mit Sofortmassnahmen.
 
-# Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung
+### Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

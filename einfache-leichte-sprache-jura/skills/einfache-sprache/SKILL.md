@@ -40,29 +40,29 @@ Konkret zu prüfen:
 **Adressat:** Mandant / Buerger — **Tonfall:** klar, direkt, respektvoll
 
 ```
-# Kurze Antwort
+### Kurze Antwort
 
 [1-2 Saetze: Das Wichtigste zuerst]
 
-# Was ist passiert?
+### Was ist passiert?
 
 [Sachverhalt ohne Fachjargon]
 
-# Was bedeutet das für Sie?
+### Was bedeutet das für Sie?
 
 [Rechtliche Konsequenzen in verstaendlichen Worten]
 
-# Was koennen Sie jetzt tun?
+### Was koennen Sie jetzt tun?
 
 Option A: [Handlung 1 — Frist: DD.MM.JJJJ]
 Option B: [Handlung 2]
 
-# Frist
+### Frist
 
 Wichtig: Bis [DATUM] muessen Sie handeln.
 Wenn Sie nichts tun, dann: [Rechtsfolge kurz]
 
-# Schwere Woerter kurz erklaert
+### Schwere Woerter kurz erklaert
 
 - Widerspruch: Sie sagen der Behörde, dass Sie nicht einverstanden sind.
 - Verjährung: Nach Ablauf dieser Frist koennen Sie nichts mehr verlangen.
@@ -96,27 +96,27 @@ Der Text soll schnell beantworten:
 Für Mandantenbriefe und Verbraucherinformationen verwende bevorzugt:
 
 ```markdown
-# Kurze Antwort
+### Kurze Antwort
 
 ...
 
-# Was ist passiert?
+### Was ist passiert?
 
 ...
 
-# Was bedeutet das für Sie?
+### Was bedeutet das für Sie?
 
 ...
 
-# Was können Sie jetzt tun?
+### Was können Sie jetzt tun?
 
 ...
 
-# Frist
+### Frist
 
 ...
 
-# Schwere Wörter kurz erklärt
+### Schwere Wörter kurz erklärt
 
 ...
 ```

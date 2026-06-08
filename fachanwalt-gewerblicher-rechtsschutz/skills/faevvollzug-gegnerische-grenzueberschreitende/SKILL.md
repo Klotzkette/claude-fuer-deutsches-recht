@@ -29,7 +29,7 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 
 **Fokus:** Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien.
 
-# Gegnerische Schutzschrift auswerten
+### Gegnerische Schutzschrift auswerten
 
 ## Aufgabe
 Dieser Skill hilft beim Auswerten einer Schutzschrift der Gegenseite vor oder nach Erlass einer einstweiligen Verfügung: Argumente identifizieren, Schwächen benennen, Reaktionsstrategie entwickeln.
@@ -131,7 +131,7 @@ ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
 
 **Fokus:** Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland.
 
-# Grenzüberschreitende IP-Eilverfügung
+### Grenzüberschreitende IP-Eilverfügung
 
 ## Aufgabe
 Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezug im gewerblichen Rechtsschutz: internationale Zuständigkeit, anwendbares Recht, Unionsschutzrechte und grenzüberschreitende Vollstreckung.
@@ -226,7 +226,7 @@ Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezu
 
 **Fokus:** Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung. Titel, Dringlichkeit, Zustellungsweg, Schutzschrift, Kosten-Nutzen, Red-Team-Fragen, Rücknahmeoptionen im gewerblichen Rechtsschutz.
 
-# Qualitätsgate vor EV-Vollziehung
+### Qualitätsgate vor EV-Vollziehung
 
 ## Aufgabe
 Dieser Skill ist der letzte Qualitätscheck vor der Vollziehung einer einstweiligen Verfügung: Vollständigkeit des Titels, Dringlichkeit, Zustellungsweg, Red-Team-Analyse, Kostenrisiken und Rücknahmeoptionen.

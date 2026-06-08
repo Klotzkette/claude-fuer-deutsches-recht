@@ -29,7 +29,7 @@ description: "Mandat Triage Schriftsatzkern Substantiierung im Plugin Fachanwalt
 
 **Fokus:** Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen. Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjährung 3 Jahre § 195 BGB) Versicherungslage Eilbedürftigkeit vorläufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bußgeld-einspruch-prüfen.
 
-# Mandat-Triage Verkehrsrecht
+### Mandat-Triage Verkehrsrecht
 
 ## Zweck
 
@@ -168,7 +168,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext in de
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage Verkehrsunfall, Einspruch OWi-Bußgeldbescheid, Klage KFZ-Versicherung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
+### Schriftsatzkern und Substantiierung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 
 ## Wann dieser Arbeitsgang greift
 
@@ -368,7 +368,7 @@ Vor Versand:
 
 **Fokus:** 315C: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# 315C: Internationaler Bezug und Schnittstellen
+### 315C: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: 315C: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, EUR, OLG.

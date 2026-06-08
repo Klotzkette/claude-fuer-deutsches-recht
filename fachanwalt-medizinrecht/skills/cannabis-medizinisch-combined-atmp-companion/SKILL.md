@@ -30,7 +30,7 @@ description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prü
 
 **Fokus:** Medizinisches Cannabis Verordnung: moderner Medizinrechts-Skill für Cannabis als Medizin, Verordnung, Kostenübernahme, Fahrtüchtigkeit und Berufspflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Medizinisches Cannabis Verordnung
+### Medizinisches Cannabis Verordnung
 
 ## Fachkern: Medizinisches Cannabis Verordnung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Kombiniertes ATMP mit Medizinprodukt: moderner Medizinrechts-Skill für ATMP mit Scaffold, Implantat, Katheter, Software oder Applikationsgerät und doppelter Regulierungslogik. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Kombiniertes ATMP mit Medizinprodukt
+### Kombiniertes ATMP mit Medizinprodukt
 
 ## Fachkern: Kombiniertes ATMP mit Medizinprodukt
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -141,7 +141,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Companion Diagnostic bei ATMP: moderner Medizinrechts-Skill für Therapieselektion durch Biomarker, Testqualität, falsche Negativ-/Positivbefunde und Erstattung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Companion Diagnostic bei ATMP
+### Companion Diagnostic bei ATMP
 
 ## Fachkern: Companion Diagnostic bei ATMP
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -198,7 +198,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Compassionate Use und Härtefall: moderner Medizinrechts-Skill für Nicht zugelassenes Arzneimittel, Härtefallprogramm, Nutzen-Risiko, Erstattung und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Compassionate Use und Härtefall
+### Compassionate Use und Härtefall
 
 ## Fachkern: Compassionate Use und Härtefall
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

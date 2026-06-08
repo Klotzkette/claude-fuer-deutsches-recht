@@ -32,7 +32,7 @@ description: "Gutachterkommission im Medizinrecht: prüft konkret Gutachterkommi
 
 **Fokus:** Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie.
 
-# Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
+### Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
 
 ## Fachkern: Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -256,7 +256,7 @@ Anlagen: Patientenakte, Privatgutachten (falls vorhanden), Vollmacht
 
 **Fokus:** Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Prüfraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Prüfungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV für reine Honorarstreitigkeiten und zu Approbations-Widerspruch.
 
-# Kassenarztrecht
+### Kassenarztrecht
 
 ## Fachkern: Kassenarztrecht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -501,7 +501,7 @@ IV. BEWEISANGEBOTE
 
 **Fokus:** Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Prüfraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz für GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a.
 
-# Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS
+### Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS
 
 ## Fachkern: Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -823,7 +823,7 @@ Mit freundlichen Grüßen
 
 **Fokus:** Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Länder) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein.
 
-# Fachanwalt für Medizinrecht — Orientierung
+### Fachanwalt für Medizinrecht — Orientierung
 
 ## Fachkern: Fachanwalt für Medizinrecht — Orientierung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -952,7 +952,7 @@ Sachgebiet?
 
 **Fokus:** Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Fertilitätsmedizin Recht
+### Fertilitätsmedizin Recht
 
 ## Fachkern: Fertilitätsmedizin Recht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -1006,7 +1006,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** FSCA und Rückrufkommunikation: moderner Medizinrechts-Skill für Field Safety Corrective Action, Sicherheitsmitteilung, Patientennachverfolgung und Klinikpflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# FSCA und Rückrufkommunikation
+### FSCA und Rückrufkommunikation
 
 ## Fachkern: FSCA und Rückrufkommunikation
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

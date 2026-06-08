@@ -29,7 +29,7 @@ description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltu
 
 **Fokus:** Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen.
 
-# Erhaltung, Modernisierung und Baumängel
+### Erhaltung, Modernisierung und Baumängel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erhaltung, Modernisierung und Baumängel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 **Fokus:** Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
 
-# KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren
+### KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -199,7 +199,7 @@ Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (P
 
 **Fokus:** Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete.
 
-# Abrechnung, Ist/Plan und Mieterschnittstelle
+### Abrechnung, Ist/Plan und Mieterschnittstelle
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abrechnung, Ist/Plan und Mieterschnittstelle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

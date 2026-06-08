@@ -28,7 +28,7 @@ description: "Crispr Base Cybersecurity Medizinprodukt im Medizinrecht: prüft k
 
 **Fokus:** CRISPR/Base-Editing Einwilligung: moderner Medizinrechts-Skill für Genomeditierung, irreversible Risiken, Off-target-Risiken, Langzeitnachbeobachtung und Aufklärungstiefe. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# CRISPR/Base-Editing Einwilligung
+### CRISPR/Base-Editing Einwilligung
 
 ## Fachkern: CRISPR/Base-Editing Einwilligung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Cybersecurity Medizinprodukt: moderner Medizinrechts-Skill für Vernetztes Medizinprodukt, Patch, Ransomware, Manipulation, Patientenschaden und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Cybersecurity Medizinprodukt
+### Cybersecurity Medizinprodukt
 
 ## Fachkern: Cybersecurity Medizinprodukt
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

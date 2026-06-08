@@ -29,7 +29,7 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 
 **Fokus:** Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13 IPRG Art. 77 (Schweizer BGer). Prüfraster Statement of Appeal Appeal Brief Fristen-Check Verfahrenswahl Kosten-Abschaetzung. Output Berufungsschrift-Entwurf Verfahrens-Checkliste. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (Doping-Spezifisch) und verbandsstrafe-anfechten (Allgemein).
 
-# CAS-Berufung vorbereiten
+### CAS-Berufung vorbereiten
 
 ## Kaltstart-Rückfragen
 
@@ -370,7 +370,7 @@ Stand 05/2026. **Strukturwandel:** EuGH RFC Seraing 01.08.2025 (C-600/23) — Mi
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Sport- und Sponsoringrecht
+### Erstgespraech und Mandatsannahme im Sport- und Sponsoringrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -534,7 +534,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 **Fokus:** Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG § 4. Prüfraster Strict-Liability-Prüfung TUE No-Fault-Nachweis Art. 10 Abs. 5 CAS-Fristen. Output CAS-Berufungsschrift TUE-Antrag Sanktions-Reduktions-Argumentation. Abgrenzung zu cas-berufung-vorbereiten (allg. Berufung) und fachanwalt-sportrecht-doping-verfahren (NADA-Erstverfahren).
 
-# Doping-Berufung CAS
+### Doping-Berufung CAS
 
 ## Zweck
 

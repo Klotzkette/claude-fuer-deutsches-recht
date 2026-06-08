@@ -29,7 +29,7 @@ description: "Vollstreckung Stoppen Vorzeitige im Plugin Verbraucherinsolvenz Sc
 
 **Fokus:** Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.; Normanker: ZPO §§ 802c ff., 829 ff.; InsO §§ 88 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
+### Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
 
 ## Fachkern: Vollstreckung stoppen: Pfändung, Gerichtsvollzieher, Vermögensauskunft, Haftbefehl zur Erzwingung und Insolvenzwirkung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ ZPO §§ 802c ff., 829 ff.; InsO §§ 88, 89. Entscheidend ist immer der aktuell
 
 **Fokus:** Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.; Normanker: InsO § 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
+### Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
 
 ## Fachkern: Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO § 300. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlich
 
 **Fokus:** Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.; Normanker: BGB Mietrecht; InsO § 109; SGB II/SGB XII; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
+### Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
 
 ## Fachkern: Wohnung, Miete und Energie: Mietrückstand, Kündigung, Stromsperre, Kaution und Haushaltsstabilisierung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

@@ -31,7 +31,7 @@ description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Bue
 
 **Fokus:** Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht.
 
-# BVerfG-Grenzen richterlicher Rechtsfortbildung
+### BVerfG-Grenzen richterlicher Rechtsfortbildung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BVerfG-Grenzen richterlicher Rechtsfortbildung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann).
 
-# Diskurstheorie und juristische Argumentation (Habermas / Alexy)
+### Diskurstheorie und juristische Argumentation (Habermas / Alexy)
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Diskurstheorie und juristische Argumentation (Habermas / Alexy)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -243,7 +243,7 @@ Stand: Mai 2026.
 
 **Fokus:** Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente.
 
-# Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases
+### Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases
 
 ## Einsatz
 Dieses Fachmodul bei Generalklauseln, planwidrigen Lücken, konkurrierenden Präjudizien, neuen Technologien oder Fällen, in denen mehrere BGB-Lösungen vertretbar erscheinen.
@@ -262,7 +262,7 @@ Schriftsatzbaustein mit zwei Ebenen: erst positive Rechtsquellen, dann Prinzipie
 
 **Fokus:** Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit.
 
-# Empirie im Zivilrecht: Quellenkritik und methodischer Umgang
+### Empirie im Zivilrecht: Quellenkritik und methodischer Umgang
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Empirie im Zivilrecht: Quellenkritik und methodischer Umgang` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -351,7 +351,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeignet für internationale Vertragsrecht, Verbraucherschutzrecht, Datenschutz und alle Bereiche mit unionsrechtlichem Regelungsrahmen.
 
-# EU-Auslegung: Autonom und mehrsprachig
+### EU-Auslegung: Autonom und mehrsprachig
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `EU-Auslegung: Autonom und mehrsprachig` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -31,7 +31,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er kl
 
 **Fokus:** Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen.
 
-# Kindeswohlgefährdung — Eilanordnung
+### Kindeswohlgefährdung — Eilanordnung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kindeswohlgefährdung — Eilanordnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -532,7 +532,7 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 4
 
 **Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule.
 
-# Fachanwalt für Familienrecht — Orientierung
+### Fachanwalt für Familienrecht — Orientierung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Familienrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -626,7 +626,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 
 **Fokus:** Prüfungslinie für fachanwalt familienrecht sbgg personenstandswechsel folgen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
+### Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

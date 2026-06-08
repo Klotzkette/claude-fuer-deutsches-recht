@@ -31,7 +31,7 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 
 **Fokus:** Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache.
 
-# Technische Begriffe und Neutralitätscheck in der Rechtsanwendung
+### Technische Begriffe und Neutralitätscheck in der Rechtsanwendung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Technische Begriffe und Neutralitätscheck in der Rechtsanwendung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -122,7 +122,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung.
 
-# Teleologische Auslegung
+### Teleologische Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Teleologische Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -233,7 +233,7 @@ Stand: Mai 2026.
 
 **Fokus:** Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen für den Anwaltsschriftsatz.
 
-# Topik nach Theodor Viehweg vs. Systemdenken
+### Topik nach Theodor Viehweg vs. Systemdenken
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Topik nach Theodor Viehweg vs. Systemdenken` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -352,7 +352,7 @@ Stand: Mai 2026.
 
 **Fokus:** Dieses Skill prüft den argumentativen Einsatz von überpositivem Recht, Naturrecht und ungeschriebenen Verfassungsprinzipien auf ihre methodische Substanz und warnt vor deren Verwendung als inhaltsleere Leerformel. Es zeigt, wann Argumente aus überpositivem Recht methodisch zulässig sind, wann sie als Leerformeln ohne normative Substanz aufgedeckt werden müssen und wie man in der Praxis zwischen legitimer überpositiver Argumentation und Gerechtigkeitsrhetorik unterscheidet. Das Skill stärkt methodische Redlichkeit bei Fundamentalargumenten.
 
-# Überpositives Recht als Leerformel: Methodischer Check
+### Überpositives Recht als Leerformel: Methodischer Check
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Überpositives Recht als Leerformel: Methodischer Check` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -443,7 +443,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen Auslegung (Wortlaut, contra legem). Konkrete Anwendung im BGB (§§ 138 242 305 ff. 312 ff. 651a ff.). Praezises Pruefraster.
 
-# Verfassungs- und unionsrechtskonforme Auslegung
+### Verfassungs- und unionsrechtskonforme Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verfassungs- und unionsrechtskonforme Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
-# Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
+### Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
 
 ## Fachkern: Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium
 - **Normen-/Quellenanker:** CIC/1983, Katechismus der Katholischen Kirche, Partikularrecht, kirchliche Gerichts- und Verwaltungsverfahren, Sakramentenrecht, Kleriker-/Laienrechte und kirchliche Vermögensverwaltung.

@@ -29,7 +29,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 
 **Fokus:** Chronologie und Belegmatrix für arbeitsrechtliche Mandate: zeitliche Sachverhaltsaufbereitung, Ereignis-Zeitachse, Dokumentenzuordnung nach Datum, Lückenidentifikation, Erstellung einer strukturierten Fallchronologie als Arbeitsgrundlage.
 
-# Workflow: Chronologie und Belegmatrix
+### Workflow: Chronologie und Belegmatrix
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -143,7 +143,7 @@ BESCHAFFUNGSWEGE:
 
 **Fokus:** Fristen und Risikoampel: vollständige Fristenübersicht für arbeitsrechtliche Mandate, Ampelbewertung nach Dringlichkeit, Fristenkalender, Wiedervorlagensystem, kritische Fristen Kündigung KSchG, Befristung TzBfG, AGG, Berufung ArbGG.
 
-# Workflow: Fristen und Risikoampel
+### Workflow: Fristen und Risikoampel
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Fristen und Risikoampel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -271,7 +271,7 @@ ERLEDIGT:
 
 **Fokus:** Mandantenkommunikation im Arbeitsrechtsmandat: Mandantenbriefe, E-Mails, Gesprächsvorbereitung, Informationspflichten, Kostenhinweis RVG, Akteneinsicht, Verfahrensstandsmeldungen, Aufklärungsbrief vor Klageerhebung.
 
-# Workflow: Mandantenkommunikation
+### Workflow: Mandantenkommunikation
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow: Mandantenkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

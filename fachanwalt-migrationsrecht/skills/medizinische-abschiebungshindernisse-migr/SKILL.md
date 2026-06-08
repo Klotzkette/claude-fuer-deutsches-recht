@@ -28,7 +28,7 @@ description: "Medizinische Abschiebungshindernisse Migr im Migrationsrecht: prü
 
 **Fokus:** Medizinische Abschiebungshindernisse: Fachmodul im Migrationsrecht; prüft qualifiziertes Attest, Behandlung, Reisefähigkeit, Zielstaat; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Medizinische Abschiebungshindernisse
+### Medizinische Abschiebungshindernisse
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft qualifiziertes Attest, Behandlung, Reisefähigkeit, Zielstaat.
@@ -64,7 +64,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft qualifiz
 
 **Fokus:** Migr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Migr: Sonderfall und Edge-Case-Prüfung
+### Migr: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Migr: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU, GEAS.

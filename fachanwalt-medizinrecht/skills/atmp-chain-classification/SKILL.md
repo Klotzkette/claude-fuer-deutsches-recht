@@ -28,7 +28,7 @@ description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Cha
 
 **Fokus:** ATMP Chain of Identity: moderner Medizinrechts-Skill für Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# ATMP Chain of Identity
+### ATMP Chain of Identity
 
 ## Fachkern: ATMP Chain of Identity
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -86,7 +86,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** ATMP-Klassifizierung und CAT-Route: moderner Medizinrechts-Skill für Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# ATMP-Klassifizierung und CAT-Route
+### ATMP-Klassifizierung und CAT-Route
 
 ## Fachkern: ATMP-Klassifizierung und CAT-Route
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

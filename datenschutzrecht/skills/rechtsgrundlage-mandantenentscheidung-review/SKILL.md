@@ -31,7 +31,7 @@ description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: 
 
 **Fokus:** Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
+### Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -81,7 +81,7 @@ Einwilligung wirkt geräumig, ist aber widerruflich und schafft Dokumentationsla
 
 **Fokus:** Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Review: Risikoampel, Gegenargumente und Verteidigungslinien
+### Review: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Review: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
+### Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen.
 
-# Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020)
+### Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020)
 
 ## Zweck
 
@@ -335,7 +335,7 @@ Kapitelueberschriften für das TIA-Dokument:
 
 **Fokus:** English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DPF reliance and residual risk.
 
-# EU-US Data Privacy Framework – Current Status (English)
+### EU-US Data Privacy Framework – Current Status (English)
 
 ## Purpose
 

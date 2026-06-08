@@ -29,7 +29,7 @@ description: "Reklamationsschreiben CMR Schriftsatzkern im Plugin Fachanwalt Tra
 
 **Fokus:** Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift.
 
-# Reklamationsschreiben CMR und HGB
+### Reklamationsschreiben CMR und HGB
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -317,7 +317,7 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 **Fokus:** Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollständiger Schriftsatz.
 
-# Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht
+### Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -515,7 +515,7 @@ Vor Versand:
 
 **Fokus:** Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Adsp: Internationaler Bezug und Schnittstellen
+### Adsp: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Adsp: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** HGB, CMR, COTIF, CO.

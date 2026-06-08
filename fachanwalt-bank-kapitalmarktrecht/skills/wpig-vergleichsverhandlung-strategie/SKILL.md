@@ -29,7 +29,7 @@ description: "Wpig Vergleichsverhandlung Strategie im Plugin Fachanwalt Bank Kap
 
 **Fokus:** Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Wpig: Risikoampel, Gegenargumente und Verteidigungslinien
+### Wpig: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Wpig: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Konkreter Gegenstand:** Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Bank-, Kapitalmarkt- und Wertpapierrecht
+### Vergleichsverhandlung und Einigung im Bank-, Kapitalmarkt- und Wertpapierrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -242,7 +242,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Prüfungslinie für widerrufsjoker immobiliendarlehen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Widerrufsjoker bei Immobiliendarlehen
+### Widerrufsjoker bei Immobiliendarlehen
 
 ## Zweck
 

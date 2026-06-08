@@ -29,7 +29,7 @@ description: "Sportr Arbeitsrecht Sport Einfuehrung im Sportrecht: prüft konkre
 
 **Fokus:** Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge. Schnittstelle zu Verbandsrecht.
 
-# Sport: Arbeitsrecht Sport
+### Sport: Arbeitsrecht Sport
 
 ## Spezialwissen: Sport: Arbeitsrecht Sport
 - **Normen-/Quellenanker:** BAG, FIFA, DFB.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Sportrecht einfuehrend: Sportverbandsrecht, Verbandsstrafrecht, Anti-Doping, Sportarbeitsvertraege (Profisport), Sponsoring, Vermarktung, Persoenlichkeitsrecht Athlet, Fan-Rechte. Entscheidungstabelle.
 
-# Sportrecht: Rechtsfelder
+### Sportrecht: Rechtsfelder
 
 ## Spezialwissen: Sportrecht: Rechtsfelder
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Spielerberater-Rechtsverhaeltnis: FIFA-Reglement RWFC 2023, DFB-Reglement, Klauseln Exclusive Mandate, Commission Cap, Anti-Tampering. Pruefraster für Vertrag und Beispielklauseln.
 
-# Sportrecht: Spielerberater
+### Sportrecht: Spielerberater
 
 ## Spezialwissen: Sportrecht: Spielerberater
 - **Normen-/Quellenanker:** FIFA, RWFC, DFB.

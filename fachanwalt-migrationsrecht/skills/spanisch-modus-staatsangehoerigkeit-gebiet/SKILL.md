@@ -28,7 +28,7 @@ description: "Spanisch Modus Staatsangehoerigkeit Gebiet im Migrationsrecht: pr�
 
 **Fokus:** Spanisch-Modus Migrationsrecht: Prüfungslinie für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Spanisch-Modus Migrationsrecht
+### Spanisch-Modus Migrationsrecht
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste.
@@ -62,7 +62,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Staatsangehörigkeit/Gebiet/Status
+### Staatsangehörigkeit/Gebiet/Status
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage.

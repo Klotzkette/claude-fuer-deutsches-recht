@@ -29,7 +29,7 @@ description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank
 
 **Fokus:** Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast.
 
-# Bürgschaft, Aval und Bankgarantie routen
+### Bürgschaft, Aval und Bankgarantie routen
 
 ## Aufgabe
 
@@ -84,7 +84,7 @@ Erzeuge eine **Mandats-Triage**:
 
 **Fokus:** Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern vorbereiten: Verfügungsanspruch, Verfügungsgrund, Missbrauchsbelege, Zustellung, Vollziehung und Bankkommunikation.
 
-# Garantieabruf und Eilrechtsschutz
+### Garantieabruf und Eilrechtsschutz
 
 ## Aufgabe
 
@@ -120,7 +120,7 @@ Erzeuge:
 
 **Fokus:** Kaufmännische Bürgschaft prüfen: Handelsgeschäft des Bürgen, § 349 HGB ohne Vorausklage, § 350 HGB ohne BGB-Schriftform, Abgrenzung zu privater Mithaftung, AGB und Prozessstrategie.
 
-# Kaufmännische Bürgschaft nach HGB
+### Kaufmännische Bürgschaft nach HGB
 
 ## Aufgabe
 

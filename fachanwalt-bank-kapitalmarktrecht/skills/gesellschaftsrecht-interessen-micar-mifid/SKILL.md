@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
+### Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
 - **Konkreter Gegenstand:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Micar: Schriftsatz-, Brief- und Memo-Bausteine
+### Micar: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Micar: Schriftsatz-, Brief- und Memo-Bausteine
 - **Konkreter Gegenstand:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Mifid: Behörden-, Gerichts- oder Registerweg
+### Mifid: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Mifid: Behörden-, Gerichts- oder Registerweg
 - **Konkreter Gegenstand:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..

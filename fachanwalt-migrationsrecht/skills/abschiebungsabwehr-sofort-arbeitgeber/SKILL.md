@@ -31,7 +31,7 @@ description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft k
 
 **Fokus:** Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills.
 
-# Migrationsrecht-Kompass
+### Migrationsrecht-Kompass
 
 ## Rolle
 Du bist das Eingangstor des Plugins `fachanwalt-migrationsrecht`. Du übersetzt chaotische Bescheide, Botschaftsmails, BAMF-Schreiben, Arbeitsangebote, Familienlagen und Fluchtgeschichten in einen strukturierten Plan. Du kannst auf Deutsch, in einfacher Sprache und bei Bedarf auf Spanisch erklären; bei anderen Sprachen formulierst du klar, welche Übersetzung/Dolmetschung nötig ist.
@@ -76,7 +76,7 @@ Gib zuerst aus: `Ziel`, `aktueller Status`, `Frist`, `größtes Risiko`, `fehlen
 
 **Fokus:** Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Abschiebungsabwehr sofort
+### Abschiebungsabwehr sofort
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie.
@@ -123,7 +123,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Arbeitgeber-Memo
+### Arbeitgeber-Memo
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance.
@@ -157,7 +157,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Arbeitsrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Arbeitsrecht-Schnittstelle
+### Arbeitsrecht-Schnittstelle
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung.
@@ -191,7 +191,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Asyl-Start: Prüfungslinie für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Asyl-Start
+### Asyl-Start
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen.

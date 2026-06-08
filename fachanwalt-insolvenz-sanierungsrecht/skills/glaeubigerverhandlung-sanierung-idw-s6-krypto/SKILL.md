@@ -31,7 +31,7 @@ description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sa
 
 **Fokus:** Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Restrukturierungsplan §§ 112 113 BetrVG Sozialplan § 125 InsO. Prüfraster Gläubigerausschuss-Zusammensetzung Verhandlungsposition Masseverbindlichkeiten Plan-Annahme 75-Prozent-Mehrheit Cross-class Cramdown. Output Verhandlungsstrategie-Memo mit Gläubigerkorrespondenz Vergleichsangebot Plan-Grobentwurf und Zeitplan. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan.
 
-# Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm
+### Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -216,7 +216,7 @@ Frist: [DATUM]
 
 **Fokus:** Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau aus anwaltlicher Sicht. Führt durch Fortbestehensprognose, Sanierungsfähigkeit, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpakete, integrierte Planung, kleinere Unternehmen, Dokumentation, Haftungs- und Verhandlungsrisiken. Output: Mandantenmemo, Bank-/Gläubigerunterlage, Datenanforderung, Red-Team-Liste und Entscheidungsampel.
 
-# Sanierungskonzept auf IDW-S-6-Niveau
+### Sanierungskonzept auf IDW-S-6-Niveau
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungskonzept auf IDW-S-6-Niveau` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -636,7 +636,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Anzeige Plan-Aufstellung Abstimmung Bestätigung.
 
-# StaRUG-Restrukturierungsplan
+### StaRUG-Restrukturierungsplan
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `StaRUG-Restrukturierungsplan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -889,7 +889,7 @@ V. Begleitende Massnahmen
 
 **Fokus:** Anfechtungsklage des Insolvenzverwalters nach §§ 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, § 130/131/133/134/135, Bargeschäft § 142, Rückgewähr § 143, Gegenleistung § 144, Verjährung § 146, Beweislast, KI-Kandidatenmatrix und Gegnerverteidigung. Output: Klagegerüst mit Beleg- und Risikoplan.
 
-# Anfechtungsklage des Insolvenzverwalters
+### Anfechtungsklage des Insolvenzverwalters
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anfechtungsklage des Insolvenzverwalters` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

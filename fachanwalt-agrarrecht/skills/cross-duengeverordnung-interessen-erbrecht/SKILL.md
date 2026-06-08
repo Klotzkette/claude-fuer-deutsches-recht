@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Cross: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Cross: Zahlen, Schwellenwerte und Berechnung
+### Cross: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Cross: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
+### Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Erbrecht: Beweislast, Darlegungslast und Substantiierung
+### Erbrecht: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Erbrecht: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

@@ -29,7 +29,7 @@ description: "Hausverwaltungs Heizung Schaden Wegh im Plugin Weg Hausverwaltung:
 
 **Fokus:** Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg
+### Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan.
 
-# Heizung, Schaden, Versicherung, Notmaßnahme
+### Heizung, Schaden, Versicherung, Notmaßnahme
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Heizung, Schaden, Versicherung, Notmaßnahme` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -145,7 +145,7 @@ Die Gemeinschaft beschließt, die Verwaltung zu beauftragen und zu bevollmächti
 
 **Fokus:** Spezialfall Verwalterhaftung WEG §§ 26 ff. WEG nach Reform 2020: Innen- und Aussenhaftung, D-and-O für Verwalter, Haftung für Beschlussumsetzung. Pruefraster für Verwalter.
 
-# WEGh: Verwalterhaftung
+### WEGh: Verwalterhaftung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEGh: Verwalterhaftung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

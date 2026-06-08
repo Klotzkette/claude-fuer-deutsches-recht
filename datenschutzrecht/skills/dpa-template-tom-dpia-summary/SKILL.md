@@ -31,7 +31,7 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 
 **Fokus:** English language Data Processing Agreement (DPA) template under Article 28 GDPR between a controller and a processor. Use when the contract language is English (cross-border deals UK Ireland US providers) and the parties require a stand-alone DPA. Output is a complete English DPA template covering all eight mandatory items of Article 28 (3) GDPR.
 
-# Data Processing Agreement (DPA) – English Template Controller / Processor
+### Data Processing Agreement (DPA) – English Template Controller / Processor
 
 ## Zweck / Purpose
 
@@ -201,7 +201,7 @@ Date: Date:
 
 **Fokus:** English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001 SOC 2 and BSI C5 alignment.
 
-# TOM Annex – English Template (Article 32 GDPR)
+### TOM Annex – English Template (Article 32 GDPR)
 
 ## Zweck / Purpose
 
@@ -354,7 +354,7 @@ ________________________________ ____________________________
 
 **Fokus:** Concise English DPIA management summary aligned with Art. 35 GDPR for board executive committee or non-legal stakeholders. Output: one-pager covering processing necessity risk measures residual risk approval recommendation.
 
-# DPIA Management Summary in English
+### DPIA Management Summary in English
 
 ## Purpose
 
@@ -485,7 +485,7 @@ DPO: ____________________ Date: ____________________
 
 **Fokus:** Full English DPIA template aligned with Art. 35 GDPR covering description necessity proportionality risk to data subjects measures residual risk approval. Output: ready-to-fill DPIA template in English for cross-border or English-speaking deployments.
 
-# DPIA Full Template in English
+### DPIA Full Template in English
 
 ## Purpose
 
@@ -692,7 +692,7 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 
 **Fokus:** Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzung: nicht für innereuroaeischen Datenaustausch.
 
-# Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
+### Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
 
 ## Zweck
 

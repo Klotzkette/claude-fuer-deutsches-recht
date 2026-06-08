@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt It Recht im F
 
 **Fokus:** Vergleichsverhandlungs-Strategie für IT-, Datenschutz- und Telemedienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im IT-, Datenschutz- und Telemedienrecht
+### Vergleichsverhandlung und Einigung im IT-, Datenschutz- und Telemedienrecht
 
 ## Wann dieser Arbeitsgang greift
 

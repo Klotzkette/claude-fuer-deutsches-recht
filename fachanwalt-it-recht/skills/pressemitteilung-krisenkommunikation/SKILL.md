@@ -31,7 +31,7 @@ description: "DSV Pressemitteilung Krisenkommunikation im Plugin Fachanwalt It R
 
 **Fokus:** Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel.
 
-# Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
+### Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -89,7 +89,7 @@ Sperrfristen: erst nach Information der Betroffenen oder gleichzeitig veröffent
 
 **Fokus:** Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung.
 
-# Sammelklagen-Prävention nach Massendatenpanne
+### Sammelklagen-Prävention nach Massendatenpanne
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -146,7 +146,7 @@ Goodwill: pauschale Kulanzpakete (z.B. Schufa-Auskunft, Identitätsschutz) ohne 
 
 **Fokus:** Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Update; Aufbewahrungsfristen; Verknüpfung mit Vorfallregister Art. 33 Abs. 5. Output: Update-Checkliste mit Pflichtfeldern. Abgrenzung: kein neues VVT; keine DSFA.
 
-# Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
+### Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -205,7 +205,7 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 **Fokus:** Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Prüfraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
 
-# Cyber-Incident-Response 72 Stunden
+### Cyber-Incident-Response 72 Stunden
 
 ## Kaltstart-Rückfragen
 
@@ -492,7 +492,7 @@ Hinweis gemaess Art. 33 Abs. 4 DSGVO: Nachmeldung vorbehalten.
 
 **Fokus:** Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizierung; Gesundheitsdaten; Daten zum Sexualleben oder zur sexuellen Orientierung. Folgen: regelmäßige Annahme hohen Risikos; Benachrichtigung Art. 34 DSGVO; Bußgeldverschärfung Art. 83 Abs. 5. Output: Memo mit Schutzbedarfsanalyse. Abgrenzung: § 203 StGB getrennt; Sozialdaten getrennt.
 
-# Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall
+### Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 

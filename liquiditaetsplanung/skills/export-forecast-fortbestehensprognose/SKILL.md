@@ -29,7 +29,7 @@ description: "Export Forecast Fortbestehensprognose im Plugin Liquiditaetsplanun
 
 **Fokus:** Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Export: Schriftsatz-, Brief- und Memo-Bausteine
+### Export: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachkern: Export: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Forecast: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Forecast: Risikoampel, Gegenargumente und Verteidigungslinien
+### Forecast: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Fachkern: Forecast: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -105,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fortbestehensprognose: Internationaler Bezug und Schnittstellen im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fortbestehensprognose: Internationaler Bezug und Schnittstellen
+### Fortbestehensprognose: Internationaler Bezug und Schnittstellen
 
 ## Fachkern: Fortbestehensprognose: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

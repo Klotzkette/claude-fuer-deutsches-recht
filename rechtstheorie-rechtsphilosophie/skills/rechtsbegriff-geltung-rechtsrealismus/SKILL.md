@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law.
 
-# Rechtsbegriff und Geltung
+### Rechtsbegriff und Geltung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsbegriff und Geltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -107,7 +107,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das für Beratung, Prozessstrategie und Begründung?
 
-# Rechtsrealismus und Prognose
+### Rechtsrealismus und Prognose
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsrealismus und Prognose` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -169,7 +169,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung.
 
-# Rechtssicherheit und Rückwirkung
+### Rechtssicherheit und Rückwirkung
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtssicherheit und Rückwirkung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

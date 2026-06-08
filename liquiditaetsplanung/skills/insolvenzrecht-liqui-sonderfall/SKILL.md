@@ -29,7 +29,7 @@ description: "Insolvenzrecht Liqui Sonderfall im Plugin Liquiditaetsplanung: pr�
 
 **Fokus:** Insolvenzrecht: Formular, Portal und Einreichungslogik im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Insolvenzrecht: Formular, Portal und Einreichungslogik
+### Insolvenzrecht: Formular, Portal und Einreichungslogik
 
 ## Fachkern: Insolvenzrecht: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Liqui: Sonderfall und Edge-Case-Prüfung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Liqui: Sonderfall und Edge-Case-Prüfung
+### Liqui: Sonderfall und Edge-Case-Prüfung
 
 ## Fachkern: Liqui: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
@@ -105,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel
+### Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Fachkern: Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.

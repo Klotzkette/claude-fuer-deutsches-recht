@@ -31,7 +31,7 @@ description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden be
 
 **Fokus:** Vermoegensschaden bei Paragraph 266 StGB Untreue. BGH-Stufenmodell und BVerfG-Vorgaben zur Bezifferbarkeit. Schadensgleiche Vermoegensgefaehrdung als Verfassungsfrage. Revisionsangriffe gegen unzureichende Schadensfeststellung. Sachverstaendigenbeweis und Bilanzierung im Strafverfahren.
 
-# Vermoegensschaden bei Paragraph 266 StGB und Bezifferbarkeit
+### Vermoegensschaden bei Paragraph 266 StGB und Bezifferbarkeit
 
 ## Worum geht es konkret
 
@@ -133,7 +133,7 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 
 **Fokus:** Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung.
 
-# Verbandssanktionen Stand 06/2026
+### Verbandssanktionen Stand 06/2026
 
 ## Worum geht es
 
@@ -256,7 +256,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 
 **Fokus:** Akteneinsicht operativ steuern: Antrag, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, digitale Beweismittel, Asservate, Nachlieferungen, Opferdaten, Schwärzungen und Aktenvollständigkeit nach § 147 StPO kontrollieren.
 
-# Akteneinsicht, Nachlieferungen und Sonderbände
+### Akteneinsicht, Nachlieferungen und Sonderbände
 
 ## Zweck
 
@@ -316,7 +316,7 @@ Nicht reflexhaft vollständige Weitergabe an Mandant. Bei sensiblen Daten, Ansch
 
 **Fokus:** Steuerhinterziehung nach Paragraph 370 AO. Vorsatztatbestand mit Verkuerzungserfolg. Drei Tathandlungen unrichtige Angaben pflichtwidriges Verschweigen Unterlassung. Schwellen besonders schwerer Fall Paragraph 370 III AO ab 50.000 Euro grosses Ausmass. Abgrenzung Paragraph 378 AO leichtfertige Verkuerzung als OWi. Verteidigung Vorsatz Verbotsirrtum Schaetzung.
 
-# Steuerhinterziehung nach Paragraph 370 AO
+### Steuerhinterziehung nach Paragraph 370 AO
 
 ## Worum geht es
 
@@ -429,7 +429,7 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 
 **Fokus:** Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung; Tatbestand 2008 vom BVerfG für nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 370 III AO Regelbeispiele. Beweisrechtliche Relevanz für Altfaelle.
 
-# Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung
+### Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung
 
 ## Worum geht es
 

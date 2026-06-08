@@ -30,7 +30,7 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Vollmacht Betreuung Angehoerige
+### Laienhilfe: Vollmacht Betreuung Angehoerige
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Vollmacht Betreuung Angehoerige` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -99,7 +99,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Widerspruch Einfach
+### Laienhilfe: Widerspruch Einfach
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Widerspruch Einfach` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-# Laienhilfe: Wohngeld Kinderzuschlag Schnittstelle
+### Laienhilfe: Wohngeld Kinderzuschlag Schnittstelle
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Wohngeld Kinderzuschlag Schnittstelle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -237,7 +237,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 **Fokus:** Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.; Normanker: SGB X §§ 20 und 21 und 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.
+### Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Frist` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

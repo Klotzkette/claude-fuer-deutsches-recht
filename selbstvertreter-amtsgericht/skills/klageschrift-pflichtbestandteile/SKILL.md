@@ -29,7 +29,7 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 
 **Fokus:** Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe.
 
-# So bauen Sie eine Klageschrift auf
+### So bauen Sie eine Klageschrift auf
 
 ## Worum geht es?
 
@@ -240,7 +240,7 @@ Stand: 05/2026. § 253 ZPO unveraendert.
 
 **Fokus:** Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern.
 
-# Den Sachverhalt richtig in die Klage schreiben
+### Den Sachverhalt richtig in die Klage schreiben
 
 ## Worum geht es?
 
@@ -430,7 +430,7 @@ Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
 
 **Fokus:** Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren Ihre Kosten gegen den Verlierer festsetzen lassen. Antrag bei Geschäftsstelle was erstattungsfähig was nicht. Mit Muster und Hinweis auf Selbstvertretung-Sonderfall.
 
-# Kostenfestsetzung: Bei Erfolg Geld zurueckholen
+### Kostenfestsetzung: Bei Erfolg Geld zurueckholen
 
 ## Worum geht es?
 

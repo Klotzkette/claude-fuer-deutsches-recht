@@ -29,7 +29,7 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 
 **Fokus:** Vergleich vor dem Amtsgericht nach § 278 II ZPO Richtervorschlag Erledigungsklausel Auswirkung auf Kosten und Streitwert. Wann ist ein Vergleich vorteilhaft wann nicht und wie wird er protokolliert.
 
-# Vergleich: Das Gericht schlaegt einen Vergleich vor — annehmen oder nicht?
+### Vergleich: Das Gericht schlaegt einen Vergleich vor — annehmen oder nicht?
 
 ## Worum geht es?
 
@@ -176,7 +176,7 @@ Stand: 05/2026. § 278 ZPO unveraendert.
 
 **Fokus:** Verhalten im Gerichtssaal für Laien. Aufstehen Anrede Hoher Herr Vorsitzender Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin.
 
-# Verhalten im Gerichtssaal: Praktischer Leitfaden
+### Verhalten im Gerichtssaal: Praktischer Leitfaden
 
 ## Worum geht es?
 
@@ -328,7 +328,7 @@ Stand: 05/2026. Saalpraxis weitgehend stabil.
 
 **Fokus:** Video-Verhandlung nach § 128a ZPO. Teilnahme an muendlicher Verhandlung per Bild und Ton-Übertragung. Antrag technische Voraussetzungen Einverstaendnis-Pflichten. Praktischer Leitfaden für Selbstvertreter.
 
-# Video-Verhandlung nach § 128a ZPO
+### Video-Verhandlung nach § 128a ZPO
 
 ## Worum geht es?
 

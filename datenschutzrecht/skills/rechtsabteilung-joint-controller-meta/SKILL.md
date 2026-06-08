@@ -31,7 +31,7 @@ description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Joint Controller im Plattform-Ökosystem
+### Rechtsabteilung: Joint Controller im Plattform-Ökosystem
 
 ## Spezialkern: Rechtsabteilung: Joint Controller im Plattform-Ökosystem
 
@@ -71,7 +71,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Meta-Datenminimierung und Zweckbindung
+### Rechtsabteilung: Meta-Datenminimierung und Zweckbindung
 
 ## Spezialkern: Rechtsabteilung: Meta-Datenminimierung und Zweckbindung
 
@@ -111,7 +111,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess
+### Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess
 
 ## Spezialkern: Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess
 
@@ -151,7 +151,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
-# Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen
+### Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen
 
 ## Spezialkern: Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen
 
@@ -191,7 +191,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 **Fokus:** Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht für spezifische Prüfungen wie AVV oder DSFA.
 
-# DS-Gap-Analyse – Datenschutzrecht
+### DS-Gap-Analyse – Datenschutzrecht
 
 ## Zweck
 

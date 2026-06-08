@@ -28,7 +28,7 @@ description: "Wenn Prognose im Plugin Fortbestehensprognose im Fortbestehensprog
 
 **Fokus:** Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog für den Geschäftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Überschuldung drei Wochen bei Zahlungsunfähigkeit. Zahlungsverbot § 15b InsO. Prüfung der drohenden Zahlungsunfähigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Prüfung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan.
 
-# Wenn die Prognose negativ ist — nächste Schritte
+### Wenn die Prognose negativ ist — nächste Schritte
 
 ## Disclaimer (Schlüsselstelle)
 

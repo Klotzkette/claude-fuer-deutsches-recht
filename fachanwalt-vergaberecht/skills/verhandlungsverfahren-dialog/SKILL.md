@@ -30,7 +30,7 @@ description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: pr
 
 **Fokus:** Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
-# Verhandlungsverfahren und wettbewerblicher Dialog
+### Verhandlungsverfahren und wettbewerblicher Dialog
 
 ## Aufgabe
 Verhandlungsverfahren mit Teilnahmewettbewerb, wettbewerblichen Dialog oder Innovationspartnerschaft strukturieren. Fokus: zulaessige Verfahrenswahl, faire Verhandlungsphasen, Wahrung der Gleichbehandlung.
@@ -106,7 +106,7 @@ OLG-Linien zu § 14 Abs. 3 VgV und zur Reduktion von Loesungen im Dialog vor Aus
 
 **Fokus:** Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
+### Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -153,7 +153,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
+### Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -200,7 +200,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe.
 
-# Verfahrenswahl-Kompass
+### Verfahrenswahl-Kompass
 
 ## Zweck
 

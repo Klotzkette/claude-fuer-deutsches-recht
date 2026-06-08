@@ -28,7 +28,7 @@ description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung im In
 
 **Fokus:** Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

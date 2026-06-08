@@ -122,7 +122,7 @@ Falls eine Bestimmung mehrere Abschnitte überspannt oder die Abschnittsnummer �
 ### Ausgabeformat
 
 ```markdown
-# Nachtragsübersicht: [Vertragspartner] – [Vertragstyp]
+### Nachtragsübersicht: [Vertragspartner] – [Vertragstyp]
 
 **Basisvertrag:** [Datum]
 **Nachträge:** [Anzahl] ([Datum erster] → [Datum letzter])
@@ -167,7 +167,7 @@ Falls eine Bestimmung mehrere Abschnitte überspannt oder die Abschnittsnummer �
 Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vollständig weglassen.
 
 ```markdown
-# Klausel-Rückverfolgung: [Bestimmungsname]
+### Klausel-Rückverfolgung: [Bestimmungsname]
 ## [Vertragspartner] – [Vertragstyp]
 
 ---

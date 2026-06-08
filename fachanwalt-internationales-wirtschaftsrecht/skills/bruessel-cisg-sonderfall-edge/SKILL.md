@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien
+### Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Cisg: Dokumentenmatrix, L체ckenliste und Nachforderung im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Cisg: Dokumentenmatrix, L체ckenliste und Nachforderung
+### Cisg: Dokumentenmatrix, L체ckenliste und Nachforderung
 
 ## Spezialwissen: Cisg: Dokumentenmatrix, L체ckenliste und Nachforderung
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Compliance: Sonderfall und Edge-Case-Pr체fung im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Compliance: Sonderfall und Edge-Case-Pr체fung
+### Compliance: Sonderfall und Edge-Case-Pr체fung
 
 ## Spezialwissen: Compliance: Sonderfall und Edge-Case-Pr체fung
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG, UNCIT.

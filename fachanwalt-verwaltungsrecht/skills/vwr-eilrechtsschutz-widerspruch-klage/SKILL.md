@@ -28,7 +28,7 @@ description: "VWR Eilrechtsschutz Widerspruch Klage im Plugin Fachanwalt Verwalt
 
 **Fokus:** Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte für Eilantrag.
 
-# Verwaltungsrecht: Eilrechtsschutz
+### Verwaltungsrecht: Eilrechtsschutz
 
 ## Spezialwissen: Verwaltungsrecht: Eilrechtsschutz
 - **Normen-/Quellenanker:** VwGO.
@@ -76,7 +76,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorläufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorläufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo.
 
-# Widerspruch oder Klage — Erstprüfung
+### Widerspruch oder Klage — Erstprüfung
 
 ## Zweck
 

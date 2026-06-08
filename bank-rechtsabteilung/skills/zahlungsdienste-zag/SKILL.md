@@ -28,7 +28,7 @@ description: "Zahlungsdienste ZAG im Plugin Bank Rechtsabteilung im Bank-Rechtsa
 
 **Fokus:** Zahlungsdienste nach ZAG, PSD2-Folgefragen, PSD3- und PSR-Entwicklungen prüfen: Rollen, Erlaubnis, starke Kundenauthentifizierung, Haftung, Betrugsfälle und Beschwerdeantworten.
 
-# Zahlungsdienste und ZAG
+### Zahlungsdienste und ZAG
 
 ## Fachkern: Zahlungsdienste und ZAG
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.

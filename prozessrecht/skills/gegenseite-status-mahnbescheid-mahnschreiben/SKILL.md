@@ -108,7 +108,7 @@ Datei: `gegenseite-status/[JJJJ-MM-TT]/[slug].md`
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
-# [Mandatsbezeichnung] — Statusanfrage externe Bevollmächtigte — [JJJJ-MM-TT]
+### [Mandatsbezeichnung] — Statusanfrage externe Bevollmächtigte — [JJJJ-MM-TT]
 
 **An:** [externe_bevollmaechtigte.email] ([Partner], [Sozietät])
 **Von:** [Unterzeichner Name/E-Mail aus Kanzleikonfiguration]
@@ -134,7 +134,7 @@ Falls die Outlook-MCP-Integration authentifiziert ist:
 Nach Verarbeitung aller Mandate: `gegenseite-status/[JJJJ-MM-TT]/_zusammenfassung.md`
 
 ```markdown
-# Statusanfrage Externe Bevollmächtigte — Lauf [JJJJ-MM-TT]
+### Statusanfrage Externe Bevollmächtigte — Lauf [JJJJ-MM-TT]
 
 **Mandate verarbeitet:** [N]
 **Entwürfe erstellt:** [N]

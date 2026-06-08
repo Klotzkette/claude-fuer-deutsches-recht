@@ -30,7 +30,7 @@ description: "Lohn Arbeitszeit Mandat Triage im Plugin Arbeitsrecht: prüft konk
 
 **Fokus:** Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall), Tarifverträge, Überstunden. Antwort mit der maßgeblichen Norm und Zitat.
 
-# /arbeitsrecht:lohn-arbeitszeit-fragen
+### /arbeitsrecht:lohn-arbeitszeit-fragen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:lohn-arbeitszeit-fragen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -175,7 +175,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kündigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung).
 
-# Mandat-Triage Arbeitsrecht
+### Mandat-Triage Arbeitsrecht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Arbeitsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -365,7 +365,7 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 **Fokus:** Prüfungslinie für massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Massenentlassung § 17 KSchG
+### Massenentlassung § 17 KSchG
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Massenentlassung § 17 KSchG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -611,7 +611,7 @@ Schriftlich an Betriebsrat:
 
 **Fokus:** Prüfungslinie für mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Mindestlohn und Arbeitszeit-Erfassung
+### Mindestlohn und Arbeitszeit-Erfassung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mindestlohn und Arbeitszeit-Erfassung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

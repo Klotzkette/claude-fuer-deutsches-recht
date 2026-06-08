@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Private: Dokumentenmatrix, L체ckenliste und Nachforderung im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Private: Dokumentenmatrix, L체ckenliste und Nachforderung
+### Private: Dokumentenmatrix, L체ckenliste und Nachforderung
 
 ## Spezialwissen: Private: Dokumentenmatrix, L체ckenliste und Nachforderung
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Pruefen: Formular, Portal und Einreichungslogik
+### Pruefen: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Pruefen: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt versicherungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
+### Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** VVG, VAG.

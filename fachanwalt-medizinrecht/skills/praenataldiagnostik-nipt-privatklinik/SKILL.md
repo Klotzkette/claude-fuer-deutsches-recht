@@ -28,7 +28,7 @@ description: "Praenataldiagnostik Nipt Privatklinik im Medizinrecht: prüft konk
 
 **Fokus:** Pränataldiagnostik und NIPT: moderner Medizinrechts-Skill für Nichtinvasive Pränataltests, Aufklärung, Beratung, Kostenerstattung und Konfliktlagen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Pränataldiagnostik und NIPT
+### Pränataldiagnostik und NIPT
 
 ## Fachkern: Pränataldiagnostik und NIPT
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -82,7 +82,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Privatklinik Paketpreis: moderner Medizinrechts-Skill für Pauschalangebot, GOÄ, Wahlleistung, IGeL, Kostentransparenz und Rückforderung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Privatklinik Paketpreis
+### Privatklinik Paketpreis
 
 ## Fachkern: Privatklinik Paketpreis
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

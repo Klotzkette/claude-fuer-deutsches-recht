@@ -28,7 +28,7 @@ description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenre
 
 **Fokus:** Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren. Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Output: Zeilenprompts-Dokument. Abgrenzung: nicht Spaltenprompts.
 
-# /tabellenreview-3d:zeilenprompts-definieren
+### /tabellenreview-3d:zeilenprompts-definieren
 
 ## Triage zu Beginn
 

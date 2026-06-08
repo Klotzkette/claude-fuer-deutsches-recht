@@ -29,7 +29,7 @@ description: "AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschafts
 
 **Fokus:** Vorstandsvertrag AG vorbereiten: §§ 84 ff. AktG, Bestellung und Anstellung trennen, Vergueng (fix, variabel, ESG-LTI), D and O Versicherung, Tantieme Caps nach VorstAG, Anstellungsbedingungen Compliance, Sonderkuendigung bei wichtigem Grund. Mustertexte und Verhandlungsstrategie.
 
-# AG: Vorstandsvertrag
+### AG: Vorstandsvertrag
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AG: Vorstandsvertrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung. Mustertexte und Pruefraster für Hauptaktionaer und Minderheitsgesellschafter.
 
-# HGR: Aktionsbindungsvertrag
+### HGR: Aktionsbindungsvertrag
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HGR: Aktionsbindungsvertrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -142,7 +142,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along. Klausel-für-Klausel Erklaerung und Klauselrisiken.
 
-# HGR: Gesellschaftervertrag-Tour
+### HGR: Gesellschaftervertrag-Tour
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HGR: Gesellschaftervertrag-Tour` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

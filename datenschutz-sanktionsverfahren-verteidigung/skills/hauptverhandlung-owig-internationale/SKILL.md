@@ -30,7 +30,7 @@ description: "Hauptverhandlung Owig Internationale im Datenschutz-Sanktionsverfa
 
 **Fokus:** Hauptverhandlung § 71 OWiG: Hauptverhandlung mit StPO-Logik, Beweisaufnahme, Zeugen, Sachverständigen und Anträgen vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Hauptverhandlung § 71 OWiG
+### Hauptverhandlung § 71 OWiG
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Internationale Datenpanne und Multi-Notification: Meldungen in mehreren Jurisdiktionen ohne widersprüchliche Sachverhalte und mit Lead-Authority-Strategie planen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Internationale Datenpanne und Multi-Notification
+### Internationale Datenpanne und Multi-Notification
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Interne Untersuchung und Legal Hold: Dokumentensicherung, E-Mail, Tickets, Logs, Backups, DSB-Hinweise und Vorstandsvorlagen organisieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Interne Untersuchung und Legal Hold
+### Interne Untersuchung und Legal Hold
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Irische DPC und deutsche Aufsicht: Plattform-/SaaS-Fälle mit irischer Hauptniederlassung und deutscher Beschwerde routen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Irische DPC und deutsche Aufsicht
+### Irische DPC und deutsche Aufsicht
 
 ## Aufgabe
 

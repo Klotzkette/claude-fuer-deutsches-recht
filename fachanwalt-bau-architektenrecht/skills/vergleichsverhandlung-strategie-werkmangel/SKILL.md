@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Ba
 
 **Fokus:** Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten.
 
-# Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht
+### Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -240,7 +240,7 @@ Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
 
 **Fokus:** Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag.
 
-# Werkmangel — VOB/B oder BGB?
+### Werkmangel — VOB/B oder BGB?
 
 ## Mandantenfragen beim Kaltstart
 

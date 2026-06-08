@@ -28,7 +28,7 @@ description: "Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret
 
 **Fokus:** Einbürgerung Start: Prüfungslinie für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Einbürgerung Start
+### Einbürgerung Start
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit.
@@ -62,7 +62,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Fachkräfte-Start: Prüfungslinie für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Fachkräfte-Start
+### Fachkräfte-Start
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum.

@@ -27,7 +27,7 @@ Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsf
 
 ---
 
-# Mandantenkommunikations-Logbuch
+### Mandantenkommunikations-Logbuch
 
 ## Zweck
 

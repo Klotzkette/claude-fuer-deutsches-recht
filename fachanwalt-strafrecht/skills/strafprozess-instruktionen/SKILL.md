@@ -31,7 +31,7 @@ description: "Strafprozess Instruktionen im Strafrecht: prüft konkret Mandanten
 
 **Fokus:** Mandantenkommunikation im Strafverfahren: erstellt klare Instruktionen zu Schweigen, Vernehmung, Haftbesuch, Hauptverhandlung, Familie, Arbeitgeber, Presse, Social Media, Auflagen, Bewährung und Verfahrensentscheidungen.
 
-# Mandantenkommunikation und Instruktionen
+### Mandantenkommunikation und Instruktionen
 
 ## Zweck
 
@@ -87,7 +87,7 @@ Bei U-Haft:
 
 **Fokus:** Pflichtverteidigung operativ prüfen und durchsetzen: notwendige Verteidigung, Beiordnungsantrag, Vorschlagsrecht, Eilbestellung, Verteidigerwechsel, Entpflichtung, Interessenkollision und Mandantenkommunikation nach §§ 140 ff. StPO.
 
-# Pflichtverteidigung: Beiordnung und Wechsel
+### Pflichtverteidigung: Beiordnung und Wechsel
 
 ## Zweck
 
@@ -144,7 +144,7 @@ Nicht emotional formulieren. Prüfen:
 
 **Fokus:** Sitzungsprotokoll und Revisionssicherung: beobachtet Hauptverhandlung, Protokollierungsfragen, absolute und relative Revisionsrisiken, Anträge, Beschlüsse, Belehrungen, Verständigung, letztes Wort und Nachbereitung nach §§ 273 ff. StPO.
 
-# Sitzungsprotokoll und Revisionssicherung
+### Sitzungsprotokoll und Revisionssicherung
 
 ## Zweck
 
@@ -207,7 +207,7 @@ To-do:
 
 **Fokus:** Verhandlungslog für Kontakte mit Staatsanwaltschaft, Gericht, Nebenklage, Bewährungshilfe und Sachverständigen: dokumentiert Angebote, Zusagen, Verständigungsgespräche, § 153a-StPO-Auflagen, § 257c-StPO-Risiken und nächste Schritte.
 
-# Verhandlungslog StA, Gericht und Nebenklage
+### Verhandlungslog StA, Gericht und Nebenklage
 
 ## Zweck
 
@@ -260,7 +260,7 @@ Nächster Schritt:
 
 **Fokus:** Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs. Neuer Vortrag neue Tatsachen oder geaenderte Sachlage als legitime Begruendung. Sauber argumentieren warum die fruehere Ablehnung den jetzigen Antrag nicht trifft. Praktische Mustertexte. Folgen wenn Gericht die Wiederholung als Verschleppung wertet. Revisionsrelevanz § 244 StPO.
 
-# Antrag wiederholen ohne Missbrauchsvorwurf
+### Antrag wiederholen ohne Missbrauchsvorwurf
 
 ## Kaltstart-Rueckfragen
 

@@ -28,7 +28,7 @@ description: "Word im NDA-Abgleich im NDA-Abgleich: prüft konkret die einschlä
 
 **Fokus:** Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Word: Zahlen, Schwellenwerte und Berechnung
+### Word: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Word: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.

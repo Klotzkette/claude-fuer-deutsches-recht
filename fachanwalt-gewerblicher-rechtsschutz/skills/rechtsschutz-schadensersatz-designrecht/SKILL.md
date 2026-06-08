@@ -29,7 +29,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 
 **Fokus:** Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr.
 
-# Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz
+### Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz
 
 ## Aufgabe
 Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften und Zuständigkeiten in allen Teilbereichen des gewerblichen Rechtsschutzes.
@@ -152,7 +152,7 @@ Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften
 
 **Fokus:** Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten.
 
-# Schadensersatz: Abschlussprodukt und Übergabe
+### Schadensersatz: Abschlussprodukt und Übergabe
 
 ## Aufgabe
 Dieser Skill behandelt den Abschluss eines Schadensersatzverfahrens im gewerblichen Rechtsschutz: Bezifferung, Vergleich, Zahlungsvereinbarung, Vollstreckung und Mandantenübergabe.
@@ -293,7 +293,7 @@ III. Übergabe an Mandant
 
 **Fokus:** Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis.
 
-# Designrecht in der Praxis
+### Designrecht in der Praxis
 
 ## Aufgabe
 Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`: Designrecht nach DesignG und GGV, Schutzvoraussetzungen Neuheit und Eigenart, Verletzung, Durchsetzung und Strategiewahl.

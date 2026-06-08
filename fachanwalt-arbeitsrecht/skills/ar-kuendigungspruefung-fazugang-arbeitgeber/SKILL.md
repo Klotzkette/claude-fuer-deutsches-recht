@@ -38,7 +38,7 @@ description: "AR Kuendigungspruefung Fazugang Arbeitgeber im Plugin Fachanwalt A
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Arbeitsrecht — Allgemein
+### Fachanwalt Arbeitsrecht — Allgemein
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Arbeitsrecht — Allgemein` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -185,7 +185,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Kündigungsprüfung: Schritt-für-Schritt vom Zugang der Kündigung bis zur Klageerhebung oder Vergleichsstrategie. Schriftform § 623 BGB, KSchG-Anwendbarkeit § 23, Betriebsratsanhörung § 102 BetrVG, Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz, Massenentlassung § 17 KSchG.
 
-# AR: Kündigungsprüfung — Workflow
+### AR: Kündigungsprüfung — Workflow
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Kündigungsprüfung — Workflow` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -318,7 +318,7 @@ Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (§ 242 BGB, § 138 BG
 
 **Fokus:** Arbeitgeber-Zustellworkflow: rechtssichere Organisation der Kündigungszustellung, Parallelwege (Bote + Einschreiben + Gerichtsvollzieher), Checklisten, Kuvertierungsprotokoll, Risikomanagement bei mehreren Empfängern (Massenentlassung).
 
-# Arbeitgeber-Zustell— Rechtssicher organisieren
+### Arbeitgeber-Zustell— Rechtssicher organisieren
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitgeber-Zustell— Rechtssicher organisieren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

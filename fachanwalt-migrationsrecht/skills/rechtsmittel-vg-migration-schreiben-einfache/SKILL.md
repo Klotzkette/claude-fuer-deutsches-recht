@@ -31,7 +31,7 @@ description: "Rechtsmittel VG Migration Schreiben Einfache im Migrationsrecht: p
 
 **Fokus:** Rechtsmittel VG: Prüfungslinie für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Rechtsmittel VG
+### Rechtsmittel VG
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung.
@@ -65,7 +65,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Red-Team Migration: Prüfungslinie für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Red-Team Migration
+### Red-Team Migration
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen.
@@ -99,7 +99,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
@@ -134,7 +134,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Schreiben einfache Sprache
+### Schreiben einfache Sprache
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: übersetzt Ergebnisse in klare, nicht einschüchternde Sprache.
@@ -168,7 +168,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Sozialrecht-Schnittstelle
+### Sozialrecht-Schnittstelle
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung.

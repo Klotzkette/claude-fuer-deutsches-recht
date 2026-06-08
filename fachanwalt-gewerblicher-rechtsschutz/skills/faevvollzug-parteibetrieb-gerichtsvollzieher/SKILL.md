@@ -29,7 +29,7 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 
 **Fokus:** Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung.
 
-# Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
+### Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
 
 ## Aufgabe
 Dieser Skill steuert den Parteibetrieb bei der Vollziehung einstweiliger Verfügungen und Unterlassungstiteln: GV-Beauftragung, Zustellnachweis, Vollziehungsprotokoll und Vorbereitung des Ordnungsmittelantrags.
@@ -150,7 +150,7 @@ Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
 
 **Fokus:** BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz.
 
-# BeA und Elektronischer Rechtsverkehr bei EV-Zustellung
+### BeA und Elektronischer Rechtsverkehr bei EV-Zustellung
 
 ## Aufgabe
 Dieser Skill behandelt den elektronischen Rechtsverkehr (ERV) beim Einreichen und Zustellen von einstweiligen Verfügungen: beA (besonderes elektronisches Anwaltspostfach), ERVV, sichere Übermittlungswege und Formvorschriften.
@@ -249,7 +249,7 @@ Datum des Empfangs (= Zustellungsdatum): [Datum]
 
 **Fokus:** Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren.
 
-# Vollstreckung aus Unterlassungsverfügung: Ordnungsmittel
+### Vollstreckung aus Unterlassungsverfügung: Ordnungsmittel
 
 ## Aufgabe
 Dieser Skill behandelt die Vollstreckung aus Unterlassungstiteln (einstweilige Verfügung oder Urteil) nach § 890 ZPO: Voraussetzungen, Nachweis der Zuwiderhandlung, Antragstellung und Höhe des Ordnungsmittels.

@@ -31,7 +31,7 @@ description: "Verbundabtrennung Versorgungsausgleich im Plugin Fachanwalt Famili
 
 **Fokus:** Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Verbundabtrennung Versorgungsausgleich
+### Verbundabtrennung Versorgungsausgleich
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verbundabtrennung Versorgungsausgleich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG
+### Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -133,7 +133,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
+### Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -309,7 +309,7 @@ Klassische Stolperfalle in Familien-, Kindschafts- und Versorgungsausgleichsrech
 
 **Fokus:** Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.; Normanker: VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.
+### Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -344,7 +344,7 @@ VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung. Rechtsprechung wird nur
 
 **Fokus:** Versorgungsausgleich und Versorgungsausgleichskasse: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Versorgungsausgleich und Versorgungsausgleichskasse
+### Versorgungsausgleich und Versorgungsausgleichskasse
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versorgungsausgleich und Versorgungsausgleichskasse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

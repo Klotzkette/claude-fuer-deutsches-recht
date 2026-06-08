@@ -29,7 +29,7 @@ description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Am
 
 **Fokus:** Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere Übermittlungswege qualifizierte elektronische Signatur Bedeutung der Eingangsbestätigung. Abgrenzung zu Email und einfachem Scan. Wann ist elektronische Einreichung fristwahrend.
 
-# Elektronische Einreichung nach § 130a ZPO
+### Elektronische Einreichung nach § 130a ZPO
 
 ## Worum geht es?
 
@@ -147,7 +147,7 @@ Stand: 05/2026. § 130a ZPO seit Gesetz zur Förderung des elektronischen Rechts
 
 **Fokus:** Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung.
 
-# Einreichung per Fax — was noch geht
+### Einreichung per Fax — was noch geht
 
 ## Worum geht es?
 
@@ -254,7 +254,7 @@ Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber
 
 **Fokus:** Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger seit 2024. Sichere elektronische Einreichung von Klagen und Schriftsaetzen an Gerichte. BundID-Login Postfach-Funktion Versandbestätigung und Zustellung.
 
-# Mein Justizpostfach (MJP): elektronisch beim Gericht einreichen
+### Mein Justizpostfach (MJP): elektronisch beim Gericht einreichen
 
 ## Worum geht es?
 

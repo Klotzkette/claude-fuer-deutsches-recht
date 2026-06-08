@@ -30,7 +30,7 @@ description: "BGB BAU Einfuehrung Bautraeger Eigenkapital im Plugin Fachanwalt B
 
 **Fokus:** BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# BGB: Fristen, Form, Zuständigkeit und Rechtsweg
+### BGB: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: BGB: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -67,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag. Pro Typ Aufbau, Pflichten, Vergueng, Kuendigung.
 
-# Bau: Vertragstypen einfuehrend
+### Bau: Vertragstypen einfuehrend
 
 ## Spezialwissen: Bau: Vertragstypen einfuehrend
 - **Normen-/Quellenanker:** BGB, VOB.
@@ -115,7 +115,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Skill klaert was Erwerber selbst pruefen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale. Liefert Pruefliste.
 
-# Bautraeger Eigenkapital Ueberpruefung Vor Vertrag
+### Bautraeger Eigenkapital Ueberpruefung Vor Vertrag
 
 ## Was pruefen
 
@@ -153,7 +153,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bautraegervertrag notarieller Pruefraster Grundlagen. Skill bietet das systematische Pruefraster für den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherheitsleistung Vormerkung Auflassung Abnahme Maengelhaftung Sonderwuensche. Liefert Checkliste.
 
-# Bautraeger Notarvertrag Grundlagen Pruefraster
+### Bautraeger Notarvertrag Grundlagen Pruefraster
 
 ## Pruefraster
 

@@ -29,7 +29,7 @@ description: "Transr Haftungssystem Erstgespraech im Plugin Fachanwalt Transport
 
 **Fokus:** Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff. HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Pruefraster Schadensermittlung und Anspruchsberechnung.
 
-# Transport: Haftungssystem
+### Transport: Haftungssystem
 
 ## Spezialwissen: Transport: Haftungssystem
 - **Normen-/Quellenanker:** HGB, SZR.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Prüfraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift.
 
-# Erstgespraech und Mandatsannahme im Transport-, Speditions- und Logistikrecht
+### Erstgespraech und Mandatsannahme im Transport-, Speditions- und Logistikrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -241,7 +241,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 **Fokus:** Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Prüfraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtführerhaftung HGB.
 
-# ADR-Gefahrgut-Transport
+### ADR-Gefahrgut-Transport
 
 ## Zweck
 

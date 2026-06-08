@@ -101,7 +101,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Expert Calls und Transkripte
+### Expert Calls und Transkripte
 
 ## Triage — klaere vor Expert Call
 

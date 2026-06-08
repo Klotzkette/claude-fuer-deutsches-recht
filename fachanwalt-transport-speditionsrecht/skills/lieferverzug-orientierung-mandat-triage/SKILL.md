@@ -29,7 +29,7 @@ description: "Lieferverzug Orientierung Mandat Triage im Plugin Fachanwalt Trans
 
 **Fokus:** Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Prüfraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden.
 
-# Lieferverzug
+### Lieferverzug
 
 ## Kaltstart-Rückfragen
 
@@ -126,7 +126,7 @@ Mit freundlichen Gruessen
 
 **Fokus:** Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillauswahl-Empfehlung Transport-Speditionsrecht. Abgrenzung: kein inhaltlicher Prüf-Skill.
 
-# Fachanwalt für Transport- und Speditionsrecht — Orientierung
+### Fachanwalt für Transport- und Speditionsrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -195,7 +195,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Prüfraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme.
 
-# Mandat-Triage Transport- und Speditionsrecht
+### Mandat-Triage Transport- und Speditionsrecht
 
 ## Zweck
 

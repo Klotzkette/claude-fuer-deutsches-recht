@@ -30,7 +30,7 @@ description: "OLG Orientierung im Plugin Fachanwalt Vergaberecht: prüft konkret
 
 **Fokus:** Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: §§ 171-184 GWB (Beschwerde), § 172 GWB (Frist zwei Wochen ab Zustellung), § 173 GWB (aufschiebende Wirkung), § 176 GWB (Verlaengerung), § 178 GWB (Entscheidung). Pruefraster: Beschwerdebefugnis, Frist, Form, Begruendungstiefe, Antraege, aufschiebende Wirkung beantragen, Eilantrag § 173 Abs. 1 S. 3 GWB. Output Beschwerdeschriftsatz-Geruest, Fristenkalender, Antraege-Set. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; Schadensersatz siehe fachanwalt-vergaberecht-schadensersatz-181-gwb.
 
-# Sofortige Beschwerde OLG-Vergabesenat
+### Sofortige Beschwerde OLG-Vergabesenat
 
 ## Aufgabe
 Bereite eine sofortige Beschwerde gegen eine Vergabekammer-Entscheidung vor oder verteidige sie. Frist zwei Wochen ab Zustellung ist nicht verlaengerbar. Aufschiebende Wirkung muss separat beantragt werden.
@@ -111,7 +111,7 @@ BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und 
 
 **Fokus:** Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin.
 
-# Fachanwalt für Vergaberecht — Orientierung
+### Fachanwalt für Vergaberecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -210,7 +210,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begründen. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Prüfraster: Konkrete Vergabestoerung, Norm-Bezeichnung, Beweismittel, Antrag auf Abhilfe, unverzuegliche Einreichung. Output Ruegeschriftsatz, Begleitschreiben. Abgrenzung: Ersteinschaetzung Ruege-Erfordernis siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Nachprüfungsantrag danach siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk.
 
-# Ruegeschriftsatz § 160 III GWB
+### Ruegeschriftsatz § 160 III GWB
 
 ## Zweck
 
@@ -394,7 +394,7 @@ Mit freundlichen Gruessen
 
 **Fokus:** Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verkehr/Post oder Bieter will SektVO-konformes Verfahren oder Ruege. Normen: §§ 100-104 GWB (Sektorenauftraggeber), SektVO, RL 2014/25/EU. Pruefraster: Sektorenauftraggeberbegriff § 100 GWB, ausschliesslicher/besonderer Recht, Schwellenwert EUR 432000 ab 01.01.2026, Verfahrenswahl § 13 SektVO, Verhandlungsspielraum, Praequalifikation § 48 SektVO. Output Verfahrensentwurf, Pruefvermerk Verfahrenswahl. Abgrenzung: Allgemein VgV siehe fachanwalt-vergaberecht-orientierung; Konzessionen siehe fachanwalt-vergaberecht-konzessionsvergabe-konzvgv.
 
-# Sektorenvergabe (SektVO)
+### Sektorenvergabe (SektVO)
 
 ## Aufgabe
 Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist der Auftraggeber Sektorenauftraggeber? Greift die SektVO statt der VgV? Welcher Schwellenwert?

@@ -33,7 +33,7 @@ description: "Aktenanlage im Corporate/M&A (Großkanzlei-Praxis): prüft konkret
 
 **Fokus:** W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf.
 
-# W&I-Versicherung
+### W&I-Versicherung
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `W&I-Versicherung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -134,7 +134,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# W&I-Versicherung
+### W&I-Versicherung
 
 ## Zweck
 
@@ -250,7 +250,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter.
 
-# Freistehende M&A-Aktenanlage
+### Freistehende M&A-Aktenanlage
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehende M&A-Aktenanlage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -499,7 +499,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG drohende Zahlungsunfähigkeit. Prüfraster Zahlungsunfähigkeitstest Liquiditaetsstatus, Überschuldungsbilanz Fortführungswille, Antragspflicht-Timing. Output Insolvenzreife-Gutachten mit Ampelstatus Handlungsoptionen und Deal-Auswirkungen. Abgrenzung zu Liquiditaetsvorschau und zu Fortbestehensprognose-Plugin.
 
-# Freistehender Insolvenzreife- und StaRUG-Schwellencheck
+### Freistehender Insolvenzreife- und StaRUG-Schwellencheck
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Insolvenzreife- und StaRUG-Schwellencheck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -761,7 +761,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehende Liquiditaetsvorschau für Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfähigkeits-Übersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO Zahlungsunfähigkeit, § 19 InsO Überschuldung, § 1 StaRUG Sanierung. Prüfraster 3-Wochen-Liquiditaet, 13-Wochen-Cash-Bridge, Runway-Berechnung, OPOS offene Posten, Bankdaten Kreditlinien Insolvenzschwellen. Output Liquiditaetsplan mit Zeitreihe Ampelstatus und Handlungsempfehlungen. Abgrenzung zu Insolvenzreife-Skill für Antragspflicht-Prüfung und zu Fortbestehensprognose-Plugin.
 
-# Freistehende Liquiditätsvorschau
+### Freistehende Liquiditätsvorschau
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehende Liquiditätsvorschau` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -990,7 +990,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehender Corporate-Schreibcanvas für SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. §§ 433 ff. BGB Vertragsrecht, § 93 AktG Organpflichten, BRAO Berufsrecht. Prüfraster unsubstantiierte Behauptungen markieren, fehlende Belege benennen, zu scharfe oder weiche Formulierungen korrigieren. Output kommentierter Entwurf mit konkreten Verbesserungsvorschlaegen. Abgrenzung zu Look-and-Feel für Ausgabeformat und zu Vertragsmarkup-Key-Issues.
 
-# Freistehender Corporate-Schreibcanvas
+### Freistehender Corporate-Schreibcanvas
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Corporate-Schreibcanvas` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1091,7 +1091,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Freistehender Corporate-Schreibcanvas
+### Freistehender Corporate-Schreibcanvas
 
 ## Zweck
 
@@ -1157,7 +1157,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche Zahlen und Inkonsistenzen geprüft werden. SPA Financial Statements, DD-Modelle. Prüfraster Formel-Integritaet prüfen, Dokumenten-Cluster als Zeilen, Workstream-Perspektiven Legal/Tax/Finance als Blaetter, Querverweise prüfen. Output Review-Matrix mit Befunden Ampelstatus und Korrekturbedarf. Abgrenzung zum 3D-Tabellenreview-Datenraum-Skill und zu Datenqualitaet-XAI.
 
-# Freistehender Tabellenreview
+### Freistehender Tabellenreview
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Tabellenreview` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1389,7 +1389,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach § 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen § 8a Abs. 2, Eskalationsstufen, Anhörungs- und Aktenherausgabeanträge, Hinweise für Privatgutachten und Schiedsverfahren mit AI-Disclosure-Klauseln.
 
-# KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
+### KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

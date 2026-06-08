@@ -29,7 +29,7 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 
 **Fokus:** Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen.
 
-# Zugang — Einschreiben-Risiko nach BAG-Linie
+### Zugang — Einschreiben-Risiko nach BAG-Linie
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang — Einschreiben-Risiko nach BAG-Linie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -138,7 +138,7 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 
 **Fokus:** Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung.
 
-# Zugang bei Abwesenheit — Urlaub, Krankheit, Klinik, Ausland
+### Zugang bei Abwesenheit — Urlaub, Krankheit, Klinik, Ausland
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang bei Abwesenheit — Urlaub, Krankheit, Klinik, Ausland` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -237,7 +237,7 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 
 **Fokus:** Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung.
 
-# Zugang — Inhalt des Umschlags bestreiten und Beweisangebot
+### Zugang — Inhalt des Umschlags bestreiten und Beweisangebot
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zugang — Inhalt des Umschlags bestreiten und Beweisangebot` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "ERB Nachlassinventar Pflichtteilsanspruch im Plugin Fachanwalt Erb
 
 **Fokus:** Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses. Excel-Vorlage und Pruefliste für Erbengemeinschaft.
 
-# Erb: Nachlassinventar
+### Erb: Nachlassinventar
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erb: Nachlassinventar` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -86,7 +86,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Hoehe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung. Beispielrechnung.
 
-# Erb: Pflichtteilsberechnung
+### Erb: Pflichtteilsberechnung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erb: Pflichtteilsberechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -143,7 +143,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches Testament § 2232 BGB, Nottestament § 2249 BGB, Berliner Testament § 2269 BGB. Form, Aufbewahrung, Aenderung, Widerruf. Beispieltexte und typische Fehler.
 
-# Erbrecht: Testamentsformen
+### Erbrecht: Testamentsformen
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbrecht: Testamentsformen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

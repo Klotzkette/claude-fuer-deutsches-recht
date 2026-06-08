@@ -29,7 +29,7 @@ description: "Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Vers
 
 **Fokus:** PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ-Kürzung, Tarifwechsel und Rückforderung.
 
-# FA Versicherungsrecht: PKV Beitrag und Leistung
+### FA Versicherungsrecht: PKV Beitrag und Leistung
 
 ## Einsatz
 
@@ -63,7 +63,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Streitwert in Deckungsklage. Schiedsverfahren bei Streit ueber Erfolgsaussicht. Pruefraster.
 
-# Versr: Rechtsschutz-Deckung
+### Versr: Rechtsschutz-Deckung
 
 ## Spezialwissen: Versr: Rechtsschutz-Deckung
 - **Normen-/Quellenanker:** BGH, IV, ZR.
@@ -111,7 +111,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Regress, Legalzession, Quotenvorrecht, Sozialversicherungsträgerregress und Regressabwehr nach Regulierung.
 
-# FA Versicherungsrecht: Regress § 86 VVG
+### FA Versicherungsrecht: Regress § 86 VVG
 
 ## Einsatz
 

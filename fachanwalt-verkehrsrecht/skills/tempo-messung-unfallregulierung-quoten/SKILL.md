@@ -29,7 +29,7 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 
 **Fokus:** Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen.
 
-# Tempo-Messung Beweisanfechtung
+### Tempo-Messung Beweisanfechtung
 
 ## Zweck
 
@@ -187,7 +187,7 @@ Hinweis: Standardisierung nach BGH-Linie bedeutet nur eine Beweis-Erleichterung.
 
 **Fokus:** Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich.
 
-# Unfallregulierung — Quoten
+### Unfallregulierung — Quoten
 
 ## Zweck
 
@@ -325,7 +325,7 @@ Hinweis: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Mode
 
 **Fokus:** Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Prüfraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie).
 
-# Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
+### Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
 
 ## Zweck
 

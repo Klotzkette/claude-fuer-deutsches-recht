@@ -30,7 +30,7 @@ description: "Bautraeger WEG Erstgespraech im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** WEG-Instandhaltungsruecklage zur Uebergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefraster.
 
-# Bautraeger Weg Instandhaltungsruecklage Uebergabe
+### Bautraeger Weg Instandhaltungsruecklage Uebergabe
 
 ## Norm
 
@@ -67,7 +67,7 @@ description: "Bautraeger WEG Erstgespraech im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** WEG-Teilungserklaerung beim Bautraegervertrag pruefen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster.
 
-# Bautraeger Weg Teilungserklaerung Pruefen
+### Bautraeger Weg Teilungserklaerung Pruefen
 
 ## Norm
 
@@ -111,7 +111,7 @@ description: "Bautraeger WEG Erstgespraech im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild. Normen: §§ 631 633 650a ff. BGB, VOB/B. Prüfraster: Werkvertrag vs. Bauvertrag, Mangelkatalog, Fristen, Interessenlage. Output: Erstgespraeches-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Klageschrift oder Gutachten.
 
-# Erstgespraech und Mandatsannahme im Privates Baurecht, Architekten- und Ingenieurrecht
+### Erstgespraech und Mandatsannahme im Privates Baurecht, Architekten- und Ingenieurrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -271,7 +271,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 **Fokus:** Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Prüfraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklärung mit Maengelvorbehalt. Abgrenzung: nicht vollständige Abnahmeverweigerung.
 
-# Abnahme mit Vorbehalt
+### Abnahme mit Vorbehalt
 
 ## Mandantenfragen beim Kaltstart
 

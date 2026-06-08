@@ -36,7 +36,7 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 
 **Fokus:** Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG. Lichtbildner Tontraegerhersteller Sendeunternehmen Filmhersteller Datenbankhersteller ausuebende Kuenstler. Verwertung Vervielfaeltigung Verbreitung ohne Einwilligung. Strafrahmen bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Abgrenzung zu Paragraph 106 UrhG. Verteidigungsstrategien Schutzfrist Beweis der Inhaberschaft.
 
-# Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG
+### Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG
 
 ## Worum geht es
 
@@ -134,7 +134,7 @@ Strafrahmen Paragraph 108 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 
 **Fokus:** Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmäßigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle.
 
-# Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG
+### Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG
 
 ## Worum geht es
 
@@ -245,7 +245,7 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 
 **Fokus:** Unerlaubte Eingriffe in technische Schutzmassnahmen und zur Rechtewahrnehmung erforderliche Informationen nach Paragraph 108b UrhG. Umgehung von DRM Kopierschutz CSS DVD-Schutz Streaming-Verschluesselung. Strafrahmen bis 1 Jahr Freiheitsstrafe gewerblich bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Privatgebrauchsausnahme. Verteidigung Vorsatz Bestimmungsmerkmal.
 
-# Unerlaubte Eingriffe in technische Schutzmassnahmen nach Paragraph 108b UrhG
+### Unerlaubte Eingriffe in technische Schutzmassnahmen nach Paragraph 108b UrhG
 
 ## Worum geht es
 
@@ -342,7 +342,7 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 
 **Fokus:** Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst Nein. Sexueller Uebergriff Abs. 1; Regelbeispiele Abs. 2; sexuelle Noetigung Abs. 5; Qualifikationen Abs. 6 Vergewaltigung; Abs. 7 schwere sexuelle Noetigung; Abs. 8 schwere Vergewaltigung. Strafrahmenstufung. Praxisleitfaden Aussage gegen Aussage.
 
-# Vergewaltigung und sexuelle Noetigung § 177 StGB
+### Vergewaltigung und sexuelle Noetigung § 177 StGB
 
 ## Worum geht es
 
@@ -474,7 +474,7 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 
 **Fokus:** Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB. Wartepflicht und Nachholobliegenheit. Vier Tatbestandsvarianten Absatz 1 Nummer 1 bis 2 und Absatz 2 Nummer 1 bis 2. Bagatellschaden-Streit. Taetige Reue Absatz 4. Verteidigung Vorsatz Unfallbegriff bedeutender Sachschaden Anwesenheit feststellungsbereiter Personen.
 
-# Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB
+### Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB
 
 ## Worum geht es
 
@@ -573,7 +573,7 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 
 **Fokus:** Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB. Konkretes Gefaehrdungsdelikt mit Beinaheunfall. Sieben-Todsuenden-Katalog Absatz 1 Nummer 2. Trunkenheit Fahruntuechtigkeit Absatz 1 Nummer 1 Buchstabe a. Fahrlaessigkeitsvariante Absatz 3. Konkurrenz zu Paragraph 316 StGB und Paragraph 142 StGB. Verteidigungslinien Gefahrnaehe und subjektiver Tatbestand.
 
-# Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB
+### Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB
 
 ## Worum geht es
 
@@ -686,7 +686,7 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 
 **Fokus:** Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB. Reform 2017 hat das Rennen vom Ordnungswidrigkeitenrecht in das Strafrecht gehoben. Drei Tatbestandsvarianten Absatz 1 Nummer 1 bis 3. Polizeiflucht als Einzelrennen. Erfolgsqualifikation Absatz 5 bei Todesfolge. Verteidigung wegen Bestimmtheit Einzelrennen-Variante.
 
-# Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB
+### Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB
 
 ## Worum geht es
 
@@ -789,7 +789,7 @@ Wer fahrlaessig die Gefahr verursacht, wird mit Freiheitsstrafe bis zu drei Jahr
 
 **Fokus:** Trunkenheit im Verkehr nach Paragraph 316 StGB. Abstraktes Gefaehrdungsdelikt ohne konkrete Gefahr. Absolute Fahruntuechtigkeit ab 1.1 Promille Blutalkoholkonzentration; relative Fahruntuechtigkeit ab 0.3 Promille mit Ausfallerscheinungen. Subsidiaritaet zu Paragraph 315c StGB. Verteidigungsstrategien Messung Rueckrechnung Trinkende. Fahrerlaubnisentzug Paragraph 69 StGB.
 
-# Trunkenheit im Verkehr nach Paragraph 316 StGB
+### Trunkenheit im Verkehr nach Paragraph 316 StGB
 
 ## Worum geht es
 
@@ -895,7 +895,7 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 
 **Fokus:** Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat. Voraussetzungen Selbstverschulden Rausch Rauschtat. Strafrahmen-Begrenzung durch Hauptdelikt. Anwendungsfaelle Verkehrsdelikte Gewaltdelikte. Verteidigungsstrategien Schuldunfaehigkeit Paragraph 20 StGB.
 
-# Vollrausch nach Paragraph 323a StGB
+### Vollrausch nach Paragraph 323a StGB
 
 ## Worum geht es
 
@@ -999,7 +999,7 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 
 **Fokus:** Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB als selbstaendiger Tatbestand neben Paragraph 283 StGB. Sanktioniert Unterlassen Verfaelschen Vernichten von Handelsbuechern und Belegen sowie Verstoss gegen Bilanzierungspflicht. Strafdrohung milder Bedeutung in Wirtschaftsstrafverfahren. Verteidigung gegen Buchhaltungsvorwurf.
 
-# Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB
+### Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB
 
 ## Worum geht es konkret
 

@@ -29,7 +29,7 @@ description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkr
 
 **Fokus:** Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten. Pruefraster und Mustertexte für Pachtvertrag und Klage.
 
-# Agrar: Jagdpacht-Streit
+### Agrar: Jagdpacht-Streit
 
 ## Spezialwissen: Agrar: Jagdpacht-Streit
 - **Normen-/Quellenanker:** BJagdG.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills.
 
-# Agrar: Mandantenfragen Routing
+### Agrar: Mandantenfragen Routing
 
 ## Spezialwissen: Agrar: Mandantenfragen Routing
 - **Normen-/Quellenanker:** GLOEZ.
@@ -127,7 +127,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung. Schnittstelle Erbrecht beim Generationenwechsel. Pruefraster mit Belegen.
 
-# Agrar: Paechterbetrieb
+### Agrar: Paechterbetrieb
 
 ## Spezialwissen: Agrar: Paechterbetrieb
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

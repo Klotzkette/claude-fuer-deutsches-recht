@@ -31,7 +31,7 @@ description: "DSV Dsfa Update Erstgespraech Vorfallmeldung im Plugin Fachanwalt 
 
 **Fokus:** Aktualisiert die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Erforderlichkeit der DSFA bei voraussichtlich hohem Risiko; Anpassung der Risikoanalyse; Abhilfemaßnahmen; Konsultation der Aufsichtsbehörde nach Art. 36 DSGVO bei verbleibendem hohem Risiko; Verknüpfung mit VVT und Vorfallregister. Output: DSFA-Update-Vorlage mit Pflichtfeldern. Abgrenzung: keine neue DSFA; kein Verfahrensverzeichnis.
 
-# Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren
+### Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -85,7 +85,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedarfsklassen; geschätzte Anzahl betroffener Personen; Auftragsverarbeiter-Konstellation; Konzernbezug Art. 56 DSGVO; bereits eingeleitete Sofortmaßnahmen; Beweissicherung; Pressekontakte; aufsichtsbehördliche Vorkontakte. Output: strukturiertes Gesprächsprotokoll mit Lücken-Liste. Abgrenzung: keine eigene Risikobewertung; keine Behördenmeldung.
 
-# Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog
+### Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -149,7 +149,7 @@ Versicherung: Cyberpolice; Meldepflicht-Trigger?
 
 **Fokus:** Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern. Behandelt: Schwellenwerte für Eskalation; Erreichbarkeit außerhalb der Bürozeiten; Stellvertreter; Wochenend- und Feiertagsregelung; Eskalationsprotokoll; Ausweichkommunikation bei IT-Ausfall. Output: Matrix mit Stufen und Verantwortlichen plus Erreichbarkeitsplan. Abgrenzung: keine konkrete Stakeholder-Information.
 
-# Eskalationsmatrix Datenschutzvorfall
+### Eskalationsmatrix Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -200,7 +200,7 @@ Erreichbarkeit: Hauptkontakt + zwei Stellvertreter je Stufe; 24/7-Rufbereitschaf
 
 **Fokus:** Pflegt das interne Vorfallregister nach Art. 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; Aufbewahrungsfristen; Schnittstelle zu Risikomanagement; Vorlage auf Anforderung der Aufsichtsbehörde; Versionierung. Output: Vorlage Vorfallregister mit Pflichtfeldern. Abgrenzung: kein Verfahrensverzeichnis Art. 30.
 
-# Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister
+### Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -249,7 +249,7 @@ Versionierung: jede Änderung mit Datum und Bearbeiter; alte Versionen revisions
 
 **Fokus:** Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der Nichtmeldung; Risikoabwägung mit Faktoren; Aufbewahrungsfristen; Vorlage für Aufsichtsbehörde auf Anforderung. Output: vollständige Dokumentationsvorlage. Abgrenzung: keine Behördenmeldung; keine Benachrichtigung.
 
-# Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO
+### Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 

@@ -29,7 +29,7 @@ description: "Waehrend Insolvenz Verjährung Alttitel im Plugin Verbraucherinsol
 
 **Fokus:** Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.; Normanker: InsO §§ 300 und 213 und 299; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.
+### Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.
 
 ## Fachkern: Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO §§ 300, 213, 299. Entscheidend ist immer der aktuelle Normstand der InsO,
 
 **Fokus:** Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.; Normanker: BGB §§ 195 und 197 und 199 und 212; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.
+### Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.
 
 ## Fachkern: Verjährung und Alttitel: dreißigjähriger Titel, Zinsverjährung, Hemmung und Vergleichsverhandlung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ BGB §§ 195, 197, 199, 212. Entscheidend ist immer der aktuelle Normstand der I
 
 **Fokus:** Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.; Normanker: InsO §§ 290 und 296 und 297 und 297a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.
+### Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.
 
 ## Fachkern: Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

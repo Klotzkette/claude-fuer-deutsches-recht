@@ -30,7 +30,7 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 
 **Fokus:** OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten.
 
-# OLG-Vergabesenat Briefing
+### OLG-Vergabesenat Briefing
 
 ## Zweck
 
@@ -93,7 +93,7 @@ Beschwerdebriefing, Fristenplan, Argumentmatrix, Entwurfsgliederung.
 
 **Fokus:** Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe.
 
-# Resilienz und kritische Infrastruktur
+### Resilienz und kritische Infrastruktur
 
 ## Zweck
 
@@ -156,7 +156,7 @@ Risikomatrix, Sicherheitsanforderungen, Beleglogik, Ruge-/Verteidigungslinien.
 
 **Fokus:** Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertprüfung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachprüfungsstrategie enthalten.
 
-# Rügeschriftsatz nach § 160 Abs. 3 GWB
+### Rügeschriftsatz nach § 160 Abs. 3 GWB
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -594,7 +594,7 @@ Halluzinations-Reparatur Bundle 026:
 
 **Fokus:** Substantiierter Schriftsatzkern für Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
+### Schriftsatzkern und Substantiierung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
 ## Wann dieser Arbeitsgang greift
 

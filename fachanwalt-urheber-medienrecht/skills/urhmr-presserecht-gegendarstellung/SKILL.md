@@ -29,7 +29,7 @@ description: "Urhmr Presserecht Gegendarstellung im Plugin Fachanwalt Urheber Me
 
 **Fokus:** Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext.
 
-# UrhMR: Gegendarstellung
+### UrhMR: Gegendarstellung
 
 ## Spezialwissen: UrhMR: Gegendarstellung
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Pruefraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung. Mustertext Abmahnung Presse.
 
-# UrhMR: Presserechtsbrief
+### UrhMR: Presserechtsbrief
 
 ## Spezialwissen: UrhMR: Presserechtsbrief
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation. Pruefraster und Mustertexte für Mandanten als Berechtigte und Nutzer.
 
-# UrhMR: Verwertungsges.
+### UrhMR: Verwertungsges.
 
 ## Spezialwissen: UrhMR: Verwertungsges.
 - **Normen-/Quellenanker:** GEMA, VG.

@@ -30,7 +30,7 @@ description: "Mandantenpadlet Vergabe Triage Vergaberecht im Plugin Fachanwalt V
 
 **Fokus:** Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
 
-# Mandantenpadlet Vergabe-Canvas
+### Mandantenpadlet Vergabe-Canvas
 
 ## Zweck
 
@@ -93,7 +93,7 @@ Padlet-Board in Markdown, Aufgabenliste, Ampeln, Tabellen, naechste Entscheidung
 
 **Fokus:** Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen.
 
-# Mandat-Triage Vergaberecht
+### Mandat-Triage Vergaberecht
 
 ## Zweck
 
@@ -275,7 +275,7 @@ Naechster Schritt: [Ruege / NPA / §181-Klage]
 
 **Fokus:** Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise.
 
-# Nachhaltigkeit, Tariftreue und Lieferkette
+### Nachhaltigkeit, Tariftreue und Lieferkette
 
 ## Zweck
 
@@ -338,7 +338,7 @@ Kriterienmatrix, Nachweislogik, Verhaeltnismaessigkeitscheck, Textbausteine.
 
 **Fokus:** Nachpruefungsantrag als Powerdraft erstellen: Zulassung, Antragsbefugnis, Ruge, Fristen, Sachantraege, Akteneinsicht, Beweisangebote und Eilantraege.
 
-# Nachpruefungsantrag Powerdraft
+### Nachpruefungsantrag Powerdraft
 
 ## Zweck
 

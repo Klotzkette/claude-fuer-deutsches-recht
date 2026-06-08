@@ -31,7 +31,7 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 **Fokus:** Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen.
 
-# Datenschutz: SCHUFA-Insolvenzdaten löschen
+### Datenschutz: SCHUFA-Insolvenzdaten löschen
 
 ## Einsatz
 
@@ -65,7 +65,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA.
 
-# Scoring und Art. 22 DSGVO nach EuGH C-634/21
+### Scoring und Art. 22 DSGVO nach EuGH C-634/21
 
 ## Einsatz
 
@@ -99,7 +99,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht für Neuerstellung von Dokumentation.
 
-# Customize – Praxisprofil anpassen
+### Customize – Praxisprofil anpassen
 
 ## Zweck
 
@@ -221,7 +221,7 @@ Durchgefuehrt von: [SACHBEARBEITER]
 
 **Fokus:** Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung.
 
-# Mandat-Arbeitsbereich – Mehrmandat-Kanzlei
+### Mandat-Arbeitsbereich – Mehrmandat-Kanzlei
 
 ## Zweck
 
@@ -273,7 +273,7 @@ Skills arbeiten im kanzlei-weiten Praxisprofil ohne mandatsspezifischen Kontext.
 ## Matter.md-Struktur
 
 ```markdown
-# Mandat: [Mandat-ID]
+### Mandat: [Mandat-ID]
 
 ## Mandant
 - **Name:** [Mandantenname]
@@ -375,7 +375,7 @@ Letzter Wechsel: [DATUM, UHRZEIT]
 
 **Fokus:** English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR. Used when neither Article 26 nor Article 28 GDPR applies but the parties want a contractual data sharing framework. Output: complete English template covering lawful basis allocation transparency security and breach notification.
 
-# Data Sharing Agreement – English Template Controller / Controller
+### Data Sharing Agreement – English Template Controller / Controller
 
 ## Zweck / Purpose
 

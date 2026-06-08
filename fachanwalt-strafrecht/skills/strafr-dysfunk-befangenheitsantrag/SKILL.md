@@ -31,7 +31,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 **Fokus:** Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Verteidigung auszusetzen. Konkrete Tatsachen die aus Sicht eines vernuenftigen Beschuldigten Misstrauen gegen die Unparteilichkeit rechtfertigen. Trennscharf gegenueber Verfahrenskritik. Schriftsatz mit Eidesstattlicher Versicherung. Folgen der Verwerfung nach § 26a StPO als unzulaessig. Selektion welcher Anlass tatsaechlich tragfaehig ist.
 
-# Befangenheitsantrag zielgenau und nicht ausufernd
+### Befangenheitsantrag zielgenau und nicht ausufernd
 
 ## Kaltstart-Rueckfragen
 
@@ -83,7 +83,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 **Fokus:** § 137 Abs. 1 StPO als zentrales Schutzschild gegen den Vorwurf dysfunktionaler Strafverteidigung nutzen. Verteidiger leistet Beistand des Beschuldigten in jeder Lage des Verfahrens. Privilegierung schuetzt aktives Eintreten gegen Belastung. Sie endet erst wenn der Verteidiger sich bewusst ausserhalb der Rechtsordnung stellt. Argumentation in Schriftsatz und Senatsdialog. Auch harte Antraege im Schutzbereich. Reichweite gegenueber § 138a StPO und § 143a StPO.
 
-# Beistandsleistung nach § 137 StPO als Schutzschild
+### Beistandsleistung nach § 137 StPO als Schutzschild
 
 ## Kaltstart-Rueckfragen
 
@@ -138,7 +138,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 **Fokus:** Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte für Schriftsatz und Sitzungsprotokoll.
 
-# Beweisantrag mit unangreifbarem Fundament
+### Beweisantrag mit unangreifbarem Fundament
 
 ## Kaltstart-Rueckfragen
 
@@ -199,7 +199,7 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 
 **Fokus:** Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert. Jeder Antrag traegt erkennbar Beweisbehauptung Beweismittel Konnex zur Sachverteidigung. Bezug zu konkreten Lebenstatsachen statt Beweisermittlungsantrag. Reihenfolge und Zeitpunkt der Antraege strategisch. Antraege schriftlich oder Sitzungsprotokoll. § 244 Abs. 3 und Abs. 6 StPO und § 244 Abs. 4 Satz 2 StPO. Antworten der Kammer mit Sachdienlichkeitsbegruendung pruefen. Vorbeugend gegen § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht.
 
-# Beweisantragsstrategie ohne Missbrauchsangriff
+### Beweisantragsstrategie ohne Missbrauchsangriff
 
 ## Kaltstart-Rueckfragen
 
@@ -249,7 +249,7 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 
 **Fokus:** Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger.
 
-# Contempt of Court Debatte und § 177a GVG-E einordnen
+### Contempt of Court Debatte und § 177a GVG-E einordnen
 
 ## Kaltstart-Rueckfragen
 

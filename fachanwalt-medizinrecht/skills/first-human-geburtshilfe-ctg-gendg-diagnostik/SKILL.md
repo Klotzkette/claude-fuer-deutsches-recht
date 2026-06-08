@@ -30,7 +30,7 @@ description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: pr�
 
 **Fokus:** First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# First-in-Human Risk Board
+### First-in-Human Risk Board
 
 ## Fachkern: First-in-Human Risk Board
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Geburtshilfe CTG und Sectio
+### Geburtshilfe CTG und Sectio
 
 ## Fachkern: Geburtshilfe CTG und Sectio
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -140,7 +140,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** GenDG Diagnostik und Einwilligung: moderner Medizinrechts-Skill für Diagnostische genetische Untersuchung, Schriftlichkeit, Arztvorbehalt und Befundkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# GenDG Diagnostik und Einwilligung
+### GenDG Diagnostik und Einwilligung
 
 ## Fachkern: GenDG Diagnostik und Einwilligung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -194,7 +194,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Genomdaten, EHDS und Biobank: moderner Medizinrechts-Skill für Genomdaten für Forschung, Biobank, Secondary Use, Gesundheitsdatenzugang und Widerruf. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Genomdaten, EHDS und Biobank
+### Genomdaten, EHDS und Biobank
 
 ## Fachkern: Genomdaten, EHDS und Biobank
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

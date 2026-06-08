@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Internationalen Wirtschaftsrech
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Internationales Wirtschafts- und Schiedsrecht
+### Vergleichsverhandlung und Einigung im Internationales Wirtschafts- und Schiedsrecht
 
 ## Wann dieser Arbeitsgang greift
 

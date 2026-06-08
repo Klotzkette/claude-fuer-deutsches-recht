@@ -29,7 +29,7 @@ description: "BK Mifid BK Prip Erstgespraech Mandatsannahme im Plugin Fachanwalt
 
 **Fokus:** Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft, Verlusttragfaehigkeit. Pflichten bei Robo-Advisor, ESG-Praeferenzen seit August 2022. Dokumentation, Reklamation, Aufsichtsanfrage.
 
-# BK: MiFID-Geeignetheit
+### BK: MiFID-Geeignetheit
 
 ## Spezialwissen: BK: MiFID-Geeignetheit
 - **Normen-/Quellenanker:** II, ESG, BK.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Pruefung Kosten- und Risikoangabe. Pruefraster und Klagestrategie.
 
-# BK: PRIIPs-KID fehlerhaft
+### BK: PRIIPs-KID fehlerhaft
 
 ## Spezialwissen: BK: PRIIPs-KID fehlerhaft
 - **Normen-/Quellenanker:** KID, VO, BK.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Bank-, Kapitalmarkt- und Wertpapierrecht
+### Erstgespraech und Mandatsannahme im Bank-, Kapitalmarkt- und Wertpapierrecht
 
 ## Wann dieser Arbeitsgang greift
 

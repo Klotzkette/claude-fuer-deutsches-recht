@@ -28,7 +28,7 @@ description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO) im Hausha
 
 **Fokus:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden. Deckung finden für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
-# Geheimschutzhaushalt Deckung Finden
+### Geheimschutzhaushalt Deckung Finden
 
 ## Arbeitsauftrag
 

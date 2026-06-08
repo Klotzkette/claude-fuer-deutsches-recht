@@ -36,7 +36,7 @@ description: "DSV Sanktion Akteneinsicht Anhörung Owig im Datenschutzrecht: pr�
 
 **Fokus:** Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Akteneinsicht § 49 OWiG und § 147 StPO
+### Akteneinsicht § 49 OWiG und § 147 StPO
 
 ## Aufgabe
 
@@ -97,7 +97,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Anhörung nach § 55 OWiG: Reaktion auf Anhörung vorbereiten, Aussagefreiheit wahren und Akteneinsicht anstoßen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Anhörung nach § 55 OWiG
+### Anhörung nach § 55 OWiG
 
 ## Aufgabe
 
@@ -158,7 +158,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Anwesenheit und Entbindung § 73 OWiG
+### Anwesenheit und Entbindung § 73 OWiG
 
 ## Aufgabe
 
@@ -219,7 +219,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten: Auskunfts-, Vorlage- und Prüfverlangen beantworten, ohne spätere Bußgeldverteidigung zu beschädigen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten
+### Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten
 
 ## Aufgabe
 
@@ -280,7 +280,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Behördenkommunikation mit Reputationsschutz: Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Behördenkommunikation mit Reputationsschutz
+### Behördenkommunikation mit Reputationsschutz
 
 ## Aufgabe
 
@@ -341,7 +341,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Kooperation oder Schweigen strategisch wählen: Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Kooperation oder Schweigen strategisch wählen
+### Kooperation oder Schweigen strategisch wählen
 
 ## Aufgabe
 
@@ -402,7 +402,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Erledigung mit der Aufsicht verhandeln: Informelle Erledigung, Verwarnung, Auflage, reduzierte Geldbuße oder Rücknahme rechtlich sauber verhandeln. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Erledigung mit der Aufsicht verhandeln
+### Erledigung mit der Aufsicht verhandeln
 
 ## Aufgabe
 
@@ -463,7 +463,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Behördenpost richtig lesen: Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Behördenpost richtig lesen
+### Behördenpost richtig lesen
 
 ## Aufgabe
 
@@ -524,7 +524,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Beweisrecht im Datenschutz-OWiG: Strafprozessuale Beweislogik auf DSGVO-Vorwürfe übertragen, ohne zivilrechtliche Darlegungslast zu simulieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Beweisrecht im Datenschutz-OWiG
+### Beweisrecht im Datenschutz-OWiG
 
 ## Aufgabe
 
@@ -585,7 +585,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 **Fokus:** Datenschutzrecht-Brückenskill: Bußgeldbescheid § 65 OWiG analysieren: Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
-# Bußgeldbescheid § 65 OWiG analysieren
+### Bußgeldbescheid § 65 OWiG analysieren
 
 ## Aufgabe
 

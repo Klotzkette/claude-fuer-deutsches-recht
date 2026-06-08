@@ -103,7 +103,7 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
-# Prozessportfolio-Status — [heute]
+### Prozessportfolio-Status — [heute]
 
 **Aktive Mandate:** [N]
 **Geschlossen (lfd. Jahr):** [N] *(nur bei --alle)*

@@ -30,7 +30,7 @@ description: "Staatsanwaltschaft DSGVO Tracking Cookies im Datenschutz-Sanktions
 
 **Fokus:** Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Staatsanwaltschaft im DSGVO-OWiG-Verfahren
+### Staatsanwaltschaft im DSGVO-OWiG-Verfahren
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Tracking Cookies und TDDDG-Schnittstelle: Cookie-/Tracking-Sanktionen zwischen DSGVO, TDDDG, Einwilligung und Aufsichts-/Telemedienpraxis bearbeiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Tracking Cookies und TDDDG-Schnittstelle
+### Tracking Cookies und TDDDG-Schnittstelle
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Drittland-Transferstopp Art. 58: DPF, SCC, TIA, Transferregister, Migrationsplan und Eilrechtsschutz bei Transferstopp verbinden. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Drittland-Transferstopp Art. 58
+### Drittland-Transferstopp Art. 58
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Umsatz und wirtschaftliche Einheit: 2-/4-Prozent-Grenze, unionsrechtliches Unternehmen, Konzernumsatz und Adressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Umsatz und wirtschaftliche Einheit
+### Umsatz und wirtschaftliche Einheit
 
 ## Aufgabe
 

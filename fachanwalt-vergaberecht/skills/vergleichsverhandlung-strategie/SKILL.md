@@ -29,7 +29,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht:
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
+### Vergleichsverhandlung und Einigung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
 ## Wann dieser Arbeitsgang greift
 
@@ -215,7 +215,7 @@ Bei Nachpruefungsverfahren-Vergleich:
 
 **Fokus:** Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation.
 
-# Wertungsmatrix Preis/Qualitaet
+### Wertungsmatrix Preis/Qualitaet
 
 ## Zweck
 
@@ -278,7 +278,7 @@ Wertungstabelle, Bewertungsleitfaden, Plausibilitaetscheck, Angriffslinien.
 
 **Fokus:** Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Massnahmen und Nachweise.
 
-# Wettbewerbsregister und Selbstreinigung
+### Wettbewerbsregister und Selbstreinigung
 
 ## Zweck
 

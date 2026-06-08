@@ -31,7 +31,7 @@ description: "Inso Kommunikation Glaeubiger P002 im Insolvenz- und Sanierungsrec
 
 **Fokus:** Kommunikation mit Glaeubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung, Vergleichsangebot, Glaeubigerversammlung, Pruefungstermin. Strategie nach Glaeubigergruppen (Bank, Lieferant, Arbeitnehmer, Finanzamt, Sozialversicherung). Mustertexte.
 
-# InsO: Glaeubigerkommunikation
+### InsO: Glaeubigerkommunikation
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsO: Glaeubigerkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -87,7 +87,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 2 InsO — Amtsgericht als Insolvenzgericht
+### § 2 InsO — Amtsgericht als Insolvenzgericht
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 2 InsO — Amtsgericht als Insolvenzgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -140,7 +140,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 3 InsO — Örtliche Zuständigkeit
+### § 3 InsO — Örtliche Zuständigkeit
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 3 InsO — Örtliche Zuständigkeit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -192,7 +192,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 3a InsO (Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 3a InsO — Gruppen-Gerichtsstand
+### § 3a InsO — Gruppen-Gerichtsstand
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 3a InsO — Gruppen-Gerichtsstand` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -245,7 +245,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 **Fokus:** § 3b InsO (Fortbestehen des Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
-# § 3b InsO — Fortbestehen des Gruppen-Gerichtsstands
+### § 3b InsO — Fortbestehen des Gruppen-Gerichtsstands
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 3b InsO — Fortbestehen des Gruppen-Gerichtsstands` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

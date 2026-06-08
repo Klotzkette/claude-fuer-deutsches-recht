@@ -28,7 +28,7 @@ description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance im Nis2 Cybersecu
 
 **Fokus:** Prüft WLAN, Gästezugang und Segmentierung.
 
-# Wifi Gaestenetz
+### Wifi Gaestenetz
 
 ## Wofür dieser Arbeitsgang da ist
 WPA, Captive Portal, Gastnetz, Produktionsnetz, Protokollierung und Haftungsrisiken.

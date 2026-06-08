@@ -29,7 +29,7 @@ description: "Pflichtteil Berechnen Schriftsatzkern im Plugin Fachanwalt Erbrech
 
 **Fokus:** Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Prüfraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht für Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung).
 
-# Pflichtteil und Pflichtteilsergänzung berechnen
+### Pflichtteil und Pflichtteilsergänzung berechnen
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteil und Pflichtteilsergänzung berechnen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -380,7 +380,7 @@ III. Zahlungsstufe:
 
 **Fokus:** Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren. §§ 2303 2353 BGB §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz oder Berechnungen.
 
-# Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht
+### Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -594,7 +594,7 @@ Vor Versand:
 
 **Fokus:** Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Belegmatrix: Sonderfall und Edge-Case-Prüfung
+### Belegmatrix: Sonderfall und Edge-Case-Prüfung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Belegmatrix: Sonderfall und Edge-Case-Prüfung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

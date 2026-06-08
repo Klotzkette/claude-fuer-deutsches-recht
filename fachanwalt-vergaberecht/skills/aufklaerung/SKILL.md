@@ -30,7 +30,7 @@ description: "Aufklaerung im Plugin Fachanwalt Vergaberecht: prüft konkret Scha
 
 **Fokus:** Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjährung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
-# Schadensersatz nach § 181 GWB
+### Schadensersatz nach § 181 GWB
 
 ## Aufgabe
 Schadensersatz nach abgeschlossenem Vergabeverfahren geltend machen oder abwehren. Anspruchsgrundlage je nach Konstellation § 181 GWB, §§ 280, 311 BGB i. V. m. § 241 Abs. 2 BGB, ggf. § 826 BGB bei Vorsatz.
@@ -106,7 +106,7 @@ BGH-Entscheidungen vor Ausgabe ueber dejure.org oder bundesgerichtshof.de verifi
 
 **Fokus:** Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung.
 
-# Aufklaerung und Nachforderung
+### Aufklaerung und Nachforderung
 
 ## Zweck
 
@@ -169,7 +169,7 @@ Nachforderungsschema, Aufklaerungsfragen, Risikoampel, Vermerk.
 
 **Fokus:** Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachprüfungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen.
 
-# Rüge vor Zuschlag
+### Rüge vor Zuschlag
 
 ## Kaltstart-Rückfragen
 
@@ -323,7 +323,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr.
 
-# Markterkundung und Vorbefassung
+### Markterkundung und Vorbefassung
 
 ## Zweck
 

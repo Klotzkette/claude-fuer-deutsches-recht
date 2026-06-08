@@ -29,7 +29,7 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 
 **Fokus:** Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien.
 
-# Red-Team und Qualitätsgate
+### Red-Team und Qualitätsgate
 
 ## Aufgabe
 Diese Prüfungslinie führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
@@ -151,7 +151,7 @@ Ein Arbeitsprodukt wird freigegeben, wenn:
 
 **Fokus:** Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz.
 
-# Abschlussschreiben: Kosten, Frist und Abschlussregelung
+### Abschlussschreiben: Kosten, Frist und Abschlussregelung
 
 ## Aufgabe
 Dieser Skill behandelt das Abschlussschreiben nach Erlass einer einstweiligen Verfügung: Aufforderung zur Abgabe einer Abschlusserklärung, Fristen, Kostenerstattung und Übergang zur Hauptsache.
@@ -265,7 +265,7 @@ Mit freundlichen Grüßen
 
 **Fokus:** Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz.
 
-# Lizenzanaloger Schadensersatz: Berechnung und nächster Schritt
+### Lizenzanaloger Schadensersatz: Berechnung und nächster Schritt
 
 ## Aufgabe
 Dieser Skill behandelt den lizenzanalogen Schadensersatz als bevorzugte Methode der Schadensberechnung im IP-Recht: Berechnungsgrundlage, Marktrecherche, Stufenklage und Fristenmanagement.

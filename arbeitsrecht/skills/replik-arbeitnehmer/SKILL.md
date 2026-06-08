@@ -30,7 +30,7 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 
 **Fokus:** Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie für den Kammertermin.
 
-# Replik des Arbeitnehmers auf Klageerwiderung
+### Replik des Arbeitnehmers auf Klageerwiderung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Replik des Arbeitnehmers auf Klageerwiderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -133,7 +133,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 **Fokus:** Checkliste Sonderkündigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche Zustimmungserfordernisse.
 
-# Sonderkündigungsschutz-Checkliste
+### Sonderkündigungsschutz-Checkliste
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sonderkündigungsschutz-Checkliste` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -236,7 +236,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten.
 
-# Streitwert, Kostenfolge und Prozesskostenhilfe
+### Streitwert, Kostenfolge und Prozesskostenhilfe
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Streitwert, Kostenfolge und Prozesskostenhilfe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -329,7 +329,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige Lösung nach neuem Arbeitsverhältnis.
 
-# KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck
+### KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

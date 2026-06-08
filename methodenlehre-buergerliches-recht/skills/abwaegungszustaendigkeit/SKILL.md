@@ -31,7 +31,7 @@ description: "Abwaegungszuständigkeit im Plugin Methodenlehre Buergerliches Rec
 
 **Fokus:** Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution.
 
-# Abwägungszuständigkeit: Welche Institution darf abwägen?
+### Abwägungszuständigkeit: Welche Institution darf abwägen?
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägungszuständigkeit: Welche Institution darf abwägen?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen.
 
-# Fristen, Form und Zuständigkeit im bürgerlichen Recht
+### Fristen, Form und Zuständigkeit im bürgerlichen Recht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen, Form und Zuständigkeit im bürgerlichen Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -214,7 +214,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten. Es zeigt, wie Verjährungsbeginn, Hemmung und Neubeginn korrekt berechnet werden, wie Verjährungsunterbrechungen durch Mahnung, Klage und Verhandlungen dokumentiert werden und wie Anwälte Fristensysteme für eine sichere Mandatsführung aufbauen. Besonderes Gewicht liegt auf der Haftungsvermeidung durch lückenlose Fristenüberwachung.
 
-# Verjährung, Fristennotiz und nächste Schritte
+### Verjährung, Fristennotiz und nächste Schritte
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verjährung, Fristennotiz und nächste Schritte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -304,7 +304,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf versteckten oder offenen Paternalismus gegenüber der Vertragsautonomie. Das Skill hilft, Einschränkungen der Privatautonomie durch Richterrecht, AGB-Kontrolle und zwingende Normen methodisch zu legitimieren oder anzugreifen. Es gibt Juristen ein Analysewerkzeug, um Schutzregelungen auf ihre freiheitliche Verhältnismäßigkeit zu prüfen.
 
-# Freiheitlicher Paternalismus-Check im Vertragsrecht
+### Freiheitlicher Paternalismus-Check im Vertragsrecht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freiheitlicher Paternalismus-Check im Vertragsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -392,7 +392,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei gleichzeitig an Gesetz und Recht gebunden bleibt. Geeignet für Fälle mit offenen Wertungsfragen im BGB.
 
-# Generalklauseln als Abwägungslenker im Zivilrecht
+### Generalklauseln als Abwägungslenker im Zivilrecht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Generalklauseln als Abwägungslenker im Zivilrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

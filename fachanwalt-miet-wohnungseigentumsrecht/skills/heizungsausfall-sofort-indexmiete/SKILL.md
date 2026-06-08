@@ -31,7 +31,7 @@ description: "Heizungsausfall Sofort Indexmiete im Miet- und Wohnungseigentumsre
 
 **Fokus:** Heizungsausfall sofort: Prüfungslinie für Miet- und WEG-Recht; erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Heizungsausfall sofort
+### Heizungsausfall sofort
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Heizungsausfall sofort` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Index-/Staffelmiete: Prüfungslinie für Miet- und WEG-Recht; prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Index-/Staffelmiete
+### Index-/Staffelmiete
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Index-/Staffelmiete` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Inkasso/Mahnung Miete: Prüfungslinie für Miet- und WEG-Recht; erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Inkasso/Mahnung Miete
+### Inkasso/Mahnung Miete
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Inkasso/Mahnung Miete` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Kaution nach Auszug: Prüfungslinie für Miet- und WEG-Recht; sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Kaution nach Auszug
+### Kaution nach Auszug
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kaution nach Auszug` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Kosten und Streitwert: Prüfungslinie für Miet- und WEG-Recht; schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Kosten und Streitwert
+### Kosten und Streitwert
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kosten und Streitwert` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

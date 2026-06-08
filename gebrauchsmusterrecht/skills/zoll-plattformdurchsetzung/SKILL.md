@@ -28,7 +28,7 @@ description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmus
 
 **Fokus:** Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produktmerkmale, Registerrecht, technische Prüfung, DSA, Marktplätze und Beweissicherung.
 
-# Zoll Und Plattformdurchsetzung
+### Zoll Und Plattformdurchsetzung
 
 ## Wann dieser Skill hilft
 

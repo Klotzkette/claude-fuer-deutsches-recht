@@ -31,7 +31,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseige
 
 **Fokus:** Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht).
 
-# Kündigung eines Wohnraummietverhältnisses
+### Kündigung eines Wohnraummietverhältnisses
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigung eines Wohnraummietverhältnisses` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -260,7 +260,7 @@ im Schriftsatz live ueber dejure.org verifizieren.
 
 **Fokus:** Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht).
 
-# Mieterhöhung bis zur ortsüblichen Vergleichsmiete
+### Mieterhöhung bis zur ortsüblichen Vergleichsmiete
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mieterhöhung bis zur ortsüblichen Vergleichsmiete` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -497,7 +497,7 @@ Monats kündigen.
 
 **Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Mietminderung — Schimmelbefall
+### Mietminderung — Schimmelbefall
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietminderung — Schimmelbefall` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -672,7 +672,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 
 **Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Orientierung Miet- und Wohnungseigentumsrecht
+### Orientierung Miet- und Wohnungseigentumsrecht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung Miet- und Wohnungseigentumsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -784,7 +784,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 
 **Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# WEG-Anfechtungsklage § 44 WEG
+### WEG-Anfechtungsklage § 44 WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG-Anfechtungsklage § 44 WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

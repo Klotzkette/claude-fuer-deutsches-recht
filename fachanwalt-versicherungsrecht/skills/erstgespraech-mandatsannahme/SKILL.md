@@ -29,7 +29,7 @@ description: "Erstgespraech Mandatsannahme im Plugin Fachanwalt Versicherungsrec
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Versicherungsvertragsrecht (Personen- und Sachversicherung)
+### Erstgespraech und Mandatsannahme im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
 ## Wann dieser Arbeitsgang greift
 
@@ -199,7 +199,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung. Anwendungsfall BU-Versicherung hat Leistungsantrag abgelehnt oder Verweisung auf andere Tätigkeit ausgesprochen. Normen §§ 172 ff. VVG BU-Versicherung § 15 VVG Anzeigepflicht BAG-Begriff Berufsunfähigkeit 50-Prozent-Grenze. Prüfraster Begriff Berufsunfähigkeit letzte berufliche Tätigkeit Verweisung zumutbare andere Tätigkeit Gutachtenstreit Prüfverfahren. Output Klageschrift-Baustein mit Leistungsantrag Sachverständigenantrag Feststellungsantrag und Durchsetzungsstrategie. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen.
 
-# Berufsunfähigkeit-Klage
+### Berufsunfähigkeit-Klage
 
 ## Zweck
 
@@ -472,7 +472,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 **Fokus:** Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG örtliche Zuständigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Prüfraster Streitwert Zuständigkeit AG oder LG Klageantrag Beweislast Sachverständigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverständigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen.
 
-# Deckungsklage
+### Deckungsklage
 
 ## Kaltstart-Rückfragen
 

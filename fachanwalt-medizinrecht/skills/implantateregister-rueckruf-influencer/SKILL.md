@@ -30,7 +30,7 @@ description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft kon
 
 **Fokus:** Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Implantateregister und Rückruf
+### Implantateregister und Rückruf
 
 ## Fachkern: Implantateregister und Rückruf
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Influencer Healthcare Werbung
+### Influencer Healthcare Werbung
 
 ## Fachkern: Influencer Healthcare Werbung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -138,7 +138,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# IVDR und Lab Developed Test
+### IVDR und Lab Developed Test
 
 ## Fachkern: IVDR und Lab Developed Test
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -195,7 +195,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Keimbahn-Grenze und Embryonenschutz
+### Keimbahn-Grenze und Embryonenschutz
 
 ## Fachkern: Keimbahn-Grenze und Embryonenschutz
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

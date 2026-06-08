@@ -30,7 +30,7 @@ description: "Sozialrecht Sprachbarriere Einwilligung im Medizinrecht: prüft ko
 
 **Fokus:** Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Sozialrecht: Formular, Portal und Einreichungslogik
+### Sozialrecht: Formular, Portal und Einreichungslogik
 
 ## Fachkern: Sozialrecht: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Sprachbarriere Einwilligung
+### Sprachbarriere Einwilligung
 
 ## Fachkern: Sprachbarriere Einwilligung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -123,7 +123,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Sterilgut und Medizinprodukt
+### Sterilgut und Medizinprodukt
 
 ## Fachkern: Sterilgut und Medizinprodukt
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -178,7 +178,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Transplantation und Allocation
+### Transplantation und Allocation
 
 ## Fachkern: Transplantation und Allocation
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

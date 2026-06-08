@@ -12,7 +12,7 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 
 ---
 
-# Ersteinrichtung der Beratungsstelle
+### Ersteinrichtung der Beratungsstelle
 
 ## Triage zu Beginn
 1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?

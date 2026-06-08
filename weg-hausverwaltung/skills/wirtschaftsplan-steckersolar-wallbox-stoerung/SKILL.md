@@ -29,7 +29,7 @@ description: "Wirtschaftsplan Steckersolar Wallbox Stoerung im Plugin Weg Hausve
 
 **Fokus:** Wirtschaftsplan: Verhandlung, Vergleich und Eskalation im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Wirtschaftsplan: Verhandlung, Vergleich und Eskalation
+### Wirtschaftsplan: Verhandlung, Vergleich und Eskalation
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wirtschaftsplan: Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spezialfür privilegierte Maßnahmen nach § 20 Abs. 2 WEG (Stand 05/2026): Steckersolargerät, Wallbox/E-Mobilität, barrierefreier Umbau, Einbruchsschutz, Glasfaseranschluss. Prüft Anspruch, technische Unterlagen, Auflagen, Beschlusswortlaut und Anfechtungsrisiko.
 
-# Steckersolar, Wallbox, Barrierefreiheit und Co.
+### Steckersolar, Wallbox, Barrierefreiheit und Co.
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steckersolar, Wallbox, Barrierefreiheit und Co.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -181,7 +181,7 @@ Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "W
 
 **Fokus:** Bearbeitet Störungen in der WEG (Stand 05/2026): Lärm, Müll, Feuchtigkeit, Geruch, Kamera, Gemeinschaftsflächen, Mieter als Störer, vermietender Eigentümer, Hausordnung, Abmahnung, Beweissicherung. Berücksichtigt BGH V ZR 1/24 (mittelbare Handlungsstörerhaftung des vermietenden Eigentümers) und V ZR 105/24 (Nutzungsabwehr gegen Klimasplit über § 14 Abs. 2 Nr. 1 WEG, § 1004 BGB).
 
-# Störung, Hausordnung, Mieter und Eigentümer
+### Störung, Hausordnung, Mieter und Eigentümer
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Störung, Hausordnung, Mieter und Eigentümer` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

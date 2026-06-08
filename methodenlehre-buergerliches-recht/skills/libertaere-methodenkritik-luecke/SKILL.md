@@ -31,7 +31,7 @@ description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerli
 
 **Fokus:** Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen.
 
-# Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle
+### Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet.
 
-# Lücke oder Gesetzesablehnung: Methodische Unterscheidung
+### Lücke oder Gesetzesablehnung: Methodische Unterscheidung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lücke oder Gesetzesablehnung: Methodische Unterscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und Subsidiarität zu ordnen. Geeignet für Mandate im Baurecht, Werkunternehmerhaftung und Projektleiterhaftung.
 
-# Anspruchsgrundlagen-Pyramide im Bauleitungsrecht
+### Anspruchsgrundlagen-Pyramide im Bauleitungsrecht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anspruchsgrundlagen-Pyramide im Bauleitungsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -296,7 +296,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann richterrechtliche Regeln durch distinguishing oder overruling überwunden werden dürfen.
 
-# Richterrecht und Rechtsfortbildung: Spezialanalyse
+### Richterrecht und Rechtsfortbildung: Spezialanalyse
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Richterrecht und Rechtsfortbildung: Spezialanalyse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -384,7 +384,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumdeutung übergeht. Geeignet für alle Fälle mit Grundrechtsbezug im Privatrecht.
 
-# Verfassungskonforme Auslegung: Methodik und Grenzen
+### Verfassungskonforme Auslegung: Methodik und Grenzen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verfassungskonforme Auslegung: Methodik und Grenzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

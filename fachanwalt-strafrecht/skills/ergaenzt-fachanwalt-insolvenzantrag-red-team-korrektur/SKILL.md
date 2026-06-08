@@ -31,7 +31,7 @@ description: "Ergaenzt Fachanwalt Insolvenzantrag RED im Strafrecht: prüft konk
 
 **Fokus:** Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
+### Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** StPO.
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** StPO.
@@ -129,7 +129,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Insolvenzantrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Insolvenzantrag: Red-Team und Qualitätskontrolle
+### Insolvenzantrag: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Insolvenzantrag: Red-Team und Qualitätskontrolle
 - **Normen-/Quellenanker:** StPO.
@@ -166,7 +166,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kanzlei: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Kanzlei: Sonderfall und Edge-Case-Prüfung
+### Kanzlei: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Kanzlei: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** StPO.
@@ -203,7 +203,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Livecheck: Abschlussprodukt und Übergabe
+### Livecheck: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Livecheck: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** StPO.

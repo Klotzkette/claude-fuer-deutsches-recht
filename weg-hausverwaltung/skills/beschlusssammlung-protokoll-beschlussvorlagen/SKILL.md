@@ -29,7 +29,7 @@ description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausve
 
 **Fokus:** Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht entstehen.
 
-# Beschlusssammlung und Protokoll
+### Beschlusssammlung und Protokoll
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschlusssammlung und Protokoll` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -114,7 +114,7 @@ Tabellarisch mit:
 
 **Fokus:** Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verwaltervergabe.
 
-# Beschlussvorlagen Erstellen
+### Beschlussvorlagen Erstellen
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschlussvorlagen Erstellen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -219,7 +219,7 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 
 **Fokus:** WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende Eigentümer.
 
-# Betriebskosten und Nebenkosten in der WEG-Verwaltung
+### Betriebskosten und Nebenkosten in der WEG-Verwaltung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebskosten und Nebenkosten in der WEG-Verwaltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

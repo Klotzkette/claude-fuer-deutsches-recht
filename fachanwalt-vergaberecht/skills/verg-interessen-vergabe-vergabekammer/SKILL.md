@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verg: Mehrparteienkonflikt und Interessenmatrix
+### Verg: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Verg: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vergabe: Behörden-, Gerichts- oder Registerweg
+### Vergabe: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Vergabe: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -139,7 +139,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergabekammer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vergabekammer: Verhandlung, Vergleich und Eskalation
+### Vergabekammer: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Vergabekammer: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
@@ -186,7 +186,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.

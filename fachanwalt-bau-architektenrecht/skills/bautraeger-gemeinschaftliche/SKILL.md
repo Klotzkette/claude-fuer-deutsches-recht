@@ -30,7 +30,7 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster.
 
-# Bautraeger Gemeinschaftliche Maengelverfolgung Weg
+### Bautraeger Gemeinschaftliche Maengelverfolgung Weg
 
 ## Norm
 
@@ -62,7 +62,7 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster.
 
-# Bautraeger Grundbuchaufflassung 925 Bgb
+### Bautraeger Grundbuchaufflassung 925 Bgb
 
 ## Norm
 
@@ -97,7 +97,7 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster.
 
-# Bautraeger Grundbuchgebuehren Rangwahrung
+### Bautraeger Grundbuchgebuehren Rangwahrung
 
 ## Gebühren
 
@@ -133,7 +133,7 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 
 **Fokus:** Bautraeger-Insolvenz Konsequenzen für den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster.
 
-# Bautraeger Insolvenz Konsequenzen Erwerber
+### Bautraeger Insolvenz Konsequenzen Erwerber
 
 ## Risiko-Konstellationen
 

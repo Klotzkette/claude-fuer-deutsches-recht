@@ -28,7 +28,7 @@ description: "Vergleichsrechnung Quote im Plugin Insolvenzplan Starug Planwerkst
 
 **Fokus:** Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg
+### Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -111,7 +111,7 @@ Liegt Akte vor?
 ## Output-Format
 
 ```markdown
-# Aktenauszug — [Aktenzeichen]
+### Aktenauszug — [Aktenzeichen]
 
 ## Verfahrensidentifikation
 ...

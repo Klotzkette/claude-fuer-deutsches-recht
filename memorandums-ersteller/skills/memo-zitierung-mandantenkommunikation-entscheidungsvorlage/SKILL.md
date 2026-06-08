@@ -28,7 +28,7 @@ description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memo
 
 **Fokus:** Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Zitierung: Mandantenkommunikation und Entscheidungsvorlage
+### Zitierung: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Zitierung: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

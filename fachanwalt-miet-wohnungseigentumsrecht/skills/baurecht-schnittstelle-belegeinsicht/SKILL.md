@@ -31,7 +31,7 @@ description: "Baurecht Schnittstelle Belegeinsicht im Miet- und Wohnungseigentum
 
 **Fokus:** Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# Baurecht-Schnittstelle
+### Baurecht-Schnittstelle
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Baurecht-Schnittstelle` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 **Fokus:** Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs. 3 BGB; mit BGH VIII ZR 118/19 und VIII ZR 66/20.
 
-# Belegeinsicht Betriebskosten
+### Belegeinsicht Betriebskosten
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Belegeinsicht Betriebskosten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -123,7 +123,7 @@ BGH-Entscheidungen nur mit Datum, Aktenzeichen und frei prüfbarer Quelle nennen
 
 **Fokus:** Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# Berliner Räumung
+### Berliner Räumung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Berliner Räumung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -167,7 +167,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: kl�
 
 **Fokus:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk
+### Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -221,7 +221,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Formelle Ordnung der Betriebskostenabrechnung: Mindestangaben nach BGH VIII ZR 84/07, Abrechnungseinheit, Gesamtkosten, Verteilerschlüssel, Mieteranteil, Vorauszahlungen, Saldo, Zugang und Abgrenzung zu bloß materiellen Fehlern.
 
-# Betriebskosten formelle Ordnung
+### Betriebskosten formelle Ordnung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebskosten formelle Ordnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -28,7 +28,7 @@ description: "Aerztewerbung Innovative Amnog Millionen im Medizinrecht: prüft k
 
 **Fokus:** Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Ärztewerbung innovative Therapie
+### Ärztewerbung innovative Therapie
 
 ## Fachkern: Ärztewerbung innovative Therapie
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -81,7 +81,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# AMNOG und Millionen-Therapie
+### AMNOG und Millionen-Therapie
 
 ## Fachkern: AMNOG und Millionen-Therapie
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

@@ -28,7 +28,7 @@ description: "Zielgruppe Zahlen Schwellen Berechnung im Einfache und leichte Spr
 
 **Fokus:** Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Zielgruppe: Zahlen, Schwellenwerte und Berechnung
+### Zielgruppe: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Zielgruppe: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

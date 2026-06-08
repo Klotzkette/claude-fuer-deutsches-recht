@@ -29,7 +29,7 @@ description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: pr
 
 **Fokus:** EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
 
-# Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation
+### Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -134,7 +134,7 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 
 **Fokus:** Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel.
 
-# Spezial: Fachanwalt Erstprüfung und Mandatsziel
+### Spezial: Fachanwalt Erstprüfung und Mandatsziel
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Fachanwalt Erstprüfung und Mandatsziel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -258,7 +258,7 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 
 **Fokus:** KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff.
 
-# Spezial: KSchG Risikoampel und Gegenargumente
+### Spezial: KSchG Risikoampel und Gegenargumente
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: KSchG Risikoampel und Gegenargumente` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

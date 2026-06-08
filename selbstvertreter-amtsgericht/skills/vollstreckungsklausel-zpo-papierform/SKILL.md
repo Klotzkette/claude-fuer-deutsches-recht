@@ -29,7 +29,7 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 
 **Fokus:** Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun.
 
-# Vollstreckungsklausel: Damit das Urteil vollstreckbar wird
+### Vollstreckungsklausel: Damit das Urteil vollstreckbar wird
 
 ## Worum geht es?
 
@@ -161,7 +161,7 @@ Stand: 05/2026. §§ 724 ff. ZPO unveraendert.
 
 **Fokus:** Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung.
 
-# Klage in Papierform einreichen
+### Klage in Papierform einreichen
 
 ## Worum geht es?
 
@@ -282,7 +282,7 @@ Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
 
 **Fokus:** Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger ohne Anwalt am Amtsgericht.
 
-# Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt
+### Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt
 
 ## Worum geht es?
 

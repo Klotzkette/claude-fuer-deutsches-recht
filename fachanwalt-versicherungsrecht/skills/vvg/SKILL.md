@@ -28,7 +28,7 @@ description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Ve
 
 **Fokus:** Vorvertragliche Anzeigepflicht im Fachanwaltsmandat: Gesundheitsfragen, Belehrung, Rücktritt, Kündigung, Anpassung und Arglistanfechtung in BU/PKV/Leben/Unfall.
 
-# FA Versicherungsrecht: § 19 VVG und Arglist
+### FA Versicherungsrecht: § 19 VVG und Arglist
 
 ## Einsatz
 

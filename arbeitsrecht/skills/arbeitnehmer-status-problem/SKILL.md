@@ -30,7 +30,7 @@ description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret
 
 **Fokus:** Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
 
-# /arbeitsrecht:arbeitnehmer-status
+### /arbeitsrecht:arbeitnehmer-status
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitnehmer-status` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -228,7 +228,7 @@ Wesentliche Quellen:
 
 **Fokus:** Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen.
 
-# /arbeitsrecht:arbeitsrecht-anpassen
+### /arbeitsrecht:arbeitsrecht-anpassen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitsrecht-anpassen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -335,7 +335,7 @@ Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
 
 **Fokus:** Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert.
 
-# /arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich
+### /arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -471,7 +471,7 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 
 **Fokus:** Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage.
 
-# Arbeitsrecht - Problem Sortieren
+### Arbeitsrecht - Problem Sortieren
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsrecht - Problem Sortieren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellscha
 
 **Fokus:** Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung.
 
-# Orientierung Handels- und Gesellschaftsrecht
+### Orientierung Handels- und Gesellschaftsrecht
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung Handels- und Gesellschaftsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -367,7 +367,7 @@ Pflicht-Felder im Krypto-Wertpapierregister:
 
 **Fokus:** Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap für typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud.
 
-# Grenzueberschreitender Formwechsel
+### Grenzueberschreitender Formwechsel
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grenzueberschreitender Formwechsel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

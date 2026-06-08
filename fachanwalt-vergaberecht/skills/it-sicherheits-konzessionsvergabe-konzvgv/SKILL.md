@@ -30,7 +30,7 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 
 **Fokus:** IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin.
 
-# IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2
+### IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2
 
 ## Zweck
 
@@ -335,7 +335,7 @@ Halluzinations-Reparatur Bundle 026:
 
 **Fokus:** Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
 
-# Konzessionsvergabe (KonzVgV)
+### Konzessionsvergabe (KonzVgV)
 
 ## Aufgabe
 Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegriffene Konzessionsvergabe verteidigen. Abgrenzungs-Kernfrage: Konzession (Betriebsrisiko beim Konzessionaer) vs. öffentlicher Auftrag (Festentgelt).
@@ -405,7 +405,7 @@ EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren
 
 **Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
-# Losbildung und Mittelstandsfoerderung
+### Losbildung und Mittelstandsfoerderung
 
 ## Aufgabe
 Losbildung im Vergabeverfahren strukturieren oder eine fehlerhafte Gesamtvergabe ruegen. Schluesselregel: Aufteilung in Lose ist Grundsatz, Gesamtvergabe bedarf Begruendung.
@@ -477,7 +477,7 @@ OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber 
 
 **Fokus:** Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Prüfraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachprüfungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk.
 
-# Nachprüfungsantrag VK
+### Nachprüfungsantrag VK
 
 ## Kaltstart-Rückfragen
 

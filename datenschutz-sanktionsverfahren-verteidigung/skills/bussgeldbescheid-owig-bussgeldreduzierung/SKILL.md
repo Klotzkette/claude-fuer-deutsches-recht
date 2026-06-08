@@ -30,7 +30,7 @@ description: "Bussgeldbescheid Owig Bussgeldreduzierung im Datenschutz-Sanktions
 
 **Fokus:** Bußgeldbescheid § 65 OWiG analysieren: Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Bußgeldbescheid § 65 OWiG analysieren
+### Bußgeldbescheid § 65 OWiG analysieren
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Bußgeldreduzierung Verhandlungspaket: EDPB-Gegenrechnung, Remediation, Kooperationsnachweise, Zahlungsfähigkeit und Veröffentlichungsschutz verhandlungsfähig machen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Bußgeldreduzierung Verhandlungspaket
+### Bußgeldreduzierung Verhandlungspaket
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen
+### Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Frühstellungnahme vor Bußgeldbescheid: Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Frühstellungnahme vor Bußgeldbescheid
+### Frühstellungnahme vor Bußgeldbescheid
 
 ## Aufgabe
 

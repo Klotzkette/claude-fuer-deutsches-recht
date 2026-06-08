@@ -29,7 +29,7 @@ description: "Faktenbank Bauliche Beschluesse im Plugin Weg Hausverwaltung: prü
 
 **Fokus:** Quellen-Gate für WEG und Hausverwaltung mit Stand 05/2026. Enthält Normanker zu WEG, BGB, BetrKV, HeizkostenV, GEG und CO2KostAufG sowie frei verifizierte BGH-Rechtsprechung des V. Zivilsenats 2024 bis 2026 zu Kostenverteilung, baulichen Veränderungen, Jahresabrechnung, Vorschüssen, Verwalterhaftung, Störerhaftung und Verfahrensfristen.
 
-# Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung
+### Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -110,7 +110,7 @@ Jede Ausgabe mit Rechtsstand enthält:
 
 **Fokus:** Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Bauliche: Formular, Portal und Einreichungslogik
+### Bauliche: Formular, Portal und Einreichungslogik
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche: Formular, Portal und Einreichungslogik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung
+### Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

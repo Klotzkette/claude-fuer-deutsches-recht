@@ -20,7 +20,7 @@ Beim Prüfen: nur `✓` melden wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich
 
 ---
 
-# Kaltstart-Interview: Produktrecht
+### Kaltstart-Interview: Produktrecht
 
 ## Zweck
 
@@ -218,7 +218,7 @@ Vor den strukturierten Fragen: "Haben Sie ein bestehendes Launch-Review-Framewor
 ## Praxis-Profil schreiben
 
 ```markdown
-# Produktrecht – Praxisprofil
+### Produktrecht – Praxisprofil
 
 *Erstellt durch Kaltstart am [DATUM]. Direkt bearbeitbar.*
 

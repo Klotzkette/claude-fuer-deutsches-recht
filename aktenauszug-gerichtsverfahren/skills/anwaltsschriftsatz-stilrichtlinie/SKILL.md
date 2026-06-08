@@ -67,7 +67,7 @@ Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assi
 ### Überschriften-Hierarchie
 
 ```
-# Aktenauszug — [Aktenzeichen] (H1 — nur einmal)
+### Aktenauszug — [Aktenzeichen] (H1 — nur einmal)
 ## Verfahrensidentifikation (H2 — Bausteine)
 ### Parteien (H3 — Unterabschnitte)
 #### Klägerseite (H4 — bei Bedarf)

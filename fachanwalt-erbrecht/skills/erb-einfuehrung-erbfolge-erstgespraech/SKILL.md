@@ -29,7 +29,7 @@ description: "ERB Einfuehrung Erbfolge Erstgespraech im Plugin Fachanwalt Erbrec
 
 **Fokus:** Erbfolge-System einfuehrend: gesetzliche Erbfolge §§ 1924 ff. BGB, Verwandtenerbrecht in Ordnungen, Ehegattenerbrecht § 1931 BGB mit Zugewinngemeinschaft § 1371 BGB, Pflichtteil §§ 2303 ff. BGB. Beispielsfall mit Stammbaum und Quoten.
 
-# Erbrecht: System einfuehrend
+### Erbrecht: System einfuehrend
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbrecht: System einfuehrend` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhandene Testamente, Nachlassbestand, Schulden, internationaler Bezug, Pflichtteilsberechtigte, Streitlage. Mustervorlage und Erfordernisse für Folgekorrespondenz.
 
-# Erb: Erstgespraechs-Checkliste
+### Erb: Erstgespraechs-Checkliste
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erb: Erstgespraechs-Checkliste` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -142,7 +142,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ. Spezialfaelle Schweiz / USA / Tuerkei. Pruefraster und Verfahrensweg.
 
-# Erbrecht: Internationales
+### Erbrecht: Internationales
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbrecht: Internationales` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -162,7 +162,7 @@ Alle Fristen sofort im Fristenkontrollsystem notieren.
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
-# Beweisanordnung Triage
+### Beweisanordnung Triage
 
 > **KEIN ERSATZ FÜR ANWALTLICHE BERATUNG.** Dies ist eine strukturierte Klassifizierungs- und Scoping-Analyse zur Unterstützung schneller Entscheidungen zu Fristen, Beweissicherung und Mandatierung. Jeder Normenhinweis ist ein Ausgangspunkt — rechtssichere Einwendungen, Antragsstellung und Vertretung vor Gericht erfordern zugelassene Rechtsanwälte mit Kenntnis des Forums. Externe Bevollmächtigte für jede Beweisanordnung außerhalb routinemäßiger Drittvorlagen mandatieren.
 

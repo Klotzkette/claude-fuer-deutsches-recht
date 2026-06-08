@@ -27,7 +27,7 @@ description: "Schriftsatzkern Substantiierung im Steuerrecht (Anwalt/Berater) im
 
 **Fokus:** Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begründet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruchsgrundlagen-Kette Beweisangebote Hilfsanträge. § 76 FGO Amtsermittlung setzt schluessigen Vortrag voraus. Replik- und Duplik-Vorausschau. Output Schriftsatz-Geruest mit Tatsachen Normen Beweismitteln Anträgen. Abgrenzung zu anw-einspruch-finanzamt und anw-klage-finanzgericht fertige Schriftsaetze.
 
-# Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)
+### Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

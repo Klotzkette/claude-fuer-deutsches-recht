@@ -100,7 +100,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Signing und Closing Conditions
+### Signing und Closing Conditions
 
 ## Triage — klaere vor Beginn
 

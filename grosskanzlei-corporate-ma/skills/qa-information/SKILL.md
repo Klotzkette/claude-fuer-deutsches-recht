@@ -101,7 +101,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Q&A und Information Requests
+### Q&A und Information Requests
 
 ## Zweck
 

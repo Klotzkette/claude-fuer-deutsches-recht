@@ -32,7 +32,7 @@ description: "Medr Einfuehrung Themen Grundpfeiler Igel im Medizinrecht: prüft 
 
 **Fokus:** Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen. Entscheidungstabelle und Verweis auf Detail-Skills.
 
-# Medizinrecht: Themen
+### Medizinrecht: Themen
 
 ## Fachkern: Medizinrecht: Themen
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -81,7 +81,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht.
 
-# Medizinrecht: IGeL und Werbung
+### Medizinrecht: IGeL und Werbung
 
 ## Fachkern: Medizinrecht: IGeL und Werbung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -130,7 +130,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung. Pruefraster für KV-Pruefverfahren und Patientenklage.
 
-# MedR: IGeL-Leistung
+### MedR: IGeL-Leistung
 
 ## Fachkern: MedR: IGeL-Leistung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -180,7 +180,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot. Pruefraster Antrag bei KV und Zulassungsausschuss.
 
-# MedR: MVZ-Strukturwandel
+### MedR: MVZ-Strukturwandel
 
 ## Fachkern: MedR: MVZ-Strukturwandel
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -230,7 +230,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsfähigkeit Minderjähriger, Elternkonflikt, dringende Behandlung und Datenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Minderjährige und Einwilligung
+### Minderjährige und Einwilligung
 
 ## Fachkern: Minderjährige und Einwilligung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -285,7 +285,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komplexe Eingriffe, Mindestmengen, Zentrumsbildung, Verlegungspflicht und Patientensicherheit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Mindestmengen und Zentrumsbildung
+### Mindestmengen und Zentrumsbildung
 
 ## Fachkern: Mindestmengen und Zentrumsbildung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

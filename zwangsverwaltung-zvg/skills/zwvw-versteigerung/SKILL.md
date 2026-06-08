@@ -28,7 +28,7 @@ description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Z
 
 **Fokus:** Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster für Glaeubiger und Schuldner.
 
-# ZwVw: Versteigerung vs Verwaltung
+### ZwVw: Versteigerung vs Verwaltung
 
 ## Spezialwissen: ZwVw: Versteigerung vs Verwaltung
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

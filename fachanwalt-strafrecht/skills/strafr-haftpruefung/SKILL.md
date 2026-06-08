@@ -40,7 +40,7 @@ description: "Strafr Haftpruefung im Strafrecht: prüft konkret Einstieg, Schnel
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Strafrecht — Allgemein
+### Fachanwalt Strafrecht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -220,7 +220,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Haftpruefung und Haftbeschwerde §§ 117 ff. StPO: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Sechsmonatspruefung. Mustertext Haftpruefungsantrag und Haftbeschwerde.
 
-# StrafR: Haftpruefung-Workflow
+### StrafR: Haftpruefung-Workflow
 
 ## Spezialwissen: StrafR: Haftpruefung-Workflow
 - **Normen-/Quellenanker:** StPO.
@@ -269,7 +269,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-strafrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-strafrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
@@ -304,7 +304,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-strafrecht: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Aufgabe
 Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fachanwalt-strafrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
@@ -351,7 +351,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-strafrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Aufgabe
 Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-strafrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..

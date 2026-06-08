@@ -75,16 +75,16 @@ projekt/
 ## Aufrufbeispiel
 
 ```bash
-# Vollurteil
+### Vollurteil
 python3 urteilsbauer-relationsmacher/skills/dokumente-rendern-urteil-docx/assets/render_urteil.py \
  testakten/solis-vision-x-smartglasses/output \
  testakten/solis-vision-x-smartglasses/output/urteil.docx \
  --typ urteil --pdf
 
-# Versaeumnisurteil (ohne Tatbestand und Gruende)
+### Versaeumnisurteil (ohne Tatbestand und Gruende)
 python3 .../render_urteil.py eingabe ausgabe.docx --typ versaeumnis
 
-# Beschluss
+### Beschluss
 python3 .../render_urteil.py eingabe ausgabe.docx --typ beschluss
 ```
 

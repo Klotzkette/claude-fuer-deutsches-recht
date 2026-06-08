@@ -31,7 +31,7 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 
 **Fokus:** Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert.
 
-# Reihenfolge und Bausteine für Schriftsatz, Brief und Memo
+### Reihenfolge und Bausteine für Schriftsatz, Brief und Memo
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Reihenfolge und Bausteine für Schriftsatz, Brief und Memo` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -122,7 +122,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen.
 
-# Formulare, Portale und elektronische Einreichung im bürgerlichen Recht
+### Formulare, Portale und elektronische Einreichung im bürgerlichen Recht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Formulare, Portale und elektronische Einreichung im bürgerlichen Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -213,7 +213,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbeträge methodisch korrekt ermittelt werden und welche numerischen Schwellen bei AGB-Klauseln, Verjährungsfristen und Bürgschaften zu beachten sind. Zahlenfehler werden so durch strukturierte Berechnung vermieden.
 
-# Zahlenschwellen und Berechnungen im bürgerlichen Recht
+### Zahlenschwellen und Berechnungen im bürgerlichen Recht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zahlenschwellen und Berechnungen im bürgerlichen Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -304,7 +304,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird. Es trainiert die Fähigkeit, divergierende Parteiinteressen in die teleologische Analyse einzubeziehen, Interessenabwägungen methodisch zu strukturieren und das auslegungsgerechte Ergebnis im Mehrparteienkontext zu ermitteln.
 
-# Teleologische Auslegung im Mehrparteien-Konflikt
+### Teleologische Auslegung im Mehrparteien-Konflikt
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Teleologische Auslegung im Mehrparteien-Konflikt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -396,7 +396,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern. Es zeigt, wann das Unionsrecht eine günstigere Beweislastverteilung für Verbraucher oder Arbeitnehmer gebietet, wie nationale Gerichte unionsrechtskonforme Beweislastregeln anwenden müssen und wie Anwälte diese Regeln prozessstrategisch einsetzen. Besonderes Gewicht liegt auf den Bereichen Verbraucherrecht und Kaufrecht.
 
-# Unionsrechtskonforme Beweislast und Darlegungslast
+### Unionsrechtskonforme Beweislast und Darlegungslast
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unionsrechtskonforme Beweislast und Darlegungslast` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

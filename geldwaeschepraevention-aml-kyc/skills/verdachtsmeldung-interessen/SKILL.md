@@ -28,7 +28,7 @@ description: "Verdachtsmeldung Interessen im Plugin Geldwaeschepraevention Aml K
 
 **Fokus:** Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix
+### Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** AML, KYC, GwG, UBO, PEP, FIU.

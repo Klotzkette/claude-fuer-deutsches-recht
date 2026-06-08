@@ -31,7 +31,7 @@ description: "Steuerliche Folgen Unterhalt Selbstaendige im Plugin Fachanwalt Fa
 
 **Fokus:** Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Steuerliche Folgen externe Teilung
+### Steuerliche Folgen externe Teilung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuerliche Folgen externe Teilung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.; Normanker: BGB §§ 1361 und 1570 ff., 1601 ff.; FamFG Auskunft; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.
+### Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Eink` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -117,7 +117,7 @@ BGB §§ 1361, 1570 ff., 1601 ff.; FamFG Auskunft. Rechtsprechung wird nur mit G
 
 **Fokus:** Abänderung Versorgungsausgleich § 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Abänderung Versorgungsausgleich § 51 VersAusglG
+### Abänderung Versorgungsausgleich § 51 VersAusglG
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abänderung Versorgungsausgleich § 51 VersAusglG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -168,7 +168,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Ärztliche Versorgungswerke berufsständische Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Ärztliche Versorgungswerke berufsständische Versorgung
+### Ärztliche Versorgungswerke berufsständische Versorgung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ärztliche Versorgungswerke berufsständische Versorgung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -219,7 +219,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Anpassung wegen Invalidität oder besonderer Härte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Anpassung wegen Invalidität oder besonderer Härte
+### Anpassung wegen Invalidität oder besonderer Härte
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anpassung wegen Invalidität oder besonderer Härte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

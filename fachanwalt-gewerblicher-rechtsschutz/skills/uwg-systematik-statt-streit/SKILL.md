@@ -29,7 +29,7 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 
 **Fokus:** UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbände. Beispielfälle und Schriftsatzbausteine.
 
-# UWG: Systematik und Anwendung
+### UWG: Systematik und Anwendung
 
 ## Aufgabe
 Dieser Skill liefert die systematische Übersicht des UWG und praxisnahe Werkzeuge: Tatbestandsaufbau, Anspruchsberechtigung, Beispielfälle und Schriftsatzbausteine.
@@ -160,7 +160,7 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `gr-mitbewerberabmahnung-aktivlegitim
 
 **Fokus:** Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz. Wann Vergleich sinnvoll, Vergleichsoptionen (Abgrenzung, Kreuzlizenz, Einmalzahlung), Vergleichsprotokoll, RVG-Einigungsgebühr, Vergleichsklauseln und Risiken.
 
-# Vergleich statt Streit: Strategie im gewerblichen Rechtsschutz
+### Vergleich statt Streit: Strategie im gewerblichen Rechtsschutz
 
 ## Aufgabe
 Dieser Skill entwickelt Vergleichsstrategien für Schutzrechts- und Wettbewerbsrechtsstreitigkeiten: Entscheidungsrahmen, Optionen, Verhandlungsführung, Vertragsbausteine und Kostenaspekte.
@@ -301,7 +301,7 @@ von EUR [Betrag] für jeden Fall der Zuwiderhandlung (Hamburger Brauch).
 
 **Fokus:** Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für WIPO-Schiedsverfahren.
 
-# Vergleichsverhandlung und Einigung im Marken-, Patent-, Design- und Wettbewerbsrecht
+### Vergleichsverhandlung und Einigung im Marken-, Patent-, Design- und Wettbewerbsrecht
 
 ## Triage zu Beginn
 

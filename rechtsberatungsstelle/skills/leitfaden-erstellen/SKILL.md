@@ -28,7 +28,7 @@ Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Stu
 
 ---
 
-# Build Guide: Anleitungsgeführter Fachbereichsleitfaden
+### Build Guide: Anleitungsgeführter Fachbereichsleitfaden
 
 ## Triage zu Beginn
 1. Fuer welchen Fachbereich soll der Leitfaden erstellt werden (Mietrecht, Sozialrecht, Aufenthaltsrecht, Strafrecht)?

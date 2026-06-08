@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten.
 
-# Machtkritik und Interessenanalyse
+### Machtkritik und Interessenanalyse
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Machtkritik und Interessenanalyse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch.
 
-# Menschenwürde und Grundrechte
+### Menschenwürde und Grundrechte
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Menschenwürde und Grundrechte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -144,7 +144,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.
 
-# Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung
+### Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung
 
 ## Kritischer Ausgangspunkt
 Systemdenken und Wertungsjurisprudenz können dogmatisch nützlich sein, wenn sie Widersprüche sichtbar machen und Normzwecke kontrolliert entfalten. Sie werden gefährlich, wenn sie außerrechtliche Ordnungsvorstellungen als objektives Recht verkleiden.

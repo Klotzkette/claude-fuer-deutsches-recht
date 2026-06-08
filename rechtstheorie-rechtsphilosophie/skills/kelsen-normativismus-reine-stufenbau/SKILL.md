@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik.
 
-# Kelsen: Normativismus und reine Rechtslehre
+### Kelsen: Normativismus und reine Rechtslehre
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kelsen: Normativismus und reine Rechtslehre` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -115,7 +115,7 @@ Schließe mit einem Satz, der die Rechtsgeltung und die rechtspolitische Bewertu
 
 **Fokus:** Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.
 
-# Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin
+### Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin
 
 ## Leitidee
 Kelsen zwingt die juristische Arbeit zur Disziplin: Eine Aussage ist nicht schon Recht, weil sie sinnvoll, moralisch oder praktisch wirkt. Sie braucht eine Quelle, eine Kompetenz, ein Verfahren und einen Platz im Normengefüge.
@@ -134,7 +134,7 @@ Normstufenkarte plus kurzer Red-Team-Abschnitt gegen Souveränitäts-, Ausnahme-
 
 **Fokus:** Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf.
 
-# Stufenbau, Kompetenz und Normkette
+### Stufenbau, Kompetenz und Normkette
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Stufenbau, Kompetenz und Normkette` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

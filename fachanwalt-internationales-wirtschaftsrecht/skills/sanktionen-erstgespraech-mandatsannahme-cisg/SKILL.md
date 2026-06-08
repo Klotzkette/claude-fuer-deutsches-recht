@@ -29,7 +29,7 @@ description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wi
 
 **Fokus:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
+### Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden f체r Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Geb체hrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Internationales Wirtschafts- und Schiedsrecht
+### Erstgespraech und Mandatsannahme im Internationales Wirtschafts- und Schiedsrecht
 
 ## Wann dieser Arbeitsgang greift
 

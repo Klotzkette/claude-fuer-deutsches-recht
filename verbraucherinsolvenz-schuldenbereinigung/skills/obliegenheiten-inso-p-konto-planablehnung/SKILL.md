@@ -29,7 +29,7 @@ description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherins
 
 **Fokus:** Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.; Normanker: InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.
+### Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.
 
 ## Fachkern: Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 295. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlich
 
 **Fokus:** P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.; Normanker: ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.
+### P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.
 
 ## Fachkern: P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln. Entscheidend ist immer der aktu
 
 **Fokus:** Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.
+### Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.
 
 ## Fachkern: Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

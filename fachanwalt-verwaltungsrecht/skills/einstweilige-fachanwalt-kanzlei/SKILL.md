@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Einstweilige: Verhandlung, Vergleich und Eskalation
+### Einstweilige: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Einstweilige: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel im Plugin fachanwalt verwaltungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
+### Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Kanzlei: Formular, Portal und Einreichungslogik
+### Kanzlei: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Kanzlei: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** VwGO, VwVfG.

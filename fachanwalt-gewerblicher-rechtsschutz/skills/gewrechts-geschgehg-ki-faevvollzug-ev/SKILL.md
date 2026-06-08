@@ -565,7 +565,7 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 
 **Fokus:** EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz. § 929 ZPO Vollziehungsfrist, § 936 ZPO, § 12 UWG, Selbstzustellung, Parteibetrieb, Rechtsfolgen verspäteter Vollziehung.
 
-# EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung
+### EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung
 
 ## Aufgabe
 Dieser Skill prüft den EV-Vollziehungscheck bei einstweiligen Verfügungen im gewerblichen Rechtsschutz: Dringlichkeit erhalten, Titel korrekt erwirken, fristgerechte Vollziehung und Zustellung sicherstellen.

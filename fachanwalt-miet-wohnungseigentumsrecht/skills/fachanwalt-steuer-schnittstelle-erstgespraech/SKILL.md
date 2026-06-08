@@ -31,7 +31,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 
 **Fokus:** Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# Steuer-Schnittstelle Vermietung
+### Steuer-Schnittstelle Vermietung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuer-Schnittstelle Vermietung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erk
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht
+### Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -265,7 +265,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung.
 
-# Miet-/WEG-Mediation und Mietvereins-Schlichtung
+### Miet-/WEG-Mediation und Mietvereins-Schlichtung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Miet-/WEG-Mediation und Mietvereins-Schlichtung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -420,7 +420,7 @@ Audit durchgefuehrt am 27.05.2026. Drei Rechtsprechungs-Eintraege entfernt:
 
 **Fokus:** Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM.
 
-# Wärmepumpen-Einbau in WEG nach GEG 2024
+### Wärmepumpen-Einbau in WEG nach GEG 2024
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wärmepumpen-Einbau in WEG nach GEG 2024` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -651,7 +651,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 
 **Fokus:** Prüfungslinie für fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
+### Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

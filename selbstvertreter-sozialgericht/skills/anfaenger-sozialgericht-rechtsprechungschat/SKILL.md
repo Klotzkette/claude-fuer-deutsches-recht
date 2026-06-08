@@ -31,7 +31,7 @@ description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am
 
 **Fokus:** Geführter Anfänger-für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills.
 
-# Anfänger-Sozialgericht
+### Anfänger-Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anfänger-Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -152,7 +152,7 @@ Prüfen Sie:
 
 **Fokus:** Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden.
 
-# Rechtsprechungschat Sozialgericht
+### Rechtsprechungschat Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechungschat Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -236,7 +236,7 @@ Das ist hier relevant, weil [Tatsache].
 
 **Fokus:** Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster.
 
-# Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
+### Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhörung Im Sozialverwaltungsverfahren 24 Sgb X` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -290,7 +290,7 @@ Das ist hier relevant, weil [Tatsache].
 
 **Fokus:** Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt.
 
-# Die wichtigsten Fristen im SG-Verfahren
+### Die wichtigsten Fristen im SG-Verfahren
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die wichtigsten Fristen im SG-Verfahren` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -433,7 +433,7 @@ Stand: 05/2026. PostModG seit 1.1.2025 mit 4-Tage-Fiktion. Vor 2025: 3 Tage.
 
 **Fokus:** Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt.
 
-# Fristen sicher fuehren — für Buerger
+### Fristen sicher fuehren — für Buerger
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen sicher fuehren — für Buerger` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

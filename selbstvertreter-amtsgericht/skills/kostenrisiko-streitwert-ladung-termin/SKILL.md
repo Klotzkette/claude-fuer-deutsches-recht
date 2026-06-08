@@ -29,7 +29,7 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 
 **Fokus:** Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation.
 
-# Was kostet eine Klage vor dem Amtsgericht?
+### Was kostet eine Klage vor dem Amtsgericht?
 
 ## Worum geht es?
 
@@ -158,7 +158,7 @@ Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage v
 
 **Fokus:** Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort Sitzungssaal Aktenzeichen Bedeutung von Hinweisen wie Erscheinens-Pflicht Versaeumnis-Hinweis. Wie Sie eine Ladung prüfen und bestätigen.
 
-# Was steht in einer Termin-Ladung?
+### Was steht in einer Termin-Ladung?
 
 ## Worum geht es?
 
@@ -278,7 +278,7 @@ Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
 
 **Fokus:** Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschreib-Block Notizen zu Streit-Punkten. Vorbereitung der Argumente zur Replik im Termin. Praesenz oder Video 128a ZPO. Was zum Tisch was in die Tasche.
 
-# In den Termin gehen — Akten griffbereit, Notizen parat
+### In den Termin gehen — Akten griffbereit, Notizen parat
 
 ## Worum geht es?
 

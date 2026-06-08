@@ -31,7 +31,7 @@ description: "DSV Rechtsprechung Saas Vertrag Fristennotiz im Plugin Fachanwalt 
 
 **Fokus:** Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung.
 
-# Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO
+### Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -81,7 +81,7 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 
 **Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Saas: Fristen, Form, Zuständigkeit und Rechtsweg
+### Saas: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Saas: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -137,7 +137,7 @@ Härtere SLA-Klauseln nutzen wenig, wenn die Lebenswirklichkeit fehlt: Service C
 
 **Fokus:** Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Vertrag: Fristennotiz und nächster Schritt
+### Vertrag: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Vertrag: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -197,7 +197,7 @@ Schnelle Kündigung wirkt entschlossen, bringt aber selten Software wieder zum L
 
 **Fokus:** IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Prüfraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
 
-# IT-Vertrag-Verhandlung / EU-ODR
+### IT-Vertrag-Verhandlung / EU-ODR
 
 ## Zweck
 
@@ -368,7 +368,7 @@ Nächster Termin: [DATUM]
 
 **Fokus:** SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Prüfraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-prüfen.
 
-# SaaS-Vertrag — Prüfung und Verhandlung
+### SaaS-Vertrag — Prüfung und Verhandlung
 
 ## Kaltstart-Rückfragen
 

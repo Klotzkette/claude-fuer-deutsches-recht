@@ -30,7 +30,7 @@ description: "Kueschk Triage Laie Vergleichsverhandlung im Plugin Arbeitsrecht: 
 
 **Fokus:** KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie; bei Laie ständige Warnungen und dringende Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; leitet zu passenden Folge-Skills; zentraler Startpunkt für das gesamte KueschK-Workflow-Buendel.
 
-# KüSchK-Triage: Laie oder Anwalt?
+### KüSchK-Triage: Laie oder Anwalt?
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KüSchK-Triage: Laie oder Anwalt?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -124,7 +124,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Checkliste für Kündigungsschutz-Vergleiche: Beendigungsdatum; Abfindung nach Faustformel; Freistellung und Urlaubsabgeltung; Zeugnisnote und -formulierung; Klageerledigung; Outplacement; Rücklage-Klausel; alle Punkte die geregelt werden sollten.
 
-# Vergleichsverhandlung: Checkliste
+### Vergleichsverhandlung: Checkliste
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung: Checkliste` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -243,7 +243,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Weiterbeschaeftigungsantrag nach BAG Grosser Senat 1985: Voraussetzungen des allgemeinen Weiterbeschaeftigungsanspruchs; Vor- und Nachteile aus Arbeitnehmersicht; Vollstreckung; Unterschied zum § 102 Abs. 5 BetrVG Anspruch.
 
-# Weiterbeschäftigungsantrag — Großer Senat BAG 1985
+### Weiterbeschäftigungsantrag — Großer Senat BAG 1985
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Weiterbeschäftigungsantrag — Großer Senat BAG 1985` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -338,7 +338,7 @@ Aktenzeichen geprueft und korrigiert:
 
 **Fokus:** Zeugnisanspruch nach § 109 GewO: qualifiziertes Zeugnis; BAG-Mindestnote befriedigend bei fehlender Substantiierung; Formulierungsrisiken und geheime Negativsignale; typische Vergleichsformulierungen für Zeugnisse.
 
-# Zeugnisanspruch und Zeugnis im Vergleich
+### Zeugnisanspruch und Zeugnis im Vergleich
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zeugnisanspruch und Zeugnis im Vergleich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

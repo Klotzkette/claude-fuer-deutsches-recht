@@ -28,7 +28,7 @@ description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht: prüft 
 
 **Fokus:** Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster für Industrieanlagen und kommunale Vorhaben.
 
-# UwR: Wasserrecht-Erlaubnis
+### UwR: Wasserrecht-Erlaubnis
 
 ## Spezialwissen: UwR: Wasserrecht-Erlaubnis
 - **Normen-/Quellenanker:** WHG.

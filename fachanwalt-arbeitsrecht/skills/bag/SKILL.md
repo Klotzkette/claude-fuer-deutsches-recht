@@ -29,7 +29,7 @@ description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungsli
 
 **Fokus:** Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Rechtsprechung live prüfen
+### Rechtsprechung live prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhörungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhörung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhörungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
 
-# Anhörung des Betriebsrats (§ 102 BetrVG)
+### Anhörung des Betriebsrats (§ 102 BetrVG)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhörung des Betriebsrats (§ 102 BetrVG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -329,7 +329,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 
 **Fokus:** Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung
+### Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

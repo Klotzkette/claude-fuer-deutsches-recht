@@ -28,7 +28,7 @@ description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Manda
 
 **Fokus:** Weekly Status Report: steuert Wochenbericht mit Done/Doing/Blocked, Fristen, Budget, Risiken und Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
-# Weekly Status Report
+### Weekly Status Report
 
 ## Fachkern: Weekly Status Report
 - **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.

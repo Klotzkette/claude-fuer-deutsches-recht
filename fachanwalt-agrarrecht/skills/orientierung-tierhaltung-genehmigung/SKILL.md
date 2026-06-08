@@ -29,7 +29,7 @@ description: "Orientierung Tierhaltung Genehmigung im Agrarrecht: prüft konkret
 
 **Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
 
-# Fachanwalt für Agrarrecht — Orientierung
+### Fachanwalt für Agrarrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -133,7 +133,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhörung Buergerbeteiligung. Widerspruch Klage Eilantrag.
 
-# Tierhaltungs-Genehmigung
+### Tierhaltungs-Genehmigung
 
 ## Zweck
 
@@ -403,7 +403,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren.
 
-# Verhandlung und Schlichtung im Agrarrecht
+### Verhandlung und Schlichtung im Agrarrecht
 
 ## Zweck
 

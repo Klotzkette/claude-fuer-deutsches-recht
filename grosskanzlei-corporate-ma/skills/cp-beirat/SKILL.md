@@ -30,7 +30,7 @@ description: "CP Beirat im Corporate/M&A (Großkanzlei-Praxis): prüft konkret C
 
 **Fokus:** Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und 179a AktG, § 15 AktG Verfahren. Prüfraster amtliche Bundes- und Landesquellen, Aktenzeichen-Verifizierung, Randnummern, Fundstellen-Kette, aktuelle BGH-Senats-Rechtsprechung. Output Rechtsprechungs-Digest mit Datum, Aktenzeichen, Leitsatz und Deal-Relevanz. Abgrenzung zu inhaltlicher Vertragsgestaltung in SPA/APA-Entwurf und zu Board-Paper.
 
-# Corporate-Rechtsprechungsrecherche
+### Corporate-Rechtsprechungsrecherche
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate-Rechtsprechungsrecherche` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -131,7 +131,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Corporate-Rechtsprechungsrecherche
+### Corporate-Rechtsprechungsrecherche
 
 ## Zweck
 
@@ -226,7 +226,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing Conditions, §§ 35 ff. GWB Kartellfristen, §§ 55 ff. AWV FDI-Fristen. Prüfraster Fristen aus E-Mail SPA Regulatory Filing und Board extrahieren, Duplikate zusammenführen, Wiedervorlagedaten setzen. Output Fristenkalender mit Quelle Owner Ampel und Eskalationsprotokoll. Abgrenzung zu Steps-Plan-PMO für Aufgabenmanagement und zu Automation-Monitoring.
 
-# Freistehender Deal-Fristen- und CP-Kalender
+### Freistehender Deal-Fristen- und CP-Kalender
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Deal-Fristen- und CP-Kalender` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -327,7 +327,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Freistehender Deal-Fristen- und CP-Kalender
+### Freistehender Deal-Fristen- und CP-Kalender
 
 ## Zweck
 
@@ -395,7 +395,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Musterklauseln; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
-# Beirat Musterklauseln
+### Beirat Musterklauseln
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Beirat Musterklauseln` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -456,7 +456,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 **Fokus:** Stille-Reserven-Klausel des § 8c Abs. 4 KStG und § 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung der stillen Reserven, die Anforderungen an den § 8d-Antrag und die Fortführungsbindung. Liefert Berechnungsraster, Antrags-Checkliste und Risiko-Marker für die SPA-Dokumentation. Adressat ist das Großkanzlei-Team in komplexen Sanierungs- und Übernahmesituationen. Quellen Stand 06/2026.
 
-# Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG
+### Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Stille-Reserven-Klausel § 8c Abs. 4 KStG und § 8d KStG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

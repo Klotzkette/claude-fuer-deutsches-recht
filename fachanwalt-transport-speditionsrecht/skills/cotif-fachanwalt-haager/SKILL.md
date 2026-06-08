@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Cotif: Schriftsatz-, Brief- und Memo-Bausteine
+### Cotif: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Cotif: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel im Plugin fachanwalt transport speditionsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
+### Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstpr체fung, Rollenkl채rung und Mandatsziel
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Haager: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt transport speditionsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Haager: Zahlen, Schwellenwerte und Berechnung
+### Haager: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Haager: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

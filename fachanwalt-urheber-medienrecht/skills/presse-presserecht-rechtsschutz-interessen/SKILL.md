@@ -29,7 +29,7 @@ description: "Presse Presserecht Rechtsschutz Interessen im Plugin Fachanwalt Ur
 
 **Fokus:** Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Presse: Mandantenkommunikation und Entscheidungsvorlage
+### Presse: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Presse: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Presserecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt urheber medienrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Presserecht: Schriftsatz-, Brief- und Memo-Bausteine
+### Presserecht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Presserecht: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
@@ -103,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix
+### Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

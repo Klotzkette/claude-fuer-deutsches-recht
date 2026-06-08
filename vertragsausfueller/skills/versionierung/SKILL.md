@@ -28,7 +28,7 @@ description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfuell
 
 **Fokus:** Spezialfall Versionierung und Aenderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff. Pruefraster für Reviewteam.
 
-# VAF: Versionierung Aenderungsverfolgung
+### VAF: Versionierung Aenderungsverfolgung
 
 ## Spezialwissen: VAF: Versionierung Aenderungsverfolgung
 - **Normen-/Quellenanker:** VAF.

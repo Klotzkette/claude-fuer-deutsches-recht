@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Migrationsrecht im Fachanwalt M
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+### Vergleichsverhandlung und Einigung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
 
 ## Wann dieser Arbeitsgang greift
 

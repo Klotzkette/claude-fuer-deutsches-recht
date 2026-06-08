@@ -30,7 +30,7 @@ description: "Organisationsverschulden Ersteinschaetzung im Datenschutz-Sanktion
 
 **Fokus:** Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Organisationsverschulden ersteinschätzen
+### Organisationsverschulden ersteinschätzen
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Privilege Mandatsgeheimnis und Vertraulichkeit: Anwaltliche Kommunikation, Verteidigungsdokumente und vertrauliche Untersuchungsunterlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Privilege Mandatsgeheimnis und Vertraulichkeit
+### Privilege Mandatsgeheimnis und Vertraulichkeit
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Profiling und automatisierte Entscheidungen: Art. 22, Scoring, KI-Systeme, Transparenz, DSFA und Diskriminierungsrisiko im Bußgeldfall prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Profiling und automatisierte Entscheidungen
+### Profiling und automatisierte Entscheidungen
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Public Sector und Vergabefolgen: Folgen einer Datenschutzsanktion für öffentliche Auftraggeber, Vergaben, Zuverlässigkeit und Lieferantenstatus prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Public Sector und Vergabefolgen
+### Public Sector und Vergabefolgen
 
 ## Aufgabe
 

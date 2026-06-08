@@ -30,7 +30,7 @@ description: "Verteidigerrolle DSB Verwarnung ART VG im Datenschutz-Sanktionsver
 
 **Fokus:** Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
+### Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Verwarnung Art. 58 Abs. 2 lit. b: Verwarnung als milde, aber vorbelastungs- und reputationsrelevante Maßnahme einordnen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Verwarnung Art. 58 Abs. 2 lit. b
+### Verwarnung Art. 58 Abs. 2 lit. b
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Anfechtungsklage nach § 20 BDSG: Klage gegen Aufsichtsmaßnahmen mit Verwaltungsrechtsweg, ohne Vorverfahren und Sitz der Aufsicht als Zuständigkeitsanker vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Anfechtungsklage nach § 20 BDSG
+### Anfechtungsklage nach § 20 BDSG
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Eilrechtsschutz § 80 Abs. 5 VwGO: Sofortvollzug, Interessenabwägung und Erfolgsprognose gegen belastende Datenschutzanordnungen prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Eilrechtsschutz § 80 Abs. 5 VwGO
+### Eilrechtsschutz § 80 Abs. 5 VwGO
 
 ## Aufgabe
 

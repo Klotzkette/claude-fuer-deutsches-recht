@@ -31,7 +31,7 @@ description: "Datenschutz Sicherheit Daueraufenthalt EU im Migrationsrecht: prü
 
 **Fokus:** Datenschutz/Sicherheit: Fachmodul im Migrationsrecht; prüft Schutz sensibler Daten, Behördenweitergabe, Mandantenrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Datenschutz/Sicherheit
+### Datenschutz/Sicherheit
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Schutz sensibler Daten, Behördenweitergabe, Mandantenrisiko.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Schutz s
 
 **Fokus:** Daueraufenthalt-EU: Fachmodul im Migrationsrecht; prüft Zeiten, Lebensunterhalt, Sprachkenntnisse, Ausschlüsse, Mobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Daueraufenthalt-EU
+### Daueraufenthalt-EU
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Zeiten, Lebensunterhalt, Sprachkenntnisse, Ausschlüsse, Mobilität.
@@ -103,7 +103,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Zeiten, 
 
 **Fokus:** Digitale Beweise Flucht: Fachmodul im Migrationsrecht; prüft Fotos, Chats, Social Media, Metadaten, Übersetzung, Sicherheit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Digitale Beweise Flucht
+### Digitale Beweise Flucht
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Fotos, Chats, Social Media, Metadaten, Übersetzung, Sicherheit.
@@ -139,7 +139,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Fotos, C
 
 **Fokus:** Dublin: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Dublin: Risikoampel, Gegenargumente und Verteidigungslinien
+### Dublin: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Dublin: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
@@ -183,7 +183,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Duldung § 60a: Fachmodul im Migrationsrecht; prüft tatsächliche/rechtliche Unmöglichkeit, Attest, Pass, Familie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Duldung § 60a
+### Duldung § 60a
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft tatsächliche/rechtliche Unmöglichkeit, Attest, Pass, Familie.

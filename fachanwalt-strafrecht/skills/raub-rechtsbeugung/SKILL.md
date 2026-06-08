@@ -36,7 +36,7 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 
 **Fokus:** Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr für Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB.
 
-# Raub § 249 StGB
+### Raub § 249 StGB
 
 ## Worum geht es
 
@@ -147,7 +147,7 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 
 **Fokus:** Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB.
 
-# Raub mit Todesfolge § 251 StGB
+### Raub mit Todesfolge § 251 StGB
 
 ## Worum geht es
 
@@ -246,7 +246,7 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 **Fokus:** Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt für Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik.
 
-# Rechtsbeugung nach Paragraph 339 StGB
+### Rechtsbeugung nach Paragraph 339 StGB
 
 ## Worum geht es
 
@@ -354,7 +354,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 **Fokus:** Schuldnerbeguenstigung nach Paragraph 283d StGB. Strafbarkeit Dritter die in Kenntnis der drohenden Insolvenz Schuldnervermoegen beiseiteschaffen oder verheimlichen. Strohmann-Faelle Familienangehoerige Mitverantwortliche. Abgrenzung zur Teilnahme am Bankrott. Verteidigung mit Gutglaeubigkeit und Geschaeftsueblichkeit.
 
-# Schuldnerbeguenstigung nach Paragraph 283d StGB
+### Schuldnerbeguenstigung nach Paragraph 283d StGB
 
 ## Worum geht es konkret
 
@@ -460,7 +460,7 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 
 **Fokus:** Schwere Koerperverletzung nach § 226 StGB. Erfolgsqualifikation mit schweren Folgen Verlust eines wichtigen Glieds; Sehfaehigkeit / Sprachvermoegen / Fortpflanzungsfaehigkeit; entstellender Schaden; Siechtum oder Laehmung; geistige Krankheit. Mit Absichtsvariante § 226 Abs. 2 StGB.
 
-# Schwere Koerperverletzung § 226 StGB
+### Schwere Koerperverletzung § 226 StGB
 
 ## Worum geht es
 
@@ -572,7 +572,7 @@ Wenn der Taeter die schwere Folge **vorsaetzlich** verursacht (mindestens dolus 
 
 **Fokus:** Schwerer Raub nach § 250 Abs. 1 und Abs. 2 StGB. Qualifikationen Mit-sich-Fuehren von Waffe; Bande; Lebensgefaehrdung; schwere koerperliche Misshandlung. Verwendungsvariante § 250 Abs. 2 StGB Verwenden einer Waffe. Strafrahmen Abs. 1 nicht unter drei Jahren; Abs. 2 nicht unter fuenf Jahren.
 
-# Schwerer Raub § 250 StGB
+### Schwerer Raub § 250 StGB
 
 ## Worum geht es
 
@@ -691,7 +691,7 @@ In der Praxis ist die Abgrenzung **Beisich-Fuehren vs. Verwenden** zentral: Bere
 
 **Fokus:** Sexueller Missbrauch von Kindern nach § 176 StGB. Reform 2021 mit erhoehten Mindeststrafen. Strafrahmen ein bis 15 Jahre. Schutzobjekt Kind unter 14 Jahren. Qualifikationen §§ 176a 176c 176d StGB. Praxisleitfaden Glaubhaftigkeit der Kindesaussage und Aussagepsychologie.
 
-# Sexueller Missbrauch von Kindern § 176 StGB
+### Sexueller Missbrauch von Kindern § 176 StGB
 
 ## Worum geht es
 
@@ -816,7 +816,7 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 
 **Fokus:** Sexueller Uebergriff nach § 177 Abs. 1 StGB. Reform 2016 Nein heisst Nein. Sexuelle Handlung gegen den erkennbaren Willen einer anderen Person ohne Erfordernis von Gewalt oder qualifizierter Drohung. Strafrahmen sechs Monate bis fuenf Jahre. Praxisleitfaden Erkennbarkeit und Tatbestandsirrtum § 16 StGB.
 
-# Sexueller Uebergriff § 177 Abs. 1 StGB – "Nein heisst Nein"
+### Sexueller Uebergriff § 177 Abs. 1 StGB – "Nein heisst Nein"
 
 ## Worum geht es
 
@@ -930,7 +930,7 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 **Fokus:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
 
-# § 238 StGB — Nachstellung (Stalking)
+### § 238 StGB — Nachstellung (Stalking)
 
 ## Worum geht es konkret
 
@@ -1014,7 +1014,7 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 **Fokus:** Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz.
 
-# Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO
+### Gewerbsmäßiger und bandenmäßiger Schmuggel nach Paragraph 373 AO
 
 ## Worum geht es
 

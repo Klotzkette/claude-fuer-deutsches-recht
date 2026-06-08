@@ -30,7 +30,7 @@ description: "Edpb Bemessungsmethodik ART Streitbeilegung im Datenschutz-Sanktio
 
 **Fokus:** EDPB 04/2022 Bemessungsmethodik: Startbetrag, Schwere, Umsatz, erschwerende/mildernde Umstände, Höchstgrenze und Verhältnismäßigkeit nachrechnen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# EDPB 04/2022 Bemessungsmethodik
+### EDPB 04/2022 Bemessungsmethodik
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** EDPB-Streitbeilegung Art. 65: Verbindliche EDPB-Entscheidung bei Behördenstreit verstehen und Mandanteninteressen vorher sichern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# EDPB-Streitbeilegung Art. 65
+### EDPB-Streitbeilegung Art. 65
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** EDPB und DSK Praxis Livecheck: Aktuelle Leitlinien, Orientierungshilfen und Behördenpraxis live prüfen und nicht aus Modellwissen erfinden. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# EDPB und DSK Praxis Livecheck
+### EDPB und DSK Praxis Livecheck
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Einstellung vor Bescheid anregen: Tatbestand, Verschulden, Bemessung, Maßnahmenplan und Verhältnismäßigkeit für Einstellung oder Verwarnung bündeln. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Einstellung vor Bescheid anregen
+### Einstellung vor Bescheid anregen
 
 ## Aufgabe
 

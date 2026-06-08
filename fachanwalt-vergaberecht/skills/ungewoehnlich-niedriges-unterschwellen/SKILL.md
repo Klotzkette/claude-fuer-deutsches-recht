@@ -30,7 +30,7 @@ description: "Ungewoehnlich Niedriges Unterschwellen im Plugin Fachanwalt Vergab
 
 **Fokus:** Ungewoehnlich niedriges Angebot pruefen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge.
 
-# Ungewoehnlich niedriges Angebot
+### Ungewoehnlich niedriges Angebot
 
 ## Zweck
 
@@ -93,7 +93,7 @@ Preisabstandscheck, Aufklaerungsfragen, Entscheidungsvorlage, Rugebaustein.
 
 **Fokus:** Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1. Abschnitt, Landesrecht, einstweiliger Rechtsschutz, Zivilrechtsweg, Ruge und Kostenrisiko.
 
-# Unterschwellen-Rechtsschutz
+### Unterschwellen-Rechtsschutz
 
 ## Zweck
 
@@ -156,7 +156,7 @@ Rechtswegkarte, Eilantragsskizze, Ruge-/Anschreiben, Kosten-/Risikoampel.
 
 **Fokus:** Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit. Pruefraster für Bieter und Vergabestelle.
 
-# Verg: Eignungspruefung
+### Verg: Eignungspruefung
 
 ## Aufgabe
 Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit.
@@ -237,7 +237,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung. Pruefraster für Auftraggeber.
 
-# Verg: Rahmenvereinbarung Konzession
+### Verg: Rahmenvereinbarung Konzession
 
 ## Spezialwissen: Verg: Rahmenvereinbarung Konzession
 - **Normen-/Quellenanker:** KonzVgV.

@@ -96,7 +96,7 @@ Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertrags
 ## Ausgabeformat
 
 ```markdown
-# Verlängerungsübersicht – [Datum]
+### Verlängerungsübersicht – [Datum]
 
 **Fenster:** nächste [N] Tage
 **Einträge gesamt:** [N aktiv] | [N in Beobachtungsfenster]

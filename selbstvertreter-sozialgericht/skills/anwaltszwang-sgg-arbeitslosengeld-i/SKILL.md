@@ -31,7 +31,7 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 
 **Fokus:** Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen.
 
-# Brauchen Sie einen Anwalt? Der § 73 SGG
+### Brauchen Sie einen Anwalt? Der § 73 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Brauchen Sie einen Anwalt? Der § 73 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -148,7 +148,7 @@ Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen A
 
 **Fokus:** Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt.
 
-# Arbeitslosengeld I — Streit mit der Arbeitsagentur
+### Arbeitslosengeld I — Streit mit der Arbeitsagentur
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitslosengeld I — Streit mit der Arbeitsagentur` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -284,7 +284,7 @@ Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pr
 
 **Fokus:** Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage.
 
-# Arbeitsunfall Bg Anerkennung Anzeige
+### Arbeitsunfall Bg Anerkennung Anzeige
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsunfall Bg Anerkennung Anzeige` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -338,7 +338,7 @@ Plotzlich von aussen einwirkendes Ereignis das zu einem Gesundheitsschaden oder 
 
 **Fokus:** Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext.
 
-# Arzt-Atteste richtig nutzen
+### Arzt-Atteste richtig nutzen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arzt-Atteste richtig nutzen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -495,7 +495,7 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 **Fokus:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine.
 
-# Aufrechnung Laufende Leistungen 51 Sgb I
+### Aufrechnung Laufende Leistungen 51 Sgb I
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufrechnung Laufende Leistungen 51 Sgb I` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

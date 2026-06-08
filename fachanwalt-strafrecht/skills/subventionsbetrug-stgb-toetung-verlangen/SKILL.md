@@ -36,7 +36,7 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 
 **Fokus:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster für Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
 
-# Subventionsbetrug § 264 StGB
+### Subventionsbetrug § 264 StGB
 
 ## Worum geht es
 
@@ -141,7 +141,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 
 **Fokus:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
 
-# Toetung auf Verlangen § 216 StGB
+### Toetung auf Verlangen § 216 StGB
 
 ## Worum geht es
 
@@ -242,7 +242,7 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 **Fokus:** Totschlag nach § 212 StGB. Grundtatbestand der vorsaetzlichen Toetung. Abgrenzung zu Mord § 211 StGB und zur fahrlaessigen Toetung § 222 StGB. Vorsatzformen (dolus directus / eventualis) und Hemmschwellentheorie der staendigen BGH-Rechtsprechung. Versuch § 22 / § 23 StGB. Minder schwerer Fall § 213 StGB.
 
-# Totschlag § 212 StGB
+### Totschlag § 212 StGB
 
 ## Worum geht es
 
@@ -345,7 +345,7 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 **Fokus:** Gewaesserverunreinigung nach Paragraph 324 StGB. Schutzgut Beschaffenheit eines Gewaessers. Tathandlung Veraenderung verschlechterung der Wasserqualitaet. Verwaltungsakzessorietaet Genehmigung. Vorsatz und Fahrlaessigkeit Absatz 3. Verteidigungslinien Verursachungsbeitrag Stoff-Mengen-Schwelle wasserrechtliche Erlaubnis.
 
-# Gewaesserverunreinigung nach Paragraph 324 StGB
+### Gewaesserverunreinigung nach Paragraph 324 StGB
 
 ## Worum geht es
 
@@ -450,7 +450,7 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 **Fokus:** Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB. Schutzgut Boden und Gewaesserumwelt vor gefaehrlichen Abfaellen. Tathandlungen Behandeln Lagern Befoerdern Verbringen. Katalog Absatz 1 Nummer 1 bis 4. Absatz 2 grenzueberschreitendes Verbringen. Verwaltungsakzessorietaet KrWG. Verteidigung Abfallbegriff Vorsatz.
 
-# Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB
+### Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB
 
 ## Worum geht es
 
@@ -563,7 +563,7 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 
 **Fokus:** Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB. Schutzgut Genehmigungsvorbehalt im immissionsschutzrechtlichen Verfahren. Absatz 1 Nuklearanlagen Absatz 2 immissionsschutzrechtlich genehmigungsbeduerftige Anlagen. Verwaltungsakzessorietaet BImSchG. Strafbarkeit Anlagenbetrieb ohne Genehmigung wesentliche Abweichung.
 
-# Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB
+### Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB
 
 ## Worum geht es
 
@@ -670,7 +670,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 **Fokus:** Untreue nach Paragraph 266 StGB Grundtatbestand. Missbrauchstatbestand und Treubruchstatbestand. Vermoegensbetreuungspflicht aufgrund Gesetz Rechtsgeschaeft oder Treueverhaeltnis. Vermoegensschaden mit BGH-Stufenmodell. Verteidigungslinien bei Wirtschaftsstraftaten und GmbH-Geschaeftsfuehrung.
 
-# Untreue nach Paragraph 266 StGB Grundtatbestand
+### Untreue nach Paragraph 266 StGB Grundtatbestand
 
 ## Worum geht es konkret
 
@@ -773,7 +773,7 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 **Fokus:** Untreue im Aktienrecht. Paragraph 266 StGB iVm Paragraph 93 AktG Sorgfaltspflicht des Vorstands. Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG. Pflichtverletzung bei riskanten Unternehmensentscheidungen. Spendenpraxis Sponsoring Risikomanagement. Aufsichtsrat-Verantwortung Paragraph 116 AktG.
 
-# Untreue im Aktienrecht und Paragraph 93 AktG
+### Untreue im Aktienrecht und Paragraph 93 AktG
 
 ## Worum geht es konkret
 
@@ -880,7 +880,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 **Fokus:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster für Mitarbeiter Treuhaender Verwalter.
 
-# Treubruchstatbestand Paragraph 266 Abs 1 Alt 2 StGB und Vermoegensbetreuungspflicht
+### Treubruchstatbestand Paragraph 266 Abs 1 Alt 2 StGB und Vermoegensbetreuungspflicht
 
 ## Worum geht es konkret
 
@@ -982,7 +982,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 **Fokus:** Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten öffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB.
 
-# Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG
+### Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG
 
 ## Worum geht es
 

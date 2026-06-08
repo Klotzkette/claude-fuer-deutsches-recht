@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Schnittstelle: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Schnittstelle: Mehrparteienkonflikt und Interessenmatrix
+### Schnittstelle: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Schnittstelle: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Trade: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Trade: Beweislast, Darlegungslast und Substantiierung
+### Trade: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Trade: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
+### Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

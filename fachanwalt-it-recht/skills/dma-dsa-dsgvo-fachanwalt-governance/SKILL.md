@@ -31,7 +31,7 @@ description: "DMA DSA DSGVO Fachanwalt Governance im Plugin Fachanwalt It Recht:
 
 **Fokus:** DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# DMA: Compliance-Dokumentation und Aktenvermerk
+### DMA: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: DMA: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** DMA, DSGVO, BDSG, TTDSG, TKG, DDG, DSA, EU, KI, VO.
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# DSA: Zahlen, Schwellenwerte und Berechnung
+### DSA: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: DSA: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** DSA, DSGVO, BDSG, TTDSG, TKG, DDG, DMA, EU, KI, VO.
@@ -116,7 +116,7 @@ Die "45-Mio-Schwelle" wird halbjährlich nach Methodik der EU-Kommission gemesse
 
 **Fokus:** DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# DSGVO: Behörden-, Gerichts- oder Registerweg
+### DSGVO: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: DSGVO: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -171,7 +171,7 @@ Bei Schadensersatzklage Art. 82 DSGVO ist nach EuGH C-300/21 keine Erheblichkeit
 
 **Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
+### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
@@ -219,7 +219,7 @@ Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle 
 
 **Fokus:** Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Governance: Mandantenkommunikation und Entscheidungsvorlage
+### Governance: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Governance: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

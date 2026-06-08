@@ -31,7 +31,7 @@ description: "Inso Insanw Eigenverwaltung Konzerninsolvenz im Insolvenz- und San
 
 **Fokus:** Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff. InsO: Bescheinigung nach § 270d InsO, Sachwalter, Glaeubigerausschuss, Drittsicherheiten. Pruefraster für Bescheinigungsersteller.
 
-# InsAnw: Eigenverwaltung-Schutzschirm
+### InsAnw: Eigenverwaltung-Schutzschirm
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsAnw: Eigenverwaltung-Schutzschirm` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -88,7 +88,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Konzerninsolvenz §§ 3a ff. InsO: Gruppen-Gerichtsstand, Koordinationsverfahren, Konzern-Anfechtung. Pruefraster für mehrstufige Konzerne und auslaendische Tochtergesellschaften.
 
-# InsAnw: Konzerninsolvenz-Koordination
+### InsAnw: Konzerninsolvenz-Koordination
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsAnw: Konzerninsolvenz-Koordination` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -145,7 +145,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, Verrechnung mit eigenen Forderungen, § 96 InsO. Pruefraster typischer Bankenfaelle und BGH-Linie 2024 ff. Schriftsatzbausteine.
 
-# InsO: Anfechtung Bankkonto
+### InsO: Anfechtung Bankkonto
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsO: Anfechtung Bankkonto` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -201,7 +201,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal. Pruefraster und Mustertexte. Schnittstelle Arbeitsrecht.
 
-# InsO: Arbeitnehmerrechte
+### InsO: Arbeitnehmerrechte
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsO: Arbeitnehmerrechte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -257,7 +257,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und Abgrenzung zu Drittstaaten: Hauptverfahren, Sekundaerverfahren, COMI, automatische Anerkennung, Verwalterbefugnisse, Drittstaaten-Anerkennung nach §§ 335 ff., 343 InsO und Register-/Grundbuchvollzug.
 
-# InsO: Grenzüberschreitend — EuInsVO und Drittstaaten-Abgrenzung
+### InsO: Grenzüberschreitend — EuInsVO und Drittstaaten-Abgrenzung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsO: Grenzüberschreitend — EuInsVO und Drittstaaten-Abgrenzung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

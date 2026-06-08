@@ -29,7 +29,7 @@ description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkrete Prüfungslini
 
 **Fokus:** Prüfungslinie für fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
+### Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
 
 ## Zweck
 
@@ -253,7 +253,7 @@ Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwiss
 
 **Fokus:** Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten.
 
-# Landpacht und Höfeerbfolge prüfen
+### Landpacht und Höfeerbfolge prüfen
 
 ## Zweck
 
@@ -511,7 +511,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Förderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-prüfen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
 
-# Mandat-Triage Agrarrecht
+### Mandat-Triage Agrarrecht
 
 ## Zweck
 

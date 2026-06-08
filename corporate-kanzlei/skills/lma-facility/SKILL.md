@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Deal-Kommandocenter — Corporate/M&A
+### Deal-Kommandocenter — Corporate/M&A
 
 ## Triage — kläre beim Mandatseingang
 

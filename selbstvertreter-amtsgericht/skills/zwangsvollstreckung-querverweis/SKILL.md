@@ -28,7 +28,7 @@ description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht
 
 **Fokus:** Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil. Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes anstehen und welche Tools dabei helfen koennen.
 
-# Zwangsvollstreckung: Nutzen Sie den Substitutionsagenten
+### Zwangsvollstreckung: Nutzen Sie den Substitutionsagenten
 
 ## Worum geht es?
 

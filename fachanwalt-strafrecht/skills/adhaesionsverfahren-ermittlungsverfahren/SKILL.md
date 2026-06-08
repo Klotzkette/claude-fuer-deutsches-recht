@@ -31,7 +31,7 @@ description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft kon
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
-# Red-Team Qualitygate
+### Red-Team Qualitygate
 
 ## Aufgabe
 Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
@@ -76,7 +76,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO.
 
-# Adhäsionsverfahren im Strafverfahren
+### Adhäsionsverfahren im Strafverfahren
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -351,7 +351,7 @@ des Strafprozesses sprengt.
 
 **Fokus:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
+### Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** StPO.
@@ -388,7 +388,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
+### Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** StPO.
@@ -455,7 +455,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Aktenlog, Fristenbuch und Wiedervorlagen im Strafverfahren: erstellt aus Eingangspost, beA, EGVP, Verfügung, Ladung, Beschluss, Strafbefehl, Urteil und Aktennachlieferung eine robuste Fristen- und Aufgabensteuerung.
 
-# Aktenlog, Fristen und Wiedervorlagen
+### Aktenlog, Fristen und Wiedervorlagen
 
 ## Zweck
 

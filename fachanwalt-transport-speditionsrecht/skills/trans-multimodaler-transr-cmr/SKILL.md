@@ -29,7 +29,7 @@ description: "Trans Multimodaler Transr CMR im Plugin Fachanwalt Transport Spedi
 
 **Fokus:** Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading. Pruefraster Schadensregulierung.
 
-# Trans: multimodaler Transport
+### Trans: multimodaler Transport
 
 ## Spezialwissen: Trans: multimodaler Transport
 - **Normen-/Quellenanker:** HGB.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden. Pruefraster.
 
-# Transport: CMR-Spezial
+### Transport: CMR-Spezial
 
 ## Spezialwissen: Transport: CMR-Spezial
 - **Normen-/Quellenanker:** CMR.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort. Pruefraster Schadenslokalisation.
 
-# Transport: Multimodaler Transport
+### Transport: Multimodaler Transport
 
 ## Spezialwissen: Transport: Multimodaler Transport
 - **Normen-/Quellenanker:** HGB.

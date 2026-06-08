@@ -29,7 +29,7 @@ description: "CMR Haftung Ladungsschaden im Plugin Fachanwalt Transport Speditio
 
 **Fokus:** CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung.
 
-# CMR-Haftung – Grenzüberschreitender Straßengüterverkehr
+### CMR-Haftung – Grenzüberschreitender Straßengüterverkehr
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -321,7 +321,7 @@ Hilfsweise Klage auch gegen [C].
 
 **Fokus:** Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug.
 
-# Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)
+### Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)
 
 ## Kernsachverhalt & Mandantenfragen
 
@@ -627,7 +627,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen. Normen: §§ 425 427 428 HGB. Prüfraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtführerhaftungs-Prüfergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB.
 
-# Frachtführer-Haftung prüfen
+### Frachtführer-Haftung prüfen
 
 ## Kernsachverhalt & Mandantenfragen
 

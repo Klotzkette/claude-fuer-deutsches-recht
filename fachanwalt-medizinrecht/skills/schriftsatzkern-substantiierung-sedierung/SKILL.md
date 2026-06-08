@@ -30,7 +30,7 @@ description: "Schriftsatzkern Substantiierung Sedierung im Medizinrecht: prüft 
 
 **Fokus:** Substantiierter Schriftsatzkern für Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverständigen-Gutachten, Hilfsanträge Replik-Vorausschau. Output vollständiger Schriftsatz mit Antrag Begründung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission.
 
-# Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht
+### Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 
 ## Fachkern: Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -248,7 +248,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Ambulante Sedierung und IGeL: moderner Medizinrechts-Skill für Sedierung in Praxis/MVZ, Überwachung, Privatvereinbarung, GOÄ und Notfallmanagement. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Ambulante Sedierung und IGeL
+### Ambulante Sedierung und IGeL
 
 ## Fachkern: Ambulante Sedierung und IGeL
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -303,7 +303,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Sepsis-Diagnoseverzug: moderner Medizinrechts-Skill für Infektzeichen, Labor, Eskalation, Antibiotikagabe, SOP und Kausalitätsstreit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Sepsis-Diagnoseverzug
+### Sepsis-Diagnoseverzug
 
 ## Fachkern: Sepsis-Diagnoseverzug
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -358,7 +358,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** 630A: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# 630A: Dokumentenmatrix, Lückenliste und Nachforderung
+### 630A: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Fachkern: 630A: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft das Wissensproblem im Recht: dezentrale Information, lokale Praxis, Preissignale, Verwaltungskapazitaet, Gesetzgebung, Gerichte und die Grenze zentraler Planung ohne Anti-Gestaltungsdogma.
 
-# Wissensproblem, dezentrale Information und Recht
+### Wissensproblem, dezentrale Information und Recht
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wissensproblem, dezentrale Information und Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

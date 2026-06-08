@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung
+### Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Mandat: Abschlussprodukt und Übergabe im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Mandat: Abschlussprodukt und Übergabe
+### Mandat: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Mandat: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Nada: Mehrparteienkonflikt und Interessenmatrix
+### Nada: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Nada: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

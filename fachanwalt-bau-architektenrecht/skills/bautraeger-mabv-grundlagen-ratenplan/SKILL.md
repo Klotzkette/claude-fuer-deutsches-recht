@@ -30,7 +30,7 @@ description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Arch
 
 **Fokus:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster für Erwerber.
 
-# Bautraeger Mabv Grundlagen 1 2
+### Bautraeger Mabv Grundlagen 1 2
 
 ## Anwendungsbereich
 
@@ -62,7 +62,7 @@ Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben für fremde R
 
 **Fokus:** MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster.
 
-# Bautraeger Mabv Ratenplan 3 Mabv
+### Bautraeger Mabv Ratenplan 3 Mabv
 
 ## Norm
 
@@ -110,7 +110,7 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmäßigen Berat
 
 **Fokus:** MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster.
 
-# Bautraeger Mabv Sicherheit 2 Buergschaft
+### Bautraeger Mabv Sicherheit 2 Buergschaft
 
 ## Norm
 
@@ -151,7 +151,7 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmäßigen Berat
 
 **Fokus:** MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster.
 
-# Bautraeger Mabv Vermoegenstrennung
+### Bautraeger Mabv Vermoegenstrennung
 
 ## Pflicht zur Vermoegenstrennung
 

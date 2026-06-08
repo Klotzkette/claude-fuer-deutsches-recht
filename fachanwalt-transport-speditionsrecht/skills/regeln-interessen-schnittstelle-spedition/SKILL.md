@@ -44,7 +44,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Regeln: Mehrparteienkonflikt und Interessenmatrix
+### Regeln: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Regeln: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Schnittstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Schnittstelle: Formular, Portal und Einreichungslogik
+### Schnittstelle: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Schnittstelle: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spedition: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Spedition: Behörden-, Gerichts- oder Registerweg
+### Spedition: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Spedition: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität.
 
-# Gleichheit und Präjudizien
+### Gleichheit und Präjudizien
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gleichheit und Präjudizien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung.
 
-# Interpretation und Intention
+### Interpretation und Intention
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Interpretation und Intention` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -144,7 +144,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Uebersetzt rechtstheoretische Probleme für Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen.
 
-# Kanzlei-Briefing Rechtstheorie
+### Kanzlei-Briefing Rechtstheorie
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kanzlei-Briefing Rechtstheorie` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt 
 
 **Fokus:** Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster für Mandant.
 
-# BK: Bankenfehlberatung
+### BK: Bankenfehlberatung
 
 ## Spezialwissen: BK: Bankenfehlberatung
 - **Normen-/Quellenanker:** BGB, II, BGH, XI, ZR, BK.
@@ -77,7 +77,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behörde ist wofür zuständig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte für das Erstgespraech.
 
-# BK: Aufsichtsstruktur
+### BK: Aufsichtsstruktur
 
 ## Spezialwissen: BK: Aufsichtsstruktur
 - **Normen-/Quellenanker:** EZB, SSM, ESMA, KWG, ZAG, WpIG, WpHG, KAGB, MAR, BK.
@@ -125,7 +125,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto. Pro Produktart typische Anspruchsgrundlage, Verjährung, Beweislast. Entscheidungstabelle.
 
-# BK: Mandantenrouting Anleger
+### BK: Mandantenrouting Anleger
 
 ## Spezialwissen: BK: Mandantenrouting Anleger
 - **Normen-/Quellenanker:** ETF, BK.

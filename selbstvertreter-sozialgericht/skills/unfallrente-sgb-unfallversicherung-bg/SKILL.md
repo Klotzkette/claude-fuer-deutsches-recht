@@ -31,7 +31,7 @@ description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozia
 
 **Fokus:** Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster.
 
-# Unfallrente 56 Sgb Vii
+### Unfallrente 56 Sgb Vii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unfallrente 56 Sgb Vii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -88,7 +88,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 **Fokus:** Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte.
 
-# Streit mit der Berufsgenossenschaft — SGB VII
+### Streit mit der Berufsgenossenschaft — SGB VII
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Streit mit der Berufsgenossenschaft — SGB VII` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -253,7 +253,7 @@ Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Ane
 
 **Fokus:** Die Untätigkeitsklage nach § 88 SGG. Wenn die Behörde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger.
 
-# Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
+### Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -413,7 +413,7 @@ Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen of
 
 **Fokus:** Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger.
 
-# Sie haben das Urteil bekommen — was jetzt?
+### Sie haben das Urteil bekommen — was jetzt?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sie haben das Urteil bekommen — was jetzt?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -543,7 +543,7 @@ Stand: 05/2026. SGG aktuell.
 
 **Fokus:** Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin.
 
-# Der Vergleich im SG-Verfahren — § 101 SGG
+### Der Vergleich im SG-Verfahren — § 101 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Der Vergleich im SG-Verfahren — § 101 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

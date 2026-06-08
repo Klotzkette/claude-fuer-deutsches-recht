@@ -29,7 +29,7 @@ description: "Privatdarlehen Familie im Plugin Verbraucherinsolvenz Schuldenbere
 
 **Fokus:** Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.
+### Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.
 
 ## Fachkern: Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO Forderungsanmeldung; BGB Darlehen. Entscheidend ist immer der aktuelle Norm
 
 **Fokus:** Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.
+### Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.
 
 ## Fachkern: Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO §§ 286-303, 287, 300. Entscheidend ist immer der aktuelle Normstand der I
 
 **Fokus:** SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.
+### SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.
 
 ## Fachkern: SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

@@ -33,7 +33,7 @@ description: "Term Sheet im Corporate/M&A (Großkanzlei-Praxis): prüft konkret 
 
 **Fokus:** Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation.
 
-# Teaser, IM und Prozessdokumente
+### Teaser, IM und Prozessdokumente
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Teaser, IM und Prozessdokumente` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -134,7 +134,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Teaser, IM und Prozessdokumente
+### Teaser, IM und Prozessdokumente
 
 ## Zweck
 
@@ -206,7 +206,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Term-Sheet-to-SPA-Bridge: uebersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen.
 
-# Term Sheet To SPA Bridge
+### Term Sheet To SPA Bridge
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Term Sheet To SPA Bridge` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -292,7 +292,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Ländern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Prüfraster lokale Counsel-Matrix, Fragen standardisieren, Rechtsvergleich anstellen, Widersprueche eskalieren, Übersetzungen als Arbeitsuebersetzung kennzeichnen. Output Multi-Jurisdiction-Matrix mit Status je Land und Cross-border-Hinweisen. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Transaktionsstruktur.
 
-# Multi-Jurisdiction und Übersetzungen
+### Multi-Jurisdiction und Übersetzungen
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Multi-Jurisdiction und Übersetzungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -393,7 +393,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Multi-Jurisdiction und Übersetzungen
+### Multi-Jurisdiction und Übersetzungen
 
 ## Zweck
 
@@ -465,7 +465,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Transparenzregister- und UBO-Chain-Check für M&A: prueft wirtschaftlich Berechtigte, Kontrollketten, PEP-/Sanktionsschnittstellen und Dokumentationsbedarf.
 
-# Transparenzregister UBO Chain
+### Transparenzregister UBO Chain
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Transparenzregister UBO Chain` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -551,7 +551,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Pruefung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation.
 
-# Vendor Due Diligence VDD
+### Vendor Due Diligence VDD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vendor Due Diligence VDD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -637,7 +637,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Warranty Catalogue Negotiation: baut und prueft Garantiepakete für Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts.
 
-# Warranty Catalogue Negotiation
+### Warranty Catalogue Negotiation
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Warranty Catalogue Negotiation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -723,7 +723,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Schwaechen-Diagnose-Coach für Deal-Arbeit: erkennt juristisch duenne Argumente, fehlende Fakten, falsche Begriffe, zu schwache Klauseln, unklare Risiken und baut daraus einen konkreten Verbesserungsplan.
 
-# Weakness Diagnostic Coach
+### Weakness Diagnostic Coach
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Weakness Diagnostic Coach` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

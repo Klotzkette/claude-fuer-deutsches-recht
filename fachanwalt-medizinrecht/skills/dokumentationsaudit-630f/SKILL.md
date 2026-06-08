@@ -30,7 +30,7 @@ description: "Dokumentationsaudit 630f im Medizinrecht: prüft konkret Dokumenta
 
 **Fokus:** Dokumentationsaudit § 630f: moderner Medizinrechts-Skill für Behandlungsakte auditieren, Lücken, nachträgliche Änderungen, Metadaten und Beweisvermutung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Dokumentationsaudit § 630f
+### Dokumentationsaudit § 630f
 
 ## Fachkern: Dokumentationsaudit § 630f
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Einwilligungsunfähigkeit und Ablehnung: moderner Medizinrechts-Skill für Therapieablehnung, natürliche Wille, Zwangsbehandlung, Betreuungsgericht und Klinikalltag. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Einwilligungsunfähigkeit und Ablehnung
+### Einwilligungsunfähigkeit und Ablehnung
 
 ## Fachkern: Einwilligungsunfähigkeit und Ablehnung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -140,7 +140,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** E-Rezept und Falschmedikation: moderner Medizinrechts-Skill für E-Rezept, Medikationsliste, Wechselwirkung, Apotheken-/Arztfehler und Nachweisführung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# E-Rezept und Falschmedikation
+### E-Rezept und Falschmedikation
 
 ## Fachkern: E-Rezept und Falschmedikation
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -195,7 +195,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt meldet sich mit unstrukturiertem Sachverhalt zu Behandlungsfehler Approbationsproblem oder KV-Streit. § 630a BGB Behandlungsvertrag, § 43a BRAO Interessenkonflikte, § 3a RVG Honorar. Prüfraster Konstellation einordnen Arzthaftung Berufsrecht oder Vertragsarztrecht, Interessenkonflikt-Check, Vollmacht einholen, Streitwert und Gebührenvereinbarung, Fristen-Erstprognose. Output Mandats-Aufnahmeprotokoll mit Einordnung Sofortmassnahmen und Handlungsweichen. Abgrenzung zu Mandat-Triage-Medizinrecht und zu Erstgespraeach-Strafrecht.
 
-# Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht
+### Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht
 
 ## Fachkern: Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

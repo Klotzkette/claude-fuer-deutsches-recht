@@ -29,7 +29,7 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 
 **Fokus:** Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters.
 
-# Wie schreibe ich foermlich ans Amtsgericht?
+### Wie schreibe ich foermlich ans Amtsgericht?
 
 ## Worum geht es?
 
@@ -235,7 +235,7 @@ Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
 
 **Fokus:** Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden.
 
-# Den Klageantrag richtig formulieren
+### Den Klageantrag richtig formulieren
 
 ## Worum geht es?
 
@@ -422,7 +422,7 @@ Stand: 05/2026. § 253 II Nr. 2 ZPO unveraendert.
 
 **Fokus:** Einbau von Beweisangeboten in die Klageschrift. Urkundenbeweis Zeugenbeweis Sachverständigenbeweis Augenscheinsbeweis Parteivernehmung. Mit Mustern für Beweisanträge und Hinweisen zur Benennung ladungsfähiger Anschriften und konkretem Beweisthema.
 
-# Beweisantraege richtig in die Klage einbauen
+### Beweisantraege richtig in die Klage einbauen
 
 ## Worum geht es?
 

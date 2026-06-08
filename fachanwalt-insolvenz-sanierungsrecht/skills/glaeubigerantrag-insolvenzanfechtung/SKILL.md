@@ -265,7 +265,7 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 
 **Fokus:** Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich prüfen: Verwalter- und Anfechtungsgegnerperspektive, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146, KI-Screening von Schuldnerakten und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen.
 
-# Insolvenzanfechtung §§ 129 ff. InsO
+### Insolvenzanfechtung §§ 129 ff. InsO
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzanfechtung §§ 129 ff. InsO` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -373,7 +373,7 @@ Hinweis: Keine Rechtsberatung. Diese Prüfung ist Facharbeitsstruktur; Rechtssta
 
 **Fokus:** Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenkarte verifizierbare Quellen und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan.
 
-# Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
+### Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -749,7 +749,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung.
 
-# InsAnw: Anfechtung-Leitfaden
+### InsAnw: Anfechtung-Leitfaden
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `InsAnw: Anfechtung-Leitfaden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

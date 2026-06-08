@@ -29,7 +29,7 @@ description: "Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Hande
 
 **Fokus:** Einfuehrung deutsche Rechtsformen für Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft. Pro Rechtsform: Haftung, Mindestkapital, Organe, Steuerregime, typische Nutzung. Entscheidungsbaum für Mandanten.
 
-# Handelsrecht: Rechtsformen
+### Handelsrecht: Rechtsformen
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Handelsrecht: Rechtsformen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten. Mustertext für Findings-Memo.
 
-# HGR: DD-Checker light
+### HGR: DD-Checker light
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HGR: DD-Checker light` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -142,7 +142,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht
+### Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

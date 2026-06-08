@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen.
 
-# Systemdenken und Kohärenz
+### Systemdenken und Kohärenz
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemdenken und Kohärenz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung.
 
-# Technokratie, Industriegesellschaft und Grundrechte
+### Technokratie, Industriegesellschaft und Grundrechte
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Technokratie, Industriegesellschaft und Grundrechte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -153,7 +153,7 @@ Erstelle einen Technik-Rechts-Vermerk:
 
 **Fokus:** Prueft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit.
 
-# Unionsrecht und nationales Recht
+### Unionsrecht und nationales Recht
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unionsrecht und nationales Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

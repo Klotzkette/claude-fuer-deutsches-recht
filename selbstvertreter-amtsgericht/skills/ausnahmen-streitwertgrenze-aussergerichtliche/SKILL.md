@@ -29,7 +29,7 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 
 **Fokus:** Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG.
 
-# Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?
+### Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?
 
 ## Worum geht es?
 
@@ -131,7 +131,7 @@ Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 
 
 **Fokus:** Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren.
 
-# Mahnen Sie zuerst — bevor Sie klagen
+### Mahnen Sie zuerst — bevor Sie klagen
 
 ## Worum geht es?
 
@@ -269,7 +269,7 @@ Stand: 05/2026. § 286 BGB unveraendert. Basiszinssatz halbjaehrlich aktualisier
 
 **Fokus:** Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstigte Anwaltsberatung vor Gericht. Antrag beim Amtsgericht Berechtigungsschein Eigenanteil. Sinnvoll als Vorklaerung bevor Sie selbst klagen.
 
-# Beratungshilfe: Anwalt vor Klage (fast) umsonst
+### Beratungshilfe: Anwalt vor Klage (fast) umsonst
 
 ## Worum geht es?
 

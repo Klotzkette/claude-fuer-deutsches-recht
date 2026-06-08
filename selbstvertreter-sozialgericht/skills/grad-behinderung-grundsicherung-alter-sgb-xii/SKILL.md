@@ -31,7 +31,7 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 
 **Fokus:** Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger.
 
-# Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt
+### Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -196,7 +196,7 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 
 **Fokus:** Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage.
 
-# Grundsicherung Alter Sgb Xii 41
+### Grundsicherung Alter Sgb Xii 41
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundsicherung Alter Sgb Xii 41` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -242,7 +242,7 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 
 **Fokus:** Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger.
 
-# Grundsicherung im Alter und bei Erwerbsminderung — SGB XII
+### Grundsicherung im Alter und bei Erwerbsminderung — SGB XII
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundsicherung im Alter und bei Erwerbsminderung — SGB XII` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -404,7 +404,7 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 
 **Fokus:** Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe für Erwerbsfaehige ohne Anspruch auf Buergergeld und für voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster.
 
-# Hilfe Zum Lebensunterhalt 27 Sgb Xii
+### Hilfe Zum Lebensunterhalt 27 Sgb Xii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hilfe Zum Lebensunterhalt 27 Sgb Xii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -453,7 +453,7 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 
 **Fokus:** Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Pruefraster.
 
-# Kindergeld Familienkasse Einspruch
+### Kindergeld Familienkasse Einspruch
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kindergeld Familienkasse Einspruch` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

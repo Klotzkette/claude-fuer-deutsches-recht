@@ -29,7 +29,7 @@ description: "Bussgeld Unfall Haftungsquote VKR im Plugin Fachanwalt Verkehrsrec
 
 **Fokus:** Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Bussgeld: Zahlen, Schwellenwerte und Berechnung
+### Bussgeld: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Bussgeld: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BußgKatV, OWiG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Prüfraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverständige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Gläubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich.
 
-# Unfall-Haftungsquote berechnen
+### Unfall-Haftungsquote berechnen
 
 ## Zweck
 
@@ -341,7 +341,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung). Pruefraster für Mandantenberatung.
 
-# Verkehrsrecht: Totalschaden
+### Verkehrsrecht: Totalschaden
 
 ## Spezialwissen: Verkehrsrecht: Totalschaden
 - **Normen-/Quellenanker:** BGH.

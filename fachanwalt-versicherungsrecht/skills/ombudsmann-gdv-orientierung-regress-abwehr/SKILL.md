@@ -29,7 +29,7 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 
 **Fokus:** Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjährung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverständigenverfahren. Prüfraster Zuständigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zuständigkeitsprüfung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie.
 
-# Versicherungs-Ombudsmann / GDV-Schlichtung
+### Versicherungs-Ombudsmann / GDV-Schlichtung
 
 ## Zweck
 
@@ -159,7 +159,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung Versicherungsrecht vor. Normen VVG VAG GDV-Musterbedingungen AVB-Sparten BU KV LV Sach-Haftpflicht D-und-O. Prüfraster Sparten Normen FAO-Voraussetzungen verifizierbare Quellen typische Mandate Fristen. Output Rechtsgebietsuebersicht Normen verifizierbare Quellen und Routing zu Versicherungsmandats-Skills. Abgrenzung zu mandat-triage-versicherungsrecht und fachanwalt-versicherungsrecht-deckungsklage.
 
-# Fachanwalt für Versicherungsrecht — Orientierung
+### Fachanwalt für Versicherungsrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -255,7 +255,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung. Anwendungsfall Sozialversicherungstraeger oder Versicherung macht Regress auf Haftenden geltend. Normen § 116 SGB X Forderungsuebergang § 86 VVG Übergang § 76 LBG Dienstherrenregress. Prüfraster sachliche und zeitliche Kongruenz Quotenvorrecht Geschaedigter § 116 Abs. 3 SGB X Familienprivileg § 86 Abs. 3 VVG Mitverschulden Verjährung Hemmung Verhandlungen. Output Regressabwehrschreiben mit Konkurrenz-Einrede Quotenvorrecht-Argumentation und Verjährungseinrede. Abgrenzung zu klage-versicherer-strategie und schriftsatzkern-substantiierung.
 
-# Regress-Abwehr
+### Regress-Abwehr
 
 ## Kernsachverhalt
 

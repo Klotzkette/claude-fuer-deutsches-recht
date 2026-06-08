@@ -101,7 +101,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# W&I-Versicherung (Warranty & Indemnity Insurance)
+### W&I-Versicherung (Warranty & Indemnity Insurance)
 
 ## Triage — klaere vor Beginn
 

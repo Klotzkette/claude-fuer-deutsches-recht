@@ -29,7 +29,7 @@ description: "Wegh Eigentuemerversammlung Wirtschaftsplan im Plugin Weg Hausverw
 
 **Fokus:** Bauleiter Eigentuemerversammlung WEG: Einberufung, Tagesordnung, Beschlusskompetenz, Protokoll. Pruefraster für Verwalter.
 
-# WEGh: Eigentuemerversammlung
+### WEGh: Eigentuemerversammlung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEGh: Eigentuemerversammlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -87,7 +87,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle.
 
-# WEG: Wirtschaftsplan und Jahresabrechnung
+### WEG: Wirtschaftsplan und Jahresabrechnung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WEG: Wirtschaftsplan und Jahresabrechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -166,7 +166,7 @@ Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuel
 
 **Fokus:** Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE), V ZR 236/23 und V ZR 128/23 (Schlüsseländerung).
 
-# Wirtschaftsplan und Jahresabrechnung
+### Wirtschaftsplan und Jahresabrechnung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wirtschaftsplan und Jahresabrechnung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

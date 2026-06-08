@@ -43,7 +43,7 @@ description: "Staat Status Zeitachse Strafrecht im Migrationsrecht: prüft konkr
 
 **Fokus:** Status-Zeitachse: Prüfungslinie für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Status-Zeitachse
+### Status-Zeitachse
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten.
@@ -77,7 +77,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Strafrecht-Schnittstelle
+### Strafrecht-Schnittstelle
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel.
@@ -111,7 +111,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Studium/Ausbildung Start
+### Studium/Ausbildung Start
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit.
@@ -145,7 +145,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Unternehmensgründung Migration
+### Unternehmensgründung Migration
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen.
@@ -179,7 +179,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Urkundennachweis: Prüfungslinie für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Urkundennachweis
+### Urkundennachweis
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität.
@@ -213,7 +213,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Vulnerabilität/Atteste: Prüfungslinie für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
-# Vulnerabilität/Atteste
+### Vulnerabilität/Atteste
 
 ## Aufgabe
 Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität.
@@ -247,7 +247,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 **Fokus:** Staaten- und Gebietscheck Ägypten: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Ägypten
+### Staaten-/Gebietscheck: Ägypten
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ägypten**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -284,7 +284,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ägypten**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Äquatorialguinea: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Äquatorialguinea
+### Staaten-/Gebietscheck: Äquatorialguinea
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Äquatorialguinea**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -321,7 +321,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Äquatorialguinea
 
 **Fokus:** Staaten- und Gebietscheck Äthiopien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Äthiopien
+### Staaten-/Gebietscheck: Äthiopien
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Äthiopien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -358,7 +358,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Äthiopien**. Er 
 
 **Fokus:** Staaten- und Gebietscheck Afghanistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Afghanistan
+### Staaten-/Gebietscheck: Afghanistan
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Afghanistan**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -395,7 +395,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Afghanistan**. Er
 
 **Fokus:** Staaten- und Gebietscheck Albanien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Albanien
+### Staaten-/Gebietscheck: Albanien
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Albanien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -432,7 +432,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Albanien**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Algerien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Algerien
+### Staaten-/Gebietscheck: Algerien
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Algerien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -469,7 +469,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Algerien**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Amerikanisch-Samoa: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Amerikanisch-Samoa
+### Staaten-/Gebietscheck: Amerikanisch-Samoa
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Amerikanisch-Samoa**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -506,7 +506,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Amerikanisch-Samo
 
 **Fokus:** Staaten- und Gebietscheck Andorra: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Andorra
+### Staaten-/Gebietscheck: Andorra
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Andorra**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -543,7 +543,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Andorra**. Er ist
 
 **Fokus:** Staaten- und Gebietscheck Angola: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Angola
+### Staaten-/Gebietscheck: Angola
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Angola**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -580,7 +580,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Angola**. Er ist 
 
 **Fokus:** Staaten- und Gebietscheck Antigua und Barbuda: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Antigua und Barbuda
+### Staaten-/Gebietscheck: Antigua und Barbuda
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Antigua und Barbuda**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -617,7 +617,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Antigua und Barbu
 
 **Fokus:** Staaten- und Gebietscheck Argentinien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Argentinien
+### Staaten-/Gebietscheck: Argentinien
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Argentinien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.

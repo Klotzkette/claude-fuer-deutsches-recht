@@ -30,7 +30,7 @@ description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Archi
 
 **Fokus:** Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Pruefraster.
 
-# Bautraeger Rechtswidrige Anpassungsklauseln
+### Bautraeger Rechtswidrige Anpassungsklauseln
 
 ## Typische unwirksame Klauseln
 
@@ -70,7 +70,7 @@ description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Archi
 
 **Fokus:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
+### Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -107,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vertragstypen: Red-Team und Qualit채tskontrolle im Plugin fachanwalt bau architektenrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Vertragstypen: Red-Team und Qualit채tskontrolle
+### Vertragstypen: Red-Team und Qualit채tskontrolle
 
 ## Spezialwissen: Vertragstypen: Red-Team und Qualit채tskontrolle
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
@@ -144,7 +144,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Werkvertrag: Dokumentenmatrix, L체ckenliste und Nachforderung im Plugin fachanwalt bau architektenrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Werkvertrag: Dokumentenmatrix, L체ckenliste und Nachforderung
+### Werkvertrag: Dokumentenmatrix, L체ckenliste und Nachforderung
 
 ## Spezialwissen: Werkvertrag: Dokumentenmatrix, L체ckenliste und Nachforderung
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

@@ -31,7 +31,7 @@ description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialger
 
 **Fokus:** Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt.
 
-# Wie verhalte ich mich im Sitzungssaal?
+### Wie verhalte ich mich im Sitzungssaal?
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wie verhalte ich mich im Sitzungssaal?` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -176,7 +176,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 **Fokus:** Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster.
 
-# Verletztengeld 46 Sgb Vii
+### Verletztengeld 46 Sgb Vii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verletztengeld 46 Sgb Vii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -221,7 +221,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 **Fokus:** Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behörde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger.
 
-# Die Verpflichtungsklage — § 54 Abs. 1 SGG
+### Die Verpflichtungsklage — § 54 Abs. 1 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Verpflichtungsklage — § 54 Abs. 1 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -401,7 +401,7 @@ Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschloss
 
 **Fokus:** Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung.
 
-# Versand-Beweise sicher aufheben
+### Versand-Beweise sicher aufheben
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Versand-Beweise sicher aufheben` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -532,7 +532,7 @@ Stand: 05/2026. Standard-Beweispraxis.
 
 **Fokus:** Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen.
 
-# Video-Verhandlung am SG — § 110a SGG
+### Video-Verhandlung am SG — § 110a SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Video-Verhandlung am SG — § 110a SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

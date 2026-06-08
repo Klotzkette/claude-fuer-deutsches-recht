@@ -28,7 +28,7 @@ description: "Sachverstaendiger Innovationsstandard Samd im Medizinrecht: prüft
 
 **Fokus:** Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Sachverständiger und Innovationsstandard
+### Sachverständiger und Innovationsstandard
 
 ## Fachkern: Sachverständiger und Innovationsstandard
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -83,7 +83,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Software as Medical Device Zweckbestimmung
+### Software as Medical Device Zweckbestimmung
 
 ## Fachkern: Software as Medical Device Zweckbestimmung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

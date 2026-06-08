@@ -28,7 +28,7 @@ description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmuste
 
 **Fokus:** Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis; was fehlt, ist später schwer zu retten.
 
-# Wiedergabe Ansichten Fotos Linien
+### Wiedergabe Ansichten Fotos Linien
 
 ## Wann dieser Skill hilft
 

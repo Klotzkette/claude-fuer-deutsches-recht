@@ -70,7 +70,7 @@ Textsorte explizit benennen. Eine Hausarbeit, die wie ein Aufsatz ohne Gliederun
 Feedback von oben nach unten: Struktur zuerst, dann Absatzebene, dann Satzebene. Nicht auf Tippfehler springen, wenn die Gliederung fehlt.
 
 ```markdown
-# Schreib-Feedback — [Aufgabe / Datum]
+### Schreib-Feedback — [Aufgabe / Datum]
 
 **Textsorte:** [Hausarbeit / Seminararbeit / Aufsatz / Klausur]
 **Länge:** [N Wörter / N Seiten] [ggf. Vergleich mit Vorgabe]

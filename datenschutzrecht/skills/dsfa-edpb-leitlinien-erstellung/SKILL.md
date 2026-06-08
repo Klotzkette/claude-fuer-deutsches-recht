@@ -31,7 +31,7 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 
 **Fokus:** Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis.
 
-# Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
+### Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
 
 ## Zweck
 
@@ -156,7 +156,7 @@ Unterschrift DSB: ____________________
 
 **Fokus:** Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko.
 
-# DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO
+### DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO
 
 ## Zweck
 
@@ -370,7 +370,7 @@ Datum: [DATUM]
 
 **Fokus:** DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug.
 
-# DSFA bei internationalen Datentransfers
+### DSFA bei internationalen Datentransfers
 
 ## Zweck
 
@@ -509,7 +509,7 @@ Unterschrift DSB: ____________________
 
 **Fokus:** DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept.
 
-# DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung
+### DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung
 
 ## Zweck
 
@@ -632,7 +632,7 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 
 **Fokus:** Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenueber dem BSI Standard-Datenschutzmodell (SDM) und dem BSFD-Ansatz. Output: Methodenwahl mit Begruendung, Anwendungshinweisen und Werkzeugauswahl.
 
-# DSFA-Methodik CNIL PIA versus SDM/BSI
+### DSFA-Methodik CNIL PIA versus SDM/BSI
 
 ## Zweck
 

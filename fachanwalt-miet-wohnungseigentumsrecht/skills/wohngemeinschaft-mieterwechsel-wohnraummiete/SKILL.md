@@ -30,7 +30,7 @@ description: "Wohngemeinschaft Mieterwechsel Wohnraummiete im Miet- und Wohnungs
 
 **Fokus:** WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# WG und Mieterwechsel
+### WG und Mieterwechsel
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `WG und Mieterwechsel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -74,7 +74,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: kl�
 
 **Fokus:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Wohnraummiete: Behörden-, Gerichts- oder Registerweg
+### Wohnraummiete: Behörden-, Gerichts- oder Registerweg
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Wohnraummiete: Behörden-, Gerichts- oder Registerweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# Zwangsversteigerung Mietrecht
+### Zwangsversteigerung Mietrecht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zwangsversteigerung Mietrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 
 **Fokus:** Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
-# Zwangsverwaltung Mietrecht
+### Zwangsverwaltung Mietrecht
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Zwangsverwaltung Mietrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

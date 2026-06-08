@@ -29,7 +29,7 @@ description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft k
 
 **Fokus:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster für Verteidiger.
 
-# Sport: Doping-Disziplinarverfahren
+### Sport: Doping-Disziplinarverfahren
 
 ## Spezialwissen: Sport: Doping-Disziplinarverfahren
 - **Normen-/Quellenanker:** CAS, NADA.
@@ -115,7 +115,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Prüfungslinie für fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Spielervertrag
+### Spielervertrag
 
 ## Kaltstart-Rückfragen
 

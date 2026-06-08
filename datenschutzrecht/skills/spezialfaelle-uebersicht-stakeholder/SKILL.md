@@ -31,7 +31,7 @@ description: "DSV Spezialfaelle Uebersicht Stakeholder im Datenschutzrecht: prü
 
 **Fokus:** Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills. Behandelt: Ransomware; Insider-Threat; Fehlversand E-Mail/Brief; Endgeräteverlust; verlorener Datenträger; Cloud-Fehlkonfiguration; offene S3-Buckets; kompromittiertes E-Mail-Konto; Phishing-Erfolg; Schatten-IT; kompromittierter Dienstleister; Web-Defacement; Datenleck durch Whistleblower. Output: Übersichts-Matrix mit Erstbewertung und Verweisen auf vertiefte Skills. Abgrenzung: ersetzt nicht die Einzelbewertung.
 
-# Spezialfälle Datenschutzvorfall — Übersicht für die Triage
+### Spezialfälle Datenschutzvorfall — Übersicht für die Triage
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -83,7 +83,7 @@ Dienstleisterleck → AV-Vertrag prüfen; Meldekette Art. 33 Abs. 2 DSGVO.
 
 **Fokus:** Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbehörde; Strafverfolgungsbehörden; Betroffene; Großkunden mit Vertragsklauseln; Presse; Sozialmedien. Output: Stakeholder-Matrix mit Eskalations- und Informationsplan. Abgrenzung: keine konkreten Schreiben.
 
-# Stakeholder-Mapping nach Datenschutzvorfall
+### Stakeholder-Mapping nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -129,7 +129,7 @@ Stakeholder; Rolle; Pflicht oder freiwillig; Zeitpunkt; Verantwortlicher intern;
 
 **Fokus:** Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen; Empathie ohne Anerkenntnis; rechtliche Grenzen (§ 824 BGB; § 4 UWG; Art. 5 Abs. 1 lit. a DSGVO). Output: Sprachregel-Leitfaden mit Beispielsätzen Do/Don't. Abgrenzung: keine Pressemitteilung; keine individuelle Benachrichtigung.
 
-# Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall
+### Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -184,7 +184,7 @@ Reasoning vor Conclusion: erst Beschreibung der Lage; dann Bewertung; dann Empfe
 
 **Fokus:** Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unverzüglichen Aufklärung; Erwägungsgrund 87; Dokumentationspflichten in der Verdachtsphase; Risiko einer verspäteten Meldung. Output: Memo zur Einordnung und Begründung des Fristbeginns. Abgrenzung: keine eigene Meldung; keine Risikobewertung.
 
-# Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO
+### Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -235,7 +235,7 @@ Dokumentationsbausteine: was wurde wann wahrgenommen; welche Prüfungen wurden e
 
 **Fokus:** Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO; 72-Stunden-Lauf; Sofortmaßnahmen; Forensik-Beauftragung; Meldung an Aufsichtsbehörde; Benachrichtigung Betroffene; Pressemitteilung; Nachmeldung. Output: tabellarische Zeitleiste mit Quellen und Rechtsfolgen. Abgrenzung: keine Risikobewertung; keine Behördenmeldung im engeren Sinne.
 
-# Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion
+### Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion
 
 ## Triage — kläre vor der Bearbeitung
 

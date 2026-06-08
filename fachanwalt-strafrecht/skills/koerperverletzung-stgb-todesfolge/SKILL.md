@@ -36,7 +36,7 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 
 **Fokus:** Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung.
 
-# Koerperverletzung § 223 StGB
+### Koerperverletzung § 223 StGB
 
 ## Worum geht es
 
@@ -147,7 +147,7 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 
 **Fokus:** Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB.
 
-# Koerperverletzung mit Todesfolge § 227 StGB
+### Koerperverletzung mit Todesfolge § 227 StGB
 
 ## Worum geht es
 
@@ -251,7 +251,7 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 **Fokus:** Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien für den Anfechtungsgegner.
 
-# Schnittstelle Insolvenzanfechtung und Strafrecht
+### Schnittstelle Insolvenzanfechtung und Strafrecht
 
 ## Worum geht es konkret
 
@@ -366,7 +366,7 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 
 **Fokus:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo für Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
 
-# Kreditbetrug § 265b StGB
+### Kreditbetrug § 265b StGB
 
 ## Worum geht es
 
@@ -472,7 +472,7 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 **Fokus:** Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug für kontextsensitive Strafzumessungsargumentation.
 
-# Deliktsphaenomenologie nach Tatkategorie
+### Deliktsphaenomenologie nach Tatkategorie
 
 ## Worum geht es
 
@@ -578,7 +578,7 @@ Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensde
 
 **Fokus:** Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug für Schlussvortrag mit kriminologischen Argumenten.
 
-# Kriminologie als Bezugswissenschaft des Strafrechts
+### Kriminologie als Bezugswissenschaft des Strafrechts
 
 ## Worum geht es
 
@@ -662,7 +662,7 @@ Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandan
 
 **Fokus:** Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung für aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin.
 
-# Opferpsychologie und Aussagedynamik nach Trauma
+### Opferpsychologie und Aussagedynamik nach Trauma
 
 ## Worum geht es
 
@@ -743,7 +743,7 @@ Im Plaedoyer respektvoll und differenziert: "Die Zeugin hat ohne Zweifel belaste
 
 **Fokus:** Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik für Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung.
 
-# Rueckfallprognose und kriminalprognostische Verfahren
+### Rueckfallprognose und kriminalprognostische Verfahren
 
 ## Worum geht es
 
@@ -835,7 +835,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 
 **Fokus:** Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung für Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug für Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung.
 
-# Tatdynamik und Modus operandi
+### Tatdynamik und Modus operandi
 
 ## Worum geht es
 
@@ -941,7 +941,7 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akte
 
 **Fokus:** Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes öffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport.
 
-# Strafvorschriften des Markenrechts nach Paragraph 143 MarkenG
+### Strafvorschriften des Markenrechts nach Paragraph 143 MarkenG
 
 ## Worum geht es
 

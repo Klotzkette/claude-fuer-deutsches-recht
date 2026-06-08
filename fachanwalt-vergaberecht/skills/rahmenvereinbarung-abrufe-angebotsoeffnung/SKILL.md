@@ -30,7 +30,7 @@ description: "Rahmenvereinbarung Abrufe Angebotsoeffnung im Plugin Fachanwalt Ve
 
 **Fokus:** Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern: Laufzeit, Hoechstmengen, Abrufmechanik, Rangfolge, Transparenz und Vertragsmanagement.
 
-# Rahmenvereinbarung und Abrufe
+### Rahmenvereinbarung und Abrufe
 
 ## Zweck
 
@@ -93,7 +93,7 @@ Abrufmatrix, Mini-Wettbewerb-Check, Laufzeit-/Mengenrisiko, Textbausteine.
 
 **Fokus:** Angebot, Formfehler, Preisblatt und Ausschlussrisiken pruefen: Signatur, Datei, Frist, Nebenangebote, Preisangaben, Mischkalkulation und Unvollstaendigkeit.
 
-# Angebotsoeffnung und Formfehler
+### Angebotsoeffnung und Formfehler
 
 ## Zweck
 
@@ -156,7 +156,7 @@ Formfehlermatrix, Rettungsargumente, Ausschlussvermerk, Rugepunkte.
 
 **Fokus:** Auftragswert, Lose, Optionen, Verlaengerungen, Rahmenvereinbarungen und Umgehungsrisiken berechnen und dokumentieren.
 
-# Auftragswert- und Losbildungsrechner
+### Auftragswert- und Losbildungsrechner
 
 ## Zweck
 
@@ -219,7 +219,7 @@ Rechentabelle, Annahmenliste, Umgehungsrisiko, Begruendung Gesamtvergabe/Losverz
 
 **Fokus:** Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Aenderung der Unterlagen, Fristverlaengerung und Antwortlog.
 
-# Bieterfragen-Management
+### Bieterfragen-Management
 
 ## Zweck
 

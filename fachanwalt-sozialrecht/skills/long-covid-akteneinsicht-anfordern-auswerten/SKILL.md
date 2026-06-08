@@ -30,7 +30,7 @@ description: "Long Covid Akteneinsicht Anfordern Auswerten im Plugin Fachanwalt 
 
 **Fokus:** Long-Covid, Krankengeld und Aussteuerung: Arbeitsunfähigkeit, MD-Prüfung, Nahtlosigkeit, Reha-Antrag und Übergang in EM-Rente.; Normanker: SGB V §§ 44 ff.; SGB III § 145; SGB VI Reha/EM-Rente; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid, Krankengeld und Aussteuerung: Arbeitsunfähigkeit, MD-Prüfung, Nahtlosigkeit, Reha-Antrag und Übergang in EM-Rente.
+### Long-Covid, Krankengeld und Aussteuerung: Arbeitsunfähigkeit, MD-Prüfung, Nahtlosigkeit, Reha-Antrag und Übergang in EM-Rente.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid, Krankengeld und Aussteuerung: Arbeitsunfähigkeit, MD-Prüfung, Nahtlosigkeit, Reha-Antrag und Übergang in EM-` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -64,7 +64,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Mandant oder Anwalt benoetigt Einsicht in die Verwaltungsakte oder Gerichtsakte in einem laufenden Sozialrechtsverfahren. § 25 SGB X Akteneinsicht Verwaltungsverfahren § 120 SGG gerichtliches Verfahren Art. 15 DSGVO ergaenzend. Prüfraster: Antragsgegner (Behörde oder Sozialgericht) Vorgangsbezeichnung vollständige Akte inkl. medizinische Gutachten Aktennotizen Sachverständigenstellungnahmen. Versand beA. Vorgehen bei Verweigerung oder Schwaerzung. Output: Akteneinsichtsantrag fertig zum Versand. Abgrenzung zu akteneinsicht-auswerten (nach Erhalt der Akte).
 
-# Akteneinsicht anfordern
+### Akteneinsicht anfordern
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Akteneinsicht anfordern` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -150,7 +150,7 @@ Nach Eingang der Akte: Skill `akteneinsicht-auswerten`.
 
 **Fokus:** Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch für Widerspruch oder Klage auswerten. § 25 SGB X § 120 SGG. Prüfraster: chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke Widersprueche zwischen Aktenteilen Beweislage. Output: Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend/hilfreich/neutral/belastend) und Prüfkatalog für Folgeschriftsatz. Abgrenzung zu akteneinsicht-anfordern (Antrag) und bescheidanalyse (Bescheid-Fokus).
 
-# Akteneinsicht auswerten
+### Akteneinsicht auswerten
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Akteneinsicht auswerten` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -234,7 +234,7 @@ Verwaltungs- und Sozialakten enthalten besonders sensible Daten (Gesundheit Sozi
 
 **Fokus:** Anwalt muss Anlagenkonvolut zu Widerspruch Klage oder Schriftsatz in korrekter juristischer Konvention erstellen. Anlagenanhaenge Sozialrecht K1/W1/A1-Konvention. Prüfraster: Sigel Bezeichnung Quelle Datum Seitenzahl Bezug im Text. Erzeugt Anlagenverzeichnis und prüft Vollständigkeit jede Anlage muss im Text zitiert sein. Output: Anlagenverzeichnis als Vorblatt mit korrekter Nummerierung. Abgrenzung zu akteneinsicht-auswerten (Aktensichtung) und normenkontrollantrag-schriftsatz in anderen Plugins.
 
-# Anlagen erstellen
+### Anlagen erstellen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anlagen erstellen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

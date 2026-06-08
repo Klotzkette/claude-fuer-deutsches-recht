@@ -29,7 +29,7 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 
 **Fokus:** Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Prüfraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht für Europaeisches Nachlasszeugnis.
 
-# Erbschein-Antrag
+### Erbschein-Antrag
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbschein-Antrag` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -130,7 +130,7 @@ Anlagen
 
 **Fokus:** Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen. §§ 1922 2229 2303 BGB § 43a BRAO. Prüfraster: Erbfolge Testament Pflichtteil Ausschlagung Nachlassinsolvenz Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
 
-# Fachanwalt für Erbrecht — Orientierung
+### Fachanwalt für Erbrecht — Orientierung
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Erbrecht — Orientierung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -213,7 +213,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat. §§ 2303 2311 2314 BGB Pflichtteil. Prüfraster: Pflichtteilsberechtigter Nachlasswert Bewertung Auskunftsanspruch Ergaenzungsanspruch Abzuege. Output: Pflichtteilsberechnung Auskunftsklage-Entwurf. Abgrenzung: nicht für Pflichtteilsergaenzungsanspruch (fachanwalt-erbrecht-pflichtteilsergaenzung-2325).
 
-# Pflichtteilsberechnung — Auskunft und Stufenklage
+### Pflichtteilsberechnung — Auskunft und Stufenklage
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteilsberechnung — Auskunft und Stufenklage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

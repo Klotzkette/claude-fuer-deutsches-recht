@@ -31,7 +31,7 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 
 **Fokus:** Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Massnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist.
 
-# Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO
+### Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO
 
 ## Zweck
 
@@ -148,7 +148,7 @@ Mit freundlichen Gruessen
 
 **Fokus:** Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Pruefung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation.
 
-# Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO
+### Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO
 
 ## Zweck
 
@@ -272,7 +272,7 @@ Unterschrift DSB: ____________________
 
 **Fokus:** Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen.
 
-# DSFA-Vollvorlage Deutsch
+### DSFA-Vollvorlage Deutsch
 
 ## Zweck
 
@@ -474,7 +474,7 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 
 **Fokus:** Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis.
 
-# Typische Fehler bei der DSFA-Erstpruefung
+### Typische Fehler bei der DSFA-Erstpruefung
 
 ## Zweck
 
@@ -628,7 +628,7 @@ Unterschrift Pruefer: ____________________
 
 **Fokus:** Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Aenderungsanalyse Risikoreassessment und Versionshistorie.
 
-# DSFA Update bei Aenderungen und Revision
+### DSFA Update bei Aenderungen und Revision
 
 ## Zweck
 

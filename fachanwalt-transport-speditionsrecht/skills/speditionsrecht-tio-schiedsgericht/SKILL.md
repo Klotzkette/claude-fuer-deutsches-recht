@@ -29,7 +29,7 @@ description: "TIO Schiedsgericht im Plugin Fachanwalt Transport Speditionsrecht:
 
 **Fokus:** Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+### Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** HGB, CMR, COTIF, HG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren.
 
-# Transport-Recht — TIO / ADSp-Schiedsklauseln
+### Transport-Recht — TIO / ADSp-Schiedsklauseln
 
 ## Zweck
 
@@ -180,7 +180,7 @@ Stand: 05/2026. ADSp 2017 weiterhin als Branchenstandard. CMR 1956. Montrealer �
 
 **Fokus:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
+### Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

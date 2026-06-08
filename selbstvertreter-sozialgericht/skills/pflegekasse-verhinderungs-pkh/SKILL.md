@@ -31,7 +31,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 
 **Fokus:** Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage.
 
-# Pflegekasse Verhinderungs Und Kurzzeitpflege
+### Pflegekasse Verhinderungs Und Kurzzeitpflege
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegekasse Verhinderungs Und Kurzzeitpflege` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -76,7 +76,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 
 **Fokus:** Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt.
 
-# PKH-Bewilligung — die Erfolgsaussicht
+### PKH-Bewilligung — die Erfolgsaussicht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PKH-Bewilligung — die Erfolgsaussicht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -197,7 +197,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung.
 
-# Prozesskostenhilfe vor dem SG — § 73a SGG
+### Prozesskostenhilfe vor dem SG — § 73a SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prozesskostenhilfe vor dem SG — § 73a SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -361,7 +361,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 **Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
 
-# Rentenauskunft Und Versicherungsverlauf Pruefen
+### Rentenauskunft Und Versicherungsverlauf Pruefen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rentenauskunft Und Versicherungsverlauf Pruefen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -425,7 +425,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 **Fokus:** Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Verfahren der Kontoklaerung Antrag Belege Schwerpunkte Schulzeit Wehrdienst Mutterschutz Erziehung Pflege Arbeitslosigkeit Auslandsarbeit. Liefert Antragsvorlage.
 
-# Rentenkontenklaerung 149 Sgb Vi
+### Rentenkontenklaerung 149 Sgb Vi
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rentenkontenklaerung 149 Sgb Vi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

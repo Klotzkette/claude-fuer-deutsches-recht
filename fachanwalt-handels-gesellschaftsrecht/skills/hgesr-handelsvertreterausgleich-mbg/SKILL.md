@@ -29,7 +29,7 @@ description: "Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels G
 
 **Fokus:** Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit. Berechnung in mehreren Schritten: Rohausgleich, Billigkeitskorrektur, Hoechstgrenze. Beispielfall und Tabellenformeln. Routet in fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich.
 
-# Handelsvertreterausgleich § 89b HGB
+### Handelsvertreterausgleich § 89b HGB
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Handelsvertreterausgleich § 89b HGB` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -85,7 +85,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen. Pruefraster für Altvertraege, Anpassungsbedarf, neue Standardklauseln.
 
-# HGesR: MoPeG-Praxis
+### HGesR: MoPeG-Praxis
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HGesR: MoPeG-Praxis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -141,7 +141,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubigt), zuständiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG. Typische Beanstandungen, Zwischenverfuegung, Beschwerde gegen Eintragungs-Verweigerung. Mustertexte.
 
-# Registerrecht in der Praxis
+### Registerrecht in der Praxis
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Registerrecht in der Praxis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

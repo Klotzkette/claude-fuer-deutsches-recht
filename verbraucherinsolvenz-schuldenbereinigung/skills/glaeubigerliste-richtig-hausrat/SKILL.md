@@ -29,7 +29,7 @@ description: "Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Sch
 
 **Fokus:** Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.; Normanker: InsO § 305 Abs. 1 Nr. 3; InsO §§ 174 und 175; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
+### Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
 
 ## Fachkern: Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 305 Abs. 1 Nr. 3; InsO §§ 174, 175. Entscheidend ist immer der aktuell
 
 **Fokus:** Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.; Normanker: ZPO §§ 811 ff.; InsO § 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.
+### Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.
 
 ## Fachkern: Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ ZPO §§ 811 ff.; InsO § 36. Entscheidend ist immer der aktuelle Normstand der 
 
 **Fokus:** Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.; Normanker: ZPO Titel/Vollstreckung; BGB Verjährung; RDG-Kosten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.
+### Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.
 
 ## Fachkern: Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

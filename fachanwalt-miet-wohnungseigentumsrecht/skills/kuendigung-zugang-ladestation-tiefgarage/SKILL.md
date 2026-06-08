@@ -31,7 +31,7 @@ description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseige
 
 **Fokus:** Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht; prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Kündigung-Zugang-Check
+### Kündigung-Zugang-Check
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigung-Zugang-Check` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht; klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Ladestation Tiefgarage
+### Ladestation Tiefgarage
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ladestation Tiefgarage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht; erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Laienmodus Wohnraummiete
+### Laienmodus Wohnraummiete
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienmodus Wohnraummiete` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Mandantenbrief einfach: Prüfungslinie für Miet- und WEG-Recht; übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Mandantenbrief einfach
+### Mandantenbrief einfach
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenbrief einfach` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-miet-wohnungseigentumsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

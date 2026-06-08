@@ -28,7 +28,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medie
 
 **Fokus:** Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht für Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg).
 
-# Vergleichsverhandlung und Einigung im Urheber- und Medienrecht
+### Vergleichsverhandlung und Einigung im Urheber- und Medienrecht
 
 ## Triage zu Beginn
 

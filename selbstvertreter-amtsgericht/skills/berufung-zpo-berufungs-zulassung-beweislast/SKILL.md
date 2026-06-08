@@ -29,7 +29,7 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 **Fokus:** Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter.
 
-# Berufung gegen AG-Urteil: Was geht und was nicht
+### Berufung gegen AG-Urteil: Was geht und was nicht
 
 ## Worum geht es?
 
@@ -200,7 +200,7 @@ Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebu
 
 **Fokus:** Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht.
 
-# Berufungs-Zulassung bei Beschwer bis 1.000 EUR
+### Berufungs-Zulassung bei Beschwer bis 1.000 EUR
 
 ## Worum geht es?
 
@@ -327,7 +327,7 @@ Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (
 
 **Fokus:** Grundregel der Beweislast im Zivilprozess. Wer eine Norm zu seinen Gunsten geltend macht muss ihre Voraussetzungen beweisen. Beweislast-Umkehr in Sondernormen Anscheinsbeweis Indizien-Beweis und sekundaere Darlegungslast.
 
-# Wer beweist was? Die Beweislast im Zivilprozess
+### Wer beweist was? Die Beweislast im Zivilprozess
 
 ## Worum geht es?
 

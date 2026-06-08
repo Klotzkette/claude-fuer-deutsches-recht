@@ -29,7 +29,7 @@ description: "Widerspruchsschrift Mandat Triage im Plugin Fachanwalt Verwaltungs
 
 **Fokus:** Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Prüfraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begründung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo.
 
-# Widerspruchsschrift
+### Widerspruchsschrift
 
 ## Kernsachverhalt
 
@@ -347,7 +347,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 **Fokus:** Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untätigkeitsklage 3 Monate). Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht, Schule, Subventionen, Auslaender), Behördenebene, Verfahrensstand, Frist-Sofort-Check, Eskalation bei drohendem Vollzug. Output Triage-Protokoll mit Fristen-Ampel, Routing-Empfehlung. Abgrenzung: Detailprüfung siehe widerspruch-oder-klage-erstprüfung; Schriftsatz siehe schriftsatzkern-substantiierung.
 
-# Mandat-Triage Verwaltungsrecht
+### Mandat-Triage Verwaltungsrecht
 
 ## Zweck
 
@@ -478,7 +478,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Prüfraster: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. Output Schriftsatz-Geruest mit Klagepunkten und Begründungs-Bausteine. Abgrenzung: Fertige Klageschrift siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergabe-Schriftsatz siehe fachanwalt-vergaberecht-Plugin.
 
-# Schriftsatzkern und Substantiierung im Allgemeines Verwaltungs- und Bauplanungsrecht
+### Schriftsatzkern und Substantiierung im Allgemeines Verwaltungs- und Bauplanungsrecht
 
 ## Wann dieser Arbeitsgang greift
 

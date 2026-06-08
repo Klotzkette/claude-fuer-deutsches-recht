@@ -30,7 +30,7 @@ description: "Bescheid Anhörung Besondere Datenkategorien im Datenschutz-Sankti
 
 **Fokus:** Behördenpost richtig lesen: Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Behördenpost richtig lesen
+### Behördenpost richtig lesen
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Besondere Datenkategorien Art. 9: Gesundheits-, Beschäftigten-, biometrische, religiöse oder politische Daten als Schwerefaktor prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Besondere Datenkategorien Art. 9
+### Besondere Datenkategorien Art. 9
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Bestimmtheit und Ermessen Art. 58: Unklare, überschießende oder ermessensfehlerhafte Aufsichtsmaßnahmen präzise angreifen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Bestimmtheit und Ermessen Art. 58
+### Bestimmtheit und Ermessen Art. 58
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Beweisrecht im Datenschutz-OWiG: Strafprozessuale Beweislogik auf DSGVO-Vorwürfe übertragen, ohne zivilrechtliche Darlegungslast zu simulieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Beweisrecht im Datenschutz-OWiG
+### Beweisrecht im Datenschutz-OWiG
 
 ## Aufgabe
 

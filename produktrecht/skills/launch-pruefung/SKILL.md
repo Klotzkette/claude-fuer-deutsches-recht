@@ -115,7 +115,7 @@ Jeden Befund gegen die Kalibrierungstabelle in der CLAUDE.md abgleichen:
 ### Schritt 5: Prüfvermerk zusammenstellen
 
 ```markdown
-# Produkt-Launch-Prüfvermerk: [Produktname / Feature-Name]
+### Produkt-Launch-Prüfvermerk: [Produktname / Feature-Name]
 
 **Geprüft:** [Datum] | **Launch-Datum:** [Datum] | **Prüfer:** [Name]
 **PRD:** [Link] | **Ticket:** [Link, sofern verbunden]

@@ -30,7 +30,7 @@ description: "Mandantenbrief Leichte Triage Sozialrecht im Plugin Fachanwalt Soz
 
 **Fokus:** Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei.
 
-# Mandantenbrief in Einfacher oder Leichter Sprache
+### Mandantenbrief in Einfacher oder Leichter Sprache
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenbrief in Einfacher oder Leichter Sprache` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -199,7 +199,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing).
 
-# Mandat-Triage Sozialrecht
+### Mandat-Triage Sozialrecht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Sozialrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -363,7 +363,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Berücksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisanträge. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und eilantrag-sozialrecht.
 
-# Pflegegrad-Widerspruch — Praxisleitfaden
+### Pflegegrad-Widerspruch — Praxisleitfaden
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflegegrad-Widerspruch — Praxisleitfaden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -504,7 +504,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Prüfungslinie für pkh erfolgsaussicht pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# PKH-Erfolgsaussicht prüfen
+### PKH-Erfolgsaussicht prüfen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `PKH-Erfolgsaussicht prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

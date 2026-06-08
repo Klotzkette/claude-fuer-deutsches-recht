@@ -119,7 +119,7 @@ Separater Abschnitt nach den Prüfungsblöcken:
  im Ausfüllen dieser Blöcke.
 ═══════════════════════════════════════════════════════════════════════
 
-# Internes Rechtsgutachten: [Mandant] — [Rechtsfrage]
+### Internes Rechtsgutachten: [Mandant] — [Rechtsfrage]
 
 **Datum:** [Datum] | **Verfasser/-in:** [Studierender] | **Für:** [Supervisor]
 

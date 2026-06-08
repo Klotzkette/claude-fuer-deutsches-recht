@@ -31,7 +31,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 **Fokus:** Sitzungspolizei §§ 176 ff. GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsaetzlich nicht Adressat zwangsweiser Massnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnungsmittel als rechtliche Werkzeuge des Gerichts mit Voraussetzungen. Verteidigungsverhalten in Grenzsituationen Mandantenkommunikation Dokumentation Revisionsabsicherung.
 
-# Sitzungspolizei und Ordnungsmittel sicher navigieren
+### Sitzungspolizei und Ordnungsmittel sicher navigieren
 
 ## Kaltstart-Rueckfragen
 
@@ -84,7 +84,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 **Fokus:** Verschleppungsabsicht nach § 244 Abs. 3 Satz 3 StPO als Sonderfall der Ablehnung von Beweisantraegen sauber abgrenzen. Doppelte Voraussetzung des Gerichts. Antrag wuerde nicht wesentlich zur Sachaufklaerung beitragen und Antragsteller weiss das. Auch der Reformvorschlag der StPO-Reformkommission BMJ wuerde das Tatbestandsbild verschaerfen aber nicht jeden spaeten Antrag als verschleppend behandeln. Konkrete Substantiierungspflicht der Kammer.
 
-# Verschleppungsabsicht § 244 Abs. 3 Satz 3 StPO abgrenzen
+### Verschleppungsabsicht § 244 Abs. 3 Satz 3 StPO abgrenzen
 
 ## Kaltstart-Rueckfragen
 
@@ -131,7 +131,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 **Fokus:** Erste Reaktion wenn Gericht oder Staatsanwaltschaft den Vorwurf dysfunktionaler Strafverteidigung erhebt. Sauber unterscheiden zwischen dysfunktionaler Verteidigung mit verdeckter Strategie und zielfuehrender harter Konfliktverteidigung. Begriff hat keinen Eingriffstatbestand und ist kein Rechtsbegriff. Empirische Datenlage zeigt geringe Fallzahlen. Pruefen ob konkrete Handlung gegen § 137 Abs. 1 StPO oder Standesrecht verstoesst oder nur unbequem ist. Reaktion souveraen dokumentieren ohne defensive Eskalation.
 
-# Vorwurf dysfunktionale Strafverteidigung einordnen
+### Vorwurf dysfunktionale Strafverteidigung einordnen
 
 ## Kaltstart-Rueckfragen
 
@@ -182,7 +182,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 **Fokus:** Wahlverteidigerausschluss nach § 138a StPO abwehren. Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sicherheitsgefahren. Ausschluss ist ultima ratio und beruehrt das Beistandsrecht nach § 137 Abs. 1 StPO. Verteidigung gegen den Ausschlussantrag mit Bezug zu Beweisanforderungen Verhaeltnismaessigkeit und Verfahrensschutz.
 
-# Wahlverteidigerausschluss § 138a StPO abwehren
+### Wahlverteidigerausschluss § 138a StPO abwehren
 
 ## Kaltstart-Rueckfragen
 
@@ -230,7 +230,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 **Fokus:** Spezialfall Revisionspruefung StPO: § 337 sachlich- und verfahrensrechtliche Revision, Beruhensfrage, Verfahrensruegen Begruendungspflicht § 344 Abs. 2 StPO. Pruefraster für Revisionsbegruendung.
 
-# StrafR: Revisionspruefung
+### StrafR: Revisionspruefung
 
 ## Spezialwissen: StrafR: Revisionspruefung
 - **Normen-/Quellenanker:** StPO.

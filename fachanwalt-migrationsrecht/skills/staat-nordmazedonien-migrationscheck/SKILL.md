@@ -43,7 +43,7 @@ description: "Staat Nordmazedonien Migrationscheck im Migrationsrecht: prüft ko
 
 **Fokus:** Staaten- und Gebietscheck Nordmazedonien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Nordmazedonien
+### Staaten-/Gebietscheck: Nordmazedonien
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Nordmazedonien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -80,7 +80,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Nordmazedonien**.
 
 **Fokus:** Staaten- und Gebietscheck Nordzypern: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Nordzypern
+### Staaten-/Gebietscheck: Nordzypern
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Nordzypern**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -118,7 +118,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Nordzypern**. Er 
 
 **Fokus:** Staaten- und Gebietscheck Norwegen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Norwegen
+### Staaten-/Gebietscheck: Norwegen
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Norwegen**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -155,7 +155,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Norwegen**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Österreich: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Österreich
+### Staaten-/Gebietscheck: Österreich
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Österreich**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -192,7 +192,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Österreich**. Er
 
 **Fokus:** Staaten- und Gebietscheck Oman: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Oman
+### Staaten-/Gebietscheck: Oman
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Oman**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -229,7 +229,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Oman**. Er ist ke
 
 **Fokus:** Staaten- und Gebietscheck Pakistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Pakistan
+### Staaten-/Gebietscheck: Pakistan
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Pakistan**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -266,7 +266,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Pakistan**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Palästina: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Palästina
+### Staaten-/Gebietscheck: Palästina
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Palästina**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -304,7 +304,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Palästina**. Er 
 
 **Fokus:** Staaten- und Gebietscheck Palau: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Palau
+### Staaten-/Gebietscheck: Palau
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Palau**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -341,7 +341,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Palau**. Er ist k
 
 **Fokus:** Staaten- und Gebietscheck Panama: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Panama
+### Staaten-/Gebietscheck: Panama
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Panama**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -378,7 +378,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Panama**. Er ist 
 
 **Fokus:** Staaten- und Gebietscheck Papua-Neuguinea: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Papua-Neuguinea
+### Staaten-/Gebietscheck: Papua-Neuguinea
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Papua-Neuguinea**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -415,7 +415,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Papua-Neuguinea**
 
 **Fokus:** Staaten- und Gebietscheck Paraguay: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Paraguay
+### Staaten-/Gebietscheck: Paraguay
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Paraguay**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -452,7 +452,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Paraguay**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Peru: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Peru
+### Staaten-/Gebietscheck: Peru
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Peru**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -489,7 +489,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Peru**. Er ist ke
 
 **Fokus:** Staaten- und Gebietscheck Philippinen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Philippinen
+### Staaten-/Gebietscheck: Philippinen
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Philippinen**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -526,7 +526,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Philippinen**. Er
 
 **Fokus:** Staaten- und Gebietscheck Polen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Polen
+### Staaten-/Gebietscheck: Polen
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Polen**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -563,7 +563,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Polen**. Er ist k
 
 **Fokus:** Staaten- und Gebietscheck Portugal: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Portugal
+### Staaten-/Gebietscheck: Portugal
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Portugal**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -600,7 +600,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Portugal**. Er is
 
 **Fokus:** Staaten- und Gebietscheck Puerto Rico: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Puerto Rico
+### Staaten-/Gebietscheck: Puerto Rico
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Puerto Rico**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
@@ -637,7 +637,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Puerto Rico**. Er
 
 **Fokus:** Staaten- und Gebietscheck Réunion: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
-# Staaten-/Gebietscheck: Réunion
+### Staaten-/Gebietscheck: Réunion
 
 ## Aufgabe
 Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Réunion**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.

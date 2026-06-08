@@ -29,7 +29,7 @@ description: "Agrar Wolfsschaden Cross Glozez Förderung im Agrarrecht: prüft k
 
 **Fokus:** Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung. Mustertexte und aktuelle Rechtsprechung VG.
 
-# Agrar: Wolfsschaden
+### Agrar: Wolfsschaden
 
 ## Spezialwissen: Agrar: Wolfsschaden
 - **Normen-/Quellenanker:** BNatSchG, VG.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kuerzung Direktzahlungen, Widerspruch und Klage gegen Kuerzungsbescheid. Mustertexte und Pruefraster für Landwirt.
 
-# Agrar: Cross-Compliance
+### Agrar: Cross-Compliance
 
 ## Spezialwissen: Agrar: Cross-Compliance
 - **Normen-/Quellenanker:** GLOEZ.
@@ -127,7 +127,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg ueber Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Pruefraster und Mustertexte.
 
-# Agrar: GAP-Förderung
+### Agrar: GAP-Förderung
 
 ## Spezialwissen: Agrar: GAP-Förderung
 - **Normen-/Quellenanker:** GAP, EU, ELER, GLOEZ.

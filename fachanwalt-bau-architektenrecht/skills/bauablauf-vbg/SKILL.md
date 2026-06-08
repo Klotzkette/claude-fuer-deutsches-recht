@@ -30,7 +30,7 @@ description: "Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft ko
 
 **Fokus:** Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt.
 
-# Abnahme-Verweigerung wegen Mängeln
+### Abnahme-Verweigerung wegen Mängeln
 
 ## Zweck
 
@@ -182,7 +182,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung.
 
-# Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung
+### Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung
 
 ## Mandantenfragen beim Kaltstart
 
@@ -513,7 +513,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 **Fokus:** Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung.
 
-# Bauträger-Insolvenz — Erwerber-Schutz
+### Bauträger-Insolvenz — Erwerber-Schutz
 
 ## Zweck
 
@@ -698,7 +698,7 @@ nachweisbar. Bestehende Zitate IX ZR 109/04, IX ZR 235/12, IX ZR 285/14 bleiben.
 
 **Fokus:** HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung.
 
-# HOAI-Honorar (nach EuGH-Urteil)
+### HOAI-Honorar (nach EuGH-Urteil)
 
 ## Zweck
 

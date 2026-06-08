@@ -30,7 +30,7 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 
 **Fokus:** Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Betriebsrat — Ladung und Ersatzmitglieder prüfen
+### Betriebsrat — Ladung und Ersatzmitglieder prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsrat — Ladung und Ersatzmitglieder prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -177,7 +177,7 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 **Fokus:** Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan.
 
-# Betriebsübergang § 613a BGB prüfen
+### Betriebsübergang § 613a BGB prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betriebsübergang § 613a BGB prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -379,7 +379,7 @@ Zitierstandard: `../references/zitierweise.md`.
 
 **Fokus:** Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung.
 
-# /arbeitsrecht:einstellungsprüfung
+### /arbeitsrecht:einstellungsprüfung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `/arbeitsrecht:einstellungsprüfung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -549,7 +549,7 @@ Handlungsempfehlungen:
 
 **Fokus:** Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll.
 
-# Expansions-Update (Arbeitsrecht)
+### Expansions-Update (Arbeitsrecht)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Expansions-Update (Arbeitsrecht)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -29,7 +29,7 @@ description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gew
 
 **Fokus:** Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbedürfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
 
-# Orientierung Gewerblicher Rechtsschutz
+### Orientierung Gewerblicher Rechtsschutz
 
 ## Triage: Welches Schutzrecht ist betroffen?
 
@@ -109,7 +109,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Tätigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht für Verletzungsverfahren (§ 139 PatG).
 
-# Patent-Nichtigkeitsklage
+### Patent-Nichtigkeitsklage
 
 ## Triage zu Beginn
 
@@ -321,7 +321,7 @@ D2: [Titel, Veroeffentlichungsdatum]
 
 **Fokus:** Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismäßigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht für Hauptsacheverfahren.
 
-# UWG-Einstweilige Verfuegung
+### UWG-Einstweilige Verfuegung
 
 ## Triage zu Beginn
 

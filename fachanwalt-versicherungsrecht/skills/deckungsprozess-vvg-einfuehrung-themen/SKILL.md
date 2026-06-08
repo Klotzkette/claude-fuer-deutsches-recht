@@ -29,7 +29,7 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 
 **Fokus:** Deckungsklage: Gerichtsstand § 215 VVG, Klageart, Beweislast, Sachverständige, Streitwert und Vergleichsfenster.
 
-# FA Versicherungsrecht: Deckungsprozess § 215 VVG
+### FA Versicherungsrecht: Deckungsprozess § 215 VVG
 
 ## Einsatz
 
@@ -69,7 +69,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicherung, KFZ-Haftpflicht, Wohngebaeude, Hausrat, Rechtsschutz, gewerbliche Sparten. Entscheidungstabelle und Verweis auf Detail-Skills.
 
-# Versicherungsrecht: Themen
+### Versicherungsrecht: Themen
 
 ## Spezialwissen: Versicherungsrecht: Themen
 - **Normen-/Quellenanker:** KFZ.
@@ -117,7 +117,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Kreditausfall-, Warenkredit- und Restschuldversicherung: Limit, Ausfall, Obliegenheiten, Verbraucherdarlehen, Kopplung und Widerruf.
 
-# FA Versicherungsrecht: Kredit- und Restschuldversicherung
+### FA Versicherungsrecht: Kredit- und Restschuldversicherung
 
 ## Einsatz
 

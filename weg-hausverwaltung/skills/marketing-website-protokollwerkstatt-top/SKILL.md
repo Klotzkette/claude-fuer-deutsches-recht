@@ -29,7 +29,7 @@ description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwalt
 
 **Fokus:** Verwalter-Website rechtssicher gestalten (Stand 06/2026): Impressum nach § 5 DDG, Datenschutz nach TDDDG, § 34c GewO, Umgang mit falschen und negativen Bewertungen auf Google und Co. BGH VI ZR 1244/20.
 
-# Marketing: Website-Impressum, DDG und Bewertungsmanagement
+### Marketing: Website-Impressum, DDG und Bewertungsmanagement
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Marketing: Website-Impressum, DDG und Bewertungsmanagement` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -90,7 +90,7 @@ BGH, Urteil vom 14.11.2017, VI ZR 425/16 (Jameda I): Bewertungsplattform darf Ar
 
 **Fokus:** Erstellt und prüft Protokolle für lange Eigentümerversammlungen mit vielen Tagesordnungspunkten. Trennt Aussprache, Antrag, Beschlusswortlaut, Abstimmung, Verkündung, Anlagen und Nacharbeit. Output: protokollfähige TOP-Struktur.
 
-# Protokollwerkstatt für TOP-Marathons
+### Protokollwerkstatt für TOP-Marathons
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Protokollwerkstatt für TOP-Marathons` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -174,7 +174,7 @@ Frist: [...]
 
 **Fokus:** Rampe, beidseitige Handläufe, Tuerverbreiterung und Beleuchtungsoptimierung im Gemeinschaftseigentum (Stand 06/2026): DIN 18040 Masszahlen, Kostentragung § 21 WEG, Genehmigungspflicht Landesbauordnung, Beschlussvorlagen.
 
-# Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich
+### Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

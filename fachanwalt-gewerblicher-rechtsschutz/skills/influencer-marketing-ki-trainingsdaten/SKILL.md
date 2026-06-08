@@ -29,7 +29,7 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 
 **Fokus:** Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs. bezahlte Posts, Schleichwerbung, Abmahnpraxis, Plattformregeln Instagram/TikTok/YouTube, DS-GVO-Schnittstellen.
 
-# Influencer-Marketing und UWG
+### Influencer-Marketing und UWG
 
 ## Aufgabe
 Dieser Skill behandelt die lauterkeitsrechtlichen Anforderungen an Influencer-Marketing: Kennzeichnungspflicht, Schleichwerbungsverbot, Abmahnpraxis und aktuelle BGH-Rechtsprechung.
@@ -136,7 +136,7 @@ Anschluss-Skills: `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `uwg-syst
 
 **Fokus:** KI-Trainingsdaten und Urheberrecht: Text and Data Mining (TDM) §§ 44a, 44b UrhG, Opt-out-Vorbehalt, KI-generierte Werke und Schutzfähigkeit, EU AI Act, Haftung für KI-Output, Datenbankschutz § 87a UrhG, aktuelle EuGH-/BGH-Leitlinien.
 
-# KI-Trainingsdaten und Urheberrecht
+### KI-Trainingsdaten und Urheberrecht
 
 ## Aufgabe
 Dieser Skill behandelt die urheberrechtlichen Fragen rund um KI-Trainingsdaten, Text and Data Mining (TDM), Schutzfähigkeit KI-generierter Inhalte und Haftungsfragen nach dem EU AI Act.
@@ -234,7 +234,7 @@ Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-syst
 
 **Fokus:** Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht für außergerichtliche Abmahnungen.
 
-# Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht
+### Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht
 
 ## Triage zu Beginn
 

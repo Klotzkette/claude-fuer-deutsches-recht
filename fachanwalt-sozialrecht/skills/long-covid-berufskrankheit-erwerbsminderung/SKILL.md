@@ -30,7 +30,7 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 
 **Fokus:** Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.
+### Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gu` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -64,7 +64,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.
+### Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -98,7 +98,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.; Normanker: SGB IX § 152; VersMedV; SGB X §§ 20 und 21; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.
+### Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kogni` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -132,7 +132,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 **Fokus:** Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.; Normanker: SGB IX, SGB VIII Schnittstellen; Schulrecht der Länder; AWMF Long/Post-COVID Kinder/Jugendliche; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
-# Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.
+### Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Bewe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

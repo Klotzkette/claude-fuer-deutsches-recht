@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Handelsregister- und Registerabruf
+### Handelsregister- und Registerabruf
 
 ## Zweck
 

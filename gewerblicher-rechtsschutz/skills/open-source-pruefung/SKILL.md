@@ -165,7 +165,7 @@ Für jedes klassifizierte Paket:
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE]
 
-# OSS-Lizenz-Prüfung: [Projekt / Abhängigkeitsliste / Paket]
+### OSS-Lizenz-Prüfung: [Projekt / Abhängigkeitsliste / Paket]
 
 **Geprüft:** [Datum]
 **Umfang:** [Abhängigkeitsliste / Einzelbibliothek / Ausgehender Code]

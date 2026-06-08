@@ -29,7 +29,7 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 
 **Fokus:** Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung.
 
-# Fachanwalt für Internationales Wirtschaftsrecht — Orientierung
+### Fachanwalt für Internationales Wirtschaftsrecht — Orientierung
 
 ## FAO-Voraussetzungen
 
@@ -128,7 +128,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung.
 
-# Embargo-Prüfung Russland-Sanktionen
+### Embargo-Prüfung Russland-Sanktionen
 
 ## Kaltstart-Rückfragen
 
@@ -412,7 +412,7 @@ Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
 
 **Fokus:** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. grenzüberschreitende Vertragsklauseln Updates.
 
-# EU-US Data Privacy Framework — Folgen für Verträge
+### EU-US Data Privacy Framework — Folgen für Verträge
 
 ## Fachkern: EU-US Data Privacy Framework — Folgen für Verträge
 

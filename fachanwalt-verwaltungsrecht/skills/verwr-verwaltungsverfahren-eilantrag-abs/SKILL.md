@@ -29,7 +29,7 @@ description: "Verwr Verwaltungsverfahren Eilantrag ABS im Plugin Fachanwalt Verw
 
 **Fokus:** Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler.
 
-# VerwR: Verwaltungsverfahren-Checkliste
+### VerwR: Verwaltungsverfahren-Checkliste
 
 ## Aufgabe
 Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen.
@@ -97,7 +97,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behörde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: öffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begründungspflicht sofortige Vollziehung). Prüfraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begründung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift.
 
-# Eilantrag § 80 Abs. 5 VwGO
+### Eilantrag § 80 Abs. 5 VwGO
 
 ## Kernsachverhalt
 
@@ -449,7 +449,7 @@ Stand 05/2026.
 
 **Fokus:** Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Prüfraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung.
 
-# Energietrassen — Planfeststellung und Rechtsschutz
+### Energietrassen — Planfeststellung und Rechtsschutz
 
 ## Kernsachverhalt
 

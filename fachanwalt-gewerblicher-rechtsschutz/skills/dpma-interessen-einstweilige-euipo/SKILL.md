@@ -29,7 +29,7 @@ description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblich
 
 **Fokus:** DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie.
 
-# DPMA-Mehrparteienverfahren: Konflikte und Interessen
+### DPMA-Mehrparteienverfahren: Konflikte und Interessen
 
 ## Aufgabe
 Dieser Skill behandelt DPMA-Verfahren mit mehreren Beteiligten: Widerspruchsverfahren, Löschungsverfahren, Beschwerde beim BPatG und Strategiefragen bei kollidierenden Schutzrechten.
@@ -156,7 +156,7 @@ Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 
 **Fokus:** Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation.
 
-# Mandantenkommunikation: Entscheidungsvorlage Eilverfügung
+### Mandantenkommunikation: Entscheidungsvorlage Eilverfügung
 
 ## Aufgabe
 Dieser Skill unterstützt die Mandantenkommunikation in Eilsituationen: strukturierte Entscheidungsvorlage für oder gegen eine einstweilige Verfügung, Kostenaufklärung und mandantengerechte Darstellung der Optionen.
@@ -295,7 +295,7 @@ Wir empfehlen [Option] weil [Begründung].
 
 **Fokus:** EUIPO: Internationale Schnittstellen und Verfahren. Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Designierung über Hague-System.
 
-# EUIPO: Internationale Bezüge und Schnittstellen
+### EUIPO: Internationale Bezüge und Schnittstellen
 
 ## Aufgabe
 Dieser Skill behandelt EUIPO-Verfahren mit internationalem Bezug: Unionsmarken, GGM, IR-Marken, Beschwerdekammer, EuGH-Vorabentscheidungen und Schnittstellen zu WIPO.

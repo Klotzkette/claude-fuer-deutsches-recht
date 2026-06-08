@@ -31,7 +31,7 @@ description: "Unternehmerversorgung Gesellschafter im Plugin Fachanwalt Familien
 
 **Fokus:** Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# Unternehmerversorgung Gesellschafter-Geschäftsführer
+### Unternehmerversorgung Gesellschafter-Geschäftsführer
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Unternehmerversorgung Gesellschafter-Geschäftsführer` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -82,7 +82,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
 
-# Versorgungsausgleich: Abänderung, Totalrevision, Tod und 24-Monats-Regel
+### Versorgungsausgleich: Abänderung, Totalrevision, Tod und 24-Monats-Regel
 
 ## Verifizierte Entscheidungen
 - BGH, Beschluss vom 02.04.2025 - XII ZB 576/24: Bei Abänderung nach Tod eines Ehegatten ist § 88 Abs. 2 SGB VI für Entgeltpunkte nur bei neuem Rentenbezug innerhalb von 24 Kalendermonaten maßgeblich.
@@ -104,7 +104,7 @@ Eine `Anrechtsmatrix` und einen Antrag-/Zurückweisungsbaustein mit klarer Trenn
 
 **Fokus:** VA bei Lebenspartnerschaft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# VA bei Lebenspartnerschaft
+### VA bei Lebenspartnerschaft
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `VA bei Lebenspartnerschaft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** VA im internationalen Scheidungsfall: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# VA im internationalen Scheidungsfall
+### VA im internationalen Scheidungsfall
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `VA im internationalen Scheidungsfall` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -206,7 +206,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 **Fokus:** VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
-# VA und Insolvenz eines Versorgungsträgers
+### VA und Insolvenz eines Versorgungsträgers
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `VA und Insolvenz eines Versorgungsträgers` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

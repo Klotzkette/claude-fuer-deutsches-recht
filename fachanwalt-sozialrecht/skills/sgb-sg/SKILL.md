@@ -30,7 +30,7 @@ description: "SGB SG im Plugin Fachanwalt Sozialrecht: prüft konkrete Prüfungs
 
 **Fokus:** Prüfungslinie für fachanwalt sozialrecht sgb ii bescheid: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# SGB-II-Bescheid (Bürgergeld)
+### SGB-II-Bescheid (Bürgergeld)
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `SGB-II-Bescheid (Bürgergeld)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -368,7 +368,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behörde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhörung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behörde Klagebegründung Vergleichsbereitschaft Gericht.
 
-# Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
+### Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -679,7 +679,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begründung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid).
 
-# Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)
+### Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -1037,7 +1037,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad).
 
-# Hilfsmittelantrag prüfen
+### Hilfsmittelantrag prüfen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Hilfsmittelantrag prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

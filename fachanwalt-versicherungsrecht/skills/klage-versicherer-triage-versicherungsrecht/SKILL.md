@@ -29,7 +29,7 @@ description: "Klage Versicherer Triage Versicherungsrecht im Plugin Fachanwalt V
 
 **Fokus:** Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz. Anwendungsfall alle außergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Fälligkeit Verzug § 215 VVG örtliche Zuständigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Prüfraster Streitwert Zuständigkeit Klageantrag Substantiierung Beweisangebote Sachverständiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung.
 
-# Klage gegen Versicherer — Strategie
+### Klage gegen Versicherer — Strategie
 
 ## Zweck
 
@@ -336,7 +336,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjährung drei Jahre §§ 12 14 VVG Fälligkeit Schadensmeldung AVB-Klagefristen. Prüfraster Sparte Ereignis Stichtag Deckungsablehnung Hoehe Frist-Sofort-Check Eskalation bei BU-Ablehnung oder lebensbedrohlichen Krankheitskosten. Output Triage-Ergebnis mit Routing zu deckungsanfrage-prüfen und Fristen-Eskalationshinweis. Abgrenzung zu deckungsanfrage-prüfen und erstgespraech-mandatsannahme.
 
-# Mandat-Triage Versicherungsrecht
+### Mandat-Triage Versicherungsrecht
 
 ## Zweck
 
@@ -474,7 +474,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Substantiierter Schriftsatzkern für Deckungsklage, Klage BU/UB, Klage Sachversicherung, RSV-Deckungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-# Schriftsatzkern und Substantiierung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
+### Schriftsatzkern und Substantiierung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
 ## Wann dieser Arbeitsgang greift
 

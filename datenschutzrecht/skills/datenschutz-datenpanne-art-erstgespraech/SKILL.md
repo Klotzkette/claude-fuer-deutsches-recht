@@ -31,7 +31,7 @@ description: "Datenschutz Datenpanne ART Erstgespraech im Datenschutzrecht: prü
 
 **Fokus:** Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-für-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte für Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
-# Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO
+### Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO
 
 ## Zweck
 
@@ -170,7 +170,7 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 
 **Fokus:** Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule.
 
-# Datenschutz Erstgespraech — Mandantenmatrix mit sieben Fragen
+### Datenschutz Erstgespraech — Mandantenmatrix mit sieben Fragen
 
 ## Zweck
 
@@ -300,7 +300,7 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 
 **Fokus:** Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie.
 
-# Art. 15 DSGVO bei Auskunftei und Scorelogik
+### Art. 15 DSGVO bei Auskunftei und Scorelogik
 
 ## Einsatz
 
@@ -334,7 +334,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis).
 
-# Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
+### Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
 
 ## Zweck
 
@@ -463,7 +463,7 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 
 **Fokus:** Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhörung Mandant antwortbereit. Schritt-für-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte für Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
-# Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden
+### Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden
 
 ## Zweck
 

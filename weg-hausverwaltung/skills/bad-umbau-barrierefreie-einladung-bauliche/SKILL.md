@@ -29,7 +29,7 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 
 **Fokus:** Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12.
 
-# Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum
+### Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -105,7 +105,7 @@ Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier
 
 **Fokus:** Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs.
 
-# Barrierefreie Einladungen, Protokolle und Abrechnungen
+### Barrierefreie Einladungen, Protokolle und Abrechnungen
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Barrierefreie Einladungen, Protokolle und Abrechnungen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -166,7 +166,7 @@ AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung v
 
 **Fokus:** Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22.
 
-# Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
+### Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

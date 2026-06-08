@@ -30,7 +30,7 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 
 **Fokus:** Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur.
 
-# Formfehler bei der Kündigung prüfen
+### Formfehler bei der Kündigung prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Formfehler bei der Kündigung prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -162,7 +162,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen.
 
-# Gütetermin: Strategie und Sprechzettel
+### Gütetermin: Strategie und Sprechzettel
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gütetermin: Strategie und Sprechzettel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -269,7 +269,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden.
 
-# Kammertermin: Sprechzettel für die Hauptverhandlung
+### Kammertermin: Sprechzettel für die Hauptverhandlung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kammertermin: Sprechzettel für die Hauptverhandlung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -378,7 +378,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil.
 
-# Klageschrift — Anwaltliche Version
+### Klageschrift — Anwaltliche Version
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift — Anwaltliche Version` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

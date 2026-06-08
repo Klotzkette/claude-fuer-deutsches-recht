@@ -29,7 +29,7 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 
 **Fokus:** Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG.
 
-# Spezial: Befristung — Compliance, Dokumentation und Akte
+### Spezial: Befristung — Compliance, Dokumentation und Akte
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Befristung — Compliance, Dokumentation und Akte` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -151,7 +151,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 
 **Fokus:** Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang.
 
-# Spezial: FAO — Fristen, Form und Zuständigkeit (ArbGG)
+### Spezial: FAO — Fristen, Form und Zuständigkeit (ArbGG)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: FAO — Fristen, Form und Zuständigkeit (ArbGG)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -269,7 +269,7 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 
 **Fokus:** Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation.
 
-# Spezial: Unwirksam erkannt — Fristennotiz und nächster Schritt
+### Spezial: Unwirksam erkannt — Fristennotiz und nächster Schritt
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Unwirksam erkannt — Fristennotiz und nächster Schritt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

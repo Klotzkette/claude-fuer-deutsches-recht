@@ -39,7 +39,7 @@ description: "Abnahme Nachtrag im Plugin Fachanwalt Bau Architektenrecht: prüft
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Bau Architektenrecht — Allgemein
+### Fachanwalt Bau Architektenrecht — Allgemein
 
 ## Schnellstart-Workflow
 
@@ -177,7 +177,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Abnahme: technische Abnahme gegen rechtliche Abnahme § 640 BGB, Abnahmevoraussetzungen, Verweigerungsrechte bei wesentlichen Maengeln, fiktive Abnahme § 640 Abs. 2 BGB. Pruefraster und Mustertext für Abnahmeerklaerung.
 
-# Bau: Abnahme-Workflow
+### Bau: Abnahme-Workflow
 
 ## Spezialwissen: Bau: Abnahme-Workflow
 - **Normen-/Quellenanker:** BGB.
@@ -226,7 +226,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Nachtragsmanagement: § 650b BGB Anordnungsrecht, Vergueng nach § 650c BGB, Soll-Ist-Abgleich, Dokumentation Stoerung. Mustertext für Nachtragsschreiben und Schriftsatzbausteine.
 
-# Bau: Nachtrag-Workflow
+### Bau: Nachtrag-Workflow
 
 ## Spezialwissen: Bau: Nachtrag-Workflow
 - **Normen-/Quellenanker:** BGB.
@@ -275,7 +275,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-bau-architektenrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-bau-architektenrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..

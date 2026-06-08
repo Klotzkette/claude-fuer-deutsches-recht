@@ -28,7 +28,7 @@ description: "Gmbh Beirat Vergleichsverhandlung Strategie im Plugin Fachanwalt H
 
 **Fokus:** Entwirft und prüft mächtige GmbH-Beiräte mit Zustimmungskatalogen, Informationsrechten, Investorenschutz, Organnähe, Interessenkonflikten und Haftungsbegrenzung.
 
-# GmbH-Beirat: Vetorechte, Organnähe, Haftung und Satzungstechnik
+### GmbH-Beirat: Vetorechte, Organnähe, Haftung und Satzungstechnik
 
 ## Problem
 Der GmbH-Beirat ist gesetzlich kaum typisiert. Gerade deshalb entscheidet die Satzung: Beratungsbeirat, Kontrollbeirat, Zustimmungsgremium, investor director, Familienbeirat oder quasi-aufsichtsratliches Organ.
@@ -50,7 +50,7 @@ Satzungs-/Geschäftsordnungsbaustein, Zustimmungskatalog und Konfliktmatrix mit 
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Handels- und Gesellschaftsrecht
+### Vergleichsverhandlung und Einigung im Handels- und Gesellschaftsrecht
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsverhandlung und Einigung im Handels- und Gesellschaftsrecht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -44,7 +44,7 @@ Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Investitionsschutz: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Investitionsschutz: Verhandlung, Vergleich und Eskalation
+### Investitionsschutz: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Investitionsschutz: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Kanzlei: Internationaler Bezug und Schnittstellen im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Kanzlei: Internationaler Bezug und Schnittstellen
+### Kanzlei: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Kanzlei: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Lksg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt internationales wirtschaftsrecht; sch채rft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und n채chsten verwertbaren Schritt statt austauschbarer Standardpr체fung.
 
-# Lksg: Compliance-Dokumentation und Aktenvermerk
+### Lksg: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Lksg: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

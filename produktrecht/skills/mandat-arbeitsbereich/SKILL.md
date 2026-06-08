@@ -129,7 +129,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 ### `mandat.md`-Vorlage
 
 ```markdown
-# Mandat: [Mandant] — [Kurzbeschreibung]
+### Mandat: [Mandant] — [Kurzbeschreibung]
 
 **Slug:** [slug]
 **Eröffnet:** [JJJJ-MM-TT]
@@ -171,7 +171,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 ### `verlauf.md`-Starteintrag
 
 ```markdown
-# Verlauf: [Mandant] — [Kurzbeschreibung]
+### Verlauf: [Mandant] — [Kurzbeschreibung]
 
 Anhängendes Ereignisprotokoll. Neuestes oben.
 

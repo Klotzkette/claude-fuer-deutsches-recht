@@ -29,7 +29,7 @@ description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret 
 
 **Fokus:** Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhörung, gleichbehandlungsrechtliche Aspekte. Pruefraster für Anhörungsrecht und Klage.
 
-# Sport: Stadionverbot Fanrechte
+### Sport: Stadionverbot Fanrechte
 
 ## Spezialwissen: Sport: Stadionverbot Fanrechte
 - **Normen-/Quellenanker:** BGH.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhörungspflicht, Klage Anfechtung, Vergleichsverhandlung. BGH-Rechtsprechung zur Begruendungspflicht.
 
-# Sportrecht: Stadionverbot
+### Sportrecht: Stadionverbot
 
 ## Spezialwissen: Sportrecht: Stadionverbot
 - **Normen-/Quellenanker:** BGH.
@@ -126,7 +126,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Prüfungslinie für verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Verbandsstrafe anfechten
+### Verbandsstrafe anfechten
 
 ## Kaltstart-Rückfragen
 

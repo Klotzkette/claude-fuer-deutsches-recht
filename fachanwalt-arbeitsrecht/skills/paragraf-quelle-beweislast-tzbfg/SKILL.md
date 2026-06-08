@@ -29,7 +29,7 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 
 **Fokus:** Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG.
 
-# Spezial: Paragraf-Dokumentenmatrix und Lückenliste
+### Spezial: Paragraf-Dokumentenmatrix und Lückenliste
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Paragraf-Dokumentenmatrix und Lückenliste` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -143,7 +143,7 @@ Nach Ausfüllen der Matrix:
 
 **Fokus:** Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
 
-# Spezial: Quelle, Beweislast und Darlegungslast
+### Spezial: Quelle, Beweislast und Darlegungslast
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Quelle, Beweislast und Darlegungslast` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -274,7 +274,7 @@ Unsichere Punkte (Live-Check erforderlich):
 
 **Fokus:** TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
 
-# Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine
+### Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

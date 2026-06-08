@@ -30,7 +30,7 @@ description: "Videoueberwachung Biometrie Vorbelastungen im Datenschutz-Sanktion
 
 **Fokus:** Videoüberwachung und Biometrie: Videoüberwachung, biometrische Erkennung, Hinweisschilder, Speicherfrist und Interessenabwägung bußgeldfest prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Videoüberwachung und Biometrie
+### Videoüberwachung und Biometrie
 
 ## Aufgabe
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Vorbelastungen und Wiederholungstäter: Frühere Auflagen, Verwarnungen oder Vorfälle auf Identität, Bestandskraft und Vergleichbarkeit prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Vorbelastungen und Wiederholungstäter
+### Vorbelastungen und Wiederholungstäter
 
 ## Aufgabe
 
@@ -152,7 +152,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Vorsatz und Fahrlässigkeit des Unternehmens: Wissen, Organisation, TOMs, DSB-Hinweise und Eskalation als Schuld- oder Entlastungsmaterial nutzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Vorsatz und Fahrlässigkeit des Unternehmens
+### Vorsatz und Fahrlässigkeit des Unternehmens
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 **Fokus:** Vorstands- und Geschäftsführungsbriefing: Geschäftsleitung knapp über Fristen, Optionen, Budget, Haftung, Presse und Entscheidungsbedarf informieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
-# Vorstands- und Geschäftsführungsbriefing
+### Vorstands- und Geschäftsführungsbriefing
 
 ## Aufgabe
 

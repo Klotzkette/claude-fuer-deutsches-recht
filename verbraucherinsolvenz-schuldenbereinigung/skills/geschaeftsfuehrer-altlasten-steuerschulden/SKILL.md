@@ -29,7 +29,7 @@ description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherin
 
 **Fokus:** Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.
+### Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.
 
 ## Fachkern: Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 304; AO §§ 69, 34; § 266a StGB; § 15a InsO. Entscheidend ist immer d
 
 **Fokus:** Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.
+### Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.
 
 ## Fachkern: Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.. Entscheidend ist immer der aktu
 
 **Fokus:** Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.
+### Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.
 
 ## Fachkern: Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

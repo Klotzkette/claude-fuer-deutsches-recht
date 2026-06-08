@@ -28,7 +28,7 @@ description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht:
 
 **Fokus:** WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiensteaufsichtsgesetz Voraussetzungen für Lizenz, Anwendungsbereich, Schnittstellen zu PSD3-Entwurf, Crypto-Asset-Service-Provider unter MiCAR. Pruefraster für Geschaeftsmodelle und Sandbox-Optionen.
 
-# WpIG und ZAG: Abgrenzung und Erlaubnisraster
+### WpIG und ZAG: Abgrenzung und Erlaubnisraster
 
 ## Worum es geht
 

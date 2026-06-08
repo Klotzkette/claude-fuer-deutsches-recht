@@ -30,7 +30,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 
 **Fokus:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen mit Warnkopf.
 
-# Klageschrift für Laien — Baustein
+### Klageschrift für Laien — Baustein
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klageschrift für Laien — Baustein` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -185,7 +185,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts.
 
-# Kündigungsgrund: Personen-, Verhaltens- oder Betriebsbedingt
+### Kündigungsgrund: Personen-, Verhaltens- oder Betriebsbedingt
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kündigungsgrund: Personen-, Verhaltens- oder Betriebsbedingt` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -282,7 +282,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 **Fokus:** Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation.
 
-# Mündliche Verhandlung: Praxistipps für Laien
+### Mündliche Verhandlung: Praxistipps für Laien
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mündliche Verhandlung: Praxistipps für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -394,7 +394,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 **Fokus:** § 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung.
 
-# § 12 KSchG: Einseitige Lösung nach neuem Job
+### § 12 KSchG: Einseitige Lösung nach neuem Job
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 12 KSchG: Einseitige Lösung nach neuem Job` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

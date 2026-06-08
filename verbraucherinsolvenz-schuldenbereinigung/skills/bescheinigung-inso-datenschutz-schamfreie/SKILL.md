@@ -29,7 +29,7 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 **Fokus:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
+### Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
 
 ## Fachkern: Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 305 Abs. 1 Nr. 1, Abs. 4. Entscheidend ist immer der aktuelle Normstand 
 
 **Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
+### Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
 
 ## Fachkern: Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ DSGVO Art. 5, 6, 9; Berufsgeheimnis je nach Beratung. Entscheidend ist immer der
 
 **Fokus:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
+### Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
 
 ## Fachkern: Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

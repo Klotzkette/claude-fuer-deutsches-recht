@@ -31,7 +31,7 @@ description: "DSV Kinderdaten Besondere im Plugin Fachanwalt It Recht: prüft ko
 
 **Fokus:** Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung.
 
-# Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit
+### Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -82,7 +82,7 @@ Schnittstellen: Schulaufsicht, Jugendamt, Kinder- und Jugendpsychiatrische Diens
 
 **Fokus:** Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarbeiterinformation; Betriebsrat-Beteiligung; Sozialmedien. Output: Kommunikationssperre-Memo und Sprachregelung. Abgrenzung: keine Pressemitteilung; keine Krisen-PR.
 
-# Kommunikationssperre nach Datenschutzvorfall
+### Kommunikationssperre nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -127,7 +127,7 @@ Wir prüfen derzeit einen Vorfall im Bereich [Bezeichnung]. Datenschutz und Sich
 
 **Fokus:** Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Meldung an Lead Authority versus parallele Meldung an betroffene Behörden. Output: Memo zur Behördenzuständigkeit mit Begründung. Abgrenzung: keine konkrete Meldung.
 
-# Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO
+### Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -179,7 +179,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung; Erfolgsmessung. Output: Workshop-Leitfaden und Maßnahmen-Tracker. Abgrenzung: keine VVT- oder DSFA-Pflege; keine Bußgeldverteidigung.
 
-# Lessons Learned und Nachbereitung Datenschutzvorfall
+### Lessons Learned und Nachbereitung Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -236,7 +236,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene oder vorgeschlagene Abhilfemaßnahmen; Begründung Verspätung Art. 33 Abs. 1 Satz 2; Form schriftlich oder per Online-Formular; schrittweise Übermittlung Art. 33 Abs. 4. Output: Fließtext-Meldung in der Reihenfolge der Berliner Formularstruktur I bis VI. Abgrenzung: keine behörden-spezifischen Eingabewege; keine Benachrichtigung Art. 34.
 
-# Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
+### Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
 
 ## Triage — kläre vor der Bearbeitung
 

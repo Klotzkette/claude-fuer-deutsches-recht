@@ -40,7 +40,7 @@ description: "Famr Trennungsfolgen im Plugin Fachanwalt Familienrecht: prüft ko
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Fachanwalt Familienrecht — Allgemein
+### Fachanwalt Familienrecht — Allgemein
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Familienrecht — Allgemein` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -289,7 +289,7 @@ Weitere Skills: insgesamt 108 Anschluss-Skills in diesem Plugin.
 
 **Fokus:** Trennungsfolgen: Unterhalt (Trennung, Kind), Hausrat, Wohnungszuweisung, Sorgerecht, Umgang, Versorgungsausgleich-Vorab. Pruefraster und Erstgespraechs-Checkliste mit Mandantenfragen.
 
-# FamR: Trennungsfolgen
+### FamR: Trennungsfolgen
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `FamR: Trennungsfolgen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -346,7 +346,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Vermoegensauseinandersetzung im Scheidungsfall: Zugewinnausgleich Anfangs- und Endvermoegen, Auskunftsanspruch § 1379 BGB, Bewertungsstichtag, gemeinsame Konten und Immobilien. Pruefraster und Mustertexte.
 
-# FamR: Vermoegensauseinandersetzung
+### FamR: Vermoegensauseinandersetzung
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `FamR: Vermoegensauseinandersetzung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -403,7 +403,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Anschluss-Skills Router im Plugin fachanwalt-familienrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
 
-# Anschluss-Skills Router
+### Anschluss-Skills Router
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anschluss-Skills Router` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -446,7 +446,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-familienrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

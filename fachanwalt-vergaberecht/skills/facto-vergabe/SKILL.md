@@ -30,7 +30,7 @@ description: "Facto Vergabe im Plugin Fachanwalt Vergaberecht: prüft konkret Ch
 
 **Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-vergaberecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
-# Chronologie und Belegmatrix
+### Chronologie und Belegmatrix
 
 ## Aufgabe
 Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-vergaberecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
@@ -75,7 +75,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
-# Fristen- und Risikoampel
+### Fristen- und Risikoampel
 
 ## Aufgabe
 Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
@@ -130,7 +130,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 **Fokus:** De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.
 
-# Paragraph 135 GWB De-facto-Vergabe
+### Paragraph 135 GWB De-facto-Vergabe
 
 ## Zweck
 
@@ -193,7 +193,7 @@ Fristen- und Kenntnismatrix, Unwirksamkeitsantrag, Verteidigungsargumente.
 
 **Fokus:** Nachprüfungsverfahren bei der Vergabekammer durchführen: Laufendes VK-Verfahren oder Beschluss der VK liegt vor. Normen: §§ 160 ff. GWB, § 169 GWB (Suspensiveffekt Zuschlagsverbot), § 171 GWB (Sofortige Beschwerde OLG). Prüfraster: Antragsfrist 15 Werktage nach Ruegen-Ablehnung, VK-Verfahren (muendliche Verhandlung, Aufklärung), Sofortbeschwerde OLG-Vergabesenat. Output VK-Schriftsatz, OLG-Beschwerde-Entwurf. Abgrenzung: Erstantrag VK siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; VK-Vergleich siehe fachanwalt-vergaberecht-vk-aufklärung-vergleich.
 
-# Nachprüfungsverfahren VK
+### Nachprüfungsverfahren VK
 
 ## Zweck
 

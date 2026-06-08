@@ -29,7 +29,7 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 
 **Fokus:** Zeugenbeweis nach §§ 373 ff. ZPO. Ladungsfähige Anschrift Beweisthema Zeugnis-Verweigerungsrechte Vereidigung. Wie Sie Zeugen benennen und im Verfahren einbringen. Was bei nahen Angehoerigen und Aussage-Wert zu beachten ist.
 
-# Zeugenbeweis: Wer kann was bezeugen?
+### Zeugenbeweis: Wer kann was bezeugen?
 
 ## Worum geht es?
 
@@ -180,7 +180,7 @@ Stand: 05/2026. §§ 373 ff. ZPO unveraendert.
 
 **Fokus:** Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter vor dem Amtsgericht: § 23 GVG 10.000 EUR, Sonderzuständigkeiten, § 495a ZPO 1.000 EUR, § 511 ZPO Berufungsbeschwer 1.000 EUR, Übergangsfälle, Anwaltszwang und rote Flaggen.
 
-# Zulassungsgrenzen-Check Amtsgericht
+### Zulassungsgrenzen-Check Amtsgericht
 
 ## Zweck
 
@@ -283,7 +283,7 @@ Nach Urteil:
 
 **Fokus:** Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische Konsequenzen für Selbstvertreter.
 
-# Risiko: Versand durch Dritte (Boten, Bekannte, Familie)
+### Risiko: Versand durch Dritte (Boten, Bekannte, Familie)
 
 ## Worum geht es?
 

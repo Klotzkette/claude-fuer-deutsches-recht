@@ -29,7 +29,7 @@ description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft kon
 
 **Fokus:** Prüfungslinie für fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
-# Rechtsprechung live prüfen
+### Rechtsprechung live prüfen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -236,7 +236,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Fokus:** Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases.
 
-# Spezial: Freistellungsklausel — Sonderfall und Edge Cases
+### Spezial: Freistellungsklausel — Sonderfall und Edge Cases
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Freistellungsklausel — Sonderfall und Edge Cases` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -343,7 +343,7 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 
 **Fokus:** Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich.
 
-# AR: Abfindungs-Rechner (modular)
+### AR: Abfindungs-Rechner (modular)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Abfindungs-Rechner (modular)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -31,7 +31,7 @@ description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Bue
 
 **Fokus:** Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten effizient durch die verschiedenen Rechtswege geführt werden. Der Fokus liegt auf methodischer Anspruchsprüfung und prozessstrategischer Weichenstellung im Schnittfeld von Zivilrecht und öffentlichem Recht.
 
-# Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg
+### Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -121,7 +121,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen.
 
-# Anwaltsperspektive: Dokumentenmatrix und Lückenliste
+### Anwaltsperspektive: Dokumentenmatrix und Lückenliste
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anwaltsperspektive: Dokumentenmatrix und Lückenliste` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -212,7 +212,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess.
 
-# Auslegung, Verhandlung, Vergleich und Eskalation
+### Auslegung, Verhandlung, Vergleich und Eskalation
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Auslegung, Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -304,7 +304,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken dokumentiert werden und wie der Mandant über mögliche Folgeschritte und Verjährungsrisiken aufgeklärt werden muss. Das Skill sichert die anwaltliche Sorgfaltspflicht und Haftungsreduktion durch vollständige Übergabedokumentation.
 
-# Bürgerliches Abschlussprodukt und Übergabe
+### Bürgerliches Abschlussprodukt und Übergabe
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bürgerliches Abschlussprodukt und Übergabe` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -395,7 +395,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen.
 
-# Gutachtenstil, Risikoampel und Gegenargumente
+### Gutachtenstil, Risikoampel und Gegenargumente
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gutachtenstil, Risikoampel und Gegenargumente` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

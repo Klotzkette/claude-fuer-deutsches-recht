@@ -31,7 +31,7 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 
 **Fokus:** Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden.
 
-# Vertragsauslegung: Vollständiger Methodenleitfaden
+### Vertragsauslegung: Vollständiger Methodenleitfaden
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vertragsauslegung: Vollständiger Methodenleitfaden` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht.
 
-# Analogie und teleologische Reduktion (Rechtsfortbildung)
+### Analogie und teleologische Reduktion (Rechtsfortbildung)
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Analogie und teleologische Reduktion (Rechtsfortbildung)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -253,7 +253,7 @@ Stand: Mai 2026.
 
 **Fokus:** Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächliche Überzeugungskraft zu überprüfen. Geeignet für wissenschaftliche Urteilskritik und anwaltliche Gegenargumentation.
 
-# Methodenehrlichkeit und Ideologiekritik: Analyse-Check
+### Methodenehrlichkeit und Ideologiekritik: Analyse-Check
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenehrlichkeit und Ideologiekritik: Analyse-Check` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -342,7 +342,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 **Fokus:** Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen.
 
-# Systemwechsel und Methodenakrobatik in der Rechtsanwendung
+### Systemwechsel und Methodenakrobatik in der Rechtsanwendung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemwechsel und Methodenakrobatik in der Rechtsanwendung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -432,7 +432,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingriffstiefe. Das Skill führt durch die Schritte der Abwägungsjurisprudenz im Zivilrecht und hilft dabei, Schutzwürdigkeit, Verhältnismäßigkeit und praktische Konkordanz nachvollziehbar zu machen. Geeignet für Gutachten, Schriftsätze und Risikoprüfungen mit Grundrechts- oder Verfassungsbezug.
 
-# Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
+### Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -31,7 +31,7 @@ description: "ITR Fachanwalt IT Saas AVV Einfuehrung im Plugin Fachanwalt It Rec
 
 **Fokus:** Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjährung. Prüfraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Rücktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
 
-# Software-Mangel
+### Software-Mangel
 
 ## Kaltstart-Rückfragen
 
@@ -162,7 +162,7 @@ Verjährung: § 438 BGB 2 Jahre ab Ablieferung / § 195 BGB 3 Jahre (§ 634a BGB
 
 **Fokus:** SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-Schritt für Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte für Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Pruefung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence).
 
-# IT-Recht — SaaS mit AVV und TIA als Bundle
+### IT-Recht — SaaS mit AVV und TIA als Bundle
 
 ## Zweck
 
@@ -308,7 +308,7 @@ Anlage 6: Zertifizierungen (DPF-Listung, ISO 27001, SOC 2)
 
 **Fokus:** IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills.
 
-# IT-Recht: Materien
+### IT-Recht: Materien
 
 ## Spezialwissen: IT-Recht: Materien
 - **Normen-/Quellenanker:** IT, SLA, DSGVO, BDSG, BSI, AGB.
@@ -356,7 +356,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation. Pruefraster für KRITIS-Betreiber und besondere Bedeutung.
 
-# IT: Incident-Response-Runbook
+### IT: Incident-Response-Runbook
 
 ## Spezialwissen: IT: Incident-Response-Runbook
 - **Normen-/Quellenanker:** IT, SiG, BSI, ENISA, KRITIS.
@@ -405,7 +405,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung. Pruefraster und Umsetzungsplan.
 
-# IT-Recht: NIS2-Pflichten
+### IT-Recht: NIS2-Pflichten
 
 ## Spezialwissen: IT-Recht: NIS2-Pflichten
 - **Normen-/Quellenanker:** KRITIS, IT.

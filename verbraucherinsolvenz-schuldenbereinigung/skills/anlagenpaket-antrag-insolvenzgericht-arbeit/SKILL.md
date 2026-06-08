@@ -29,7 +29,7 @@ description: "Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucheri
 
 **Fokus:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
+### Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
 
 ## Fachkern: Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 305 Abs. 1. Entscheidend ist immer der aktuelle Normstand der InsO, die 
 
 **Fokus:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
+### Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
 
 ## Fachkern: Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO §§ 305, 287, 4a. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 **Fokus:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
+### Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
 
 ## Fachkern: Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

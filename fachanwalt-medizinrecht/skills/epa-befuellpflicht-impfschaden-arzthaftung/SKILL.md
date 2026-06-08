@@ -30,7 +30,7 @@ description: "EPA Befuellpflicht Impfschaden Arzthaftung im Medizinrecht: prüft
 
 **Fokus:** ePA-Befüllpflicht und Haftung: moderner Medizinrechts-Skill für ePA für alle, Befüllungspflichten, Informationspflichten, Widerspruch und Behandlungsfehler durch Datenlücke. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# ePA-Befüllpflicht und Haftung
+### ePA-Befüllpflicht und Haftung
 
 ## Fachkern: ePA-Befüllpflicht und Haftung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Impfschaden und Arzthaftung: moderner Medizinrechts-Skill für Impfaufklärung, Chargenproblem, Versorgungsanspruch, Kausalität und Pharmakovigilanz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Impfschaden und Arzthaftung
+### Impfschaden und Arzthaftung
 
 ## Fachkern: Impfschaden und Arzthaftung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -143,7 +143,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhebungsfehler, voll beherrschbares Risiko. Pruefraster Arzt und Patientenanwalt.
 
-# MedR: Arzthaftung Checkliste
+### MedR: Arzthaftung Checkliste
 
 ## Fachkern: MedR: Arzthaftung Checkliste
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -193,7 +193,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Palliativmedizin Haftung: moderner Medizinrechts-Skill für Symptomkontrolle, Sedierung, Patientenwille, Angehörigenkonflikt und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Palliativmedizin Haftung
+### Palliativmedizin Haftung
 
 ## Fachkern: Palliativmedizin Haftung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

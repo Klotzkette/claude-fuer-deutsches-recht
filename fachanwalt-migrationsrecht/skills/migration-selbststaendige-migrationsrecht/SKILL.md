@@ -31,7 +31,7 @@ description: "Migration Selbststaendige Migrationsrecht im Migrationsrecht: prü
 
 **Fokus:** Selbstständige Migration: Fachmodul im Migrationsrecht; prüft wirtschaftliches Interesse, Finanzierung, Businessplan, Altersvorsorge; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Selbstständige Migration
+### Selbstständige Migration
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft wirtschaftliches Interesse, Finanzierung, Businessplan, Altersvorsorge.
@@ -67,7 +67,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft wirtscha
 
 **Fokus:** Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Unbegleitete Minderjährige: Fachmodul im Migrationsrecht; prüft Alter, Jugendamt, Vormund, Dublin, Kindeswohl; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Unbegleitete Minderjährige
+### Unbegleitete Minderjährige
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Alter, Jugendamt, Vormund, Dublin, Kindeswohl.
@@ -147,7 +147,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Alter, J
 
 **Fokus:** Niederlassungserlaubnis: Fachmodul im Migrationsrecht; prüft Zeiten, Beiträge, Sprach-/Integrationsanforderungen, Ausnahmen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Niederlassungserlaubnis
+### Niederlassungserlaubnis
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Zeiten, Beiträge, Sprach-/Integrationsanforderungen, Ausnahmen.
@@ -183,7 +183,7 @@ Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Zeiten, 
 
 **Fokus:** Opfer/Zeugen/Menschenhandel: Fachmodul im Migrationsrecht; prüft Schutzstatus, Kooperation, Sicherheit, Sozialleistungen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-# Opfer/Zeugen/Menschenhandel
+### Opfer/Zeugen/Menschenhandel
 
 ## Aufgabe
 Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Schutzstatus, Kooperation, Sicherheit, Sozialleistungen.

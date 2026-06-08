@@ -40,7 +40,7 @@ description: "Zivilrecht Start Belegmatrix Fristen im Plugin Methodenlehre Buerg
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
-# Methodenlehre Buergerliches Recht — Allgemein
+### Methodenlehre Buergerliches Recht — Allgemein
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenlehre Buergerliches Recht — Allgemein` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -226,7 +226,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs.
 
-# Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung
+### Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -317,7 +317,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill bearbeitet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate. Es zeigt, wie alle mandatsrelevanten Fristen in einem einheitlichen System erfasst werden, wie kritische Fristen durch ein Ampelsystem (grün, gelb, rot) nach Dringlichkeit priorisiert werden und wie Anwälte sicherstellen, dass keine Frist versäumt wird. Das Skill reduziert das Haftungsrisiko und sichert die methodische Qualität der Mandatsführung durch proaktive Fristenkontrolle.
 
-# Fristen und Risikoampel: Integrierter Workflow
+### Fristen und Risikoampel: Integrierter Workflow
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fristen und Risikoampel: Integrierter Workflow` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -408,7 +408,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe.
 
-# Mandantenkommunikation
+### Mandantenkommunikation
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -499,7 +499,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Ergebnis dokumentiert und für die Überarbeitung genutzt wird. Das Skill sichert die methodische und inhaltliche Qualität aller juristischen Endprodukte vor ihrer Verwendung und reduziert das Risiko von Überraschungen im Verfahren.
 
-# Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung
+### Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

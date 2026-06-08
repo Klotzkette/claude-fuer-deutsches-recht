@@ -31,7 +31,7 @@ description: "DSGVO Auskunft DSR Betroffenenrechte im Datenschutzrecht: prüft k
 
 **Fokus:** Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Prüfraster: Identitätsnachweis Vollständigkeitsprüfung Auskunftsinhalt Fristen Einschraenkungsgründe. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzung: nicht für Auskunftsantwort-Gestaltung (dsgvo-auskunft-antwort).
 
-# DSGVO-Auskunftsrecht (Art. 15 DSGVO)
+### DSGVO-Auskunftsrecht (Art. 15 DSGVO)
 
 ## Zweck
 
@@ -246,7 +246,7 @@ Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 
 **Fokus:** DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (dsgvo-auskunft).
 
-# Betroffenenanfragen – Art. 15–22 DSGVO
+### Betroffenenanfragen – Art. 15–22 DSGVO
 
 ## Zweck
 
@@ -495,7 +495,7 @@ Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 
 **Fokus:** Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster für Verantwortlichen und Auftragsverarbeiter.
 
-# DSR: Betroffenenrechte-Prozess
+### DSR: Betroffenenrechte-Prozess
 
 ## Spezialwissen: DSR: Betroffenenrechte-Prozess
 - **Normen-/Quellenanker:** Art. 15, DSGVO, DSR, BGH, BVerfG.
@@ -544,7 +544,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster für Konzern.
 
-# DSR: Internationaler Datentransfer
+### DSR: Internationaler Datentransfer
 
 ## Spezialwissen: DSR: Internationaler Datentransfer
 - **Normen-/Quellenanker:** Art. 44, DSGVO, SCC, US, DSR, BGH, BVerfG.
@@ -593,7 +593,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, öffentliches Interesse. Pruefraster für typische Verarbeitungstaetigkeiten.
 
-# DSR: Rechtsgrundlage Bauleiter
+### DSR: Rechtsgrundlage Bauleiter
 
 ## Spezialwissen: DSR: Rechtsgrundlage Bauleiter
 - **Normen-/Quellenanker:** Art. 6, DSGVO, DSR, Art. 9, Art. 7, Art. 8, EDSA, EU, AO, HGB, GwG.

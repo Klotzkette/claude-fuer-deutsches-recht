@@ -29,7 +29,7 @@ description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: pr�
 
 **Fokus:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-# Vergleichsverhandlung und Einigung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
+### Vergleichsverhandlung und Einigung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
 ## Wann dieser Arbeitsgang greift
 
@@ -240,7 +240,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** BaFin-Beschwerde, Versicherungsombudsmann, PKV-Ombudsmann und Klage taktisch wählen.
 
-# FA Versicherungsrecht: BaFin und Ombudsmann
+### FA Versicherungsrecht: BaFin und Ombudsmann
 
 ## Einsatz
 

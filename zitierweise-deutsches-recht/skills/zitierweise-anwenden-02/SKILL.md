@@ -28,7 +28,7 @@ description: "Anwenden 02 im Zitierweise im deutschen Recht im Zitierweise: prü
 
 **Fokus:** Wende deutsche juristische Hauszitierweise v4.1 an. Rechtsprechung nur mit Gericht Entscheidungsform Datum Az. Aktenzeichen und verifizierbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Unverifizierte Entscheidungen als Prüfbedarf markieren oder weglassen. Keine aktuellen Palandt-/Pahlen-Zitate.
 
-# Deutsche juristische Zitierweise anwenden (v4.1)
+### Deutsche juristische Zitierweise anwenden (v4.1)
 
 Dieser Skill verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.1. Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. Der Skill ist zuerst eine Halluzinationsbremse: keine Fundstelle ohne echte Quelle.
 

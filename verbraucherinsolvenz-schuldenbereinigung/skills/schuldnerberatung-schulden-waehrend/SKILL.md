@@ -29,7 +29,7 @@ description: "Schuldnerberatung Schulden Waehrend im Plugin Verbraucherinsolvenz
 
 **Fokus:** mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.; Normanker: InsO § 305; Landesanerkennung Beratungsstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.
+### mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.
 
 ## Fachkern: mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -68,7 +68,7 @@ InsO § 305; Landesanerkennung Beratungsstellen. Entscheidend ist immer der aktu
 
 **Fokus:** Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.; Normanker: InsO §§ 290 und 295 und 296; Vertragsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.
+### Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.
 
 ## Fachkern: Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -107,7 +107,7 @@ InsO §§ 290, 295, 296; Vertragsrecht. Entscheidend ist immer der aktuelle Norm
 
 **Fokus:** Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.; Normanker: InsO §§ 4a-4d; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
 
-# Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.
+### Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.
 
 ## Fachkern: Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

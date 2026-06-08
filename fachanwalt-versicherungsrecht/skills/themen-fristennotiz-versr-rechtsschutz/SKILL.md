@@ -29,7 +29,7 @@ description: "Themen Fristennotiz Versr Rechtsschutz im Plugin Fachanwalt Versic
 
 **Fokus:** Themen: Fristennotiz und nächster Schritt im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Themen: Fristennotiz und nächster Schritt
+### Themen: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Themen: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** VVG, VAG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Rechtsschutzversicherung: Deckungszusage, Stichentscheid, Vorvertraglichkeit, Mutwilligkeit, Kostenpositionen und RSV-Prozess.
 
-# FA Versicherungsrecht: Rechtsschutzdeckung
+### FA Versicherungsrecht: Rechtsschutzdeckung
 
 ## Einsatz
 
@@ -100,7 +100,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 **Fokus:** Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung. Pruefraster für Versicherungsnehmer und Versicherer.
 
-# VersR: Vertragspruefung Bauleiter
+### VersR: Vertragspruefung Bauleiter
 
 ## Spezialwissen: VersR: Vertragspruefung Bauleiter
 - **Normen-/Quellenanker:** VVG.

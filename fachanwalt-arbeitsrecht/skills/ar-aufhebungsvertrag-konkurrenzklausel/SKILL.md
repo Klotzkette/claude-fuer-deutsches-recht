@@ -29,7 +29,7 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 
 **Fokus:** Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden.
 
-# AR: Aufhebungsvertrag in der Praxis
+### AR: Aufhebungsvertrag in der Praxis
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Aufhebungsvertrag in der Praxis` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -137,7 +137,7 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 
 **Fokus:** Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel.
 
-# AR: Konkurrenzklausel / Nachvertragliches Wettbewerbsverbot (Spezial)
+### AR: Konkurrenzklausel / Nachvertragliches Wettbewerbsverbot (Spezial)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Konkurrenzklausel / Nachvertragliches Wettbewerbsverbot (Spezial)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -258,7 +258,7 @@ Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzi
 
 **Fokus:** Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg.
 
-# Aufhebungsvertrag mit Sperrzeit-Vermeidung
+### Aufhebungsvertrag mit Sperrzeit-Vermeidung
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufhebungsvertrag mit Sperrzeit-Vermeidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

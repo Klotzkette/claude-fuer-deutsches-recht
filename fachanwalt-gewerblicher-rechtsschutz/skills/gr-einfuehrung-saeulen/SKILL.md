@@ -29,7 +29,7 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 
 **Fokus:** Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio.
 
-# Einführung: Die fünf Säulen des gewerblichen Rechtsschutzes
+### Einführung: Die fünf Säulen des gewerblichen Rechtsschutzes
 
 ## Aufgabe
 Dieser Skill vermittelt den systematischen Überblick über den gewerblichen Rechtsschutz: Rechtsgebiete, Behörden, Schutzrechte, Verfahrensarten und Routing in die passenden Fachmodule.
@@ -151,7 +151,7 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 
 **Fokus:** Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs. 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missbrauchsprüfung § 8c UWG, negative Feststellungsklage als Gegenmaßnahme.
 
-# Aktivlegitimation bei Mitbewerberabmahnung
+### Aktivlegitimation bei Mitbewerberabmahnung
 
 ## Aufgabe
 Dieser Skill prüft die Aktivlegitimation bei UWG-Abmahnungen: konkretes Wettbewerbsverhältnis, Mitbewerberbegriff, Verbandsbefugnis und Missbrauchsprüfung.
@@ -253,7 +253,7 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `spezial-gewerblichen-tatbestand-bewe
 
 **Fokus:** Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.
 
-# Markenrecht in Österreich und der Schweiz
+### Markenrecht in Österreich und der Schweiz
 
 ## Aufgabe
 Dieser Skill behandelt die Besonderheiten des Markenrechts in Österreich und der Schweiz: nationale Verfahren, Anmeldewege, Unterschiede zum deutschen/EU-Recht und Fallstricke für deutschsprachige Mandate.

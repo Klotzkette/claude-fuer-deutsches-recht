@@ -30,7 +30,7 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 
 **Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
 
-# Aufenthaltstitel-Prüfung
+### Aufenthaltstitel-Prüfung
 
 ## Kaltstart-Rückfragen
 
@@ -399,7 +399,7 @@ VI. NAECHSTE SCHRITTE
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+### Erstgespraech und Mandatsannahme im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
 
 ## Wann dieser Arbeitsgang greift
 
@@ -568,7 +568,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Fokus:** Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfähigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg.
 
-# Abschiebungsabwehr
+### Abschiebungsabwehr
 
 ## Kaltstart-Rückfragen
 
@@ -723,7 +723,7 @@ Anlagen K1 bis K[X].
 
 **Fokus:** Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr.
 
-# Asyl-Folgeantrag § 71 AsylG
+### Asyl-Folgeantrag § 71 AsylG
 
 ## Zweck
 

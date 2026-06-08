@@ -103,7 +103,7 @@ Profil schreiben nach:
 Format:
 
 ```markdown
-# patentrecherche — Kanzleiprofil
+### patentrecherche — Kanzleiprofil
 
 - Kanzlei: ...
 - Patentanwält:innen: ...

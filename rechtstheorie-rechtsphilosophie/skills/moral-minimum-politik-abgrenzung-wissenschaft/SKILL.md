@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch.
 
-# Recht und Moral
+### Recht und Moral
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Recht und Moral` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss.
 
-# Recht und Politik
+### Recht und Politik
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Recht und Politik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -160,7 +160,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung.
 
-# Recht und Wissenschaft
+### Recht und Wissenschaft
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Recht und Wissenschaft` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

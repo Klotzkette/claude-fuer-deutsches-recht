@@ -31,7 +31,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 
 **Fokus:** Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Pruefraster.
 
-# Eingliederungshilfe Sgb Ix Rehabilitation
+### Eingliederungshilfe Sgb Ix Rehabilitation
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eingliederungshilfe Sgb Ix Rehabilitation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -87,7 +87,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 
 **Fokus:** Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster.
 
-# Eingliederungsvereinbarung 15 Sgb Ii
+### Eingliederungsvereinbarung 15 Sgb Ii
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eingliederungsvereinbarung 15 Sgb Ii` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -143,7 +143,7 @@ Kooperationsplan-Redline, Gesprächsvorbereitung, Nachweisliste, Änderungswunsc
 
 **Fokus:** Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden.
 
-# Klage per Fax beim SG — Grenzen und Tipps
+### Klage per Fax beim SG — Grenzen und Tipps
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klage per Fax beim SG — Grenzen und Tipps` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -255,7 +255,7 @@ Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in de
 
 **Fokus:** Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichung von Klagen und Schriftsaetzen beim Sozialgericht. Anmeldung Identifikation PDF-Anlagen Sicherheit.
 
-# Mein Justizpostfach — digitale Einreichung beim SG
+### Mein Justizpostfach — digitale Einreichung beim SG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mein Justizpostfach — digitale Einreichung beim SG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -383,7 +383,7 @@ Stand: 05/2026. MJP seit 2024 für alle Buerger oeffentlich. § 65a SGG für ele
 
 **Fokus:** Klage und Schriftsatz per Post beim SG einreichen. Abschriften für Gegner und Akte. Adressierung Einschreiben Empfangsbestätigung. Praktischer Versandweg für Buerger.
 
-# Klage per Post einreichen — mit Abschriften
+### Klage per Post einreichen — mit Abschriften
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klage per Post einreichen — mit Abschriften` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

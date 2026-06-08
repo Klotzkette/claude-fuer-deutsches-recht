@@ -29,7 +29,7 @@ description: "Mandat Objekt Marketing Akquise Newsletter im Plugin Weg Hausverwa
 
 **Fokus:** Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026): Objekt, Rollen, Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Abrechnungen, Vermögensbericht, Angebote, Fristen, Risiken und nächsten Workflow. Identifiziert Fristen aus § 45 WEG, § 556 BGB sowie GEG-/CO2KostAufG-Schnittstellen.
 
-# Mandat- und Objekt-Triage
+### Mandat- und Objekt-Triage
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat- und Objekt-Triage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -105,7 +105,7 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 
 **Fokus:** Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026): Pitch-Bestandteile, Honorarmatrix, Verwaltervertrag nach § 26 WEG, Uebernahme-Uebergabe-Checkliste und Wettbewerbsgrenzen. BGH V ZR 251/21 zur Sondervergütung.
 
-# Marketing: Akquise neuer WEG-Verwaltungsmandate
+### Marketing: Akquise neuer WEG-Verwaltungsmandate
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Marketing: Akquise neuer WEG-Verwaltungsmandate` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -177,7 +177,7 @@ Vom Vor-Verwalter zu übergebende Unterlagen: vollständige Beschlusssammlung, a
 
 **Fokus:** Eigentuemerinfo vs. E-Mail-Werbung klar trennen (Stand 06/2026): § 7 UWG Double-Opt-In, Einwilligungspflicht, Versicherungswerbung nach § 34d GewO, DSGVO Art. 6. BGH VI ZR 225/17 zu unerlaubter E-Mail-Werbung.
 
-# Marketing: Newsletter und Eigentümerkommunikation
+### Marketing: Newsletter und Eigentümerkommunikation
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Marketing: Newsletter und Eigentümerkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

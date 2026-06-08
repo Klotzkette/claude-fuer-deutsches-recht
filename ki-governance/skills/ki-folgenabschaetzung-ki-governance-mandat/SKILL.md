@@ -224,7 +224,7 @@ Seed-Struktur aus CLAUDE.md verwenden. Falls keine erfasst, diese Grundstruktur:
 ```markdown
 [ARBEITSPRODUKT-HEADER – gemäß Plugin-Konfiguration]
 
-# KI-Folgenabschätzung: [System-/Funktionsname]
+### KI-Folgenabschätzung: [System-/Funktionsname]
 
 **Erstellt von:** [Name] | **Datum:** [Datum] | **Status:** ENTWURF / GENEHMIGT
 **Systemeigentümer:** [Name] | **KI-Governance-Prüfer:** [Name]

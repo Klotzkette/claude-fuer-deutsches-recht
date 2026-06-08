@@ -28,7 +28,7 @@ description: "Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leit
 
 **Fokus:** Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster für Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen.
 
-# MedR: Aufklaerung Einwilligung
+### MedR: Aufklaerung Einwilligung
 
 ## Fachkern: MedR: Aufklaerung Einwilligung
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -78,7 +78,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 **Fokus:** Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme. Pruefraster für Klage des Patienten wegen Aufklaerungsmangel. Mustertexte für Dokumentation.
 
-# Medizinrecht: Aufklaerung-Praxis
+### Medizinrecht: Aufklaerung-Praxis
 
 ## Fachkern: Medizinrecht: Aufklaerung-Praxis
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

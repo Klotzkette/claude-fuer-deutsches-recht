@@ -29,7 +29,7 @@ description: "Belegchaos Strukturieren Nachtraegliche im Plugin Verbraucherinsol
 
 **Fokus:** Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger- und Forderungsliste ueberfuehren. Liefert Checkliste und Vorlagenstruktur.
 
-# Verbraucherinsolvenz Belegchaos Strukturieren
+### Verbraucherinsolvenz Belegchaos Strukturieren
 
 ## Fachkern: Verbraucherinsolvenz Belegchaos Strukturieren
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -111,7 +111,7 @@ Skill für Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 
 **Fokus:** Verbraucherinsolvenz: Nachtraegliche Glaeubiger nach Restschuldbefreiung. Skill klaert ob nicht angemeldete Glaeubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend machen koennen § 301 InsO und Ausnahmen § 302 InsO. Liefert Pruefraster.
 
-# Verbraucherinsolvenz Nachtraegliche Glaeubiger
+### Verbraucherinsolvenz Nachtraegliche Glaeubiger
 
 ## Fachkern: Verbraucherinsolvenz Nachtraegliche Glaeubiger
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
@@ -161,7 +161,7 @@ Skill für nachtraeglich auftauchende Glaeubiger.
 
 **Fokus:** Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Pruefraster.
 
-# Verbraucherinsolvenz Pfaendungsschutzkonto
+### Verbraucherinsolvenz Pfaendungsschutzkonto
 
 ## Fachkern: Verbraucherinsolvenz Pfaendungsschutzkonto
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.

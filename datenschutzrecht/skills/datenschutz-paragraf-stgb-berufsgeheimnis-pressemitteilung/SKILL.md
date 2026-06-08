@@ -31,7 +31,7 @@ description: "Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung im Date
 
 **Fokus:** Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige.
 
-# § 203 StGB Berufsgeheimnis im Datenschutzvorfall
+### § 203 StGB Berufsgeheimnis im Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -86,7 +86,7 @@ Berufsrecht: zusätzliche Meldung an Kammer; Disziplinarverfahren möglich.
 
 **Fokus:** Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel.
 
-# Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
+### Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -144,7 +144,7 @@ Sperrfristen: erst nach Information der Betroffenen oder gleichzeitig veröffent
 
 **Fokus:** Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung.
 
-# Sammelklagen-Prävention nach Massendatenpanne
+### Sammelklagen-Prävention nach Massendatenpanne
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -201,7 +201,7 @@ Goodwill: pauschale Kulanzpakete (z.B. Schufa-Auskunft, Identitätsschutz) ohne 
 
 **Fokus:** Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Update; Aufbewahrungsfristen; Verknüpfung mit Vorfallregister Art. 33 Abs. 5. Output: Update-Checkliste mit Pflichtfeldern. Abgrenzung: kein neues VVT; keine DSFA.
 
-# Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
+### Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -260,7 +260,7 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 **Fokus:** Abgrenzung Funktionsuebertragung gegen Auftragsverarbeitung Art. 28 DSGVO bei Berufsgeheimnistraegern Inkasso Steuerberatung Wirtschaftspruefung und externe Rechtsdienstleistung. Wann handelt der Dritte als eigener Verantwortlicher und wann als Auftragsverarbeiter. § 203 StGB § 43a Abs. 2 BRAO. Output: Pruefraster Rollenzuordnung.
 
-# Funktionsuebertragung versus Auftragsverarbeitung
+### Funktionsuebertragung versus Auftragsverarbeitung
 
 ## Zweck / Purpose
 

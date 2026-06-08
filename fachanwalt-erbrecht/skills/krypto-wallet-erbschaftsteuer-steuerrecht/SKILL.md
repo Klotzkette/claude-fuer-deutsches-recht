@@ -29,7 +29,7 @@ description: "Krypto Wallet Erbschaftsteuer Steuerrecht im Plugin Fachanwalt Erb
 
 **Fokus:** Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen. §§ 1922 1967 BGB digitale Nachlasswerte. Prüfraster: Wallet-Zugang Private Keys Multi-Sig Wertermittlung Steuer Erbschaft Sicherung. Output: Sicherungsplan Übergabe-Anleitung Steuerhinweise. Abgrenzung: nicht für allgemeine Nachlassaufnahme.
 
-# Digitaler Nachlass — Krypto-Wallet und Multi-Sig
+### Digitaler Nachlass — Krypto-Wallet und Multi-Sig
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Digitaler Nachlass — Krypto-Wallet und Multi-Sig` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -319,7 +319,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 **Fokus:** Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Erbschaftsteuer: Verhandlung, Vergleich und Eskalation
+### Erbschaftsteuer: Verhandlung, Vergleich und Eskalation
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbschaftsteuer: Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -364,7 +364,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
-# Steuerrecht: Compliance-Dokumentation und Aktenvermerk
+### Steuerrecht: Compliance-Dokumentation und Aktenvermerk
 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Steuerrecht: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

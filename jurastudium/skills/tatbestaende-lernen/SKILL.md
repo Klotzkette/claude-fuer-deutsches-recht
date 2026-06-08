@@ -28,7 +28,7 @@ description: "Tatbestaende Lernen im Jurastudium im Jurastudium: prüft konkret 
 
 **Fokus:** Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht öffentliches Recht, Subsumtion, Methodenlehre. Prüfraster Tatbestandsmerkmale vollständig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Lösungsschemata für Klausuraufbau und zu Karteikarten für allgemeines Lernen.
 
-# Tatbestände lernen
+### Tatbestände lernen
 
 ## Triage zu Beginn
 1. Welcher Tatbestand soll erarbeitet werden (§ 242 StGB, § 280 BGB, § 823 BGB, etc.)?

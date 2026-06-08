@@ -108,7 +108,7 @@ Vollständige und strukturierte Aufnahme eines neuen Mandats in das Portfolio. D
 ### 9. mandat.md und verlauf.md schreiben
 
 ```yaml
-# mandat.md
+### mandat.md
 slug: ""
 kanzlei_az: ""
 mandant:

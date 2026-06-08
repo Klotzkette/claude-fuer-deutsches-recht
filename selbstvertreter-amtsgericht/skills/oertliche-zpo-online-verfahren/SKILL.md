@@ -29,7 +29,7 @@ description: "Oertliche ZPO Online Verfahren im Selbstvertretung am Amtsgericht:
 
 **Fokus:** Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt.
 
-# Welches Amtsgericht ist oertlich zuständig?
+### Welches Amtsgericht ist oertlich zuständig?
 
 ## Worum geht es?
 
@@ -148,7 +148,7 @@ Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungs
 
 **Fokus:** Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme.
 
-# Online-Verfahren — das neue digitale Zivilverfahren
+### Online-Verfahren — das neue digitale Zivilverfahren
 
 ## Worum geht es?
 
@@ -292,7 +292,7 @@ Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eing
 
 **Fokus:** Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollständigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen.
 
-# Berufungsfrist: 1 Monat — keine Verlaengerung
+### Berufungsfrist: 1 Monat — keine Verlaengerung
 
 ## Worum geht es?
 

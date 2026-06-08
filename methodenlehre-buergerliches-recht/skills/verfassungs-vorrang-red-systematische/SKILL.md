@@ -31,7 +31,7 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 
 **Fokus:** Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill bearbeitet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung.
 
-# Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage
+### Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -122,7 +122,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern?
 
-# Red Team und Qualitätskontrolle für juristische Arbeitsergebnisse
+### Red Team und Qualitätskontrolle für juristische Arbeitsergebnisse
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Red Team und Qualitätskontrolle für juristische Arbeitsergebnisse` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -215,7 +215,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster für das System-Element.
 
-# Systematische Auslegung
+### Systematische Auslegung
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systematische Auslegung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -317,7 +317,7 @@ Stand: Mai 2026.
 
 **Fokus:** Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik eingesetzt wird, um diese Fallen aufzudecken. Besonderes Gewicht liegt auf der systematischen Kontrolle scheinbar selbstverständlicher Rechtsbegriffe durch Wortlautanalyse, historische Genese und Systemkohärenz.
 
-# Systemkritik und Begriffsfallen in der juristischen Methodik
+### Systemkritik und Begriffsfallen in der juristischen Methodik
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemkritik und Begriffsfallen in der juristischen Methodik` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -408,7 +408,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung).
 
-# Systemtheorie Luhmanns und das Recht
+### Systemtheorie Luhmanns und das Recht
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Systemtheorie Luhmanns und das Recht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

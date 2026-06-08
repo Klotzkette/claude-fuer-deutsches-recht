@@ -31,7 +31,7 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 
 **Fokus:** Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage.
 
-# Krankenkassen Hilfsmittel 33 Sgb V
+### Krankenkassen Hilfsmittel 33 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Hilfsmittel 33 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -92,7 +92,7 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 
 **Fokus:** Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage.
 
-# Streit mit der Krankenkasse — SGB V
+### Streit mit der Krankenkasse — SGB V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Streit mit der Krankenkasse — SGB V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -259,7 +259,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 **Fokus:** Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Pruefung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Pruefraster.
 
-# Krankenkassen Mds Stellungnahme
+### Krankenkassen Mds Stellungnahme
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Mds Stellungnahme` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -319,7 +319,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 **Fokus:** Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Voraussetzungen ambulante stationaere Reha Mutter-Vater-Kind-Kur Anschlussheilbehandlung Verhaeltnis zur Rentenversicherung. Liefert Antragsvorlage.
 
-# Krankenkassen Reha 40 Sgb V
+### Krankenkassen Reha 40 Sgb V
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Reha 40 Sgb V` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -378,7 +378,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 **Fokus:** Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Pruefraster.
 
-# Krankenkassen Wahltarife Und Sonderkuendigung
+### Krankenkassen Wahltarife Und Sonderkuendigung
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Krankenkassen Wahltarife Und Sonderkuendigung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

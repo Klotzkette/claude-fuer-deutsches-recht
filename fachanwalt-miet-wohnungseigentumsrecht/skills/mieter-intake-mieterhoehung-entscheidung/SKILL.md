@@ -31,7 +31,7 @@ description: "Mieter Intake Mieterhoehung Entscheidung im Miet- und Wohnungseige
 
 **Fokus:** Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Mieter-Intake
+### Mieter-Intake
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mieter-Intake` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -75,7 +75,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Mieterhöhung-Entscheidung
+### Mieterhöhung-Entscheidung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mieterhöhung-Entscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht; rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Mietkonto und Kontoauszug
+### Mietkonto und Kontoauszug
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietkonto und Kontoauszug` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht; klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Mietpreisbremse-Start
+### Mietpreisbremse-Start
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mietpreisbremse-Start` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 **Fokus:** Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
-# Modernisierung-Entscheidung
+### Modernisierung-Entscheidung
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Modernisierung-Entscheidung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

@@ -166,7 +166,7 @@ Format:
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
 
-# IP-Klausel-Prüfung: [Vertragspartner] — [Vertragstyp]
+### IP-Klausel-Prüfung: [Vertragspartner] — [Vertragstyp]
 
 **Geprüft:** [Datum]
 **Position bei IP:** [Rechtegebend / -empfangend / beides]

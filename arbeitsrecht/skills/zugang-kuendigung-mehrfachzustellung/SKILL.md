@@ -28,7 +28,7 @@ description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüf
 
 **Fokus:** Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Kuendigung Per Bea E Mail Fax Und Schriftformfall
+### Zugang Kuendigung Per Bea E Mail Fax Und Schriftformfall
 
 ## Aufgabe
 
@@ -83,7 +83,7 @@ Skill für Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 **Fokus:** Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Mehrfachzustellung Kuendigung Sicherheitskonzept
+### Zugang Mehrfachzustellung Kuendigung Sicherheitskonzept
 
 ## Aufgabe
 

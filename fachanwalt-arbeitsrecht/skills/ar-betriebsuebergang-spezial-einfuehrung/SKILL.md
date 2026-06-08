@@ -29,7 +29,7 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 
 **Fokus:** Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität.
 
-# AR: Betriebsübergang § 613a BGB (Spezial)
+### AR: Betriebsübergang § 613a BGB (Spezial)
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Betriebsübergang § 613a BGB (Spezial)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -148,7 +148,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 **Fokus:** Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Fachmodule. Erstgesprächs-Checkliste.
 
-# AR: Einführung — Typische Mandantenanliegen
+### AR: Einführung — Typische Mandantenanliegen
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Einführung — Typische Mandantenanliegen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -256,7 +256,7 @@ Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klass
 
 **Fokus:** Leiharbeit: Equal-Pay-Anspruch § 8 AÜG, Überlassungshöchstdauer 18 Monate § 1 Abs. 1b AÜG, Verbot verdeckter Arbeitnehmerüberlassung, Arbeitsverhältnis kraft Gesetzes § 10 AÜG, Gleichbehandlungsgrundsatz und tarifliche Abweichungsmöglichkeit.
 
-# AR: Leiharbeit — Equal Pay und AÜG-Spezial
+### AR: Leiharbeit — Equal Pay und AÜG-Spezial
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `AR: Leiharbeit — Equal Pay und AÜG-Spezial` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

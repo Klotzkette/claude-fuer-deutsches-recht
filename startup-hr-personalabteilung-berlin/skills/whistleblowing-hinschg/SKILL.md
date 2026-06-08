@@ -28,7 +28,7 @@ description: "Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berl
 
 **Fokus:** Berliner Start-up-HR: Hinweisgeberschutz und HR: Meldekanal, Vertraulichkeit, Repressalienverbot, NDA-Konflikte und Personalmaßnahmen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
-# Whistleblowing HinSchG HR Schnittstelle
+### Whistleblowing HinSchG HR Schnittstelle
 
 ## Fachkern: Whistleblowing HinSchG HR Schnittstelle
 - **Normen-/Quellenanker:** BGB, KSchG, TzBfG, NachwG, BetrVG, AGG, MuSchG/BEEG, SGB IX, ArbZG, MiLoG, DSGVO/BDSG und Lohn-/DATEV-Schnittstellen.

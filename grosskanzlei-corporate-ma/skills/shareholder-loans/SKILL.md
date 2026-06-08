@@ -33,7 +33,7 @@ description: "Shareholder Loans im Corporate/M&A (Großkanzlei-Praxis): prüft k
 
 **Fokus:** Sector Regulatory DD für regulierte Targets: prueft Erlaubnisse, Aufsicht, Change-of-Control, Inhaberqualifikation, Meldepflichten und regulatorische CPs.
 
-# Sector Regulatory DD
+### Sector Regulatory DD
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sector Regulatory DD` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -119,7 +119,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prueft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung.
 
-# Shareholder Loans Subordination
+### Shareholder Loans Subordination
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Shareholder Loans Subordination` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -205,7 +205,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible für Archivierung.
 
-# Signing, Closing und Conditions Precedent
+### Signing, Closing und Conditions Precedent
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Signing, Closing und Conditions Precedent` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -305,7 +305,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Signing, Closing und Conditions Precedent
+### Signing, Closing und Conditions Precedent
 
 ## Zweck
 
@@ -416,7 +416,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Signing- und Closing-Room-Manager: koordiniert Execution-Versionen, Signaturseiten, CPs, Bring-downs, Funds Flow, Closing Minutes und Post-Closing-Ablage.
 
-# Signing Closing Room Manager
+### Signing Closing Room Manager
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Signing Closing Room Manager` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -502,7 +502,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Specific Indemnities und Risk Transfer Skill: entwickelt Sonderfreistellungen, Escrow, W&I-Schnittstellen, Tax Deeds und Risikoallokation für erkannte Findings.
 
-# Specific Indemnities Risk Transfer
+### Specific Indemnities Risk Transfer
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Specific Indemnities Risk Transfer` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -588,7 +588,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Deal-PMO und Steps-Plan für Pre-Signing bis Post-Closing: Anwendungsfall Transaktion braucht praezisen Aufgaben- und Zeitplan aus Vertraegen, DD-Unterlagen und Gremienunterlagen extrahiert. SPA Closing Conditions, CPs Conditions Precedent. Prüfraster Pflichten Fristen Bedingungen und Deliverables aus Dokumenten extrahieren, Owner zuordnen, Eskalation dokumentieren, woechentliche PMO-Ansicht. Output Steps-Plan mit Aufgaben, Owner, Fristen und Statusampel für alle Deal-Phasen. Abgrenzung zu Fristen-CP-Kalender für Kalender-Ansicht und zu Post-Closing-Integration.
 
-# Deal-PMO und Steps Plan
+### Deal-PMO und Steps Plan
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Deal-PMO und Steps Plan` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -689,7 +689,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Deal-PMO und Steps Plan
+### Deal-PMO und Steps Plan
 
 ## Zweck
 
@@ -761,7 +761,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 **Fokus:** Tabellen- und Matrix-Fabrik für M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen.
 
-# Tabellen und Matrix Factory
+### Tabellen und Matrix Factory
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Tabellen und Matrix Factory` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

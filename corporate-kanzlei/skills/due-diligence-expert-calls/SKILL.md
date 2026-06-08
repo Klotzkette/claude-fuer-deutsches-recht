@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Due Diligence Reporting
+### Due Diligence Reporting
 
 ## Triage — klaere vor Berichtserstellung
 

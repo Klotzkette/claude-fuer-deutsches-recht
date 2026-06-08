@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus.
 
-# Freiheit und Paternalismus
+### Freiheit und Paternalismus
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freiheit und Paternalismus` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -95,7 +95,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 **Fokus:** Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang und Feinderklaerung in rechtlichen Argumenten; stellt pluralistische, grundrechts- und verfahrensgebundene Gegenpruefungen bereit.
 
-# Freund-Feind-Rhetorik und Pluralismuscheck
+### Freund-Feind-Rhetorik und Pluralismuscheck
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freund-Feind-Rhetorik und Pluralismuscheck` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -155,7 +155,7 @@ Schließe mit einer Formulierung, die harte rechtliche Konsequenzen nur an prüf
 
 **Fokus:** Prueft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen.
 
-# Gerechtigkeit, Verteilung, Effizienz
+### Gerechtigkeit, Verteilung, Effizienz
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gerechtigkeit, Verteilung, Effizienz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

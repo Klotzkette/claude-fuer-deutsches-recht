@@ -28,7 +28,7 @@ description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstrei
 
 **Fokus:** Vertiefung und Baugrube nach § 909 BGB prüfen: Verlust der Bodenstütze, Unterfangung, Risse, Setzung, Sicherungsmaßnahmen, Baustopp, Beweise, Sachverständige und Eilrechtsschutz.
 
-# Vertiefung, Baugrube und Stützverlust
+### Vertiefung, Baugrube und Stützverlust
 
 ## Zweck
 

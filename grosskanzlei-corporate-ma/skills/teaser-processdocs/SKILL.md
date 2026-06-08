@@ -102,7 +102,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-# Teaser, IM und Prozessdokumente
+### Teaser, IM und Prozessdokumente
 
 ## Zweck
 

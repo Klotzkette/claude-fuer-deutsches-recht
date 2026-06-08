@@ -30,7 +30,7 @@ description: "Bieterstrategie GO Eforms TED Eignung im Plugin Fachanwalt Vergabe
 
 **Fokus:** Bieterstrategie und Go/No-Go für Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen.
 
-# Bieterstrategie Go/No-Go
+### Bieterstrategie Go/No-Go
 
 ## Zweck
 
@@ -93,7 +93,7 @@ Go/No-Go-Tabelle, Risiko-/Chancenbild, Aufgabenplan, Managementsummary.
 
 **Fokus:** eForms, TED und Bekanntmachungen pruefen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen.
 
-# eForms/TED Bekanntmachungscheck
+### eForms/TED Bekanntmachungscheck
 
 ## Zweck
 
@@ -156,7 +156,7 @@ Bekanntmachungsmatrix, Fehlerliste, Berichtigungsvorschlag, Rugefrist-Hinweis.
 
 **Fokus:** Eignung vertieft pruefen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung.
 
-# Eignung, Referenzen und Eignungsleihe
+### Eignung, Referenzen und Eignungsleihe
 
 ## Zweck
 
@@ -219,7 +219,7 @@ Eignungsmatrix, Nachforderungscheck, Ausschlussrisiko, Ruge-/Verteidigungslinie.
 
 **Fokus:** Strukturierter Erstgespraechsleitfaden für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-# Erstgespraech und Mandatsannahme im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
+### Erstgespraech und Mandatsannahme im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
 ## Wann dieser Arbeitsgang greift
 

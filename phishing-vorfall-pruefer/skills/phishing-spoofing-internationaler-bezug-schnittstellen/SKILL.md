@@ -28,7 +28,7 @@ description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing V
 
 **Fokus:** Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Spoofing: Internationaler Bezug und Schnittstellen
+### Spoofing: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Spoofing: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.

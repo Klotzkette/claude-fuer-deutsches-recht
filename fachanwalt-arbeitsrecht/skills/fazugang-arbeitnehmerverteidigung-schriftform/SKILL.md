@@ -29,7 +29,7 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 
 **Fokus:** Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG.
 
-# Arbeitnehmerverteidigung — Zugang bestreiten ohne Unwahrheit
+### Arbeitnehmerverteidigung — Zugang bestreiten ohne Unwahrheit
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitnehmerverteidigung — Zugang bestreiten ohne Unwahrheit` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -137,7 +137,7 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 
 **Fokus:** Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung.
 
-# Schriftform der Kündigung — Original und elektronische Kommunikation
+### Schriftform der Kündigung — Original und elektronische Kommunikation
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftform der Kündigung — Original und elektronische Kommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -255,7 +255,7 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 
 **Fokus:** Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.; Normanker: BGB § 130; KSchG § 4; ZPO Zeugenbeweis; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
-# Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.
+### Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

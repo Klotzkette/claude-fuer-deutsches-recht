@@ -36,7 +36,7 @@ description: "DSV Meldung ART Baylda Bfdi BLN BDI Hbdi LFD im Datenschutzrecht: 
 
 **Fokus:** Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene oder vorgeschlagene Abhilfemaßnahmen; Begründung Verspätung Art. 33 Abs. 1 Satz 2; Form schriftlich oder per Online-Formular; schrittweise Übermittlung Art. 33 Abs. 4. Output: Fließtext-Meldung in der Reihenfolge der Berliner Formularstruktur I bis VI. Abgrenzung: keine behörden-spezifischen Eingabewege; keine Benachrichtigung Art. 34.
 
-# Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
+### Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -138,7 +138,7 @@ Output ist Text, kein Code, kein JSON.
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BayDSG insbesondere für öffentliche Stellen (Aufsicht Bayerischer Landesbeauftragter); Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die BayLDA
+### Meldung Art. 33 DSGVO an die BayLDA
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -243,7 +243,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bund (Telekommunikation, Post, Bundesbehörden, Krankenkassen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BDSG insbesondere § 65 für Bundesbehörden; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die BfDI
+### Meldung Art. 33 DSGVO an die BfDI
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -348,7 +348,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Berlin und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BlnDSG insbesondere § 51 BlnDSG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die BlnBDI
+### Meldung Art. 33 DSGVO an die BlnBDI
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -453,7 +453,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HDSIG Hessisches Datenschutz- und Informationsfreiheitsgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die HBDI
+### Meldung Art. 33 DSGVO an die HBDI
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -558,7 +558,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HmbDSG Hamburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die HmbBfDI
+### Meldung Art. 33 DSGVO an die HmbBfDI
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -663,7 +663,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BbgDSG Brandenburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LDA BB
+### Meldung Art. 33 DSGVO an die LDA BB
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -768,7 +768,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Nordrhein-Westfalen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG NRW; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LDI NRW
+### Meldung Art. 33 DSGVO an die LDI NRW
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -873,7 +873,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz Niedersachsen (LfD NI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Niedersachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus NDSG Niedersächsisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LfD NI
+### Meldung Art. 33 DSGVO an die LfD NI
 
 ## Triage — kläre vor der Bearbeitung
 
@@ -978,7 +978,7 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 **Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz Sachsen-Anhalt (LfD ST) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen-Anhalt und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG LSA Datenschutzgesetz Sachsen-Anhalt; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
-# Meldung Art. 33 DSGVO an die LfD ST
+### Meldung Art. 33 DSGVO an die LfD ST
 
 ## Triage — kläre vor der Bearbeitung
 

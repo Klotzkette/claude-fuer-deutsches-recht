@@ -29,7 +29,7 @@ description: "Anfechtungs Eilrechtsschutz ABS im Plugin Fachanwalt Verwaltungsre
 
 **Fokus:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
+### Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** VwGO, VwVfG.
@@ -66,7 +66,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 **Fokus:** Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-# Eilrechtsschutz nach § 80 Abs. 5 VwGO
+### Eilrechtsschutz nach § 80 Abs. 5 VwGO
 
 ## Aufgabe
 Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-verwaltungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
@@ -105,7 +105,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 **Fokus:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
-# Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
+### Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** VwGO, VwVfG.

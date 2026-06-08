@@ -30,7 +30,7 @@ description: "Gesundheitsdatenpanne Klinik Goae Analog im Medizinrecht: prüft k
 
 **Fokus:** Gesundheitsdatenpanne Klinik: moderner Medizinrechts-Skill für Fehlversand Arztbrief, Portalzugriff, Ransomware, Meldung, Benachrichtigung und Schadensersatz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Gesundheitsdatenpanne Klinik
+### Gesundheitsdatenpanne Klinik
 
 ## Fachkern: Gesundheitsdatenpanne Klinik
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** GOÄ analog bei Innovation: moderner Medizinrechts-Skill für Neue Methode, Analogbewertung, Steigerungssatz, Begründung und Versicherungsstreit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# GOÄ analog bei Innovation
+### GOÄ analog bei Innovation
 
 ## Fachkern: GOÄ analog bei Innovation
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -140,7 +140,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Grenzüberschreitende Behandlung EU: moderner Medizinrechts-Skill für Auslandsbehandlung, Richtlinie 2011/24/EU, Erstattung, Haftungsstatut und Beweis. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Grenzüberschreitende Behandlung EU
+### Grenzüberschreitende Behandlung EU
 
 ## Fachkern: Grenzüberschreitende Behandlung EU
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
@@ -195,7 +195,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 **Fokus:** Hämovigilanz und Blutprodukt: moderner Medizinrechts-Skill für Transfusion, Verwechslung, Infektion, Chargenfreigabe, Rückverfolgung und PEI-Meldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
-# Hämovigilanz und Blutprodukt
+### Hämovigilanz und Blutprodukt
 
 ## Fachkern: Hämovigilanz und Blutprodukt
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

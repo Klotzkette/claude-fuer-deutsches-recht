@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 **Fokus:** Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz.
 
-# Staat als Ordnungsmacht: anti-autoritärer Check
+### Staat als Ordnungsmacht: anti-autoritärer Check
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Staat als Ordnungsmacht: anti-autoritärer Check` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -115,7 +115,7 @@ Gib ein Ordnungsmacht-Gutachten aus:
 
 **Fokus:** Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation.
 
-# Demokratie als Verfahren und Minderheitenschutz
+### Demokratie als Verfahren und Minderheitenschutz
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Demokratie als Verfahren und Minderheitenschutz` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -192,7 +192,7 @@ Erstelle einen Demokratie- und Minderheitenschutz-Vermerk mit:
 
 **Fokus:** Macht Abwaegungen transparent: Material, Gewichtung, Intensität, Kontrollmaßstab, Abwaegungslast und Ergebnisoffenheit.
 
-# Abwägung und Rationalität
+### Abwägung und Rationalität
 
 ## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abwägung und Rationalität` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

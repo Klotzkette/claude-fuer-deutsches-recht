@@ -31,7 +31,7 @@ description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am 
 
 **Fokus:** Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger.
 
-# Klage auf der Geschaeftsstelle diktieren — § 90 SGG
+### Klage auf der Geschaeftsstelle diktieren — § 90 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klage auf der Geschaeftsstelle diktieren — § 90 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -154,7 +154,7 @@ Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt
 
 **Fokus:** Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis für Gericht und Gegner. Checkliste für Buerger ohne Anwalt.
 
-# Die Klage als komplettes Paket zusammenstellen
+### Die Klage als komplettes Paket zusammenstellen
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Die Klage als komplettes Paket zusammenstellen` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -288,7 +288,7 @@ Stand: 05/2026. Praxis der Sozialgerichte.
 
 **Fokus:** Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Leistungs- Feststellungs- und Untätigkeitsklage nach §§ 54 55 88 SGG. Mit Entscheidungshilfe und Mustern.
 
-# Welche Klage passt? — Ueberblick
+### Welche Klage passt? — Ueberblick
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Welche Klage passt? — Ueberblick` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -427,7 +427,7 @@ Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft da
 
 **Fokus:** Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht.
 
-# So begruenden Sie Ihre Klage — für Laien
+### So begruenden Sie Ihre Klage — für Laien
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `So begruenden Sie Ihre Klage — für Laien` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -624,7 +624,7 @@ Stand: 05/2026. § 92 SGG aktuell. § 106 SGG verpflichtet das Gericht, Sie bei 
 
 **Fokus:** Aufwendungsersatz nach § 193 SGG. Bei Erfolg muss Beklagte notwendige außergerichtliche Kosten erstatten. Anwalt Fahrtkosten Auslagenpauschale. Antrag stellen.
 
-# Aufwendungs-Ersatz — § 193 SGG
+### Aufwendungs-Ersatz — § 193 SGG
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Aufwendungs-Ersatz — § 193 SGG` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

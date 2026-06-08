@@ -128,7 +128,7 @@ Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abged
  das in der Natur des Instruments — es ist eine Karte, kein Ergebnis.
 ═══════════════════════════════════════════════════════════════════════
 
-# Recherchefahrplan: [Rechtsfrage]
+### Recherchefahrplan: [Rechtsfrage]
 
 **Rechtsgebiet:** [Gebiet] | **Bearbeiter/-in:** [Studierender]
 
