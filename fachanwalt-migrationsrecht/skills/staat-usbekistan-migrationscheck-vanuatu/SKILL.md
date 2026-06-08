@@ -1,18 +1,9 @@
 ---
 name: staat-usbekistan-migrationscheck-vanuatu
-description: "Staat Usbekistan Migrationscheck Vanuatu im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Usbekistan, Staaten- und Gebietscheck Vanuatu, Staaten- und Gebietscheck Vatikanstadt, Staaten- und Gebietscheck Venezuela. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staat Usbekistan Migrationscheck Vanuatu im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Usbekistan, Staaten- und Gebietscheck Vanuatu, Staaten- und Gebietscheck Vatikanstadt, Staaten- und Gebietscheck Venezuela."
 ---
 
 # Staat Usbekistan Migrationscheck Vanuatu
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `staat-usbekistan-migrationscheck` | Staaten- und Gebietscheck Usbekistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vanuatu-migrationscheck` | Staaten- und Gebietscheck Vanuatu: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vatikanstadt-migrationscheck` | Staaten- und Gebietscheck Vatikanstadt: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-venezuela-migrationscheck` | Staaten- und Gebietscheck Venezuela: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Staat Usbekistan Migrationscheck Vanuatu im Migrationsrecht: prüf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `staat-usbekistan-migrationscheck`
 

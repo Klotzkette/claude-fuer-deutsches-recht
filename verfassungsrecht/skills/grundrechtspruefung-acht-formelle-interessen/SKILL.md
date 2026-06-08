@@ -1,6 +1,6 @@
 ---
 name: grundrechtspruefung-acht-formelle-interessen
-description: "Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Art. 19 Abs. 2 GG Verhältnismäßigkeit. Output: Grundrechtsprüfschema Prüfergebnis. Abgrenzung: nicht für formelle Verfassungsmäßigkeit (formelle-verfassungsmäßigkeit) im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Art. 19 Abs. 2 GG Verhältnismäßigkeit. Output: Grundrechtsprüfschema Prüfergebnis. Abgrenzung: nicht für formelle Verfassungsmäßigkeit (formelle-verfassungsmäßigkeit) im Verfassungsrecht."
 ---
 
 # Grundrechtsprüfung

@@ -1,6 +1,6 @@
 ---
 name: luftfahrt-satellitenkommunikation-und-safety-case
-description: "Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, EASA-Zertifizierung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, EASA-Zertifizierung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Luftfahrt-Satellitenkommunikation und Safety Case

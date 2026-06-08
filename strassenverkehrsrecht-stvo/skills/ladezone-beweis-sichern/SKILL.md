@@ -1,6 +1,6 @@
 ---
 name: ladezone-beweis-sichern
-description: "StVO: Ladezone: Beweis sichern im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Ladezone: Beweis sichern im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Ladezone Beweis Sichern

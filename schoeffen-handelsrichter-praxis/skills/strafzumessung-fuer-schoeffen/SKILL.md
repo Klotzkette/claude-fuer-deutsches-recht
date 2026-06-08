@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-fuer-schoeffen
-description: "Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafzumessung für Schöffen: erklärt Schuld, Strafrahmen, Milderungsgründe, Bewährung und Nebenfolgen verstehen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
 ---
 
 # Strafzumessung für Schöffen

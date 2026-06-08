@@ -1,6 +1,6 @@
 ---
 name: emotionale-fristen-form-und-zustaendigkeit
-description: "Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg

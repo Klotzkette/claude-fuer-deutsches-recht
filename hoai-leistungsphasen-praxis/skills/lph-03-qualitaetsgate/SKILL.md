@@ -1,6 +1,6 @@
 ---
 name: lph-03-qualitaetsgate
-description: "HOAI LPH 3 Entwurfsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 3 Entwurfsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 3 Entwurfsplanung: Erstellt ein qualitygate

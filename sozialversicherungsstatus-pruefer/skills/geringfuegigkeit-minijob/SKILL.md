@@ -1,6 +1,6 @@
 ---
 name: geringfuegigkeit-minijob
-description: "Prüft geringfügige Beschäftigung als Alternative oder Fehleinordnung zur Selbständigkeit im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft geringfügige Beschäftigung als Alternative oder Fehleinordnung zur Selbständigkeit im Sozialversicherungsstatus Pruefer."
 ---
 
 # Geringfügigkeit und Minijob

@@ -1,6 +1,6 @@
 ---
 name: satellitenabschaltung-deorbit-und-end-of-life-plan
-description: "End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-Jahres-Regel, Passivierung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-Jahres-Regel, Passivierung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Satellitenabschaltung: Deorbit und End-of-Life-Plan

@@ -1,21 +1,9 @@
 ---
 name: beirat-datenschutz-ki-deadlock-mechanik
-description: "Beirat Datenschutz KI Deadlock Mechanik im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beirat Datenschutz KI Deadlock Mechanik im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma."
 ---
 
 # Beirat Datenschutz KI Deadlock Mechanik
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-entscheidungsbefugnisse` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-fakultativer-aufsichtsrat-52-gmbhg` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-familiengesellschaft` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsfuehrerabberufung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsfuehrerbestellung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Beirat Datenschutz KI Deadlock Mechanik im Corporate/M&A (Großkan
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beirat-datenschutz-und-ki`
 

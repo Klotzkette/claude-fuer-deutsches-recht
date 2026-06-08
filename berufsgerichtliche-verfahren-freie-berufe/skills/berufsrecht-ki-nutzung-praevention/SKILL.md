@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-nutzung-praevention
-description: "Berufsrecht KI-Nutzung (Präventions- und Organisationspaket): steuert KI-Einsatz in Kanzlei/Praxis, Mandatsdaten, Kontrolle, Transparenz und Dokumentation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufsrecht KI-Nutzung (Präventions- und Organisationspaket): steuert KI-Einsatz in Kanzlei/Praxis, Mandatsdaten, Kontrolle, Transparenz und Dokumentation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Berufsrecht KI-Nutzung: Präventions- und Organisationspaket

@@ -1,6 +1,6 @@
 ---
 name: prueferbestellung-zustaendigkeit
-description: "Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Pruefungsrecht Hochschule."
 ---
 
 # Prüferbestellung und Zuständigkeit

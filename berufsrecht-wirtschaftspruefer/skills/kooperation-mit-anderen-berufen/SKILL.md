@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-anderen-berufen
-description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Kooperation mit anderen Berufen im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Kooperation mit anderen Berufen im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Kooperation mit anderen Berufen

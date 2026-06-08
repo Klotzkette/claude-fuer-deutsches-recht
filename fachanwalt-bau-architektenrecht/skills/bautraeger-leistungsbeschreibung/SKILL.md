@@ -1,18 +1,9 @@
 ---
 name: bautraeger-leistungsbeschreibung
-description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum, MaBV-Verstoss gewerberechtliche Folgen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Leistungsbeschreibung und Baubeschreibung beim, MaBV § 10 Buchfuehrungspflicht, MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum, MaBV-Verstoss gewerberechtliche Folgen."
 ---
 
 # Bautraeger Leistungsbeschreibung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-leistungsbeschreibung-baubeschreibung` | Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Pruefraster. |
-| `bautraeger-mabv-buchfuehrungspflicht-10` | MaBV § 10 Buchfuehrungspflicht. Skill klaert die Aufzeichnungspflichten des Bautraegers ueber alle Vorgaenge im Bauvorhaben Trennung der Konten Bilanz und Pruefberichte. Folgen bei Versaeumnis. Liefert Pruefraster. |
-| `bautraeger-mabv-erweiterte-sicherheit-7` | MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell. Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Pruefraster. |
-| `bautraeger-mabv-gewerberechtliche-folgen` | MaBV-Verstoss gewerberechtliche Folgen. Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhaeltnis zum zivilrechtlichen Schutz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Leistungsbeschreibung im Plugin Fachanwalt Bau Architek
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-leistungsbeschreibung-baubeschreibung`
 

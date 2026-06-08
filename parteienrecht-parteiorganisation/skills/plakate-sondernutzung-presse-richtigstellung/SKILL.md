@@ -1,6 +1,6 @@
 ---
 name: plakate-sondernutzung-presse-richtigstellung
-description: "Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung, Fristen und Entfernung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung, Fristen und Entfernung im Parteienrecht."
 ---
 
 # Plakate und Sondernutzung

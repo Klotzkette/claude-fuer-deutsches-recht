@@ -1,16 +1,9 @@
 ---
 name: zugang-kuendigung-mehrfachzustellung
-description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüft konkret Arbeitsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüft konkret Arbeitsrecht."
 ---
 
 # Zugang Kuendigung Mehrfachzustellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
-| `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Zugang Kuendigung Mehrfachzustellung im Plugin Arbeitsrecht: prüf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall`
 

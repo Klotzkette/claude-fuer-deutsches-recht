@@ -1,21 +1,9 @@
 ---
 name: grosskanzlei-gk-sanierungsgewinn-tax-step
-description: "GK Sanierungsgewinn TAX Step im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Tax Due Diligence Modul für Distressed-M&A-Transaktionen, Tax Step Plan für komplexe Restrukturierungen mit, Verbindliche Auskunft nach § 89 AO im Sanierungskontext, AI VDR Classifier. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "GK Sanierungsgewinn TAX Step im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Tax Due Diligence Modul für Distressed-M&A-Transaktionen, Tax Step Plan für komplexe Restrukturierungen mit, Verbindliche Auskunft nach § 89 AO im Sanierungskontext, AI VDR Classifier."
 ---
 
 # GK Sanierungsgewinn TAX Step
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna` | Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026. |
-| `gk-sanierungsgewinn-tax-step-plan-restrukturierung` | Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026. |
-| `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft` | Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adressat ist das Tax- und Restrukturierungsteam der Großkanzlei in der Vorbereitung der Sanierungsmaßnahme. Quellen Stand 06/2026. |
-| `grosskanzlei-corporate-ma-ai-vdr-classifier` | AI VDR Classifier: klassifiziert Datenraumdokumente, erkennt Dokumentfamilien, fehlende Anlagen, Widersprueche, Dubletten, Clean-Room-Bedarf und Pruefprioritaeten. |
-| `grosskanzlei-corporate-ma-ancillary-documents-tsa-sla` | Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft für M&A, einschliesslich Transitional Services, IP-License, Supply, Lease, Escrow und Management Agreements. |
-| `grosskanzlei-corporate-ma-anfaenger-modus` | Anfänger- und First-Year-Associate-Modus für Großkanzlei Corporate/M&A: fragt Erfahrungslevel, Deal-Phase, Aufgabe, Frist, Unterlagen und gewünschte Führung ab; erklärt Begriffe, zerlegt Aufgaben in kleine Schritte, schlägt passende Plugin-Skills vor und baut Review-Gates für Senior Review. |
-| `grosskanzlei-corporate-ma-antitrust-gun-jumping-clean-team` | Antitrust, Gun-Jumping und Clean-Team Spezialist: prueft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "GK Sanierungsgewinn TAX Step im Corporate/M&A (Großkanzlei-Praxis
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna`
 

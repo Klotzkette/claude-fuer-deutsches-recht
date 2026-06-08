@@ -1,6 +1,6 @@
 ---
 name: gewerbe-zunft-strafrecht-zweiter-strafvollzug
-description: "PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Gewerbe und Zunft

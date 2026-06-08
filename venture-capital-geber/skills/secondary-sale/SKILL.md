@@ -1,6 +1,6 @@
 ---
 name: secondary-sale
-description: "Prüft Verkauf bestehender Anteile, Transfer Restrictions, ROFR, Tag, Bewertung, Steuern, KYC und Closing im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verkauf bestehender Anteile, Transfer Restrictions, ROFR, Tag, Bewertung, Steuern, KYC und Closing im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Secondary Sale

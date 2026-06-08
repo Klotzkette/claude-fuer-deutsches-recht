@@ -1,6 +1,6 @@
 ---
 name: satzfahnen-formular-portal-und-einreichung
-description: "Satzfahnen: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satzfahnen: Formular, Portal und Einreichungslogik im Verlagsredaktion."
 ---
 
 # Satzfahnen: Formular, Portal und Einreichungslogik

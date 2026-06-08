@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-niedersachsen-routen
-description: "Kommunalrecht der Länder: Kommunalrecht Niedersachsen routen. Kommunalrecht Niedersachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Kommunalrecht Niedersachsen routen. Kommunalrecht Niedersachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Kommunalrecht Niedersachsen Routen

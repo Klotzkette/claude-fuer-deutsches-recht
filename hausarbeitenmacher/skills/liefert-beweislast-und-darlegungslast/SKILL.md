@@ -1,6 +1,6 @@
 ---
 name: liefert-beweislast-und-darlegungslast
-description: "Liefert: Beweislast, Darlegungslast und Substantiierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Liefert: Beweislast, Darlegungslast und Substantiierung im Hausarbeitenmacher."
 ---
 
 # Liefert: Beweislast, Darlegungslast und Substantiierung

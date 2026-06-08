@@ -1,6 +1,6 @@
 ---
 name: prioritaetenplan-erste-14-tage
-description: "Solo-Selbstständige: erstellt einen Zweiwochenplan für Anmeldung, Konto, Vertrag, Rechnung und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt einen Zweiwochenplan für Anmeldung, Konto, Vertrag, Rechnung und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Kaltstart und Orientierung: Erstellt einen zweiwochenplan für anmeldung

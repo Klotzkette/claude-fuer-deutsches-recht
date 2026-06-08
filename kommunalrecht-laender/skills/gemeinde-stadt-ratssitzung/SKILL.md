@@ -1,6 +1,6 @@
 ---
 name: gemeinde-stadt-ratssitzung
-description: "Kommunalrecht der Länder: Gemeinde Stadt Landkreis zuordnen. Gemeinde Stadt Landkreis zuordnen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Gemeinde Stadt Landkreis zuordnen. Gemeinde Stadt Landkreis zuordnen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Gemeinde Stadt Landkreis Zuordnen

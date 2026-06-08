@@ -1,6 +1,6 @@
 ---
 name: vorstandsverguetung-87-aktg
-description: "AG/SE-Aufsichtsrat Praxis: Vorstandsverguetung 87 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Vorstandsverguetung 87 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Vorstandsverguetung 87 Aktg

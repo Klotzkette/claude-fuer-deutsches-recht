@@ -1,6 +1,6 @@
 ---
 name: energiepreiserhoehung-risiko-rot-marki
-description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Risiko rot markieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Risiko rot markieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Energiepreiserhoehung Risiko Rot Marki

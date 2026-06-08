@@ -1,6 +1,6 @@
 ---
 name: wholesale-tk-bauarbeiten
-description: "Wholesale-, Reseller- und MVNO-Verträge: Zugang, SLA, Entgelt, Nummerierung, Kundenschutz, Datenschutz und Exit im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wholesale-, Reseller- und MVNO-Verträge: Zugang, SLA, Entgelt, Nummerierung, Kundenschutz, Datenschutz und Exit im Telekommunikationsrecht."
 ---
 
 # Wholesale, Reseller und MVNO-Verträge

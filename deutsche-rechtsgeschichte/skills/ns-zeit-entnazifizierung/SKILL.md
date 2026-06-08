@@ -1,6 +1,6 @@
 ---
 name: ns-zeit-entnazifizierung
-description: "Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung Und Justiz

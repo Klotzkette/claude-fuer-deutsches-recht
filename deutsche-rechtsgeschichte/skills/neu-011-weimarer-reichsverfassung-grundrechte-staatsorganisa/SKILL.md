@@ -1,6 +1,6 @@
 ---
 name: neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisa
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa

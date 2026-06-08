@@ -1,6 +1,6 @@
 ---
 name: hafenvertiefung-klagefrist-sichern
-description: "Umweltschutzverband Verbandsklage: Hafenvertiefung: Klagefrist sichern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Hafenvertiefung: Klagefrist sichern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Hafenvertiefung Klagefrist Sichern

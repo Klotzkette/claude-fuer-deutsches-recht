@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-schnittstelle-beirat-investor
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Treuepflicht Aufsichtsrat Schnittstelle

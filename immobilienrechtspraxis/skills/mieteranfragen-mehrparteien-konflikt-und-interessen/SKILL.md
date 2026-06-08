@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-mehrparteien-konflikt-und-interessen
-description: "Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix im Immobilienrechtspraxis."
 ---
 
 # Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix

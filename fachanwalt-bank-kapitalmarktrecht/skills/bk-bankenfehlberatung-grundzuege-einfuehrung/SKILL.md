@@ -1,17 +1,9 @@
 ---
 name: bk-bankenfehlberatung-grundzuege-einfuehrung
-description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Bankenfehlberatungs-Anspruch in Grundzuegen, Aufsichtsstruktur einfuehrend, Routing-Tabelle Anlegeranspruch. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Bankenfehlberatungs-Anspruch in Grundzuegen, Aufsichtsstruktur einfuehrend, Routing-Tabelle Anlegeranspruch."
 ---
 
 # BK Bankenfehlberatung Grundzuege Einfuehrung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bk-bankenfehlberatung-grundzuege` | Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster für Mandant. |
-| `bk-einfuehrung-aufsichtsstruktur` | Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behörde ist wofür zuständig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte für das Erstgespraech. |
-| `bk-mandantenrouting-anlegeranspruch` | Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto. Pro Produktart typische Anspruchsgrundlage, Verjährung, Beweislast. Entscheidungstabelle. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "BK Bankenfehlberatung Grundzuege Einfuehrung im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bk-bankenfehlberatung-grundzuege`
 

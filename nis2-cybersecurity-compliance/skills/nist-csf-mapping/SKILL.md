@@ -1,6 +1,6 @@
 ---
 name: nist-csf-mapping
-description: "Mappt NIST CSF auf deutsche und EU-Anforderungen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mappt NIST CSF auf deutsche und EU-Anforderungen im Nis2 Cybersecurity Compliance."
 ---
 
 # NIST Csf Mapping

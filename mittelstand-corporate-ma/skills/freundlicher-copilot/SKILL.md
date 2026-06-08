@@ -1,6 +1,6 @@
 ---
 name: freundlicher-copilot
-description: "Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung) im Mittelstand Corporate Ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung) im Mittelstand Corporate Ma."
 ---
 
 # Freundlicher Deal-Copilot

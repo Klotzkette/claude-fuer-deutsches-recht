@@ -1,6 +1,6 @@
 ---
 name: minderheitenrechte-partei-mitgliederdaten
-description: "Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung im Parteienrecht."
 ---
 
 # Minderheitenrechte

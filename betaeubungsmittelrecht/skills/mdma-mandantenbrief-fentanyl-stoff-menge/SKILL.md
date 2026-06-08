@@ -1,6 +1,6 @@
 ---
 name: mdma-mandantenbrief-fentanyl-stoff-menge
-description: "MDMA: Mandantenbrief schreiben im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MDMA: Mandantenbrief schreiben im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Mdma Mandantenbrief Schreiben

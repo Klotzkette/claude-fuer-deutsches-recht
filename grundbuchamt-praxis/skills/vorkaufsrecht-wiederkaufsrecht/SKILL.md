@@ -1,6 +1,6 @@
 ---
 name: vorkaufsrecht-wiederkaufsrecht
-description: "Prüft dingliches Recht, Ausübungsfall, Frist, Löschung, Rang und Kaufvertragsgestaltung im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft dingliches Recht, Ausübungsfall, Frist, Löschung, Rang und Kaufvertragsgestaltung im Grundbuchamt Praxis."
 ---
 
 # Vorkaufs- und Wiederkaufsrechte

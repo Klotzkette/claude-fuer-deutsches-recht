@@ -1,6 +1,6 @@
 ---
 name: per-post-buergergeld-jobcenter-behoerde
-description: "Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation im Bürokratie-Entbürokratisierung."
 ---
 
 # Brief, Post und Nachweis

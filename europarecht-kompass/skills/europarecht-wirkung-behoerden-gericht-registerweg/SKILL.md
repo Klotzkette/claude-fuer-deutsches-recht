@@ -1,15 +1,9 @@
 ---
 name: europarecht-wirkung-behoerden-gericht-registerweg
-description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarecht Kompass."
 ---
 
 # Wirkung Behörden Gericht Registerweg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -19,11 +13,11 @@ description: "Wirkung Behörden Gericht Registerweg im Europarecht im Europarech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-wirkung-behoerden-gericht-und-registerweg`
 
-**Fokus:** Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass.
 
 ### Wirkung: Behörden-, Gerichts- oder Registerweg
 

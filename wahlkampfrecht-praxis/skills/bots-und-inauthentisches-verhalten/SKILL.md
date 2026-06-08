@@ -1,6 +1,6 @@
 ---
 name: bots-und-inauthentisches-verhalten
-description: "Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden im Wahlkampfrecht."
 ---
 
 # Bots Und Inauthentisches Verhalten

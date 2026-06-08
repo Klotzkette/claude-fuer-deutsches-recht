@@ -1,6 +1,6 @@
 ---
 name: vorlagen-mehrparteien-konflikt-und-interessen
-description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix im Plugin legistik werkstatt im Legistik."
 ---
 
 # Vorlagen: Mehrparteienkonflikt und Interessenmatrix

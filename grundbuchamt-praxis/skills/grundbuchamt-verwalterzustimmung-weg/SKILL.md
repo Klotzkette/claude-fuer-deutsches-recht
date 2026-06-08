@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-verwalterzustimmung-weg
-description: "Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung im Grundbuchamt Praxis."
 ---
 
 # WEG-Verwalterzustimmung

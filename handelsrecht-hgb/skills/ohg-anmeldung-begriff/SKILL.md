@@ -1,6 +1,6 @@
 ---
 name: ohg-anmeldung-begriff
-description: "Prüft Anmeldung, Statuswechsel aus Gesellschaftsregister, Registerlogik und Fehlerfolgen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anmeldung, Statuswechsel aus Gesellschaftsregister, Registerlogik und Fehlerfolgen im Handelsrecht Hgb."
 ---
 
 # OHG Anmeldung und Statuswechsel § 106 HGB

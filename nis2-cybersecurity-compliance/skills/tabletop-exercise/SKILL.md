@@ -1,6 +1,6 @@
 ---
 name: tabletop-exercise
-description: "Plant Tabletop-Übungen für Cyberkrisen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Tabletop-Übungen für Cyberkrisen im Nis2 Cybersecurity Compliance."
 ---
 
 # Tabletop Exercise

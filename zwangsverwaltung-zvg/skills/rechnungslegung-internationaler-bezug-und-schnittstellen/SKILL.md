@@ -1,6 +1,6 @@
 ---
 name: rechnungslegung-internationaler-bezug-und-schnittstellen
-description: "Rechnungslegung: Internationaler Bezug und Schnittstellen im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnungslegung: Internationaler Bezug und Schnittstellen im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Rechnungslegung: Internationaler Bezug und Schnittstellen

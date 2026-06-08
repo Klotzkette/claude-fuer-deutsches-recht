@@ -1,6 +1,6 @@
 ---
 name: oertlichen-risikoampel-und-gegenargumente
-description: "Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
 ---
 
 # Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien

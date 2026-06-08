@@ -1,6 +1,6 @@
 ---
 name: vollstaendigen-tatbestand-beweis-und-belege
-description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
 ---
 
 # Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage

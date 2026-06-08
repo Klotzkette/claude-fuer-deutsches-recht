@@ -1,6 +1,6 @@
 ---
 name: vorlage-originale-kopien
-description: "Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk im Bürokratie-Entbürokratisierung."
 ---
 
 # Originale und Kopien

@@ -1,6 +1,6 @@
 ---
 name: brao-interessen-fokus-formuliert
-description: "Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

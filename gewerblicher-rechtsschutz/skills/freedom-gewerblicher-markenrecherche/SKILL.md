@@ -1,6 +1,6 @@
 ---
 name: freedom-gewerblicher-markenrecherche
-description: "Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung im Gewerblicher Rechtsschutz."
 ---
 
 # Spezial: Freedom – Schriftsatz, Brief und Memo-Bausteine

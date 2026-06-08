@@ -1,6 +1,6 @@
 ---
 name: abiturzulassung-und-fehlkurse
-description: "Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglichkeiten im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglichkeiten im Schulrecht Länder."
 ---
 
 # Abiturzulassung und Fehlkurse

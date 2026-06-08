@@ -1,6 +1,6 @@
 ---
 name: festpreis-change-request
-description: "Festpreis und Change Request: steuert Festpreisprojekt steuern, Scope Creep erkennen und Change Request sauber auslösen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Festpreis und Change Request: steuert Festpreisprojekt steuern, Scope Creep erkennen und Change Request sauber auslösen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Festpreis und Change Request

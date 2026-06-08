@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-verein-mitgliederversammlung
-description: "Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht, Fotos, Schutzkonzept und Kinderschutz im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht, Fotos, Schutzkonzept und Kinderschutz im Vereinsrecht Vereinsmanager."
 ---
 
 # Minderjährige im Verein

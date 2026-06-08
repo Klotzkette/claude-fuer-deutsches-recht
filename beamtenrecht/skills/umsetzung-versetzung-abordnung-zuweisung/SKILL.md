@@ -1,6 +1,6 @@
 ---
 name: umsetzung-versetzung-abordnung-zuweisung
-description: "Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umsetzung, Versetzung, Abordnung und Zuweisung: Eingriffsintensität, Ermessen, Fürsorge, Pendelbelastung und Familienbezug im Beamtenrecht."
 ---
 
 # Umsetzung Versetzung Abordnung Zuweisung

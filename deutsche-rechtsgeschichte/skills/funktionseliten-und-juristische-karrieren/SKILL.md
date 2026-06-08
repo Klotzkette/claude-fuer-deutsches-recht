@@ -1,6 +1,6 @@
 ---
 name: funktionseliten-und-juristische-karrieren
-description: "Untersucht Karrieremuster juristischer Eliten in Diktaturen und Nachfolgestaaten: Examenselite, Verwaltungsmacht, Sicherheitsapparat, Wissenschaft, Wirtschaft und spätere Selbstbeschreibung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Untersucht Karrieremuster juristischer Eliten in Diktaturen und Nachfolgestaaten: Examenselite, Verwaltungsmacht, Sicherheitsapparat, Wissenschaft, Wirtschaft und spätere Selbstbeschreibung im Deutsche Rechtsgeschichte."
 ---
 
 # Funktionseliten und juristische Karrieren

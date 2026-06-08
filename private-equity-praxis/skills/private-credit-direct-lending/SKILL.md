@@ -1,6 +1,6 @@
 ---
 name: private-credit-direct-lending
-description: "Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket im Private Equity Praxis."
 ---
 
 # Private Credit und Direct Lending

@@ -1,6 +1,6 @@
 ---
 name: roemische-obligationenlehre
-description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht."
 ---
 
 # Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt

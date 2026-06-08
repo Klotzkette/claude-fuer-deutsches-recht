@@ -1,6 +1,6 @@
 ---
 name: restitution-oder-entschaedigung
-description: "Einigungsvertrag und Vermögensrecht: Restitution oder Entschädigung. Restitution oder Entschädigung im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Restitution oder Entschädigung. Restitution oder Entschädigung im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Restitution Oder Entschaedigung

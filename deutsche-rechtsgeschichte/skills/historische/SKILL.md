@@ -1,15 +1,9 @@
 ---
 name: historische
-description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsgeschichte."
 ---
 
 # DRG Historische
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `drg-neu-020-historische-verfassungsvergleiche-als-argumentations` | Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `drg-neu-020-historische-verfassungsvergleiche-als-argumentations`
 

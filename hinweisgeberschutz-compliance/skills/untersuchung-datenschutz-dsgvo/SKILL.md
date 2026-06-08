@@ -1,6 +1,6 @@
 ---
 name: untersuchung-datenschutz-dsgvo
-description: "Plant Compliance-Untersuchung nach Hinweis im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Compliance-Untersuchung nach Hinweis im Hinweisgeberschutz Compliance."
 ---
 
 # Compliance Untersuchung

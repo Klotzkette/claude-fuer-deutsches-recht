@@ -1,6 +1,6 @@
 ---
 name: raketenstart-exportkontrolle-absturz
-description: "Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts im Weltraumrecht."
 ---
 
 # Weltraumrecht: Raketenstart: Exportkontrolle, Gefahrgut, Luft- und Seerecht

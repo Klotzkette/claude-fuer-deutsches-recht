@@ -1,6 +1,6 @@
 ---
 name: mondvertrag-ressourcen
-description: "Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz

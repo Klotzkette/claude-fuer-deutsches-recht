@@ -1,6 +1,6 @@
 ---
 name: raeumlicher-compliance-dokumentation-und-akte
-description: "Raeumlicher: Compliance-Dokumentation und Aktenvermerk im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Raeumlicher: Compliance-Dokumentation und Aktenvermerk im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Raeumlicher: Compliance-Dokumentation und Aktenvermerk

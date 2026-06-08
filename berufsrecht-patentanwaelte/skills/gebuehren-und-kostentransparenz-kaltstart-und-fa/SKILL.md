@@ -1,6 +1,6 @@
 ---
 name: gebuehren-und-kostentransparenz-kaltstart-und-fa
-description: "Patentanwälte: gebuehren und kostentransparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: gebuehren und kostentransparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: gebuehren und kostentransparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

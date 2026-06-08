@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-handelskauf-maengelruege-nach-377-hgb
-description: "Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsrecht Hgb."
 ---
 
 # Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB

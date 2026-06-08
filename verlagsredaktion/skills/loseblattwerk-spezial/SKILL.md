@@ -1,6 +1,6 @@
 ---
 name: loseblattwerk-spezial
-description: "Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Pruefraster für Verlag und Redaktion im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Pruefraster für Verlag und Redaktion im Verlagsredaktion."
 ---
 
 # Verl: Loseblattwerk

@@ -1,6 +1,6 @@
 ---
 name: plagiatssoftware-treffer
-description: "Prüft Trefferberichte, Quellenlage, rechtliches Gehör und eigenständige Bewertung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Trefferberichte, Quellenlage, rechtliches Gehör und eigenständige Bewertung im Pruefungsrecht Hochschule."
 ---
 
 # Plagiatssoftware-Treffer

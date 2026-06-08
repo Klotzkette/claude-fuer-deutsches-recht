@@ -1,6 +1,6 @@
 ---
 name: vorrang-dokumentenmatrix-und-lueckenliste
-description: "Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass im Europarecht Kompass."
 ---
 
 # Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: fintech-crypto-regulated-target
-description: "Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing und BaFin-Kommunikation bei VC-Targets im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing und BaFin-Kommunikation bei VC-Targets im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # FinTech, Crypto und regulierte Targets

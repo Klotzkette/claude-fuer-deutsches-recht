@@ -1,6 +1,6 @@
 ---
 name: auswanderung-rente-ins-ausland-zahlung
-description: "Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen im Rentenpruefer."
 ---
 
 # auswanderung-rente-ins-ausland-zahlung

@@ -1,6 +1,6 @@
 ---
 name: pre-employment-screening-background-check
-description: "Berliner Start-up-HR: Background Checks, Referenzen, Führungszeugnis und Social-Media-Screening nur rollen- und rechtsgrundlagenfest einsetzen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Background Checks, Referenzen, Führungszeugnis und Social-Media-Screening nur rollen- und rechtsgrundlagenfest einsetzen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Pre Employment Screening Background Check

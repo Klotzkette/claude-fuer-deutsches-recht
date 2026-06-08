@@ -1,6 +1,6 @@
 ---
 name: hinweis-von-externer-person
-description: "Prüft Meldungen von Lieferanten, Kunden oder Dritten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Meldungen von Lieferanten, Kunden oder Dritten im Hinweisgeberschutz Compliance."
 ---
 
 # Hinweis Von Externer Person

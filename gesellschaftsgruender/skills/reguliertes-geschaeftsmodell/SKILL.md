@@ -1,6 +1,6 @@
 ---
 name: reguliertes-geschaeftsmodell
-description: "Erkennt Erlaubnispflichten vor Gründung: Finanzen, Versicherung, Medizin, Makler, Bewachung, Handwerk, Güterverkehr, Lebensmittel im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erkennt Erlaubnispflichten vor Gründung: Finanzen, Versicherung, Medizin, Makler, Bewachung, Handwerk, Güterverkehr, Lebensmittel im Gesellschaftsgruender."
 ---
 
 # Reguliertes Geschäftsmodell

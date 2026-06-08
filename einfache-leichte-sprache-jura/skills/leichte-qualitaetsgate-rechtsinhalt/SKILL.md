@@ -1,6 +1,6 @@
 ---
 name: leichte-qualitaetsgate-rechtsinhalt
-description: "Leichte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leichte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Leichte: Risikoampel, Gegenargumente und Verteidigungslinien

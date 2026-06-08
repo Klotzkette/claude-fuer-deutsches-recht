@@ -1,6 +1,6 @@
 ---
 name: professional-review-tabellenreview-vendor-red-team-korrektur
-description: "Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Tabellenreview 3d."
 ---
 
 # Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive

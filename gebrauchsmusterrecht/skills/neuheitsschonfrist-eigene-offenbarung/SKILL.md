@@ -1,6 +1,6 @@
 ---
 name: neuheitsschonfrist-eigene-offenbarung
-description: "Neuheitsschonfrist für eigene Offenbarungen prüfen: Messe, Pitchdeck, Website, Verkauf, Testkunde, Geheimhaltung und Sechsmonatsfenster im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neuheitsschonfrist für eigene Offenbarungen prüfen: Messe, Pitchdeck, Website, Verkauf, Testkunde, Geheimhaltung und Sechsmonatsfenster im Gebrauchsmusterrecht."
 ---
 
 # Neuheitsschonfrist Eigene Offenbarung

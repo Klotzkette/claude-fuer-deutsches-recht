@@ -1,6 +1,6 @@
 ---
 name: carve-out-operating-model
-description: "Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services im Private Equity Praxis."
 ---
 
 # Carve-out Operating Model

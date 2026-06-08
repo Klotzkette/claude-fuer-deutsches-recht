@@ -1,6 +1,6 @@
 ---
 name: verkauf-spa-erbbaurechtsvertrag-pflichtinhalt
-description: "Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing im Erbbaurecht Praxis."
 ---
 
 # Verkaufsklauseln

@@ -1,6 +1,6 @@
 ---
 name: glasfaser-tk-infrastruktursharing
-description: "Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glasfaser- und Hausanschlussprojekte: Grundstückszugang, Gebäudenetz, Wegerecht, Gestattung, Wohnungseigentum, Open Access und Baukoordination im Telekommunikationsrecht."
 ---
 
 # Glasfaser-Hausanschluss und Wegerecht

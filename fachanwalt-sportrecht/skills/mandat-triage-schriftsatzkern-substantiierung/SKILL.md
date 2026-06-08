@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-schriftsatzkern-substantiierung
-description: "Mandat Triage Schriftsatzkern Substantiierung im Sportrecht: prüft konkret Sportrechtliches Mandat eintrifft und muss strukturiert, Substantiierter Schriftsatzkern für Klage ordentliches, CAS, Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandat Triage Schriftsatzkern Substantiierung im Sportrecht: prüft konkret Sportrechtliches Mandat eintrifft und muss strukturiert, Substantiierter Schriftsatzkern für Klage ordentliches, CAS, Code."
 ---
 
 # Mandat Triage Schriftsatzkern Substantiierung
@@ -19,14 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mandat-triage-sportrecht` | Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen. Verbandsfrist gegen Sanktion typisch 1-2 Wochen. Normen je nach Routing. Prüfraster Mandanten-Typ Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation bei Spielsperre oder Doping-Verdacht. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-sportrecht-orientierung (Überblick). |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage ordentliches Gericht/Sportgericht, CAS-/DIS-Schiedsantrag, Antidoping: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-code-compliance-dokumentation-und-akte` | Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mandat-triage-sportrecht`
 
@@ -373,7 +365,7 @@ Vor Versand:
 
 ## 3. `spezial-code-compliance-dokumentation-und-akte`
 
-**Fokus:** Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht.
 
 ### Code: Compliance-Dokumentation und Aktenvermerk
 

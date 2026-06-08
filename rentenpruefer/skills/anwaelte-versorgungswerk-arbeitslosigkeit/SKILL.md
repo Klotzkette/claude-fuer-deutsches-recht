@@ -1,6 +1,6 @@
 ---
 name: anwaelte-versorgungswerk-arbeitslosigkeit
-description: "Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten im Rentenpruefer."
 ---
 
 # anwaelte-versorgungswerk-spezial

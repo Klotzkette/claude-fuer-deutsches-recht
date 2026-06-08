@@ -1,6 +1,6 @@
 ---
 name: projektsteuerung-vs-hoai
-description: "HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Grenzt projektsteuerung

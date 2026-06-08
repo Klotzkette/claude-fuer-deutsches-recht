@@ -1,6 +1,6 @@
 ---
 name: articles-association-satzung
-description: "Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen im Gesellschaftsrecht Legal English."
 ---
 
 # Articles of Association und Satzung

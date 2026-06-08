@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsrecht-im-20-jahrhundert
-description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus im Deutsche Rechtsgeschichte."
 ---
 
 # Wirtschaftsrecht im 20. Jahrhundert

@@ -1,6 +1,6 @@
 ---
 name: schultraeger-gebaeude-und-ausstattung
-description: "Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit im Schulrecht Länder."
 ---
 
 # Schultraeger Gebaeude Und Ausstattung

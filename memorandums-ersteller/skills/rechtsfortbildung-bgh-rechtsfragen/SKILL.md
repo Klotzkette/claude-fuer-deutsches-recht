@@ -1,6 +1,6 @@
 ---
 name: rechtsfortbildung-bgh-rechtsfragen
-description: "Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum im Memorandums Ersteller."
 ---
 
 # BGH-Update-Memo

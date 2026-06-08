@@ -1,6 +1,6 @@
 ---
 name: archivrecht-zustaendigkeit-pruefen-frist-setzen
-description: "Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Archivrecht Zuständigkeit Pruefen

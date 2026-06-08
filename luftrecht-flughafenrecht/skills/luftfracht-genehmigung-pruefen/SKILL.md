@@ -1,6 +1,6 @@
 ---
 name: luftfracht-genehmigung-pruefen
-description: "Luftfrachtfuehrer oder Spediteur fraucht Genehmigung: Luftverkehrsbetreiberzeugnis AOC Gefahrgut-Erlaubnis oder Regulated-Agent-Status. Skill prueft LuftVG EASA Part-OPS IATA DGR EU-VO 300/2008 und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Luftfrachtfuehrer oder Spediteur fraucht Genehmigung: Luftverkehrsbetreiberzeugnis AOC Gefahrgut-Erlaubnis oder Regulated-Agent-Status. Skill prueft LuftVG EASA Part-OPS IATA DGR EU-VO 300/2008 und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht."
 ---
 
 # Luftfracht – Genehmigung prüfen

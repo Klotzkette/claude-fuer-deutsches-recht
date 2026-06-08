@@ -1,6 +1,6 @@
 ---
 name: staatsexamen-schnittstelle-taeuschung-plagiat
-description: "Prüft Schnittstellen zu staatlichen Prüfungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schnittstellen zu staatlichen Prüfungen im Pruefungsrecht Hochschule."
 ---
 
 # Staatsexamen Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: kaufmaennisches-bestaetigungsschreiben
-description: "Prüft Voraussetzungen und Wirkung des kaufmännischen Bestätigungsschreibens im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Voraussetzungen und Wirkung des kaufmännischen Bestätigungsschreibens im Handelsrecht Hgb."
 ---
 
 # Kaufmännisches Bestätigungsschreiben

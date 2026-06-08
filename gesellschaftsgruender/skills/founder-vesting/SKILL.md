@@ -1,6 +1,6 @@
 ---
 name: founder-vesting
-description: "Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung im Gesellschaftsgruender."
 ---
 
 # Founder Vesting

@@ -1,6 +1,6 @@
 ---
 name: pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv
-description: "Pensionierungs-Gesamtcheck für Beamte und Richter: Ruhegehalt, Mindestversorgung, Versorgungsabschlag, Beihilfe, PKV, Rente, Nebeneinkünfte und Übergang in den Ruhestand im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pensionierungs-Gesamtcheck für Beamte und Richter: Ruhegehalt, Mindestversorgung, Versorgungsabschlag, Beihilfe, PKV, Rente, Nebeneinkünfte und Übergang in den Ruhestand im Beamtenrecht."
 ---
 
 # pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv

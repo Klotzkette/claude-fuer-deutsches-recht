@@ -1,6 +1,6 @@
 ---
 name: gutachtenstil-internationaler-bezug-und-schnittstellen
-description: "Gutachtenstil: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gutachtenstil: Internationaler Bezug und Schnittstellen im Jurastudium."
 ---
 
 # Gutachtenstil: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-compliance-dokumentation-und-akte
-description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk

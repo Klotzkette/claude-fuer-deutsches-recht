@@ -1,6 +1,6 @@
 ---
 name: mangelhaftung-symptomtheorie-bautraeger
-description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Spezialfall Symptomtheorie BGH zur Mangelruege, Bautraeger-Haftungsausschluss und § 307 BGB, Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB, Maengelhaftung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Spezialfall Symptomtheorie BGH zur Mangelruege, Bautraeger-Haftungsausschluss und § 307 BGB, Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB, Maengelhaftung."
 ---
 
 # Mangelhaftung Symptomtheorie Bautraeger
@@ -8,15 +8,6 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 ## Arbeitsbereich
 
 **Mangelhaftung Symptomtheorie Bautraeger** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelruege, Bautraeger-Haftungsausschluss und § 307 BGB, Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bau-mangelhaftung-spezial-symptomtheorie` | Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausübung Recht der Mangelbeseitigung. Pruefraster für Schriftsatz. |
-| `bautraeger-haftungsausschluss-307-bgb` | Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster. |
-| `bautraeger-maengelhaftung-fuenf-jahre-634a` | Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster. |
-| `spezial-maengelhaftung-verhandlung-vergleich-und-eskalation` | Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -26,7 +17,7 @@ description: "Mangelhaftung Symptomtheorie Bautraeger im Plugin Fachanwalt Bau A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bau-mangelhaftung-spezial-symptomtheorie`
 
@@ -154,7 +145,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## 4. `spezial-maengelhaftung-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht.
 
 ### Maengelhaftung: Verhandlung, Vergleich und Eskalation
 

@@ -1,6 +1,6 @@
 ---
 name: negative-bewertung-nach-streit
-description: "Solo-Selbstständige: reagiert auf Bewertung ohne Eskalationsfehler; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: reagiert auf Bewertung ohne Eskalationsfehler; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Forderungen Mahnung und Streit: Reagiert auf bewertung ohne eskalationsfehler

@@ -1,6 +1,6 @@
 ---
 name: ladung-erhalten-mandanten
-description: "Ladung erhalten: erste Orientierung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ladung erhalten: erste Orientierung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ladung erhalten: erste Orientierung: Sitzungspraxis

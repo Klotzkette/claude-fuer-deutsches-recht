@@ -1,6 +1,6 @@
 ---
 name: kammeraufsicht-kammerantwort
-description: "Anwälte: vergleich mit kammeraufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: vergleich mit kammeraufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: vergleich mit kammeraufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

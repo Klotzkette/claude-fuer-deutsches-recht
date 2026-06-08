@@ -1,6 +1,6 @@
 ---
 name: onboarding-equipment-und-homeoffice
-description: "Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Onboarding Equipment Und Homeoffice

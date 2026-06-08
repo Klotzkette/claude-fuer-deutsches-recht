@@ -1,6 +1,6 @@
 ---
 name: grossspenden-sofortmeldung
-description: "Wahlkampfrecht Praxis: Grossspenden ueber der aktuellen Sofortmeldeschwelle pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Grossspenden ueber der aktuellen Sofortmeldeschwelle pruefen im Wahlkampfrecht."
 ---
 
 # Grossspenden Sofortmeldung

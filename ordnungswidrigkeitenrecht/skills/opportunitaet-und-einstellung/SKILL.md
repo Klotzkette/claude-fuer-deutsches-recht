@@ -1,6 +1,6 @@
 ---
 name: opportunitaet-und-einstellung
-description: "Ordnungswidrigkeitenrecht: Opportunität und Einstellung. Opportunität und Einstellung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Opportunität und Einstellung. Opportunität und Einstellung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Opportunitaet Und Einstellung

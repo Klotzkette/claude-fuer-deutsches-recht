@@ -1,6 +1,6 @@
 ---
 name: vorsicht-bei-auskuenften
-description: "Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden im Bürokratie-Entbürokratisierung."
 ---
 
 # Vorsicht bei Auskünften

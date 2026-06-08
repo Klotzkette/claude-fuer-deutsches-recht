@@ -1,6 +1,6 @@
 ---
 name: musterung-verweigert-ablehnung
-description: "Erklärt Ablehnungsrisiko bei Musterungsverweigerung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Ablehnungsrisiko bei Musterungsverweigerung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Musterung verweigert Risiko

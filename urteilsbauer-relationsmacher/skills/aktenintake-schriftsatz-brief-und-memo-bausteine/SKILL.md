@@ -1,6 +1,6 @@
 ---
 name: aktenintake-schriftsatz-brief-und-memo-bausteine
-description: "Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: bearbeitung-umgestaltung-beweisforensik
-description: "Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Bearbeitung, Adaption, Übersetzung, Arrangement, Cover, Remix und neue Fassung im Urheberrecht De Eu."
 ---
 
 # Bearbeitung und Umgestaltung

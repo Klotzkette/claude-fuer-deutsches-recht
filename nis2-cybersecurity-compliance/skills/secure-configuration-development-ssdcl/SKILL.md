@@ -1,6 +1,6 @@
 ---
 name: secure-configuration-development-ssdcl
-description: "Prüft Hardening und sichere Konfiguration im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hardening und sichere Konfiguration im Nis2 Cybersecurity Compliance."
 ---
 
 # Secure Configuration Hardening

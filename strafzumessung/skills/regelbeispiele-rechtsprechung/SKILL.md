@@ -1,6 +1,6 @@
 ---
 name: regelbeispiele-rechtsprechung
-description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung im Strafzumessung."
 ---
 
 # Regelbeispiele in der Strafzumessung

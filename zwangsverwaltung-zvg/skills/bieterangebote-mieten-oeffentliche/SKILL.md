@@ -1,6 +1,6 @@
 ---
 name: bieterangebote-mieten-oeffentliche
-description: "Bieterangebote: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bieterangebote: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Bieterangebote: Compliance-Dokumentation und Aktenvermerk

@@ -1,15 +1,9 @@
 ---
 name: aktenabschluss-archivierung
-description: "Aktenabschluss Archivierung im Plugin Notariat Alltag im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenabschluss Archivierung im Plugin Notariat Alltag im Notariat."
 ---
 
 # Aktenabschluss Archivierung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest` | Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Aktenabschluss Archivierung im Plugin Notariat Alltag im Notariat.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest`
 

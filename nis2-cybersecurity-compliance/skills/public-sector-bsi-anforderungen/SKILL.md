@@ -1,6 +1,6 @@
 ---
 name: public-sector-bsi-anforderungen
-description: "Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten im Nis2 Cybersecurity Compliance."
 ---
 
 # Public Sector BSI Anforderungen

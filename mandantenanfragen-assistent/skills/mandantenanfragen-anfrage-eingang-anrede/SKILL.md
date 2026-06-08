@@ -1,6 +1,6 @@
 ---
 name: mandantenanfragen-anfrage-eingang-anrede
-description: "Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg

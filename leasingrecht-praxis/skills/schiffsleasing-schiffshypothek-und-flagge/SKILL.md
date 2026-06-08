@@ -1,6 +1,6 @@
 ---
 name: schiffsleasing-schiffshypothek-und-flagge
-description: "Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten im Leasingrecht."
 ---
 
 # Schiffsleasing: Schiffsregister, Schiffshypothek und Flagge

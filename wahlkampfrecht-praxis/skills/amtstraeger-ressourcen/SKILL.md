@@ -1,6 +1,6 @@
 ---
 name: amtstraeger-ressourcen
-description: "Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen im Wahlkampfrecht."
 ---
 
 # Amtstraeger Ressourcen

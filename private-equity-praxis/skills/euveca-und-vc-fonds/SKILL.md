@@ -1,6 +1,6 @@
 ---
 name: euveca-und-vc-fonds
-description: "Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, Minderheitsbeteiligungen und zulässige Assets im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, Minderheitsbeteiligungen und zulässige Assets im Private Equity Praxis."
 ---
 
 # EuVECA und VC-Fonds: Wagniskapital richtig etikettieren

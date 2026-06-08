@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-angreifen
-description: "Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Planfeststellung angreifen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Planfeststellung angreifen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
 ---
 
 # Planfeststellung Angreifen

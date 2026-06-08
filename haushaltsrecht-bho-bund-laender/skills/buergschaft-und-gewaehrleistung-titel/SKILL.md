@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-gewaehrleistung-titel
-description: "Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Buergschaft Und Gewaehrleistung Titel

@@ -1,6 +1,6 @@
 ---
 name: subcontractors-cloud-support-maintenance
-description: "Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cloud-Subunternehmer, Hosting, Reseller, Managed Services, Flow-downs und Daten-/Security-Verantwortung im Softwarerecht De Eu Us."
 ---
 
 # Subcontractors und Cloud Stack

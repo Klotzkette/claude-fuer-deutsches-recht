@@ -1,6 +1,6 @@
 ---
 name: schoeffe-haeusliche-gewalt-sitzung
-description: "Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Häusliche Gewalt Verfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Aussageverhalten, Rücknahme Strafantrag, Schutzanordnung und Beziehungsdynamik mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Häusliche Gewalt Verfahren: Sitzungspraxis

@@ -1,6 +1,6 @@
 ---
 name: hafenvertiefung-akteneinsicht-erzwinge
-description: "Umweltschutzverband Verbandsklage: Hafenvertiefung: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Hafenvertiefung: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Hafenvertiefung Akteneinsicht Erzwinge

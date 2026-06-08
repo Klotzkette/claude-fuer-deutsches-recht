@@ -1,6 +1,6 @@
 ---
 name: steps-plan-pmo
-description: "Deal-PMO und Steps Plan: Extrahiert aus Verträgen, DD und Gremienunterlagen konkrete Steps Plans für Pre-Signing, Signing-to-Closing und Post-Closing im Mittelstand Corporate Ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deal-PMO und Steps Plan: Extrahiert aus Verträgen, DD und Gremienunterlagen konkrete Steps Plans für Pre-Signing, Signing-to-Closing und Post-Closing im Mittelstand Corporate Ma."
 ---
 
 # Deal-PMO und Steps Plan

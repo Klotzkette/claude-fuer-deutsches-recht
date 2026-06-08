@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-zeichen-auslegen
-description: "StVO: Fahrradstraße: Zeichen auslegen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Fahrradstraße: Zeichen auslegen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Fahrradstrasse Zeichen Auslegen

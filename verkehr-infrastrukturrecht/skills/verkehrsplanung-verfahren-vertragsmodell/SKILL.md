@@ -1,6 +1,6 @@
 ---
 name: verkehrsplanung-verfahren-vertragsmodell
-description: "Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
 ---
 
 # Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg

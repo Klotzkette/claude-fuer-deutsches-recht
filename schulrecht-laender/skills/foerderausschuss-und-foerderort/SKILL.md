@@ -1,6 +1,6 @@
 ---
 name: foerderausschuss-und-foerderort
-description: "Prüft Förderausschuss, Förderort, Inklusionsentscheidung und Beteiligungsrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Förderausschuss, Förderort, Inklusionsentscheidung und Beteiligungsrechte im Schulrecht Länder."
 ---
 
 # Förderausschuss und Förderort

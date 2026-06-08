@@ -1,6 +1,6 @@
 ---
 name: us-dmca-interoperability-export-control
-description: "Prüft Anti-Circumvention-Risiken bei Reverse Engineering, Security Research, Jailbreak, Repair und Interoperabilität im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anti-Circumvention-Risiken bei Reverse Engineering, Security Research, Jailbreak, Repair und Interoperabilität im Softwarerecht De Eu Us."
 ---
 
 # US DMCA § 1201 und Interoperabilität

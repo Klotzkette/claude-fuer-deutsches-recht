@@ -1,6 +1,6 @@
 ---
 name: fracht-und-konnossement
-description: "Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden im Seerecht Schifffahrtsrecht."
 ---
 
 # Fracht und Konnossement – Prüfung und Schadensabwicklung

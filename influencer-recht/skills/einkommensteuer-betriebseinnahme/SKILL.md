@@ -1,6 +1,6 @@
 ---
 name: einkommensteuer-betriebseinnahme
-description: "Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen im Influencer-Recht."
 ---
 
 # Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung

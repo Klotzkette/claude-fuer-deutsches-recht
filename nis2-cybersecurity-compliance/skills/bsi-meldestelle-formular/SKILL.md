@@ -1,6 +1,6 @@
 ---
 name: bsi-meldestelle-formular
-description: "Bereitet Meldungen an BSI und parallele Stellen vor im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Meldungen an BSI und parallele Stellen vor im Nis2 Cybersecurity Compliance."
 ---
 
 # BSI Meldestelle Formular

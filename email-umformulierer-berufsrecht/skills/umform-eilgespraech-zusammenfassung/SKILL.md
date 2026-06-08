@@ -1,6 +1,6 @@
 ---
 name: umform-eilgespraech-zusammenfassung
-description: "Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster für Mandant im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster für Mandant im Berufsrechts-E-Mail."
 ---
 
 # Umform: Eilgespraech-Zusammenfassung

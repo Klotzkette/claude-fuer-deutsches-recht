@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Prüfungslinie für liquiditaetsvorschau insolvenzrechtlich im Liquiditaetsplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für liquiditaetsvorschau insolvenzrechtlich im Liquiditaetsplanung."
 ---
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau

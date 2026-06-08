@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmerueberwachung-it
-description: "Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen im Nis2 Cybersecurity Compliance."
 ---
 
 # Arbeitnehmerueberwachung It

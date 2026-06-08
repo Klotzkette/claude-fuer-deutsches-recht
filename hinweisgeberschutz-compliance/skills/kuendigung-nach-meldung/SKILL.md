@@ -1,6 +1,6 @@
 ---
 name: kuendigung-nach-meldung
-description: "Prüft Kündigung oder Abmahnung nach Hinweis im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kündigung oder Abmahnung nach Hinweis im Hinweisgeberschutz Compliance."
 ---
 
 # Kuendigung Nach Meldung

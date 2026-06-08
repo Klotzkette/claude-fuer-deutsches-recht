@@ -1,6 +1,6 @@
 ---
 name: hassrede-kommentare-moderation-und-haftung
-description: "Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen im Influencer-Recht."
 ---
 
 # Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung

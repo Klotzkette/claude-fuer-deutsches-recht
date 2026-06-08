@@ -1,15 +1,9 @@
 ---
 name: uwr-wasserrechtliche
-description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht."
 ---
 
 # UWR Wasserrechtliche
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `uwr-wasserrechtliche-erlaubnis-leitfaden` | Leitfaden wasserrechtliche Erlaubnis WHG: Bewirtschaftungsermessen, Benutzung, Stand der Technik. Pruefraster für Industrieanlagen und kommunale Vorhaben. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "UWR Wasserrechtliche im Plugin Umweltrecht im Umweltrecht. Liefert
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `uwr-wasserrechtliche-erlaubnis-leitfaden`
 

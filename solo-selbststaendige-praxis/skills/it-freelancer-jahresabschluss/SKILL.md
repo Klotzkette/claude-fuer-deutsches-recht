@@ -1,6 +1,6 @@
 ---
 name: it-freelancer-jahresabschluss
-description: "Solo-Selbstständige: prüft IT-Projektvertrag, Weisungen, Sprintplanung, Abnahme und Ergebnisverantwortung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft IT-Projektvertrag, Weisungen, Sprintplanung, Abnahme und Ergebnisverantwortung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft it-projektvertrag

@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-anerkennung
-description: "Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstunfall, Wegeunfall, psychische Dienstunfallfolgen und Unfallfürsorge im Beamtenrecht."
 ---
 
 # Dienstunfall Anerkennung

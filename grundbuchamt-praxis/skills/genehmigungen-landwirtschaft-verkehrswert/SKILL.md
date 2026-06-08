@@ -1,6 +1,6 @@
 ---
 name: genehmigungen-landwirtschaft-verkehrswert
-description: "Prüft Grundstücksverkehr, siedlungsrechtliche Genehmigungen, Vorkaufsrechte und Registervollzug im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Grundstücksverkehr, siedlungsrechtliche Genehmigungen, Vorkaufsrechte und Registervollzug im Grundbuchamt Praxis."
 ---
 
 # Landwirtschaft und Genehmigungen

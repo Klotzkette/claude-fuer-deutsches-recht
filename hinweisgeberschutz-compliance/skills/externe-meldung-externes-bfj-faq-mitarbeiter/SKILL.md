@@ -1,6 +1,6 @@
 ---
 name: externe-meldung-externes-bfj-faq-mitarbeiter
-description: "Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen im Hinweisgeberschutz Compliance."
 ---
 
 # Externe Meldung BfJ

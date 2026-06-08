@@ -1,6 +1,6 @@
 ---
 name: hilfsmittel-liste-pruefung
-description: "Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen im Pruefungsrecht Hochschule."
 ---
 
 # Hilfsmittelliste Prüfung

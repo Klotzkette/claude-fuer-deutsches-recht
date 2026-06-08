@@ -1,6 +1,6 @@
 ---
 name: lohnpfaendung-unterhalt-pfaendungsfreigrenzen
-description: "Berliner Start-up-HR: Lohnpfändung und Unterhaltspfändung intern richtig routen: Vertraulichkeit, Rang, Drittschuldnererklärung und Payroll. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Lohnpfändung und Unterhaltspfändung intern richtig routen: Vertraulichkeit, Rang, Drittschuldnererklärung und Payroll. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Lohnpfaendung Unterhalt Pfaendungsfreigrenzen

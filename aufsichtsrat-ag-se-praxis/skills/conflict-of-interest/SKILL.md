@@ -1,6 +1,6 @@
 ---
 name: conflict-of-interest
-description: "AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Conflict Of Interest

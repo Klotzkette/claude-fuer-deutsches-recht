@@ -1,6 +1,6 @@
 ---
 name: vermoegensauskunft-vollstreckungsbescheid
-description: "Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung im Zwangsvollstreckung."
 ---
 
 # Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: nebenberuf
-description: "Nebenberuf: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Nebenberuf im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nebenberuf: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Nebenberuf im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Nebenberuf

@@ -1,6 +1,6 @@
 ---
 name: ladezone-eilrechtsschutz-planen
-description: "StVO: Ladezone: Eilrechtsschutz planen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Ladezone: Eilrechtsschutz planen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Ladezone Eilrechtsschutz Planen

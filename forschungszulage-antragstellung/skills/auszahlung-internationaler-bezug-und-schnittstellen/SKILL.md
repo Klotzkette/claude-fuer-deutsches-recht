@@ -1,6 +1,6 @@
 ---
 name: auszahlung-internationaler-bezug-und-schnittstellen
-description: "Auszahlung: Internationaler Bezug und Schnittstellen im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auszahlung: Internationaler Bezug und Schnittstellen im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Auszahlung: Internationaler Bezug und Schnittstellen

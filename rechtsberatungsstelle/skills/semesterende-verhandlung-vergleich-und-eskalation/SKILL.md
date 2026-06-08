@@ -1,6 +1,6 @@
 ---
 name: semesterende-verhandlung-vergleich-und-eskalation
-description: "Semesterende: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Semesterende: Verhandlung, Vergleich und Eskalation im Rechtsberatungsstelle."
 ---
 
 # Semesterende: Verhandlung, Vergleich und Eskalation

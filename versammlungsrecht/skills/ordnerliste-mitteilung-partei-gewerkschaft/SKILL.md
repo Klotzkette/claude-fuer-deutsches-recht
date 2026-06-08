@@ -1,6 +1,6 @@
 ---
 name: ordnerliste-mitteilung-partei-gewerkschaft
-description: "Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht im Versammlungsrecht."
 ---
 
 # So viel wie nötig, so wenig wie möglich

@@ -1,6 +1,6 @@
 ---
 name: livecheck-bnetza-konsultation-formular
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular im BNetzA-Verfahren."
 ---
 
 # Livecheck BNetzA Konsultation Formular

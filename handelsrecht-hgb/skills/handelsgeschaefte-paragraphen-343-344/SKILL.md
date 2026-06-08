@@ -1,6 +1,6 @@
 ---
 name: handelsgeschaefte-paragraphen-343-344
-description: "Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft beiderseitige/einseitige Handelsgeschäfte und Vermutung geschäftlicher Zugehörigkeit im Handelsrecht Hgb."
 ---
 
 # Handelsgeschäfte §§ 343, 344 HGB

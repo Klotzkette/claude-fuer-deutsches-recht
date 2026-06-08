@@ -1,6 +1,6 @@
 ---
 name: petition-und-buergeranliegen
-description: "Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung im Bürokratie-Entbürokratisierung."
 ---
 
 # Petition und Bürgeranliegen

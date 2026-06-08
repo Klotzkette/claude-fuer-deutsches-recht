@@ -1,6 +1,6 @@
 ---
 name: recruiting-probezeitkuendigung-fair
-description: "Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Probezeitkuendigung Fair Und Schnell

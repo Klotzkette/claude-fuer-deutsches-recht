@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kameras-digitaler-zwilling-dronen
-description: "Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kameras, Lidar, Mikrofone, Tiefensensoren und Umgebungsdaten von Robotern nach DSGVO und BDSG im Robotik-Recht."
 ---
 
 # Datenschutz Sensorik

@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-bnetza-beschluss
-description: "Eilrechtsschutz bei Frequenz-, Entgelt-, Zugang-, Nummerierungs- oder Missbrauchsmaßnahmen im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eilrechtsschutz bei Frequenz-, Entgelt-, Zugang-, Nummerierungs- oder Missbrauchsmaßnahmen im Telekommunikationsrecht."
 ---
 
 # Eilrechtsschutz gegen BNetzA-Beschluss

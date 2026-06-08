@@ -1,6 +1,6 @@
 ---
 name: kg-kommanditist-eintritt-austritt-haftsumme
-description: "Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einlage/Haftsumme, Sonderrechtsnachfolge, Austritt, Nachhaftung und Registerpublizität im Handelsregister Praxis."
 ---
 
 # Kommanditist und Haftsumme

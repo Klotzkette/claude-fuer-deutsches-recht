@@ -1,6 +1,6 @@
 ---
 name: vertragsgenerator-musik-release
-description: "Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt und prüft Vertragsbausteine für Songrelease, Label, Verlag, Producer, Feature, Remix, Split, Sync und Plattformvertrieb im Urheberrecht De Eu."
 ---
 
 # Musikvertrag und Release-Paket

@@ -1,6 +1,6 @@
 ---
 name: kritische-markt-interessen-marktabgrenzungen
-description: "Kritische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kritische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Kritische: Erstprüfung, Rollenklärung und Mandatsziel

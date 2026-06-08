@@ -1,18 +1,9 @@
 ---
 name: bautraeger-belehrungspflicht
-description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag, Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Notar-Belehrungspflicht nach § 17 BeurkG beim, Bautraeger-Bonitaetspruefung Warnsignale, Elektronische notarielle Verkuendung beim Bautraegervertrag, Bautraeger-Finanzierungsgrundschuld und Belastungsfolge."
 ---
 
 # Bautraeger Belehrungspflicht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss. |
-| `bautraeger-bonitaetspruefung-warnsignale` | Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit. |
-| `bautraeger-elektronische-notarverkuendung-2023` | Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster. |
-| `bautraeger-finanzierungsgrundschuld-belastungsfolge` | Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Belehrungspflicht im Plugin Fachanwalt Bau Architektenr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-belehrungspflicht-17-beurkg`
 

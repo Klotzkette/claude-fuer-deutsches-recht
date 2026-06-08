@@ -1,17 +1,9 @@
 ---
 name: einladung-tagesordnung
-description: "Einladung Tagesordnung im Plugin Weg Hausverwaltung: prüft konkret Chronologie und Belegmatrix im Plugin weg-hausverwaltung, Fristen- und Risikoampel im Plugin weg-hausverwaltung, Prüft und erstellt Einladungen zur Eigentümerversammlung, Ladun. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einladung Tagesordnung im Plugin Weg Hausverwaltung: prüft konkret Chronologie und Belegmatrix im Plugin weg-hausverwaltung, Fristen- und Risikoampel im Plugin weg-hausverwaltung, Prüft und erstellt Einladungen zur Eigentümerversammlung, Ladun."
 ---
 
 # Einladung Tagesordnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin weg-hausverwaltung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin weg-hausverwaltung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `einladung-tagesordnung-fristen` | Prüft und erstellt Einladungen zur Eigentümerversammlung mit Tagesordnung, Ladungsfrist, Zugang, Vollmacht, Beschlussgegenständen, Anlagen und Fristenkontrolle (Stand 05/2026). Berücksichtigt § 24 Abs. 4 WEG (Ladungsfrist 3 Wochen), § 23 Abs. 1a WEG (virtuelle Versammlung) und den Vorbefassungsmaßstab BGH V ZR 86/24. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Einladung Tagesordnung im Plugin Weg Hausverwaltung: prüft konkre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 

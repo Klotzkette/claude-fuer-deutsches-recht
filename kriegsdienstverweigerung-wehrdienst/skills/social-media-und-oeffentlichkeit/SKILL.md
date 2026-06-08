@@ -1,6 +1,6 @@
 ---
 name: social-media-und-oeffentlichkeit
-description: "Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Social Media und Öffentlichkeit

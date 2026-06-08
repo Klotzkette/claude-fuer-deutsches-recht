@@ -1,6 +1,6 @@
 ---
 name: gdpr-privacy-gpl-agpl-implementation
-description: "Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV im Softwarerecht De Eu Us."
 ---
 
 # Privacy by Design Software

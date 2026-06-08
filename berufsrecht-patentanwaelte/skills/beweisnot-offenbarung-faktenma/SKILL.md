@@ -1,6 +1,6 @@
 ---
 name: beweisnot-offenbarung-faktenma
-description: "Patentanwälte: beweisnot bei offenbarung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: beweisnot bei offenbarung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: beweisnot bei offenbarung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

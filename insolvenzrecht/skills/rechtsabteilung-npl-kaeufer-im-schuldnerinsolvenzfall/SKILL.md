@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall
-description: "Rechtsabteilungs-Fachmodul für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht."
 ---
 
 # Rechtsabteilung: NPL-Käufer im Schuldnerinsolvenzfall

@@ -1,6 +1,6 @@
 ---
 name: gebuehrenrahmen-schwellenwert-ampel
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel im Goae Gebührenordnung Aerzte."
 ---
 
 # Gebührenrahmen Schwellenwert Ampel

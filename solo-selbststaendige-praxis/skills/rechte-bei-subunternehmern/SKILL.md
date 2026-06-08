@@ -1,6 +1,6 @@
 ---
 name: rechte-bei-subunternehmern
-description: "Solo-Selbstständige: sichert Rechtekette von freien Mitarbeitenden und Agenturen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: sichert Rechtekette von freien Mitarbeitenden und Agenturen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # IP Content und Arbeitsergebnisse: Sichert rechtekette von freien mitarbeitenden und agenturen

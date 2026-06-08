@@ -1,6 +1,6 @@
 ---
 name: streitpraevention-klauseln
-description: "Solo-Selbstständige: baut klare Eskalation, Gerichtsstand, Rechtswahl und Beweislogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: baut klare Eskalation, Gerichtsstand, Rechtswahl und Beweislogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Verträge und AGB: Baut klare eskalation

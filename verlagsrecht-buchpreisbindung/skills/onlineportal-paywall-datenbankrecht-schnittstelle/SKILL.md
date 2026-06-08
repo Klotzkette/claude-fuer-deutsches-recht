@@ -1,6 +1,6 @@
 ---
 name: onlineportal-paywall-datenbankrecht-schnittstelle
-description: "Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle

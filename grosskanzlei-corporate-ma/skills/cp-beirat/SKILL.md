@@ -1,18 +1,9 @@
 ---
 name: cp-beirat
-description: "CP Beirat im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Corporate und M&A Rechtsprechungsrecherche, Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate, GmbH-Beirat im Plugin grosskanzlei-corporate-ma, Stille-Reserven-Klausel des § 8c Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "CP Beirat im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Corporate und M&A Rechtsprechungsrecherche, Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate, GmbH-Beirat im Plugin grosskanzlei-corporate-ma, Stille-Reserven-Klausel des § 8c Abs."
 ---
 
 # CP Beirat
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `grosskanzlei-corporate-ma-rechtsprechungsrecherche` | Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und 179a AktG, § 15 AktG Verfahren. Prüfraster amtliche Bundes- und Landesquellen, Aktenzeichen-Verifizierung, Randnummern, Fundstellen-Kette, aktuelle BGH-Senats-Rechtsprechung. Output Rechtsprechungs-Digest mit Datum, Aktenzeichen, Leitsatz und Deal-Relevanz. Abgrenzung zu inhaltlicher Vertragsgestaltung in SPA/APA-Entwurf und zu Board-Paper. |
-| `grosskanzlei-ma-fristen-cp-kalender` | Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing Conditions, §§ 35 ff. GWB Kartellfristen, §§ 55 ff. AWV FDI-Fristen. Prüfraster Fristen aus E-Mail SPA Regulatory Filing und Board extrahieren, Duplikate zusammenführen, Wiedervorlagedaten setzen. Output Fristenkalender mit Quelle Owner Ampel und Eskalationsprotokoll. Abgrenzung zu Steps-Plan-PMO für Aufgabenmanagement und zu Automation-Monitoring. |
-| `beirat-musterklauseln` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Musterklauseln; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg` | Stille-Reserven-Klausel des § 8c Abs. 4 KStG und § 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung der stillen Reserven, die Anforderungen an den § 8d-Antrag und die Fortführungsbindung. Liefert Berechnungsraster, Antrags-Checkliste und Risiko-Marker für die SPA-Dokumentation. Adressat ist das Großkanzlei-Team in komplexen Sanierungs- und Übernahmesituationen. Quellen Stand 06/2026. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "CP Beirat im Corporate/M&A (Großkanzlei-Praxis): prüft konkret C
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `grosskanzlei-corporate-ma-rechtsprechungsrecherche`
 

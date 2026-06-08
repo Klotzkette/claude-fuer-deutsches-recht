@@ -1,17 +1,9 @@
 ---
 name: erbengemeinschaft-blockade-erstgespraech
-description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbrecht: prüft konkret Erbengemeinschaft, Erstgespraech im Erbrechtmandat strukturieren und, Erbschaftsausschlagung erlaeutern und Erklärung formulieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbrecht: prüft konkret Erbengemeinschaft, Erstgespraech im Erbrechtmandat strukturieren und, Erbschaftsausschlagung erlaeutern und Erklärung formulieren."
 ---
 
 # Erbengemeinschaft Blockade Erstgespraech
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `erbengemeinschaft-blockade-auseinandersetzung` | Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.; Normanker: BGB §§ 2032 ff., 2042; ZVG; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `erstgespraech-mandatsannahme` | Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills. |
-| `fachanwalt-erbrecht-erbschaftsausschlagung` | Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `erbengemeinschaft-blockade-auseinandersetzung`
 

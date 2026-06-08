@@ -1,6 +1,6 @@
 ---
 name: vig-und-verbraucherinformationen-nutze
-description: "Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Vig Und Verbraucherinformationen Nutze

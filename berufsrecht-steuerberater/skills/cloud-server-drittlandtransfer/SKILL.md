@@ -1,6 +1,6 @@
 ---
 name: cloud-server-drittlandtransfer
-description: "Steuerberater: cloud server drittlandtransfer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: cloud server drittlandtransfer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: cloud server drittlandtransfer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

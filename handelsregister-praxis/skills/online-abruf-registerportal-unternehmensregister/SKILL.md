@@ -1,6 +1,6 @@
 ---
 name: online-abruf-registerportal-unternehmensregister
-description: "Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Handelsregister, Unternehmensregister, Bekanntmachungen, Chronologie, Ausdrucke, Screenshots und Beleglog im Handelsregister Praxis."
 ---
 
 # Registerabruf richtig dokumentieren

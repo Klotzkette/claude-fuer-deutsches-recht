@@ -1,6 +1,6 @@
 ---
 name: wehruebungen-heranziehungsbescheid-weitere
-description: "Wehrübungen und Heranziehungsbescheid: prüft Heranziehungsvoraussetzungen, Rechtsbehelf, Härtegründe und Freistellungsverfahren. Norm-/Quellenanker: SG §§ 60–69, WBO im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wehrübungen und Heranziehungsbescheid: prüft Heranziehungsvoraussetzungen, Rechtsbehelf, Härtegründe und Freistellungsverfahren. Norm-/Quellenanker: SG §§ 60–69, WBO im Bundeswehrrecht Wehrrecht."
 ---
 
 # Wehrübungen und Heranziehungsbescheid

@@ -1,6 +1,6 @@
 ---
 name: probearbeit-schnuppertag-und-assessment
-description: "Berliner Start-up-HR: Probearbeit, Schnuppertag, Case Study und Assessment arbeitsrechtlich, datenschutzrechtlich und AGG-fest strukturieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Probearbeit, Schnuppertag, Case Study und Assessment arbeitsrechtlich, datenschutzrechtlich und AGG-fest strukturieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Probearbeit Schnuppertag Und Assessment

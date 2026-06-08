@@ -1,6 +1,6 @@
 ---
 name: umbau-modernisierung-zuschlag-bestand
-description: "HOAI-Fachfrage: Umbau, Modernisierung, Instandsetzung, Instandhaltung, Umbauzuschlag, Bestandsschwierigkeit und Abgrenzung zu Neubau/Erweiterung im Honorar- und Leistungsumfang prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: Umbau, Modernisierung, Instandsetzung, Instandhaltung, Umbauzuschlag, Bestandsschwierigkeit und Abgrenzung zu Neubau/Erweiterung im Honorar- und Leistungsumfang prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # Umbau, Modernisierung Und Bestandsschwierigkeit

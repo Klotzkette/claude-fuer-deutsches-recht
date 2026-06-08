@@ -1,6 +1,6 @@
 ---
 name: patent-infringement-software
-description: "Prüft Softwarepatentverletzung in US/EU, Claim Mapping, Indirect Infringement, Invalidity und Workarounds im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Softwarepatentverletzung in US/EU, Claim Mapping, Indirect Infringement, Invalidity und Workarounds im Softwarerecht De Eu Us."
 ---
 
 # Software Patent Infringement

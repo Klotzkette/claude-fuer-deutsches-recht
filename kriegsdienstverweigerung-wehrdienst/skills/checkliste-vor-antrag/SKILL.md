@@ -1,6 +1,6 @@
 ---
 name: checkliste-vor-antrag
-description: "Letztes Qualitätsgate vor Absendung des KDV-Antrags im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Letztes Qualitätsgate vor Absendung des KDV-Antrags im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Checkliste vor Antrag

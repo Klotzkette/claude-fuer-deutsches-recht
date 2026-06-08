@@ -1,19 +1,9 @@
 ---
 name: antennen-satellitenschuessel-aufrechnung
-description: "Antennen Satellitenschuessel Aufrechnung im Miet- und Wohnungseigentumsrecht: prüft konkret Satellitenschüssel/Antennen, Aufrechnung/Zurückbehaltung, Aufzugskosten, Balkon. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Antennen Satellitenschuessel Aufrechnung im Miet- und Wohnungseigentumsrecht: prüft konkret Satellitenschüssel/Antennen, Aufrechnung/Zurückbehaltung, Aufzugskosten, Balkon."
 ---
 
 # Antennen Satellitenschuessel Aufrechnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-antennen-satellitenschuessel` | Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-aufrechnung-zurueckbehaltung` | Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-aufzugskosten` | Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-balkon-terrasse-garten` | Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-barrierefreiheit-mietwohnung` | Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Antennen Satellitenschuessel Aufrechnung im Miet- und Wohnungseige
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-antennen-satellitenschuessel`
 

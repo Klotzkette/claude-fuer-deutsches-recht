@@ -1,6 +1,6 @@
 ---
 name: personenbezogene-daten-dritter
-description: "Schützt Daten Dritter in Meldungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schützt Daten Dritter in Meldungen im Hinweisgeberschutz Compliance."
 ---
 
 # Personenbezogene Daten Dritter

@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-baurecht-orientierung
-description: "Ehrenamtlicher Richter Baurecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ehrenamtlicher Richter Baurecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ehrenamtlicher Richter Baurecht: Orientierung

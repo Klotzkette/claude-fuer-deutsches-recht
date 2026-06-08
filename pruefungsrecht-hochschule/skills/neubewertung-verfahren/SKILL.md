@@ -1,6 +1,6 @@
 ---
 name: neubewertung-verfahren
-description: "Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Pruefungsrecht Hochschule."
 ---
 
 # Neubewertung Verfahren

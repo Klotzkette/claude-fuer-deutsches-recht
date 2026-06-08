@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-in-der-kanzlei-rechtsprechungscheck-u
-description: "Anwälte: datenschutzpanne in der kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: datenschutzpanne in der kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: datenschutzpanne in der kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: intellectual-property-license-365-n
-description: "Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments im US Bankruptcy Code."
 ---
 
 # Intellectual Property License § 365(n)

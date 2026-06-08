@@ -1,6 +1,6 @@
 ---
 name: lph-02-planfreigabe-und-versionierung
-description: "HOAI LPH 2 Vorplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 2 Vorplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 2 Vorplanung: Prüft planindex

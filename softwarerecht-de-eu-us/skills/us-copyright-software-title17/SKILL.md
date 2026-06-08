@@ -1,6 +1,6 @@
 ---
 name: us-copyright-software-title17
-description: "Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Copyright-Schutz für Softwarecode, nonliteral elements, registration, deposit und litigation readiness im Softwarerecht De Eu Us."
 ---
 
 # US Copyright Software Title 17

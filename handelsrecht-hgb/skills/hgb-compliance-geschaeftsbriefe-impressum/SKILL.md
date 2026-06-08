@@ -1,6 +1,6 @@
 ---
 name: hgb-compliance-geschaeftsbriefe-impressum
-description: "Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Pflichtangaben auf Geschäftsbriefen, E-Mails, Rechnungen und Webseiten im Handelsrecht Hgb."
 ---
 
 # HGB Compliance Geschäftsbriefe

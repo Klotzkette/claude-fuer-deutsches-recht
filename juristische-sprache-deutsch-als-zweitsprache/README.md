@@ -98,6 +98,6 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `vertrag-einfach-aktenzeichen-betreff` | Hilft bei Vertrag Einfach Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deu... |
 | `widerspruch-einfach-zivilprozess-warnwoerter` | Hilft bei Widerspruch Einfach Formulieren für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprac... |
 | `zivilprozess-warnwoerter` | Hilft bei Zivilprozess Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deut... |
-| `zustellung-postfach` | Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt. |
+| `zustellung-postfach` | Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

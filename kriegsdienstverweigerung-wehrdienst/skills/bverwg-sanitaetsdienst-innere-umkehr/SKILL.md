@@ -1,6 +1,6 @@
 ---
 name: bverwg-sanitaetsdienst-innere-umkehr
-description: "Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # BVerwG 2012 Sanitätsdienst

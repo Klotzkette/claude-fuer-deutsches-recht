@@ -1,6 +1,6 @@
 ---
 name: uklag-unterlassung-gegen-agb
-description: "Verbraucherschutzverband Durchsetzung: UKlaG-Unterlassung gegen AGB. UKlaG-Unterlassung gegen AGB im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: UKlaG-Unterlassung gegen AGB. UKlaG-Unterlassung gegen AGB im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Uklag Unterlassung Gegen Agb

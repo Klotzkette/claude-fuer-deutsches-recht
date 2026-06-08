@@ -1,6 +1,6 @@
 ---
 name: volksvermoegen-oder-finanzvermoegen
-description: "Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzvermögen. Volksvermögen oder Finanzvermögen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzvermögen. Volksvermögen oder Finanzvermögen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Volksvermoegen Oder Finanzvermoegen

@@ -1,6 +1,6 @@
 ---
 name: anschreiben-kurz-antrag-bapersbw
-description: "Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Anschreiben kurz und würdig

@@ -1,6 +1,6 @@
 ---
 name: anwesenheitspflicht-modul
-description: "Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Pruefungsrecht Hochschule."
 ---
 
 # Anwesenheitspflicht im Modul

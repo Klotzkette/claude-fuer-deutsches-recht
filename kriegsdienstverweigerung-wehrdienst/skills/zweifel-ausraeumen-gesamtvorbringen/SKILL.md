@@ -1,6 +1,6 @@
 ---
 name: zweifel-ausraeumen-gesamtvorbringen
-description: "Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Zweifel ausräumen

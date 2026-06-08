@@ -1,6 +1,6 @@
 ---
 name: tenure-track-evaluation
-description: "Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz im Hochschulrecht Länder."
 ---
 
 # Tenure Track Evaluation

@@ -1,6 +1,6 @@
 ---
 name: press-reputation-social-media
-description: "Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Presse, Reputation und Social Media

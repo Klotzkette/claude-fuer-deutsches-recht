@@ -1,19 +1,9 @@
 ---
 name: abschiebungsabwehr-sofort-arbeitgeber
-description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort, Arbeitgeber-Memo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort, Arbeitgeber-Memo."
 ---
 
 # Abschiebungsabwehr Sofort Arbeitgeber
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills. |
-| `workflow-abschiebungsabwehr-sofort` | Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-arbeitgeber-memo` | Arbeitgeber-Memo: Prüfungslinie für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-arbeitsrecht-schnittstelle` | Arbeitsrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-asyl-start` | Asyl-Start: Prüfungslinie für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `allgemein`
 

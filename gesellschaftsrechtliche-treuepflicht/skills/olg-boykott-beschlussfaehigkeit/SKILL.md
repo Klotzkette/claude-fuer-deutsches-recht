@@ -1,6 +1,6 @@
 ---
 name: olg-boykott-beschlussfaehigkeit
-description: "Gesellschaftsrechtliche Treuepflicht: Olg Boykott Beschlussfaehigkeit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Olg Boykott Beschlussfaehigkeit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Olg Boykott Beschlussfaehigkeit

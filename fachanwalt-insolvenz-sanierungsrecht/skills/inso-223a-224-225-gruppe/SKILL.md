@@ -1,6 +1,6 @@
 ---
 name: inso-223a-224-225-gruppe
-description: "Inso P223a Gruppeninterne P224 Rechte P225 im Insolvenz- und Sanierungsrecht: prüft konkret § 223a InsO (Gruppeninterne Drittsicherheiten) im Mandat, § 224 InsO (Rechte der Insolvenzgläubiger) im Mandat prüfen, § 225 InsO (Rechte der nachrangigen Insolvenzgläubiger) im, § 225a InsO (Rechte der Anteilsinhaber) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P223a Gruppeninterne P224 Rechte P225 im Insolvenz- und Sanierungsrecht: prüft konkret § 223a InsO (Gruppeninterne Drittsicherheiten) im Mandat, § 224 InsO (Rechte der Insolvenzgläubiger) im Mandat prüfen, § 225 InsO (Rechte der nachrangigen Insolvenzgläubiger) im, § 225a InsO (Rechte der Anteilsinhaber) im Mandat prüfen."
 ---
 
 # Inso P223a Gruppeninterne P224 Rechte P225
@@ -8,32 +8,6 @@ description: "Inso P223a Gruppeninterne P224 Rechte P225 im Insolvenz- und Sanie
 ## Arbeitsbereich
 
 **Inso P223a Gruppeninterne P224 Rechte P225** ordnet den Fall über die tragenden Prüfungslinien: § 223a InsO (Gruppeninterne Drittsicherheiten) im Mandat, § 224 InsO (Rechte der Insolvenzgläubiger) im Mandat prüfen, § 225 InsO (Rechte der nachrangigen Insolvenzgläubiger) im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p223a-gruppeninterne-drittsicherheiten` | § 223a InsO (Gruppeninterne Drittsicherheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p224-rechte-der-insolvenzglaubiger` | § 224 InsO (Rechte der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p225-rechte-der-nachrangigen-insolvenzglaubiger` | § 225 InsO (Rechte der nachrangigen Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p225a-rechte-der-anteilsinhaber` | § 225a InsO (Rechte der Anteilsinhaber) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p226-gleichbehandlung-der-beteiligten` | § 226 InsO (Gleichbehandlung der Beteiligten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p228-anderung-sachenrechtlicher-verhaltnisse` | § 228 InsO (Änderung sachenrechtlicher Verhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p229-vermogensubersicht-ergebnis-und-finanzplan` | § 229 InsO (Vermögensübersicht. Ergebnis- und Finanzplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p230-weitere-anlagen` | § 230 InsO (Weitere Anlagen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p231-zuruckweisung-des-plans` | § 231 InsO (Zurückweisung des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p232-stellungnahmen-zum-plan` | § 232 InsO (Stellungnahmen zum Plan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p233-aussetzung-von-verwertung-und-verteilung` | § 233 InsO (Aussetzung von Verwertung und Verteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p234-niederlegung-des-plans` | § 234 InsO (Niederlegung des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p235-erorterungs-und-abstimmungstermin` | § 235 InsO (Erörterungs- und Abstimmungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p236-verbindung-mit-dem-prufungstermin` | § 236 InsO (Verbindung mit dem Prüfungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p237-stimmrecht-der-insolvenzglaubiger` | § 237 InsO (Stimmrecht der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p238-stimmrecht-der-absonderungsberechtigten-glaubiger` | § 238 InsO (Stimmrecht der absonderungsberechtigten Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p238a-stimmrecht-der-anteilsinhaber` | § 238a InsO (Stimmrecht der Anteilsinhaber) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p238b-stimmrecht-der-berechtigten-aus-gruppeninternen-dritt` | § 238b InsO (Stimmrecht der Berechtigten aus gruppeninternen Drittsicherheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p239-stimmliste` | § 239 InsO (Stimmliste) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p240-anderung-des-plans` | § 240 InsO (Änderung des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p241-gesonderter-abstimmungstermin` | § 241 InsO (Gesonderter Abstimmungstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P223a Gruppeninterne P224 Rechte P225 im Insolvenz- und Sanie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p223a-gruppeninterne-drittsicherheiten`
 

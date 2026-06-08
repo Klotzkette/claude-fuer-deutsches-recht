@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung-einspruch-sonderfall
-description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,18 +1,9 @@
 ---
 name: atmp-pharmakovigilanz-aufklaerungsfehler
-description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft konkret ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe, ePA und Akte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft konkret ATMP-Pharmakovigilanz und RMP, Prüfungslinie für aufklaerungsfehler beweisstrategie, Befundherausgabe, ePA und Akte."
 ---
 
 # Atmp Pharmakovigilanz Aufklaerungsfehler
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `atmp-pharmakovigilanz-rmp` | ATMP-Pharmakovigilanz und RMP: moderner Medizinrechts-Skill für Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `aufklaerungsfehler-beweisstrategie` | Aufklaerungsfehler Beweisstrategie: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `befundherausgabe-epa-akte` | Befundherausgabe, ePA und Akte: moderner Medizinrechts-Skill für Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `behandlungsfehler-anspruch-pruefen` | Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Atmp Pharmakovigilanz Aufklaerungsfehler im Medizinrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `atmp-pharmakovigilanz-rmp`
 

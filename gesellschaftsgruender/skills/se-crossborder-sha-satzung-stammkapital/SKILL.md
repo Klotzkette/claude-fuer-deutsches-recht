@@ -1,6 +1,6 @@
 ---
 name: se-crossborder-sha-satzung-stammkapital
-description: "Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene im Gesellschaftsgruender."
 ---
 
 # SE und grenzüberschreitende Struktur

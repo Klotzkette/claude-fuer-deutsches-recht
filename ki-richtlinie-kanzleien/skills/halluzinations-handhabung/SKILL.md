@@ -1,6 +1,6 @@
 ---
 name: halluzinations-handhabung
-description: "Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz im Ki Richtlinie Kanzleien."
 ---
 
 # Halluzinations-Handhabung

@@ -1,6 +1,6 @@
 ---
 name: eingang-und-pk-nachweis
-description: "Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Eingangsnachweis sichern

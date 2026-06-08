@@ -1,19 +1,9 @@
 ---
 name: unternehmerversorgung-gesellschafter
-description: "Unternehmerversorgung Gesellschafter im Plugin Fachanwalt Familienrecht: prüft konkret Unternehmerversorgung Gesellschafter-Geschäftsführer, Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzliche, VA bei Lebenspartnerschaft. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Unternehmerversorgung Gesellschafter im Plugin Fachanwalt Familienrecht: prüft konkret Unternehmerversorgung Gesellschafter-Geschäftsführer, Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzliche, VA bei Lebenspartnerschaft."
 ---
 
 # Unternehmerversorgung Gesellschafter
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `unternehmerversorgung-gesellschafter-geschaeftsfuehrer` | Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `versorgungsausgleich-totalrevision-und-tod` | Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur. |
-| `va-bei-lebenspartnerschaft` | VA bei Lebenspartnerschaft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `va-im-internationalen-scheidungsfall` | VA im internationalen Scheidungsfall: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `va-und-insolvenz-eines-versorgungstraegers` | VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Unternehmerversorgung Gesellschafter im Plugin Fachanwalt Familien
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `unternehmerversorgung-gesellschafter-geschaeftsfuehrer`
 

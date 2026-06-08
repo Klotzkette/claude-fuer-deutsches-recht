@@ -1,17 +1,9 @@
 ---
 name: rentenversicherung-sachversicherung
-description: "Rentenversicherung Sachversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Rentenversicherung, Sachversicherung, Schnittstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rentenversicherung Sachversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Rentenversicherung, Sachversicherung, Schnittstelle."
 ---
 
 # Rentenversicherung Sachversicherung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine` | Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-sachversicherung-verhandlung-vergleich-und-eskalation` | Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstelle-zahlen-schwellen-und-berechnung` | Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht.
 
 ### Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-sachversicherung-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht.
 
 ### Sachversicherung: Verhandlung, Vergleich und Eskalation
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstelle-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht.
 
 ### Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 

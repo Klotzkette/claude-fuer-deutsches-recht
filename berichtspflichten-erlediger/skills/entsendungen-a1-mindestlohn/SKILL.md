@@ -1,6 +1,6 @@
 ---
 name: entsendungen-a1-mindestlohn
-description: "Entsendungen und Auslandseinsätze: A1, Meldepflichten, Mindestlohn, Arbeitszeit, Sozialversicherung und Nachweise im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entsendungen und Auslandseinsätze: A1, Meldepflichten, Mindestlohn, Arbeitszeit, Sozialversicherung und Nachweise im Berichtspflichten."
 ---
 
 # Entsendung, A1 und Mindestlohnmeldungen

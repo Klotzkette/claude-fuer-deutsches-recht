@@ -1,6 +1,6 @@
 ---
 name: disziplinarrecht-laender
-description: "Länderdisziplinarrecht: landesspezifische Verfahren, Maßnahmen und Rechtsschutz im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Länderdisziplinarrecht: landesspezifische Verfahren, Maßnahmen und Rechtsschutz im Beamtenrecht."
 ---
 
 # Disziplinarrecht Länder

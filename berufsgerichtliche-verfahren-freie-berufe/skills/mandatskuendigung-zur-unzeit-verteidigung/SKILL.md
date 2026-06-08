@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-zur-unzeit-verteidigung
-description: "Mandatskündigung zur Unzeit (Verteidigungs- und Kammerantwort): steuert Mandatsniederlegung, Fristen, Gerichtstermin, Vorschuss, Vertrauensverlust und Haftungsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatskündigung zur Unzeit (Verteidigungs- und Kammerantwort): steuert Mandatsniederlegung, Fristen, Gerichtstermin, Vorschuss, Vertrauensverlust und Haftungsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Mandatskündigung zur Unzeit: Verteidigungs- und Kammerantwort

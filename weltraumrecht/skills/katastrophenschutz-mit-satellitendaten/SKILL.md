@@ -1,6 +1,6 @@
 ---
 name: katastrophenschutz-mit-satellitendaten
-description: "Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten im Weltraumrecht."
 ---
 
 # Weltraumrecht: Katastrophenschutz mit Satellitendaten

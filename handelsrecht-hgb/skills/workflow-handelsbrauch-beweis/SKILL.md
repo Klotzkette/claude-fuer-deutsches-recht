@@ -1,6 +1,6 @@
 ---
 name: workflow-handelsbrauch-beweis
-description: "Prüft Handelsbrauch, Verkehrssitte, kaufmännisches Bestätigungsschreiben und Beweisfragen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsbrauch, Verkehrssitte, kaufmännisches Bestätigungsschreiben und Beweisfragen im Handelsrecht Hgb."
 ---
 
 # Handelsbrauch und Beweis

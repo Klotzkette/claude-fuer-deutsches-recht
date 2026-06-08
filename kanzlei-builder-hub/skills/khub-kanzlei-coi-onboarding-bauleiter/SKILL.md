@@ -1,6 +1,6 @@
 ---
 name: khub-kanzlei-coi-onboarding-bauleiter
-description: "Spezialfall Conflicts-of-Interest-Matrix in Boutique- und Grosskanzleien: Datenbank, Pruefablauf, Chinese Walls, Informationsabschirmung. Pruefraster für Risk-and-Compliance im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Conflicts-of-Interest-Matrix in Boutique- und Grosskanzleien: Datenbank, Pruefablauf, Chinese Walls, Informationsabschirmung. Pruefraster für Risk-and-Compliance im Kanzlei Builder Hub."
 ---
 
 # Khub: COI-Konfliktmatrix

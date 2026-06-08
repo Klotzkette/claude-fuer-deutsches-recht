@@ -1,6 +1,6 @@
 ---
 name: memo-board-pack-besondere-anlaesse-spezial
-description: "Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat im Memorandums Ersteller."
 ---
 
 # Memo: Board-Pack Anlaesse

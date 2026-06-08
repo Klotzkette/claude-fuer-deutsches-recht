@@ -1,6 +1,6 @@
 ---
 name: honorar-gebuehren-verguetung
-description: "Honorar, Gebühren und Vergütung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Vergütungsvereinbarung, Gebührenrecht, Vorschuss, Erfolgshonorargrenzen und Rechnung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Honorar, Gebühren und Vergütung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Vergütungsvereinbarung, Gebührenrecht, Vorschuss, Erfolgshonorargrenzen und Rechnung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Honorar, Gebühren und Vergütung

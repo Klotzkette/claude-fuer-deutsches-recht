@@ -1,6 +1,6 @@
 ---
 name: gmbh-notgeschaeftsfuehrung
-description: "Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Gmbh Notgeschaeftsfuehrung

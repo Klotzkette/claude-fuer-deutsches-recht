@@ -1,6 +1,6 @@
 ---
 name: plattformverhaeltnis
-description: "Prüft digitale Plattformen als Auftraggeber, Vermittler oder Algorithmus-Steuerer im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft digitale Plattformen als Auftraggeber, Vermittler oder Algorithmus-Steuerer im Sozialversicherungsstatus Pruefer."
 ---
 
 # Plattformverhältnis

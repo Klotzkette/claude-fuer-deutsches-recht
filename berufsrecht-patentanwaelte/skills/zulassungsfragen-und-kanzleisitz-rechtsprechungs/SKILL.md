@@ -1,6 +1,6 @@
 ---
 name: zulassungsfragen-und-kanzleisitz-rechtsprechungs
-description: "Patentanwälte: zulassungsfragen und kanzleisitz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: zulassungsfragen und kanzleisitz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: zulassungsfragen und kanzleisitz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

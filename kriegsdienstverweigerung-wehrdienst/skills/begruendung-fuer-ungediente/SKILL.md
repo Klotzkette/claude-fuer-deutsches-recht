@@ -1,6 +1,6 @@
 ---
 name: begruendung-fuer-ungediente
-description: "Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Begründung Ungediente

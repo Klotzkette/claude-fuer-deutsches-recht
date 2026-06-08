@@ -1,6 +1,6 @@
 ---
 name: cookie-consent-realistisch
-description: "Solo-Selbstständige: prüft Tracking, Consent-Banner, Matomo/GA und Einwilligungsnachweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Tracking, Consent-Banner, Matomo/GA und Einwilligungsnachweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Datenschutz IT und Website: Prüft tracking

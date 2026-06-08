@@ -1,6 +1,6 @@
 ---
 name: component-auditor-koordination-kammerantwort
-description: "Wirtschaftsprüfer: component auditor koordination - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: component auditor koordination - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: component auditor koordination - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

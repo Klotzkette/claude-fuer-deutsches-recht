@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-anderen-berufen
-description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Kooperation mit anderen Berufen im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Kooperation mit anderen Berufen im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Kooperation mit anderen Berufen

@@ -1,18 +1,9 @@
 ---
 name: honorar-hoai-kuendigung-vob-bau
-description: "Honorar HOAI Kuendigung VOB BAU im Plugin Fachanwalt Bau Architektenrecht: prüft konkret HOAI in Grundzuegen, Spezialfall Kuendigung VOB-Bauvertrag, Spezialfall Schiedsgutachten in Bauvertraegen, Spezialfall Sicherungsmittel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Honorar HOAI Kuendigung VOB BAU im Plugin Fachanwalt Bau Architektenrecht: prüft konkret HOAI in Grundzuegen, Spezialfall Kuendigung VOB-Bauvertrag, Spezialfall Schiedsgutachten in Bauvertraegen, Spezialfall Sicherungsmittel."
 ---
 
 # Honorar HOAI Kuendigung VOB BAU
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bau-honorar-hoai-grundzuege` | HOAI in Grundzuegen: Leistungsbilder § 34 ff. HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitpunkte. |
-| `bau-kuendigung-vob-spezial` | Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB. Pruefraster und Schriftsatzbausteine für Mandant. |
-| `bau-schiedsgutachten-spezial` | Spezialfall Schiedsgutachten in Bauvertraegen: §§ 317 ff. BGB analog, vereinbarte Verbindlichkeit, Inhaltsbestimmung gegen Tatsachenermittlung. SOBau-Regeln, DIS-Schiedsgutachten, einstweilige Verfuegung. Pruefraster und Mustertexte. |
-| `bau-sicherungsmittel-spezial` | Spezialfall Sicherungsmittel: § 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergschaft, Gewaehrleistungsbuergschaft, Insolvenz Bauunternehmer. Pruefraster und Mustertexte für Anforderung und Klage. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Honorar HOAI Kuendigung VOB BAU im Plugin Fachanwalt Bau Architekt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bau-honorar-hoai-grundzuege`
 

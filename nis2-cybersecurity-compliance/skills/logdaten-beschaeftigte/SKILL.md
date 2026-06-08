@@ -1,6 +1,6 @@
 ---
 name: logdaten-beschaeftigte
-description: "Prüft Logdaten von Beschäftigten rechts- und beweissicher im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Logdaten von Beschäftigten rechts- und beweissicher im Nis2 Cybersecurity Compliance."
 ---
 
 # Logdaten Beschaeftigte

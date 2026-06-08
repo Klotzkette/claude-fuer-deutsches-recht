@@ -1,6 +1,6 @@
 ---
 name: 023-schulbau-oepp-beihilfe-markieren
-description: "Schulbau-ÖPP: Beihilfe markieren im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schulbau-ÖPP: Beihilfe markieren im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Schulbau Oepp Beihilfe Markieren

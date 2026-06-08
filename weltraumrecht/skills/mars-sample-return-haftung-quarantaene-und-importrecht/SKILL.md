@@ -1,6 +1,6 @@
 ---
 name: mars-sample-return-haftung-quarantaene-und-importrecht
-description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Mars Sample Return: Haftung, Quarantäne und Importrecht

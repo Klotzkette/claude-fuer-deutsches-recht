@@ -1,6 +1,6 @@
 ---
 name: heilmittel-nahrungsergaenzung-health-claims
-description: "Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken im Influencer-Recht."
 ---
 
 # Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims

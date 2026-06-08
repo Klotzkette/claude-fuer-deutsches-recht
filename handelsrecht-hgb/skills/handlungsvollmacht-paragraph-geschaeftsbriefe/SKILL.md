@@ -1,6 +1,6 @@
 ---
 name: handlungsvollmacht-paragraph-geschaeftsbriefe
-description: "Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Artvollmacht, Gattungsvollmacht, Spezialvollmacht und Grenzen im Handelsrecht Hgb."
 ---
 
 # Handlungsvollmacht § 54 HGB

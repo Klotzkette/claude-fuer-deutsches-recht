@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-oder-pfaendung-von-satellitenrechten
-description: "Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit im Weltraumrecht."
 ---
 
 # Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten

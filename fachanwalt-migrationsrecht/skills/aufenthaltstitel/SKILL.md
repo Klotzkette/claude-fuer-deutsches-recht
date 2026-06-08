@@ -1,18 +1,9 @@
 ---
 name: aufenthaltstitel
-description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder, Antrag auf Einbuergerung nach StAG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Erteilung oder Verlaengerung eines, Mandant erhielt Ausweisungsverfuegung und will Widerspruch, Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder, Antrag auf Einbuergerung nach StAG."
 ---
 
 # Aufenthaltstitel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` | Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde. Typen § 4 AufenthG Visum Aufenthaltserlaubnis Niederlassungserlaubnis Erlaubnis zum Daueraufenthalt-EU Blaue Karte EU. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt geklaerte Identität kein Ausweisungsinteresse. Verlaengerung § 8 AufenthG. Fiktionswirkung § 81 Abs. 4 AufenthG bei rechtzeitiger Antragstellung. |
-| `fachanwalt-migrationsrecht-ausweisung-widerspruch` | Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung. |
-| `fachanwalt-migrationsrecht-bamf-anhoerung-strategie` | Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhörungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhörungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behördenkorrespondenz-Muster Anhörungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst. |
-| `fachanwalt-migrationsrecht-einbuergerung` | Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Aufenthaltstitel im Migrationsrecht: prüft konkret Antrag auf Ert
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-migrationsrecht-aufenthaltstitel-antrag`
 

@@ -1,19 +1,9 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern Substantiierung im Migrationsrecht: prüft konkret Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs, Abschiebungshaft, Abschiebungsverbot § 60 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schriftsatzkern Substantiierung im Migrationsrecht: prüft konkret Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs, Abschiebungshaft, Abschiebungsverbot § 60 Abs."
 ---
 
 # Schriftsatzkern Substantiierung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-abschiebungshaft` | Abschiebungshaft: Fachmodul im Migrationsrecht; prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-abschiebungsverbot-60-5-7` | Abschiebungsverbot § 60 Abs. 5/7: Fachmodul im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-akteneinsicht-migration` | Akteneinsicht Migration: Fachmodul im Migrationsrecht; prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-anerkennung-berufsabschluss` | Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Schriftsatzkern Substantiierung im Migrationsrecht: prüft konkret
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `schriftsatzkern-substantiierung`
 

@@ -1,6 +1,6 @@
 ---
 name: versorgung-ruhegehalt-versorgungsabschlag
-description: "Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versorgung und Ruhegehalt: ruhegehaltfähige Dienstzeit, Versorgungsabschlag, Mindestversorgung, Hinterbliebenenversorgung im Beamtenrecht."
 ---
 
 # Versorgung Ruhegehalt Beamtvg

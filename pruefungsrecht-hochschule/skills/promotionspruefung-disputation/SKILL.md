@@ -1,6 +1,6 @@
 ---
 name: promotionspruefung-disputation
-description: "Prüft Promotionsprüfung, Disputation und Bewertung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Promotionsprüfung, Disputation und Bewertung im Pruefungsrecht Hochschule."
 ---
 
 # Promotionspruefung Disputation

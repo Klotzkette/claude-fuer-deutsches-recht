@@ -1,6 +1,6 @@
 ---
 name: financial-model-runway
-description: "Prüft Burn Rate, Cash, Runway, Milestones, Hiring Plan, Finanzierungsbedarf und Bridge-Logik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Burn Rate, Cash, Runway, Milestones, Hiring Plan, Finanzierungsbedarf und Bridge-Logik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Financial Model, Burn und Runway

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-eines-satellitenbetreibers-nutzlast-frequenz
-description: "Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Insolvenz eines Satellitenbetreibers: Nutzlast, Frequenz, Betrieb

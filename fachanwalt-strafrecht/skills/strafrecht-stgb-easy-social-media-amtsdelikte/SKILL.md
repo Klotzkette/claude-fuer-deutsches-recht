@@ -1,24 +1,9 @@
 ---
 name: strafrecht-stgb-easy-social-media-amtsdelikte
-description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram."
 ---
 
 # Stgb Easy Social Media Amtsdelikte
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie. |
-| `strafrecht-spezial-188-stgb-social-media-beweise` | Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge. |
-| `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt` | Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt für Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausübung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft. |
-| `strafrecht-spezial-amtstraegerbestechung-332-334-stgb` | Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo für Vergabekorruption Amtstraegerbestechung Richterbestechung. |
-| `strafrecht-spezial-arzneimittelstrafrecht-amg-95-96` | Arzneimittelstrafrecht: § 95 sowie § 96 AMG Strafvorschriften, gefaelschte Arzneimittel, Inverkehrbringen ohne Zulassung. Abgrenzung zu BtMG, NpSG. § 95 AMG Doping-Bezug, AntiDopG. Praxis Online-Apotheken und Forensik. |
-| `strafrecht-spezial-aussagedelikte-153-stgb-uneidlich` | Falsche uneidliche Aussage nach Paragraph 153 StGB. Aussagedelikte vor Gericht und parlamentarischen Untersuchungsausschuessen. Zeugenstellung Vereidigung. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 154 StGB Meineid und Paragraph 156 StGB falsche Versicherung an Eides Statt. |
-| `strafrecht-spezial-aussagedelikte-154-stgb-meineid` | Meineid nach Paragraph 154 StGB. Vereidigung als Voraussetzung. Qualifikation der falschen uneidlichen Aussage Paragraph 153 StGB. Eidesformel und Versicherungsformeln. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 153 StGB Paragraph 156 StGB. |
-| `strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit` | Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen für Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung. |
-| `strafrecht-spezial-aussagepsy-identifizierung-wiedererkennen` | Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs. simultane Vorlage, Gegenueberstellung in vivo, Tatzeugenidentifizierung. Methodische Fehlerquellen (cross-race-effect, unconscious transference, weapon focus). Verteidigerwerkzeug gegen Identifizierungsfehler in Strafverfahren. |
-| `strafrecht-spezial-aussagepsy-mimik-emotionsbewertung` | Emotionsbewertung in der Vernehmung und Hauptverhandlung: Gefahren der Mimik-Lese, micro expressions, demeanor evidence. Wissenschaftlicher Forschungsstand zur Luegenerkennung durch Beobachtung. Verteidigerwerkzeug gegen die typische Tatrichter-Formel die Zeugin wirkte aufrichtig. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-188-stgb-easy-verteidigung`
 

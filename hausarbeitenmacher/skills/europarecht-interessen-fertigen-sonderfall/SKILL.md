@@ -1,6 +1,6 @@
 ---
 name: europarecht-interessen-fertigen-sonderfall
-description: "Europarecht: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Europarecht: Mehrparteienkonflikt und Interessenmatrix im Hausarbeitenmacher."
 ---
 
 # Europarecht: Mehrparteienkonflikt und Interessenmatrix

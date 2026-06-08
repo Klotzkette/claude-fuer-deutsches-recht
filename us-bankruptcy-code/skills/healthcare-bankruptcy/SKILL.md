@@ -1,6 +1,6 @@
 ---
 name: healthcare-bankruptcy
-description: "Prueft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues im US Bankruptcy Code."
 ---
 
 # Health Care Business Bankruptcy

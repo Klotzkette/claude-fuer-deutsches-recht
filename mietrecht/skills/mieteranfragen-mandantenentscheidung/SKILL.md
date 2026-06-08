@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-mandantenentscheidung
-description: "Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
 ---
 
 # Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage

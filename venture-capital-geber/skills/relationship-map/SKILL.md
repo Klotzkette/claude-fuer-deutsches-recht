@@ -1,6 +1,6 @@
 ---
 name: relationship-map
-description: "Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts, Kunden, strategische Käufer und Konflikte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts, Kunden, strategische Käufer und Konflikte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Relationship Map

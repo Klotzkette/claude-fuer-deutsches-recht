@@ -1,6 +1,6 @@
 ---
 name: studiengebuehren-internationale
-description: "Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung im Hochschulrecht Länder."
 ---
 
 # Studiengebühren internationale Studierende

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-betrug-stgb-btmg-grundtatbestand
-description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Betrug § 263 StGB Grundtatbestand, BtMG-Grundtatbestand § 29 Abs, BtMG-Qualifikation § 29a BtMG, § 30 BtMG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Betrug § 263 StGB Grundtatbestand, BtMG-Grundtatbestand § 29 Abs, BtMG-Qualifikation § 29a BtMG, § 30 BtMG."
 ---
 
 # Betrug Stgb Btmg Grundtatbestand
@@ -8,21 +8,6 @@ description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Bet
 ## Arbeitsbereich
 
 **Betrug Stgb Btmg Grundtatbestand** ordnet den Fall über die tragenden Prüfungslinien: Betrug § 263 StGB Grundtatbestand, BtMG-Grundtatbestand § 29 Abs, BtMG-Qualifikation § 29a BtMG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-betrug-263-stgb-grundtatbestand` | Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo für Akte und Mandanten plus Pruefraster für Plaedoyer. |
-| `strafrecht-spezial-btmg-29-grundtatbestand` | BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster für Verteidigung und Strafzumessung. |
-| `strafrecht-spezial-btmg-29a-nicht-geringe-menge` | BtMG-Qualifikation § 29a BtMG: nicht geringe Menge. Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. Pruefraster und Verteidigungsstrategie. |
-| `strafrecht-spezial-btmg-30-handeltreiben` | § 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM. Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG. Pruefraster Bande, Waffenbegriff, minder schwerer Fall. |
-| `strafrecht-spezial-btmg-30a-schwerer-bandenhandel` | § 30a BtMG: schwerer Banden- und bewaffneter Handel. Verbrechen mit fuenf Jahren Mindeststrafe. Abs. 1 Bandenhandel mit nicht geringer Menge. Abs. 2 Schusswaffe oder gefaehrliche Werkzeuge. Minder schwerer Fall Abs. 3. |
-| `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge` | § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe. Abgrenzung zu § 46b StGB grosse Kronzeugenregelung. Voraussetzungen, Verhandlungstaktik, Zeugenschutz. |
-| `strafrecht-spezial-btmg-35-therapie-statt-strafe` | § 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie. Voraussetzungen Abhaengigkeit, Reststrafe bis zwei Jahre, Therapiezusage. Verfahren mit Vollstreckungsbehoerde, Therapieabbruch, Strafrest-Aussetzung § 36 BtMG. |
-| `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung` | Eigenbedarfsverteidigung im BtMG/KCanG: § 31a BtMG Absehen von Strafverfolgung, § 153 sowie § 153a StPO, Konsumeinheiten-Argumentation, Abgrenzung zum Handeltreiben. Suchtgutachten und Therapieanbahnung als Verteidigungsbausteine. |
-| `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen` | Praxis-Mengen-Tabelle nicht geringe Menge: Cannabis, Heroin, Kokain, Amphetamin, MDMA, Methamphetamin, LSD. BGH-Faustregeln zur Wirkstoffmenge. Berechnungsformel, Streckmittel, Mischpraeparate. Pruefraster für Verteidiger. |
-| `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie` | Cannabis-Uebergangsregeln 01.04.2024: Altfaelle nach BtMG vor KCanG-Inkrafttreten, Amnestie-Regelung Art. 13 KCanG-Einfuehrungsgesetz, milderes Gesetz § 2 Abs. 3 StGB, Tilgung Bundeszentralregister, Wiederaufnahme. |
 
 ## Arbeitsweg
 
@@ -32,7 +17,7 @@ description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Bet
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
 

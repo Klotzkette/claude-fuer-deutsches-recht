@@ -1,6 +1,6 @@
 ---
 name: bauarbeiten-kabelschaden
-description: "Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schadensersatz, Betriebsunterbrechung und Beweissicherung im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schadensersatz, Betriebsunterbrechung und Beweissicherung im Telekommunikationsrecht."
 ---
 
 # Kabelschaden durch Bauarbeiten

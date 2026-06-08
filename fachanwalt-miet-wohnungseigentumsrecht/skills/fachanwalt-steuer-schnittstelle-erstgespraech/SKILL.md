@@ -1,19 +1,9 @@
 ---
 name: fachanwalt-steuer-schnittstelle-erstgespraech
-description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsrecht: prüft konkret Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht, Miet- und WEG-Streit Mediation. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsrecht: prüft konkret Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht, Miet- und WEG-Streit Mediation."
 ---
 
 # Steuer Schnittstelle Erstgespraech
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-steuer-schnittstelle-vermietung` | Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung. |
-| `fachanwalt-miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Förderung BAFA BEG-EM. |
-| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-steuer-schnittstelle-vermietung`
 

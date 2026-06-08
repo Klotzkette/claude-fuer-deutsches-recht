@@ -1,6 +1,6 @@
 ---
 name: wiederholungspruefung
-description: "Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Wiederholungsprüfung

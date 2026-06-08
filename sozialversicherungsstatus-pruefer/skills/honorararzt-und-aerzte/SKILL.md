@@ -1,6 +1,6 @@
 ---
 name: honorararzt-und-aerzte
-description: "Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation im Sozialversicherungsstatus Pruefer."
 ---
 
 # Honorararzt und Ärzte

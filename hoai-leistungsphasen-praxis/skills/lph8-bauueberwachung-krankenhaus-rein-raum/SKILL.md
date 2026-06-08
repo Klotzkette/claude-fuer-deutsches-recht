@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-krankenhaus-rein-raum
-description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Reinraum-Operationsbereiche — Lueftungsanlagen Reinraumklassen nach DIN 1946-4, Hygieneanforderungen Estriche und Oberflaechen nach TRBA 100 und RKI-Empfehlung, Medienversorgung (Sauerstoff, Druckluft, Vakuum) nach DIN 13260 sowie Strahlenschutz-Bauteile nach StrlSchV. Praxisnahe Koordination mit SAP PM und BIM360 im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Reinraum-Operationsbereiche — Lueftungsanlagen Reinraumklassen nach DIN 1946-4, Hygieneanforderungen Estriche und Oberflaechen nach TRBA 100 und RKI-Empfehlung, Medienversorgung (Sauerstoff, Druckluft, Vakuum) nach DIN 13260 sowie Strahlenschutz-Bauteile nach StrlSchV. Praxisnahe Koordination mit SAP PM und BIM360 im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Krankenhaus Reinraum (LPH 8)

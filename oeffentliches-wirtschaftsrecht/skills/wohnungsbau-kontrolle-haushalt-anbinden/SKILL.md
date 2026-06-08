@@ -1,6 +1,6 @@
 ---
 name: wohnungsbau-kontrolle-haushalt-anbinden
-description: "Wohnungsbau: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wohnungsbau: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Wohnungsbau Kontrolle Sichern

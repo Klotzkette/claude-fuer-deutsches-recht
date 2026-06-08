@@ -1,6 +1,6 @@
 ---
 name: cra-produkt-lager-intralogistikflotte
-description: "Prüft Cyber Resilience Act für Roboter, Steuerungssoftware, Apps, Cloud-Komponenten und Updatekanäle im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cyber Resilience Act für Roboter, Steuerungssoftware, Apps, Cloud-Komponenten und Updatekanäle im Robotik-Recht."
 ---
 
 # CRA für Roboter mit digitalen Elementen

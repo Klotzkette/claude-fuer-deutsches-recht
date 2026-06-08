@@ -1,6 +1,6 @@
 ---
 name: unsachlichkeit-kollegenstreit-rechtsprechungscheck
-description: "Anwälte: unsachlichkeit kollegenstreit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: unsachlichkeit kollegenstreit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: unsachlichkeit kollegenstreit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

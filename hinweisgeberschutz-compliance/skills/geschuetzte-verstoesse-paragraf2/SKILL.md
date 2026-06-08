@@ -1,6 +1,6 @@
 ---
 name: geschuetzte-verstoesse-paragraf2
-description: "Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein im Hinweisgeberschutz Compliance."
 ---
 
 # Geschuetzte Verstoesse Paragraf2

@@ -1,6 +1,6 @@
 ---
 name: storno-gutschrift-korrekturrechnung
-description: "Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Rechnung und Umsatzsteuer: Unterscheidet storno

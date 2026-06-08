@@ -1,19 +1,9 @@
 ---
 name: nebenklage-nebenstrafrecht-opfervertretung
-description: "Nebenklage Nebenstrafrecht Opfervertretung im Strafrecht: prüft konkret Nebenklage, Nebenstrafrecht, Opfervertretung, Revision. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Nebenklage Nebenstrafrecht Opfervertretung im Strafrecht: prüft konkret Nebenklage, Nebenstrafrecht, Opfervertretung, Revision."
 ---
 
 # Nebenklage Nebenstrafrecht Opfervertretung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-nebenklage-compliance-dokumentation-und-akte` | Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-nebenstrafrecht-behoerden-gericht-und-registerweg` | Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-opfervertretung-mehrparteien-konflikt-und-interessen` | Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-revision-zahlen-schwellen-und-berechnung` | Revision: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-stgb-risikoampel-und-gegenargumente` | Stgb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Nebenklage Nebenstrafrecht Opfervertretung im Strafrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-nebenklage-compliance-dokumentation-und-akte`
 
-**Fokus:** Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht.
 
 ### Nebenklage: Compliance-Dokumentation und Aktenvermerk
 
@@ -52,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-nebenstrafrecht-behoerden-gericht-und-registerweg`
 
-**Fokus:** Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt strafrecht.
 
 ### Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg
 
@@ -77,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-opfervertretung-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht.
 
 ### Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
 
@@ -102,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-revision-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Revision: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Revision: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt strafrecht.
 
 ### Revision: Zahlen, Schwellenwerte und Berechnung
 
@@ -127,7 +117,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-stgb-risikoampel-und-gegenargumente`
 
-**Fokus:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt strafrecht.
 
 ### Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
 

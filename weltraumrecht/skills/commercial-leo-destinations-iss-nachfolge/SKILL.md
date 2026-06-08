@@ -1,6 +1,6 @@
 ---
 name: commercial-leo-destinations-iss-nachfolge
-description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster im Weltraumrecht."
 ---
 
 # Commercial LEO Destinations - ISS-Nachfolge

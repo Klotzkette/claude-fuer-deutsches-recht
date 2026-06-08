@@ -1,6 +1,6 @@
 ---
 name: data-digitalregulierung-dora
-description: "Data: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Data: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
 ---
 
 # Data: Dokumentenmatrix, Lückenliste und Nachforderung

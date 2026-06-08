@@ -1,6 +1,6 @@
 ---
 name: uig-umweltinformation-presseantwort-na
-description: "Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Uig Umweltinformation Presseantwort Na

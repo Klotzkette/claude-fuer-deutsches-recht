@@ -1,6 +1,6 @@
 ---
 name: finanzierung-bankfaehigkeit-gemeinde-kirche
-description: "Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen im Erbbaurecht Praxis."
 ---
 
 # Finanzierung des Erbbaurechts

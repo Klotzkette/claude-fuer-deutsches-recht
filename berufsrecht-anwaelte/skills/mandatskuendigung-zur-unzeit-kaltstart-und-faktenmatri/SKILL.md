@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-zur-unzeit-kaltstart-und-faktenmatri
-description: "Anwälte: mandatskuendigung zur unzeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: mandatskuendigung zur unzeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: mandatskuendigung zur unzeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

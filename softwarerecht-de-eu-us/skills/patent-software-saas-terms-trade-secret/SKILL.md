@@ -1,6 +1,6 @@
 ---
 name: patent-software-saas-terms-trade-secret
-description: "Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten im Softwarerecht De Eu Us."
 ---
 
 # US Software Patent §§ 102/103/112

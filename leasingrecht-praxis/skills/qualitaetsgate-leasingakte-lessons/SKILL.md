@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-leasingakte-lessons
-description: "Qualitätsgate Leasingakte: Vollständigkeitsprüfung, Dokumentationsstandards, regulatorische Anforderungen, Aktenführung und interne Kontrolle im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Qualitätsgate Leasingakte: Vollständigkeitsprüfung, Dokumentationsstandards, regulatorische Anforderungen, Aktenführung und interne Kontrolle im Leasingrecht."
 ---
 
 # Qualitätsgate: Leasingakte

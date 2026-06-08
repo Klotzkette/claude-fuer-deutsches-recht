@@ -1,17 +1,9 @@
 ---
 name: bk-mifid-bk-prip-erstgespraech-mandatsannahme
-description: "BK Mifid BK Prip Erstgespraech Mandatsannahme im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Spezialfall MiFID II Geeignetheits- und, Spezialfall PRIIPs-KID fehlerhaft, Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierre. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BK Mifid BK Prip Erstgespraech Mandatsannahme im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Spezialfall MiFID II Geeignetheits- und, Spezialfall PRIIPs-KID fehlerhaft, Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierre."
 ---
 
 # BK Mifid BK Prip Erstgespraech Mandatsannahme
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bk-mifid-suitability-spezial` | Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft, Verlusttragfaehigkeit. Pflichten bei Robo-Advisor, ESG-Praeferenzen seit August 2022. Dokumentation, Reklamation, Aufsichtsanfrage. |
-| `bk-prip-kid-fehlerhaft-spezial` | Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Pruefung Kosten- und Risikoangabe. Pruefraster und Klagestrategie. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "BK Mifid BK Prip Erstgespraech Mandatsannahme im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bk-mifid-suitability-spezial`
 

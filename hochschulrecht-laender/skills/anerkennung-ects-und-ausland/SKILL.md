@@ -1,6 +1,6 @@
 ---
 name: anerkennung-ects-und-ausland
-description: "Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung von Leistungen und ECTS im Hochschulrecht Länder."
 ---
 
 # Anerkennung ECTS Und Ausland

@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-offshore-netzanbindung-fristen-und-besc
-description: "Offshore-Netzanbindung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Netzanbindung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Offshore-Netzanbindung — Fristen- und Bescheidanalyse

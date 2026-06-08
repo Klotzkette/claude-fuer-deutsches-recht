@@ -1,19 +1,9 @@
 ---
 name: abwaegung-material-abwaegungslast-non
-description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buergerliches Recht: prüft konkret Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buergerliches Recht: prüft konkret Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen."
 ---
 
 # Abwaegung Material Abwaegungslast NON
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `abwaegung-material-auswahl` | Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit. |
-| `abwaegungslast-non-liquet` | Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet. |
-| `argumentum-figuren-e-contrario-a-maiore-a-fortiori` | Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Pruefraster mit Begruendungsstaerke. |
-| `auslegung-rechtsfortbildung-grenzprotokoll` | Protokolliert methodisch präzise die Grenze zwischen erlaubter Auslegung und unerlaubter richterlicher Rechtsfortbildung im Zivilrecht. Das Skill hilft, Wortlautgrenzen zu identifizieren, Lückenfeststellungen zu begründen und Rechtsfortbildungsschritte demokratisch zu legitimieren. Es dient als Prüfprotokoll für Anwälte, Richter und Wissenschaftler, die Auslegungsschritte revisionsrechtlich absichern oder angreifen wollen. |
-| `begruendung-anhoerung-und-adressatenfaehigkeit` | Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `abwaegung-material-auswahl`
 

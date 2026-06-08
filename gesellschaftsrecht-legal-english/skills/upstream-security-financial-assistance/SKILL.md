@@ -1,6 +1,6 @@
 ---
 name: upstream-security-financial-assistance
-description: "Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten im Gesellschaftsrecht Legal English."
 ---
 
 # Upstream Security und Financial Assistance

@@ -1,6 +1,6 @@
 ---
 name: hochschullehrbeauftragte
-description: "Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Hochschullehrbeauftragte

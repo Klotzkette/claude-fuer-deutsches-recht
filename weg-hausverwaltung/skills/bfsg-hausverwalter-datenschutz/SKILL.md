@@ -1,17 +1,9 @@
 ---
 name: bfsg-hausverwalter-datenschutz
-description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüft konkret Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüft konkret Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art."
 ---
 
 # BFSG Hausverwalter Datenschutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bfsg-hausverwalter-website-portal-2025` | Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung. |
-| `datenschutz-betroffenenrechte-auskunft-loeschung-weg` | Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22. |
-| `datenschutz-datenpanne-meldung-72h` | Datenschutzverletzungen nach Art. 33/34 DSGVO melden (Stand 06/2026): 72-Stunden-Frist, Risikobewertung, Meldung an Aufsichtsbehoerde, Betroffenenbenachrichtigung. Typische Pannen in der Hausverwaltung mit Sofortmassnahmen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bfsg-hausverwalter-website-portal-2025`
 

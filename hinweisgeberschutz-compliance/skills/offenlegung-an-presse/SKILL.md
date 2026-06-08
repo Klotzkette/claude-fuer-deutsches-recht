@@ -1,6 +1,6 @@
 ---
 name: offenlegung-an-presse
-description: "Prüft Offenlegung an Öffentlichkeit oder Presse im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Offenlegung an Öffentlichkeit oder Presse im Hinweisgeberschutz Compliance."
 ---
 
 # Offenlegung An Presse

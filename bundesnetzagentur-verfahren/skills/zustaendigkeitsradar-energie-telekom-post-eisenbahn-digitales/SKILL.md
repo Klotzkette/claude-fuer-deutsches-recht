@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales im BNetzA-Verfahren."
 ---
 
 # Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales

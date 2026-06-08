@@ -1,6 +1,6 @@
 ---
 name: uebersetzungsrechte-auslandslizenz-und-co-edition
-description: "Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-007 · Übersetzungsrechte, Auslandslizenz und Co-Edition

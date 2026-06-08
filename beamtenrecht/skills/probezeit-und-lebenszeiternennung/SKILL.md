@@ -1,6 +1,6 @@
 ---
 name: probezeit-und-lebenszeiternennung
-description: "Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe im Beamtenrecht."
 ---
 
 # Probezeit Und Lebenszeiternennung

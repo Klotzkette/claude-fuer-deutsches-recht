@@ -1,19 +1,9 @@
 ---
 name: steuerliche-folgen-unterhalt-selbstaendige
-description: "Steuerliche Folgen Unterhalt Selbstaendige im Plugin Fachanwalt Familienrecht: prüft konkret Steuerliche Folgen externe Teilung, Unterhalt bei Selbstständigen, Abänderung Versorgungsausgleich § 51 VersAusglG, Ärztliche Versorgungswerke berufsständische Versorgung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Steuerliche Folgen Unterhalt Selbstaendige im Plugin Fachanwalt Familienrecht: prüft konkret Steuerliche Folgen externe Teilung, Unterhalt bei Selbstständigen, Abänderung Versorgungsausgleich § 51 VersAusglG, Ärztliche Versorgungswerke berufsständische Versorgung."
 ---
 
 # Steuerliche Folgen Unterhalt Selbstaendige
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `steuerliche-folgen-externe-teilung` | Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `unterhalt-selbstaendige-einkommensaufklaerung` | Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.; Normanker: BGB §§ 1361 und 1570 ff., 1601 ff.; FamFG Auskunft; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `abaenderung-versorgungsausgleich-51-versausglg` | Abänderung Versorgungsausgleich § 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `aerztliche-versorgungswerke-berufsstaendische-versorgung` | Ärztliche Versorgungswerke berufsständische Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `anpassung-wegen-invaliditaet-oder-besonderer-haerte` | Anpassung wegen Invalidität oder besonderer Härte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Steuerliche Folgen Unterhalt Selbstaendige im Plugin Fachanwalt Fa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `steuerliche-folgen-externe-teilung`
 

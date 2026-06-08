@@ -1,6 +1,6 @@
 ---
 name: termination-exit-migration
-description: "Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Termination-Lizenz und Vendor Lock-in-Vermeidung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Kündigung, Datenexport, Transition Assistance, Post-Termination-Lizenz und Vendor Lock-in-Vermeidung im Softwarerecht De Eu Us."
 ---
 
 # Termination Exit Migration

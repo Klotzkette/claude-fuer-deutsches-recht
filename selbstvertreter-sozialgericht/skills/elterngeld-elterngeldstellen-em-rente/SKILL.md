@@ -1,19 +1,9 @@
 ---
 name: elterngeld-elterngeldstellen-em-rente
-description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozialgericht: prüft konkret Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024, Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozialgericht: prüft konkret Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024, Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X."
 ---
 
 # Elterngeld Elterngeldstellen EM Rente
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `elterngeld-elterngeldstellen-beeg` | Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Pruefraster. |
-| `em-rente-medizinische-feststellung` | Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster. |
-| `entschaedigung-sgb-xiv-opferleistungen` | Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene. |
-| `erstattung-zu-unrecht-50-sgb-x` | Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine. |
-| `erwerbsminderungs-rente-streit-sgb-vi` | EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `elterngeld-elterngeldstellen-beeg`
 

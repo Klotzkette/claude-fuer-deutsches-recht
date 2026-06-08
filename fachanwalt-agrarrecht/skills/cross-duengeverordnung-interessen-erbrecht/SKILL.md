@@ -1,17 +1,9 @@
 ---
 name: cross-duengeverordnung-interessen-erbrecht
-description: "Cross Duengeverordnung Interessen Erbrecht im Agrarrecht: prüft konkret Cross, Duengeverordnung, Erbrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Cross Duengeverordnung Interessen Erbrecht im Agrarrecht: prüft konkret Cross, Duengeverordnung, Erbrecht."
 ---
 
 # Cross Duengeverordnung Interessen Erbrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-cross-zahlen-schwellen-und-berechnung` | Cross: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-duengeverordnung-mehrparteien-konflikt-und-interessen` | Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-erbrecht-beweislast-und-darlegungslast` | Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-cross-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Cross: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Cross: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt agrarrecht.
 
 ### Cross: Zahlen, Schwellenwerte und Berechnung
 
@@ -67,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-duengeverordnung-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht.
 
 ### Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
 
@@ -92,7 +84,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-erbrecht-beweislast-und-darlegungslast`
 
-**Fokus:** Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht.
 
 ### Erbrecht: Beweislast, Darlegungslast und Substantiierung
 

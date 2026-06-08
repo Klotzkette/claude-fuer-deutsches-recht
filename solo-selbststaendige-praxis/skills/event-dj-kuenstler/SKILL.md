@@ -1,6 +1,6 @@
 ---
 name: event-dj-kuenstler
-description: "Solo-Selbstständige: prüft GEMA, KSK, Ausfallhonorar, Technik und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft GEMA, KSK, Ausfallhonorar, Technik und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Branchenfälle: Prüft gema

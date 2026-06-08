@@ -1,6 +1,6 @@
 ---
 name: bess-rechtsmittel-und-nachbarabwehr
-description: "Prüft Widerspruch/Klage, Nachbarrechte, Sofortvollzug, Baustopp, Umweltverbandsklage und Verteidigung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Widerspruch/Klage, Nachbarrechte, Sofortvollzug, Baustopp, Umweltverbandsklage und Verteidigung im Energierecht."
 ---
 
 # Rechtsmittel, Nachbarabwehr und Eilrechtsschutz

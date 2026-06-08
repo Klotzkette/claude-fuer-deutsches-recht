@@ -1,6 +1,6 @@
 ---
 name: kataster-liegenschaftskarte-abgleich
-description: "Prüft Flurstücksidentität, Vermessung, Teilung, Vereinigung, Fortführung und Vollzugshindernisse im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Flurstücksidentität, Vermessung, Teilung, Vereinigung, Fortführung und Vollzugshindernisse im Grundbuchamt Praxis."
 ---
 
 # Katasterabgleich

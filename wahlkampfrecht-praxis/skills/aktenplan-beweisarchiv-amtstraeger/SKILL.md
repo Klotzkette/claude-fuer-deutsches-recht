@@ -1,6 +1,6 @@
 ---
 name: aktenplan-beweisarchiv-amtstraeger
-description: "Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt im Wahlkampfrecht."
 ---
 
 # Aktenplan Und Beweisarchiv

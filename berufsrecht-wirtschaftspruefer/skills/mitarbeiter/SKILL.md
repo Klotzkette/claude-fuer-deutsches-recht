@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter
-description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Mitarbeiter im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Mitarbeiter im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Mitarbeiter

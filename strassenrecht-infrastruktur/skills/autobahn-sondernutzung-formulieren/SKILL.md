@@ -1,6 +1,6 @@
 ---
 name: autobahn-sondernutzung-formulieren
-description: "Autobahn: Sondernutzung formulieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Autobahn: Sondernutzung formulieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Autobahn Sondernutzung Formulieren

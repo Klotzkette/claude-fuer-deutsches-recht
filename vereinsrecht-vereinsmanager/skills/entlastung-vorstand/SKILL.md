@@ -1,6 +1,6 @@
 ---
 name: entlastung-vorstand
-description: "Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung im Vereinsrecht Vereinsmanager."
 ---
 
 # Entlastung Vorstand

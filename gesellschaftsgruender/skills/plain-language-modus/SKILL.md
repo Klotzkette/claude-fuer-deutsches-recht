@@ -1,6 +1,6 @@
 ---
 name: plain-language-modus
-description: "Übersetzt Gründungsrecht in einfache Sprache, ohne rechtliche Präzision zu verlieren im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt Gründungsrecht in einfache Sprache, ohne rechtliche Präzision zu verlieren im Gesellschaftsgruender."
 ---
 
 # Einfache Sprache Modus

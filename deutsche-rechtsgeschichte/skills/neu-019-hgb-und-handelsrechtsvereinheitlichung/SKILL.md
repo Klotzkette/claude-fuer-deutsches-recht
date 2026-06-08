@@ -1,6 +1,6 @@
 ---
 name: neu-019-hgb-und-handelsrechtsvereinheitlichung
-description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 019 Hgb Und Handelsrechtsvereinheitlichung

@@ -1,6 +1,6 @@
 ---
 name: normgeber-verhandlung-vergleich-und-eskalation
-description: "Normgeber: Verhandlung, Vergleich und Eskalation im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Normgeber: Verhandlung, Vergleich und Eskalation im Plugin legistik werkstatt im Legistik."
 ---
 
 # Normgeber: Verhandlung, Vergleich und Eskalation

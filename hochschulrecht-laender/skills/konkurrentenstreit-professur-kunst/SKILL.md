@@ -1,6 +1,6 @@
 ---
 name: konkurrentenstreit-professur-kunst
-description: "Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Konkurrentenstreit im Hochschulbereich im Hochschulrecht Länder."
 ---
 
 # Konkurrentenstreit Professur

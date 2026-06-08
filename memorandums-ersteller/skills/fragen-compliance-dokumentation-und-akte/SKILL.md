@@ -1,6 +1,6 @@
 ---
 name: fragen-compliance-dokumentation-und-akte
-description: "Fragen: Compliance-Dokumentation und Aktenvermerk im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fragen: Compliance-Dokumentation und Aktenvermerk im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Fragen: Compliance-Dokumentation und Aktenvermerk

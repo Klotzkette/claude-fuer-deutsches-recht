@@ -1,6 +1,6 @@
 ---
 name: quellen-rspr-fristen
-description: "Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Quellen- und Rechtsprechungscheck

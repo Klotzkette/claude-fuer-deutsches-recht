@@ -1,6 +1,6 @@
 ---
 name: nda-konflikt
-description: "Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz im Hinweisgeberschutz Compliance."
 ---
 
 # NDA Konflikt

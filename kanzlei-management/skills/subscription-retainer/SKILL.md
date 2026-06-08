@@ -1,6 +1,6 @@
 ---
 name: subscription-retainer
-description: "Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Subscription und Retainer

@@ -1,6 +1,6 @@
 ---
 name: weg-anfechtung-start-eigentuemer-intake
-description: "WEG Anfechtung Start Eigentuemer Intake im Miet- und Wohnungseigentumsrecht: prüft konkret WEG-Anfechtung-Start, WEG-Eigentümer-Intake, WEG-Protokoll nachbereiten, Eigentümerversammlung vorbereiten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "WEG Anfechtung Start Eigentuemer Intake im Miet- und Wohnungseigentumsrecht: prüft konkret WEG-Anfechtung-Start, WEG-Eigentümer-Intake, WEG-Protokoll nachbereiten, Eigentümerversammlung vorbereiten."
 ---
 
 # WEG Anfechtung Start Eigentuemer Intake
@@ -19,16 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-weg-anfechtung-start` | WEG-Anfechtung-Start: Prüfungslinie für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-eigentuemer-intake` | WEG-Eigentümer-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-protokoll-nachbereiten` | WEG-Protokoll nachbereiten: Prüfungslinie für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-versammlung-vorbereiten` | Eigentümerversammlung vorbereiten: Prüfungslinie für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-whatsapp-email-beweis` | WhatsApp-/E-Mail-Beweis: Prüfungslinie für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-weg-anfechtung-start`
 

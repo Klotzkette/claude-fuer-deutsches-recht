@@ -1,6 +1,6 @@
 ---
 name: umgehung-berufsgericht
-description: "Anwälte: umgehung des gegenanwalts - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: umgehung des gegenanwalts - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: umgehung des gegenanwalts - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

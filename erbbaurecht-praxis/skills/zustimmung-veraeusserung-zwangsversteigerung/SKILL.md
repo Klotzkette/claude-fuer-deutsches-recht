@@ -1,6 +1,6 @@
 ---
 name: zustimmung-veraeusserung-zwangsversteigerung
-description: "Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit im Erbbaurecht Praxis."
 ---
 
 # Zustimmung zur Veräußerung/Belastung

@@ -1,6 +1,6 @@
 ---
 name: cashburn
-description: "Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen im Gesellschaftsgruender."
 ---
 
 # Cash Burn und Insolvenzfrühwarnung

@@ -1,6 +1,6 @@
 ---
 name: neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung
-description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 018 Bgb Inkrafttreten Und Partikularrechtsabloesung

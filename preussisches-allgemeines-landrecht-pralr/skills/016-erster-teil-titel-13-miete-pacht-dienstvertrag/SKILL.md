@@ -1,6 +1,6 @@
 ---
 name: 016-erster-teil-titel-13-miete-pacht-dienstvertrag
-description: "PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag

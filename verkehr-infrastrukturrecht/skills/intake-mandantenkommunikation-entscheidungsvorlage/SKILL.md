@@ -1,6 +1,6 @@
 ---
 name: intake-mandantenkommunikation-entscheidungsvorlage
-description: "Intake: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Intake: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
 ---
 
 # Intake: Mandantenkommunikation und Entscheidungsvorlage

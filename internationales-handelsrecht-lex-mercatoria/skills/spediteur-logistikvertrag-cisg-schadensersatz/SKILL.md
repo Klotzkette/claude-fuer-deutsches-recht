@@ -1,6 +1,6 @@
 ---
 name: spediteur-logistikvertrag-cisg-schadensersatz
-description: "Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Spediteur- und Logistikvertrag

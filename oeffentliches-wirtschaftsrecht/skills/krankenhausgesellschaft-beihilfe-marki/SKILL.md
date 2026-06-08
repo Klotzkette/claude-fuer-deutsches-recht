@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-beihilfe-marki
-description: "Krankenhausgesellschaft: Beihilfe markieren im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankenhausgesellschaft: Beihilfe markieren im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Krankenhausgesellschaft Beihilfe Marki

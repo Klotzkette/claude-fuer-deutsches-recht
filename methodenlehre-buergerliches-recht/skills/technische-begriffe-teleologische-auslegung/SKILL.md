@@ -1,19 +1,9 @@
 ---
 name: technische-begriffe-teleologische-auslegung
-description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg, Topik und Jurisprudenz 195. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg, Topik und Jurisprudenz 195."
 ---
 
 # Technische Begriffe Teleologische Auslegung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `technische-begriffe-neutralitaetscheck` | Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache. |
-| `teleologische-auslegung` | Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung. |
-| `topik-viehweg-vs-systemdenken` | Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen für den Anwaltsschriftsatz. |
-| `ueberpositives-recht-als-leerformel-check` | Dieses Skill prüft den argumentativen Einsatz von überpositivem Recht, Naturrecht und ungeschriebenen Verfassungsprinzipien auf ihre methodische Substanz und warnt vor deren Verwendung als inhaltsleere Leerformel. Es zeigt, wann Argumente aus überpositivem Recht methodisch zulässig sind, wann sie als Leerformeln ohne normative Substanz aufgedeckt werden müssen und wie man in der Praxis zwischen legitimer überpositiver Argumentation und Gerechtigkeitsrhetorik unterscheidet. Das Skill stärkt methodische Redlichkeit bei Fundamentalargumenten. |
-| `verfassungs-und-unionsrechtskonforme-auslegung` | Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen Auslegung (Wortlaut, contra legem). Konkrete Anwendung im BGB (§§ 138 242 305 ff. 312 ff. 651a ff.). Praezises Pruefraster. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `technische-begriffe-neutralitaetscheck`
 

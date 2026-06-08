@@ -1,6 +1,6 @@
 ---
 name: system-beweislast-und-darlegungslast
-description: "System: Beweislast, Darlegungslast und Substantiierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "System: Beweislast, Darlegungslast und Substantiierung im Energierecht."
 ---
 
 # System: Beweislast, Darlegungslast und Substantiierung

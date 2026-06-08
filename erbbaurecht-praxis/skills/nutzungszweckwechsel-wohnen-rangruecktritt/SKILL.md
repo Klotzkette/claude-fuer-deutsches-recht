@@ -1,6 +1,6 @@
 ---
 name: nutzungszweckwechsel-wohnen-rangruecktritt
-description: "Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel im Erbbaurecht Praxis."
 ---
 
 # Nutzungszweckwechsel Wohnen/Gewerbe/Sozialimmobilie

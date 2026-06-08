@@ -1,15 +1,9 @@
 ---
 name: zivilrecht-anspruchsgrundlagen
-description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausarbeitenmacher."
 ---
 
 # Zivilrecht Anspruchsgrundlagen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Prüfraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchsprüfungs-Schema Begründung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und öffentliches-recht-statthaft (Verwaltungsrecht). |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausar
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zivilrecht-anspruchsgrundlagen-pruefung`
 

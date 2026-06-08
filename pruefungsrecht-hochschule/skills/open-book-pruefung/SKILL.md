@@ -1,6 +1,6 @@
 ---
 name: open-book-pruefung
-description: "Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Pruefungsrecht Hochschule."
 ---
 
 # Open-Book-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: pass-email-und-feedback
-description: "Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Absage und Feedback

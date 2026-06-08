@@ -1,17 +1,9 @@
 ---
 name: agrar-wolfsschaden-cross-glozez-foerderung
-description: "Agrar Wolfsschaden Cross Glozez Förderung im Agrarrecht: prüft konkret Spezialfall Wolfsschaden und Entschaedigung, Cross-Compliance und GLOEZ-Praxis, GAP-Strategieplan Deutschland und EU-Förderung einfuehrend. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Agrar Wolfsschaden Cross Glozez Förderung im Agrarrecht: prüft konkret Spezialfall Wolfsschaden und Entschaedigung, Cross-Compliance und GLOEZ-Praxis, GAP-Strategieplan Deutschland und EU-Förderung einfuehrend."
 ---
 
 # Agrar Wolfsschaden Cross Glozez Förderung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `agrar-wolfsschaden-spezial` | Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Förderung, Antrag bei Bewilligungsstelle, Klage bei Versagung. Mustertexte und aktuelle Rechtsprechung VG. |
-| `agrar-cross-compliance-glozez-praxis` | Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kuerzung Direktzahlungen, Widerspruch und Klage gegen Kuerzungsbescheid. Mustertexte und Pruefraster für Landwirt. |
-| `agrar-foerderung-gap-strategieplan` | GAP-Strategieplan Deutschland und EU-Förderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg ueber Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Pruefraster und Mustertexte. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Agrar Wolfsschaden Cross Glozez Förderung im Agrarrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `agrar-wolfsschaden-spezial`
 

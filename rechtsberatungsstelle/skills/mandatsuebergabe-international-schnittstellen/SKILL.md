@@ -1,6 +1,6 @@
 ---
 name: mandatsuebergabe-international-schnittstellen
-description: "Mandatsuebergabe: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatsuebergabe: Internationaler Bezug und Schnittstellen im Rechtsberatungsstelle."
 ---
 
 # Mandatsuebergabe: Internationaler Bezug und Schnittstellen

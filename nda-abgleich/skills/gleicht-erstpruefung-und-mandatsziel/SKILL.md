@@ -1,6 +1,6 @@
 ---
 name: gleicht-erstpruefung-und-mandatsziel
-description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel

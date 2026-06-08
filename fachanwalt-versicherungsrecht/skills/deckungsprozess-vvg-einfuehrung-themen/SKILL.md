@@ -1,17 +1,9 @@
 ---
 name: deckungsprozess-vvg-einfuehrung-themen
-description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt Versicherungsrecht: prüft konkret Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-, Warenkredit- und Restschuldversicherung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt Versicherungsrecht: prüft konkret Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-, Warenkredit- und Restschuldversicherung."
 ---
 
 # Versr Deckungsprozess VVG Einfuehrung Themen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `versr-deckungsprozess-215-vvg-beweislast` | Deckungsklage: Gerichtsstand § 215 VVG, Klageart, Beweislast, Sachverständige, Streitwert und Vergleichsfenster. |
-| `versr-einfuehrung-themen` | Versicherungsrecht einfuehrend: Lebens-, Berufsunfaehigkeits-, Unfall-, Krankenversicherung, KFZ-Haftpflicht, Wohngebaeude, Hausrat, Rechtsschutz, gewerbliche Sparten. Entscheidungstabelle und Verweis auf Detail-Skills. |
-| `versr-kreditausfall-restschuldversicherung` | Kreditausfall-, Warenkredit- und Restschuldversicherung: Limit, Ausfall, Obliegenheiten, Verbraucherdarlehen, Kopplung und Widerruf. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `versr-deckungsprozess-215-vvg-beweislast`
 

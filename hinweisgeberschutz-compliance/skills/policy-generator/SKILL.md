@@ -1,6 +1,6 @@
 ---
 name: policy-generator
-description: "Erzeugt Hinweisgeber-Policy für Unternehmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt Hinweisgeber-Policy für Unternehmen im Hinweisgeberschutz Compliance."
 ---
 
 # Policy Generator

@@ -1,6 +1,6 @@
 ---
 name: punkte-noten-umrechnung
-description: "Prüft Punkte, Noten, Rundung und ECTS-Umrechnung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Punkte, Noten, Rundung und ECTS-Umrechnung im Pruefungsrecht Hochschule."
 ---
 
 # Punkte Noten Umrechnung

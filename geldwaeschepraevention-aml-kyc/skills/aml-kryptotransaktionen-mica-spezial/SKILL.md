@@ -1,6 +1,6 @@
 ---
 name: aml-kryptotransaktionen-mica-spezial
-description: "Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizierung Kryptowallets, Reisedatenuebermittlung, schwellenfreie Pflichten. Pruefraster für CASP im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizierung Kryptowallets, Reisedatenuebermittlung, schwellenfreie Pflichten. Pruefraster für CASP im Geldwaeschepraevention Aml Kyc."
 ---
 
 # AML: Krypto Travel Rule

@@ -1,19 +1,9 @@
 ---
 name: tdddg-avv-eu-loeschung
-description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener, Standardvertragsklauseln. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener, Standardvertragsklauseln."
 ---
 
 # Tdddg AVV EU Loeschung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-tdddg-fristen-form-und-zuständigkeit` | Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `avv-eu-kommission-musterklauseln-2021-915` | EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln sind nicht zu verwechseln mit den Drittlands-SCC nach Beschluss (EU) 2021/914. Anwendungsbereich Aufbau und Verwendung als Mustervertragsanlage. Output: Strukturierter Klauselsatz für den internen EU-Raum. |
-| `avv-loeschung-rueckgabe-nach-vertragsende` | Pflicht zur Loeschung oder Rueckgabe personenbezogener Daten nach Ende des Auftragsverarbeitungsvertrags gemaess Art. 28 Abs. 3 lit. g DSGVO. Wahlrecht des Verantwortlichen Format und Nachweis Aufbewahrungsausnahmen sowie Backup- und Logfile-Behandlung. Output: Loeschkonzept-Klausel und Loeschprotokoll-Muster. |
-| `spezial-standardvertragsklauseln-mehrparteienkonflikt` | Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `standardvertragsklauseln-scc-paket` | Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-tdddg-fristen-form-und-zuständigkeit`
 
-**Fokus:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht.
 
 ### Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -221,7 +211,7 @@ Klausel zu Loeschung und Rueckgabe:
 
 ## 4. `spezial-standardvertragsklauseln-mehrparteienkonflikt`
 
-**Fokus:** Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix im Plugin datenschutzrecht.
 
 ### Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
 

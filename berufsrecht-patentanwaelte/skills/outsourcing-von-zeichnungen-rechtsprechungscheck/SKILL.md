@@ -1,6 +1,6 @@
 ---
 name: outsourcing-von-zeichnungen-rechtsprechungscheck
-description: "Patentanwälte: outsourcing von zeichnungen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: outsourcing von zeichnungen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: outsourcing von zeichnungen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

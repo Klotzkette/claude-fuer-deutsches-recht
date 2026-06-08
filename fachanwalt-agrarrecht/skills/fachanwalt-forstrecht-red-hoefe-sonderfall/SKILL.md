@@ -1,17 +1,9 @@
 ---
 name: fachanwalt-forstrecht-red-hoefe-sonderfall
-description: "Forstrecht RED Hoefe Sonderfall im Agrarrecht: prüft konkret Fachanwalt, Forstrecht, Hoefe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Forstrecht RED Hoefe Sonderfall im Agrarrecht: prüft konkret Fachanwalt, Forstrecht, Hoefe."
 ---
 
 # Forstrecht RED Hoefe Sonderfall
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-forstrecht-red-team-und-qualitaetskontrolle` | Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-hoefe-sonderfall-und-edge-case` | Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -67,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-forstrecht-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht.
 
 ### Forstrecht: Red-Team und Qualitätskontrolle
 
@@ -92,7 +84,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-hoefe-sonderfall-und-edge-case`
 
-**Fokus:** Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht.
 
 ### Hoefe: Sonderfall und Edge-Case-Prüfung
 

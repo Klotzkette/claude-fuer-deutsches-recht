@@ -1,6 +1,6 @@
 ---
 name: unterlassungserklaerung-influencer
-description: "Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß im Influencer-Recht."
 ---
 
 # Influencer-Recht: Unterlassungserklärung prüfen

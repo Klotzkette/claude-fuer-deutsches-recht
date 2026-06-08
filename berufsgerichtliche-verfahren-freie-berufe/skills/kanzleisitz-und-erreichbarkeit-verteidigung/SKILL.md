@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-erreichbarkeit-verteidigung
-description: "Kanzleisitz und Erreichbarkeit (Verteidigungs- und Kammerantwort): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzleisitz und Erreichbarkeit (Verteidigungs- und Kammerantwort): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Kanzleisitz und Erreichbarkeit: Verteidigungs- und Kammerantwort

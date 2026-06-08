@@ -1,6 +1,6 @@
 ---
 name: ausgruendung-transferstelle-bafoeg
-description: "Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen im Hochschulrecht Länder."
 ---
 
 # Ausgründung und Transferstelle

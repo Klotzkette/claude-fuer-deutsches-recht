@@ -1,18 +1,9 @@
 ---
 name: krankenhausreform-leistungsgruppen-laborwert
-description: "Krankenhausreform Leistungsgruppen Laborwert im Medizinrecht: prüft konkret Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate, Medical Tourism Liability. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Krankenhausreform Leistungsgruppen Laborwert im Medizinrecht: prüft konkret Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate, Medical Tourism Liability."
 ---
 
 # Krankenhausreform Leistungsgruppen Laborwert
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `krankenhausreform-leistungsgruppen` | Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `laborwert-alarmpflicht` | Laborwert Alarmpflicht: moderner Medizinrechts-Skill für Kritischer Laborwert, Befundübermittlung, Praxisurlaub, Portalnachricht und verpasste Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `mandat-triage-medizinrecht` | Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen. |
-| `medical-tourism-liability` | Medical Tourism Liability: moderner Medizinrechts-Skill für Ästhetik-/Zahn-/Fertilitätsbehandlung im Ausland, Vermittler, Nachbehandlung und Gerichtsstand. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Krankenhausreform Leistungsgruppen Laborwert im Medizinrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `krankenhausreform-leistungsgruppen`
 

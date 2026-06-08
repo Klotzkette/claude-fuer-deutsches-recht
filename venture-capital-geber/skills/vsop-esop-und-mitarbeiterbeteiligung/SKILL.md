@@ -1,6 +1,6 @@
 ---
 name: vsop-esop-und-mitarbeiterbeteiligung
-description: "Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Risiken, Leaver und Pool-Größe im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft virtuelle Beteiligung, echte Anteile, steuerliche Timing-Risiken, Leaver und Pool-Größe im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # VSOP/ESOP und Mitarbeiterbeteiligung

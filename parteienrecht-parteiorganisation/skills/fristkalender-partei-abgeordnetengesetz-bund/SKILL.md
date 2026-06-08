@@ -1,6 +1,6 @@
 ---
 name: fristkalender-partei-abgeordnetengesetz-bund
-description: "Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen im Parteienrecht."
 ---
 
 # Fristkalender Partei

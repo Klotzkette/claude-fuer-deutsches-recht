@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-bautagebuch-erp-import
-description: "Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS im Hoai Leistungsphasen Praxis."
 ---
 
 # Bautagebuch und ERP-Import in der Bauueberwachung LPH 8

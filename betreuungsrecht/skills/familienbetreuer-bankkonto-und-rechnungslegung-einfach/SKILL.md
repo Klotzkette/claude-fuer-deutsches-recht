@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-bankkonto-und-rechnungslegung-einfach
-description: "Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer im Betreuungsrecht."
 ---
 
 # Familienbetreuer: Bankkonto und einfache Rechnungslegung

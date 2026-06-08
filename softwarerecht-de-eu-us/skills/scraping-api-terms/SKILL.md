@@ -1,6 +1,6 @@
 ---
 name: scraping-api-terms
-description: "Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Scraping, Crawling, API-Nutzung, Robots, Vertragsbedingungen, Datenbankrecht, Computer Misuse und Fair Use im Softwarerecht De Eu Us."
 ---
 
 # Scraping und API Terms

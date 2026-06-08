@@ -1,6 +1,6 @@
 ---
 name: rechnungseinzug
-description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Anwälte; prüft Rechnungseinzug im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Anwälte; prüft Rechnungseinzug im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Rechnungseinzug

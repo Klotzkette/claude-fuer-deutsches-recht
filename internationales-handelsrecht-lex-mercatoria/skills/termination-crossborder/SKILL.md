@@ -1,6 +1,6 @@
 ---
 name: termination-crossborder
-description: "Internationales Handelsrecht: Vertragsbeendigung im grenzüberschreitenden Handel. CISG Art. 26 / 49 / 64 Aufhebungserklärung, PICC Art. 7.3.1-7.3.6 Kündigungsrecht, Rückabwicklung und cross-border Durchsetzung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertragsbeendigung im grenzüberschreitenden Handel. CISG Art. 26 / 49 / 64 Aufhebungserklärung, PICC Art. 7.3.1-7.3.6 Kündigungsrecht, Rückabwicklung und cross-border Durchsetzung im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Vertragsbeendigung International

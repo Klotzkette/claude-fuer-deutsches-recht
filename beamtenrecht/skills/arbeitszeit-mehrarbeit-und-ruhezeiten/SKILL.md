@@ -1,6 +1,6 @@
 ---
 name: arbeitszeit-mehrarbeit-und-ruhezeiten
-description: "Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich im Beamtenrecht."
 ---
 
 # Arbeitszeit Mehrarbeit Und Ruhezeiten

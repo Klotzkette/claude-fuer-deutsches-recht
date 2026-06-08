@@ -1,6 +1,6 @@
 ---
 name: post-closing-umwandlungssteuerrecht
-description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranmeldungen, Vertragsanpassungen, Konzernanpassungen, Organschaft-Prüfung. Output PMI-Checkliste, Zeitplan, Aktionsprotokoll, § 613a-Informationsschreiben. Abgrenzung: Closing selbst siehe signing-closing-conditions; Umwandlung siehe umwandlungsrecht im Corporate Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranmeldungen, Vertragsanpassungen, Konzernanpassungen, Organschaft-Prüfung. Output PMI-Checkliste, Zeitplan, Aktionsprotokoll, § 613a-Informationsschreiben. Abgrenzung: Closing selbst siehe signing-closing-conditions; Umwandlung siehe umwandlungsrecht im Corporate Kanzlei."
 ---
 
 # Post-Closing-Integration (PMI)

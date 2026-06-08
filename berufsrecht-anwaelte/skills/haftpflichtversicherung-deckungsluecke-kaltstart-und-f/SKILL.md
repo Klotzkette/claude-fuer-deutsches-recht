@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-deckungsluecke-kaltstart-und-f
-description: "Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: haftpflichtversicherung deckungsluecke - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 # festlandchina-wirtschaftsverkehr
 
-**101 Skills** · Stand `v251.0.0`
+**101 Skills** · Stand `v252.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/festlandchina-wirtschaftsverkehr/README.md)

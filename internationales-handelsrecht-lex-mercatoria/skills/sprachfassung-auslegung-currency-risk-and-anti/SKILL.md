@@ -1,6 +1,6 @@
 ---
 name: sprachfassung-auslegung-currency-risk-and-anti
-description: "Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Mehrsprachige Verträge und Auslegung

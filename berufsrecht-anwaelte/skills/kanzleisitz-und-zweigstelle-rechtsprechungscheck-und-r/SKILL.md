@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zweigstelle-rechtsprechungscheck-und-r
-description: "Anwälte: kanzleisitz und zweigstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: kanzleisitz und zweigstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: kanzleisitz und zweigstelle - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

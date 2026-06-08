@@ -1,6 +1,6 @@
 ---
 name: sonderversammlung-minderheit
-description: "Prüft Minderheitenverlangen, Einberufung durch Mitglieder, Tagesordnung und gerichtliche Hilfe im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Minderheitenverlangen, Einberufung durch Mitglieder, Tagesordnung und gerichtliche Hilfe im Vereinsrecht Vereinsmanager."
 ---
 
 # Sonderversammlung Minderheit

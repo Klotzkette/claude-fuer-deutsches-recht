@@ -1,6 +1,6 @@
 ---
 name: kanzleinachfolge-und-aktenarchiv-organisationspflicht
-description: "Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

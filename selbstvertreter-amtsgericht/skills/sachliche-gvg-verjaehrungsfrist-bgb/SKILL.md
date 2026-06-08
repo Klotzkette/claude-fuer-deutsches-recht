@@ -1,17 +1,9 @@
 ---
 name: sachliche-gvg-verjaehrungsfrist-bgb
-description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsgericht: prüft konkret Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsgericht: prüft konkret Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO."
 ---
 
 # Sachliche GVG Verjährungsfrist BGB
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `sachliche-zuständigkeit-amtsgericht-23-gvg` | Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert. |
-| `verjaehrungsfrist-pruefen-195-bgb` | Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen. |
-| `wiedereinsetzung-frist-233-zpo` | Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall Post-Stoerung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsger
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `sachliche-zuständigkeit-amtsgericht-23-gvg`
 

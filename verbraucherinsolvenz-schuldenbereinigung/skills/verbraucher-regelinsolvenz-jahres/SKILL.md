@@ -1,17 +1,9 @@
 ---
 name: verbraucher-regelinsolvenz-jahres
-description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz, Verbraucherinsolvenz, Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305."
 ---
 
 # Verbraucher Regelinsolvenz Jahres
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verbraucher-oder-regelinsolvenz` | Abgrenzung Verbraucherinsolvenz oder Regelinsolvenz: ehemalige Selbstständige, überschaubare Vermögensverhältnisse, Arbeitnehmerforderungen und Geschäftsführer-Vergangenheit.; Normanker: InsO § 304; § 15a InsO als Altlast; Forderungsstruktur; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `verbraucherinsolvenz-3-jahres-restschuldbefreiung` | Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster. |
-| `verbraucherinsolvenz-aussergerichtl-schuldenbereinigung` | Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Verbraucher Regelinsolvenz Jahres im Plugin Verbraucherinsolvenz S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verbraucher-oder-regelinsolvenz`
 

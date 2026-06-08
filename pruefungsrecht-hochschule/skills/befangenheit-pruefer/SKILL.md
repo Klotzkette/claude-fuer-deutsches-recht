@@ -1,6 +1,6 @@
 ---
 name: befangenheit-pruefer
-description: "Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Pruefungsrecht Hochschule."
 ---
 
 # Befangenheit Pruefer

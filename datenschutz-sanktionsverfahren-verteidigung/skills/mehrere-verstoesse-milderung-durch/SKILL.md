@@ -1,18 +1,9 @@
 ---
 name: mehrere-verstoesse-milderung-durch
-description: "Mehrere Verstoesse Milderung Durch im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Mehrere Verstöße und Art, Milderung durch Compliance vor dem Vorfall, Milderung durch Remediation nach dem Vorfall, Geheimnisse gegenüber Datenschutzaufsicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mehrere Verstoesse Milderung Durch im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Mehrere Verstöße und Art, Milderung durch Compliance vor dem Vorfall, Milderung durch Remediation nach dem Vorfall, Geheimnisse gegenüber Datenschutzaufsicht."
 ---
 
 # Mehrere Verstoesse Milderung Durch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mehrere-verstoesse-und-art-83-3` | Mehrere Verstöße und Art. 83 Abs. 3: Mehrfachverstöße aus derselben Verarbeitung und Höchstgrenze nach Art. 83 Abs. 3 prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `milderung-durch-compliance-vor-dem-vorfall` | Milderung durch Compliance vor dem Vorfall: Vorhandene Schulungen, DSFA, AVV, Audits und technische Tests als konkrete Entlastung belegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `milderung-durch-remediation-nach-dem-vorfall` | Milderung durch Remediation nach dem Vorfall: Nachträgliche Maßnahmen, Wirksamkeitsprüfung und Betroffenenschutz für Art.-83-Milderung dokumentieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `normenkollision-geheimnisse-und-datenschutzaufsicht` | Geheimnisse gegenüber Datenschutzaufsicht: Geschäftsgeheimnis, Mandatsgeheimnis, Bankgeheimnis und Sozialgeheimnis bei Behördenvorlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Mehrere Verstoesse Milderung Durch im Datenschutz-Sanktionsverfahr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mehrere-verstoesse-und-art-83-3`
 

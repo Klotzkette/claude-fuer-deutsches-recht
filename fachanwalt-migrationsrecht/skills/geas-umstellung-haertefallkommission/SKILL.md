@@ -1,19 +1,9 @@
 ---
 name: geas-umstellung-haertefallkommission
-description: "Geas Umstellung Haertefallkommission im Migrationsrecht: prüft konkret GEAS-Umstellung 2026, Härtefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Geas Umstellung Haertefallkommission im Migrationsrecht: prüft konkret GEAS-Umstellung 2026, Härtefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs."
 ---
 
 # Geas Umstellung Haertefallkommission
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-geas-2026-umstellung` | GEAS-Umstellung 2026: Fachmodul im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-haertefallkommission` | Härtefallkommission: Fachmodul im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-innerstaatliche-fluchtalternative` | Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-integrationskurs` | Integrationskurs: Fachmodul im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-journalisten-aktivisten` | Journalisten/Aktivisten: Fachmodul im Migrationsrecht; prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Geas Umstellung Haertefallkommission im Migrationsrecht: prüft ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-geas-2026-umstellung`
 

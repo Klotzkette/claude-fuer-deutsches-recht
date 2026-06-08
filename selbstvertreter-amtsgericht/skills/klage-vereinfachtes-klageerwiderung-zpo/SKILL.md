@@ -1,6 +1,6 @@
 ---
 name: klage-vereinfachtes-klageerwiderung-zpo
-description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amtsgericht: prüft konkret Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amtsgericht: prüft konkret Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff."
 ---
 
 # Klage Vereinfachtes Klageerwiderung ZPO
@@ -8,14 +8,6 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 ## Arbeitsbereich
 
 **Klage Vereinfachtes Klageerwiderung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis, Fristen zur Klageerwiderung nach § 274 ZPO, Mahnbescheid nach §§ 688 ff. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `klage-vereinfachtes-verfahren-495a-zpo` | Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt. |
-| `klageerwiderung-fristen-274-zpo` | Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts. |
-| `mahnverfahren-688-ff-zpo-vor-klage` | Mahnbescheid nach §§ 688 ff. ZPO als guenstige Alternative zur Klage. Online-Formular Mahngerichte Widerspruchs-Folgen Vollstreckungsbescheid. Wann ist Mahnverfahren sinnvoll wann nicht. Mit Hinweisen zur Hemmung der Verjährung. |
 
 ## Arbeitsweg
 
@@ -25,7 +17,7 @@ description: "Klage Vereinfachtes Klageerwiderung ZPO im Selbstvertretung am Amt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `klage-vereinfachtes-verfahren-495a-zpo`
 

@@ -1,6 +1,6 @@
 ---
 name: kosten-haftung-und-versicherung
-description: "Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kosten, Gebühren, Schäden, Haftung, Versicherung und Regress rund um Versammlungen im Versammlungsrecht."
 ---
 
 # Kosten nicht überschätzen, Haftung nicht ignorieren

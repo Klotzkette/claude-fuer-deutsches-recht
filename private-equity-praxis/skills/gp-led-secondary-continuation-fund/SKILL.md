@@ -1,6 +1,6 @@
 ---
 name: gp-led-secondary-continuation-fund
-description: "Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess im Private Equity Praxis."
 ---
 
 # GP-led Secondary und Continuation Fund

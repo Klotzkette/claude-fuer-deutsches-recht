@@ -1,6 +1,6 @@
 ---
 name: hochschularchiv-und-aktenordnung
-description: "Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen im Hochschulrecht Länder."
 ---
 
 # Hochschularchiv und Aktenordnung

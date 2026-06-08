@@ -1,6 +1,6 @@
 ---
 name: autorenkuendigung-verlagsagentur
-description: "Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-026 · Autorenkündigung, Bestseller und Nachvergütung

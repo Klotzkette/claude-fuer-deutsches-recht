@@ -1,6 +1,6 @@
 ---
 name: handwerk-gefahrstoffe-asbest
-description: "Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handwerksbetriebe: Asbest-/Gefahrstoffarbeiten, Anzeigen, Sachkunde, Schutzmaßnahmen und Dokumentation im Berichtspflichten."
 ---
 
 # Handwerk: Asbest, Gefahrstoffe und Anzeigen

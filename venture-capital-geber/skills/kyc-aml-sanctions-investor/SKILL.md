@@ -1,6 +1,6 @@
 ---
 name: kyc-aml-sanctions-investor
-description: "Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # KYC, AML und Sanktionen

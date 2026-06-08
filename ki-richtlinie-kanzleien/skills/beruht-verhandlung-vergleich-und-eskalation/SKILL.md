@@ -1,6 +1,6 @@
 ---
 name: beruht-verhandlung-vergleich-und-eskalation
-description: "Beruht: Verhandlung, Vergleich und Eskalation im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beruht: Verhandlung, Vergleich und Eskalation im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
 ---
 
 # Beruht: Verhandlung, Vergleich und Eskalation

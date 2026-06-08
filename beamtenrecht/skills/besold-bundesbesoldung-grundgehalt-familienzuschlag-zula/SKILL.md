@@ -1,6 +1,6 @@
 ---
 name: besold-bundesbesoldung-grundgehalt-familienzuschlag-zula
-description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen im Beamtenrecht."
 ---
 
 # Besold Bundesbesoldung Grundgehalt Familienzuschlag Zula

@@ -1,6 +1,6 @@
 ---
 name: formwechsel-registercheck
-description: "Prüft Formwechselbericht, Beschlüsse, Satzung, neue Firma, Registerwechsel und Identitätskontinuität im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Formwechselbericht, Beschlüsse, Satzung, neue Firma, Registerwechsel und Identitätskontinuität im Handelsregister Praxis."
 ---
 
 # Formwechsel Registercheck

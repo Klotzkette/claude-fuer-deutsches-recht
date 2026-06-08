@@ -1,6 +1,6 @@
 ---
 name: public-private-partnership-raumfahrtmission
-description: "PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien im Weltraumrecht."
 ---
 
 # Weltraumrecht: Public-Private-Partnership Raumfahrtmission

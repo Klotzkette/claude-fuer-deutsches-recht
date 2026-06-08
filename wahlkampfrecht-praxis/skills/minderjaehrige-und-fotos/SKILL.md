@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-fotos
-description: "Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger pruefen im Wahlkampfrecht."
 ---
 
 # Minderjaehrige Und Fotos

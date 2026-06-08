@@ -1,6 +1,6 @@
 ---
 name: studierendenschaft-asta
-description: "Prüft Studierendenschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Studierendenschaft, AStA, Beiträge und Mandat im Hochschulrecht Länder."
 ---
 
 # Studierendenschaft AStA

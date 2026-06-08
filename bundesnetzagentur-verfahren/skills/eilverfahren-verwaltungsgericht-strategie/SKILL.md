@@ -1,6 +1,6 @@
 ---
 name: eilverfahren-verwaltungsgericht-strategie
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie im BNetzA-Verfahren."
 ---
 
 # Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen

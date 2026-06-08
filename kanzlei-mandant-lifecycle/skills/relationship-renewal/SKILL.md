@@ -1,6 +1,6 @@
 ---
 name: relationship-renewal
-description: "Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Relationship Renewal

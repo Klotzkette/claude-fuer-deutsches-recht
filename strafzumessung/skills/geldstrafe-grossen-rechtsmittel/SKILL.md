@@ -1,6 +1,6 @@
 ---
 name: geldstrafe-grossen-rechtsmittel
-description: "Geldstrafe: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Strafzumessung."
 ---
 
 # Geldstrafe: Zahlen, Schwellenwerte und Berechnung

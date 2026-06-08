@@ -1,6 +1,6 @@
 ---
 name: workflow-beweismatrix-und-logauswertung
-description: "Baut Beweismatrix aus Telemetrie, Event Logs, Wartungsprotokollen, Video, Sensorik, Tickets, E-Mails und Versionsständen im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Beweismatrix aus Telemetrie, Event Logs, Wartungsprotokollen, Video, Sensorik, Tickets, E-Mails und Versionsständen im Robotik-Recht."
 ---
 
 # Beweismatrix und Logauswertung

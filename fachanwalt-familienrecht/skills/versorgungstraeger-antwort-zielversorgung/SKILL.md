@@ -1,16 +1,9 @@
 ---
 name: versorgungstraeger-antwort-zielversorgung
-description: "Versorgungstraeger Antwort Zielversorgung im Plugin Fachanwalt Familienrecht: prüft konkret zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträge, Zielversorgung wählen externe Teilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Versorgungstraeger Antwort Zielversorgung im Plugin Fachanwalt Familienrecht: prüft konkret zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträge, Zielversorgung wählen externe Teilung."
 ---
 
 # Versorgungstraeger Antwort Zielversorgung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `versorgungstraeger-antwort-pruefen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen. |
-| `zielversorgung-waehlen-externe-teilung` | Zielversorgung wählen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Versorgungstraeger Antwort Zielversorgung im Plugin Fachanwalt Fam
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `versorgungstraeger-antwort-pruefen`
 

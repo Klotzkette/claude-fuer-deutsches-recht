@@ -1,6 +1,6 @@
 ---
 name: entlassung-auf-eigenen-antrag
-description: "Entlassung auf eigenen Antrag: prüft § 46 SG, Antragsformalitäten, Widerruf, Versorgungsfolgen und Kostenrückforderung. Norm-/Quellenanker: § 46 SG, SVG, § 56 SG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlassung auf eigenen Antrag: prüft § 46 SG, Antragsformalitäten, Widerruf, Versorgungsfolgen und Kostenrückforderung. Norm-/Quellenanker: § 46 SG, SVG, § 56 SG im Bundeswehrrecht Wehrrecht."
 ---
 
 # Entlassung auf eigenen Antrag

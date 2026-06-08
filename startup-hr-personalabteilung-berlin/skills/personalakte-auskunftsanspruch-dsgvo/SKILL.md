@@ -1,6 +1,6 @@
 ---
 name: personalakte-auskunftsanspruch-dsgvo
-description: "Berliner Start-up-HR: DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Personalakte Auskunftsanspruch DSGVO

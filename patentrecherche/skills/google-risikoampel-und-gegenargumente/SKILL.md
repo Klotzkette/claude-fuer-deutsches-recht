@@ -1,6 +1,6 @@
 ---
 name: google-risikoampel-und-gegenargumente
-description: "Google: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Google: Risikoampel, Gegenargumente und Verteidigungslinien im Patentrecherche."
 ---
 
 # Google: Risikoampel, Gegenargumente und Verteidigungslinien

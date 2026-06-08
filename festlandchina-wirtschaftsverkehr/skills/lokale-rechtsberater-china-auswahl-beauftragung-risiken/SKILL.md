@@ -1,6 +1,6 @@
 ---
 name: lokale-rechtsberater-china-auswahl-beauftragung-risiken
-description: "Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken

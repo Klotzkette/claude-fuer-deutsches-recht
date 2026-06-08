@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-an-anzeige-unter
-description: "Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation im Versammlungsrecht."
 ---
 
 # Klar, fest, ohne Theater

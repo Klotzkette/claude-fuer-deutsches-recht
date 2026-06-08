@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-wunschermittlung
-description: "Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen im Betreuungsrecht."
 ---
 
 # Familienbetreuer: Wunschermittlung bei schwerer Demenz

@@ -1,6 +1,6 @@
 ---
 name: geheimnisschutz-geschg
-description: "Verknüpft IT-Security mit Geschäftsgeheimnisschutz im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft IT-Security mit Geschäftsgeheimnisschutz im Nis2 Cybersecurity Compliance."
 ---
 
 # Geheimnisschutz Geschg

@@ -1,6 +1,6 @@
 ---
 name: altlasten-rueckbau-erbbaurecht
-description: "Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung im Erbbaurecht Praxis."
 ---
 
 # Altlasten und Rückbau

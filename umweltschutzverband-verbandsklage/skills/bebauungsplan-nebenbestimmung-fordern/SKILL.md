@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-nebenbestimmung-fordern
-description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Bebauungsplan Nebenbestimmung Fordern

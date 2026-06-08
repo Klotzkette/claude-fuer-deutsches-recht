@@ -1,17 +1,9 @@
 ---
 name: chronologie-belegmatrix-fristen-risikoampel
-description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt Arbeitsrecht: prüft konkret Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt Arbeitsrecht: prüft konkret Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat."
 ---
 
 # Chronologie Belegmatrix Fristen Risikoampel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix für arbeitsrechtliche Mandate: zeitliche Sachverhaltsaufbereitung, Ereignis-Zeitachse, Dokumentenzuordnung nach Datum, Lückenidentifikation, Erstellung einer strukturierten Fallchronologie als Arbeitsgrundlage. |
-| `workflow-fristen-und-risikoampel` | Fristen und Risikoampel: vollständige Fristenübersicht für arbeitsrechtliche Mandate, Ampelbewertung nach Dringlichkeit, Fristenkalender, Wiedervorlagensystem, kritische Fristen Kündigung KSchG, Befristung TzBfG, AGG, Berufung ArbGG. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Arbeitsrechtsmandat: Mandantenbriefe, E-Mails, Gesprächsvorbereitung, Informationspflichten, Kostenhinweis RVG, Akteneinsicht, Verfahrensstandsmeldungen, Aufklärungsbrief vor Klageerhebung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 

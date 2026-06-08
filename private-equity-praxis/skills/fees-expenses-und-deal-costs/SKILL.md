@@ -1,6 +1,6 @@
 ---
 name: fees-expenses-und-deal-costs
-description: "Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation im Private Equity Praxis."
 ---
 
 # Fees, Expenses und Deal Costs

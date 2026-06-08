@@ -1,6 +1,6 @@
 ---
 name: regulated-bank-fintech-target
-description: "Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing im Private Equity Praxis."
 ---
 
 # Bank-/FinTech-Target im PE-Deal

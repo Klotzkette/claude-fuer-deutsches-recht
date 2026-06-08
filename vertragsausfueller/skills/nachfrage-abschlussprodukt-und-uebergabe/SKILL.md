@@ -1,6 +1,6 @@
 ---
 name: nachfrage-abschlussprodukt-und-uebergabe
-description: "Nachfrage: Abschlussprodukt und Übergabe; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachfrage: Abschlussprodukt und Übergabe im Vertragsausfueller."
 ---
 
 # Nachfrage: Abschlussprodukt und Übergabe

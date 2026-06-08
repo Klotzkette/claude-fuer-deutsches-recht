@@ -1,6 +1,6 @@
 ---
 name: backlist-rights-gap-audit
-description: "Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen im Us Copyright Registrierung Verlag."
 ---
 
 # Backlist Rights Gap Audit

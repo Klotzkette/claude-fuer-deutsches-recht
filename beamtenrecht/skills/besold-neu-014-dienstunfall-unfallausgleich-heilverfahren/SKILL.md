@@ -1,6 +1,6 @@
 ---
 name: besold-neu-014-dienstunfall-unfallausgleich-heilverfahren
-description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamtenrecht."
 ---
 
 # Besold Dienstunfall Unfallausgleich Heilverfahren

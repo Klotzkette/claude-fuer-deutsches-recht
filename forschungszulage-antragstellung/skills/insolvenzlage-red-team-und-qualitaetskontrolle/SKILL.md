@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-red-team-und-qualitaetskontrolle
-description: "Insolvenzlage: Red-Team und Qualitätskontrolle im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenzlage: Red-Team und Qualitätskontrolle im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Insolvenzlage: Red-Team und Qualitätskontrolle

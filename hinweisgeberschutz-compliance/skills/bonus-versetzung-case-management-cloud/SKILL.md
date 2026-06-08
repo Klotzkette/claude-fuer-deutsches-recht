@@ -1,6 +1,6 @@
 ---
 name: bonus-versetzung-case-management-cloud
-description: "Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Leistungsbewertung, Bonus und Versetzung nach Hinweis im Hinweisgeberschutz Compliance."
 ---
 
 # Bonus Versetzung Bewertung

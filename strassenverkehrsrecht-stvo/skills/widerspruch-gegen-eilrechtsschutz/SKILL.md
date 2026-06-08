@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-eilrechtsschutz
-description: "Straßenverkehrsrecht StVO: Widerspruch gegen Verkehrszeichen. Widerspruch gegen Verkehrszeichen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Straßenverkehrsrecht StVO: Widerspruch gegen Verkehrszeichen. Widerspruch gegen Verkehrszeichen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Widerspruch Gegen Verkehrszeichen

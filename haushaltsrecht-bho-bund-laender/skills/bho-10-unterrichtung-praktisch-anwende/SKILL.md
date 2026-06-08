@@ -1,6 +1,6 @@
 ---
 name: bho-10-unterrichtung-praktisch-anwende
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 10 Unterrichtung praktisch anwenden. BHO § 10 Unterrichtung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 10 Unterrichtung praktisch anwenden. BHO § 10 Unterrichtung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Bho 10 Unterrichtung Praktisch Anwende

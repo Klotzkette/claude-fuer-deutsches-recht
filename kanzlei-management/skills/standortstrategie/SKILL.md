@@ -1,6 +1,6 @@
 ---
 name: standortstrategie
-description: "Prüft Standorte, Mietkosten, Hybridarbeit, Recruitingwirkung und Symbolik. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Standorte, Mietkosten, Hybridarbeit, Recruitingwirkung und Symbolik. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Standortstrategie und Büroflächen

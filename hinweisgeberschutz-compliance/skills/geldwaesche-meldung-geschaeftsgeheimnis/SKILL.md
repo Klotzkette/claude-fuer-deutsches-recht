@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-meldung-geschaeftsgeheimnis
-description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Hinweis mit GwG/FIU-Pflichten im Hinweisgeberschutz Compliance."
 ---
 
 # Geldwaesche Meldung

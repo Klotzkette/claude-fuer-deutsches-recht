@@ -1,6 +1,6 @@
 ---
 name: schriftsaetzen-dokumentenmatrix-und-lueckenliste
-description: "Baut aus Schriftsatz und Dateiliste eine Matrix mit Tatsachen, Belegen, fehlenden Anlagen und Nachforderungen im Anlagen zu Schriftsätzen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut aus Schriftsatz und Dateiliste eine Matrix mit Tatsachen, Belegen, fehlenden Anlagen und Nachforderungen im Anlagen zu Schriftsätzen."
 ---
 
 # Dokumentenmatrix und Lückenliste

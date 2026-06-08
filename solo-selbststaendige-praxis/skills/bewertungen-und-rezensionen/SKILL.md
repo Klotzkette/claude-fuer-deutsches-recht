@@ -1,6 +1,6 @@
 ---
 name: bewertungen-und-rezensionen
-description: "Solo-Selbstständige: prüft negative Bewertungen, Fake Reviews und Antwortstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft negative Bewertungen, Fake Reviews und Antwortstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Marketing E-Commerce und Plattformen: Prüft negative bewertungen

@@ -1,6 +1,6 @@
 ---
 name: gesellschafter-gf-mehrheit
-description: "Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen im Sozialversicherungsstatus Pruefer."
 ---
 
 # Mehrheits-Gesellschafter-Geschäftsführer

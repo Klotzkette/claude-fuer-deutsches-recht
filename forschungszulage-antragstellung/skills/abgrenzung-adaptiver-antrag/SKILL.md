@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-adaptiver-antrag
-description: "Abgrenzung: Compliance-Dokumentation und Aktenvermerk im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abgrenzung: Compliance-Dokumentation und Aktenvermerk im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Abgrenzung: Compliance-Dokumentation und Aktenvermerk

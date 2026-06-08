@@ -1,6 +1,6 @@
 ---
 name: gruppenfeststellung-gleichartige-auftraege
-description: "Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen im Sozialversicherungsstatus Pruefer."
 ---
 
 # Gruppenfeststellung gleichartige Aufträge

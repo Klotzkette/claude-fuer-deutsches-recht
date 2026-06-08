@@ -1,6 +1,6 @@
 ---
 name: immobilien-formular-portal-und-einreichung
-description: "Immobilien: Formular, Portal und Einreichungslogik im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Immobilien: Formular, Portal und Einreichungslogik im Plugin tabellenreview 3d im Tabellenreview 3d."
 ---
 
 # Immobilien: Formular, Portal und Einreichungslogik

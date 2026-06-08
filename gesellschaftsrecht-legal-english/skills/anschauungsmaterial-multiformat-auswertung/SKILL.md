@@ -1,6 +1,6 @@
 ---
 name: anschauungsmaterial-multiformat-auswertung
-description: "Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, Screenshot, JPEG, Excel, Chat, Email, Notarvermerk, Cap Table und Dealroom-Fragmente im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, Screenshot, JPEG, Excel, Chat, Email, Notarvermerk, Cap Table und Dealroom-Fragmente im Gesellschaftsrecht Legal English."
 ---
 
 # Anschauungsmaterial Multi-Format-Auswertung

@@ -1,6 +1,6 @@
 ---
 name: fahrzeug-reisekosten-kilometer
-description: "Solo-Selbstständige: prüft Fahrtenbuch, Kilometerpauschale, gemischte Nutzung und Reisekosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Fahrtenbuch, Kilometerpauschale, gemischte Nutzung und Reisekosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Steuern und Buchhaltung: Prüft fahrtenbuch

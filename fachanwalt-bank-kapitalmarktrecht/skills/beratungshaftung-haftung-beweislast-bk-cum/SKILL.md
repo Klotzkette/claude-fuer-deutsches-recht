@@ -1,17 +1,9 @@
 ---
 name: beratungshaftung-haftung-beweislast-bk-cum
-description: "Beratungshaftung Haftung Beweislast BK CUM im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Beratungshaftung, Haftung, Spezialfall Cum-Ex und Cum-Cum Mandate. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beratungshaftung Haftung Beweislast BK CUM im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Beratungshaftung, Haftung, Spezialfall Cum-Ex und Cum-Cum Mandate."
 ---
 
 # Beratungshaftung Haftung Beweislast BK CUM
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-beratungshaftung-zahlen-schwellen-und-berechnung` | Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-haftung-beweislast-und-darlegungslast` | Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `bk-cum-ex-mandant-strafrecht-spezial` | Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster für Mandant. |
 
 ## Normenanker
 
@@ -38,16 +30,16 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-beratungshaftung-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
-- **Konkreter Gegenstand:** Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -70,12 +62,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-haftung-beweislast-und-darlegungslast`
 
-**Fokus:** Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Haftung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Haftung: Beweislast, Darlegungslast und Substantiierung
-- **Konkreter Gegenstand:** Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

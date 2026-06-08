@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter
-description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mitarbeiter im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mitarbeiter im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Mitarbeiter

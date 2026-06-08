@@ -1,6 +1,6 @@
 ---
 name: strafrecht-versg-risiken
-description: "Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Strafbarkeitsrisiken aus VersammlG, StGB, Waffenrecht, Vermummung, Schutzwaffen und Nötigung im Versammlungsrecht."
 ---
 
 # Nicht jedes Risiko gehört in die Anzeige

@@ -1,6 +1,6 @@
 ---
 name: tenor-internationaler-bezug-und-schnittstellen
-description: "Tenor: Internationaler Bezug und Schnittstellen im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tenor: Internationaler Bezug und Schnittstellen im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Tenor: Internationaler Bezug und Schnittstellen

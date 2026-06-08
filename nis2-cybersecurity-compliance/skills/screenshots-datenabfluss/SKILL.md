@@ -1,6 +1,6 @@
 ---
 name: screenshots-datenabfluss
-description: "Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets im Nis2 Cybersecurity Compliance."
 ---
 
 # Screenshots Datenabfluss

@@ -1,6 +1,6 @@
 ---
 name: rechtsargumente-internationaler-bezug-und-schnittstellen
-description: "Rechtsargumente: Internationaler Bezug und Schnittstellen im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsargumente: Internationaler Bezug und Schnittstellen im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
 ---
 
 # Rechtsargumente: Internationaler Bezug und Schnittstellen

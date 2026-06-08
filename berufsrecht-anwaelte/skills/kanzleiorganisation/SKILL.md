@@ -1,6 +1,6 @@
 ---
 name: kanzleiorganisation
-description: "Kanzleiorganisation: vertiefter Berufsrechts-Skill für Anwälte; prüft Kanzleiorganisation im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzleiorganisation: vertiefter Berufsrechts-Skill für Anwälte; prüft Kanzleiorganisation im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Kanzleiorganisation

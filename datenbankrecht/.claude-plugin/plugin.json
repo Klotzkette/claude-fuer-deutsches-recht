@@ -1,6 +1,6 @@
 {
   "name": "datenbankrecht",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, Scraping, API, KI-Training, Vertrags- und Plattformkonflikte.",
   "license": "Apache-2.0 OR MIT",
   "author": {

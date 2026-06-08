@@ -1,17 +1,9 @@
 ---
 name: interessen-verifikation-beweislast-vorschau
-description: "Interessen Verifikation Beweislast Vorschau im Plugin Liquiditaetsplanung: prüft konkret Schnittstellen, Verifikation, Vorschau. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Interessen Verifikation Beweislast Vorschau im Plugin Liquiditaetsplanung: prüft konkret Schnittstellen, Verifikation, Vorschau."
 ---
 
 # Interessen Verifikation Beweislast Vorschau
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verifikation-beweislast-und-darlegungslast` | Verifikation: Beweislast, Darlegungslast und Substantiierung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vorschau-dokumentenmatrix-und-lueckenliste` | Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Interessen Verifikation Beweislast Vorschau im Plugin Liquiditaets
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schnittstellen-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin liquiditaetsplanung.
 
 ### Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 
@@ -51,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verifikation-beweislast-und-darlegungslast`
 
-**Fokus:** Verifikation: Beweislast, Darlegungslast und Substantiierung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verifikation: Beweislast, Darlegungslast und Substantiierung im Plugin liquiditaetsplanung.
 
 ### Verifikation: Beweislast, Darlegungslast und Substantiierung
 
@@ -77,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vorschau-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin liquiditaetsplanung.
 
 ### Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung
 

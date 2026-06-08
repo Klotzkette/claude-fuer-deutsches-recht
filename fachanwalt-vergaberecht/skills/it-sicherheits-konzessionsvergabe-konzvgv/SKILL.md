@@ -1,18 +1,9 @@
 ---
 name: it-sicherheits-konzessionsvergabe-konzvgv
-description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Vergaberecht: prüft konkret IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren, Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Vergaberecht: prüft konkret IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren, Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff."
 ---
 
 # IT Sicherheits Konzessionsvergabe Konzvgv
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` | IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin. |
-| `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv` | Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal. |
-| `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung` | Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
-| `fachanwalt-vergaberecht-nachpruefungsantrag-vk` | Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Prüfraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachprüfungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`
 

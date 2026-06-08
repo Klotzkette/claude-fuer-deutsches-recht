@@ -1,6 +1,6 @@
 ---
 name: gema-gvl-verwertungsgesellschaften
-description: "Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Wahrnehmungsverträge, GEMA/GVL-Meldungen, Tarife, Ausschüttung, Werkregistrierung und Rechte außerhalb der Kollektivwahrnehmung im Urheberrecht De Eu."
 ---
 
 # GEMA, GVL und Verwertungsgesellschaften

@@ -1,6 +1,6 @@
 ---
 name: schadenersatz-regress-dienstunfall-material
-description: "Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SVG, BHO § 59, Regress gegen Soldaten und Haftungsrecht. Norm-/Quellenanker: SVG, SG § 24, BHO, BGB §§ 249 ff im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SVG, BHO § 59, Regress gegen Soldaten und Haftungsrecht. Norm-/Quellenanker: SVG, SG § 24, BHO, BGB §§ 249 ff im Bundeswehrrecht Wehrrecht."
 ---
 
 # Schadensersatz, Regress, Dienstunfall und Materialschäden

@@ -1,6 +1,6 @@
 ---
 name: acc3-dashboard-bauen
-description: "ACC3-Carrier braucht Compliance-Dashboard: Designierungsstatus Validierungsgueltigkeit RA3/KC3-Datenbank Sicherheitsfindings. Skill strukturiert Datenquellen EU-Datenbanken EU-DVO 2015/1998 und liefert befuellbares Compliance-Dashboard im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ACC3-Carrier braucht Compliance-Dashboard: Designierungsstatus Validierungsgueltigkeit RA3/KC3-Datenbank Sicherheitsfindings. Skill strukturiert Datenquellen EU-Datenbanken EU-DVO 2015/1998 und liefert befuellbares Compliance-Dashboard im Luftrecht Flughafenrecht."
 ---
 
 # ACC3 – Dashboard bauen

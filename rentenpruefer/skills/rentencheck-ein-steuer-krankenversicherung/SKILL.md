@@ -1,6 +1,6 @@
 ---
 name: rentencheck-ein-steuer-krankenversicherung
-description: "Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung im Rentenpruefer."
 ---
 
 # rentencheck-ein-jahr-vorher

@@ -1,6 +1,6 @@
 ---
 name: bund-laender-programm-deckung-finden
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Deckung finden im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Bund Länder Programm Deckung Finden

@@ -1,6 +1,6 @@
 ---
 name: tokenisierung-security-token-mica-mifid
-description: "Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tokenisierung und Security Token einordnen: MiFID-Finanzinstrument, eWpG-Kryptowertpapier, MiCAR-Kryptowert, Vermögensanlage, Prospektpflicht und Vertriebsregime trennscharf prüfen im Bank-Rechtsabteilung."
 ---
 
 # Tokenisierung Rechtsqualifikation

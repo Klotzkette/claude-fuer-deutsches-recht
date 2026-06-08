@@ -1,18 +1,9 @@
 ---
 name: kinder-schutzbeduerftige-kosten-auslagen
-description: "Kinder Schutzbeduerftige Kosten Auslagen im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Kinder und vulnerable Betroffene, Kosten Auslagen und D&O-Risiko, Lieferanten und Auftragsverarbeiter Regress, Löschkonzept und Aufbewahrungsfehler. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kinder Schutzbeduerftige Kosten Auslagen im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Kinder und vulnerable Betroffene, Kosten Auslagen und D&O-Risiko, Lieferanten und Auftragsverarbeiter Regress, Löschkonzept und Aufbewahrungsfehler."
 ---
 
 # Kinder Schutzbeduerftige Kosten Auslagen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kinder-und-schutzbeduerftige-betroffene` | Kinder und vulnerable Betroffene: Kinder, Patienten, Beschäftigte, Mieterinteressenten und andere Schutzgruppen sanktionsrechtlich einordnen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `kosten-auslagen-und-d-und-o-risiko` | Kosten Auslagen und D&O-Risiko: Verteidigungskosten, Bußgeld, D&O-Meldung, Organhaftung und Versicherungsdeckung abschätzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `lieferanten-und-auftragsverarbeiter-regress` | Lieferanten und Auftragsverarbeiter Regress: Regress, AVV-Haftung, Freistellung und Beweissicherung gegen Auftragsverarbeiter nach einem Bußgeldfall vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `loeschkonzept-und-aufbewahrungsfehler` | Löschkonzept und Aufbewahrungsfehler: Fehlende Löschung, überlange Speicherung, Backups und Aufbewahrungspflichten als Bußgeldthema strukturieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Kinder Schutzbeduerftige Kosten Auslagen im Datenschutz-Sanktionsv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kinder-und-schutzbeduerftige-betroffene`
 

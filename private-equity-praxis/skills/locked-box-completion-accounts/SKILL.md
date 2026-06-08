@@ -1,6 +1,6 @@
 ---
 name: locked-box-completion-accounts
-description: "Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik im Private Equity Praxis."
 ---
 
 # Locked Box und Completion Accounts

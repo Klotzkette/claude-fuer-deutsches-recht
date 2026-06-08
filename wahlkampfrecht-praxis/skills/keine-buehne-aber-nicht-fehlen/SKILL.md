@@ -1,6 +1,6 @@
 ---
 name: keine-buehne-aber-nicht-fehlen
-description: "Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll im Wahlkampfrecht."
 ---
 
 # Keine Buehne Aber Nicht Fehlen

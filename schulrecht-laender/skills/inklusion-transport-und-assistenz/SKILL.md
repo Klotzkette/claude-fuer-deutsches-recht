@@ -1,6 +1,6 @@
 ---
 name: inklusion-transport-und-assistenz
-description: "Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im Schulalltag im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beförderung, Assistenz, Barrierefreiheit und Teilhabe im Schulalltag im Schulrecht Länder."
 ---
 
 # Inklusion, Transport und Assistenz

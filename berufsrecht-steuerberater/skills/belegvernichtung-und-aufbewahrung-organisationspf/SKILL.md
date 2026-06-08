@@ -1,6 +1,6 @@
 ---
 name: belegvernichtung-und-aufbewahrung-organisationspf
-description: "Steuerberater: belegvernichtung und aufbewahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: belegvernichtung und aufbewahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: belegvernichtung und aufbewahrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

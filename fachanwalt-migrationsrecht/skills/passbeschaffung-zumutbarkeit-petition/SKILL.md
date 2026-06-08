@@ -1,19 +1,9 @@
 ---
 name: passbeschaffung-zumutbarkeit-petition
-description: "Passbeschaffung Zumutbarkeit Petition im Migrationsrecht: prüft konkret Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations, Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Passbeschaffung Zumutbarkeit Petition im Migrationsrecht: prüft konkret Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations, Rechtsberatungsstelle."
 ---
 
 # Passbeschaffung Zumutbarkeit Petition
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-passbeschaffung-zumutbarkeit` | Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht; prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-petition-migration` | Petition Migration: Fachmodul im Migrationsrecht; prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-qualifikations-schriftsatz-brief-und-memo-bausteine` | Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-rechtsberatungsstelle-formular-portal-und-einreichung` | Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-reform-mandantenkommunikation-entscheidungsvorlage` | Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Passbeschaffung Zumutbarkeit Petition im Migrationsrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-passbeschaffung-zumutbarkeit`
 
@@ -81,7 +71,7 @@ description: "Passbeschaffung Zumutbarkeit Petition im Migrationsrecht: prüft k
 
 ## 3. `spezial-qualifikations-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht.
 
 ### Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -113,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-rechtsberatungsstelle-formular-portal-und-einreichung`
 
-**Fokus:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht.
 
 ### Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
 
@@ -145,7 +135,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-reform-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht.
 
 ### Reform: Mandantenkommunikation und Entscheidungsvorlage
 

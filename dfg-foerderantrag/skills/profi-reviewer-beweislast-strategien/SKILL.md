@@ -1,6 +1,6 @@
 ---
 name: profi-reviewer-beweislast-strategien
-description: "Profi: Behörden-, Gerichts- oder Registerweg im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Profi: Behörden-, Gerichts- oder Registerweg im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Profi: Behörden-, Gerichts- oder Registerweg

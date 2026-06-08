@@ -1,19 +1,9 @@
 ---
 name: heizkostenverordnung-heizung-warmwasser
-description: "Heizkostenverordnung Heizung Warmwasser im Miet- und Wohnungseigentumsrecht: prüft konkret Heizkostenverordnung, Heizung und Warmwasser, Indexmiete Anpassung, Insolvenz Mieter/Vermieter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Heizkostenverordnung Heizung Warmwasser im Miet- und Wohnungseigentumsrecht: prüft konkret Heizkostenverordnung, Heizung und Warmwasser, Indexmiete Anpassung, Insolvenz Mieter/Vermieter."
 ---
 
 # Heizkostenverordnung Heizung Warmwasser
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-heizkostenverordnung` | Heizkostenverordnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-heizung-warmwasser` | Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-indexmiete-anpassung` | Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-insolvenz-mieter-vermieter` | Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Heizkostenverordnung Heizung Warmwasser im Miet- und Wohnungseigen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-heizkostenverordnung`
 

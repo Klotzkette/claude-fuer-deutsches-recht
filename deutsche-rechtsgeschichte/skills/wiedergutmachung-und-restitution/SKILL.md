@@ -1,6 +1,6 @@
 ---
 name: wiedergutmachung-und-restitution
-description: "Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach NS-Unrecht. Bundesentschaedigungsgesetz 1953, Bundesrueckerstattungsgesetz 1957, Globalabkommen und Grenzen der Wiedergutmachung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach NS-Unrecht. Bundesentschaedigungsgesetz 1953, Bundesrueckerstattungsgesetz 1957, Globalabkommen und Grenzen der Wiedergutmachung im Deutsche Rechtsgeschichte."
 ---
 
 # Wiedergutmachung und Restitution (NS-Unrecht)

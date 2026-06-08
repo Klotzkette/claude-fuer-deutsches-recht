@@ -1,17 +1,9 @@
 ---
 name: fristennotiz-naechster-pachtvertrag-streitig
-description: "Fristennotiz Naechster Pachtvertrag Streitig im Agrarrecht: prüft konkret Uebergabe, Landpachtvertrags-Streitigkeiten LPachtVG, Pachtvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fristennotiz Naechster Pachtvertrag Streitig im Agrarrecht: prüft konkret Uebergabe, Landpachtvertrags-Streitigkeiten LPachtVG, Pachtvertrag."
 ---
 
 # Fristennotiz Naechster Pachtvertrag Streitig
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-uebergabe-fristennotiz-und-naechster-schritt` | Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `fachanwalt-agrarrecht-pachtvertrag-streitig` | Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage. |
-| `spezial-pachtvertrag-abschlussprodukt-und-uebergabe` | Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Fristennotiz Naechster Pachtvertrag Streitig im Agrarrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-uebergabe-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht.
 
 ### Uebergabe: Fristennotiz und nächster Schritt
 
@@ -183,7 +175,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `spezial-pachtvertrag-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht.
 
 ### Pachtvertrag: Abschlussprodukt und Übergabe
 

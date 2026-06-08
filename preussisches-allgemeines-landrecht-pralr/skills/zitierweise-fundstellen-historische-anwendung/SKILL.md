@@ -1,6 +1,6 @@
 ---
 name: zitierweise-fundstellen-historische-anwendung
-description: "PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Zitierweise

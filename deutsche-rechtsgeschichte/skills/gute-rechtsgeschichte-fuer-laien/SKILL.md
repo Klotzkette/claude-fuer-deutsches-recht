@@ -1,6 +1,6 @@
 ---
 name: gute-rechtsgeschichte-fuer-laien
-description: "Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht für Unterricht und Oeffentlichkeit im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht für Unterricht und Oeffentlichkeit im Deutsche Rechtsgeschichte."
 ---
 
 # Gute Rechtsgeschichte für Laien

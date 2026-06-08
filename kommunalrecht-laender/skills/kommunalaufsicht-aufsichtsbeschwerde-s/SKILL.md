@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-aufsichtsbeschwerde-s
-description: "der Länder: Kommunalaufsicht: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "der Länder: Kommunalaufsicht: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Kommunalaufsicht Aufsichtsbeschwerde S

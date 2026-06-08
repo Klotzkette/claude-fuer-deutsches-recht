@@ -1,24 +1,9 @@
 ---
 name: strafrecht-gmbh-verletzung-insiderhandel-wphg
-description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO, Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO, Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013."
 ---
 
 # Gmbh Verletzung Insiderhandel Wphg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg` | Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise. |
-| `strafrecht-spezial-insiderhandel-119-wphg` | Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister. |
-| `strafrecht-spezial-insolvenzverschleppung-15a-inso` | Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott. |
-| `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme` | Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus. |
-| `strafrecht-spezial-ip-strafrecht-verteidigung` | Verteidigung im IP-Strafrecht und Strafantragsfristen. Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB. Privatklage Adhaesion Antragsruecknahme. Verstaendigung Verbotsirrtum Erschoepfung. Trade-off Strafanzeige vs. zivilrechtliches Vorgehen aus Mandantensicht. |
-| `strafrecht-spezial-kapitalanlagebetrug-264a-stgb` | Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse für Crowdfunding, Token Offerings, geschlossene Fonds. |
-| `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club` | KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff. KCanG. Erlaubnisverfahren, Mengenkontingent 50 g monatlich pro Mitglied, Mitgliederzahl, Vereinsstruktur. Strafbarkeit bei Verstoss gegen Erlaubnis. |
-| `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz` | Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach § 34 sowie § 35 KCanG. |
-| `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang` | Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis. |
-| `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue` | Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB. BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidungen. Verfassungsrechtliche Grenzen der schadensgleichen Vermoegensgefaehrdung. Revisions- und Verfassungsangriff. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
 

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kyc-homeoffice-honorar-gebuehren
-description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Notare; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Notare; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Geldwäsche und KYC

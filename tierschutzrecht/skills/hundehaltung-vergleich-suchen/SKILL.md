@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-vergleich-suchen
-description: "Hundehaltung: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hundehaltung: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Hundehaltung Vergleich Suchen

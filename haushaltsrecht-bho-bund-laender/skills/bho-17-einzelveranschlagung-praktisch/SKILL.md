@@ -1,6 +1,6 @@
 ---
 name: bho-17-einzelveranschlagung-praktisch
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung praktisch anwenden. BHO § 17 Einzelveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung praktisch anwenden. BHO § 17 Einzelveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Bho 17 Einzelveranschlagung Praktisch

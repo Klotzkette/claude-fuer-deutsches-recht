@@ -1,6 +1,6 @@
 ---
 name: energieanlagen-leasing-pv-batteriespeicher-waermepumpe
-description: "Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG im Leasingrecht."
 ---
 
 # Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe

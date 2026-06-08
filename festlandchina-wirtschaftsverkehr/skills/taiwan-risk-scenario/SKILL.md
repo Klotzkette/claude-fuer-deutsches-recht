@@ -1,6 +1,6 @@
 ---
 name: taiwan-risk-scenario
-description: "Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Taiwan-Risikoszenario: Rechtliche und operative Vorbereitung

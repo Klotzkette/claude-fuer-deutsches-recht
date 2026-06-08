@@ -1,6 +1,6 @@
 ---
 name: schulsozialarbeit-jugendamt
-description: "Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl im Schulrecht Länder."
 ---
 
 # Schulsozialarbeit Jugendamt

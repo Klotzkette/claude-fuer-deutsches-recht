@@ -1,6 +1,6 @@
 ---
 name: anbieterwechsel-rufnummernmitnahme
-description: "Anbieterwechsel, Versorgungslücke, Rufnummernportierung, Entschädigung, Weiterversorgungspflicht und BNetzA-Beschwerde im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anbieterwechsel, Versorgungslücke, Rufnummernportierung, Entschädigung, Weiterversorgungspflicht und BNetzA-Beschwerde im Telekommunikationsrecht."
 ---
 
 # Anbieterwechsel und Rufnummernmitnahme

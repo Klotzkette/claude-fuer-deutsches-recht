@@ -1,17 +1,9 @@
 ---
 name: abmahnung-sonderfall-bild-eigenen
-description: "Abmahnung Sonderfall Bild Eigenen im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Abmahnung, Bild, Eigenen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Abmahnung Sonderfall Bild Eigenen im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Abmahnung, Bild, Eigenen."
 ---
 
 # Abmahnung Sonderfall Bild Eigenen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-abmahnung-sonderfall-und-edge-case` | Abmahnung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-bild-behoerden-gericht-und-registerweg` | Bild: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-eigenen-risikoampel-und-gegenargumente` | Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Abmahnung Sonderfall Bild Eigenen im Plugin Fachanwalt Urheber Med
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-abmahnung-sonderfall-und-edge-case`
 
-**Fokus:** Abmahnung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Abmahnung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt urheber medienrecht.
 
 ### Abmahnung: Sonderfall und Edge-Case-Prüfung
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bild-behoerden-gericht-und-registerweg`
 
-**Fokus:** Bild: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bild: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt urheber medienrecht.
 
 ### Bild: Behörden-, Gerichts- oder Registerweg
 
@@ -75,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-eigenen-risikoampel-und-gegenargumente`
 
-**Fokus:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt urheber medienrecht.
 
 ### Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
 

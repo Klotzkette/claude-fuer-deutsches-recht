@@ -1,6 +1,6 @@
 ---
 name: pro-rata-super-pro-rata
-description: "Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pro rata und Super pro rata

@@ -1,6 +1,6 @@
 ---
 name: partei-gewerkschaft-verein-veranstalter
-description: "Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit im Versammlungsrecht."
 ---
 
 # Wer lädt eigentlich ein?

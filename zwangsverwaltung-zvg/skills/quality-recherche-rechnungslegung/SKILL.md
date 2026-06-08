@@ -1,6 +1,6 @@
 ---
 name: quality-recherche-rechnungslegung
-description: "Quality: Formular, Portal und Einreichungslogik im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quality: Formular, Portal und Einreichungslogik im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Quality: Formular, Portal und Einreichungslogik

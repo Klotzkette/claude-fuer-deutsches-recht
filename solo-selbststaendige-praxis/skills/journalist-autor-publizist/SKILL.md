@@ -1,6 +1,6 @@
 ---
 name: journalist-autor-publizist
-description: "Solo-Selbstständige: prüft KSK, Nutzungsrechte, Quellen, Pressefreiheit und Honorare; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft KSK, Nutzungsrechte, Quellen, Pressefreiheit und Honorare; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Branchenfälle: Prüft ksk

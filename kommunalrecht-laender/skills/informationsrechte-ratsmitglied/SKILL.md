@@ -1,6 +1,6 @@
 ---
 name: informationsrechte-ratsmitglied
-description: "Kommunalrecht der Länder: Informationsrechte Ratsmitglied. Informationsrechte Ratsmitglied im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Informationsrechte Ratsmitglied. Informationsrechte Ratsmitglied im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Informationsrechte Ratsmitglied

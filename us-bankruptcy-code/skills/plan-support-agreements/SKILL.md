@@ -1,6 +1,6 @@
 ---
 name: plan-support-agreements
-description: "Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft RSA/PSA, lock-up, milestones, fiduciary out, disclosure, solicitation and creditor group dynamics im US Bankruptcy Code."
 ---
 
 # Plan Support Agreements

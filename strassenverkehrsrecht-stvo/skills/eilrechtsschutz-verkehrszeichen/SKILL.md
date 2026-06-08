@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-verkehrszeichen
-description: "Straßenverkehrsrecht StVO: Eilrechtsschutz Verkehrszeichen. Eilrechtsschutz Verkehrszeichen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Straßenverkehrsrecht StVO: Eilrechtsschutz Verkehrszeichen. Eilrechtsschutz Verkehrszeichen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Eilrechtsschutz Verkehrszeichen

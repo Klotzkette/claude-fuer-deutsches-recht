@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-bremen-hamburg-hessen-mecklenburg
-description: "Prüft Schulrecht in Bremen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulrecht in Bremen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
 ---
 
 # Schulgesetz Bremen

@@ -1,6 +1,6 @@
 ---
 name: ethik-und-reputation
-description: "Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Grenzen Compliance und Selbstschutz: Hilft bei aufträgen

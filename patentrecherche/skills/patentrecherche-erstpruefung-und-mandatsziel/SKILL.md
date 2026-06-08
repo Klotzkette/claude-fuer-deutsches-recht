@@ -1,6 +1,6 @@
 ---
 name: patentrecherche-erstpruefung-und-mandatsziel
-description: "Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel im Patentrecherche."
 ---
 
 # Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel

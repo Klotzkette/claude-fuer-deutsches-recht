@@ -1,17 +1,9 @@
 ---
 name: fa-transport-spedition-mandant-redteam
-description: "FA Transport Spedition Mandant Redteam im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA Transport Spedition Mandant Redteam im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Frachtfuehrerhaftung."
 ---
 
 # FA Transport Spedition Mandant Redteam
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-transport-speditionsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-transport-speditionsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-frachtfuehrerhaftung-fristennotiz-und-naechster-schritt` | Frachtfuehrerhaftung: Fristennotiz und nächster Schritt im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,7 +28,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -80,7 +72,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 3. `spezial-frachtfuehrerhaftung-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Frachtfuehrerhaftung: Fristennotiz und nächster Schritt im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Frachtfuehrerhaftung: Fristennotiz und nächster Schritt im Plugin fachanwalt transport speditionsrecht.
 
 ### Frachtfuehrerhaftung: Fristennotiz und nächster Schritt
 

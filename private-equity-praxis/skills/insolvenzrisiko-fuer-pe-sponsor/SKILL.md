@@ -1,6 +1,6 @@
 ---
 name: insolvenzrisiko-fuer-pe-sponsor
-description: "Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt im Private Equity Praxis."
 ---
 
 # Insolvenzrisiko für PE-Sponsor

@@ -1,6 +1,6 @@
 ---
 name: nearshore-offshore-development
-description: "Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle im Softwarerecht De Eu Us."
 ---
 
 # Nearshore/Offshore Development

@@ -1,6 +1,6 @@
 ---
 name: fzulg-fristen-form-und-zustaendigkeit
-description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg

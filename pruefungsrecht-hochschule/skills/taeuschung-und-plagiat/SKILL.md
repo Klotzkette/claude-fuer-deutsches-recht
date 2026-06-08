@@ -1,6 +1,6 @@
 ---
 name: taeuschung-und-plagiat
-description: "Prüft Täuschung, Plagiat und Sanktionen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Täuschung, Plagiat und Sanktionen im Pruefungsrecht Hochschule."
 ---
 
 # Taeuschung Und Plagiat

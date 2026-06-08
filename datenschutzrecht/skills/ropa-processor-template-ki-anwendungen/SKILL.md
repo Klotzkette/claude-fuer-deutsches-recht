@@ -1,19 +1,9 @@
 ---
 name: ropa-processor-template-ki-anwendungen
-description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft konkret Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und, Auskunft. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft konkret Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und, Auskunft."
 ---
 
 # Ropa Processor Template KI Anwendungen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ropa-en-processor-template` | Full English-language template for the Records of Processing Activities (RoPA) of the processor under Article 30(2) GDPR. Four mandatory contents, controller list, processing categories, third-country transfers, sub-processor annex. For hosting providers, payroll, IT outsourcing, and cloud vendors with German clients. |
-| `ropa-für-ki-anwendungen-besonderheiten` | Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl. |
-| `ropa-konzernumlauf-und-multi-entity` | Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Master-RoPA und Entity-Anhaenge. |
-| `spezial-auskunft-behoerden-gericht-und-registerweg` | Auskunft: Behörden-, Gerichts- oder Registerweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-bdsg-tatbestand-beweis-und-belege` | Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ropa-en-processor-template`
 
@@ -333,7 +323,7 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 
 ## 4. `spezial-auskunft-behoerden-gericht-und-registerweg`
 
-**Fokus:** Auskunft: Behörden-, Gerichts- oder Registerweg im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Auskunft: Behörden-, Gerichts- oder Registerweg im Plugin datenschutzrecht.
 
 ### Auskunft: Behörden-, Gerichts- oder Registerweg
 
@@ -374,7 +364,7 @@ Bei unvollständiger Auskunft frühzeitig nachhaken und konkret benennen, was fe
 
 ## 5. `spezial-bdsg-tatbestand-beweis-und-belege`
 
-**Fokus:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin datenschutzrecht.
 
 ### Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

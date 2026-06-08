@@ -1,6 +1,6 @@
 ---
 name: richterdienst-drig-grundlagen
-description: "Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterdienst nach DRiG: Rechtsformen, Voraussetzungen, Richter auf Probe, Lebenszeit und Unvereinbarkeiten im Beamtenrecht."
 ---
 
 # Richterdienst Drig Grundlagen

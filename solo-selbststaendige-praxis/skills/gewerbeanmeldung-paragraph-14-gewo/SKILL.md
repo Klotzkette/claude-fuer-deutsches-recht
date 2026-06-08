@@ -1,6 +1,6 @@
 ---
 name: gewerbeanmeldung-paragraph-14-gewo
-description: "Solo-Selbstständige: führt durch Anzeige nach § 14 GewO, Ummeldung und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: führt durch Anzeige nach § 14 GewO, Ummeldung und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Anmeldung und Behörden: Führt durch anzeige nach § 14 gewo

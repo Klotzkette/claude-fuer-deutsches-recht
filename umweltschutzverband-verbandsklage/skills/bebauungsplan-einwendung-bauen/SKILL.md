@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-einwendung-bauen
-description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Einwendung bauen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Bebauungsplan: Einwendung bauen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Bebauungsplan Einwendung Bauen

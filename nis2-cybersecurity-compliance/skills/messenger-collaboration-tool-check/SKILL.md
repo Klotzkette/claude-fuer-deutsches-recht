@@ -1,6 +1,6 @@
 ---
 name: messenger-collaboration-tool-check
-description: "Prüft Messenger und Chatkanäle für interne und externe Kommunikation im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Messenger und Chatkanäle für interne und externe Kommunikation im Nis2 Cybersecurity Compliance."
 ---
 
 # Messenger Collaboration Tool Check

@@ -1,6 +1,6 @@
 ---
 name: holdingmodell
-description: "Prüft Holding vor operativer Gesellschaft, Beteiligungen, Steuer-/Haftungs- und Governancefragen im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Holding vor operativer Gesellschaft, Beteiligungen, Steuer-/Haftungs- und Governancefragen im Gesellschaftsgruender."
 ---
 
 # Holdingmodell Gründer

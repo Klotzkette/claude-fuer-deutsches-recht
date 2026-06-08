@@ -1,6 +1,6 @@
 ---
 name: vollstreckung-stpo-biometrischer
-description: "Vollstreckung: Behörden-, Gerichts- oder Registerweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vollstreckung: Behörden-, Gerichts- oder Registerweg im Prozessrecht."
 ---
 
 # Vollstreckung: Behörden-, Gerichts- oder Registerweg

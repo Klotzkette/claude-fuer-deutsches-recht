@@ -1,19 +1,9 @@
 ---
 name: dma-dsa-dsgvo-fachanwalt-governance
-description: "DMA DSA DSGVO Fachanwalt Governance im Plugin Fachanwalt It Recht: prüft konkret DMA, DSA, DSGVO, Fachanwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DMA DSA DSGVO Fachanwalt Governance im Plugin Fachanwalt It Recht: prüft konkret DMA, DSA, DSGVO, Fachanwalt."
 ---
 
 # DMA DSA DSGVO Fachanwalt Governance
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-dma-compliance-dokumentation-und-akte` | DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dsa-zahlen-schwellen-und-berechnung` | DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dsgvo-behoerden-gericht-und-registerweg` | DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-governance-mandantenkommunikation-entscheidungsvorlage` | Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "DMA DSA DSGVO Fachanwalt Governance im Plugin Fachanwalt It Recht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-dma-compliance-dokumentation-und-akte`
 
-**Fokus:** DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht.
 
 ### DMA: Compliance-Dokumentation und Aktenvermerk
 
@@ -52,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-dsa-zahlen-schwellen-und-berechnung`
 
-**Fokus:** DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht.
 
 ### DSA: Zahlen, Schwellenwerte und Berechnung
 
@@ -88,7 +78,7 @@ Die "45-Mio-Schwelle" wird halbjährlich nach Methodik der EU-Kommission gemesse
 
 ## 3. `spezial-dsgvo-behoerden-gericht-und-registerweg`
 
-**Fokus:** DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht.
 
 ### DSGVO: Behörden-, Gerichts- oder Registerweg
 
@@ -131,7 +121,7 @@ Bei Schadensersatzklage Art. 82 DSGVO ist nach EuGH C-300/21 keine Erheblichkeit
 
 ## 4. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt it recht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -167,7 +157,7 @@ Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle 
 
 ## 5. `spezial-governance-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht.
 
 ### Governance: Mandantenkommunikation und Entscheidungsvorlage
 

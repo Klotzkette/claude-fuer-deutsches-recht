@@ -1,6 +1,6 @@
 ---
 name: bono-erstpruefung-und-mandatsziel
-description: "Bono: Erstprüfung, Rollenklärung und Mandatsziel; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bono: Erstprüfung, Rollenklärung und Mandatsziel im Rechtsberatungsstelle."
 ---
 
 # Bono: Erstprüfung, Rollenklärung und Mandatsziel

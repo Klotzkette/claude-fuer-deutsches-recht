@@ -1,19 +1,9 @@
 ---
 name: dokumentenstapel-sortieren-first-year
-description: "Dokumentenstapel Sortieren First Year im Miet- und Wohnungseigentumsrecht: prüft konkret Dokumentenstapel sortieren, First-Year-Associate-Coach Mietrecht, Fotobeweis-Mangel, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dokumentenstapel Sortieren First Year im Miet- und Wohnungseigentumsrecht: prüft konkret Dokumentenstapel sortieren, First-Year-Associate-Coach Mietrecht, Fotobeweis-Mangel, Fristen- und Risikoampel im Plugin."
 ---
 
 # Dokumentenstapel Sortieren First Year
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-dokumentenstapel-sortieren` | Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht; ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-first-year-associate-mietrecht` | First-Year-Associate-Coach Mietrecht: Prüfungslinie für Miet- und WEG-Recht; führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-fotobeweis-mangel` | Fotobeweis-Mangel: Prüfungslinie für Miet- und WEG-Recht; macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-fristenrettung-miet-weg` | Fristenrettung Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Dokumentenstapel Sortieren First Year im Miet- und Wohnungseigentu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-dokumentenstapel-sortieren`
 

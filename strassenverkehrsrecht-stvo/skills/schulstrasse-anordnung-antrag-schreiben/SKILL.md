@@ -1,6 +1,6 @@
 ---
 name: schulstrasse-anordnung-antrag-schreiben
-description: "StVO: Schulstraße: Anordnung angreifen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Schulstraße: Anordnung angreifen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Schulstrasse Anordnung Angreifen

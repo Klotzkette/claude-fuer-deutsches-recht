@@ -1,6 +1,6 @@
 ---
 name: netze-risikoampel-und-gegenargumente
-description: "Netze: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Netze: Risikoampel, Gegenargumente und Verteidigungslinien im Energierecht."
 ---
 
 # Netze: Risikoampel, Gegenargumente und Verteidigungslinien

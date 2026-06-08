@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung-einbehaltung-bezuege
-description: "Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131 im Bundeswehrrecht Wehrrecht."
 ---
 
 # Vorläufige Dienstenthebung und Einbehaltung von Bezügen

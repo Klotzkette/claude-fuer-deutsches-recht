@@ -1,6 +1,6 @@
 ---
 name: airtags-lkw-tracking
-description: "Prüft AirTags und Tracker an LKW, Werkzeugen und Assets im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AirTags und Tracker an LKW, Werkzeugen und Assets im Nis2 Cybersecurity Compliance."
 ---
 
 # Airtags Lkw Tracking

@@ -1,6 +1,6 @@
 ---
 name: schweinehaltung-strafrisiko-bewerten
-description: "Schweinehaltung: Strafrisiko bewerten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schweinehaltung: Strafrisiko bewerten im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Schweinehaltung Strafrisiko Bewerten

@@ -1,6 +1,6 @@
 ---
 name: haltverbot-risiko-erklaeren
-description: "StVO: Haltverbot: Risiko erklären im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Haltverbot: Risiko erklären im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Haltverbot Risiko Erklaeren

@@ -1,6 +1,6 @@
 ---
 name: selbstanzeige-mandat-risiko-rechtsprechungscheck
-description: "Steuerberater: selbstanzeige mandat risiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: selbstanzeige mandat risiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: selbstanzeige mandat risiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

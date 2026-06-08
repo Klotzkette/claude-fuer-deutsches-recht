@@ -1,6 +1,6 @@
 ---
 name: labor-antitrust-no-poach-global
-description: "Labor Antitrust No-Poach global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft No-Poach, Wage-Fixing, HR-Benchmarking und Arbeitsmarkt als Wettbewerbsproblem prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Labor Antitrust No-Poach global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft No-Poach, Wage-Fixing, HR-Benchmarking und Arbeitsmarkt als Wettbewerbsproblem prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Labor Antitrust No-Poach global

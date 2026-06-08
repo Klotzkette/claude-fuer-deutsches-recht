@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-ueberpruefungsantrag-sgbx
-description: "Laienhilfe Ueberpruefungsantrag Sgbx im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Vergleich, Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Ueberpruefungsantrag Sgbx im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Vergleich, Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente."
 ---
 
 # Laienhilfe Ueberpruefungsantrag Sgbx
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-ueberpruefungsantrag-44-sgbx` | Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-unfallversicherung-bg` | Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-vergleich-sozialgericht` | Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-verletztenrente` | Laienverstaendlicher Sozialrechts-Skill zu Verletztenrente. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Ueberpruefungsantrag Sgbx im Plugin Fachanwalt Sozialre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-ueberpruefungsantrag-44-sgbx`
 

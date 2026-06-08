@@ -1,15 +1,9 @@
 ---
 name: versionierung
-description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfueller."
 ---
 
 # VAF Versionierung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vaf-versionierung-aenderungsverfolgung-spezial` | Spezialfall Versionierung und Aenderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff. Pruefraster für Reviewteam. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "VAF Versionierung im Plugin Vertragsausfueller im Vertragsausfuell
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Vertragspartner, Rechtsabteilung, Notar bei Formerfordernis, Datenschutzbeauftragter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mustervertrag, Termsheet, Klauselkatalog, Altvertrag, Vertragsentwurf mit Track Changes, AGB-Prüfraster — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vaf-versionierung-aenderungsverfolgung-spezial`
 

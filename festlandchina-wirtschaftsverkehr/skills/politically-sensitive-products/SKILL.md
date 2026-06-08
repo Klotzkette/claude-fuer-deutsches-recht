@@ -1,6 +1,6 @@
 ---
 name: politically-sensitive-products
-description: "Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze bei Überwachungstechnik (Gesichtserkennung, IMSI-Catcher), Export nach XUAR/Tibet, chinesische Unreliable Entity List Gegenmaßnahmen, US-Export-Restriktionen Surveillance Tech, Reputation-Risiken bei Dual-Use-Überwachung, Compliance-Kontext Menschenrechte. Output: Politische Sensitivitätsprüfung und Export-Compliance-Memo im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze bei Überwachungstechnik (Gesichtserkennung, IMSI-Catcher), Export nach XUAR/Tibet, chinesische Unreliable Entity List Gegenmaßnahmen, US-Export-Restriktionen Surveillance Tech, Reputation-Risiken bei Dual-Use-Überwachung, Compliance-Kontext Menschenrechte. Output: Politische Sensitivitätsprüfung und Export-Compliance-Memo im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Politisch sensible Produkte China: Überwachungstechnik und Dual-Use

@@ -1,6 +1,6 @@
 ---
 name: notarielle-anmeldung
-description: "Bereitet Notartermin und Registeranmeldung für Gründung, Vorstand, Satzungsänderung und Auflösung vor im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Notartermin und Registeranmeldung für Gründung, Vorstand, Satzungsänderung und Auflösung vor im Vereinsrecht Vereinsmanager."
 ---
 
 # Notarielle Anmeldung

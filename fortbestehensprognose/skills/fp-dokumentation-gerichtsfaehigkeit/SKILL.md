@@ -1,6 +1,6 @@
 ---
 name: fp-dokumentation-gerichtsfaehigkeit
-description: "Spezialfall Dokumentation und Gerichtsfaehigkeit: was muss in der Akte, wann ist die Prognose strafrechts- und haftungsfest, Aktualisierung bei wesentlicher Aenderung. Standard für Auditoren-Akzeptanz und Insolvenzverwalter-Pruefung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Dokumentation und Gerichtsfaehigkeit: was muss in der Akte, wann ist die Prognose strafrechts- und haftungsfest, Aktualisierung bei wesentlicher Aenderung. Standard für Auditoren-Akzeptanz und Insolvenzverwalter-Pruefung im Fortbestehensprognose."
 ---
 
 # FP: Dokumentation-Gerichtsfaehigkeit

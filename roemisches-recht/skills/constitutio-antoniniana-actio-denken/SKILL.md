@@ -1,6 +1,6 @@
 ---
 name: constitutio-antoniniana-actio-denken
-description: "Constitutio Antoniniana 212 n. Chr.: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Constitutio Antoniniana 212 n. Chr.: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 153 Constitutio Antoniniana 212 Allgemeine Buergerrechtsverleihung

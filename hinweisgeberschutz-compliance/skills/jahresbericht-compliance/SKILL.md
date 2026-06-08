@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-compliance
-description: "Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschutz Compliance."
 ---
 
 # Jahresbericht Compliance

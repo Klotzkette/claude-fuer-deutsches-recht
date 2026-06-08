@@ -1,15 +1,9 @@
 ---
 name: zwv-zwangsversteigerung
-description: "ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvollstreckung."
 ---
 
 # ZWV Zwangsversteigerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zwv-zwangsversteigerung-grundstueck-spezial` | Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag. Pruefraster für Glaeubiger und Schuldner. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "ZWV Zwangsversteigerung im Plugin Zwangsvollstreckung im Zwangsvol
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zwv-zwangsversteigerung-grundstueck-spezial`
 

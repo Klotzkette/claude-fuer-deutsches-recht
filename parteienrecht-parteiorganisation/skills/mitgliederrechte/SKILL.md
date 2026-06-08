@@ -1,6 +1,6 @@
 ---
 name: mitgliederrechte
-description: "Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt im Parteienrecht."
 ---
 
 # Mitgliederrechte

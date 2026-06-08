@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-brief-vs-buchrecht-erklaerung
-description: "Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen im Grundbuchamt Praxis."
 ---
 
 # Briefrecht vs. Buchrecht erklären

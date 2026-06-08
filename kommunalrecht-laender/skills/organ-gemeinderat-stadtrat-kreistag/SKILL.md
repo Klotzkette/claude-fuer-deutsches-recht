@@ -1,6 +1,6 @@
 ---
 name: organ-gemeinderat-stadtrat-kreistag
-description: "Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ und Zuständigkeit prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Organ und Zuständigkeit prüfen. Organ und Zuständigkeit prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Organ Und Zuständigkeit Pruefen

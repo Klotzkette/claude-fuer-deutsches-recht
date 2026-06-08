@@ -1,17 +1,9 @@
 ---
 name: einstweilige-fachanwalt-kanzlei
-description: "Einstweilige Fachanwalt Kanzlei im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Einstweilige, Fachanwalt, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstweilige Fachanwalt Kanzlei im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Einstweilige, Fachanwalt, Kanzlei."
 ---
 
 # Einstweilige Fachanwalt Kanzlei
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-einstweilige-verhandlung-vergleich-und-eskalation` | Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-einstweilige-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht.
 
 ### Einstweilige: Verhandlung, Vergleich und Eskalation
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt verwaltungsrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-kanzlei-formular-portal-und-einreichung`
 
-**Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht.
 
 ### Kanzlei: Formular, Portal und Einreichungslogik
 

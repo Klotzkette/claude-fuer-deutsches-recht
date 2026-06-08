@@ -1,6 +1,6 @@
 ---
 name: ipsplan-cram-down-spezial
-description: "Spezialfall gruppenuebergreifender Cram-Down: Voraussetzungen, faire Beteiligung am Planwert, Vergleichsrechnung. Pruefraster für Planersteller im Insolvenzplan Starug Planwerkstatt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall gruppenuebergreifender Cram-Down: Voraussetzungen, faire Beteiligung am Planwert, Vergleichsrechnung. Pruefraster für Planersteller im Insolvenzplan Starug Planwerkstatt."
 ---
 
 # IPSPlan: Cram-Down

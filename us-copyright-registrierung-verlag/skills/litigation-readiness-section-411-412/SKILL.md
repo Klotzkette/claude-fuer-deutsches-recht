@@ -1,6 +1,6 @@
 ---
 name: litigation-readiness-section-411-412
-description: "Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel im Us Copyright Registrierung Verlag."
 ---
 
 # Litigation Readiness 411 und 412

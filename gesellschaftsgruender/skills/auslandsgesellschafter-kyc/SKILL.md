@@ -1,6 +1,6 @@
 ---
 name: auslandsgesellschafter-kyc
-description: "Prüft Gründung mit ausländischen Gesellschaftern: Dokumente, Apostille, Register, Sanktionen, UBO und Bank-KYC im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gründung mit ausländischen Gesellschaftern: Dokumente, Apostille, Register, Sanktionen, UBO und Bank-KYC im Gesellschaftsgruender."
 ---
 
 # Auslandsgesellschafter und KYC

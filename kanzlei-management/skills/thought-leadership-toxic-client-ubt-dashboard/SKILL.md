@@ -1,6 +1,6 @@
 ---
 name: thought-leadership-toxic-client-ubt-dashboard
-description: "Plant Alerts, Webinare, Beiträge und Mandantengespräche mit Nutzen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Alerts, Webinare, Beiträge und Mandantengespräche mit Nutzen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Thought Leadership Plan

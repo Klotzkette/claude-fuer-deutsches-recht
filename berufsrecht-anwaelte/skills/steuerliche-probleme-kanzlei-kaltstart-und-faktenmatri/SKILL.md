@@ -1,6 +1,6 @@
 ---
 name: steuerliche-probleme-kanzlei-kaltstart-und-faktenmatri
-description: "Anwälte: steuerliche probleme kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: steuerliche probleme kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: steuerliche probleme kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

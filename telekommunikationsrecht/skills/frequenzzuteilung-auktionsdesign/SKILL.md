@@ -1,6 +1,6 @@
 ---
 name: frequenzzuteilung-auktionsdesign
-description: "Frequenzzuteilung, Vergabeverfahren, Auktionsdesign, Versorgungsauflagen, Nebenbestimmungen und Rechtsschutz im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Frequenzzuteilung, Vergabeverfahren, Auktionsdesign, Versorgungsauflagen, Nebenbestimmungen und Rechtsschutz im Telekommunikationsrecht."
 ---
 
 # Frequenzzuteilung und Auktionen

@@ -1,17 +1,9 @@
 ---
 name: ausnahmen-streitwertgrenze-aussergerichtliche
-description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung am Amtsgericht: prüft konkret Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung am Amtsgericht: prüft konkret Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung."
 ---
 
 # Ausnahmen Streitwertgrenze Aussergerichtliche
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ausnahmen-streitwertgrenze-23-nr-2-gvg` | Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG. |
-| `aussergerichtliche-mahnung-286-bgb` | Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren. |
-| `beratungshilfe-aussergerichtlich-brh` | Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstigte Anwaltsberatung vor Gericht. Antrag beim Amtsgericht Berechtigungsschein Eigenanteil. Sinnvoll als Vorklaerung bevor Sie selbst klagen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ausnahmen-streitwertgrenze-23-nr-2-gvg`
 

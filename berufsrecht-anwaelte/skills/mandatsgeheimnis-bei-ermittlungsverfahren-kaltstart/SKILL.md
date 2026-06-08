@@ -1,6 +1,6 @@
 ---
 name: mandatsgeheimnis-bei-ermittlungsverfahren-kaltstart
-description: "Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

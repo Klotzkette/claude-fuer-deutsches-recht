@@ -1,6 +1,6 @@
 ---
 name: zweiter-staendeordnung-gemeinderecht
-description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern

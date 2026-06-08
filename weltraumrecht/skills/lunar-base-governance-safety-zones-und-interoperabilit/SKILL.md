@@ -1,6 +1,6 @@
 ---
 name: lunar-base-governance-safety-zones-und-interoperabilit
-description: "Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke im Weltraumrecht."
 ---
 
 # Weltraumrecht: Lunar Base Governance: Safety Zones und Interoperabilität

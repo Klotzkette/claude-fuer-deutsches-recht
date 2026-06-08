@@ -1,6 +1,6 @@
 ---
 name: haftpflichtfall-krankenhaus-gutachtenstrategie
-description: "Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer im Krankenhausrecht."
 ---
 
 # Haftpflichtfall Krankenhaus Gutachtenstrategie

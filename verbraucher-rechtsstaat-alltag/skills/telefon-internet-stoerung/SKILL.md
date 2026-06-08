@@ -1,6 +1,6 @@
 ---
 name: telefon-internet-stoerung
-description: "Telefon und Internet Störung: führt Laien durch Ausfall, Minderungsrechte, Technikertermine, Rufnummernportierung und Anbieterwechsel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Telefon und Internet Störung: führt Laien durch Ausfall, Minderungsrechte, Technikertermine, Rufnummernportierung und Anbieterwechsel. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Telefon und Internet Störung

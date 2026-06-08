@@ -1,6 +1,6 @@
 ---
 name: musterungsbescheid-bestandskraft
-description: "Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Bestandskräftiger Musterungsbescheid

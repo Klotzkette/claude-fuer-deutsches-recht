@@ -1,6 +1,6 @@
 ---
 name: satzungsaenderung-partei-satzungsautonomie
-description: "Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, Protokoll, Anzeige und Folgeänderungen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, Protokoll, Anzeige und Folgeänderungen im Parteienrecht."
 ---
 
 # Satzungsänderung Partei

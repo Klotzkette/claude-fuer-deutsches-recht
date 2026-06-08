@@ -1,6 +1,6 @@
 ---
 name: payment-fraud-bec
-description: "Prüft Business Email Compromise und Zahlungsprozesskontrollen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Business Email Compromise und Zahlungsprozesskontrollen im Nis2 Cybersecurity Compliance."
 ---
 
 # Payment Fraud Bec

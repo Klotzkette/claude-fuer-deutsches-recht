@@ -1,6 +1,6 @@
 ---
 name: registerrecht-registergericht-telefonat-protokoll
-description: "Erstellt kurze Telefonnotiz mit Name, Aktenzeichen, Beanstandung, Frist, Zusage und Folgeschritt im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt kurze Telefonnotiz mit Name, Aktenzeichen, Beanstandung, Frist, Zusage und Folgeschritt im Handelsregister Praxis."
 ---
 
 # Registertelefonat protokollieren

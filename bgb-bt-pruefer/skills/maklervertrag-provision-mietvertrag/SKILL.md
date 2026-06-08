@@ -1,6 +1,6 @@
 ---
 name: maklervertrag-provision-mietvertrag
-description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip im BGB BT."
 ---
 
 # Maklervertrag und Provision §§ 652 ff. BGB

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-ombudsmann-beschwerdestrategie
-description: "PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzungen, Entscheidungswirkung und strategische Einbindung in die Rechtsdurchsetzung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzungen, Entscheidungswirkung und strategische Einbindung in die Rechtsdurchsetzung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PKV-Ombudsmann und Beschwerdestrategie

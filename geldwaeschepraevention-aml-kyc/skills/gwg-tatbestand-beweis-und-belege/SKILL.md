@@ -1,6 +1,6 @@
 ---
 name: gwg-tatbestand-beweis-und-belege
-description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
 ---
 
 # GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: refusal-reconsideration-escalation
-description: "Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen im Us Copyright Registrierung Verlag."
 ---
 
 # Refusal, Reconsideration und Eskalation

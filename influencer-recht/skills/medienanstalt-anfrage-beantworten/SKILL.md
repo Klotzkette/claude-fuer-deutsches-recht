@@ -1,6 +1,6 @@
 ---
 name: medienanstalt-anfrage-beantworten
-description: "Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie im Influencer-Recht."
 ---
 
 # Influencer-Recht: Landesmedienanstalt – Anfrage beantworten

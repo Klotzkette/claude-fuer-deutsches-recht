@@ -1,6 +1,6 @@
 ---
 name: bridge-round-inside-round
-description: "Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Bridge Round und Inside Round

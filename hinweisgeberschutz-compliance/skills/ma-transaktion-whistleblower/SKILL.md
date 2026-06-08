@@ -1,6 +1,6 @@
 ---
 name: ma-transaktion-whistleblower
-description: "Steuert Whistleblower-Risiken in Transaktionen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Whistleblower-Risiken in Transaktionen im Hinweisgeberschutz Compliance."
 ---
 
 # Ma Transaktion Whistleblower

@@ -1,6 +1,6 @@
 ---
 name: pkv-krankentagegeld-berufsunfaehigkeit-und-arbeitsunfaehi
-description: "PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PKV-Krankentagegeld: Berufsunfähigkeit und Arbeitsunfähigkeit

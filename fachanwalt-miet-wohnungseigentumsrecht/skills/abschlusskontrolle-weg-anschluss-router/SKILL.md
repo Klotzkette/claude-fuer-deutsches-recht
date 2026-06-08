@@ -1,19 +1,9 @@
 ---
 name: abschlusskontrolle-weg-anschluss-router
-description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigentumsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und, Abschlusskontrolle Miet/WEG, Anschluss-Skills Router im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigentumsrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und, Abschlusskontrolle Miet/WEG, Anschluss-Skills Router im Plugin."
 ---
 
 # Abschlusskontrolle WEG Anschluss Router
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills. |
-| `workflow-abschlusskontrolle-miet-weg` | Abschlusskontrolle Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
-| `workflow-balkonkraftwerk-solar` | Balkonkraftwerk und Solar: Prüfungslinie für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-barrierefreiheit-weg-miete` | Barrierefreiheit in Miete/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Abschlusskontrolle WEG Anschluss Router im Miet- und Wohnungseigen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `allgemein`
 

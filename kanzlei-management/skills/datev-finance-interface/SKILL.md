@@ -1,6 +1,6 @@
 ---
 name: datev-finance-interface
-description: "Bereitet Konten, Kostenstellen, Eingangs-/Ausgangsrechnungen und Klärfälle vor. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Konten, Kostenstellen, Eingangs-/Ausgangsrechnungen und Klärfälle vor. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # DATEV Finance Interface

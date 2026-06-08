@@ -1,6 +1,6 @@
 ---
 name: rechtsbeschwerde-pruefen
-description: "Ordnungswidrigkeitenrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Rechtsbeschwerde Pruefen

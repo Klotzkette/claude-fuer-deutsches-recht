@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-sachsen-schleswig
-description: "Prüft Hochschulrecht in Sachsen-Anhalt mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulrecht in Sachsen-Anhalt mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
 ---
 
 # Hochschulgesetz Sachsen Anhalt

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Prüfungslinie für vergleichsverhandlung strategie im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für vergleichsverhandlung strategie im Steuerrecht Anwalt Und Berater."
 ---
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)

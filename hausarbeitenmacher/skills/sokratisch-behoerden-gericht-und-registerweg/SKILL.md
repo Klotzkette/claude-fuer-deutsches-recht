@@ -1,6 +1,6 @@
 ---
 name: sokratisch-behoerden-gericht-und-registerweg
-description: "Sokratisch: Behörden-, Gerichts- oder Registerweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sokratisch: Behörden-, Gerichts- oder Registerweg im Hausarbeitenmacher."
 ---
 
 # Sokratisch: Behörden-, Gerichts- oder Registerweg

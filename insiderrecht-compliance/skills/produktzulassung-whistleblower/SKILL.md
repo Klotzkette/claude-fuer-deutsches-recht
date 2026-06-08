@@ -1,6 +1,6 @@
 ---
 name: produktzulassung-whistleblower
-description: "Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc im Insiderrecht Compliance."
 ---
 
 # Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen

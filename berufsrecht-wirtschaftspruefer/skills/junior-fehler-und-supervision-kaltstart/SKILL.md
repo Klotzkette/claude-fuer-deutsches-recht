@@ -1,6 +1,6 @@
 ---
 name: junior-fehler-und-supervision-kaltstart
-description: "Wirtschaftsprüfer: junior fehler und supervision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: junior fehler und supervision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: junior fehler und supervision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

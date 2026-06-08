@@ -1,6 +1,6 @@
 ---
 name: bedarfswehrpflicht-wpflg-2a
-description: "Hält das Plugin anschlussfähig an aktivierte Bedarfswehrpflicht im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hält das Plugin anschlussfähig an aktivierte Bedarfswehrpflicht im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Bedarfswehrpflicht § 2a WPflG

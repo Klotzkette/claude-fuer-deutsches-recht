@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-vorlage-zustimmungsantrag
-description: "Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung im Erbbaurecht Praxis."
 ---
 
 # Zustimmungsantrag

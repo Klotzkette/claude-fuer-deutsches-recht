@@ -1,19 +1,9 @@
 ---
 name: sanity-check-sozialleistungen-uebersicht
-description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am Sozialgericht: prüft konkret Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am Sozialgericht: prüft konkret Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme."
 ---
 
 # Sanity Check Sozialleistungen Uebersicht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreiheit, PKH und rote Flaggen. |
-| `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
-| `teilstattgabe-vollstattgabe-verstehen` | Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen. |
-| `terminvorbereitung-laien-checkliste-sozialgericht` | Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen. |
-| `typische-fehler-selbstvertreter-sozialgericht` | Die häufigsten Fehler von Buergern ohne Anwalt vor dem SG. Frist Form Belege Antrag. Liste der Stolpersteine und wie Sie sie vermeiden. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am So
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `sanity-check-selbstvertretung-sozialgericht`
 

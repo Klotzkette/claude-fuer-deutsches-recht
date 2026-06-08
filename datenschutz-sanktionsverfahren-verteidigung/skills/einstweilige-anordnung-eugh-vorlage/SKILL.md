@@ -1,18 +1,9 @@
 ---
 name: einstweilige-anordnung-eugh-vorlage
-description: "Einstweilige Anordnung Eugh Vorlage im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Einstweilige Anordnung § 123 VwGO, EuGH-Vorlagefragen entwickeln, Gerichtstermin-Sprechzettel, Finanzieller Vorteil und Gewinnabschöpfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einstweilige Anordnung Eugh Vorlage im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Einstweilige Anordnung § 123 VwGO, EuGH-Vorlagefragen entwickeln, Gerichtstermin-Sprechzettel, Finanzieller Vorteil und Gewinnabschöpfung."
 ---
 
 # Einstweilige Anordnung Eugh Vorlage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `einstweilige-anordnung-123-vwgo-datenschutz` | Einstweilige Anordnung § 123 VwGO: Vorläufigen Rechtsschutz bei Untätigkeit, Duldung, Datenfreigabe oder nicht klassischer Anfechtung gestalten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `eugh-vorlage-art-267` | EuGH-Vorlagefragen entwickeln: Vorlagefragen zu Art. 83, Umsatzbegriff, Verfahrensgarantien, Art. 58 und Grundrechtecharta formulieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `gerichtstermin-sprechzettel` | Gerichtstermin-Sprechzettel: Hauptverhandlung oder Erörterungstermin mit Rollen, Beweisthemen, Anträgen und Sprechzetteln vorbereiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `gewinnabschoepfung-und-finanzieller-vorteil` | Finanzieller Vorteil und Gewinnabschöpfung: Vorteile, Kostenersparnis, Kausalität, Schätzung und Gegenrechnung mit Remediation-Kosten prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Einstweilige Anordnung Eugh Vorlage im Datenschutz-Sanktionsverfah
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `einstweilige-anordnung-123-vwgo-datenschutz`
 

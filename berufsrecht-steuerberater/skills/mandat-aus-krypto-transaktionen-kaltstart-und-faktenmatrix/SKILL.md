@@ -1,6 +1,6 @@
 ---
 name: mandat-aus-krypto-transaktionen-kaltstart-und-faktenmatrix
-description: "Steuerberater: mandat aus krypto transaktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: mandat aus krypto transaktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: mandat aus krypto transaktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

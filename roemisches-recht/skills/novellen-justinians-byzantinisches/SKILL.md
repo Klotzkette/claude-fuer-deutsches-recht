@@ -1,6 +1,6 @@
 ---
 name: novellen-justinians-byzantinisches
-description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Römisches Recht."
 ---
 
 # Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki

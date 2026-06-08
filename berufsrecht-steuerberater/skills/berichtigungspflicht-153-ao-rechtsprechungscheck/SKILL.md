@@ -1,6 +1,6 @@
 ---
 name: berichtigungspflicht-153-ao-rechtsprechungscheck
-description: "Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

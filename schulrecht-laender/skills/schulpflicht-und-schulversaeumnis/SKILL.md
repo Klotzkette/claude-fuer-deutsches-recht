@@ -1,6 +1,6 @@
 ---
 name: schulpflicht-und-schulversaeumnis
-description: "Prüft Schulpflicht, Fehlzeiten, Atteste, Bußgeld, Jugendamt und Eskalation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulpflicht, Fehlzeiten, Atteste, Bußgeld, Jugendamt und Eskalation im Schulrecht Länder."
 ---
 
 # Schulpflicht Und Schulversaeumnis

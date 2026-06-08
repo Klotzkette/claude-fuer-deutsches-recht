@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-arzt-bankkonto
-description: "Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunikation mit Ärzten, Krankenhaus, Heim, Pflegedienst, Pflegekasse und Sozialleistungsträgern; Wunschermittlung und Datenschutz im Betreuungsrecht."
 ---
 
 # Familienbetreuer: Arzt, Heim, Pflegekasse

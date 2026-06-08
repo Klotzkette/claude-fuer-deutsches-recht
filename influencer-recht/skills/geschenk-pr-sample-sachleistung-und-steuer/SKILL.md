@@ -1,6 +1,6 @@
 ---
 name: geschenk-pr-sample-sachleistung-und-steuer
-description: "Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – steuerliche Bewertung, Kennzeichnungspflicht, Abgrenzung Schenkung vs. Gegenleistung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – steuerliche Bewertung, Kennzeichnungspflicht, Abgrenzung Schenkung vs. Gegenleistung im Influencer-Recht."
 ---
 
 # Influencer-Recht: Geschenk, PR-Sample, Sachleistung und Steuer

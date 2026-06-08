@@ -1,6 +1,6 @@
 ---
 name: 005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun
-description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung im Römisches Recht."
 ---
 
 # Rom Zwoelftafelrecht Schuldhaft Nexum Und Soziale Ordnun

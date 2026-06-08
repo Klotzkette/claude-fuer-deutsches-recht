@@ -1,17 +1,9 @@
 ---
 name: orientierung-schufa-eintrag
-description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa."
 ---
 
 # Orientierung Schufa Eintrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarkt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-orientierung`
 

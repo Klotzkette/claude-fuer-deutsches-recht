@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-russlandbezug-kaltstart-und-fakte
-description: "Patentanwälte: sanktionen und russlandbezug - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: sanktionen und russlandbezug - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: sanktionen und russlandbezug - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

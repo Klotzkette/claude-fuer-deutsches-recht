@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-fenster-tueren-anschluss
-description: "Bauueberwachung HOAI LPH 8 für Fenster- und Tuereinbauten — Kontrolle Einbauanschluss nach RAL-Leitfaden Fenstereinbau 3-Ebenen-Konzept aussen schlagregensDicht-innen dampfdicht, Fensterbank- und Sturzdichtung, Befestigungsnachweis Rahmendubel nach EN 14592, Schallschutz-Einbauprotokoll nach DIN 4109, einbruchhemmende Verglasung nach RC-Klassen sowie Aufmass und Abnahme mit Blower-Door-Messung nach DIN EN ISO 9972 im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Fenster- und Tuereinbauten — Kontrolle Einbauanschluss nach RAL-Leitfaden Fenstereinbau 3-Ebenen-Konzept aussen schlagregensDicht-innen dampfdicht, Fensterbank- und Sturzdichtung, Befestigungsnachweis Rahmendubel nach EN 14592, Schallschutz-Einbauprotokoll nach DIN 4109, einbruchhemmende Verglasung nach RC-Klassen sowie Aufmass und Abnahme mit Blower-Door-Messung nach DIN EN ISO 9972 im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Fenster und Tueren Einbauanschluss

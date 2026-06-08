@@ -1,6 +1,6 @@
 ---
 name: ki-generierte-inhalte-kennzeichnung
-description: "Solo-Selbstständige: ordnet KI-Content, Urheberrecht, Transparenz und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: ordnet KI-Content, Urheberrecht, Transparenz und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Marketing E-Commerce und Plattformen: Ordnet ki-content

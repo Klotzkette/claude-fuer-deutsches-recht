@@ -1,6 +1,6 @@
 ---
 name: registerrecht-fehlende-einzahlung-fehlerhafte
-description: "Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Geschäftsführerversicherung, Kontoauszug, Hin- und Herzahlen, verdeckte Sacheinlage und Haftungsnotiz im Handelsregister Praxis."
 ---
 
 # Einzahlungsrisiko Stammkapital

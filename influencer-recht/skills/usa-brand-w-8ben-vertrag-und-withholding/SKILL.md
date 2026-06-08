@@ -1,6 +1,6 @@
 ---
 name: usa-brand-w-8ben-vertrag-und-withholding
-description: "Influencer-Recht: US-Brand-Kooperation – W-8BEN, Withholding Tax, Vertragsrecht, DE-USt und DSGVO bei US-Transfers im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: US-Brand-Kooperation – W-8BEN, Withholding Tax, Vertragsrecht, DE-USt und DSGVO bei US-Transfers im Influencer-Recht."
 ---
 
 # Influencer-Recht: USA-Brand – W-8BEN, Vertrag und Withholding

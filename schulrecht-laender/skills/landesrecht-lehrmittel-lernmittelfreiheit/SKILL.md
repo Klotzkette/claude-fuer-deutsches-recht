@@ -1,6 +1,6 @@
 ---
 name: landesrecht-lehrmittel-lernmittelfreiheit
-description: "Routet jeden Schulfall zuerst in das richtige Bundesland und die richtige Normebene im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet jeden Schulfall zuerst in das richtige Bundesland und die richtige Normebene im Schulrecht Länder."
 ---
 
 # Landesrecht Router

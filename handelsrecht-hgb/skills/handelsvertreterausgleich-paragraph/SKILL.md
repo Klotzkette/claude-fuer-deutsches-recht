@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterausgleich-paragraph
-description: "Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse im Handelsrecht Hgb."
 ---
 
 # Handelsvertreterausgleich § 89b HGB

@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-netzanschluss-strom-stellungnahme-entwu
-description: "Netzanschluss Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Netzanschluss Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Netzanschluss Strom — Stellungnahme-Entwurf

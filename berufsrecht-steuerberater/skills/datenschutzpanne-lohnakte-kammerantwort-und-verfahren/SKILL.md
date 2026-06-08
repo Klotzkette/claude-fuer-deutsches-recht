@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-lohnakte-kammerantwort-und-verfahren
-description: "Steuerberater: datenschutzpanne lohnakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: datenschutzpanne lohnakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: datenschutzpanne lohnakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

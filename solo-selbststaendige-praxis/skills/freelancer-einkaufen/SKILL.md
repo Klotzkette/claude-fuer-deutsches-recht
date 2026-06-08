@@ -1,6 +1,6 @@
 ---
 name: freelancer-einkaufen
-description: "Solo-Selbstständige: erstellt Subunternehmer-Check mit Rechtekette und Statusrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt Subunternehmer-Check mit Rechtekette und Statusrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt subunternehmer-check mit rechtekette und statusrisiko

@@ -1,6 +1,6 @@
 ---
 name: dienstzeit-soldat-auf-zeit-berufssoldat-fwdl
-description: "Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32 im Bundeswehrrecht Wehrrecht."
 ---
 
 # Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL

@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-roadmap-rolle
-description: "Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
 ---
 
 # Pruefung: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: vara-visual-verlags-batchplan-versand
-description: "Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen im Us Copyright Registrierung Verlag."
 ---
 
 # VARA Visual Artists Rights

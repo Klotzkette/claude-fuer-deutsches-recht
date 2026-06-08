@@ -1,6 +1,6 @@
 ---
 name: influencer-content-creator
-description: "Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK im Sozialversicherungsstatus Pruefer."
 ---
 
 # Influencer und Content Creator

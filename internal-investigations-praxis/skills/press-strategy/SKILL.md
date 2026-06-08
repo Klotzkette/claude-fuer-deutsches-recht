@@ -1,6 +1,6 @@
 ---
 name: press-strategy
-description: "Entwickelt die Pressestrategie bei Internal Investigations – Ad-hoc-Pflicht, Reputationsmanagement, Medienanfragen und Krisenkommunikation im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt die Pressestrategie bei Internal Investigations – Ad-hoc-Pflicht, Reputationsmanagement, Medienanfragen und Krisenkommunikation im Internal Investigations Praxis."
 ---
 
 # Pressestrategie und Krisenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: kanzleiorganisation
-description: "Kanzleiorganisation: vertiefter Berufsrechts-Skill für Notare; prüft Kanzleiorganisation im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzleiorganisation: vertiefter Berufsrechts-Skill für Notare; prüft Kanzleiorganisation im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Kanzleiorganisation

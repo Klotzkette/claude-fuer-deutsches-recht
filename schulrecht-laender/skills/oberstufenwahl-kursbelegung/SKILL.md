@@ -1,6 +1,6 @@
 ---
 name: oberstufenwahl-kursbelegung
-description: "Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen im Schulrecht Länder."
 ---
 
 # Oberstufenwahl und Kursbelegung

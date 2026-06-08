@@ -1,6 +1,6 @@
 ---
 name: kleine-dienstleistung-schlecht
-description: "Kleine Dienstleistung schlecht: führt Laien durch Friseur, Reinigung, Coaching, Nachhilfe, Fotoauftrag oder Umzug als kleiner Dienst-/Werkvertrag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kleine Dienstleistung schlecht: führt Laien durch Friseur, Reinigung, Coaching, Nachhilfe, Fotoauftrag oder Umzug als kleiner Dienst-/Werkvertrag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Kleine Dienstleistung schlecht

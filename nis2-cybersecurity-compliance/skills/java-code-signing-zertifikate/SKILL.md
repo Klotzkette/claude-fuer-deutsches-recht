@@ -1,6 +1,6 @@
 ---
 name: java-code-signing-zertifikate
-description: "Prüft Java-Code-Signing und Zertifikatsmanagement im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Java-Code-Signing und Zertifikatsmanagement im Nis2 Cybersecurity Compliance."
 ---
 
 # Java Code Signing Zertifikate

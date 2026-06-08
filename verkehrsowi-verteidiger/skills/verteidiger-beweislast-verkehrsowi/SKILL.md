@@ -1,6 +1,6 @@
 ---
 name: verteidiger-beweislast-verkehrsowi
-description: "Verteidiger: Beweislast, Darlegungslast und Substantiierung im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verteidiger: Beweislast, Darlegungslast und Substantiierung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Verteidiger: Beweislast, Darlegungslast und Substantiierung

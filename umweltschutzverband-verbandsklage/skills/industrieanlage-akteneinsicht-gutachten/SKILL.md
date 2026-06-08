@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-akteneinsicht-gutachten
-description: "Umweltschutzverband Verbandsklage: Industrieanlage: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Industrieanlage: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Industrieanlage Akteneinsicht Erzwinge

@@ -1,6 +1,6 @@
 ---
 name: agenturvertrag-exklusivitaet-foto
-description: "Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Agenturvertrag für Creator – Exklusivitätsklauseln, Provisionssätze, Vertragslaufzeit, ordentliche und außerordentliche Kündigung im Influencer-Recht."
 ---
 
 # Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung

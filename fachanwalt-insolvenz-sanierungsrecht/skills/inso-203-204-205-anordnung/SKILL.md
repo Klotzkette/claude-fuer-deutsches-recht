@@ -1,6 +1,6 @@
 ---
 name: inso-203-204-205-anordnung
-description: "Inso P203 Anordnung P204 Rechtsmittel P205 im Insolvenz- und Sanierungsrecht: prüft konkret § 203 InsO (Anordnung der Nachtragsverteilung) im Mandat, § 204 InsO (Rechtsmittel) im Mandat prüfen, § 205 InsO (Vollzug der Nachtragsverteilung) im Mandat, § 206 InsO (Ausschluß von Massegläubigern) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P203 Anordnung P204 Rechtsmittel P205 im Insolvenz- und Sanierungsrecht: prüft konkret § 203 InsO (Anordnung der Nachtragsverteilung) im Mandat, § 204 InsO (Rechtsmittel) im Mandat prüfen, § 205 InsO (Vollzug der Nachtragsverteilung) im Mandat, § 206 InsO (Ausschluß von Massegläubigern) im Mandat prüfen."
 ---
 
 # Inso P203 Anordnung P204 Rechtsmittel P205
@@ -8,32 +8,6 @@ description: "Inso P203 Anordnung P204 Rechtsmittel P205 im Insolvenz- und Sanie
 ## Arbeitsbereich
 
 **Inso P203 Anordnung P204 Rechtsmittel P205** ordnet den Fall über die tragenden Prüfungslinien: § 203 InsO (Anordnung der Nachtragsverteilung) im Mandat, § 204 InsO (Rechtsmittel) im Mandat prüfen, § 205 InsO (Vollzug der Nachtragsverteilung) im Mandat. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p203-anordnung-der-nachtragsverteilung` | § 203 InsO (Anordnung der Nachtragsverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p204-rechtsmittel` | § 204 InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p205-vollzug-der-nachtragsverteilung` | § 205 InsO (Vollzug der Nachtragsverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p206-ausschluss-von-masseglaubigern` | § 206 InsO (Ausschluß von Massegläubigern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p207-einstellung-mangels-masse` | § 207 InsO (Einstellung mangels Masse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p208-anzeige-der-masseunzulanglichkeit` | § 208 InsO (Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p209-befriedigung-der-masseglaubiger` | § 209 InsO (Befriedigung der Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p210-vollstreckungsverbot` | § 210 InsO (Vollstreckungsverbot) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p210a-insolvenzplan-bei-masseunzulanglichkeit` | § 210a InsO (Insolvenzplan bei Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p211-einstellung-nach-anzeige-der-masseunzulanglichkeit` | § 211 InsO (Einstellung nach Anzeige der Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p212-einstellung-wegen-wegfalls-des-eroffnungsgrunds` | § 212 InsO (Einstellung wegen Wegfalls des Eröffnungsgrunds) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p213-einstellung-mit-zustimmung-der-glaubiger` | § 213 InsO (Einstellung mit Zustimmung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p215-bekanntmachung-und-wirkungen-der-einstellung` | § 215 InsO (Bekanntmachung und Wirkungen der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p216-rechtsmittel` | § 216 InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p217-grundsatz` | § 217 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p218-vorlage-des-insolvenzplans` | § 218 InsO (Vorlage des Insolvenzplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p219-gliederung-des-plans` | § 219 InsO (Gliederung des Plans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p220-darstellender-teil` | § 220 InsO (Darstellender Teil) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p221-gestaltender-teil` | § 221 InsO (Gestaltender Teil) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p222-bildung-von-gruppen` | § 222 InsO (Bildung von Gruppen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p223-rechte-der-absonderungsberechtigten` | § 223 InsO (Rechte der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P203 Anordnung P204 Rechtsmittel P205 im Insolvenz- und Sanie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p203-anordnung-der-nachtragsverteilung`
 

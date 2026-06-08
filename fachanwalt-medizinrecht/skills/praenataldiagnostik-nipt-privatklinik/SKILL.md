@@ -1,16 +1,9 @@
 ---
 name: praenataldiagnostik-nipt-privatklinik
-description: "Praenataldiagnostik Nipt Privatklinik im Medizinrecht: prüft konkret Pränataldiagnostik und NIPT, Privatklinik Paketpreis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Praenataldiagnostik Nipt Privatklinik im Medizinrecht: prüft konkret Pränataldiagnostik und NIPT, Privatklinik Paketpreis."
 ---
 
 # Praenataldiagnostik Nipt Privatklinik
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `praenataldiagnostik-nipt` | Pränataldiagnostik und NIPT: moderner Medizinrechts-Skill für Nichtinvasive Pränataltests, Aufklärung, Beratung, Kostenerstattung und Konfliktlagen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `privatklinik-paketpreis` | Privatklinik Paketpreis: moderner Medizinrechts-Skill für Pauschalangebot, GOÄ, Wahlleistung, IGeL, Kostentransparenz und Rückforderung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Praenataldiagnostik Nipt Privatklinik im Medizinrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `praenataldiagnostik-nipt`
 

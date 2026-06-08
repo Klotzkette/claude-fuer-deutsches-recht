@@ -1,6 +1,6 @@
 ---
 name: sonderkuendigung-bgb-650r
-description: "HOAI-Praxis: prüft Sonderkündigungsrecht nach Planungsgrundlage und Belehrung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Sonderkündigungsrecht nach Planungsgrundlage und Belehrung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundlage und belehrung

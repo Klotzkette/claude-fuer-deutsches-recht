@@ -1,6 +1,6 @@
 ---
 name: anti-satellite-test-ban-und-orbital-debris-pledge
-description: "Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen für Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit im Weltraumrecht."
 ---
 
 # Anti-Satellite-Test-Ban und Orbital-Debris-Pledge

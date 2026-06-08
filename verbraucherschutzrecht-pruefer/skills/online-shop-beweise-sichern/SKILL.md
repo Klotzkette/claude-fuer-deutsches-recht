@@ -1,6 +1,6 @@
 ---
 name: online-shop-beweise-sichern
-description: "Prüfer: Online-Shop: Beweise sichern im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfer: Online-Shop: Beweise sichern im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Online Shop Beweise Sichern

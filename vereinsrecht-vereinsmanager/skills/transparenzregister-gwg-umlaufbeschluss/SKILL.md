@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-gwg-umlaufbeschluss
-description: "Prüft Transparenzregisterdaten, wirtschaftlich Berechtigte, Registerabgleich und Meldepflichten im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Transparenzregisterdaten, wirtschaftlich Berechtigte, Registerabgleich und Meldepflichten im Vereinsrecht Vereinsmanager."
 ---
 
 # Transparenzregister und GwG

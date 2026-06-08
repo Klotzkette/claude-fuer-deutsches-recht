@@ -1,17 +1,9 @@
 ---
 name: fahrerlaubnis-kanzlei-personen
-description: "Fahrerlaubnis Kanzlei Personen im Plugin Fachanwalt Verkehrsrecht: prüft konkret Fahrerlaubnis, Kanzlei, Personen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fahrerlaubnis Kanzlei Personen im Plugin Fachanwalt Verkehrsrecht: prüft konkret Fahrerlaubnis, Kanzlei, Personen."
 ---
 
 # Fahrerlaubnis Kanzlei Personen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-fahrerlaubnis-compliance-dokumentation-und-akte` | Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-mandantenkommunikation-entscheidungsvorlage` | Kanzlei: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-personen-verhandlung-vergleich-und-eskalation` | Personen: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-fahrerlaubnis-compliance-dokumentation-und-akte`
 
-**Fokus:** Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verkehrsrecht.
 
 ### Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kanzlei-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Kanzlei: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verkehrsrecht.
 
 ### Kanzlei: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-personen-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Personen: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Personen: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verkehrsrecht.
 
 ### Personen: Verhandlung, Vergleich und Eskalation
 

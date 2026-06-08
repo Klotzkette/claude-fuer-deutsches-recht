@@ -1,6 +1,6 @@
 ---
 name: gerichtsladung-zeuge
-description: "Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels im Bürokratie-Entbürokratisierung."
 ---
 
 # Gerichtsladung als Zeuge

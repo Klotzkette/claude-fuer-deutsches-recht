@@ -1,6 +1,6 @@
 ---
 name: international-eu-verbraucherrecht-intake
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake im Ecommerce Recht."
 ---
 
 # International EU Verbraucherrecht Intake

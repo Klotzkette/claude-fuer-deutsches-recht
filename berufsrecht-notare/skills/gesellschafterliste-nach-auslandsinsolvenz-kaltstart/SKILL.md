@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-nach-auslandsinsolvenz-kaltstart
-description: "Notare: gesellschafterliste nach auslandsinsolvenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: gesellschafterliste nach auslandsinsolvenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

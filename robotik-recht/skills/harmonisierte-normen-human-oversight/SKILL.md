@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-human-oversight
-description: "Plant Normenrecherche zu industrieller Robotik, kollaborierenden Robotern, Sicherheitsfunktionen und Stand der Technik im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Normenrecherche zu industrieller Robotik, kollaborierenden Robotern, Sicherheitsfunktionen und Stand der Technik im Robotik-Recht."
 ---
 
 # Harmonisierte Normen und ISO/TS 15066

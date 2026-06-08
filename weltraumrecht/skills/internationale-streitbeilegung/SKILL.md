@@ -1,6 +1,6 @@
 ---
 name: internationale-streitbeilegung
-description: "Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht im Weltraumrecht."
 ---
 
 # Weltraumrecht: Internationale Streitbeilegung: Diplomatischer Schutz

@@ -1,17 +1,9 @@
 ---
 name: normenkontrolle-ordnungsrecht-interessen
-description: "Normenkontrolle Ordnungsrecht Interessen im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Normenkontrolle, Ordnungsrecht, Orientierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Normenkontrolle Ordnungsrecht Interessen im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Normenkontrolle, Ordnungsrecht, Orientierung."
 ---
 
 # Normenkontrolle Ordnungsrecht Interessen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-normenkontrolle-zahlen-schwellen-und-berechnung` | Normenkontrolle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-ordnungsrecht-mehrparteien-konflikt-und-interessen` | Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-normenkontrolle-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Normenkontrolle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Normenkontrolle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verwaltungsrecht.
 
 ### Normenkontrolle: Zahlen, Schwellenwerte und Berechnung
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-ordnungsrecht-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verwaltungsrecht.
 
 ### Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-orientierung-sonderfall-und-edge-case`
 
-**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verwaltungsrecht.
 
 ### Orientierung: Sonderfall und Edge-Case-Prüfung
 

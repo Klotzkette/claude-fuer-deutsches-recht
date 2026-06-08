@@ -1,6 +1,6 @@
 ---
 name: beweisplan-messung-stoerung-protokoll
-description: "Technischer Beweisplan für TK-Streit: Breitbandmessung, Ausfallprotokoll, Routerlogs, Technikertermine, Fotos, Tickets, SLA und Zeugen im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technischer Beweisplan für TK-Streit: Breitbandmessung, Ausfallprotokoll, Routerlogs, Technikertermine, Fotos, Tickets, SLA und Zeugen im Telekommunikationsrecht."
 ---
 
 # Beweisplan: Messung, Störung, Protokoll

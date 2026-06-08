@@ -1,6 +1,6 @@
 ---
 name: lagergeschaeft-paragraphen-maengelruege
-description: "Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht im Handelsrecht Hgb."
 ---
 
 # Lagergeschäft §§ 467 ff. HGB

@@ -1,6 +1,6 @@
 ---
 name: kundenvertrag-b2b
-description: "Solo-Selbstständige: prüft Haftung, Nutzungsrechte, Verzug, Kündigung, Change Requests und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Haftung, Nutzungsrechte, Verzug, Kündigung, Change Requests und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Verträge und AGB: Prüft haftung

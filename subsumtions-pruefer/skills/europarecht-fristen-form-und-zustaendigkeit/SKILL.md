@@ -1,6 +1,6 @@
 ---
 name: europarecht-fristen-form-und-zustaendigkeit
-description: "Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg im Subsumtions Pruefer."
 ---
 
 # Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg

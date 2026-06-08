@@ -1,6 +1,6 @@
 ---
 name: miturheber-band-splits
-description: "Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Miturheberschaft, verbundene Werke, Split-Sheets, Bandstreit, Producer Shares und Rechteausübung im Urheberrecht De Eu."
 ---
 
 # Miturheber, Band und Split-Sheets

@@ -1,6 +1,6 @@
 ---
 name: anfangercoach-schuldrecht-anspruchslandkarte
-description: "Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, Fallübungen und Selbsttest im BGB BT."
 ---
 
 # Workflow: Anfängercoach Schuldrecht BT

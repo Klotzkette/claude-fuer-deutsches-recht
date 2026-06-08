@@ -1,19 +1,9 @@
 ---
 name: start-chronologie-fristen
-description: "Start Chronologie Fristen im Plugin Fachanwalt It Recht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt IT Recht-Plugin, Chronologie und Belegmatrix im Plugin fachanwalt-it-recht, Fristen- und Risikoampel im Plugin fachanwalt-it-recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Start Chronologie Fristen im Plugin Fachanwalt It Recht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt IT Recht-Plugin, Chronologie und Belegmatrix im Plugin fachanwalt-it-recht, Fristen- und Risikoampel im Plugin fachanwalt-it-recht."
 ---
 
 # Start Chronologie Fristen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt IT Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-it-recht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-it-recht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-it-recht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-it-recht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Start Chronologie Fristen im Plugin Fachanwalt It Recht: prüft ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `allgemein`
 

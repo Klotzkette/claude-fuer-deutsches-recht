@@ -1,6 +1,6 @@
 ---
 name: tr3d-pruefkategorien-vorlage-vendor-wuerfel
-description: "Bauleiter Pruefkategorien für Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Pruefraster für drei-dimensionalen Aufbau im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Pruefkategorien für Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Pruefraster für drei-dimensionalen Aufbau im Tabellenreview 3d."
 ---
 
 # TR3D: Pruefkategorien Bauleiter

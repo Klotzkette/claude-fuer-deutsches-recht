@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-bayern
-description: "Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsrecht Bayern

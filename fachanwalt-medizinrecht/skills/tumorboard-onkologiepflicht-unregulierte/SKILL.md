@@ -1,16 +1,9 @@
 ---
 name: tumorboard-onkologiepflicht-unregulierte
-description: "Tumorboard Onkologiepflicht Unregulierte im Medizinrecht: prüft konkret Tumorboard und Onkologiepflicht, Unregulierte Zelltherapie abwehren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Tumorboard Onkologiepflicht Unregulierte im Medizinrecht: prüft konkret Tumorboard und Onkologiepflicht, Unregulierte Zelltherapie abwehren."
 ---
 
 # Tumorboard Onkologiepflicht Unregulierte
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `tumorboard-onkologiepflicht` | Tumorboard und Onkologiepflicht: moderner Medizinrechts-Skill für Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `unregulierte-zelltherapie-abwehr` | Unregulierte Zelltherapie abwehren: moderner Medizinrechts-Skill für Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Tumorboard Onkologiepflicht Unregulierte im Medizinrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `tumorboard-onkologiepflicht`
 

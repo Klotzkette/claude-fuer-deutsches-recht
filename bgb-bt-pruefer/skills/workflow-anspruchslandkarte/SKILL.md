@@ -1,6 +1,6 @@
 ---
 name: workflow-anspruchslandkarte
-description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen im BGB BT."
 ---
 
 # Workflow: Anspruchslandkarte BGB BT

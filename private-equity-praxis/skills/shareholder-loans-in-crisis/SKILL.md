@@ -1,6 +1,6 @@
 ---
 name: shareholder-loans-in-crisis
-description: "Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation im Private Equity Praxis."
 ---
 
 # Gesellschafterdarlehen in Krise

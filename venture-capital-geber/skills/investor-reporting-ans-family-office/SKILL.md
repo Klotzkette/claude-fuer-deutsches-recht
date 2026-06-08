@@ -1,6 +1,6 @@
 ---
 name: investor-reporting-ans-family-office
-description: "Erstellt Bericht für Vermögensinhaber, Investment Committee oder Familie mit Portfolio, Risiken, Cash, ESG, Lessons Learned im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Bericht für Vermögensinhaber, Investment Committee oder Familie mit Portfolio, Risiken, Cash, ESG, Lessons Learned im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Investor Reporting ans Family Office

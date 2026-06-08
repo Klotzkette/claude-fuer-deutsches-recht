@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-schriftsatz-brief-und-memo-bausteine
-description: "Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine im Immobilienrechtspraxis."
 ---
 
 # Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine

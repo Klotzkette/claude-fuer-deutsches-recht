@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen-bsfz
-description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-datenschutz
-description: "Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen im Internal Investigations Praxis."
 ---
 
 # Betriebsrat und Mitbestimmung in Internal Investigations

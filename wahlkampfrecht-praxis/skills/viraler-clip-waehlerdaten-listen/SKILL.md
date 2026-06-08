@@ -1,6 +1,6 @@
 ---
 name: viraler-clip-waehlerdaten-listen
-description: "Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: auf unguenstigen viralen Clip ohne Panik reagieren im Wahlkampfrecht."
 ---
 
 # Viraler Clip Notfall

@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-status
-description: "Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit im Sozialversicherungsstatus Pruefer."
 ---
 
 # Risikomatrix Status

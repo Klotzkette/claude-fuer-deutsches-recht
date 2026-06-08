@@ -1,19 +1,9 @@
 ---
 name: rechtsgrundlage-mandantenentscheidung-review
-description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: prüft konkret Rechtsgrundlage, Review, Verarbeitungsverzeichnis, EDPB-Empfehlung 01/2020 als operative. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: prüft konkret Rechtsgrundlage, Review, Verarbeitungsverzeichnis, EDPB-Empfehlung 01/2020 als operative."
 ---
 
 # Rechtsgrundlage Mandantenentscheidung Review
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-rechtsgrundlage-mandantenentscheidung` | Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-review-risikoampel-und-gegenargumente` | Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verarbeitungsverzeichnis-formular-portal-und-einreichung` | Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `tia-edpb-roadmap-6-schritte-deutsch` | EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für das Transfer Impact Assessment. Schritt 1 Know your transfers; Schritt 2 Identify transfer tool; Schritt 3 Assess law and practice; Schritt 4 Adopt supplementary measures; Schritt 5 Procedural steps; Schritt 6 Re-evaluate. Mit Checklisten und Beispiel-Eintraegen. |
-| `tia-en-data-privacy-framework-status` | English-language assessment of the current EU-US Data Privacy Framework (DPF) as Art. 45 GDPR transfer instrument. Commission Implementing Decision (EU) 2023/1795 of 10 July 2023, Executive Order 14086 basis, listing process, HR/Non-HR coverage, onward transfers, Schrems III. Test criteria for DPF reliance and residual risk. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Rechtsgrundlage Mandantenentscheidung Review im Datenschutzrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-rechtsgrundlage-mandantenentscheidung`
 
-**Fokus:** Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage im Plugin datenschutzrecht.
 
 ### Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -65,7 +55,7 @@ Einwilligung wirkt geräumig, ist aber widerruflich und schafft Dokumentationsla
 
 ## 2. `spezial-review-risikoampel-und-gegenargumente`
 
-**Fokus:** Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht.
 
 ### Review: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -90,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verarbeitungsverzeichnis-formular-portal-und-einreichung`
 
-**Fokus:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht.
 
 ### Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
 

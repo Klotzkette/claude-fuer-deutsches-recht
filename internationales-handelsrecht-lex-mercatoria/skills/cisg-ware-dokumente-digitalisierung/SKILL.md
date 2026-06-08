@@ -1,6 +1,6 @@
 ---
 name: cisg-ware-dokumente-digitalisierung
-description: "Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Ware, Dokumente und Digitalisierung (CISG Art. 34-35)

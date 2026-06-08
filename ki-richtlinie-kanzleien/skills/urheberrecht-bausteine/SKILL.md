@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-bausteine
-description: "Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence im Ki Richtlinie Kanzleien."
 ---
 
 # Urheberrecht-Bausteine

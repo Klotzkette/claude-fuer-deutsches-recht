@@ -1,6 +1,6 @@
 ---
 name: insurance-dno
-description: "Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance im US Bankruptcy Code."
 ---
 
 # Insurance and D&O in Bankruptcy

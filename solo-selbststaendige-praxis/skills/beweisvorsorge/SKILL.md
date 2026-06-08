@@ -1,6 +1,6 @@
 ---
 name: beweisvorsorge
-description: "Solo-Selbstständige: sichert Briefing, Freigaben, Änderungswünsche, Abnahmen und Chatbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: sichert Briefing, Freigaben, Änderungswünsche, Abnahmen und Chatbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Versicherung Haftung und Risiko: Sichert briefing

@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-verteidigung
-description: "Wirtschaftsprüfer Unabhängigkeit (Verteidigungs- und Kammerantwort): steuert Independence, Non-Audit-Services, Cooling-off, Netzwerk und Mandatsannahme mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer Unabhängigkeit (Verteidigungs- und Kammerantwort): steuert Independence, Non-Audit-Services, Cooling-off, Netzwerk und Mandatsannahme mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Wirtschaftsprüfer Unabhängigkeit: Verteidigungs- und Kammerantwort

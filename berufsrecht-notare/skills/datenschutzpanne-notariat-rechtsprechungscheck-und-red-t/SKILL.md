@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-notariat-rechtsprechungscheck-und-red-t
-description: "Notare: datenschutzpanne notariat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: datenschutzpanne notariat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: datenschutzpanne notariat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

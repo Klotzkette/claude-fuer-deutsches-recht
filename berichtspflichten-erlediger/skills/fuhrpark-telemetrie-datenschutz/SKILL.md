@@ -1,6 +1,6 @@
 ---
 name: fuhrpark-telemetrie-datenschutz
-description: "Fuhrparkdaten: Fahrer, Unfall, Fahrtenbuch, Maut, Tachograf, Telematik, Datenschutz und Steuer-/Arbeitsrecht im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuhrparkdaten: Fahrer, Unfall, Fahrtenbuch, Maut, Tachograf, Telematik, Datenschutz und Steuer-/Arbeitsrecht im Berichtspflichten."
 ---
 
 # Fuhrpark, Telemetrie und Meldedaten

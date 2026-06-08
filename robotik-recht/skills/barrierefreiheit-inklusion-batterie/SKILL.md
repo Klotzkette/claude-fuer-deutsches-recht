@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-inklusion-batterie
-description: "Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedienung bei Robotikprodukten und Nutzerinterfaces im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedienung bei Robotikprodukten und Nutzerinterfaces im Robotik-Recht."
 ---
 
 # Barrierefreiheit und Inklusion bei Robotern

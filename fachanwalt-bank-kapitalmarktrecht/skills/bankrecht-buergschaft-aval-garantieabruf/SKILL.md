@@ -1,17 +1,9 @@
 ---
 name: bankrecht-buergschaft-aval-garantieabruf
-description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfo."
 ---
 
 # Bankrecht Buergschaft Aval Garantieabruf
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bankrecht-buergschaft-aval-garantie-routing` | Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast. |
-| `bankrecht-garantieabruf-eilrechtsschutz` | Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern vorbereiten: Verfügungsanspruch, Verfügungsgrund, Missbrauchsbelege, Zustellung, Vollziehung und Bankkommunikation. |
-| `bankrecht-kaufmaennische-buergschaft-hgb-349-350` | Kaufmännische Bürgschaft prüfen: Handelsgeschäft des Bürgen, § 349 HGB ohne Vorausklage, § 350 HGB ohne BGB-Schriftform, Abgrenzung zu privater Mithaftung, AGB und Prozessstrategie. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bankrecht-buergschaft-aval-garantie-routing`
 

@@ -1,15 +1,9 @@
 ---
 name: tokenisierung
-description: "VC Tokenisierung im Venture Capital im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "VC Tokenisierung im Venture Capital im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # VC Tokenisierung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vc-097-tokenisierung-digital-shares` | Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "VC Tokenisierung im Venture Capital im Venture Capital (Geber): pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vc-097-tokenisierung-digital-shares`
 

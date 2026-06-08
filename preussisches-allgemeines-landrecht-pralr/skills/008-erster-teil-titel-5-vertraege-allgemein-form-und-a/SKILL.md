@@ -1,6 +1,6 @@
 ---
 name: 008-erster-teil-titel-5-vertraege-allgemein-form-und-a
-description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A

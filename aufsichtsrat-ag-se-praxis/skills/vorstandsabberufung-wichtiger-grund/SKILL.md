@@ -1,6 +1,6 @@
 ---
 name: vorstandsabberufung-wichtiger-grund
-description: "AG/SE-Aufsichtsrat Praxis: Vorstandsabberufung Wichtiger Grund; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Vorstandsabberufung Wichtiger Grund; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Vorstandsabberufung Wichtiger Grund

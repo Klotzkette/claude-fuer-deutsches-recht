@@ -1,18 +1,9 @@
 ---
 name: dokumentationsaudit-630f
-description: "Dokumentationsaudit 630f im Medizinrecht: prüft konkret Dokumentationsaudit § 630f, Einwilligungsunfähigkeit und Ablehnung, E-Rezept und Falschmedikation, Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs-. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dokumentationsaudit 630f im Medizinrecht: prüft konkret Dokumentationsaudit § 630f, Einwilligungsunfähigkeit und Ablehnung, E-Rezept und Falschmedikation, Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs-."
 ---
 
 # Dokumentationsaudit 630f
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dokumentationsaudit-630f` | Dokumentationsaudit § 630f: moderner Medizinrechts-Skill für Behandlungsakte auditieren, Lücken, nachträgliche Änderungen, Metadaten und Beweisvermutung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `einwilligungsunfaehigkeit-ablehnung` | Einwilligungsunfähigkeit und Ablehnung: moderner Medizinrechts-Skill für Therapieablehnung, natürliche Wille, Zwangsbehandlung, Betreuungsgericht und Klinikalltag. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `erezept-falschmedikation` | E-Rezept und Falschmedikation: moderner Medizinrechts-Skill für E-Rezept, Medikationsliste, Wechselwirkung, Apotheken-/Arztfehler und Nachweisführung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `erstgespraech-mandatsannahme` | Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt meldet sich mit unstrukturiertem Sachverhalt zu Behandlungsfehler Approbationsproblem oder KV-Streit. § 630a BGB Behandlungsvertrag, § 43a BRAO Interessenkonflikte, § 3a RVG Honorar. Prüfraster Konstellation einordnen Arzthaftung Berufsrecht oder Vertragsarztrecht, Interessenkonflikt-Check, Vollmacht einholen, Streitwert und Gebührenvereinbarung, Fristen-Erstprognose. Output Mandats-Aufnahmeprotokoll mit Einordnung Sofortmassnahmen und Handlungsweichen. Abgrenzung zu Mandat-Triage-Medizinrecht und zu Erstgespraeach-Strafrecht. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Dokumentationsaudit 630f im Medizinrecht: prüft konkret Dokumenta
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dokumentationsaudit-630f`
 

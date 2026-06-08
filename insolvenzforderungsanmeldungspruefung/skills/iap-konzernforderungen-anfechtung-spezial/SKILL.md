@@ -1,6 +1,6 @@
 ---
 name: iap-konzernforderungen-anfechtung-spezial
-description: "Spezialfall Konzernforderungen und Anfechtung im Konzern: Cash-Pool, Konzernverrechnung, Bargeschaeftsausnahme, BGH-Rechtsprechung. Pruefraster für Konzernverwalter im Insolvenzforderungsanmeldungspruefung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Konzernforderungen und Anfechtung im Konzern: Cash-Pool, Konzernverrechnung, Bargeschaeftsausnahme, BGH-Rechtsprechung. Pruefraster für Konzernverwalter im Insolvenzforderungsanmeldungspruefung."
 ---
 
 # IAP: Konzernforderungen Anfechtung

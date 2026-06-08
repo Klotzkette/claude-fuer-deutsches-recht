@@ -1,6 +1,6 @@
 ---
 name: vorstand-ag-status
-description: "Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausnahmen und Sozialversicherungspflichten im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausnahmen und Sozialversicherungspflichten im Sozialversicherungsstatus Pruefer."
 ---
 
 # AG-Vorstand und Sozialversicherung

@@ -1,19 +1,9 @@
 ---
 name: eingliederungshilfe-sgb
-description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prüft konkret Eingliederungshilfe nach SGB IX Teil 2, Eingliederungsvereinbarung nach § 15 SGB II / nach Reform, Fax beim SG einreichen Vorteile und Grenzen, Mein Justizpostfach (MJP) für Buerger seit 2024. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prüft konkret Eingliederungshilfe nach SGB IX Teil 2, Eingliederungsvereinbarung nach § 15 SGB II / nach Reform, Fax beim SG einreichen Vorteile und Grenzen, Mein Justizpostfach (MJP) für Buerger seit 2024."
 ---
 
 # Eingliederungshilfe SGB
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `eingliederungshilfe-sgb-ix-rehabilitation` | Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Pruefraster. |
-| `eingliederungsvereinbarung-15-sgb-ii` | Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster. |
-| `einreichung-fax-und-grenzen-sozialgericht` | Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden. |
-| `einreichung-mein-justizpostfach-mjp-sozialgericht` | Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichung von Klagen und Schriftsaetzen beim Sozialgericht. Anmeldung Identifikation PDF-Anlagen Sicherheit. |
-| `einreichung-papierform-sozialgericht-mit-abschriften` | Klage und Schriftsatz per Post beim SG einreichen. Abschriften für Gegner und Akte. Adressierung Einschreiben Empfangsbestätigung. Praktischer Versandweg für Buerger. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `eingliederungshilfe-sgb-ix-rehabilitation`
 

@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-pruefungsleistung
-description: "Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Pruefungsrecht Hochschule."
 ---
 
 # Fristverlängerung Prüfungsleistung

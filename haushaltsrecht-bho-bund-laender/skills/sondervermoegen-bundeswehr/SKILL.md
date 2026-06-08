@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr
-description: "Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Sondervermoegen Bundeswehr Risiko Mark

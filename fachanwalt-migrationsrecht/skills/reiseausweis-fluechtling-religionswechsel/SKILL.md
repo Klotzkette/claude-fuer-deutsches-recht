@@ -1,19 +1,9 @@
 ---
 name: reiseausweis-fluechtling-religionswechsel
-description: "Reiseausweis Fluechtling Religionswechsel im Migrationsrecht: prüft konkret Reiseausweis Flüchtling, Religionswechsel, Remonstration/Visumklage, Schengenvisum Abgrenzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Reiseausweis Fluechtling Religionswechsel im Migrationsrecht: prüft konkret Reiseausweis Flüchtling, Religionswechsel, Remonstration/Visumklage, Schengenvisum Abgrenzung."
 ---
 
 # Reiseausweis Fluechtling Religionswechsel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-reiseausweis-fluechtling` | Reiseausweis Flüchtling: Fachmodul im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-religionswechsel` | Religionswechsel: Fachmodul im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-remonstration-visum` | Remonstration/Visumklage: Fachmodul im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-schengenvisum-abgrenzung` | Schengenvisum Abgrenzung: Fachmodul im Migrationsrecht; prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-schnittstellen-internationaler-bezug-und-schnittstellen` | Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Reiseausweis Fluechtling Religionswechsel im Migrationsrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-reiseausweis-fluechtling`
 
@@ -135,7 +125,7 @@ description: "Reiseausweis Fluechtling Religionswechsel im Migrationsrecht: prü
 
 ## 5. `spezial-schnittstellen-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt migrationsrecht.
 
 ### Schnittstellen: Internationaler Bezug und Schnittstellen
 

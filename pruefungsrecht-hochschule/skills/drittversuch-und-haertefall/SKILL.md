@@ -1,6 +1,6 @@
 ---
 name: drittversuch-und-haertefall
-description: "Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Pruefungsrecht Hochschule."
 ---
 
 # Drittversuch Und Haertefall

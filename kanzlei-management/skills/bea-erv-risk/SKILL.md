@@ -1,6 +1,6 @@
 ---
 name: bea-erv-risk
-description: "Prüft beA-/ERV-Prozesse, Zustellungsmonitoring und technische Ausfälle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft beA-/ERV-Prozesse, Zustellungsmonitoring und technische Ausfälle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # beA und ERV Risiko

@@ -1,6 +1,6 @@
 ---
 name: anfaenger-verhandlung-vergleich-und-eskalation
-description: "Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht Legal English."
 ---
 
 # Anfaenger: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: betriebsfeier-drogen-sexuelle-betriebsrat
-description: "Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Betriebsfeier Drogen Alkohol Vorfall

@@ -1,6 +1,6 @@
 ---
 name: awareness-zahlen-schwellen-und-berechnung
-description: "Awareness: Zahlen, Schwellenwerte und Berechnung im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Awareness: Zahlen, Schwellenwerte und Berechnung im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
 ---
 
 # Awareness: Zahlen, Schwellenwerte und Berechnung

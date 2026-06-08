@@ -1,6 +1,6 @@
 ---
 name: sanktionen-mandatsannahme-verteidigung
-description: "Sanktionen und Mandatsannahme (Verteidigungs- und Kammerantwort): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanktionen und Mandatsannahme (Verteidigungs- und Kammerantwort): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Sanktionen und Mandatsannahme: Verteidigungs- und Kammerantwort

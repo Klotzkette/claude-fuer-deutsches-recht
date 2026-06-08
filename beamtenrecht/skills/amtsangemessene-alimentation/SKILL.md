@@ -1,6 +1,6 @@
 ---
 name: amtsangemessene-alimentation
-description: "Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren im Beamtenrecht."
 ---
 
 # Amtsangemessene Alimentation

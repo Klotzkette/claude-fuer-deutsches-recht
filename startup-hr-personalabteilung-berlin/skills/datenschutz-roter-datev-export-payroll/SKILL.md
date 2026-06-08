@@ -1,6 +1,6 @@
 ---
 name: datenschutz-roter-datev-export-payroll
-description: "Berliner Start-up-HR: Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Datenschutz Roter Schalter Personaldaten

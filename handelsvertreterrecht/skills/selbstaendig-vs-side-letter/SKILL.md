@@ -1,6 +1,6 @@
 ---
 name: selbstaendig-vs-side-letter
-description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung im Handelsvertreterrecht."
 ---
 
 # Selbständiger Handelsvertreter vs. Angestellter Reisender nach § 84 HGB

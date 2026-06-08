@@ -1,6 +1,6 @@
 ---
 name: 057-remote-vorbereitung-ohne-unzulaessige-fernbeurkundu
-description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung. Was remote vorbereitet werden darf, Grenzen der Fernkommunikation, zulässige digitale Zusammenarbeit und Terminvorbereitung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung. Was remote vorbereitet werden darf, Grenzen der Fernkommunikation, zulässige digitale Zusammenarbeit und Terminvorbereitung im Notariat."
 ---
 
 # Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung

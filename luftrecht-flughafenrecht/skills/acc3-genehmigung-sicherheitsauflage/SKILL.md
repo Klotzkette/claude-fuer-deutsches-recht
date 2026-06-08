@@ -1,6 +1,6 @@
 ---
 name: acc3-genehmigung-sicherheitsauflage
-description: "ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen für Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen für Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk im Luftrecht Flughafenrecht."
 ---
 
 # ACC3 – Genehmigung prüfen

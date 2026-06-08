@@ -1,6 +1,6 @@
 ---
 name: energieaudit-edl-entsendungen-a1-eudr
-description: "Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Energieaudit-/Energiemanagementpflichten, Nicht-KMU-Prüfung, Umsetzungspläne und Nachweise im Berichtspflichten."
 ---
 
 # Energieaudit EDL-G und EnEfG-Schnittstelle

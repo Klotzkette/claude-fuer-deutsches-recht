@@ -1,6 +1,6 @@
 ---
 name: verlagsdesk-erstpruefung-und-mandatsziel
-description: "Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Verlagsredaktion."
 ---
 
 # Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel

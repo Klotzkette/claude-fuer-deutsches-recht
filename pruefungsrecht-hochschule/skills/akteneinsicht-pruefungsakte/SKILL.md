@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-pruefungsakte
-description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Pruefungsrecht Hochschule."
 ---
 
 # Akteneinsicht Pruefungsakte

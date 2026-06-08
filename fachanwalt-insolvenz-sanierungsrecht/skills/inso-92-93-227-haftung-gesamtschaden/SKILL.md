@@ -1,6 +1,6 @@
 ---
 name: inso-92-93-227-haftung-gesamtschaden
-description: "Inso P092 Gesamtschaden P093 Personliche P227 im Insolvenz- und Sanierungsrecht: prüft konkret § 92 InsO Gesamtschaden im Mandat prüfen, § 93 InsO Persönliche Haftung der Gesellschafter im, § 227 InsO Haftung des Schuldners im Mandat prüfen, § 280 InsO Haftung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P092 Gesamtschaden P093 Personliche P227 im Insolvenz- und Sanierungsrecht: prüft konkret § 92 InsO Gesamtschaden im Mandat prüfen, § 93 InsO Persönliche Haftung der Gesellschafter im, § 227 InsO Haftung des Schuldners im Mandat prüfen, § 280 InsO Haftung."
 ---
 
 # Inso P092 Gesamtschaden P093 Personliche P227
@@ -8,16 +8,6 @@ description: "Inso P092 Gesamtschaden P093 Personliche P227 im Insolvenz- und Sa
 ## Arbeitsbereich
 
 **Inso P092 Gesamtschaden P093 Personliche P227** ordnet den Fall über die tragenden Prüfungslinien: § 92 InsO (Gesamtschaden) im Mandat prüfen, § 93 InsO (Persönliche Haftung der Gesellschafter) im, § 227 InsO (Haftung des Schuldners) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p092-gesamtschaden` | § 92 InsO (Gesamtschaden) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p093-personliche-haftung-der-gesellschafter` | § 93 InsO (Persönliche Haftung der Gesellschafter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p227-haftung-des-schuldners` | § 227 InsO (Haftung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p280-haftung-insolvenzanfechtung` | § 280 InsO (Haftung. Insolvenzanfechtung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p334-personliche-haftung-der-ehegatten` | § 334 InsO (Persönliche Haftung der Ehegatten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -27,7 +17,7 @@ description: "Inso P092 Gesamtschaden P093 Personliche P227 im Insolvenz- und Sa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p092-gesamtschaden`
 

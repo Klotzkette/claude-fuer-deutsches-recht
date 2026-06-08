@@ -1,6 +1,6 @@
 ---
 name: pricing-gebuehren-zins-marge-transparenz
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz im Factoring Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz im Factoring Recht."
 ---
 
 # Pricing Gebühren Zins Marge Transparenz

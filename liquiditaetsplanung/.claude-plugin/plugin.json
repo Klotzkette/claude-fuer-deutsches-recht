@@ -1,6 +1,6 @@
 {
   "name": "liquiditaetsplanung",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.",
   "license": "Apache-2.0 OR MIT",
   "author": {

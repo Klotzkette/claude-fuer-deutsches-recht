@@ -1,6 +1,6 @@
 ---
 name: einstweilige-anordnung-vwgo-123
-description: "Prüft vorläufige Regelung ohne passenden §80-Fall im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft vorläufige Regelung ohne passenden §80-Fall im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Einstweilige Anordnung § 123

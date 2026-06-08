@@ -1,6 +1,6 @@
 ---
 name: regr-mica-kryptoassets-spezial
-description: "Spezialfall MiCA-Verordnung Kryptoassets: Asset-Referenced-Tokens, E-Money-Tokens, andere Kryptowerte. Pruefraster für Emittent, CASP, Vertrieb im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall MiCA-Verordnung Kryptoassets: Asset-Referenced-Tokens, E-Money-Tokens, andere Kryptowerte. Pruefraster für Emittent, CASP, Vertrieb im Regulatorisches Recht."
 ---
 
 # RegR: MiCA Kryptoassets

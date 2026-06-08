@@ -1,6 +1,6 @@
 ---
 name: second-opinion-management
-description: "Second Opinion Management: steuert zweite Kanzlei einbinden, ohne Vertrauen, Privilege und Strategie zu beschädigen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Second Opinion Management: steuert zweite Kanzlei einbinden, ohne Vertrauen, Privilege und Strategie zu beschädigen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Second Opinion Management

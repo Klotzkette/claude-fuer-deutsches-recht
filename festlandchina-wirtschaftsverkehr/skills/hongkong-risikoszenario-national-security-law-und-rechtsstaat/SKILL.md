@@ -1,6 +1,6 @@
 ---
 name: hongkong-risikoszenario-national-security-law-und-rechtsstaat
-description: "Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Hongkong-Risikoszenario: National Security Law und Rechtsstaat

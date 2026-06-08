@@ -1,6 +1,6 @@
 ---
 name: press-and-litigation-comms
-description: "Press and Litigation Comms: steuert Litigation-PR, Ad-hoc-Fragen, Social Media und Mandatsstrategie abstimmen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Press and Litigation Comms: steuert Litigation-PR, Ad-hoc-Fragen, Social Media und Mandatsstrategie abstimmen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Press and Litigation Comms

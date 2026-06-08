@@ -1,6 +1,6 @@
 ---
 name: aufsichtspflichtverletzung-130-owig
-description: "Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Aufsichtspflichtverletzung 130 Owig

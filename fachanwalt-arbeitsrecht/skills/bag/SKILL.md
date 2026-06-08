@@ -1,17 +1,9 @@
 ---
 name: bag
-description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungslinie für fachanwalt arbeitsrecht bag mindesturlaub kein, Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung, Prüfungslinie für fachanwalt arbeitsrecht betriebsratsbeschluss."
 ---
 
 # BAG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhörung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhörungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhörung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhörungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
-| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "BAG im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungsli
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`
 

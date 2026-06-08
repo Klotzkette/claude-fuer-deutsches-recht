@@ -1,6 +1,6 @@
 ---
 name: deliverable-acceptance
-description: "Deliverable Acceptance: steuert Gutachten, Schriftsatz, Redline, Vermerk oder Board Paper abnehmen, versionieren und freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deliverable Acceptance: steuert Gutachten, Schriftsatz, Redline, Vermerk oder Board Paper abnehmen, versionieren und freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Deliverable Acceptance

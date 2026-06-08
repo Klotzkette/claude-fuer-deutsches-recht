@@ -1,6 +1,6 @@
 ---
 name: kannkaufmann-paragraphen-kaufmaennisches
-description: "Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft freiwillige Eintragung kleiner Gewerbe sowie Land-/Forstwirtschaft im Handelsrecht Hgb."
 ---
 
 # Kannkaufmann §§ 2, 3 HGB

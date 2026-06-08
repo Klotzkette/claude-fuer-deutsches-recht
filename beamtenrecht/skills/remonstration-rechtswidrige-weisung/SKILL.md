@@ -1,6 +1,6 @@
 ---
 name: remonstration-rechtswidrige-weisung
-description: "Remonstration bei rechtswidriger Weisung: Pflichten, Ablauf, Dokumentation und Schutz des Beamten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remonstration bei rechtswidriger Weisung: Pflichten, Ablauf, Dokumentation und Schutz des Beamten im Beamtenrecht."
 ---
 
 # Remonstration Rechtswidrige Weisung

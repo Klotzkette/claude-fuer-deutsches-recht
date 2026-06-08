@@ -1,6 +1,6 @@
 ---
 name: marketplace-beschwerde-schreiben
-description: "Prüfer: Marketplace: Beschwerde schreiben im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfer: Marketplace: Beschwerde schreiben im Verbraucherschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Marketplace Beschwerde Schreiben

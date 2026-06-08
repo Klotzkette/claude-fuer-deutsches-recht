@@ -1,6 +1,6 @@
 ---
 name: finanzierung-satellitenprojekt
-description: "Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte im Weltraumrecht."
 ---
 
 # Weltraumrecht: Finanzierung Satellitenprojekt: Projektfinanzierung und Step-in-Rechte

@@ -1,6 +1,6 @@
 ---
 name: vertrieb-verwertung-schadensersatz
-description: "Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows im Urheberrecht De Eu."
 ---
 
 # Verwertungskette und Vertrieb

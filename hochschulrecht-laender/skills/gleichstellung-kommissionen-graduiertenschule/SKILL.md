@@ -1,6 +1,6 @@
 ---
 name: gleichstellung-kommissionen-graduiertenschule
-description: "Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler im Hochschulrecht Länder."
 ---
 
 # Gleichstellung in Kommissionen

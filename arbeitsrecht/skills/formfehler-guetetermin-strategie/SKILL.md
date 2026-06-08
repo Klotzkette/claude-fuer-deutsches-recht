@@ -1,18 +1,9 @@
 ---
 name: formfehler-guetetermin-strategie
-description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: prüft konkret Formfehler-Prüfung bei Kündigungen, Guetetermin nach § 54 ArbGG, Kammertermin Hauptverhandlung im Kündigungsschutzprozess, Anwaltliche Klageschrift Kündigungsschutzklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: prüft konkret Formfehler-Prüfung bei Kündigungen, Guetetermin nach § 54 ArbGG, Kammertermin Hauptverhandlung im Kündigungsschutzprozess, Anwaltliche Klageschrift Kündigungsschutzklage."
 ---
 
 # Kueschk Formfehler Guetetermin Strategie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhörung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur. |
-| `kueschk-guetetermin-strategie-und-sprechzettel` | Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen. |
-| `kueschk-kammertermin-sprechzettel` | Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden. |
-| `kueschk-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kueschk-formfehler-pruefen`
 

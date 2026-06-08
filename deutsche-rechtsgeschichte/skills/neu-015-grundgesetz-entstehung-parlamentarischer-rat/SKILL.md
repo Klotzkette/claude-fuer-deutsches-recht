@@ -1,6 +1,6 @@
 ---
 name: neu-015-grundgesetz-entstehung-parlamentarischer-rat
-description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 015 Grundgesetz Entstehung Parlamentarischer Rat

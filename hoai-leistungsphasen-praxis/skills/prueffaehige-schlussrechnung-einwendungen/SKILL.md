@@ -1,6 +1,6 @@
 ---
 name: prueffaehige-schlussrechnung-einwendungen
-description: "HOAI-Fachfrage: prüffähige Architekten-/Ingenieur-Schlussrechnung, Honorarparameter, Einwendungen, Abschläge, Teilleistungen, Kündigung und gerichtsfeste Abrechnung prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: prüffähige Architekten-/Ingenieur-Schlussrechnung, Honorarparameter, Einwendungen, Abschläge, Teilleistungen, Kündigung und gerichtsfeste Abrechnung prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # Prüffähige Schlussrechnung Und Einwendungen

@@ -1,19 +1,9 @@
 ---
 name: staatenlosigkeit-stag-subsidiaerer-schutz
-description: "Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prüft konkret Staatenlosigkeit, Stag, Subsidiärer Schutz, Untätigkeitsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prüft konkret Staatenlosigkeit, Stag, Subsidiärer Schutz, Untätigkeitsklage."
 ---
 
 # Staatenlosigkeit Stag Subsidiaerer Schutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-staatenlosigkeit` | Staatenlosigkeit: Fachmodul im Migrationsrecht; prüft Status, Dokumente, Schutz, Reiseausweis und Einbürgerungsweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-stag-verhandlung-vergleich-und-eskalation` | Stag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-subsidiaerer-schutz` | Subsidiärer Schutz: Fachmodul im Migrationsrecht; prüft ernsthaften Schaden, bewaffneten Konflikt, Art. 3 EMRK und Länderquellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-untatigkeitsklage` | Untätigkeitsklage: Fachmodul im Migrationsrecht; prüft Antrag, Sperrfrist, zureichender Grund, Klageziel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-urkunden-ehe-geburt` | Ehe-/Geburtsurkunden: Fachmodul im Migrationsrecht; prüft Echtheit, Register, Übersetzung, Legalisation/Apostille und Plausibilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-staatenlosigkeit`
 
@@ -54,7 +44,7 @@ description: "Staatenlosigkeit Stag Subsidiaerer Schutz im Migrationsrecht: prü
 
 ## 2. `spezial-stag-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Stag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Stag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt migrationsrecht.
 
 ### Stag: Verhandlung, Vergleich und Eskalation
 

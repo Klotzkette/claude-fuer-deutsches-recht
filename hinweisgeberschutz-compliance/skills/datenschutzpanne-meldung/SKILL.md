@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-meldung
-description: "Routet Hinweise zu Datenschutzpannen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Hinweise zu Datenschutzpannen im Hinweisgeberschutz Compliance."
 ---
 
 # Datenschutzpanne Meldung

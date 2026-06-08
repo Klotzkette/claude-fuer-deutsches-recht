@@ -1,16 +1,9 @@
 ---
 name: medr-aufklaerung-einwilligung
-description: "Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB, Aufklaerung und Einwilligung in der Praxis."
 ---
 
 # Medr Aufklaerung Einwilligung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `medr-aufklaerung-einwilligung-leitfaden` | Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster für Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen. |
-| `medr-aufklaerung-und-einwilligung-praxis` | Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme. Pruefraster für Klage des Patienten wegen Aufklaerungsmangel. Mustertexte für Dokumentation. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Medr Aufklaerung Einwilligung im Medizinrecht: prüft konkret Leit
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `medr-aufklaerung-einwilligung-leitfaden`
 

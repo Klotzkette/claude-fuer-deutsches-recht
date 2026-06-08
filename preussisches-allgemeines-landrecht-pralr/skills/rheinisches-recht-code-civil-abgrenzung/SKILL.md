@@ -1,6 +1,6 @@
 ---
 name: rheinisches-recht-code-civil-abgrenzung
-description: "PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische Gebiete und räumliche Nichtgeltung sauber abgrenzen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische Gebiete und räumliche Nichtgeltung sauber abgrenzen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Rheinisches Recht

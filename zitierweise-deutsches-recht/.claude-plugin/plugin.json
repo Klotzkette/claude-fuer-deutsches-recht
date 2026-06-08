@@ -1,6 +1,6 @@
 {
   "name": "zitierweise-deutsches-recht",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.",
   "license": "Apache-2.0 OR MIT",
   "author": {

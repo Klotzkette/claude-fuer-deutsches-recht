@@ -1,6 +1,6 @@
 ---
 name: tausch-schenkung-unechte-goa
-description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede im BGB BT."
 ---
 
 # Tausch und Schenkung §§ 480 und 516 ff. BGB

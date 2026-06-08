@@ -1,6 +1,6 @@
 ---
 name: verein-dokumentenpaket-politik-social-media
-description: "Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste im Vereinsrecht Vereinsmanager."
 ---
 
 # Vereins-Dokumentenpaket

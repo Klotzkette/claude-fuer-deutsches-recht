@@ -1,6 +1,6 @@
 ---
 name: krankenkasse-bescheid
-description: "Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht im Bürokratie-Entbürokratisierung."
 ---
 
 # Krankenkasse-Bescheid

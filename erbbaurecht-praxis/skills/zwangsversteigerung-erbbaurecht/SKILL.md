@@ -1,6 +1,6 @@
 ---
 name: zwangsversteigerung-erbbaurecht
-description: "Prüft Versteigerung des Erbbaurechts, Rang, Erbbauzins, Heimfall, Eigentümerrechte und Erwerberrisiko im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Versteigerung des Erbbaurechts, Rang, Erbbauzins, Heimfall, Eigentümerrechte und Erwerberrisiko im Erbbaurecht Praxis."
 ---
 
 # Zwangsversteigerung

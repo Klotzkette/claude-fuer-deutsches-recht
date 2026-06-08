@@ -1,6 +1,6 @@
 ---
 name: gmbh-kapitalherabsetzung-und-schutzjahr
-description: "Prüft Gläubigerschutz, Sperrjahr, Bekanntmachungen, Versicherung und registerfeste Unterlagen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gläubigerschutz, Sperrjahr, Bekanntmachungen, Versicherung und registerfeste Unterlagen im Handelsregister Praxis."
 ---
 
 # Kapitalherabsetzung

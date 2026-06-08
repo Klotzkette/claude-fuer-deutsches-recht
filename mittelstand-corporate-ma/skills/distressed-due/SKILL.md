@@ -1,6 +1,6 @@
 ---
 name: distressed-due
-description: "Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung im Mittelstand Corporate Ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung im Mittelstand Corporate Ma."
 ---
 
 # Disclosure Schedules

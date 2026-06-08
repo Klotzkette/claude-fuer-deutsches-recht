@@ -1,6 +1,6 @@
 ---
 name: fund-finance-und-nav-facility
-description: "Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits im Private Equity Praxis."
 ---
 
 # Fund Finance und NAV Facility

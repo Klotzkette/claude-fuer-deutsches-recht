@@ -1,6 +1,6 @@
 ---
 name: client-data-retention
-description: "Client Data Retention: steuert Aufbewahrung, Löschung, Archiv, Legal Hold und Datenrückgabe nach Mandatsende zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Client Data Retention: steuert Aufbewahrung, Löschung, Archiv, Legal Hold und Datenrückgabe nach Mandatsende zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Client Data Retention

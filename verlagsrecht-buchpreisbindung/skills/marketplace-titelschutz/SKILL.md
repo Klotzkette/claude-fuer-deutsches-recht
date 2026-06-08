@@ -1,6 +1,6 @@
 ---
 name: marketplace-titelschutz
-description: "Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und anderen Online-Händlern — Durchsetzung des Ladenpreises, Abmahnung, Monitoring und Compliance-Praxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und anderen Online-Händlern — Durchsetzung des Ladenpreises, Abmahnung, Monitoring und Compliance-Praxis im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-014 · Marketplace-Händler, Amazon und Preisdisziplin

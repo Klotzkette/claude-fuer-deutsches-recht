@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-zulassung-eilrechtsschutz
-description: "Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Pruefungsrecht Hochschule."
 ---
 
 # Vorläufige Zulassung im Eilrechtsschutz

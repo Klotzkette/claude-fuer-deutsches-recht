@@ -1,6 +1,6 @@
 ---
 name: contested-matters
-description: "Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters im US Bankruptcy Code."
 ---
 
 # Contested Matters

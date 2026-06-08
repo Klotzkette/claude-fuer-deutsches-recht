@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: "Prüfungslinie für klage amtsgericht fluggast im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für klage amtsgericht fluggast im Fluggastrechte."
 ---
 
 # Klage zum Amtsgericht (Fluggastrechte)

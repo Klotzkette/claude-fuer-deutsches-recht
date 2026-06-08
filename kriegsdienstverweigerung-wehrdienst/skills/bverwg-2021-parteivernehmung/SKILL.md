@@ -1,6 +1,6 @@
 ---
 name: bverwg-2021-parteivernehmung
-description: "Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # BVerwG 2021 Parteivernehmung

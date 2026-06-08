@@ -1,17 +1,9 @@
 ---
 name: orientierung-patent-nichtigkeitsklage-uwg
-description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Gewerblichen Rechtsschutz-Mandat einordnen und, Patentnichtigkeitsklage beim BPatG vorbereiten oder, Einstweilige Verfuegung im UWG-Verfahren beantragen oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Gewerblichen Rechtsschutz-Mandat einordnen und, Patentnichtigkeitsklage beim BPatG vorbereiten oder, Einstweilige Verfuegung im UWG-Verfahren beantragen oder."
 ---
 
 # Orientierung Patent Nichtigkeitsklage UWG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-gewerblicher-rechtsschutz-orientierung` | Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Prüfraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbedürfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills. |
-| `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage` | Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgründe. Prüfraster: Nichtigkeitsgrund Stand der Technik erfinderische Tätigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht für Verletzungsverfahren (§ 139 PatG). |
-| `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismäßigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht für Hauptsacheverfahren. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gew
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-gewerblicher-rechtsschutz-orientierung`
 

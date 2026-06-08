@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-genehmigung-pension
-description: "Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspflichten und Richter-Sonderregeln im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nebentätigkeit, Anzeige, Genehmigung, Untersagung, Ablieferungspflichten und Richter-Sonderregeln im Beamtenrecht."
 ---
 
 # Nebentaetigkeit Genehmigung Und Untersagung

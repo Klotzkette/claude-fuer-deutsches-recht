@@ -1,6 +1,6 @@
 ---
 name: 053-immobilienfinanzierung-bankauflagen-und-treuhandauf
-description: "Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Treuhandauftrag. Abstimmung von Kaufvertragsvollzug und Bankfinanzierung, Sicherungsabrede, Bankauflagen und treuhänderische Koordination durch den Notar im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Treuhandauftrag. Abstimmung von Kaufvertragsvollzug und Bankfinanzierung, Sicherungsabrede, Bankauflagen und treuhänderische Koordination durch den Notar im Notariat."
 ---
 
 # Notariat im Alltag: Immobilienfinanzierung – Bankauflagen, Treuhandauftrag

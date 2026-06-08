@@ -1,6 +1,6 @@
 ---
 name: us-independent-contractor-assignment
-description: "Prüft US-Contractor-Softwareverträge mit present assignment, moral rights waiver, OSS, inventions und confidentiality im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Contractor-Softwareverträge mit present assignment, moral rights waiver, OSS, inventions und confidentiality im Softwarerecht De Eu Us."
 ---
 
 # US Independent Contractor Assignment

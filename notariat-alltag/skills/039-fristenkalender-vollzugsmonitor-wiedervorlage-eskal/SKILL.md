@@ -1,6 +1,6 @@
 ---
 name: 039-fristenkalender-vollzugsmonitor-wiedervorlage-eskal
-description: "Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden im Notariat."
 ---
 
 # Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage, Eskalation

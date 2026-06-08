@@ -1,6 +1,6 @@
 ---
 name: schutzgegenstand-und-ausschluesse
-description: "Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee im Gebrauchsmusterrecht."
 ---
 
 # Schutzgegenstand Und Ausschluesse

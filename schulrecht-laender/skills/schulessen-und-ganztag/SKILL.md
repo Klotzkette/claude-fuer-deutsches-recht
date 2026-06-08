@@ -1,6 +1,6 @@
 ---
 name: schulessen-und-ganztag
-description: "Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ganztag, OGS, Schulessen und Betreuung im Schulrecht Länder."
 ---
 
 # Schulessen Und Ganztag

@@ -1,6 +1,6 @@
 ---
 name: cisg-nacherfuellung-remedies-ware-dokumente-i
-description: "Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Rechtsbehelfe des Käufers (CISG Art. 45-52)

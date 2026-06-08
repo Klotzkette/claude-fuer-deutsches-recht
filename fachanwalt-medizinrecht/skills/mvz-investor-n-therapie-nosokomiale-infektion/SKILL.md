@@ -1,18 +1,9 @@
 ---
 name: mvz-investor-n-therapie-nosokomiale-infektion
-description: "MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: prüft konkret Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene, Notaufnahme-Triage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: prüft konkret Investor-MVZ Compliance, N-of-1-Therapie und Heilversuch, Nosokomiale Infektion und Hygiene, Notaufnahme-Triage."
 ---
 
 # MVZ Investor N Therapie Nosokomiale Infektion
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mvz-investor-compliance` | Investor-MVZ Compliance: moderner Medizinrechts-Skill für MVZ-Träger, ärztliche Leitung, Weisungsfreiheit, Zuweisung, Abrechnung und Berufsrecht. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `n-of-1-therapie` | N-of-1-Therapie und Heilversuch: moderner Medizinrechts-Skill für Individualisierte Therapie außerhalb Standardpfad, Erkenntnisgrenze, Einwilligung und Kostenträger. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `nosokomiale-infektion-hygiene` | Nosokomiale Infektion und Hygiene: moderner Medizinrechts-Skill für Hygienemangel, MRSA/CRE, OP-Saal, Aufbereitung, voll beherrschbares Risiko. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `notaufnahme-triage` | Notaufnahme-Triage: moderner Medizinrechts-Skill für Triagefehler, Überlastung, Dokumentation, Wartezeit, ESI/MTS und Organisationshaftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "MVZ Investor N Therapie Nosokomiale Infektion im Medizinrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mvz-investor-compliance`
 

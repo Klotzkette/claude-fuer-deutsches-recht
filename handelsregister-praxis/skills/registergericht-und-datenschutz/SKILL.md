@@ -1,6 +1,6 @@
 ---
 name: registergericht-und-datenschutz
-description: "Klärt öffentliche Registerdaten, sensible Anlagen, Schwärzungen, Anschriften und Löschungswünsche im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt öffentliche Registerdaten, sensible Anlagen, Schwärzungen, Anschriften und Löschungswünsche im Handelsregister Praxis."
 ---
 
 # Datenschutz im Registerverfahren

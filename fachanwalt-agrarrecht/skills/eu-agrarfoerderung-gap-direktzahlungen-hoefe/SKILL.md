@@ -1,17 +1,9 @@
 ---
 name: eu-agrarfoerderung-gap-direktzahlungen-hoefe
-description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft konkrete Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO Hamburg Niedersachsen NRW. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft konkrete Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO Hamburg Niedersachsen NRW."
 ---
 
 # EU Agrarfoerderung GAP Direktzahlungen Hoefe
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Fachanwalt Agrarrecht EU Agrarfoerderung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` | Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch. |
-| `fachanwalt-agrarrecht-hoefe-uebergabe` | Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-agrarrecht-eu-agrarfoerderung`
 

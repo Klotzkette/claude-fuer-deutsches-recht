@@ -1,6 +1,6 @@
 ---
 name: zwoelftafelgesetz-delikte-und-sanktionen
-description: "Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion im Römisches Recht."
 ---
 
 # Zwölftafelgesetz - Delikte und Sanktionen

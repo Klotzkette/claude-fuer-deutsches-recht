@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-meldestelle
-description: "Prüft anwaltliche Meldestelle und Berufsgeheimnis im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft anwaltliche Meldestelle und Berufsgeheimnis im Hinweisgeberschutz Compliance."
 ---
 
 # Anwaltliche Meldestelle

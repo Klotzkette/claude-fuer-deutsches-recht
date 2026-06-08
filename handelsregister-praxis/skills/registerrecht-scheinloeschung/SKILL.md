@@ -1,6 +1,6 @@
 ---
 name: registerrecht-scheinloeschung
-description: "Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung im Handelsregister Praxis."
 ---
 
 # Nachtragsliquidation

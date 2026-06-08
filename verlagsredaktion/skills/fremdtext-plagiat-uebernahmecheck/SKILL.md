@@ -1,6 +1,6 @@
 ---
 name: fremdtext-plagiat-uebernahmecheck
-description: "Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphrase-Risiken und erstellt eine redaktionelle Klaerungsliste im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphrase-Risiken und erstellt eine redaktionelle Klaerungsliste im Verlagsredaktion."
 ---
 
 # Fremdtext- und Übernahmecheck

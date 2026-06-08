@@ -1,6 +1,6 @@
 ---
 name: besoldung-besold-beurteilung
-description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung im Beamtenrecht."
 ---
 
 # Besold Beurteilung Plausibilisierung Und Anlassbeurteilu

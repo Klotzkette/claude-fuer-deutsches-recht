@@ -1,6 +1,6 @@
 ---
 name: civis-romanus-vs-latinus-vs-peregrinus
-description: "Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im roemischen Reich. Skill behandelt die Unterscheidung Bewegungs-Rechte (ius migrationis) Eherecht (ius conubii) Handelsrecht (ius commercii) und prozessuale Stellung. Liefert Pruefraster im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im roemischen Reich. Skill behandelt die Unterscheidung Bewegungs-Rechte (ius migrationis) Eherecht (ius conubii) Handelsrecht (ius commercii) und prozessuale Stellung. Liefert Pruefraster im Römisches Recht."
 ---
 
 # Rom 152 Civis Romanus Vs Latinus Vs Peregrinus

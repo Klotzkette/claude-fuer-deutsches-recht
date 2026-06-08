@@ -1,6 +1,6 @@
 ---
 name: dienstaufsicht-beschwerde-kaltstart-und-faktenmatrix
-description: "Notare: dienstaufsicht beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: dienstaufsicht beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: dienstaufsicht beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

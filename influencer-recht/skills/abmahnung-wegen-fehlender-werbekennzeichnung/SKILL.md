@@ -1,6 +1,6 @@
 ---
 name: abmahnung-wegen-fehlender-werbekennzeichnung
-description: "Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung – Prüfung, modifizierte Unterlassungserklärung, Kostengrenzen und Verteidigungsstrategie im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung – Prüfung, modifizierte Unterlassungserklärung, Kostengrenzen und Verteidigungsstrategie im Influencer-Recht."
 ---
 
 # Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung

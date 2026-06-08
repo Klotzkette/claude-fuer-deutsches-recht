@@ -1,6 +1,6 @@
 ---
 name: marken-und-fremdlogos
-description: "Wahlkampfrecht Praxis: fremde Marken, Unternehmenslogos und Behördenanmutung pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: fremde Marken, Unternehmenslogos und Behördenanmutung pruefen im Wahlkampfrecht."
 ---
 
 # Marken Und Fremdlogos

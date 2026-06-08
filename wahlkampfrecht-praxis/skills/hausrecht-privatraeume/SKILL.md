@@ -1,6 +1,6 @@
 ---
 name: hausrecht-privatraeume
-description: "Wahlkampfrecht Praxis: Wahlkampftermine in privaten Hallen, Vereinen und Betrieben pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlkampftermine in privaten Hallen, Vereinen und Betrieben pruefen im Wahlkampfrecht."
 ---
 
 # Hausrecht Privatraeume

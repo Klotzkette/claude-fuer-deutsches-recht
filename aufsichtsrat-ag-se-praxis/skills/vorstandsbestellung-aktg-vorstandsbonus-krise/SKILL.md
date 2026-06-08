@@ -1,6 +1,6 @@
 ---
 name: vorstandsbestellung-aktg-vorstandsbonus-krise
-description: "AG/SE-Aufsichtsrat Praxis: Vorstandsbestellung 84 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Vorstandsbestellung 84 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Vorstandsbestellung 84 Aktg

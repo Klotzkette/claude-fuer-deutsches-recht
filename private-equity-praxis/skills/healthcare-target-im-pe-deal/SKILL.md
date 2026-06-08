@@ -1,6 +1,6 @@
 ---
 name: healthcare-target-im-pe-deal
-description: "Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken im Private Equity Praxis."
 ---
 
 # Healthcare-Target im PE-Deal

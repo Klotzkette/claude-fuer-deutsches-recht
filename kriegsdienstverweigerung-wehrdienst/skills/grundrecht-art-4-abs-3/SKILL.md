@@ -1,6 +1,6 @@
 ---
 name: grundrecht-art-4-abs-3
-description: "Rahmt KDV als staatstreue Grundrechtsausübung statt Staatsablehnung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rahmt KDV als staatstreue Grundrechtsausübung statt Staatsablehnung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Art. 4 Abs. 3 GG loyal nutzen

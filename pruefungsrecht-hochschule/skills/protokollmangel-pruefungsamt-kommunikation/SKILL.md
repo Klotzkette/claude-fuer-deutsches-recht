@@ -1,6 +1,6 @@
 ---
 name: protokollmangel-pruefungsamt-kommunikation
-description: "Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen im Pruefungsrecht Hochschule."
 ---
 
 # Protokollmangel

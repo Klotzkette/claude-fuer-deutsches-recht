@@ -1,6 +1,6 @@
 ---
 name: fragenkatalog-an-vorstand
-description: "AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Fragenkatalog An Vorstand

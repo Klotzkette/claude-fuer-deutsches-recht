@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehens-wandelereignisse
-description: "Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
 ---
 
 # Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: structured-finance-securitization
-description: "Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues im US Bankruptcy Code."
 ---
 
 # Structured Finance and Securitization

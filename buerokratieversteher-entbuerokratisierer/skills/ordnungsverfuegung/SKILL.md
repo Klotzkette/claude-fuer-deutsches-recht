@@ -1,6 +1,6 @@
 ---
 name: ordnungsverfuegung
-description: "Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag im Bürokratie-Entbürokratisierung."
 ---
 
 # Ordnungsverfügung

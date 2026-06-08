@@ -1,6 +1,6 @@
 ---
 name: verleumdung-verhandlung-vergleich-und-eskalation
-description: "Verleumdung: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verleumdung: Verhandlung, Vergleich und Eskalation im Meinungspruefer."
 ---
 
 # Verleumdung: Verhandlung, Vergleich und Eskalation

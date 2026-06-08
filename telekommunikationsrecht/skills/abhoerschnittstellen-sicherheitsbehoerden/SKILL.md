@@ -1,6 +1,6 @@
 ---
 name: abhoerschnittstellen-sicherheitsbehoerden
-description: "TK-Überwachung, Schnittstellen, Auskunftsersuchen, Bestandsdaten, Verkehrsdaten, Strafverfolgung und Geheimnisschutz im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "TK-Überwachung, Schnittstellen, Auskunftsersuchen, Bestandsdaten, Verkehrsdaten, Strafverfolgung und Geheimnisschutz im Telekommunikationsrecht."
 ---
 
 # Überwachungsschnittstellen und Behördenauskünfte

@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-und-edge-case
-description: "Livecheck: Sonderfall und Edge-Case-Prüfung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Livecheck: Sonderfall und Edge-Case-Prüfung im Jurastudium."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-tatbestand-zerlegen
-description: "Straßenverkehr: Tatbestand zerlegen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Straßenverkehr: Tatbestand zerlegen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Strassenverkehr Tatbestand Zerlegen

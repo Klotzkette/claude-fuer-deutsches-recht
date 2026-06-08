@@ -1,6 +1,6 @@
 ---
 name: china-employee-data-cloud-and-erp-wechat
-description: "Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Arbeitnehmerdaten China: PIPL/DSGVO und HR-Compliance

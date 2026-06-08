@@ -1,6 +1,6 @@
 ---
 name: remote-work
-description: "Remote Work: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Remote Work im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remote Work: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Remote Work im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Remote Work

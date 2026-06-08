@@ -1,6 +1,6 @@
 ---
 name: berufssoldaten-kdv
-description: "Prüft KDV-Antrag, Entlassungsfolge und Statusrisiken bei Berufssoldaten im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KDV-Antrag, Entlassungsfolge und Statusrisiken bei Berufssoldaten im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Berufssoldaten und KDV

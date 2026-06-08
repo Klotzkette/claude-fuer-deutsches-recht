@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-klage
-description: "Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel im Fluggastrechte."
 ---
 
 # Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: rotlicht-schriftsatz-brief-und-memo-bausteine
-description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine

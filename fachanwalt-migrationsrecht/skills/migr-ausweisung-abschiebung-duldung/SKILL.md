@@ -1,19 +1,9 @@
 ---
 name: migr-ausweisung-abschiebung-duldung
-description: "Migr Ausweisung Abschiebung Duldung im Migrationsrecht: prüft konkret Spezialfall Ausweisung und Abschiebung §§ 53 ff, Spezialfall Duldung und Spurwechsel, Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform, Migrationsrecht einfuehrend. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Migr Ausweisung Abschiebung Duldung im Migrationsrecht: prüft konkret Spezialfall Ausweisung und Abschiebung §§ 53 ff, Spezialfall Duldung und Spurwechsel, Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform, Migrationsrecht einfuehrend."
 ---
 
 # Migr Ausweisung Abschiebung Duldung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `migr-ausweisung-abschiebung-spezial` | Spezialfall Ausweisung und Abschiebung §§ 53 ff. AufenthG: Abwaegung Ausweisungsinteresse vs. Bleibeinteresse, Verhaeltnismaessigkeit Art. 8 EMRK, EuGH Ziebell. Pruefraster für Anhörung und Klage. |
-| `migr-duldung-und-spurwechsel-spezial` | Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19d AufenthG Beschaeftigungsduldung, § 25b AufenthG nachhaltige Integration, neues Chancen-Aufenthaltsrecht. Konkret Mandantenpfad. |
-| `migr-einbuergerung-mehrstaatigkeit-spezial` | Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung. Pruefraster Antrag Einbuergerungsbehoerde. |
-| `migr-einfuehrung-aufenthaltszwecke` | Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschaeftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU. Entscheidungstabelle. |
-| `migr-fachkraefteeinwanderung-praxis` | Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung. Pruefraster und typische Stolpersteine. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Migr Ausweisung Abschiebung Duldung im Migrationsrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `migr-ausweisung-abschiebung-spezial`
 

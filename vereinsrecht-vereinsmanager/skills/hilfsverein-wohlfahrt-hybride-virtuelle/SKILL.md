@@ -1,6 +1,6 @@
 ---
 name: hilfsverein-wohlfahrt-hybride-virtuelle
-description: "Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb im Vereinsrecht Vereinsmanager."
 ---
 
 # Hilfs- und Wohlfahrtsverein

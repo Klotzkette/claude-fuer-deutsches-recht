@@ -1,6 +1,6 @@
 ---
 name: echten-sonderfall-und-edge-case
-description: "Echten: Sonderfall und Edge-Case-Prüfung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Echten: Sonderfall und Edge-Case-Prüfung im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung

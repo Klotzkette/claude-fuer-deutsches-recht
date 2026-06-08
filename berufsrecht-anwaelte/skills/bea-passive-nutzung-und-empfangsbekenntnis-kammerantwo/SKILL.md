@@ -1,6 +1,6 @@
 ---
 name: bea-passive-nutzung-und-empfangsbekenntnis-kammerantwo
-description: "Anwälte: bea passive nutzung und empfangsbekenntnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: bea passive nutzung und empfangsbekenntnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

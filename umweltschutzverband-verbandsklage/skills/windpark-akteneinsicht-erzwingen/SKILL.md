@@ -1,6 +1,6 @@
 ---
 name: windpark-akteneinsicht-erzwingen
-description: "Umweltschutzverband Verbandsklage: Windpark: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Windpark: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Windpark Akteneinsicht Erzwingen

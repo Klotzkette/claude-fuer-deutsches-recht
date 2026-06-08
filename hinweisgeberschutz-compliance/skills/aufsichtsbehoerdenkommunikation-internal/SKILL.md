@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbehoerdenkommunikation-internal
-description: "Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Kommunikation mit Aufsichtsbehörden im Hinweisgeberschutz Compliance."
 ---
 
 # Aufsichtsbehoerdenkommunikation

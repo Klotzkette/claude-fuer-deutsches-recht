@@ -1,6 +1,6 @@
 ---
 name: standard-vs-single-vs-gruppenregistrierung
-description: "Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung im Us Copyright Registrierung Verlag."
 ---
 
 # Standard, Single oder Gruppenregistrierung

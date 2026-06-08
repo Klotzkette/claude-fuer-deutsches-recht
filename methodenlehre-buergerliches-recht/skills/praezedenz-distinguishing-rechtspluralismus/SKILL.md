@@ -1,19 +1,9 @@
 ---
 name: praezedenz-distinguishing-rechtspluralismus
-description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehre Buergerliches Recht: prüft konkret Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von, Analysiert das Prinzip richterlicher Zurückhaltung als. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehre Buergerliches Recht: prüft konkret Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von, Analysiert das Prinzip richterlicher Zurückhaltung als."
 ---
 
 # Praezedenz Distinguishing Rechtspluralismus
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `praezedenz-distinguishing-overruling-deutsch` | Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen. |
-| `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen für die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster für die Identifikation des massgeblichen Rechts. |
-| `rechtsvergleichung-methodisch-sauber` | Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen. |
-| `richterliche-zurueckhaltung-und-rechtsfortbildung` | Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung und zeigt auf, wann Rechtsfortbildung nicht nur erlaubt, sondern geboten ist und wann sie unzulässig ist. |
-| `richterrecht-offenlegen-statt-tarnen` | Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen erkennen, einordnen und für Mandanten nutzbar machen. Besonderes Augenmerk liegt auf der Abgrenzung von Auslegung und Rechtsfortbildung sowie der demokratietheoretischen Legitimation richterlicher Rechtsschöpfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `praezedenz-distinguishing-overruling-deutsch`
 

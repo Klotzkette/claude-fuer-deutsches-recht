@@ -1,6 +1,6 @@
 ---
 name: freundliche-zahlungserinnerung
-description: "Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Forderungen Mahnung und Streit: Formuliert freundlich

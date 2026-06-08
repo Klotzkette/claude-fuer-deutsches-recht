@@ -1,6 +1,6 @@
 ---
 name: taetigkeit-beschreiben-ohne-falle
-description: "Solo-Selbstständige: formuliert Tätigkeitsbeschreibung für Gewerbeamt, Finanzamt, Website und Vertrag; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: formuliert Tätigkeitsbeschreibung für Gewerbeamt, Finanzamt, Website und Vertrag; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Kaltstart und Orientierung: Formuliert tätigkeitsbeschreibung für gewerbeamt

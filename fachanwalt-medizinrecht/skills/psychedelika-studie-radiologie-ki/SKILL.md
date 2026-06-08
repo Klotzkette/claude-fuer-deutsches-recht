@@ -1,18 +1,9 @@
 ---
 name: psychedelika-studie-radiologie-ki
-description: "Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit, Robotische Operation. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret Psychedelika Studie und Therapie, Radiologie-KI und Befundfehler, Registerdaten Patientensicherheit, Robotische Operation."
 ---
 
 # Psychedelika Studie Radiologie KI
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `psychedelika-studie-therapie` | Psychedelika Studie und Therapie: moderner Medizinrechts-Skill für Psilocybin/MDMA-Studie, Betäubungsmittelrecht, Ethik, Off-Label-Mythen und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `radiologie-ki-befund` | Radiologie-KI und Befundfehler: moderner Medizinrechts-Skill für KI-Vorschlag, ärztlicher Befund, Overreliance, Softwareupdate und verpasster Zufallsbefund. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `registerdaten-patientensicherheit` | Registerdaten Patientensicherheit: moderner Medizinrechts-Skill für Klinisches Register, Qualitätssicherung, Pseudonymisierung, Zweckänderung und Haftungsprävention. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `robotische-operation` | Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Psychedelika Studie Radiologie KI im Medizinrecht: prüft konkret 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `psychedelika-studie-therapie`
 

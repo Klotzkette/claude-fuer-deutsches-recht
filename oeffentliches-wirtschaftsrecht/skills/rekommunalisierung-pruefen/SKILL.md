@@ -1,6 +1,6 @@
 ---
 name: rekommunalisierung-pruefen
-description: "Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
 ---
 
 # Rekommunalisierung Pruefen

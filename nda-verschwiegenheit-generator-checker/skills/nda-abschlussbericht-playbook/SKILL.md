@@ -1,6 +1,6 @@
 ---
 name: nda-abschlussbericht-playbook
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # NDA Abschlussbericht Playbook

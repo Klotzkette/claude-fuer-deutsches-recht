@@ -1,6 +1,6 @@
 ---
 name: ueberschuldung-fristen-form-und-zustaendigkeit
-description: "Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Insolvenzrecht."
 ---
 
 # Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,18 +1,9 @@
 ---
 name: allgemeiner-besonderer
-description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konkret Erklärung des Unterschieds zwischen dem punktuellen, Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG, Berufung beim Landesarbeitsgericht und Revision beim BAG, Typische Verteidigungsstrategien des Arbeitgebers im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konkret Erklärung des Unterschieds zwischen dem punktuellen, Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG, Berufung beim Landesarbeitsgericht und Revision beim BAG, Typische Verteidigungsstrategien des Arbeitgebers im."
 ---
 
 # Kueschk Allgemeiner Besonderer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten. |
-| `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` | Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag stellen. |
-| `kueschk-berufung-und-revision-lag-bag` | Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe. |
-| `kueschk-erwiderung-arbeitgeber-strategien-typisch` | Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kueschk-allgemeiner-und-besonderer-feststellungsantrag`
 

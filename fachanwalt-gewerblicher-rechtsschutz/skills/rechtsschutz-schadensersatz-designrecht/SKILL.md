@@ -1,17 +1,9 @@
 ---
 name: rechtsschutz-schadensersatz-designrecht
-description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe, Designrecht in der Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe, Designrecht in der Praxis."
 ---
 
 # Schadensersatz Designrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-rechtsschutz-fristen-form-und-zuständigkeit` | Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr. |
-| `spezial-schadensersatz-abschlussprodukt-und-uebergabe` | Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten. |
-| `designrecht-praxis-grundlagen` | Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-rechtsschutz-fristen-form-und-zuständigkeit`
 

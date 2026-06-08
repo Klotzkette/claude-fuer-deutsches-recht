@@ -1,6 +1,6 @@
 ---
 name: bonus-gehaltsrunde-branchenfokus-client
-description: "Bereitet Vergütungsentscheidungen nach Markt, Leistung, Bindung und Fairness vor. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Vergütungsentscheidungen nach Markt, Leistung, Bindung und Fairness vor. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Bonus- und Gehaltsrunde

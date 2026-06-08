@@ -1,6 +1,6 @@
 ---
 name: buergermeister-eilantrag-vorbereiten
-description: "der Länder: Bürgermeister: Eilantrag vorbereiten im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "der Länder: Bürgermeister: Eilantrag vorbereiten im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Buergermeister Eilantrag Vorbereiten

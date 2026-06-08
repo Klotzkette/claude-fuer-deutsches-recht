@@ -1,18 +1,9 @@
 ---
 name: anaesthesie-hochrisiko-approbation-digitales
-description: "Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prüft konkret Anästhesie Hochrisiko-Aufklärung, Approbation und digitales Fehlverhalten, Arztanstellung im MVZ, Assistierter Suizid Beratung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prüft konkret Anästhesie Hochrisiko-Aufklärung, Approbation und digitales Fehlverhalten, Arztanstellung im MVZ, Assistierter Suizid Beratung."
 ---
 
 # Anaesthesie Hochrisiko Approbation Digitales
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anaesthesie-hochrisiko-aufklaerung` | Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr, Blutprodukte, Aufklärungstiming und Notfallausnahme. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `approbation-digitales-fehlverhalten` | Approbation und digitales Fehlverhalten: moderner Medizinrechts-Skill für Telemedizin-Fehlverhalten, Social Media, Abrechnungsbetrug, Unwürdigkeit/Unzuverlässigkeit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `arzt-anstellung-mvz` | Arztanstellung im MVZ: moderner Medizinrechts-Skill für Anstellungsgenehmigung, Versorgungsauftrag, Arbeitszeit, Nebentätigkeit und Haftungsverteilung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `assistierter-suizid-beratung` | Assistierter Suizid Beratung: moderner Medizinrechts-Skill für Ärztliche Beratung, Freiverantwortlichkeit, Berufsrecht, Strafrechtsgrenzen und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Anaesthesie Hochrisiko Approbation Digitales im Medizinrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anaesthesie-hochrisiko-aufklaerung`
 

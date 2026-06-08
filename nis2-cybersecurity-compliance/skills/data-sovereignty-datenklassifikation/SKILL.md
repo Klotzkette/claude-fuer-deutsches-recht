@@ -1,6 +1,6 @@
 ---
 name: data-sovereignty-datenklassifikation
-description: "Prüft Datenresidenz, Souveränität und Cloud-Regionen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenresidenz, Souveränität und Cloud-Regionen im Nis2 Cybersecurity Compliance."
 ---
 
 # Data Sovereignty Cloud Region

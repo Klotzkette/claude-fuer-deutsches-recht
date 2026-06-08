@@ -1,6 +1,6 @@
 ---
 name: bund-laender-programm-risiko-markieren
-description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Bund Länder Programm Risiko Markieren

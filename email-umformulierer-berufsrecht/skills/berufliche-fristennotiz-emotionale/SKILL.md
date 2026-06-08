@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-emotionale
-description: "Berufliche: Fristennotiz und nächster Schritt im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufliche: Fristennotiz und nächster Schritt im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

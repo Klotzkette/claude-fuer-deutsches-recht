@@ -1,6 +1,6 @@
 ---
 name: konzernmeldestelle-kuendigung-laender
-description: "Prüft konzernweite Meldestelle und lokale Verantwortlichkeit im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft konzernweite Meldestelle und lokale Verantwortlichkeit im Hinweisgeberschutz Compliance."
 ---
 
 # Konzernmeldestelle

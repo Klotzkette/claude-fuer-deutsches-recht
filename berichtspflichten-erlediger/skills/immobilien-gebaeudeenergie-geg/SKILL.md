@@ -1,6 +1,6 @@
 ---
 name: immobilien-gebaeudeenergie-geg
-description: "Gebäudeenergie: Energieausweis, Nachrüstpflichten, Heizungsdaten, Förder-/Meldeunterlagen und Vermieter-/Eigentümerpflichten im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gebäudeenergie: Energieausweis, Nachrüstpflichten, Heizungsdaten, Förder-/Meldeunterlagen und Vermieter-/Eigentümerpflichten im Berichtspflichten."
 ---
 
 # Gebäudeenergie und GEG-Nachweise

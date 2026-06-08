@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-nach-rueckgabe
-description: "Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lessons Learned nach Leasingrückgabe: Analyse von Minderwertstreitigkeiten, Prozessverbesserungen, Vertragsoptimierungen und Portfolioentwicklung im Leasingrecht."
 ---
 
 # Lessons Learned nach der Leasingrückgabe

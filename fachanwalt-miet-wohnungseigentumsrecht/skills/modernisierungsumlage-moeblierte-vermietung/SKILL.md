@@ -1,19 +1,9 @@
 ---
 name: modernisierungsumlage-moeblierte-vermietung
-description: "Modernisierungsumlage Moeblierte Vermietung im Miet- und Wohnungseigentumsrecht: prüft konkret Modernisierungsumlage § 559 BGB, Möblierte Vermietung, Müllsortierung/Kosten, Notar/Grundbuch WEG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Modernisierungsumlage Moeblierte Vermietung im Miet- und Wohnungseigentumsrecht: prüft konkret Modernisierungsumlage § 559 BGB, Möblierte Vermietung, Müllsortierung/Kosten, Notar/Grundbuch WEG."
 ---
 
 # Modernisierungsumlage Moeblierte Vermietung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-modernisierungsumlage-559` | Modernisierungsumlage § 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-moeblierte-vermietung` | Möblierte Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-muellsortierung-kosten` | Müllsortierung/Kosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-notar-weg-grundbuch` | Notar/Grundbuch WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-ordnungsrecht-schnittstelle-haus` | Ordnungsrecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Modernisierungsumlage Moeblierte Vermietung im Miet- und Wohnungse
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-modernisierungsumlage-559`
 

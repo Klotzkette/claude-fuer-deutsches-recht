@@ -1,17 +1,9 @@
 ---
 name: e-mobilitaet-eigentuemerkommunikation
-description: "E Mobilitaet Eigentuemerkommunikation im Plugin Weg Hausverwaltung: prüft konkret Prüft E-Mobilität, Wallboxen, Ladeinfrastruktur, Steckersolar. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "E Mobilitaet Eigentuemerkommunikation im Plugin Weg Hausverwaltung: prüft konkret Prüft E-Mobilität, Wallboxen, Ladeinfrastruktur, Steckersolar."
 ---
 
 # E Mobilitaet Eigentuemerkommunikation
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `e-mobilitaet-steckersolar-kellerstrom` | Prüft E-Mobilität, Wallboxen, Ladeinfrastruktur, Steckersolar, Dach-PV und unzulässige Kellerstrom-Lösungen in WEG-Anlagen. Ordnet § 20 WEG, Brandschutz, Messkonzept, Kosten, Netzanschluss und Beschlussvarianten. Output: Beschluss- und Risikomatrix. |
-| `eigentuemerkommunikation-beschwerde` | Formuliert klare, deeskalierende und dokumentationssichere Kommunikation an Eigentümer, Beirat, Mieter und Handwerker bei Beschwerden, Rückfragen, Fristen und Beschlussumsetzung (Stand 05/2026). Berücksichtigt aktuelle BGH-Linien (Abrechnung, Vorbefassung, Schlüsseländerung, vermietender Eigentümer). |
-| `eigentuemerversammlung-vorbereiten` | Plant eine Eigentümerversammlung (Stand 05/2026) von Themenstapel, Beschlussbedarf, Unterlagen, Beiratsabstimmung, Einladungszeitplan, Raum/virtueller Teilnahme bis zur Nachbereitung. Berücksichtigt § 23 Abs. 1a WEG, BGH-Linie zu Vorbefassung (V ZR 86/24), Abrechnung (V ZR 102/23) und Schlüsseländerung (V ZR 236/23, V ZR 128/23). |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "E Mobilitaet Eigentuemerkommunikation im Plugin Weg Hausverwaltung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `e-mobilitaet-steckersolar-kellerstrom`
 

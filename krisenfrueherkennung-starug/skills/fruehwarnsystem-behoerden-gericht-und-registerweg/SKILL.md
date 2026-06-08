@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-behoerden-gericht-und-registerweg
-description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg

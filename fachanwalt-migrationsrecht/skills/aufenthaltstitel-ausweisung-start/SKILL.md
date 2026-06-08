@@ -1,19 +1,9 @@
 ---
 name: aufenthaltstitel-ausweisung-start
-description: "Aufenthaltstitel Ausweisung Start im Migrationsrecht: prüft konkret Aufenthaltstitel-Router, Ausweisung Start, Behördenkommunikation, Bescheid verstehen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufenthaltstitel Ausweisung Start im Migrationsrecht: prüft konkret Aufenthaltstitel-Router, Ausweisung Start, Behördenkommunikation, Bescheid verstehen."
 ---
 
 # Aufenthaltstitel Ausweisung Start
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-aufenthaltstitel-router` | Aufenthaltstitel-Router: Prüfungslinie für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-ausweisung-start` | Ausweisung Start: Prüfungslinie für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-behoerdenkommunikation` | Behördenkommunikation: Prüfungslinie für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-bescheid-verstehen` | Bescheid verstehen: Prüfungslinie für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-blaue-karte-start` | Blaue Karte EU Start: Prüfungslinie für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Aufenthaltstitel Ausweisung Start im Migrationsrecht: prüft konkr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-aufenthaltstitel-router`
 

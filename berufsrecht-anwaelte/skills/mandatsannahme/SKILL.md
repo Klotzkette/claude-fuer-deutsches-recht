@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme
-description: "Mandatsannahme: vertiefter Berufsrechts-Skill für Anwälte; prüft Mandatsannahme im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatsannahme: vertiefter Berufsrechts-Skill für Anwälte; prüft Mandatsannahme im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Mandatsannahme

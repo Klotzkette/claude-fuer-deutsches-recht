@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-behinderung
-description: "Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Pruefungsrecht Hochschule."
 ---
 
 # Nachteilsausgleich Behinderung

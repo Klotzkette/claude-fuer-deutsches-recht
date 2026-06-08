@@ -1,6 +1,6 @@
 ---
 name: bho-49-kassenmittel-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 49 Kassenmittel praktisch anwenden. BHO § 49 Kassenmittel praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 49 Kassenmittel praktisch anwenden. BHO § 49 Kassenmittel praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Bho 49 Kassenmittel Praktisch Anwenden

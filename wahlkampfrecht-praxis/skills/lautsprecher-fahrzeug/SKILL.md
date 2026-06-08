@@ -1,6 +1,6 @@
 ---
 name: lautsprecher-fahrzeug
-description: "Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung pruefen im Wahlkampfrecht."
 ---
 
 # Lautsprecher Fahrzeug

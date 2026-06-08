@@ -1,6 +1,6 @@
 ---
 name: parteiprogramm-formal-parteitag-planung
-description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung im Parteienrecht."
 ---
 
 # Parteiprogramm formal

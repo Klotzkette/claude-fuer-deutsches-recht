@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-akte-anfordern
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Wohnhaus Ddr Enteignung Akte Anfordern

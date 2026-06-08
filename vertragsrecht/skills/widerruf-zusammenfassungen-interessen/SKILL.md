@@ -1,6 +1,6 @@
 ---
 name: widerruf-zusammenfassungen-interessen
-description: "Widerruf: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerruf: Internationaler Bezug und Schnittstellen im Vertragsrecht."
 ---
 
 # Widerruf: Internationaler Bezug und Schnittstellen

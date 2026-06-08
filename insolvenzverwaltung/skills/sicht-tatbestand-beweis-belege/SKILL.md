@@ -1,15 +1,9 @@
 ---
 name: sicht-tatbestand-beweis-belege
-description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung im Insolvenzverwaltung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung im Insolvenzverwaltung."
 ---
 
 # Sicht Tatbestand Beweis Belege
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-sicht-tatbestand-beweis-und-belege` | Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Sicht Tatbestand Beweis Belege im Plugin Insolvenzverwaltung im In
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-sicht-tatbestand-beweis-und-belege`
 

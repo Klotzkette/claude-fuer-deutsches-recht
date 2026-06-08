@@ -1,6 +1,6 @@
 ---
 name: berufsgenossenschaft-anmeldung
-description: "Solo-Selbstständige: prüft BG-Anmeldung, Unfallversicherung und Beschäftigtenrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft BG-Anmeldung, Unfallversicherung und Beschäftigtenrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Anmeldung und Behörden: Prüft bg-anmeldung

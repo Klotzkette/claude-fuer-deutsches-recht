@@ -1,6 +1,6 @@
 ---
 name: studiengang-einstellung
-description: "Prüft Einstellung, Änderung und Akkreditierung von Studiengängen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einstellung, Änderung und Akkreditierung von Studiengängen im Hochschulrecht Länder."
 ---
 
 # Studiengang Einstellung

@@ -1,6 +1,6 @@
 ---
 name: cra-produkte-digitale-elemente
-description: "Verbindet NIS-2-Betriebspflichten mit Cyber Resilience Act für Produkte im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet NIS-2-Betriebspflichten mit Cyber Resilience Act für Produkte im Nis2 Cybersecurity Compliance."
 ---
 
 # CRA Produkte Digitale Elemente

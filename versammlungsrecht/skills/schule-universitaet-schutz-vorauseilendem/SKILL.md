@@ -1,6 +1,6 @@
 ---
 name: schule-universitaet-schutz-vorauseilendem
-description: "Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht im Versammlungsrecht."
 ---
 
 # Junge Versammlungen brauchen klare Rollen

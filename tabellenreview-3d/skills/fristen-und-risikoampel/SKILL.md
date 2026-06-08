@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Tabellenreview 3D im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen- und Risikoampel im Plugin Tabellenreview 3D im Tabellenreview 3d."
 ---
 
 # Fristen- und Risikoampel

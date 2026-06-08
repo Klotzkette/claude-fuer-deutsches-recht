@@ -1,6 +1,6 @@
 ---
 name: sprachtest-auslaenderrecht
-description: "Prüft Sprachprüfungen, Zertifikate, Anerkennung, Täuschungsvorwurf und Fristen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sprachprüfungen, Zertifikate, Anerkennung, Täuschungsvorwurf und Fristen im Pruefungsrecht Hochschule."
 ---
 
 # Sprachtest und Aufenthaltsrecht

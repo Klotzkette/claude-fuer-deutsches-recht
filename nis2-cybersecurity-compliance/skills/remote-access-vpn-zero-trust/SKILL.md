@@ -1,6 +1,6 @@
 ---
 name: remote-access-vpn-zero-trust
-description: "Prüft VPN, Zero Trust und Remote Access im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft VPN, Zero Trust und Remote Access im Nis2 Cybersecurity Compliance."
 ---
 
 # Remote Access VPN Zero Trust

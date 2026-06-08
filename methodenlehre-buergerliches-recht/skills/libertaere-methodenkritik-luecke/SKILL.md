@@ -1,19 +1,9 @@
 ---
 name: libertaere-methodenkritik-luecke
-description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerliches Recht: prüft konkret Analysiert die libertäre Methodenkritik an staatlichen und, Klärt die methodisch entscheidende Unterscheidung zwischen, Leitet durch die methodisch korrekte Aufbereitung und, Analysiert das Richterrecht als Quelle des Zivilrechts und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerliches Recht: prüft konkret Analysiert die libertäre Methodenkritik an staatlichen und, Klärt die methodisch entscheidende Unterscheidung zwischen, Leitet durch die methodisch korrekte Aufbereitung und, Analysiert das Richterrecht als Quelle des Zivilrechts und."
 ---
 
 # Libertaere Methodenkritik Luecke
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `libertaere-methodenkritik-privatautonomie` | Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen. |
-| `luecke-oder-gesetzesablehnung` | Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet. |
-| `meth-anspruchsgrundlage-pyramide-bauleiter` | Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und Subsidiarität zu ordnen. Geeignet für Mandate im Baurecht, Werkunternehmerhaftung und Projektleiterhaftung. |
-| `meth-richterrecht-rechtsfortbildung-spezial` | Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann richterrechtliche Regeln durch distinguishing oder overruling überwunden werden dürfen. |
-| `meth-verfassungskonforme-auslegung-spezial` | Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumdeutung übergeht. Geeignet für alle Fälle mit Grundrechtsbezug im Privatrecht. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerli
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `libertaere-methodenkritik-privatautonomie`
 

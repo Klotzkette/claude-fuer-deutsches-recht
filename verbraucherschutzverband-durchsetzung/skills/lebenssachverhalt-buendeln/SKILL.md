@@ -1,6 +1,6 @@
 ---
 name: lebenssachverhalt-buendeln
-description: "Verbraucherschutzverband Durchsetzung: Lebenssachverhalt bündeln. Lebenssachverhalt bündeln im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Lebenssachverhalt bündeln. Lebenssachverhalt bündeln im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Lebenssachverhalt Buendeln

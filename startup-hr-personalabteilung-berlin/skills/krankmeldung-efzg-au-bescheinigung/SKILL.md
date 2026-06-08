@@ -1,6 +1,6 @@
 ---
 name: krankmeldung-efzg-au-bescheinigung
-description: "Berliner Start-up-HR: Krankmeldung und Entgeltfortzahlung: eAU, Anzeige, Nachweis, Zweifel, BEM-Trigger und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Krankmeldung und Entgeltfortzahlung: eAU, Anzeige, Nachweis, Zweifel, BEM-Trigger und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Krankmeldung EFZG Au Bescheinigung

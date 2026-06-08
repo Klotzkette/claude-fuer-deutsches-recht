@@ -1,6 +1,6 @@
 ---
 name: sprach-und-verstehensprofil
-description: "Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden im Bürokratie-Entbürokratisierung."
 ---
 
 # Sprache und Verstehensprofil

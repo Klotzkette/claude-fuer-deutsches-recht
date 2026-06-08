@@ -1,6 +1,6 @@
 ---
 name: hinterbliebenenrente-witwen-waisen
-description: "Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug im Rentenpruefer."
 ---
 
 # hinterbliebenenrente-witwen-waisen

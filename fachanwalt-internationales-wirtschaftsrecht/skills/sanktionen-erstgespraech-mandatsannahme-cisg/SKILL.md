@@ -1,17 +1,9 @@
 ---
 name: sanktionen-erstgespraech-mandatsannahme-cisg
-description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wirtschaftsrecht: prüft konkret Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wirtschaftsrecht: prüft konkret Sanktionen, Strukturierter Erstgespraechsleitfaden für Internationales, Prüfungslinie für fachanwalt internationales wirtschaftsrecht."
 ---
 
 # Sanktionen Erstgespraech Mandatsannahme CISG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage` | Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Sanktionen Erstgespraech Mandatsannahme CISG im Internationalen Wi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
 

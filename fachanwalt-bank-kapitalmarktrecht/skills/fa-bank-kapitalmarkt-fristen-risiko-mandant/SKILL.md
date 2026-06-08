@@ -1,17 +1,9 @@
 ---
 name: fa-bank-kapitalmarkt-fristen-risiko-mandant
-description: "FA Bank Kapitalmarkt Fristen Risiko Mandant im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA Bank Kapitalmarkt Fristen Risiko Mandant im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin."
 ---
 
 # FA Bank Kapitalmarkt Fristen Risiko Mandant
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-bank-kapitalmarktrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-bank-kapitalmarktrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-bank-kapitalmarktrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "FA Bank Kapitalmarkt Fristen Risiko Mandant im Plugin Fachanwalt B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-fristen-und-risikoampel`
 

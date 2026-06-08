@@ -1,6 +1,6 @@
 ---
 name: bess-netzentgelte-board-physische
-description: "Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen im Energierecht."
 ---
 
 # Netzentgelte, Umlagen, Speicherprivilegien

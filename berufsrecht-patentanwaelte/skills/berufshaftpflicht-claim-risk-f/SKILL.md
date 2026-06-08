@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-claim-risk-f
-description: "Patentanwälte: berufshaftpflicht und claim risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: berufshaftpflicht und claim risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: berufshaftpflicht und claim risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

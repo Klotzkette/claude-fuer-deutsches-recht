@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-esg-und-lieferkette
-description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat ESG Und Lieferkette; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Aufsichtsrat ESG Und Lieferkette

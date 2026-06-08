@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnis-definition-2-geschgehg
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # Geschaeftsgeheimnis Definition 2 Geschgehg

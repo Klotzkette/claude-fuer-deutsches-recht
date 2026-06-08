@@ -1,6 +1,6 @@
 ---
 name: archive-register-auslegung-canones
-description: "Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Archive, Register und Datenschutz

@@ -1,6 +1,6 @@
 ---
 name: krankheit-und-ruecktritt
-description: "Prüft Krankheit, Rücktritt und Prüfungsunfähigkeit im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Krankheit, Rücktritt und Prüfungsunfähigkeit im Pruefungsrecht Hochschule."
 ---
 
 # Krankheit Und Ruecktritt

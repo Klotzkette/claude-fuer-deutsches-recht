@@ -1,6 +1,6 @@
 ---
 name: forsch-stundenaufzeichnung-fz-ablehnung
-description: "Leitfaden Stundenaufzeichnung FZulG: zuwendungsfaehige Personalkosten, eigene Beschaeftigte, Auftragsforschung, Dokumentationspflichten. Pruefraster für Personalcontrolling im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Stundenaufzeichnung FZulG: zuwendungsfaehige Personalkosten, eigene Beschaeftigte, Auftragsforschung, Dokumentationspflichten. Pruefraster für Personalcontrolling im Forschungszulage."
 ---
 
 # Forsch: Stundenaufzeichnung

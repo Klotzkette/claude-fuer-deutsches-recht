@@ -1,6 +1,6 @@
 ---
 name: autorenkommunikation-email
-description: "Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schreibt freundliche, klare Autor:innenkommunikation für Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen im Verlagsredaktion."
 ---
 
 # Autor:innenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-erbbaurecht-schnittstelle
-description: "Verknüpft Grundstücksgrundbuch, Erbbaugrundbuch, Reallast, Zustimmung und Belastungen im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft Grundstücksgrundbuch, Erbbaugrundbuch, Reallast, Zustimmung und Belastungen im Grundbuchamt Praxis."
 ---
 
 # Erbbaurecht im Grundbuch

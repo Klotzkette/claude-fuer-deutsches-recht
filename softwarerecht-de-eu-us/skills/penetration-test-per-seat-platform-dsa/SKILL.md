@@ -1,6 +1,6 @@
 ---
 name: penetration-test-per-seat-platform-dsa
-description: "Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure im Softwarerecht De Eu Us."
 ---
 
 # Penetration Test Terms

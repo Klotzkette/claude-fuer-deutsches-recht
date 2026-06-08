@@ -1,6 +1,6 @@
 ---
 name: tiertransport-beweise-strafrisiko
-description: "Tiertransport: Beweise sichern im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tiertransport: Beweise sichern im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Tiertransport Beweise Sichern

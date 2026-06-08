@@ -1,17 +1,9 @@
 ---
 name: patg-verfuegung-beweislast-verletzungsklage
-description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret PatG, Einstweilige Verfügung, Verletzungsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret PatG, Einstweilige Verfügung, Verletzungsklage."
 ---
 
 # Patg Verfuegung Beweislast Verletzungsklage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-patg-schriftsatz-brief-und-memo-bausteine` | PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ. |
-| `spezial-verfuegung-beweislast-und-darlegungslast` | Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren. |
-| `spezial-verletzungsklage-sonderfall-und-edge-case` | Verletzungsklage: Sonderfälle und Edge Cases. Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzrechts-Übertragung, Designverletzung bei must-fit, Parallelimport. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-patg-schriftsatz-brief-und-memo-bausteine`
 

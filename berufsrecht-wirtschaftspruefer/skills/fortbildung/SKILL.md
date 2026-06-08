@@ -1,6 +1,6 @@
 ---
 name: fortbildung
-description: "Fortbildung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Fortbildung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fortbildung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Fortbildung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Fortbildung

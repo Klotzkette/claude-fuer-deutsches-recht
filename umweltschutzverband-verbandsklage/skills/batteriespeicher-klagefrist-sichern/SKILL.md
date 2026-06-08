@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-klagefrist-sichern
-description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Klagefrist sichern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Klagefrist sichern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Batteriespeicher Klagefrist Sichern

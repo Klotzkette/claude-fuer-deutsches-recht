@@ -1,6 +1,6 @@
 ---
 name: asset-protection-and-cash-repatriation
-description: "Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern

@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-beweis-ruegen
-description: "Straßenverkehr: Beweis rügen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Straßenverkehr: Beweis rügen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Strassenverkehr Beweis Ruegen

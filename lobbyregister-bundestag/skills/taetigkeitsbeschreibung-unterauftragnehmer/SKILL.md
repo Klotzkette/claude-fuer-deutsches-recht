@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung-unterauftragnehmer
-description: "Formuliert die allgemeine Tätigkeit der Interessenvertretung klar, nicht irreführend und updatefähig. Normen § 3 und § 5 LobbyRG. Output Portaltext im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert die allgemeine Tätigkeit der Interessenvertretung klar, nicht irreführend und updatefähig. Normen § 3 und § 5 LobbyRG. Output Portaltext im Lobbyregister Bundestag."
 ---
 
 # Taetigkeitsbeschreibung

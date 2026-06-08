@@ -1,6 +1,6 @@
 ---
 name: characters-fictional-universe
-description: "Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation im Us Copyright Registrierung Verlag."
 ---
 
 # Characters und Fictional Universe

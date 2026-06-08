@@ -1,6 +1,6 @@
 ---
 name: no-representation-no-warranty
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # No Representation No Warranty

@@ -1,6 +1,6 @@
 ---
 name: behoerdenformular-verstehen-bescheid
-description: "Behördenformular verstehen: führt Laien durch Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behördenformular verstehen: führt Laien durch Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Behördenformular verstehen

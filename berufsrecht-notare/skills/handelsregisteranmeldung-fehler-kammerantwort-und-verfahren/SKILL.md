@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-fehler-kammerantwort-und-verfahren
-description: "Notare: handelsregisteranmeldung fehler - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: handelsregisteranmeldung fehler - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: handelsregisteranmeldung fehler - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-registerzeichen-und-aktenzeichen
-description: "Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt HRB, HRA, PR, GnR, VR, Registernummer, Gericht und Aktenzeichenlogik im Handelsregister Praxis."
 ---
 
 # Registerzeichen verstehen

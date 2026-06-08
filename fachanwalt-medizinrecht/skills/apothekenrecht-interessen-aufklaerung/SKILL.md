@@ -1,16 +1,9 @@
 ---
 name: apothekenrecht-interessen-aufklaerung
-description: "Apothekenrecht Interessen Aufklaerung im Medizinrecht: prüft konkret Apothekenrecht, Aufklaerung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Apothekenrecht Interessen Aufklaerung im Medizinrecht: prüft konkret Apothekenrecht, Aufklaerung."
 ---
 
 # Apothekenrecht Interessen Aufklaerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-apothekenrecht-mehrparteien-konflikt-und-interessen` | Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-aufklaerung-beweislast-und-darlegungslast` | Aufklaerung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -20,11 +13,11 @@ description: "Apothekenrecht Interessen Aufklaerung im Medizinrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-apothekenrecht-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt medizinrecht.
 
 ### Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix
 
@@ -50,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-aufklaerung-beweislast-und-darlegungslast`
 
-**Fokus:** Aufklaerung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aufklaerung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt medizinrecht.
 
 ### Aufklaerung: Beweislast, Darlegungslast und Substantiierung
 

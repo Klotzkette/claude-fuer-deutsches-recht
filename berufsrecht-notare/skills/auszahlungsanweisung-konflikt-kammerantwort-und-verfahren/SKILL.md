@@ -1,6 +1,6 @@
 ---
 name: auszahlungsanweisung-konflikt-kammerantwort-und-verfahren
-description: "Notare: auszahlungsanweisung konflikt - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: auszahlungsanweisung konflikt - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: auszahlungsanweisung konflikt - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-designvergleich
-description: "Beweissicherung für Designvergleich organisieren: Testkauf, Fotos, Maßstab, Winkel, Zeuge, Hash, Screenshot, Zeitstempel und Produktaufbewahrung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweissicherung für Designvergleich organisieren: Testkauf, Fotos, Maßstab, Winkel, Zeuge, Hash, Screenshot, Zeitstempel und Produktaufbewahrung im Designrecht Geschmacksmusterrecht."
 ---
 
 # Beweissicherung Designvergleich

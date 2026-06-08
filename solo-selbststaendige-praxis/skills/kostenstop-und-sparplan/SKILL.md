@@ -1,6 +1,6 @@
 ---
 name: kostenstop-und-sparplan
-description: "Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Pricing Liquidität und Wachstum: Findet kostenblöcke ohne geschäftsmodell zu zerstören

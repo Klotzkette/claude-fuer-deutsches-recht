@@ -1,6 +1,6 @@
 ---
 name: remote-work
-description: "Remote Work: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Remote Work im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remote Work: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Remote Work im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Remote Work

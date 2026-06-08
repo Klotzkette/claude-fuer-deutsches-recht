@@ -1,6 +1,6 @@
 ---
 name: staatsexamen-landesrecht
-description: "Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktritt und Prüfungsämter im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktritt und Prüfungsämter im Pruefungsrecht Hochschule."
 ---
 
 # Staatsexamen Landesrecht

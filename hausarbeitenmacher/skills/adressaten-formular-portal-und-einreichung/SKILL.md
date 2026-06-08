@@ -1,6 +1,6 @@
 ---
 name: adressaten-formular-portal-und-einreichung
-description: "Adressaten: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Adressaten: Formular, Portal und Einreichungslogik im Hausarbeitenmacher."
 ---
 
 # Adressaten: Formular, Portal und Einreichungslogik

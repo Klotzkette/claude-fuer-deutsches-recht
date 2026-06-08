@@ -1,6 +1,6 @@
 ---
 name: mieter-intake-mieterhoehung-entscheidung
-description: "Mieter Intake Mieterhoehung Entscheidung im Miet- und Wohnungseigentumsrecht: prüft konkret Mieter-Intake, Mieterhöhung-Entscheidung, Mietkonto und Kontoauszug, Mietpreisbremse-Start. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mieter Intake Mieterhoehung Entscheidung im Miet- und Wohnungseigentumsrecht: prüft konkret Mieter-Intake, Mieterhöhung-Entscheidung, Mietkonto und Kontoauszug, Mietpreisbremse-Start."
 ---
 
 # Mieter Intake Mieterhoehung Entscheidung
@@ -19,16 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-mieter-intake` | Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht; sortiert Mängel, Geld, Kündigung, Räumung, Sozialschutz und Belege; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mieterhoehung-entscheidung` | Mieterhöhung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; berechnet Zustimmungspflicht, Kappung, Sperrfrist und Einwendungen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mietkonto-kontoauszug` | Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht; rekonstruiert Soll/Ist, Rückstände, Tilgungsbestimmung und Schonfristzahlung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mietpreisbremse-start` | Mietpreisbremse-Start: Prüfungslinie für Miet- und WEG-Recht; klärt Gebiet, Vormiete, Neubau/Modernisierung, Rüge und Rückforderung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-modernisierung-entscheidung` | Modernisierung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt Duldung, Härte, Ankündigung, Kosten und spätere Umlage; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-mieter-intake`
 

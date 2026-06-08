@@ -1,6 +1,6 @@
 ---
 name: mitgliederversammlung-kleine-kreis
-description: "Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte im Parteienrecht."
 ---
 
 # Kleine Partei Praxis

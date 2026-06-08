@@ -1,6 +1,6 @@
 ---
 name: ai-pair-programming-employment
-description: "Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung im Softwarerecht De Eu Us."
 ---
 
 # AI Pair Programming im Arbeitsverhältnis

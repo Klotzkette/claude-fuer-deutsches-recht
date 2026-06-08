@@ -1,6 +1,6 @@
 ---
 name: gesundheit-und-pflegevertrag
-description: "Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesundheit und Pflegevertrag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesundheit und Pflegevertrag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Gesundheit Und Pflegevertrag

@@ -1,6 +1,6 @@
 ---
 name: kosten-streitwert-leistungsschutz-kuenstler
-description: "Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget im Urheberrecht De Eu."
 ---
 
 # Kosten, Streitwert und Wirtschaftlichkeit

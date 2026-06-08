@@ -1,17 +1,9 @@
 ---
 name: vergleichspraxis-interessen-verifizierter
-description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arbeitsrecht: prüft konkret Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arbeitsrecht: prüft konkret Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen."
 ---
 
 # Vergleichspraxis Interessen Verifizierter
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie. |
-| `spezial-verifizierter-mandantenentscheidung` | Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch. Aufklärungspflicht des Anwalts, Dokumentation der Entscheidung, Informed Consent. |
-| `entgeltgleichheit-paarvergleich-agg-entgtranspg` | Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen`
 

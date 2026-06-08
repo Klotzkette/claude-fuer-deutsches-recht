@@ -1,6 +1,6 @@
 ---
 name: tatbestand-formular-portal-und-einreichung
-description: "Tatbestand: Formular, Portal und Einreichungslogik im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tatbestand: Formular, Portal und Einreichungslogik im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Tatbestand: Formular, Portal und Einreichungslogik

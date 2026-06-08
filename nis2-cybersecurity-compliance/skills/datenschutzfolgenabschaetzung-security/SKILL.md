@@ -1,6 +1,6 @@
 ---
 name: datenschutzfolgenabschaetzung-security
-description: "Erstellt DSFA für Security-Systeme mit hohem Risiko im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt DSFA für Security-Systeme mit hohem Risiko im Nis2 Cybersecurity Compliance."
 ---
 
 # Datenschutzfolgenabschaetzung Security

@@ -1,6 +1,6 @@
 ---
 name: dashboard-executive-cockpit-partner-scorecard
-description: "Baut Cockpit mit Cash, WIP, AR, Utilization, UBT, Pipeline und People Risk. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Cockpit mit Cash, WIP, AR, Utilization, UBT, Pipeline und People Risk. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Executive Cockpit

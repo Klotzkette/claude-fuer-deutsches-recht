@@ -1,6 +1,6 @@
 ---
 name: distressed-ma-aus-insolvenz
-description: "Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung im Private Equity Praxis."
 ---
 
 # Distressed M&A aus Krise und Insolvenz

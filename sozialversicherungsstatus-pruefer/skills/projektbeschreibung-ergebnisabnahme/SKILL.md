@@ -1,6 +1,6 @@
 ---
 name: projektbeschreibung-ergebnisabnahme
-description: "Gestaltet Projektbeschreibungen, Deliverables und Abnahme so, dass echte Selbständigkeit belegbar wird im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Projektbeschreibungen, Deliverables und Abnahme so, dass echte Selbständigkeit belegbar wird im Sozialversicherungsstatus Pruefer."
 ---
 
 # Projektbeschreibung und Ergebnisabnahme

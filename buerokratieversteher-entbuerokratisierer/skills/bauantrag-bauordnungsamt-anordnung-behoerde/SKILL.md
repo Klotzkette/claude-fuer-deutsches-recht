@@ -1,6 +1,6 @@
 ---
 name: bauantrag-bauordnungsamt-anordnung-behoerde
-description: "Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen im Bürokratie-Entbürokratisierung."
 ---
 
 # Bauantrag

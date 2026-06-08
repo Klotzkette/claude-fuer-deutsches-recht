@@ -1,6 +1,6 @@
 ---
 name: share-classes-anfaenger
-description: "Erklaert share classes, preferred shares, common shares, Vorzugsrechte, Sonderrechte und deutsche Umsetzungsfragen bei GmbH und AG im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert share classes, preferred shares, common shares, Vorzugsrechte, Sonderrechte und deutsche Umsetzungsfragen bei GmbH und AG im Gesellschaftsrecht Legal English."
 ---
 
 # Share Classes und Vorzugsrechte

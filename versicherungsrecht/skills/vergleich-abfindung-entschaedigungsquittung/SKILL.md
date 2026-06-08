@@ -1,6 +1,6 @@
 ---
 name: vergleich-abfindung-entschaedigungsquittung
-description: "Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich mit Versicherern: Abfindungserklärung, Erledigungsklausel, Nachschäden, Regress, Steuer, Kosten und Widerruf/Anfechtung im Versicherungsrecht."
 ---
 
 # Vergleich, Abfindung und Entschädigungsquittung

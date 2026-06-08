@@ -1,6 +1,6 @@
 ---
 name: schulbuch-presserecht
-description: "Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-028 · Schulbuch: Zulassung und öffentliche Beschaffung

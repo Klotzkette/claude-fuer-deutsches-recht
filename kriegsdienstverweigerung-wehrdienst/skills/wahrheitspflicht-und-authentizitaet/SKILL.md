@@ -1,6 +1,6 @@
 ---
 name: wahrheitspflicht-und-authentizitaet
-description: "Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entfernt austauschbare KI-/Musterprosa und stärkt eigene Sprache im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Wahrheit und Authentizität

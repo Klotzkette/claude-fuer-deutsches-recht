@@ -1,18 +1,9 @@
 ---
 name: grenzverfahren-beweislast-notfrist-verfahrens
-description: "Grenzverfahren Beweislast Notfrist Verfahrens im Migrationsrecht: prüft konkret Grenzverfahren, Notfrist, Verfahrens, Asylsuchender muss zum BAMF zur Anhörung und Anwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Grenzverfahren Beweislast Notfrist Verfahrens im Migrationsrecht: prüft konkret Grenzverfahren, Notfrist, Verfahrens, Asylsuchender muss zum BAMF zur Anhörung und Anwalt."
 ---
 
 # Grenzverfahren Beweislast Notfrist Verfahrens
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-grenzverfahren-beweislast-und-darlegungslast` | Grenzverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-notfrist-compliance-dokumentation-und-akte` | Notfrist: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verfahrens-behoerden-gericht-und-registerweg` | Verfahrens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `asyl-anhoerung-vorbereiten` | Asylsuchender muss zum BAMF zur Anhörung und Anwalt bereitet die Schilderung der Fluchtgründe vor. Prüfraster § 25 AsylG Bedeutung der Anhörung Verfolgungs-Schilderung nach GFK-Schutzgründen politische Verfolgung subsidiaerem Schutz Abschiebeverboten § 60 AufenthG. Dublin-III-Prüfung Schutzsuche im Erstland. Beweismittel Atteste Dokumente Zeugen Dolmetscher-Auswahl Verfahrensbeistand für unbegleitete Minderjaehrige. Output strukturierter Vorbereitungsleitfaden mit Anhörungsprotokoll-Checkliste und Korrekturrrecht. Abgrenzung: fachanwalt-migrationsrecht-bamf-anhoerung-strategie für behordliche Kommunikation. |
 
 ## Arbeitsweg
 
@@ -22,11 +13,11 @@ description: "Grenzverfahren Beweislast Notfrist Verfahrens im Migrationsrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-grenzverfahren-beweislast-und-darlegungslast`
 
-**Fokus:** Grenzverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Grenzverfahren: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt migrationsrecht.
 
 ### Grenzverfahren: Beweislast, Darlegungslast und Substantiierung
 
@@ -58,7 +49,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-notfrist-compliance-dokumentation-und-akte`
 
-**Fokus:** Notfrist: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Notfrist: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt migrationsrecht.
 
 ### Notfrist: Compliance-Dokumentation und Aktenvermerk
 
@@ -90,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verfahrens-behoerden-gericht-und-registerweg`
 
-**Fokus:** Verfahrens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verfahrens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt migrationsrecht.
 
 ### Verfahrens: Behörden-, Gerichts- oder Registerweg
 

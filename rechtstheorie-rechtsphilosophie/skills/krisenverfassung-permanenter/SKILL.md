@@ -1,17 +1,9 @@
 ---
 name: krisenverfassung-permanenter
-description: "Krisenverfassung Permanenter im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Krisenverfassung Permanenter im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung."
 ---
 
 # Krisenverfassung Permanenter
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
-| `legalitaetsprinzipien-als-rechtsstaatsmotor` | Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung. |
-| `legitimitaet-richterlicher-rechtsfortbildung` | Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `krisenverfassung-und-permanenter-notstand`
 

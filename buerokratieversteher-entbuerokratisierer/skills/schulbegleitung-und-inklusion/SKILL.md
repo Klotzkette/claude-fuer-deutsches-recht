@@ -1,6 +1,6 @@
 ---
 name: schulbegleitung-und-inklusion
-description: "Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag im Bürokratie-Entbürokratisierung."
 ---
 
 # Schulbegleitung und Inklusion

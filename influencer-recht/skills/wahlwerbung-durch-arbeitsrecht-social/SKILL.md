@@ -1,6 +1,6 @@
 ---
 name: wahlwerbung-durch-arbeitsrecht-social
-description: "Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen im Influencer-Recht."
 ---
 
 # Influencer-Recht: Wahlwerbung durch Creator

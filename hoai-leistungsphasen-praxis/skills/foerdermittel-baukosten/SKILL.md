@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-baukosten
-description: "HOAI-Praxis: prüft Fördermittel, Vergabebindungen, Nachweise und Kostenänderungen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Fördermittel, Vergabebindungen, Nachweise und Kostenänderungen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft fördermittel

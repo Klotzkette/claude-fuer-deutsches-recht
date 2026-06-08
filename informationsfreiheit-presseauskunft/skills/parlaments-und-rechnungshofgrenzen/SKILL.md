@@ -1,6 +1,6 @@
 ---
 name: parlaments-und-rechnungshofgrenzen
-description: "Informationsfreiheit und Presseauskunft: Parlaments- und Rechnungshofgrenzen. Parlaments- und Rechnungshofgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Parlaments- und Rechnungshofgrenzen. Parlaments- und Rechnungshofgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Parlaments Und Rechnungshofgrenzen

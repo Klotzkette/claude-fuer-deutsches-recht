@@ -1,6 +1,6 @@
 ---
 name: klageantraege-auskunft-madrid-protokoll
-description: "Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit im Markenrecht Fashion Luxus."
 ---
 
 # Klageanträge im Markenrecht

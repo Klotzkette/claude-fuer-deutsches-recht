@@ -1,6 +1,6 @@
 ---
 name: 010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis
-description: "Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen im Römisches Recht."
 ---
 
 # Rom Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und

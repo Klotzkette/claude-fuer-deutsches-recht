@@ -1,19 +1,9 @@
 ---
 name: schimmel-lueften-stapel-teilungsordnung
-description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigentumsrecht: prüft konkret Schimmel/Lüften/Heizen, Schriftsatz aus Stapel, Teilungserklärung auslesen, Untervermietung-Entscheidung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigentumsrecht: prüft konkret Schimmel/Lüften/Heizen, Schriftsatz aus Stapel, Teilungserklärung auslesen, Untervermietung-Entscheidung."
 ---
 
 # Schimmel Lueften Stapel Teilungsordnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-schimmel-lueften-heizen` | Schimmel/Lüften/Heizen: Prüfungslinie für Miet- und WEG-Recht; führt Beweislast, Ursachen, Messungen, Gutachten und Vortrag zusammen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-schriftsatz-aus-stapel` | Schriftsatz aus Stapel: Prüfungslinie für Miet- und WEG-Recht; baut aus Aktenfragmenten einen Klage-/Klageerwiderungskern; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-teilungsordnung-auslesen` | Teilungserklärung auslesen: Prüfungslinie für Miet- und WEG-Recht; identifiziert Sonder-/Gemeinschaftseigentum, Öffnungsklauseln und Kostenregeln; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-untervermietung-entscheidung` | Untervermietung-Entscheidung: Prüfungslinie für Miet- und WEG-Recht; klärt berechtigtes Interesse, Person, Wohnungsteil, Erlaubnis und Kündigungsrisiko; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-vergleichsfenster-mietstreit` | Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht; ermittelt wirtschaftliche Einigung, Räumungsfrist, Zahlung und Kosten; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Schimmel Lueften Stapel Teilungsordnung im Miet- und Wohnungseigen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-schimmel-lueften-heizen`
 

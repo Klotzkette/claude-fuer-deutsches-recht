@@ -1,6 +1,6 @@
 ---
 name: disziplinarverfahren-notar-kaltstart-und-faktenmatrix
-description: "Notare: disziplinarverfahren notar - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: disziplinarverfahren notar - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: disziplinarverfahren notar - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

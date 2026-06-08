@@ -1,21 +1,9 @@
 ---
 name: ma-npl-schuldschein-darlehen
-description: "GK MA NPL Schuldschein Darlehen im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und, Begleitet Übertragung von Schuldscheindarlehen in M&A. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "GK MA NPL Schuldschein Darlehen im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und, Begleitet Übertragung von Schuldscheindarlehen in M&A."
 ---
 
 # GK MA NPL Schuldschein Darlehen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gk-ma-npl-portfolio-und-loan-to-own` | Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie. |
-| `gk-ma-schuldschein-darlehen-transfer` | Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen. |
-| `gk-sanierungsgewinn-3a-estg-praxis-für-corporate-ma` | Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreihenfolge nach § 3a Abs. 3 EStG und die Schnittstellen zu Restrukturierungsdokumenten. Liefert Prüfraster, Mustertexte für Sanierungsabreden und Verhandlungsleitlinien. Quellen Stand 06/2026. |
-| `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie` | BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026. |
-| `gk-sanierungsgewinn-eu-beihilfe-und-altmark` | EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-Marker und Strategie für notifizierungspflichtige Sanierungen. Adressat ist das Großkanzlei-Team in Sanierungsmandaten mit öffentlich-rechtlichem Einschlag oder staatlicher Beteiligung. Quellen Stand 06/2026. |
-| `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg` | Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und § 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026. |
-| `gk-sanierungsgewinn-im-asset-deal-vs-share-deal` | Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit § 3a EStG, § 8c KStG-Effekt, übertragende Sanierung nach §§ 163 InsO, § 613a BGB-Wirkung und Tax-Strukturierung. Liefert Vergleichsraster, Strukturwahl-Matrix und SPA-Mustertexte für beide Varianten. Adressat ist das Großkanzlei-Team in der Strukturentscheidung. Quellen Stand 06/2026. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "GK MA NPL Schuldschein Darlehen im Corporate/M&A (Großkanzlei-Pra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gk-ma-npl-portfolio-und-loan-to-own`
 

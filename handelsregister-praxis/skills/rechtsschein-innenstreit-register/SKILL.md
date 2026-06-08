@@ -1,6 +1,6 @@
 ---
 name: rechtsschein-innenstreit-register
-description: "Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz im Handelsregister Praxis."
 ---
 
 # Innenstreit trotz Registerschein

@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata-mehrparteien-konflikt-und-interessen
-description: "Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix im Jurastudium."
 ---
 
 # Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: grundbuch-grunderwerbsteuer-unbedenklichkeit
-description: "Prüft GrESt-Schnittstelle, Fälligkeitslogik, Ausnahmen und Vollzugshindernis im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft GrESt-Schnittstelle, Fälligkeitslogik, Ausnahmen und Vollzugshindernis im Grundbuchamt Praxis."
 ---
 
 # Unbedenklichkeitsbescheinigung

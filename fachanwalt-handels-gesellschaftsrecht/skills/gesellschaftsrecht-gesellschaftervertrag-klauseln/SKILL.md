@@ -1,17 +1,9 @@
 ---
 name: gesellschaftsrecht-gesellschaftervertrag-klauseln
-description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüfungslinie für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Gesellschaftervertrag, Prüfungslinie für fachanwalt handels gesellschaftsrecht, Spezialfall Kollektivverteidigung in."
 ---
 
 # Gesellschaftervertrag Klauseln
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe` | Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `hgr-kollektivverteidigung-direktorenhaftung-spezial` | Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster für einheitliche Strategie und Pflichtenkollision. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Gesellschaftervertrag Klauseln im Plugin Fachanwalt Handels Gesell
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe`
 

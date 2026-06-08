@@ -1,17 +1,9 @@
 ---
 name: insolvenzrecht-liqui-sonderfall
-description: "Insolvenzrecht Liqui Sonderfall im Plugin Liquiditaetsplanung: prüft konkret Insolvenzrecht, Liqui, Liquiditaetsplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Insolvenzrecht Liqui Sonderfall im Plugin Liquiditaetsplanung: prüft konkret Insolvenzrecht, Liqui, Liquiditaetsplanung."
 ---
 
 # Insolvenzrecht Liqui Sonderfall
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-insolvenzrecht-formular-portal-und-einreichung` | Insolvenzrecht: Formular, Portal und Einreichungslogik im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-liqui-sonderfall-und-edge-case` | Liqui: Sonderfall und Edge-Case-Prüfung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-liquiditaetsplanung-erstpruefung-und-mandatsziel` | Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Insolvenzrecht Liqui Sonderfall im Plugin Liquiditaetsplanung: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-insolvenzrecht-formular-portal-und-einreichung`
 
-**Fokus:** Insolvenzrecht: Formular, Portal und Einreichungslogik im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Insolvenzrecht: Formular, Portal und Einreichungslogik im Plugin liquiditaetsplanung.
 
 ### Insolvenzrecht: Formular, Portal und Einreichungslogik
 
@@ -51,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-liqui-sonderfall-und-edge-case`
 
-**Fokus:** Liqui: Sonderfall und Edge-Case-Prüfung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Liqui: Sonderfall und Edge-Case-Prüfung im Plugin liquiditaetsplanung.
 
 ### Liqui: Sonderfall und Edge-Case-Prüfung
 
@@ -77,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-liquiditaetsplanung-erstpruefung-und-mandatsziel`
 
-**Fokus:** Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin liquiditaetsplanung.
 
 ### Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel
 

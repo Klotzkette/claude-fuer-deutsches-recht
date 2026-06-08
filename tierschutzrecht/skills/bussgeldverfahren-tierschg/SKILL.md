@@ -1,6 +1,6 @@
 ---
 name: bussgeldverfahren-tierschg
-description: "Tierschutzrecht: Bußgeldverfahren TierSchG. Bußgeldverfahren TierSchG im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tierschutzrecht: Bußgeldverfahren TierSchG. Bußgeldverfahren TierSchG im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
 ---
 
 # Bussgeldverfahren Tierschg

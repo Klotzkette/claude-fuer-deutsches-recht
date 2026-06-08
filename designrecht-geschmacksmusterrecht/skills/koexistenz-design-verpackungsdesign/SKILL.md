@@ -1,6 +1,6 @@
 ---
 name: koexistenz-design-verpackungsdesign
-description: "Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases im Designrecht Geschmacksmusterrecht."
 ---
 
 # Vergleich Koexistenz Design

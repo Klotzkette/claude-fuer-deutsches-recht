@@ -1,6 +1,6 @@
 ---
 name: vergleich-brd-ddr-recht
-description: "Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung im Deutsche Rechtsgeschichte."
 ---
 
 # Vergleich BRD-DDR-Recht

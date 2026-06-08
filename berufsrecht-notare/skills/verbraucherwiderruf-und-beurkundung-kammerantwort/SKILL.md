@@ -1,6 +1,6 @@
 ---
 name: verbraucherwiderruf-und-beurkundung-kammerantwort
-description: "Notare: verbraucherwiderruf und beurkundung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: verbraucherwiderruf und beurkundung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: verbraucherwiderruf und beurkundung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: unfallversicherung-invaliditaet-vers
-description: "Private Unfallversicherung: Unfallbegriff, Invalidität, ärztliche Feststellung, Fristen, Gliedertaxe, Mitwirkung von Krankheiten und Progression im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Private Unfallversicherung: Unfallbegriff, Invalidität, ärztliche Feststellung, Fristen, Gliedertaxe, Mitwirkung von Krankheiten und Progression im Versicherungsrecht."
 ---
 
 # Private Unfallversicherung: Invalidität, Fristen, Gliedertaxe

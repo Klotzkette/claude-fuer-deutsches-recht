@@ -1,6 +1,6 @@
 ---
 name: wahlordnung-intern-wahlvorschlag-bundestag
-description: "Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung im Parteienrecht."
 ---
 
 # Interne Wahlordnung

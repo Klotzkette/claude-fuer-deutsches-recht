@@ -1,6 +1,6 @@
 ---
 name: kooperation-mit-oeffentlichen-stellen
-description: "Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht im Influencer-Recht."
 ---
 
 # Influencer-Recht: Kooperation mit öffentlichen Stellen

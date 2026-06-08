@@ -1,6 +1,6 @@
 ---
 name: lehramtspruefung-lrs-hochschule-masterarbeit
-description: "Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung im Pruefungsrecht Hochschule."
 ---
 
 # Lehramtsprüfung

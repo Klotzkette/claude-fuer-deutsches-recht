@@ -1,6 +1,6 @@
 ---
 name: spendenannahme-sponsoring
-description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen im Wahlkampfrecht."
 ---
 
 # Spendenannahme Pruefung

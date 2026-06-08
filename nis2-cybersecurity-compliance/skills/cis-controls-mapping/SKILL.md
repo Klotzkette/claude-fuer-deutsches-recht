@@ -1,6 +1,6 @@
 ---
 name: cis-controls-mapping
-description: "Mappt CIS Controls auf umsetzbare technische Maßnahmen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mappt CIS Controls auf umsetzbare technische Maßnahmen im Nis2 Cybersecurity Compliance."
 ---
 
 # CIS Controls Mapping

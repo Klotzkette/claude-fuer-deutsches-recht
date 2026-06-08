@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-planer
-description: "HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft zusatzleistung

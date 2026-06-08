@@ -1,17 +1,9 @@
 ---
 name: faevvollzug-gegnerische-grenzueberschreitende
-description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung."
 ---
 
 # Faevvollzug Gegnerische Grenzueberschreitende
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` | Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien. |
-| `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` | Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland. |
-| `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` | Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung. Titel, Dringlichkeit, Zustellungsweg, Schutzschrift, Kosten-Nutzen, Red-Team-Fragen, Rücknahmeoptionen im gewerblichen Rechtsschutz. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`
 

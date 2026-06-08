@@ -1,6 +1,6 @@
 ---
 name: beirat-compliance-und-internal-investigation
-description: "Beirat Compliance Und Internal Investigation im Corporate/M&A (Großkanzlei-Praxis) im Corporate/M&A: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beirat Compliance Und Internal Investigation im Corporate/M&A (Großkanzlei-Praxis) im Corporate/M&A: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Beirat Compliance Und Internal Investigation

@@ -1,17 +1,9 @@
 ---
 name: ausland-eu-aussergerichtlicher
-description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Auslandsschulden und EU-Bezug, Außergerichtlicher Einigungsversuch, Auto und Arbeitsweg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Auslandsschulden und EU-Bezug, Außergerichtlicher Einigungsversuch, Auto und Arbeitsweg."
 ---
 
 # Ausland EU Aussergerichtlicher
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ausland-und-eu-schulden` | Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `aussergerichtlicher-einigungsversuch` | Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `auto-und-arbeitsweg` | Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Ausland EU Aussergerichtlicher im Plugin Verbraucherinsolvenz Schu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ausland-und-eu-schulden`
 

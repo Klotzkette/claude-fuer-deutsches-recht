@@ -1,6 +1,6 @@
 ---
 name: follow-up-fragenkatalog-an-geheimhaltung
-description: "AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Follow Up Tracker

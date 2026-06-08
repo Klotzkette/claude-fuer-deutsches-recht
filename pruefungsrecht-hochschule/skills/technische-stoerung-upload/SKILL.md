@@ -1,6 +1,6 @@
 ---
 name: technische-stoerung-upload
-description: "Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Pruefungsrecht Hochschule."
 ---
 
 # Technische Störung beim Upload

@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-klagepfad-waehlen
-description: "Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Kreuzfahrtschiff oder grosses Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Kreuzfahrtschiff oder grosses Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
 ---
 
 # Kreuzfahrtschiff – Klagepfad wählen

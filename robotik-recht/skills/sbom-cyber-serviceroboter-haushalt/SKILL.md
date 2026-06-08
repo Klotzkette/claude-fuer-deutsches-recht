@@ -1,6 +1,6 @@
 ---
 name: sbom-cyber-serviceroboter-haushalt
-description: "Prüft SBOM, Dependency-Management, CVE-Tracking, Sicherheitsanforderungen und Nachweise für Robotiksoftware im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft SBOM, Dependency-Management, CVE-Tracking, Sicherheitsanforderungen und Nachweise für Robotiksoftware im Robotik-Recht."
 ---
 
 # SBOM und Cyber-Dokumentation

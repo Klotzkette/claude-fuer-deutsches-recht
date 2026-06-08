@@ -1,19 +1,9 @@
 ---
 name: vorkaufsrecht-mieter-waermepumpe-red-weg
-description: "Vorkaufsrecht Mieter Waermepumpe RED WEG im Miet- und Wohnungseigentumsrecht: prüft konkret Mieter-Vorkaufsrecht, Waermepumpe, WEG Anfechtungsbegründung, WEG Balkonkraftwerk. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vorkaufsrecht Mieter Waermepumpe RED WEG im Miet- und Wohnungseigentumsrecht: prüft konkret Mieter-Vorkaufsrecht, Waermepumpe, WEG Anfechtungsbegründung, WEG Balkonkraftwerk."
 ---
 
 # Vorkaufsrecht Mieter Waermepumpe RED WEG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-vorkaufsrecht-mieter` | Mieter-Vorkaufsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Aufteilung, Verkauf, Mitteilung, Ausübung, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-waermepumpe-red-team-und-qualitaetskontrolle` | Waermepumpe: Red-Team und Qualitätskontrolle im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-weg-anfechtung-begruendung` | WEG Anfechtungsbegründung: Fachmodul im Miet- und Wohnungseigentumsrecht; erstellt Begründung nach Beschlussmangel, Frist, Antrag und Vortrag; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-balkonkraftwerk` | WEG Balkonkraftwerk: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gestattung, optische Wirkung, Technik, Netz, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-baum-fassade-dach` | Baum/Fassade/Dach: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Erhaltung, Sondernutzung, Verkehrssicherung, Kostenverteilung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Vorkaufsrecht Mieter Waermepumpe RED WEG im Miet- und Wohnungseige
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-vorkaufsrecht-mieter`
 

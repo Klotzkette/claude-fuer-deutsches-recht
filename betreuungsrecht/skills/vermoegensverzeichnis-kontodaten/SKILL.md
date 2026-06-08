@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-kontodaten
-description: "Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Betreuungsrecht."
 ---
 
 # Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-schnittstelle-gwb-eu
-description: "TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access, Ausbaukooperation, Exklusivität, Wholesale, Joint Venture im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access, Ausbaukooperation, Exklusivität, Wholesale, Joint Venture im Telekommunikationsrecht."
 ---
 
 # Kartellrechtliche Schnittstelle GWB/EU

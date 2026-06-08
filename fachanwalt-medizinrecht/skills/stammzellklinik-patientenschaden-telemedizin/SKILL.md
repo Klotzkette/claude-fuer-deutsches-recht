@@ -1,18 +1,9 @@
 ---
 name: stammzellklinik-patientenschaden-telemedizin
-description: "Stammzellklinik Patientenschaden Telemedizin im Medizinrecht: prüft konkret Stammzellklinik und Patientenschaden, Telemedizin Standardhaftung, Approbationswiderruf und Berufsrecht für Aerzte Apotheker, Spezialfall MVZ-Strukturierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Stammzellklinik Patientenschaden Telemedizin im Medizinrecht: prüft konkret Stammzellklinik und Patientenschaden, Telemedizin Standardhaftung, Approbationswiderruf und Berufsrecht für Aerzte Apotheker, Spezialfall MVZ-Strukturierung."
 ---
 
 # Stammzellklinik Patientenschaden Telemedizin
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `stammzellklinik-patientenschaden` | Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `telemedizin-standardhaftung` | Telemedizin Standardhaftung: moderner Medizinrechts-Skill für Fernbehandlung, Grenzen ohne körperliche Untersuchung, Triage, Videoausfall und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `fachanwalt-medizinrecht-approbations-widerspruch` | Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht. |
-| `medr-mvz-strukturierung-spezial` | Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft. Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsausschuss. Steuerliche Implikationen. Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Stammzellklinik Patientenschaden Telemedizin im Medizinrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `stammzellklinik-patientenschaden`
 

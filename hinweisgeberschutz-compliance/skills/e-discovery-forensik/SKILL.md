@@ -1,6 +1,6 @@
 ---
 name: e-discovery-forensik
-description: "Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgeberschutz Compliance."
 ---
 
 # E Discovery Forensik

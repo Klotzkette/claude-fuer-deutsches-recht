@@ -1,6 +1,6 @@
 ---
 name: begruendung-redaktion-ohne-schablone
-description: "Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Redaktion ohne Schablone

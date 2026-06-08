@@ -1,6 +1,6 @@
 ---
 name: raumstation-miet-orbit-slot
-description: "Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren im Weltraumrecht."
 ---
 
 # Weltraumrecht: Raumstation: Miet- und Nutzungsverträge, Module, Rack Time

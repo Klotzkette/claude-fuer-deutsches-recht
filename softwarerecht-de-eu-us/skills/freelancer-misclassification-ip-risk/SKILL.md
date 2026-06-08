@@ -1,6 +1,6 @@
 ---
 name: freelancer-misclassification-ip-risk
-description: "Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken im Softwarerecht De Eu Us."
 ---
 
 # Freelancer Misclassification und IP Risk

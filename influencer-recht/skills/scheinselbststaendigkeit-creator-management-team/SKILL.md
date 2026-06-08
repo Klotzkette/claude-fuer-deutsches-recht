@@ -1,6 +1,6 @@
 ---
 name: scheinselbststaendigkeit-creator-management-team
-description: "Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken im Influencer-Recht."
 ---
 
 # Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team

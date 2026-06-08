@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungs-livecheck
-description: "Sammelt nur verifizierte Rechtsprechung und amtliche Quellen für Urheberrecht, EU-Recht, Software, Musik und KI im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sammelt nur verifizierte Rechtsprechung und amtliche Quellen für Urheberrecht, EU-Recht, Software, Musik und KI im Urheberrecht De Eu."
 ---
 
 # Rechtsprechungs- und Quellenlivecheck

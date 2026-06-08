@@ -1,19 +1,9 @@
 ---
 name: buergergeld-ueberbrueckungsgeld-dokumenten
-description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am Sozialgericht: prüft konkret Buergergeld Ueberbrueckungsgeld bei Haftentlassung, PDF-Dateien für SG-Klage erstellen, Dolmetscher beim SG nach § 185 GVG, DSGVO Artikel 15 Auskunft zur Sozialakte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am Sozialgericht: prüft konkret Buergergeld Ueberbrueckungsgeld bei Haftentlassung, PDF-Dateien für SG-Klage erstellen, Dolmetscher beim SG nach § 185 GVG, DSGVO Artikel 15 Auskunft zur Sozialakte."
 ---
 
 # Buergergeld Ueberbrueckungsgeld Dokumenten
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `buergergeld-ueberbrueckungsgeld` | Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster. |
-| `dokumenten-erzeugung-pdf-laien-sozialgericht` | PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse. |
-| `dolmetscher-beim-sozialgericht-laien` | Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit Sprachschwierigkeiten. Antrag muendliche Verhandlung Gebaerdensprache. |
-| `dsgvo-art-15-auskunft-sozialakte` | DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Auskunftsrecht ueber gespeicherte personenbezogene Daten beim Sozialleistungstraeger Verhaeltnis zu § 25 SGB X Akteneinsicht Frist Form Kostenfreiheit und Beschwerde bei Aufsichtsbehoerde. Liefert Vorlage. |
-| `eilantrag-86b-sgg-grundlagen` | Eilrechtsschutz nach § 86b SGG für Buerger. Aufschiebende Wirkung und einstweilige Anordnung. Anordnungsanspruch Anordnungsgrund existenzielle Leistungen Pflegegrad Buergergeld Krankenkasse. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `buergergeld-ueberbrueckungsgeld`
 

@@ -1,6 +1,6 @@
 ---
 name: registerrecht-digitalgruendung
-description: "Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch im Handelsregister Praxis."
 ---
 
 # Online-Gründung und DiRUG

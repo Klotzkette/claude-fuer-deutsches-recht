@@ -1,6 +1,6 @@
 ---
 name: insolvenzreife-pruefung-17-19-inso
-description: "Prüfungslinie für anw insolvenzreife pruefung 17 19 inso im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für anw insolvenzreife pruefung 17 19 inso im Steuerrecht Anwalt Und Berater."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)

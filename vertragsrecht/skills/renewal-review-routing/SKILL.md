@@ -1,6 +1,6 @@
 ---
 name: renewal-review-routing
-description: "Renewal: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Renewal: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsrecht."
 ---
 
 # Renewal: Schriftsatz-, Brief- und Memo-Bausteine

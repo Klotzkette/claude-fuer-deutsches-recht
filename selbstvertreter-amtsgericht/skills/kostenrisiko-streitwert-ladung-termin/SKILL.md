@@ -1,17 +1,9 @@
 ---
 name: kostenrisiko-streitwert-ladung-termin
-description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsgericht: prüft konkret Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsgericht: prüft konkret Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung."
 ---
 
 # Kostenrisiko Streitwert Ladung Termin
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kostenrisiko-streitwert-berechnen-gkg` | Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation. |
-| `ladung-termin-216-zpo` | Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort Sitzungssaal Aktenzeichen Bedeutung von Hinweisen wie Erscheinens-Pflicht Versaeumnis-Hinweis. Wie Sie eine Ladung prüfen und bestätigen. |
-| `muendliche-verhandlung-akten-griffbereit` | Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschreib-Block Notizen zu Streit-Punkten. Vorbereitung der Argumente zur Replik im Termin. Praesenz oder Video 128a ZPO. Was zum Tisch was in die Tasche. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kostenrisiko-streitwert-berechnen-gkg`
 

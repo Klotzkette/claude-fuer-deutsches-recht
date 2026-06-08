@@ -1,6 +1,6 @@
 ---
 name: vorfall-krisenstab
-description: "Baut Krisenstab und Entscheidungsmatrix für Cybervorfälle im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Krisenstab und Entscheidungsmatrix für Cybervorfälle im Nis2 Cybersecurity Compliance."
 ---
 
 # Vorfall Krisenstab

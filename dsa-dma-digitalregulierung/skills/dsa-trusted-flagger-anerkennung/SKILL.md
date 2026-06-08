@@ -1,6 +1,6 @@
 ---
 name: dsa-trusted-flagger-anerkennung
-description: "Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhörung. Pruefraster für Vereine und NGOs die sich anerkennen lassen wollen im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhörung. Pruefraster für Vereine und NGOs die sich anerkennen lassen wollen im Dsa Dma Digitalregulierung."
 ---
 
 # Trusted Flagger Anerkennung

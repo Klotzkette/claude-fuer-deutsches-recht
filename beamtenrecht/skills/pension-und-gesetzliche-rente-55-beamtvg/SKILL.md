@@ -1,6 +1,6 @@
 ---
 name: pension-und-gesetzliche-rente-55-beamtvg
-description: "Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: Anrechnung, Höchstgrenze, Nachversicherung, Versorgungsausgleich und Auslandsrenten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: Anrechnung, Höchstgrenze, Nachversicherung, Versorgungsausgleich und Auslandsrenten im Beamtenrecht."
 ---
 
 # pension-und-gesetzliche-rente-55-beamtvg

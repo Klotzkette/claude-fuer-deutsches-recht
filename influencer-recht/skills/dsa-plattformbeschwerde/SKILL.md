@@ -1,6 +1,6 @@
 ---
 name: dsa-plattformbeschwerde
-description: "Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act im Influencer-Recht."
 ---
 
 # Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre

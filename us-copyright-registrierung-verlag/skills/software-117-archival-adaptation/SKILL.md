@@ -1,6 +1,6 @@
 ---
 name: software-117-archival-adaptation
-description: "Prueft Computerprogrammkopien, essential step, archival copy, maintenance, migration, SaaS und Lizenzgrenzen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Computerprogrammkopien, essential step, archival copy, maintenance, migration, SaaS und Lizenzgrenzen im Us Copyright Registrierung Verlag."
 ---
 
 # Software § 117 und Copying

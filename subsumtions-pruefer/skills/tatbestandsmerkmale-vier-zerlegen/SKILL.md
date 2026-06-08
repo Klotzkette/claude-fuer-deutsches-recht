@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-vier-zerlegen
-description: "Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Subsumtions Pruefer."
 ---
 
 # Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung

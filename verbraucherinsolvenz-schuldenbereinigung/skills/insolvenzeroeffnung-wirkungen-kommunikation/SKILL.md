@@ -1,17 +1,9 @@
 ---
 name: insolvenzeroeffnung-wirkungen-kommunikation
-description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Eröffnung des Insolvenzverfahrens, Gläubigerkommunikation, Kontosperre und Sozialleistungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Eröffnung des Insolvenzverfahrens, Gläubigerkommunikation, Kontosperre und Sozialleistungen."
 ---
 
 # Insolvenzeroeffnung Wirkungen Kommunikation
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `insolvenzeroeffnung-wirkungen` | Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `kommunikation-mit-glaeubigern` | Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `konto-sperre-und-sozialleistungen` | Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Insolvenzeroeffnung Wirkungen Kommunikation im Plugin Verbraucheri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `insolvenzeroeffnung-wirkungen`
 

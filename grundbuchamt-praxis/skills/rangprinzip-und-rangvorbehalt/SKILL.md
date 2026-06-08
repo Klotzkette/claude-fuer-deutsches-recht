@@ -1,6 +1,6 @@
 ---
 name: rangprinzip-und-rangvorbehalt
-description: "Ordnet Rangfolge, Rangrücktritt, Gleichrang, Rangvorbehalt und Prioritätsrisiken im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Rangfolge, Rangrücktritt, Gleichrang, Rangvorbehalt und Prioritätsrisiken im Grundbuchamt Praxis."
 ---
 
 # Rang und Rangvorbehalt

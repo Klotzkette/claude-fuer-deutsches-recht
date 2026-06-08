@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage-vwgo
-description: "Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten im Beamtenrecht."
 ---
 
 # Widerspruch Klage Vwgo

@@ -1,18 +1,9 @@
 ---
 name: fa-bau-architekten-fristen-risiko-mandant
-description: "FA BAU Architekten Fristen Risiko Mandant im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Bautraeger Fertigstellungsfrist und Verzug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA BAU Architekten Fristen Risiko Mandant im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Fristen- und Risikoampel im Plugin, Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Bautraeger Fertigstellungsfrist und Verzug."
 ---
 
 # FA BAU Architekten Fristen Risiko Mandant
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-bau-architektenrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-bau-architektenrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-bau-architektenrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `bautraeger-fertigstellungsfrist-und-verzug` | Bautraeger Fertigstellungsfrist und Verzug. Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhaeltnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "FA BAU Architekten Fristen Risiko Mandant im Plugin Fachanwalt Bau
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-fristen-und-risikoampel`
 

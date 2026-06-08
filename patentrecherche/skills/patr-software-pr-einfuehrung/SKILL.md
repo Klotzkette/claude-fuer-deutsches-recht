@@ -1,6 +1,6 @@
 ---
 name: patr-software-pr-einfuehrung
-description: "Spezialfall Software- und KI-Patentierbarkeit EPA: Computer-implementierte Erfindung, technischer Beitrag, KI-spezifische Pruefrichtlinien. Pruefraster für Anmeldung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Software- und KI-Patentierbarkeit EPA: Computer-implementierte Erfindung, technischer Beitrag, KI-spezifische Pruefrichtlinien. Pruefraster für Anmeldung im Patentrecherche."
 ---
 
 # PatR: Software KI Patentierbarkeit

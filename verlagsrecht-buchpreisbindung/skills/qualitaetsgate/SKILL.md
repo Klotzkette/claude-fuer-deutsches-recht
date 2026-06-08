@@ -1,15 +1,9 @@
 ---
 name: qualitaetsgate
-description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl Qualitaetsgate
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verl-050-qualitaetsgate-verlagsakte` | Qualitätsgate Verlagsakte: Abschluss-Checkliste für das gesamte Plugin verlagsrecht-buchpreisbindung. Vollständigkeitsprüfung aller 49 Vorgänger-Skills und Gesamt-Compliance-Kontrolle einer Verlagsakte. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Ver
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verl-050-qualitaetsgate-verlagsakte`
 

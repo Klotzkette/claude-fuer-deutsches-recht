@@ -1,6 +1,6 @@
 ---
 name: remote-work
-description: "Remote Work: vertiefter Berufsrechts-Skill für Anwälte; prüft Remote Work im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remote Work: vertiefter Berufsrechts-Skill für Anwälte; prüft Remote Work im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Remote Work

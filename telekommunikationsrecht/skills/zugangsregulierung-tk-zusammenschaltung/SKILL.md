@@ -1,6 +1,6 @@
 ---
 name: zugangsregulierung-tk-zusammenschaltung
-description: "Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskriminierung und technische Schnittstellen im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskriminierung und technische Schnittstellen im Telekommunikationsrecht."
 ---
 
 # Zugangsregulierung und Vorleistungen

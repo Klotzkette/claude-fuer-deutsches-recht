@@ -1,6 +1,6 @@
 ---
 name: baubehoerde-nachbarbrief
-description: "Baubehörde und Nachbarbrief: führt Laien durch Nachbaranhörung, Baugenehmigung, Einwendungen, Frist und Akteneinsicht. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baubehörde und Nachbarbrief: führt Laien durch Nachbaranhörung, Baugenehmigung, Einwendungen, Frist und Akteneinsicht. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Baubehörde und Nachbarbrief

@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-sicherheitsauflage-bew
-description: "Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste im Luftrecht Flughafenrecht."
 ---
 
 # Flugzeugleasing – Sicherheitsauflage bewerten

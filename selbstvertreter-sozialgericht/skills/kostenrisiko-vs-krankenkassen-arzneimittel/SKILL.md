@@ -1,19 +1,9 @@
 ---
 name: kostenrisiko-vs-krankenkassen-arzneimittel
-description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am Sozialgericht: prüft konkret Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V, Krankenkassen-Genehmigungsfiktion nach § 13 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am Sozialgericht: prüft konkret Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V, Krankenkassen-Genehmigungsfiktion nach § 13 Abs."
 ---
 
 # Kostenrisiko VS Krankenkassen Arzneimittel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kostenrisiko-vs-kostenfreiheit-laien` | Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger. |
-| `krankenkassen-arzneimittel-31-sgb-v` | Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster. |
-| `krankenkassen-fahrkosten-60-sgb-v` | Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Pruefraster. |
-| `krankenkassen-genehmigungsfiktion-13-sgb-v` | Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen für den Selbstbeschaffungsanspruch. Liefert Pruefraster. |
-| `krankenkassen-haeusliche-krankenpflege-37-sgb-v` | Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhaeltnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kostenrisiko-vs-kostenfreiheit-laien`
 

@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c
-description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung im BGB BT."
 ---
 
 # Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB

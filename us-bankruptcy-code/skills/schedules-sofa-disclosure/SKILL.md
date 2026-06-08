@@ -1,6 +1,6 @@
 ---
 name: schedules-sofa-disclosure
-description: "Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks im US Bankruptcy Code."
 ---
 
 # Schedules and SOFA Disclosure

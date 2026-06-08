@@ -1,6 +1,6 @@
 ---
 name: ecommerce-kauf-fahrradreparatur
-description: "E-Commerce Kauf und Widerruf: erklärt Widerruf, Rücksendung, Gewährleistung, Garantie, Plattformstreit und Zahlungsdienstleister in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "E-Commerce Kauf und Widerruf: erklärt Widerruf, Rücksendung, Gewährleistung, Garantie, Plattformstreit und Zahlungsdienstleister in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # E-Commerce Kauf und Widerruf

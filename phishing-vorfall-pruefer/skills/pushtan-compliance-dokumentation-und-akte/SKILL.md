@@ -1,6 +1,6 @@
 ---
 name: pushtan-compliance-dokumentation-und-akte
-description: "Pushtan: Compliance-Dokumentation und Aktenvermerk im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pushtan: Compliance-Dokumentation und Aktenvermerk im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Pushtan: Compliance-Dokumentation und Aktenvermerk

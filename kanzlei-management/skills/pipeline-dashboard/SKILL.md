@@ -1,6 +1,6 @@
 ---
 name: pipeline-dashboard
-description: "Erfasst Leads, Pitches, Wahrscheinlichkeiten, Fees, Kapazität und Konflikte. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst Leads, Pitches, Wahrscheinlichkeiten, Fees, Kapazität und Konflikte. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Pipeline Dashboard

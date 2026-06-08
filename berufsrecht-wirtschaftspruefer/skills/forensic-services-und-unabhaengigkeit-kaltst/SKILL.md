@@ -1,6 +1,6 @@
 ---
 name: forensic-services-und-unabhaengigkeit-kaltst
-description: "Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

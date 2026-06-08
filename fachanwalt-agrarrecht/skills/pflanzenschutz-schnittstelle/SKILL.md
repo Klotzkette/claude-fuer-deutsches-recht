@@ -1,17 +1,9 @@
 ---
 name: pflanzenschutz-schnittstelle
-description: "Pflanzenschutz Schnittstelle im Agrarrecht: prüft konkret Pflanzenschutz, Schnittstelle, Tierschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Pflanzenschutz Schnittstelle im Agrarrecht: prüft konkret Pflanzenschutz, Schnittstelle, Tierschutz."
 ---
 
 # Pflanzenschutz Schnittstelle
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-pflanzenschutz-internationaler-bezug-und-schnittstellen` | Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstelle-mandantenentscheidung` | Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-tierschutz-formular-portal-und-einreichung` | Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-pflanzenschutz-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht.
 
 ### Pflanzenschutz: Internationaler Bezug und Schnittstellen
 
@@ -67,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-schnittstelle-mandantenentscheidung`
 
-**Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt agrarrecht.
 
 ### Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -92,7 +84,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-tierschutz-formular-portal-und-einreichung`
 
-**Fokus:** Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht.
 
 ### Tierschutz: Formular, Portal und Einreichungslogik
 

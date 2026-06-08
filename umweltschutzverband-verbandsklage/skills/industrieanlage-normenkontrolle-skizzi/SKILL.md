@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-normenkontrolle-skizzi
-description: "Umweltschutzverband Verbandsklage: Industrieanlage: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Industrieanlage: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Industrieanlage Normenkontrolle Skizzi

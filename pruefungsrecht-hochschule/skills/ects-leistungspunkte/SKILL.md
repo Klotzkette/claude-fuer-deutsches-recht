@@ -1,6 +1,6 @@
 ---
 name: ects-leistungspunkte
-description: "Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Pruefungsrecht Hochschule."
 ---
 
 # ECTS und Leistungspunkte

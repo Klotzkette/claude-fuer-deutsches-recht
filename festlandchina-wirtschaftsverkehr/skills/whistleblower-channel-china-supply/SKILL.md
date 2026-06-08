@@ -1,6 +1,6 @@
 ---
 name: whistleblower-channel-china-supply
-description: "Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Whistleblower-Kanäle China: HinSchG und lokale Einschränkungen

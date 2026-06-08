@@ -1,6 +1,6 @@
 ---
 name: bidco-stack-und-holdingstruktur
-description: "Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten im Private Equity Praxis."
 ---
 
 # BidCo-Stack und Holdingstruktur

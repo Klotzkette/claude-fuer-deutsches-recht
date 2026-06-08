@@ -1,6 +1,6 @@
 ---
 name: prodr-zahlen-schwellen-und-berechnung
-description: "Prodr: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prodr: Zahlen, Schwellenwerte und Berechnung im Produktrecht."
 ---
 
 # Prodr: Zahlen, Schwellenwerte und Berechnung

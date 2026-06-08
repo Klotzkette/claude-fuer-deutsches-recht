@@ -1,17 +1,9 @@
 ---
 name: klageschrift-anschreiben-an-antrag-bestimmt
-description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am Amtsgericht: prüft konkret Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am Amtsgericht: prüft konkret Anschreiben Anrede und Form für Klage und sonstige, Formulierung eines bestimmten Klageantrags nach § 253 II Nr, Einbau von Beweisangeboten in die Klageschrift."
 ---
 
 # Klageschrift Anschreiben AN Antrag Bestimmt
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `klageschrift-anschreiben-an-gericht-laien` | Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters. |
-| `klageschrift-antrag-bestimmt-formulieren` | Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden. |
-| `klageschrift-beweisangebote-einbauen-373-zpo` | Einbau von Beweisangeboten in die Klageschrift. Urkundenbeweis Zeugenbeweis Sachverständigenbeweis Augenscheinsbeweis Parteivernehmung. Mit Mustern für Beweisanträge und Hinweisen zur Benennung ladungsfähiger Anschriften und konkretem Beweisthema. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Klageschrift Anschreiben AN Antrag Bestimmt im Selbstvertretung am
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `klageschrift-anschreiben-an-gericht-laien`
 

@@ -1,6 +1,6 @@
 ---
 name: rentenantrag-startdatum-auswanderung-rente
-description: "Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen im Rentenpruefer."
 ---
 
 # rentenantrag-fristen-und-startdatum

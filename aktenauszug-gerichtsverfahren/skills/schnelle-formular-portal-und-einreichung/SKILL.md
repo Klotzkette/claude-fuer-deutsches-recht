@@ -1,6 +1,6 @@
 ---
 name: schnelle-formular-portal-und-einreichung
-description: "Schnelle: Formular, Portal und Einreichungslogik im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnelle: Formular, Portal und Einreichungslogik im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
 ---
 
 # Schnelle: Formular, Portal und Einreichungslogik

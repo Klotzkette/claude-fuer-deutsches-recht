@@ -1,6 +1,6 @@
 ---
 name: registerpublizitaet-paragraph-scheinkaufmann
-description: "Prüft negative und positive Publizität des Handelsregisters im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft negative und positive Publizität des Handelsregisters im Handelsrecht Hgb."
 ---
 
 # Registerpublizität § 15 HGB

@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-pfandrecht-vorbereiten
-description: "Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention für Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk für Spares-Finanzierung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention für Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk für Spares-Finanzierung im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Pfandrecht vorbereiten

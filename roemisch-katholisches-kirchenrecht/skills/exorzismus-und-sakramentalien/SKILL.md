@@ -1,6 +1,6 @@
 ---
 name: exorzismus-und-sakramentalien
-description: "Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Exorzismus und Sakramentalien

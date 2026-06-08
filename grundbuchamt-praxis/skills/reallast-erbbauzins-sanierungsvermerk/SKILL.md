@@ -1,6 +1,6 @@
 ---
 name: reallast-erbbauzins-sanierungsvermerk
-description: "Prüft Inhalt, Anpassung, Rang, Vollstreckbarkeit und Zusammenhang mit Erbbaurechten im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Inhalt, Anpassung, Rang, Vollstreckbarkeit und Zusammenhang mit Erbbaurechten im Grundbuchamt Praxis."
 ---
 
 # Reallast und Erbbauzins

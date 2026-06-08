@@ -1,6 +1,6 @@
 ---
 name: onboarding-probezeit-personalakte-aenderungen
-description: "Berliner Start-up-HR: Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Onboarding Probezeit Plan

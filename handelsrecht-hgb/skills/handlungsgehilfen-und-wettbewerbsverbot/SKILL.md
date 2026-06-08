@@ -1,6 +1,6 @@
 ---
 name: handlungsgehilfen-und-wettbewerbsverbot
-description: "Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen im Handelsrecht Hgb."
 ---
 
 # Handlungsgehilfen und Wettbewerbsverbot

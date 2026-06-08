@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-paragraph-provision
-description: "Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler im Handelsrecht Hgb."
 ---
 
 # Handelsvertreter § 84 HGB

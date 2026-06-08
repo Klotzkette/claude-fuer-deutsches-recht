@@ -1,6 +1,6 @@
 ---
 name: weltraummuell-debris-mitigation-und-betreiberpflichten
-description: "Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten im Weltraumrecht."
 ---
 
 # Weltraumrecht: Weltraummüll: Debris Mitigation und Betreiberpflichten

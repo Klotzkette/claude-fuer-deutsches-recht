@@ -1,6 +1,6 @@
 ---
 name: bewohnerparken-risiko-erklaeren
-description: "StVO: Bewohnerparken: Risiko erklären im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Bewohnerparken: Risiko erklären im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Bewohnerparken Risiko Erklaeren

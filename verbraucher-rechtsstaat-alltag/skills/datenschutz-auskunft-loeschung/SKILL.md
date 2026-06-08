@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunft-loeschung
-description: "Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Datenschutz Auskunft und Löschung

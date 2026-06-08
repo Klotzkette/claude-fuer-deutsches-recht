@@ -1,17 +1,9 @@
 ---
 name: liquiditaetsstatus-quellenbelege-live-quote
-description: "Liquiditaetsstatus Quellenbelege Live Quote im Plugin Liquiditaetsplanung: prüft konkret Liquiditätsstatus nur aus belastbaren Quellenbelegen, Live, Quote. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Liquiditaetsstatus Quellenbelege Live Quote im Plugin Liquiditaetsplanung: prüft konkret Liquiditätsstatus nur aus belastbaren Quellenbelegen, Live, Quote."
 ---
 
 # Liquiditaetsstatus Quellenbelege Live Quote
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-liquiditaetsstatus-quellenbelege` | Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-live-mandantenkommunikation-entscheidungsvorlage` | Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-quote-verhandlung-vergleich-und-eskalation` | Quote: Verhandlung, Vergleich und Eskalation im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Liquiditaetsstatus Quellenbelege Live Quote im Plugin Liquiditaets
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-liquiditaetsstatus-quellenbelege`
 
@@ -51,7 +43,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 2. `spezial-live-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung.
 
 ### Live: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -77,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-quote-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Quote: Verhandlung, Vergleich und Eskalation im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Quote: Verhandlung, Vergleich und Eskalation im Plugin liquiditaetsplanung.
 
 ### Quote: Verhandlung, Vergleich und Eskalation
 

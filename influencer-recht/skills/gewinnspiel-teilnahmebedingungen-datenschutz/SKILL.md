@@ -1,6 +1,6 @@
 ---
 name: gewinnspiel-teilnahmebedingungen-datenschutz
-description: "Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB im Influencer-Recht."
 ---
 
 # Influencer-Recht: Gewinnspiel – Teilnahmebedingungen, Datenschutz

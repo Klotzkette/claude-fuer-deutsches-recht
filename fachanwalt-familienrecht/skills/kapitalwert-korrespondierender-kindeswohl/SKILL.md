@@ -1,19 +1,9 @@
 ---
 name: kapitalwert-korrespondierender-kindeswohl
-description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Familienrecht: prüft konkret Kapitalwert korrespondierender Kapitalwert prüfen, Hochkonflikt und Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungsträger Teilungskosten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Familienrecht: prüft konkret Kapitalwert korrespondierender Kapitalwert prüfen, Hochkonflikt und Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungsträger Teilungskosten."
 ---
 
 # Kapitalwert Korrespondierender Kindeswohl
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kapitalwert-korrespondierender-kapitalwert-pruefen` | Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `kindeswohl-hochkonflikt-wechselmodell` | Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `kirchliche-zusatzversorgung` | Kirchliche Zusatzversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `kosten-versorgungstraeger-teilungskosten` | Kosten Versorgungsträger Teilungskosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `kurze-ehezeit-3-abs-3-versausglg` | Kurze Ehezeit § 3 Abs 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Kapitalwert Korrespondierender Kindeswohl im Plugin Fachanwalt Fam
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kapitalwert-korrespondierender-kapitalwert-pruefen`
 

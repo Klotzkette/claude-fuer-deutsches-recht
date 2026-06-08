@@ -1,6 +1,6 @@
 ---
 name: quellensteuer-ausland
-description: "Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Internationales und Auslandskunden: Ordnet w-8ben

@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-gefahruebergang-versendung
-description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gefahrübergang § 446 BGB, Versendungskauf § 447 BGB und Ausnahmen beim Verbrauchsgüterkauf im BGB BT."
 ---
 
 # Kaufrecht: Gefahrübergang und Versendung

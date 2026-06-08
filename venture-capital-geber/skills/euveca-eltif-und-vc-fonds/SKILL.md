@@ -1,6 +1,6 @@
 ---
 name: euveca-eltif-und-vc-fonds
-description: "Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # EuVECA, ELTIF und VC-Fonds

@@ -1,19 +1,9 @@
 ---
 name: fristverlaengerung-laien-oertliche-sgg
-description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozialgericht: prüft konkret Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51, Das Vorverfahren nach § 78 SGG erklärt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozialgericht: prüft konkret Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51, Das Vorverfahren nach § 78 SGG erklärt."
 ---
 
 # Fristverlaengerung Laien Oertliche SGG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fristverlaengerung-sozialgericht-laien` | Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten. |
-| `oertliche-zuständigkeit-57-sgg` | Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behörde Sondervorschriften. Wie Sie das richtige SG finden. |
-| `sozialgericht-zuständigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
-| `widerspruch-vorverfahren-78-sgg` | Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behörde was prüft und wie das Ganze ablaeuft. Mit Mustertext. |
-| `widerspruchsfrist-84-sgg` | Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fristverlaengerung-sozialgericht-laien`
 

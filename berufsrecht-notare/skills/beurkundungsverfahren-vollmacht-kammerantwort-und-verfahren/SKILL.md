@@ -1,6 +1,6 @@
 ---
 name: beurkundungsverfahren-vollmacht-kammerantwort-und-verfahren
-description: "Notare: beurkundungsverfahren vollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: beurkundungsverfahren vollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: beurkundungsverfahren vollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

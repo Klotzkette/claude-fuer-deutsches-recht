@@ -1,6 +1,6 @@
 ---
 name: manager-dawn
-description: "Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation im Internal Investigations Praxis."
 ---
 
 # Interviews mit Führungskräften und Organmitgliedern

@@ -1,6 +1,6 @@
 ---
 name: barrierefreie-und-mehrsprachige-information
-description: "Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen im Wahlkampfrecht."
 ---
 
 # Barrierefreie Und Mehrsprachige Information

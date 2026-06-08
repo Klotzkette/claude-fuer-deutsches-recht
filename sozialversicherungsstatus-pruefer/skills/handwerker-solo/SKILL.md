@@ -1,6 +1,6 @@
 ---
 name: handwerker-solo
-description: "Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Pruefer."
 ---
 
 # Solo-Handwerker

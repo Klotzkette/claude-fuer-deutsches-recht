@@ -1,6 +1,6 @@
 {
   "name": "tabellenreview-3d",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette.",
   "license": "Apache-2.0 OR MIT",
   "author": {

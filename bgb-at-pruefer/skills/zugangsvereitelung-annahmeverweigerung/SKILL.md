@@ -1,15 +1,9 @@
 ---
 name: zugangsvereitelung-annahmeverweigerung
-description: "Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im BGB AT."
 ---
 
 # Zugangsvereitelung Annahmeverweigerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zugangsvereitelung-und-annahmeverweigerung` | Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zugangsvereitelung Annahmeverweigerung im Plugin Bgb At Pruefer im
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zugangsvereitelung-und-annahmeverweigerung`
 

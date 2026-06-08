@@ -1,6 +1,6 @@
 ---
 name: interne-untersuchung-ip-rechte-krankmeldung
-description: "Berliner Start-up-HR: Interne HR-Untersuchung light: Scope, Interviews, Dokumente, Schutz Beteiligter, Privilegiengrenzen und Abschlussmemo. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Interne HR-Untersuchung light: Scope, Interviews, Dokumente, Schutz Beteiligter, Privilegiengrenzen und Abschlussmemo. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Interne Untersuchung HR Light

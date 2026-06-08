@@ -1,6 +1,6 @@
 ---
 name: gmbh-vollstaendigen
-description: "GmbH: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "GmbH: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
 ---
 
 # GmbH: Risikoampel, Gegenargumente und Verteidigungslinien

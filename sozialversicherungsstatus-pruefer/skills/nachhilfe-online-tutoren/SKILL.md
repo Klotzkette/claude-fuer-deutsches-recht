@@ -1,6 +1,6 @@
 ---
 name: nachhilfe-online-tutoren
-description: "Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preissteuerung und Rentenversicherungspflicht im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preissteuerung und Rentenversicherungspflicht im Sozialversicherungsstatus Pruefer."
 ---
 
 # Nachhilfe und Online-Tutoren

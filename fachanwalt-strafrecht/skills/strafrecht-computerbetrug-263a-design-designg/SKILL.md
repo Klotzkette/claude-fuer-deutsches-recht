@@ -1,24 +1,9 @@
 ---
 name: strafrecht-computerbetrug-263a-design-designg
-description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §, Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §, Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht."
 ---
 
 # Computerbetrug 263a Design Designg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-computerbetrug-263a-stgb` | Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off. |
-| `strafrecht-spezial-design-strafrecht-51-designg` | Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht. |
-| `strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb` | Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhaeltnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren. |
-| `strafrecht-spezial-faktische-geschaeftsfuehrer` | Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung. |
-| `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb` | Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft für und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen. |
-| `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb` | Gefaehrliche Koerperverletzung nach § 224 StGB. Qualifikationen Nr. 1 Gift und gesundheitsschaedliche Stoffe; Nr. 2 Waffe oder gefaehrliches Werkzeug; Nr. 3 hinterlistiger Ueberfall; Nr. 4 mit anderen Beteiligten gemeinschaftlich; Nr. 5 lebensgefaehrdende Behandlung. Strafrahmen sechs Monate bis zehn Jahre. |
-| `strafrecht-spezial-geldwaesche-261-stgb-neu-2021` | Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo für Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules. |
-| `strafrecht-spezial-geschgehg-23-strafvorschriften` | Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschäftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing. |
-| `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb` | Glaeubigerbeguenstigung nach Paragraph 283c StGB. Bevorzugte Befriedigung eines Glaeubigers in der Krise zum Nachteil der Glaeubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenzung Paragraph 130 InsO Anfechtung. Verteidigung mit Bargeschaeftsausnahme Paragraph 142 InsO und Sanierungsversuch. |
-| `strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg` | Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG. Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Pruefungsberichten. Schutzgut Vertrauen des Rechtsverkehrs. Abgrenzung zu Paragraph 263 StGB und Paragraph 331 HGB. Praxisrelevanz Gruendung Kapitalerhoehung Sanierung. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-computerbetrug-263a-stgb`
 

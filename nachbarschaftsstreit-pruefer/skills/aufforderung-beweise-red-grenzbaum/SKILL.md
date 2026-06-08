@@ -1,6 +1,6 @@
 ---
 name: aufforderung-beweise-red-grenzbaum
-description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
 ---
 
 # Aufforderung: Mandantenkommunikation und Entscheidungsvorlage

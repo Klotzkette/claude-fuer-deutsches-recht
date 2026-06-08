@@ -1,6 +1,6 @@
 ---
 name: parteivernehmung-vorbereiten
-description: "Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Parteivernehmung vorbereiten

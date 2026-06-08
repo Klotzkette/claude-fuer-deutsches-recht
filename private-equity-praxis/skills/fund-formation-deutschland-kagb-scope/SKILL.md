@@ -1,6 +1,6 @@
 ---
 name: fund-formation-deutschland-kagb-scope
-description: "Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb des KAGB funktionieren kann im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb des KAGB funktionieren kann im Private Equity Praxis."
 ---
 
 # Fund Formation: KAGB-Scope und Strukturentscheidung

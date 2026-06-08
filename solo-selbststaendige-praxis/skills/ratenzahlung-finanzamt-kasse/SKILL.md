@@ -1,6 +1,6 @@
 ---
 name: ratenzahlung-finanzamt-kasse
-description: "Solo-Selbstständige: erstellt vorsichtige Stundungs-/Ratenzahlungsunterlagen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt vorsichtige Stundungs-/Ratenzahlungsunterlagen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Krise Schulden und Neustart: Erstellt vorsichtige stundungs-/ratenzahlungsunterlagen

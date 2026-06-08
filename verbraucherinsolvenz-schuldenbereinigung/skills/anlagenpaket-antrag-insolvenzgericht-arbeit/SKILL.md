@@ -1,17 +1,9 @@
 ---
 name: anlagenpaket-antrag-insolvenzgericht-arbeit
-description: "Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme, Jobwechsel und Mehrverdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Anlagenpaket für Gericht, Antrag beim Insolvenzgericht, Arbeitsaufnahme, Jobwechsel und Mehrverdienst."
 ---
 
 # Anlagenpaket Antrag Insolvenzgericht Arbeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anlagenpaket-für-gericht` | Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `antrag-insolvenzgericht` | Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `arbeit-wechsel-und-mehrverdienst` | Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Anlagenpaket Antrag Insolvenzgericht Arbeit im Plugin Verbraucheri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anlagenpaket-für-gericht`
 

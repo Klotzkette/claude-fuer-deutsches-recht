@@ -1,6 +1,6 @@
 ---
 name: physische-sicherheit-policy-pack-privileged
-description: "Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten im Nis2 Cybersecurity Compliance."
 ---
 
 # Physische Sicherheit Rechenzentrum

@@ -1,6 +1,6 @@
 ---
 name: owig-in-einfacher-sprache
-description: "Ordnungswidrigkeitenrecht: OWiG in einfacher Sprache. OWiG in einfacher Sprache im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: OWiG in einfacher Sprache. OWiG in einfacher Sprache im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Owig In Einfacher Sprache

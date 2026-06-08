@@ -1,6 +1,6 @@
 ---
 name: it-recht-aufnahme-statusinformation-benachrichtigung-art
-description: "Aufnahme Statusinformation Benachrichtigung ART im Plugin Fachanwalt It Recht: prüft konkret Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigungsschreiben an die von einer, Bewertet. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufnahme Statusinformation Benachrichtigung ART im Plugin Fachanwalt It Recht: prüft konkret Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach, Erstellt das Benachrichtigungsschreiben an die von einer, Bewertet."
 ---
 
 # Aufnahme Statusinformation Benachrichtigung ART
@@ -19,16 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsv-aufnahme-statusinformation` | Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne. |
-| `dsv-benachrichtigung-art-34-ausnahmen` | Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung. |
-| `dsv-benachrichtigung-art-34-betroffene` | Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 DSGVO. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 DSGVO; klare und einfache Sprache; Beschreibung der Art der Verletzung; Kontaktdaten des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene und vorgeschlagene Abhilfemaßnahmen; konkrete Empfehlungen für Betroffene; Hotline; Versandweg E-Mail oder Brief. Output: Anschreiben mit Q&A. Abgrenzung: keine öffentliche Bekanntmachung; keine Behördenmeldung. |
-| `dsv-benachrichtigung-art-34-schwelle-hohes-risiko` | Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen Art. 9 DSGVO und Minderjährige; Klartext-Passwörter; Finanzdaten; Gesundheitsdaten; Bewertungsmemo für die Akte. Output: Schwellenentscheidung mit Begründung und Bezug auf EDSA. Abgrenzung: keine konkrete Benachrichtigung; keine Ausnahmenprüfung. |
-| `dsv-beweissicherung` | Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben. Behandelt: Chain of Custody; Logging-Sicherung; Speicherabbilder; Hashes; Zeugenidentifikation; Dokumentation der Wahrnehmungen; Aufbewahrungsfristen; Datenschutzbeschränkungen bei Mitarbeiterüberwachung; Telekommunikationsgeheimnis. Output: Beweissicherungs-Protokoll mit Checkliste und Übergabeformular. Abgrenzung: keine eigene Forensik; keine Strafanzeige. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsv-aufnahme-statusinformation`
 

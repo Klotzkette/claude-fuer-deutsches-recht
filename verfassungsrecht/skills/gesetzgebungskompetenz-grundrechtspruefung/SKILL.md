@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-grundrechtspruefung
-description: "Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk im Verfassungsrecht."
 ---
 
 # Gesetzgebungskompetenz: Compliance-Dokumentation und Aktenvermerk

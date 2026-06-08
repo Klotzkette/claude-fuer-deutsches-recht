@@ -1,6 +1,6 @@
 ---
 name: neu-006-paulskirchenverfassung-1848-und-grundrechte
-description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 Und Grundrechte

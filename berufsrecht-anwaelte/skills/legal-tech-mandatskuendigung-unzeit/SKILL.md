@@ -1,6 +1,6 @@
 ---
 name: legal-tech-mandatskuendigung-unzeit
-description: "Anwälte: legal tech rdg grenze - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: legal tech rdg grenze - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: legal tech rdg grenze - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

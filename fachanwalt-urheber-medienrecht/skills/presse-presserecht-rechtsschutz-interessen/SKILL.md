@@ -1,17 +1,9 @@
 ---
 name: presse-presserecht-rechtsschutz-interessen
-description: "Presse Presserecht Rechtsschutz Interessen im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Presse, Presserecht, Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Presse Presserecht Rechtsschutz Interessen im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Presse, Presserecht, Rechtsschutz."
 ---
 
 # Presse Presserecht Rechtsschutz Interessen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-presse-mandantenkommunikation-entscheidungsvorlage` | Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-presserecht-schriftsatz-brief-und-memo-bausteine` | Presserecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-rechtsschutz-mehrparteien-konflikt-und-interessen` | Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Presse Presserecht Rechtsschutz Interessen im Plugin Fachanwalt Ur
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-presse-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht.
 
 ### Presse: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-presserecht-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Presserecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Presserecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt urheber medienrecht.
 
 ### Presserecht: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -75,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-rechtsschutz-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht.
 
 ### Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix
 

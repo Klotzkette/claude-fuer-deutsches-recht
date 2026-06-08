@@ -1,6 +1,6 @@
 ---
 name: chronologie-compliance-dokumentation-und-akte
-description: "Chronologie: Compliance-Dokumentation und Aktenvermerk im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chronologie: Compliance-Dokumentation und Aktenvermerk im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Chronologie: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: 052-vollzug-mit-behoerden-genehmigungen-vorkaufsrechtsz
-description: "Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis und Negativattest. Behördenkommunikation beim Grundstücksvollzug, BauGB-Vorkaufsrecht, Genehmigungsverfahren und Attestbeschaffung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis und Negativattest. Behördenkommunikation beim Grundstücksvollzug, BauGB-Vorkaufsrecht, Genehmigungsverfahren und Attestbeschaffung im Notariat."
 ---
 
 # Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis, Negativattest

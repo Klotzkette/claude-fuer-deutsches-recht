@@ -1,6 +1,6 @@
 ---
 name: einfuehrer-importer-eu-datenbank-fallfremde
-description: "Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitätserklärung geprüft Bevollmaechtigter benannt. Wann wird Einführer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einführer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel) im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitätserklärung geprüft Bevollmaechtigter benannt. Wann wird Einführer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einführer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel) im Ki Vo Ai Act Pruefer."
 ---
 
 # Einführer-Pflichten (Importer) — Art. 23 KI-VO

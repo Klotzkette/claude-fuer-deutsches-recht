@@ -1,6 +1,6 @@
 ---
 name: beta-pilot-poc-termsheet
-description: "Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go im Softwarerecht De Eu Us."
 ---
 
 # Beta Pilot PoC Termsheet

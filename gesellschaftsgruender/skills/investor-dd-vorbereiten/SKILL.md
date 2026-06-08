@@ -1,6 +1,6 @@
 ---
 name: investor-dd-vorbereiten
-description: "Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge im Gesellschaftsgruender."
 ---
 
 # Investor Due Diligence vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: fristkalender-laie
-description: "Fristkalender für Laien: führt Laien durch Fristen aus Bescheiden, Mahnungen, Gerichtspost und Verträgen sicher erfassen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristkalender für Laien: führt Laien durch Fristen aus Bescheiden, Mahnungen, Gerichtspost und Verträgen sicher erfassen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Fristkalender für Laien

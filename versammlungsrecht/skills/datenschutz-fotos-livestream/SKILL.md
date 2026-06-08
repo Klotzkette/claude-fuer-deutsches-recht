@@ -1,6 +1,6 @@
 ---
 name: datenschutz-fotos-livestream
-description: "Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen im Versammlungsrecht."
 ---
 
 # Sichtbarkeit und Datenschutz zusammen denken

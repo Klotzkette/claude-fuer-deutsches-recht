@@ -1,6 +1,6 @@
 ---
 name: cannabis-mandantenbrief-kokain-stoff
-description: "Cannabis: Mandantenbrief schreiben im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cannabis: Mandantenbrief schreiben im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Cannabis Mandantenbrief Schreiben

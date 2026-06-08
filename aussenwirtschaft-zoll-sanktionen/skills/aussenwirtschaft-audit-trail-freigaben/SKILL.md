@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-audit-trail-freigaben
-description: "Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation für Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation für Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Audit-Trail: Revisionssichere Freigabedokumentation im Aussenhandel

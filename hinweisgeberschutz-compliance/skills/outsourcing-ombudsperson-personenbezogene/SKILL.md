@@ -1,6 +1,6 @@
 ---
 name: outsourcing-ombudsperson-personenbezogene
-description: "Prüft Outsourcing an Ombudsperson oder Dienstleister im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Outsourcing an Ombudsperson oder Dienstleister im Hinweisgeberschutz Compliance."
 ---
 
 # Outsourcing Ombudsperson

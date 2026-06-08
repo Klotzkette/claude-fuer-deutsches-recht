@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-zulassung-rechtsprechungs
-description: "Wirtschaftsprüfer: berufsgesellschaft zulassung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: berufsgesellschaft zulassung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: berufsgesellschaft zulassung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

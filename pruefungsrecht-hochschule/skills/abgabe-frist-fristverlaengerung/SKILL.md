@@ -1,6 +1,6 @@
 ---
 name: abgabe-frist-fristverlaengerung
-description: "Prüft Abgabe, Frist, Upload und Zugang im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abgabe, Frist, Upload und Zugang im Pruefungsrecht Hochschule."
 ---
 
 # Abgabe Frist Upload

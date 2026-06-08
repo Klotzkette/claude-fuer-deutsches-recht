@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-influencer-omnibus
-description: "Rechtsabteilungs-Fachmodul für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht."
 ---
 
 # Rechtsabteilung: Influencer- und Affiliate-Shop

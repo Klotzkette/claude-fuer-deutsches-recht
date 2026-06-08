@@ -1,6 +1,6 @@
 ---
 name: schulaufnahme-und-schulbezirk
-description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung im Schulrecht Länder."
 ---
 
 # Schulaufnahme Und Schulbezirk

@@ -1,6 +1,6 @@
 ---
 name: mobbing-und-gewalt
-description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mobbing, Gewalt und Schutzpflichten der Schule im Schulrecht Länder."
 ---
 
 # Mobbing Und Gewalt

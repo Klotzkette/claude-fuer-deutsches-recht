@@ -1,17 +1,9 @@
 ---
 name: bgb
-description: "BGB im Plugin Fachanwalt Erbrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-erbrecht, Red-Team Qualitygate im Plugin fachanwalt-erbrecht, BGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BGB im Plugin Fachanwalt Erbrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-erbrecht, Red-Team Qualitygate im Plugin fachanwalt-erbrecht, BGB."
 ---
 
 # BGB
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-erbrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-erbrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-bgb-fristen-form-und-zuständigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "BGB im Plugin Fachanwalt Erbrecht: prüft konkret Mandantenkommuni
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-mandantenkommunikation`
 

@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-suchen-tiertransport
-description: "Geflügelmast: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geflügelmast: Vergleich suchen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Gefluegelmast Vergleich Suchen

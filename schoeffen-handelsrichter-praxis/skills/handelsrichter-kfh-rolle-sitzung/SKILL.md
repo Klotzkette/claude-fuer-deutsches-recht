@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-kfh-rolle-sitzung
-description: "Handelsrichter in der Kammer für Handelssachen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter in der Kammer für Handelssachen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Handelsrichter in der Kammer für Handelssachen: Sitzungspraxis

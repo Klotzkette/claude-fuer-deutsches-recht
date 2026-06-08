@@ -1,6 +1,6 @@
 ---
 name: risikoregister
-description: "Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Versicherung Haftung und Risiko: Baut ein lebendes risikoregister mit eintritt

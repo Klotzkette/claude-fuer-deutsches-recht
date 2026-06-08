@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-gesellschafter
-description: "Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen im Gesellschaftsgruender."
 ---
 
 # Minderjährige Gesellschafter

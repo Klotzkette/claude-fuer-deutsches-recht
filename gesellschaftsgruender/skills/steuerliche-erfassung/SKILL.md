@@ -1,6 +1,6 @@
 ---
 name: steuerliche-erfassung
-description: "Führt durch Fragebogen steuerliche Erfassung, USt, Dauerfristverlängerung und Lohnsteuer im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Fragebogen steuerliche Erfassung, USt, Dauerfristverlängerung und Lohnsteuer im Gesellschaftsgruender."
 ---
 
 # Steuerliche Erfassung ELSTER

@@ -1,6 +1,6 @@
 ---
 name: buergergeld-krankenversicherung-titel
-description: "Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Buergergeld Krankenversicherung Titel

@@ -1,6 +1,6 @@
 ---
 name: privatschule-und-ersatzschule
-description: "Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag im Schulrecht Länder."
 ---
 
 # Privatschule Und Ersatzschule

@@ -1,6 +1,6 @@
 ---
 name: mandanten-intake-status
-description: "Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten im Sozialversicherungsstatus Pruefer."
 ---
 
 # Mandanten-Intake Statusprüfung

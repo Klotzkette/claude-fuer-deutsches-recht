@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenhaus-und-versorgungsstrukturrecht
-description: "Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Länder (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Länder (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung) im Legistik."
 ---
 
 # Krankenhaus- und Versorgungsstrukturrecht (BMG)

@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-monatsroutine-scannen
-description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht im Betreuungsrecht."
 ---
 
 # Familienbetreuer: Monatsroutine und Kalender

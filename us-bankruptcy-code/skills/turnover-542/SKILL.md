@@ -1,6 +1,6 @@
 ---
 name: turnover-542
-description: "Prueft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft turnover of estate property, records, account funds, collateral and foreign holder issues im US Bankruptcy Code."
 ---
 
 # Turnover § 542

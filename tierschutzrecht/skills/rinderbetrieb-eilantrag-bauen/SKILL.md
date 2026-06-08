@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-eilantrag-bauen
-description: "Rinderbetrieb: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rinderbetrieb: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Rinderbetrieb Eilantrag Bauen

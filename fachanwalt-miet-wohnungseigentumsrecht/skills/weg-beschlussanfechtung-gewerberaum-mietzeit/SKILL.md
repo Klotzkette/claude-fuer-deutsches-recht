@@ -1,19 +1,9 @@
 ---
 name: weg-beschlussanfechtung-gewerberaum-mietzeit
-description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungseigentumsrecht: prüft konkret Wohnungseigentuemer will Beschluss der, Gewerberaum-Spezial, KI-gestuetzte qualifizierte Mietspiegel, Betriebskostenabrechnung im Fachanwaltsmandat schnell. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungseigentumsrecht: prüft konkret Wohnungseigentuemer will Beschluss der, Gewerberaum-Spezial, KI-gestuetzte qualifizierte Mietspiegel, Betriebskostenabrechnung im Fachanwaltsmandat schnell."
 ---
 
 # WEG Beschlussanfechtung Gewerberaum Mietzeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ordnungsmäßige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Überschneidung) und miet-weg-mediation (außergerichtlich). |
-| `gewerberaum-mietzeit-und-kuendigung` | Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund. Pruefraster bei Schriftformmaengeln und langfristigen Vertraegen. |
-| `ki-gestuetzte-mietspiegel-rechtsfragen` | KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte für Vermieter und Mieter, OLG-Rechtsprechung zur Verwertbarkeit. |
-| `miet-betriebskostenabrechnung-checkliste` | Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendungsfristen und verwertbare Schreiben. |
-| `miet-mietkaution-streit-spezial` | Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung. Pruefraster typische Forderungen Vermieter und Einreden Mieter. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "WEG Beschlussanfechtung Gewerberaum Mietzeit im Miet- und Wohnungs
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung`
 

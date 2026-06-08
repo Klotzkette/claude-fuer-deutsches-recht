@@ -1,19 +1,9 @@
 ---
 name: verhalten-saal-verletztengeld-sgb
-description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialgericht: prüft konkret Wie verhalte ich mich im Sitzungssaal des SG, Verletztengeld nach § 46 SGB VII, Die Verpflichtungsklage nach § 54 Abs, Beweise für den Versand sicher organisieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialgericht: prüft konkret Wie verhalte ich mich im Sitzungssaal des SG, Verletztengeld nach § 46 SGB VII, Die Verpflichtungsklage nach § 54 Abs, Beweise für den Versand sicher organisieren."
 ---
 
 # Verhalten Saal Verletztengeld SGB
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verhalten-im-saal-sozialgericht-laienleitfaden` | Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt. |
-| `verletztengeld-46-sgb-vii` | Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster. |
-| `verpflichtungsklage-54-sgg` | Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behörde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger. |
-| `versand-selbst-zurechnung-laien-sozialgericht` | Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung. |
-| `video-verhandlung-110a-sgg` | Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialger
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verhalten-im-saal-sozialgericht-laienleitfaden`
 

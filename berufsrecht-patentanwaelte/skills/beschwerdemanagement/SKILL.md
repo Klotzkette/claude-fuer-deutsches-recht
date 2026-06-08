@@ -1,6 +1,6 @@
 ---
 name: beschwerdemanagement
-description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Beschwerdemanagement im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Beschwerdemanagement im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Beschwerdemanagement

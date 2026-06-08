@@ -1,6 +1,6 @@
 ---
 name: klassenfahrt-und-kosten
-description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss im Schulrecht Länder."
 ---
 
 # Klassenfahrt Und Kosten

@@ -1,17 +1,9 @@
 ---
 name: urhmr-presserecht-gegendarstellung
-description: "Urhmr Presserecht Gegendarstellung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Spezialfall presserechtliche Gegendarstellung, Leitfaden Presserechtsbrief, Verwertungsgesellschaften GEMA, VG Wort. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Urhmr Presserecht Gegendarstellung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Spezialfall presserechtliche Gegendarstellung, Leitfaden Presserechtsbrief, Verwertungsgesellschaften GEMA, VG Wort."
 ---
 
 # Urhmr Presserecht Gegendarstellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `urhmr-presserecht-gegendarstellung-spezial` | Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext. |
-| `urhmr-presserechtsbrief-leitfaden` | Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Pruefraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung. Mustertext Abmahnung Presse. |
-| `urhmr-verwertungsgesellschaften-praxis` | Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation. Pruefraster und Mustertexte für Mandanten als Berechtigte und Nutzer. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Urhmr Presserecht Gegendarstellung im Plugin Fachanwalt Urheber Me
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `urhmr-presserecht-gegendarstellung-spezial`
 

@@ -1,6 +1,6 @@
 ---
 name: md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung
-description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte im Krankenhausrecht."
 ---
 
 # MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung

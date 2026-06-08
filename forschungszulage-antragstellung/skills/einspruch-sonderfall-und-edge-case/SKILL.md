@@ -1,6 +1,6 @@
 ---
 name: einspruch-sonderfall-und-edge-case
-description: "Einspruch: Sonderfall und Edge-Case-Prüfung im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einspruch: Sonderfall und Edge-Case-Prüfung im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Einspruch: Sonderfall und Edge-Case-Prüfung

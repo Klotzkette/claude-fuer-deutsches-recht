@@ -1,6 +1,6 @@
 ---
 name: personalausweis-pass-petition-buergeranliegen
-description: "Erklärt Antrag, Verlust, Sperrung, vorläufige Dokumente, Reiseproblem und Zuständigkeit im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Antrag, Verlust, Sperrung, vorläufige Dokumente, Reiseproblem und Zuständigkeit im Bürokratie-Entbürokratisierung."
 ---
 
 # Personalausweis und Pass

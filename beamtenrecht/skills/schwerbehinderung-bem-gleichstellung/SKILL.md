@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderung-bem-gleichstellung
-description: "Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung im Beamtenrecht."
 ---
 
 # Schwerbehinderung Bem Gleichstellung

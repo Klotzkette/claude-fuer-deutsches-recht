@@ -1,6 +1,6 @@
 ---
 name: kollegialitaet-faktenma-kostenrechnung
-description: "Notare: kollegialitaet und zuständigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: kollegialitaet und zuständigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: kollegialitaet und zuständigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

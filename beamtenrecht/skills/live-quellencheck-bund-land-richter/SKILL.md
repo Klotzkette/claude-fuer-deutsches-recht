@@ -1,6 +1,6 @@
 ---
 name: live-quellencheck-bund-land-richter
-description: "Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen im Beamtenrecht."
 ---
 
 # Live Quellencheck Bund Land Richter

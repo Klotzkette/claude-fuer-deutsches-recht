@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan
-description: "Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG nicht im letzten Moment platzt im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG nicht im letzten Moment platzt im Steuerrecht Anwalt Und Berater."
 ---
 
 # Sanierungsgewinn — Frühwarnung 12 Monate vor Plan

@@ -1,6 +1,6 @@
 ---
 name: tatsache-dokumentenmatrix-und-lueckenliste
-description: "Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung im Meinungspruefer."
 ---
 
 # Tatsache: Dokumentenmatrix, Lückenliste und Nachforderung

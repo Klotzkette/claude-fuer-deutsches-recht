@@ -1,17 +1,9 @@
 ---
 name: verlagsredaktion-international-urheber
-description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Verlagsredaktion, Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und, Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht."
 ---
 
 # Verlagsredaktion International Urheber
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verlagsredaktion-international-schnittstellen` | Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `urheber-abmahnung-pruefen` | Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung). |
-| `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster für Betroffene und Plattform. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Verlagsredaktion International Urheber im Plugin Fachanwalt Urhebe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verlagsredaktion-international-schnittstellen`
 
-**Fokus:** Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht.
 
 ### Verlagsredaktion: Internationaler Bezug und Schnittstellen
 

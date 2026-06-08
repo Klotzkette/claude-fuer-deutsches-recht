@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-raumfahrt-startup
-description: "Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken im Weltraumrecht."
 ---
 
 # Weltraumrecht: Risikomatrix Raumfahrt-Startup

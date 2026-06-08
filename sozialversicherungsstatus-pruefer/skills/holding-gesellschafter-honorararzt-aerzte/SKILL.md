@@ -1,6 +1,6 @@
 ---
 name: holding-gesellschafter-honorararzt-aerzte
-description: "Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers im Sozialversicherungsstatus Pruefer."
 ---
 
 # Holding-Gesellschafter-Geschäftsführer

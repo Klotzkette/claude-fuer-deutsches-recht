@@ -1,6 +1,6 @@
 ---
 name: studierendenwerk-beitrag
-description: "Prüft Studierendenwerksbeitrag, Satzung, Rückerstattung und Härtefall im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Studierendenwerksbeitrag, Satzung, Rückerstattung und Härtefall im Hochschulrecht Länder."
 ---
 
 # Studierendenwerk und Beitrag

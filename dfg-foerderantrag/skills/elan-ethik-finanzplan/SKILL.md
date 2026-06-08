@@ -1,6 +1,6 @@
 ---
 name: elan-ethik-finanzplan
-description: "Elan: Formular, Portal und Einreichungslogik im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elan: Formular, Portal und Einreichungslogik im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Elan: Formular, Portal und Einreichungslogik

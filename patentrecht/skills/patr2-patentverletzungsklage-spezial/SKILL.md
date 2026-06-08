@@ -1,6 +1,6 @@
 ---
 name: patr2-patentverletzungsklage-spezial
-description: "Spezialfall Patentverletzungsklage: aequivalente Verletzung, Unterlassung, Auskunft, Schadensersatz, Anspruchsberechnung Lizenzanalogie. Pruefraster für Klaeger und Beklagter im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Patentverletzungsklage: aequivalente Verletzung, Unterlassung, Auskunft, Schadensersatz, Anspruchsberechnung Lizenzanalogie. Pruefraster für Klaeger und Beklagter im Patentrecht."
 ---
 
 # PatR2: Patentverletzungsklage

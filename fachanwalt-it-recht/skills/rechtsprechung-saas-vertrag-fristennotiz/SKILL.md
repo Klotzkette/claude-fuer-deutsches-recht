@@ -1,19 +1,9 @@
 ---
 name: rechtsprechung-saas-vertrag-fristennotiz
-description: "DSV Rechtsprechung Saas Vertrag Fristennotiz im Plugin Fachanwalt It Recht: prüft konkret Analysiert die deutsche Rechtsprechung zum immateriellen, Saas, Vertrag, IT-Vertragsverhandlung SaaS Cloud Lizenz mit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DSV Rechtsprechung Saas Vertrag Fristennotiz im Plugin Fachanwalt It Recht: prüft konkret Analysiert die deutsche Rechtsprechung zum immateriellen, Saas, Vertrag, IT-Vertragsverhandlung SaaS Cloud Lizenz mit."
 ---
 
 # DSV Rechtsprechung Saas Vertrag Fristennotiz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung. |
-| `spezial-saas-fristen-form-und-zuständigkeit` | Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vertrag-fristennotiz-und-naechster-schritt` | Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr` | IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Prüfraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen. |
-| `fachanwalt-it-recht-saas-vertrag-verhandlung` | SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Prüfraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-prüfen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "DSV Rechtsprechung Saas Vertrag Fristennotiz im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsv-rechtsprechung-immaterieller-schaden-bgh-olg`
 
@@ -73,7 +63,7 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 
 ## 2. `spezial-saas-fristen-form-und-zuständigkeit`
 
-**Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht.
 
 ### Saas: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -117,7 +107,7 @@ Härtere SLA-Klauseln nutzen wenig, wenn die Lebenswirklichkeit fehlt: Service C
 
 ## 3. `spezial-vertrag-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht.
 
 ### Vertrag: Fristennotiz und nächster Schritt
 

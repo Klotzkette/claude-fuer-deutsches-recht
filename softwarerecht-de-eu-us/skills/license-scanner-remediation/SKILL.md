@@ -1,6 +1,6 @@
 ---
 name: license-scanner-remediation
-description: "Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail im Softwarerecht De Eu Us."
 ---
 
 # License Scanner Remediation

@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-frist-umweltinformation-zustaendigkeit-p
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Ifggebv Gebühren Frist Setzen

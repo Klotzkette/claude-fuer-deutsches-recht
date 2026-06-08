@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-schnittstelle-szena
-description: "Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Sozialversicherung Schnittstelle Szena

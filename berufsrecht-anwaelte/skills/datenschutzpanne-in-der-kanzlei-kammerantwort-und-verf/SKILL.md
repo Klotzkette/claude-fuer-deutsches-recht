@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-in-der-kanzlei-kammerantwort-und-verf
-description: "Anwälte: datenschutzpanne in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: datenschutzpanne in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: datenschutzpanne in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

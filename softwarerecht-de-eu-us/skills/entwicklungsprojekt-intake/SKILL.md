@@ -1,6 +1,6 @@
 ---
 name: entwicklungsprojekt-intake
-description: "Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch im Softwarerecht De Eu Us."
 ---
 
 # Softwareentwicklungsprojekt Intake

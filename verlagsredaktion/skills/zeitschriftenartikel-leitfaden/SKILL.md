@@ -1,6 +1,6 @@
 ---
 name: zeitschriftenartikel-leitfaden
-description: "Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Pruefraster für Autorin und Verlag im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Pruefraster für Autorin und Verlag im Verlagsredaktion."
 ---
 
 # Verl: Zeitschriftenartikel

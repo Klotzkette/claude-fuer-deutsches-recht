@@ -1,6 +1,6 @@
 ---
 name: ersatzkraefte-subunternehmer
-description: "Prüft Einsatz eigener Mitarbeiter/Subunternehmer als Indiz für Selbständigkeit und rechtliche Nebenrisiken im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einsatz eigener Mitarbeiter/Subunternehmer als Indiz für Selbständigkeit und rechtliche Nebenrisiken im Sozialversicherungsstatus Pruefer."
 ---
 
 # Ersatzkräfte und Subunternehmer

@@ -1,6 +1,6 @@
 ---
 name: prokura-paragraphen-48-53-hgb
-description: "Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erteilung, Umfang, Grenzen, Gesamtprokura, Filialprokura und Registereintragung im Handelsrecht Hgb."
 ---
 
 # Prokura §§ 48-53 HGB

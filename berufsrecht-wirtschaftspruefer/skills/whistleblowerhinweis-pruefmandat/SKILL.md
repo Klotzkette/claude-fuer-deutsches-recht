@@ -1,6 +1,6 @@
 ---
 name: whistleblowerhinweis-pruefmandat
-description: "Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: whistleblowerhinweis im pruefmandat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

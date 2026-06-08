@@ -1,15 +1,9 @@
 ---
 name: wiedergabe-ansichten
-description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmusterrecht."
 ---
 
 # Wiedergabe Ansichten
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wiedergabe-ansichten-fotos-linien` | Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis; was fehlt, ist später schwer zu retten. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmuste
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wiedergabe-ansichten-fotos-linien`
 

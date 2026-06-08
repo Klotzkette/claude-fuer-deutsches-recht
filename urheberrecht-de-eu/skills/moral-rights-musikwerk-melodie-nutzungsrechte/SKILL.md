@@ -1,6 +1,6 @@
 ---
 name: moral-rights-musikwerk-melodie-nutzungsrechte
-description: "Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen im Urheberrecht De Eu."
 ---
 
 # AI-Cover, Voice Model und Entstellung

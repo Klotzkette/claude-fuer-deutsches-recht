@@ -1,6 +1,6 @@
 ---
 name: semesterticket-mobilitaetsbeitrag-senat
-description: "Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell im Hochschulrecht Länder."
 ---
 
 # Semesterticket und Mobilitätsbeitrag

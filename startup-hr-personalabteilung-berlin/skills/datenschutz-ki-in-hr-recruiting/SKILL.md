@@ -1,6 +1,6 @@
 ---
 name: datenschutz-ki-in-hr-recruiting
-description: "Berliner Start-up-HR: KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Datenschutz KI In HR Recruiting

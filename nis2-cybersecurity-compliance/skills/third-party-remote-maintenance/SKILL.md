@@ -1,6 +1,6 @@
 ---
 name: third-party-remote-maintenance
-description: "Prüft Fernwartung durch Lieferanten und Dienstleister im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fernwartung durch Lieferanten und Dienstleister im Nis2 Cybersecurity Compliance."
 ---
 
 # Third Party Remote Maintenance

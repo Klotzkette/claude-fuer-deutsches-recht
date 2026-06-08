@@ -1,6 +1,6 @@
 ---
 name: unfall-fahrrad-verbraucherschlichtung
-description: "Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Kleiner Unfall Fahrrad und Auto

@@ -1,6 +1,6 @@
 ---
 name: mandanten-beteiligtenkommunikation
-description: "Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Anwälte; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Anwälte; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Beteiligtenkommunikation

@@ -1,6 +1,6 @@
 ---
 name: bsig-registrierung-bsi
-description: "Führt Registrierung und Kontaktdaten beim BSI sauber durch im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Registrierung und Kontaktdaten beim BSI sauber durch im Nis2 Cybersecurity Compliance."
 ---
 
 # Bsig Registrierung BSI

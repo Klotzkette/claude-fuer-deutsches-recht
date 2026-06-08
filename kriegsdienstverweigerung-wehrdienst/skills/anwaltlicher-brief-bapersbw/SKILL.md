@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-brief-bapersbw
-description: "Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13 im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13 im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Anwaltlicher Brief BAPersBw

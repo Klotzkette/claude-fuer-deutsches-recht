@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-urheberrecht
-description: "Formt die Prüfung in ein klares Memo für Verlag, Label, Künstler, Plattform, Softwarehaus oder Kanzlei im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formt die Prüfung in ein klares Memo für Verlag, Label, Künstler, Plattform, Softwarehaus oder Kanzlei im Urheberrecht De Eu."
 ---
 
 # Mandantenmemo Urheberrecht

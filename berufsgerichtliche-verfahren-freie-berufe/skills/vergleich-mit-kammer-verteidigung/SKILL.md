@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-kammer-verteidigung
-description: "Vergleich mit Kammer oder Aufsicht (Verteidigungs- und Kammerantwort): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich mit Kammer oder Aufsicht (Verteidigungs- und Kammerantwort): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Vergleich mit Kammer oder Aufsicht: Verteidigungs- und Kammerantwort

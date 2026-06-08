@@ -1,6 +1,6 @@
 ---
 name: literatur-live-beweislast-lizenziertem
-description: "Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: sicherheitsueberpruefung-und-extremismus
-description: "Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Extremismus und Sicherheit

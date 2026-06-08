@@ -1,6 +1,6 @@
 ---
 name: rechtsschutzbeduerfnis-religioese
-description: "Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Rechtsschutzbedürfnis

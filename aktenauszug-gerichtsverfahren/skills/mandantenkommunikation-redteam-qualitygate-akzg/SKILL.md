@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate-akzg
-description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Aktenauszug Gerichtsverfahren."
 ---
 
 # Mandantenkommunikation

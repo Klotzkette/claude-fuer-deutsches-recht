@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-kaltstart-und-faktenmatri
-description: "Notare: verschwiegenheit und datenraum - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: verschwiegenheit und datenraum - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: verschwiegenheit und datenraum - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

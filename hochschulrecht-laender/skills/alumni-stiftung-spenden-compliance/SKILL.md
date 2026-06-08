@@ -1,6 +1,6 @@
 ---
 name: alumni-stiftung-spenden-compliance
-description: "Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung im Hochschulrecht Länder."
 ---
 
 # Alumni, Stiftung und Spenden-Compliance

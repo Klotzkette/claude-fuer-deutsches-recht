@@ -1,17 +1,9 @@
 ---
 name: persoenlichkeitsrechte-schnittstelle
-description: "Persoenlichkeitsrechte Schnittstelle im Sportrecht: prüft konkret Persoenlichkeitsrechte, Schnittstelle, Spielervertraege. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Persoenlichkeitsrechte Schnittstelle im Sportrecht: prüft konkret Persoenlichkeitsrechte, Schnittstelle, Spielervertraege."
 ---
 
 # Persoenlichkeitsrechte Schnittstelle
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-persoenlichkeitsrechte-formular-portal-und-einreichung` | Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstelle-mandantenentscheidung` | Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-spielervertraege-verhandlung-vergleich-und-eskalation` | Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-persoenlichkeitsrechte-formular-portal-und-einreichung`
 
-**Fokus:** Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik im Plugin fachanwalt sportrecht.
 
 ### Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-schnittstelle-mandantenentscheidung`
 
-**Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt sportrecht.
 
 ### Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-spielervertraege-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht.
 
 ### Spielervertraege: Verhandlung, Vergleich und Eskalation
 

@@ -1,6 +1,6 @@
 ---
 name: gewaehrleistung-und-garantie-trennen
-description: "Verbraucherschutzrecht Prüfer: Gewährleistung und Garantie trennen. Gewährleistung und Garantie trennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Gewährleistung und Garantie trennen. Gewährleistung und Garantie trennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Gewaehrleistung Und Garantie Trennen

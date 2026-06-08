@@ -1,6 +1,6 @@
 ---
 name: digital-platforms-self-preferencing
-description: "Digitale Plattformen Self-Preferencing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Digitale Plattformen Self-Preferencing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Digitale Plattformen Self-Preferencing

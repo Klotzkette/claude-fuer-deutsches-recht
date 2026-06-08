@@ -1,6 +1,6 @@
 ---
 name: chapter13-eligibility
-description: "Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues im US Bankruptcy Code."
 ---
 
 # Chapter 13 Eligibility

@@ -1,6 +1,6 @@
 ---
 name: memorandum-dokumentenmatrix-und-lueckenliste
-description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung

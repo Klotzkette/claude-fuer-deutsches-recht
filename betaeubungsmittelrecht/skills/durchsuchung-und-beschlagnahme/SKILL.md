@@ -1,6 +1,6 @@
 ---
 name: durchsuchung-und-beschlagnahme
-description: "Betäubungsmittelrecht: Durchsuchung und Beschlagnahme. Durchsuchung und Beschlagnahme im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betäubungsmittelrecht: Durchsuchung und Beschlagnahme. Durchsuchung und Beschlagnahme im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
 ---
 
 # Durchsuchung Und Beschlagnahme

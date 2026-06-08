@@ -1,6 +1,6 @@
 ---
 name: identity-access-management
-description: "Prüft IAM für Nutzer, Rollen, Gruppen und Applikationen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft IAM für Nutzer, Rollen, Gruppen und Applikationen im Nis2 Cybersecurity Compliance."
 ---
 
 # Identity Access Management

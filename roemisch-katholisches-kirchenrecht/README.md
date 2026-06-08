@@ -172,6 +172,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `wallfahrt-und-pilgerpastoral` | Wallfahrt und Pilgerpastoral: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege... |
 | `weihe-amt-und-vollmacht` | Weihe, Amt und Vollmacht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und... |
 | `wiederaufnahme-nach-kirchenaustritt` | Wiederaufnahme nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen,... |
-| `zustandigkeit-pfarrei` | Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel... |
+| `zustandigkeit-pfarrei` | Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,17 +1,9 @@
 ---
 name: substantiiertes-bestreiten-zerlegen
-description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsgericht: prüft konkret Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsgericht: prüft konkret Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung."
 ---
 
 # Substantiiertes Bestreiten Zerlegen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `substantiiertes-bestreiten-138-iv-zpo` | Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen. |
-| `tatbestand-zerlegen-anspruchspruefung-laien` | Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren. |
-| `terminvorbereitung-checkliste` | Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schluesselargumente Beweisstuecke Zeugen Anträge Anträge auf Bewilligung erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `substantiiertes-bestreiten-138-iv-zpo`
 

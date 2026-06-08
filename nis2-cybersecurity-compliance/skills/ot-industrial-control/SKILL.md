@@ -1,6 +1,6 @@
 ---
 name: ot-industrial-control
-description: "Prüft OT, SPS, Produktionsnetze und industrielle Steuerung im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft OT, SPS, Produktionsnetze und industrielle Steuerung im Nis2 Cybersecurity Compliance."
 ---
 
 # OT Industrial Control

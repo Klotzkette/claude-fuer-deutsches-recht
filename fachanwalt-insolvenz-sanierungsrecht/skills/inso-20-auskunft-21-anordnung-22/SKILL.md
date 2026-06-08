@@ -1,6 +1,6 @@
 ---
 name: inso-20-auskunft-21-anordnung-22
-description: "Inso P020 Auskunfts P021 Anordnung P022 im Insolvenz- und Sanierungsrecht: prüft konkret § 20 InsO Auskunfts- und Mitwirkungspflicht im, § 21 InsO Anordnung vorläufiger Maßnahmen im Mandat prüfen, § 22 InsO Rechtsstellung des vorläufigen, § 22a InsO Bestellung eines vorläufigen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P020 Auskunfts P021 Anordnung P022 im Insolvenz- und Sanierungsrecht: prüft konkret § 20 InsO Auskunfts- und Mitwirkungspflicht im, § 21 InsO Anordnung vorläufiger Maßnahmen im Mandat prüfen, § 22 InsO Rechtsstellung des vorläufigen, § 22a InsO Bestellung eines vorläufigen."
 ---
 
 # Inso P020 Auskunfts P021 Anordnung P022
@@ -8,32 +8,6 @@ description: "Inso P020 Auskunfts P021 Anordnung P022 im Insolvenz- und Sanierun
 ## Arbeitsbereich
 
 **Inso P020 Auskunfts P021 Anordnung P022** ordnet den Fall über die tragenden Prüfungslinien: § 20 InsO (Auskunfts- und Mitwirkungspflicht im, § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen, § 22 InsO (Rechtsstellung des vorläufigen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p020-auskunfts-und-mitwirkungspflicht-im-eroffnungsverfahre` | § 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p021-anordnung-vorlaufiger-massnahmen` | § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p022-rechtsstellung-des-vorlaufigen-insolvenzverwalters` | § 22 InsO (Rechtsstellung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p022a-bestellung-eines-vorlaufigen-glaubigerausschusses` | § 22a InsO (Bestellung eines vorläufigen Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p023-bekanntmachung-der-verfugungsbeschrankungen` | § 23 InsO (Bekanntmachung der Verfügungsbeschränkungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p024-wirkungen-der-verfugungsbeschrankungen` | § 24 InsO (Wirkungen der Verfügungsbeschränkungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p025-aufhebung-der-sicherungsmassnahmen` | § 25 InsO (Aufhebung der Sicherungsmaßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p026-abweisung-mangels-masse` | § 26 InsO (Abweisung mangels Masse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p026a-vergutung-des-vorlaufigen-insolvenzverwalters` | § 26a InsO (Vergütung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p027-eroffnungsbeschluss` | § 27 InsO (Eröffnungsbeschluß) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p028-aufforderungen-an-die-glaubiger-und-die-schuldner` | § 28 InsO (Aufforderungen an die Gläubiger und die Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p029-terminbestimmungen` | § 29 InsO (Terminbestimmungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p030-bekanntmachung-des-eroffnungsbeschlusses` | § 30 InsO (Bekanntmachung des Eröffnungsbeschlusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p031-handels-genossenschafts-gesellschafts-partnerschafts-o` | § 31 InsO (Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p032-grundbuch` | § 32 InsO (Grundbuch) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p033-register-fur-schiffe-und-luftfahrzeuge` | § 33 InsO (Register für Schiffe und Luftfahrzeuge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p034-rechtsmittel` | § 34 InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p035-begriff-der-insolvenzmasse` | § 35 InsO (Begriff der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p037-gesamtgut-bei-gutergemeinschaft` | § 37 InsO (Gesamtgut bei Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p038-begriff-der-insolvenzglaubiger` | § 38 InsO (Begriff der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p039-nachrangige-insolvenzglaubiger` | § 39 InsO (Nachrangige Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P020 Auskunfts P021 Anordnung P022 im Insolvenz- und Sanierun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p020-auskunfts-und-mitwirkungspflicht-im-eroffnungsverfahre`
 

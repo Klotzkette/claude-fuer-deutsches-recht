@@ -1,6 +1,6 @@
 ---
 name: beschlussvorlagen-partei-bewerberzustimmung
-description: "Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse im Parteienrecht."
 ---
 
 # Beschlussvorlagen Partei

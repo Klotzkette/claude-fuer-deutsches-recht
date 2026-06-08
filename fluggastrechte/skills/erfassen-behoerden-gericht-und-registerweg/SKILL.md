@@ -1,6 +1,6 @@
 ---
 name: erfassen-behoerden-gericht-und-registerweg
-description: "Erfassen: Behörden-, Gerichts- oder Registerweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfassen: Behörden-, Gerichts- oder Registerweg im Fluggastrechte."
 ---
 
 # Erfassen: Behörden-, Gerichts- oder Registerweg

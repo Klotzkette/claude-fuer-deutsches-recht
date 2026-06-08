@@ -1,6 +1,6 @@
 ---
 name: exmatrikulation-nach-nichtbestehen
-description: "Prüft Exmatrikulation nach Prüfungsversagen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Exmatrikulation nach Prüfungsversagen im Pruefungsrecht Hochschule."
 ---
 
 # Exmatrikulation Nach Nichtbestehen

@@ -1,17 +1,9 @@
 ---
 name: pkv-beitragsanpassung-rechtsschutz
-description: "Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ, Spezialfall Rechtsschutzversicherungs-Deckungsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ, Spezialfall Rechtsschutzversicherungs-Deckungsklage."
 ---
 
 # Versr PKV Beitragsanpassung Rechtsschutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `versr-pkv-beitragsanpassung-medizinische-notwendigkeit` | PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ-Kürzung, Tarifwechsel und Rückforderung. |
-| `versr-rechtsschutz-deckungsklage-spezial` | Spezialfall Rechtsschutzversicherungs-Deckungsklage: Wartezeit, Vorvertraglichkeit (BGH IV ZR), Stichentscheid, Streitwert in Deckungsklage. Schiedsverfahren bei Streit ueber Erfolgsaussicht. Pruefraster. |
-| `versr-regress-subrogation-86-vvg` | Regress, Legalzession, Quotenvorrecht, Sozialversicherungsträgerregress und Regressabwehr nach Regulierung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Versr PKV Beitragsanpassung Rechtsschutz im Plugin Fachanwalt Vers
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `versr-pkv-beitragsanpassung-medizinische-notwendigkeit`
 

@@ -1,6 +1,6 @@
 ---
 name: settlement-und-aufhebungsvertrag
-description: "Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufhebungs- und Vergleichsklauseln auf HinSchG-Fallen im Hinweisgeberschutz Compliance."
 ---
 
 # Settlement Und Aufhebungsvertrag

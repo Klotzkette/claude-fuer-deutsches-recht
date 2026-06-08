@@ -1,6 +1,6 @@
 ---
 name: verpackungsdesign-und-produktauftritt
-description: "Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung im Designrecht Geschmacksmusterrecht."
 ---
 
 # Verpackungsdesign Und Produktauftritt

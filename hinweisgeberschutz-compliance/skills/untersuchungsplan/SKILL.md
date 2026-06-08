@@ -1,6 +1,6 @@
 ---
 name: untersuchungsplan
-description: "Baut Untersuchungsplan mit Hypothesen und Beweisen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Untersuchungsplan mit Hypothesen und Beweisen im Hinweisgeberschutz Compliance."
 ---
 
 # Untersuchungsplan

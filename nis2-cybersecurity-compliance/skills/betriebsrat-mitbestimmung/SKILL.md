@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-mitbestimmung
-description: "Prüft Betriebsrat bei Security-Tools und Überwachung im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betriebsrat bei Security-Tools und Überwachung im Nis2 Cybersecurity Compliance."
 ---
 
 # Betriebsrat Mitbestimmung

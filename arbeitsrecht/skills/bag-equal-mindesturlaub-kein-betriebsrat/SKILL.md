@@ -1,18 +1,9 @@
 ---
 name: bag-equal-mindesturlaub-kein-betriebsrat
-description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkrete Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüfungslinie für betriebsrat beschluss heilung nachtraeglich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: prüft konkrete Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des, Prüfungslinie für betriebsrat beschluss heilung nachtraeglich."
 ---
 
 # BAG Equal Mindesturlaub Kein Betriebsrat
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bag-equal-pay-paarvergleich-8azr30024` | Bag Equal Pay Paarvergleich 8azr30024: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `bag-mindesturlaub-kein-verzicht-9azr10424` | Bag Mindesturlaub Kein Verzicht 9azr10424: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll. |
-| `betriebsrat-beschluss-heilung-nachtraeglich` | Betriebsrat Beschluss Heilung Nachtraeglich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
 

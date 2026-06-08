@@ -1,6 +1,6 @@
 ---
 name: berufungsvereinbarung-ausstattung
-description: "Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt im Hochschulrecht Länder."
 ---
 
 # Berufungsvereinbarung und Ausstattung

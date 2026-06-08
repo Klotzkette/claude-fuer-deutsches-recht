@@ -1,6 +1,6 @@
 ---
 name: mindestlohndokumentation-arbeitszeit
-description: "Mindestlohndokumentation, Arbeitszeitaufzeichnung, Branchenpflichten und Zollkontrolle im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mindestlohndokumentation, Arbeitszeitaufzeichnung, Branchenpflichten und Zollkontrolle im Berichtspflichten."
 ---
 
 # Mindestlohn und Arbeitszeitdokumentation

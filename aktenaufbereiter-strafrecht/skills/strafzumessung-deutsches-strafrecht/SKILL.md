@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-deutsches-strafrecht
-description: "Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung im Strafrechts-Aktenaufbereiter."
 ---
 
 # Strafzumessung-Werkstatt

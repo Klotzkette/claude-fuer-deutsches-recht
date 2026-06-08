@@ -1,6 +1,6 @@
 ---
 name: mfa-passkeys
-description: "Prüft MFA, Passkeys und starke Authentisierung im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft MFA, Passkeys und starke Authentisierung im Nis2 Cybersecurity Compliance."
 ---
 
 # MFA Passkeys

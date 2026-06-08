@@ -1,17 +1,9 @@
 ---
 name: d-o-spezialfall-deckungsklage-leitfaden
-description: "Versr D O Spezialfall Deckungsklage Leitfaden im Plugin Fachanwalt Versicherungsrecht: prüft konkret D&O-Deckung bei Organhaftung, Spezialfall D-and-O-Versicherung, Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Versr D O Spezialfall Deckungsklage Leitfaden im Plugin Fachanwalt Versicherungsrecht: prüft konkret D&O-Deckung bei Organhaftung, Spezialfall D-and-O-Versicherung, Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz."
 ---
 
 # Versr D O Spezialfall Deckungsklage Leitfaden
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `versr-d-o-claims-made-ausschluesse` | D&O-Deckung bei Organhaftung: Claims-made, Notice, Wissentlichkeit, Innenhaftung, Insolvenz, Abwehrkosten und Vergleichskontrolle. |
-| `versr-d-und-o-spezialfall` | Spezialfall D-and-O-Versicherung: Versicherte Person Vorstand und Aufsichtsrat, Innenhaftung, Versicherungsfall claims-made, Deckungsausschluesse. Pruefraster für Konzern und Versicherer. |
-| `versr-deckungsklage-leitfaden` | Leitfaden Deckungsklage in Haftpflicht und Rechtsschutz: Deckungszusage, Abwehrdeckung, Stichentscheid bei Erfolgsaussicht. Pruefraster für Anwalt im Rechtsschutzverfahren. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Versr D O Spezialfall Deckungsklage Leitfaden im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `versr-d-o-claims-made-ausschluesse`
 

@@ -1,6 +1,6 @@
 ---
 name: incident-response-launch-readiness-post
-description: "Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation im Weltraumrecht."
 ---
 
 # Weltraumrecht: Incident Response: Satellitenausfall

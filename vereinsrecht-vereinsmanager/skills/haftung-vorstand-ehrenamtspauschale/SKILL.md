@@ -1,6 +1,6 @@
 ---
 name: haftung-vorstand-ehrenamtspauschale
-description: "Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung im Vereinsrecht Vereinsmanager."
 ---
 
 # Haftung Vorstand

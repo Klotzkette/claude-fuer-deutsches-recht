@@ -1,6 +1,6 @@
 ---
 name: intercreditor-und-sicherheitenagent
-description: "Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben im Private Equity Praxis."
 ---
 
 # Intercreditor, Security Agent und Sicherheitenpool

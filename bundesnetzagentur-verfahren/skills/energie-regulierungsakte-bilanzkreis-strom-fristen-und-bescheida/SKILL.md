@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bilanzkreis-strom-fristen-und-bescheida
-description: "Bilanzkreis Strom: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bilanzkreis Strom: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse

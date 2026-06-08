@@ -1,6 +1,6 @@
 ---
 name: einsichtnahme-notizen-endgueltiges
-description: "Prüft interne Notizen, Randbemerkungen, Bewertungsbögen und Kopieranspruch im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft interne Notizen, Randbemerkungen, Bewertungsbögen und Kopieranspruch im Pruefungsrecht Hochschule."
 ---
 
 # Einsichtnahme in Notizen

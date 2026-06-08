@@ -1,19 +1,9 @@
 ---
 name: informationstechnologierecht-kanzlei
-description: "Informationstechnologierecht Kanzlei im Plugin Fachanwalt It Recht: prüft konkret Informationstechnologierecht, Kanzlei, Lizenz, Open. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Informationstechnologierecht Kanzlei im Plugin Fachanwalt It Recht: prüft konkret Informationstechnologierecht, Kanzlei, Lizenz, Open."
 ---
 
 # Informationstechnologierecht Kanzlei
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-informationstechnologierecht-tatbestand-beweis` | Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-beweislast-und-darlegungslast` | Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-lizenz-risikoampel-und-gegenargumente` | Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-open-mehrparteien-konflikt-und-interessen` | Open: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Informationstechnologierecht Kanzlei im Plugin Fachanwalt It Recht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-informationstechnologierecht-tatbestand-beweis`
 
-**Fokus:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht.
 
 ### Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -64,7 +54,7 @@ Bei Software-Werkverträgen ist die Abnahme (§ 640 BGB) der entscheidende Wende
 
 ## 2. `spezial-kanzlei-beweislast-und-darlegungslast`
 
-**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht.
 
 ### Kanzlei: Beweislast, Darlegungslast und Substantiierung
 
@@ -109,7 +99,7 @@ Bei SLA-Mängeln häufiger Fehler: Verfügbarkeit als Quartalsdurchschnitt verei
 
 ## 3. `spezial-lizenz-risikoampel-und-gegenargumente`
 
-**Fokus:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt it recht.
 
 ### Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -163,7 +153,7 @@ Sofortige Anerkennung eines Audit-Defizits beendet Konflikt, kann aber zu Ketten
 
 ## 4. `spezial-open-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Open: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Open: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt it recht.
 
 ### Open: Mehrparteienkonflikt und Interessenmatrix
 
@@ -188,7 +178,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-orientierung-sonderfall-und-edge-case`
 
-**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht.
 
 ### Orientierung: Sonderfall und Edge-Case-Prüfung
 

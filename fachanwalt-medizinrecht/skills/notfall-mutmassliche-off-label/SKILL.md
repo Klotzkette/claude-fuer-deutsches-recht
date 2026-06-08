@@ -1,16 +1,9 @@
 ---
 name: notfall-mutmassliche-off-label
-description: "Notfall Mutmassliche OFF Label im Medizinrecht: prüft konkret Notfall und mutmaßliche Einwilligung, Off-Label bei seltener Erkrankung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Notfall Mutmassliche OFF Label im Medizinrecht: prüft konkret Notfall und mutmaßliche Einwilligung, Off-Label bei seltener Erkrankung."
 ---
 
 # Notfall Mutmassliche OFF Label
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `notfall-mutmassliche-einwilligung` | Notfall und mutmaßliche Einwilligung: moderner Medizinrechts-Skill für Bewusstlosigkeit, Zeitdruck, Patientenverfügung, Stellvertreter und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `off-label-rare-disease` | Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenlage, lebensbedrohliche Erkrankung und GKV-Erstattung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Notfall Mutmassliche OFF Label im Medizinrecht: prüft konkret Not
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `notfall-mutmassliche-einwilligung`
 

@@ -1,6 +1,6 @@
 ---
 name: neun-phasen-ueberblick
-description: "HOAI-Praxis: erklärt LPH 1 bis 9, Prozentwerte und typische Übergabepunkte; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: erklärt LPH 1 bis 9, Prozentwerte und typische Übergabepunkte; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Erklärt lph 1 bis 9

@@ -1,6 +1,6 @@
 ---
 name: beschwerdemanagement
-description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Steuerberater; prüft Beschwerdemanagement im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Steuerberater; prüft Beschwerdemanagement im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Beschwerdemanagement

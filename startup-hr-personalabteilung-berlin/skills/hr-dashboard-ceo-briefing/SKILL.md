@@ -1,6 +1,6 @@
 ---
 name: hr-dashboard-ceo-briefing
-description: "Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # HR Dashboard CEO Briefing

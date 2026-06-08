@@ -1,6 +1,6 @@
 ---
 name: handelsregister-paragraphen-8-16-hgb
-description: "Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsregister, Einsicht, Bekanntmachung, negative/positive Publizität und Eintragungswirkung im Handelsrecht Hgb."
 ---
 
 # Handelsregister §§ 8 ff. HGB

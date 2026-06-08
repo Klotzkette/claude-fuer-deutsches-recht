@@ -1,6 +1,6 @@
 ---
 name: software-foerderung-rd-tax
-description: "Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation im Softwarerecht De Eu Us."
 ---
 
 # Software-F&E und Förderlogik

@@ -1,6 +1,6 @@
 ---
 name: database-collections-us-law
-description: "Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse im Us Copyright Registrierung Verlag."
 ---
 
 # Databases und Collections US Law

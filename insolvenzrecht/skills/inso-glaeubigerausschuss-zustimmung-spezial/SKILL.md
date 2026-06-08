@@ -1,6 +1,6 @@
 ---
 name: inso-glaeubigerausschuss-zustimmung-spezial
-description: "Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorläufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster für Mitglieder im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorläufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster für Mitglieder im Insolvenzrecht."
 ---
 
 # Inso: Glaeubigerausschuss

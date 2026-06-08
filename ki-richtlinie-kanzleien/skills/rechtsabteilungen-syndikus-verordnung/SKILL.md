@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilungen-syndikus-verordnung
-description: "Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
 ---
 
 # Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien

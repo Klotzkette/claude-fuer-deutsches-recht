@@ -1,6 +1,6 @@
 ---
 name: einspruchsverfahren-conflict
-description: "Patentanwälte: einspruchsverfahren und conflict check - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: einspruchsverfahren und conflict check - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

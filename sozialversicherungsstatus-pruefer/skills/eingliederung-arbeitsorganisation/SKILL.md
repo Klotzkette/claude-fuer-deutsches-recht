@@ -1,6 +1,6 @@
 ---
 name: eingliederung-arbeitsorganisation
-description: "Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Eingliederung in Arbeitsorganisation

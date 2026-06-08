@@ -1,6 +1,6 @@
 ---
 name: deadlock-und-mediation
-description: "Entwirft Deadlock-Mechanismen, Eskalationsleitern und Mediationsklauseln im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft Deadlock-Mechanismen, Eskalationsleitern und Mediationsklauseln im Gesellschaftsgruender."
 ---
 
 # Deadlock und Mediation

@@ -1,6 +1,6 @@
 ---
 name: neu-003-bremer-handelsrecht-vor-hgb
-description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb

@@ -1,6 +1,6 @@
 ---
 name: neue-rueckfragen-strippen
-description: "Neue: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neue: Internationaler Bezug und Schnittstellen im Vertragsausfueller."
 ---
 
 # Neue: Internationaler Bezug und Schnittstellen

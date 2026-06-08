@@ -1,6 +1,6 @@
 ---
 name: laermimmissionen-mediation-vorrang
-description: "Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Pruefraster zur Schadensersatz- und Unterlassungsklage im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Laermimmissionen TA Laerm und LAI-Hinweise: Beurteilungspegel, Schutzgebiete, Spitzenpegel, Pruefraster zur Schadensersatz- und Unterlassungsklage im Nachbarschaftsstreit Pruefer."
 ---
 
 # Nach: Laermimmissionen

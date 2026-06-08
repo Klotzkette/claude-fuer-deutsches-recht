@@ -1,6 +1,6 @@
 ---
 name: gemeinderat-satzung-gerichtsladung-zeuge
-description: "Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht im Bürokratie-Entbürokratisierung."
 ---
 
 # Gemeinderat und Satzung verstehen

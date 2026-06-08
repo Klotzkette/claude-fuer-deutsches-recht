@@ -1,6 +1,6 @@
 ---
 name: fristentracker-befristung-probezeit-visa
-description: "Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Fristentracker Befristung Probezeit Visa

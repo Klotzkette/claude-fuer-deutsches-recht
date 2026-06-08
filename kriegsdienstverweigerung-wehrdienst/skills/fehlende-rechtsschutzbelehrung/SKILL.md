@@ -1,6 +1,6 @@
 ---
 name: fehlende-rechtsschutzbelehrung
-description: "Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und Fristfolgen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bescheide auf richtige Rechtsbehelfsbelehrung und Fristfolgen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Rechtsbehelfsbelehrung prüfen

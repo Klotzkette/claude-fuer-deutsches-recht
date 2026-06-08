@@ -1,6 +1,6 @@
 ---
 name: bgb-business-einzelabrufe-sonderfall
-description: "BGB: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Vertragsrecht."
 ---
 
 # BGB: Dokumentenmatrix, Lückenliste und Nachforderung

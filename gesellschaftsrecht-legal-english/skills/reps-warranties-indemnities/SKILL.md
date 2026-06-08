@@ -1,6 +1,6 @@
 ---
 name: reps-warranties-indemnities
-description: "Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA im Gesellschaftsrecht Legal English."
 ---
 
 # Reps, Warranties und Indemnities

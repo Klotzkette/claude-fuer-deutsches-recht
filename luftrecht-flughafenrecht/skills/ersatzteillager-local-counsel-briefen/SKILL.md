@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Ersatzteillager-Mandat briefen: EASA-Zertifizierungsstatus Cape-Town-Triebwerks-Pfandrecht deutsches Insolvenzrecht. Skill erstellt englisches Briefing-Memo mit konkreten Fragen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Ersatzteillager-Mandat briefen: EASA-Zertifizierungsstatus Cape-Town-Triebwerks-Pfandrecht deutsches Insolvenzrecht. Skill erstellt englisches Briefing-Memo mit konkreten Fragen im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Local Counsel briefen

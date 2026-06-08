@@ -1,6 +1,6 @@
 ---
 name: enforcement-monitor
-description: "Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleichsbruch und Kosten im Dashboard führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleichsbruch und Kosten im Dashboard führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Enforcement Monitor

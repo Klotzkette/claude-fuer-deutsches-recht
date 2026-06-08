@@ -1,6 +1,6 @@
 ---
 name: management-presentation-und-q-and-a
-description: "Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor im Private Equity Praxis."
 ---
 
 # Management Presentation und Q&A

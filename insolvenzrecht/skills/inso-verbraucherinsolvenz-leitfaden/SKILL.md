@@ -1,6 +1,6 @@
 ---
 name: inso-verbraucherinsolvenz-leitfaden
-description: "Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Pruefraster Schuldnerberatung im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Pruefraster Schuldnerberatung im Insolvenzrecht."
 ---
 
 # Inso: Verbraucherinsolvenz

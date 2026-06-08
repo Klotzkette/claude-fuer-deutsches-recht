@@ -1,6 +1,6 @@
 ---
 name: andere-leistungsbilder-router
-description: "HOAI-Praxis: leitet zu Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, Tragwerk und TGA; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: leitet zu Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, Tragwerk und TGA; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Leitet zu freianlagen

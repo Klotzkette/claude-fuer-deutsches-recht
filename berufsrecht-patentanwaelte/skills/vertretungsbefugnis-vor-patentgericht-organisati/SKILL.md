@@ -1,6 +1,6 @@
 ---
 name: vertretungsbefugnis-vor-patentgericht-organisati
-description: "Patentanwälte: vertretungsbefugnis vor patentgericht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: vertretungsbefugnis vor patentgericht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: vertretungsbefugnis vor patentgericht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

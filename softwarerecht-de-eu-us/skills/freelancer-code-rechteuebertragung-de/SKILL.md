@@ -1,6 +1,6 @@
 ---
 name: freelancer-code-rechteuebertragung-de
-description: "Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko im Softwarerecht De Eu Us."
 ---
 
 # Freelancer-Code Rechteübertragung DE

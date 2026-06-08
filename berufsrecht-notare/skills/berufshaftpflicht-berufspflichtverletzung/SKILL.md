@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-berufspflichtverletzung
-description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Notare; prüft Berufshaftpflicht im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Notare; prüft Berufshaftpflicht im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Berufshaftpflicht

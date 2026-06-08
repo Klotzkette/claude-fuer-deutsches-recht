@@ -1,6 +1,6 @@
 ---
 name: nachvertragliches-wettbewerbsverbot
-description: "Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach § 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach § 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht im Franchiserecht."
 ---
 
 # Franchiserecht: Nachvertragliches Wettbewerbsverbot

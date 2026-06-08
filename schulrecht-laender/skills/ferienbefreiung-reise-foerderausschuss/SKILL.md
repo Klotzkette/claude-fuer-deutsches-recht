@@ -1,6 +1,6 @@
 ---
 name: ferienbefreiung-reise-foerderausschuss
-description: "Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beurlaubung unmittelbar vor/nach Ferien, Bußgeldrisiko und Härtegründe im Schulrecht Länder."
 ---
 
 # Ferienbefreiung und Reise

@@ -1,6 +1,6 @@
 ---
 name: inkassokosten-konzerninkasso-jugendamt
-description: "Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Inkassokosten Konzerninkasso Verzug

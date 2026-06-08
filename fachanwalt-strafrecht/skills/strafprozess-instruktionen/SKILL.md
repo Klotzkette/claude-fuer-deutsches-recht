@@ -1,19 +1,9 @@
 ---
 name: strafprozess-instruktionen
-description: "Strafprozess Instruktionen im Strafrecht: prüft konkret Mandantenkommunikation im Strafverfahren, Pflichtverteidigung operativ prüfen und durchsetzen, Sitzungsprotokoll und Revisionssicherung, Verhandlungslog für Kontakte mit Staatsanwaltschaft. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strafprozess Instruktionen im Strafrecht: prüft konkret Mandantenkommunikation im Strafverfahren, Pflichtverteidigung operativ prüfen und durchsetzen, Sitzungsprotokoll und Revisionssicherung, Verhandlungslog für Kontakte mit Staatsanwaltschaft."
 ---
 
 # Strafprozess Instruktionen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafprozess-mandantenkommunikation-und-instruktionen` | Mandantenkommunikation im Strafverfahren: erstellt klare Instruktionen zu Schweigen, Vernehmung, Haftbesuch, Hauptverhandlung, Familie, Arbeitgeber, Presse, Social Media, Auflagen, Bewährung und Verfahrensentscheidungen. |
-| `strafprozess-pflichtverteidigung-beiordnung-und-wechsel` | Pflichtverteidigung operativ prüfen und durchsetzen: notwendige Verteidigung, Beiordnungsantrag, Vorschlagsrecht, Eilbestellung, Verteidigerwechsel, Entpflichtung, Interessenkollision und Mandantenkommunikation nach §§ 140 ff. StPO. |
-| `strafprozess-sitzungsprotokoll-und-revisionssicherung` | Sitzungsprotokoll und Revisionssicherung: beobachtet Hauptverhandlung, Protokollierungsfragen, absolute und relative Revisionsrisiken, Anträge, Beschlüsse, Belehrungen, Verständigung, letztes Wort und Nachbereitung nach §§ 273 ff. StPO. |
-| `strafprozess-verhandlungslog-sta-gericht-nebenklage` | Verhandlungslog für Kontakte mit Staatsanwaltschaft, Gericht, Nebenklage, Bewährungshilfe und Sachverständigen: dokumentiert Angebote, Zusagen, Verständigungsgespräche, § 153a-StPO-Auflagen, § 257c-StPO-Risiken und nächste Schritte. |
-| `strafr-dysfunk-antrag-wiederholen-ohne-missbrauch` | Wiederholung eines Antrags ohne Eroeffnung des Missbrauchsvorwurfs. Neuer Vortrag neue Tatsachen oder geaenderte Sachlage als legitime Begruendung. Sauber argumentieren warum die fruehere Ablehnung den jetzigen Antrag nicht trifft. Praktische Mustertexte. Folgen wenn Gericht die Wiederholung als Verschleppung wertet. Revisionsrelevanz § 244 StPO. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Strafprozess Instruktionen im Strafrecht: prüft konkret Mandanten
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafprozess-mandantenkommunikation-und-instruktionen`
 

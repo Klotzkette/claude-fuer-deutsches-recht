@@ -1,6 +1,6 @@
 ---
 name: massenpruefung-mehrparteien-konflikt-und-interessen
-description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix im Plugin tabellenreview 3d im Tabellenreview 3d."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix

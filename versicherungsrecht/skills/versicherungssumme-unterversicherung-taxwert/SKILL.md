@@ -1,6 +1,6 @@
 ---
 name: versicherungssumme-unterversicherung-taxwert
-description: "Versicherungssumme, Unterversicherung, gleitender Neuwert, Taxe, Summenausgleich und Vorsorgeversicherung prüfen im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versicherungssumme, Unterversicherung, gleitender Neuwert, Taxe, Summenausgleich und Vorsorgeversicherung prüfen im Versicherungsrecht."
 ---
 
 # Versicherungssumme, Unterversicherung und Taxwert

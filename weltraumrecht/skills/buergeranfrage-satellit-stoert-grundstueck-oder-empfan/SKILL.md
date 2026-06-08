@@ -1,6 +1,6 @@
 ---
 name: buergeranfrage-satellit-stoert-grundstueck-oder-empfan
-description: "Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg im Weltraumrecht."
 ---
 
 # Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang

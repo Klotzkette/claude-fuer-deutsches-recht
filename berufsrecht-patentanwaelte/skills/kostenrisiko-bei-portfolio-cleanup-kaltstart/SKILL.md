@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-bei-portfolio-cleanup-kaltstart
-description: "Patentanwälte: kostenrisiko bei portfolio cleanup - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: kostenrisiko bei portfolio cleanup - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: kostenrisiko bei portfolio cleanup - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: feeds-compliance-dokumentation-und-akte
-description: "Feeds: Compliance-Dokumentation und Aktenvermerk im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Feeds: Compliance-Dokumentation und Aktenvermerk im Plugin regulatorisches recht im Regulatorisches Recht."
 ---
 
 # Feeds: Compliance-Dokumentation und Aktenvermerk

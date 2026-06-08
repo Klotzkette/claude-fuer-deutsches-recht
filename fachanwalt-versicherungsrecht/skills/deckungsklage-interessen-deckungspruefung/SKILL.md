@@ -1,17 +1,9 @@
 ---
 name: deckungsklage-interessen-deckungspruefung
-description: "Deckungsklage Interessen Deckungspruefung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Deckungsklage, Deckungsprüfung, Obliegenheiten und Regressrisiko, Einfuehrung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Deckungsklage Interessen Deckungspruefung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Deckungsklage, Deckungsprüfung, Obliegenheiten und Regressrisiko, Einfuehrung."
 ---
 
 # Deckungsklage Interessen Deckungspruefung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-deckungsklage-mehrparteien-konflikt-und-interessen` | Deckungsklage: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-deckungspruefung-obliegenheiten-regress` | Deckungsprüfung, Obliegenheiten und Regressrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-einfuehrung-sonderfall-und-edge-case` | Einfuehrung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-deckungsklage-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Deckungsklage: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Deckungsklage: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt versicherungsrecht.
 
 ### Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 
@@ -89,7 +81,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-einfuehrung-sonderfall-und-edge-case`
 
-**Fokus:** Einfuehrung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einfuehrung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt versicherungsrecht.
 
 ### Einfuehrung: Sonderfall und Edge-Case-Prüfung
 

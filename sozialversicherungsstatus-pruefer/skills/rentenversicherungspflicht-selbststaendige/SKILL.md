@@ -1,6 +1,6 @@
 ---
 name: rentenversicherungspflicht-selbststaendige
-description: "Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige im Sozialversicherungsstatus Pruefer."
 ---
 
 # Rentenversicherungspflicht Selbständiger

@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsvermerk
-description: "Wirtschaftsprüfer: bestätigungsvermerk risikofall - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: bestätigungsvermerk risikofall - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: bestätigungsvermerk risikofall - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

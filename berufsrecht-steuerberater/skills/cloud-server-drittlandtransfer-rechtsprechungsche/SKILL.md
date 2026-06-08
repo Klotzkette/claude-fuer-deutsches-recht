@@ -1,6 +1,6 @@
 ---
 name: cloud-server-drittlandtransfer-rechtsprechungsche
-description: "Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

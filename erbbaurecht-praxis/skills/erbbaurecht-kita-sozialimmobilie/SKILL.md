@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-kita-sozialimmobilie
-description: "Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko im Erbbaurecht Praxis."
 ---
 
 # Sozialimmobilie/Kita

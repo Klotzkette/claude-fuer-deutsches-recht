@@ -1,18 +1,9 @@
 ---
 name: verg-nachpruefungsverfahren-vergabeverfahren
-description: "Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt Vergaberecht: prüft konkret Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist, Vertragsaenderungen nach Paragraph 132 GWB und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt Vergaberecht: prüft konkret Spezialfall Nachpruefungsverfahren §§ 155 ff, Bauleiter Vergabeverfahren GWB / VgV, Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist, Vertragsaenderungen nach Paragraph 132 GWB und."
 ---
 
 # Verg Nachpruefungsverfahren Vergabeverfahren
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verg-nachpruefungsverfahren-spezial` | Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster für Bieter und Vergabekammer. |
-| `verg-vergabeverfahren-bauleiter` | Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster für Vergabestelle. |
-| `vorinformation-134-gwb-stillhaltefrist` | Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist pruefen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen. |
-| `vertragsaenderung-132-gwb-change-control` | Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Verg Nachpruefungsverfahren Vergabeverfahren im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verg-nachpruefungsverfahren-spezial`
 

@@ -1,6 +1,6 @@
 ---
 name: pruefungsunfaehigkeit-ruecktritt
-description: "Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Pruefungsrecht Hochschule."
 ---
 
 # Prüfungsunfähigkeit und Rücktritt

@@ -1,17 +1,9 @@
 ---
 name: marktzugang-sonderfall-montrealer
-description: "Marktzugang Sonderfall Montrealer im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Marktzugang, Montrealer, Pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Marktzugang Sonderfall Montrealer im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Marktzugang, Montrealer, Pruefen."
 ---
 
 # Marktzugang Sonderfall Montrealer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-marktzugang-sonderfall-und-edge-case` | Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-montrealer-verhandlung-vergleich-und-eskalation` | Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-pruefen-abschlussprodukt-und-uebergabe` | Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-marktzugang-sonderfall-und-edge-case`
 
-**Fokus:** Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht.
 
 ### Marktzugang: Sonderfall und Edge-Case-Prüfung
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-montrealer-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht.
 
 ### Montrealer: Verhandlung, Vergleich und Eskalation
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-pruefen-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht.
 
 ### Pruefen: Abschlussprodukt und Übergabe
 

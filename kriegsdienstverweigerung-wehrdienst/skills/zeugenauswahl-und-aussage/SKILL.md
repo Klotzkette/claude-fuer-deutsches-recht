@@ -1,6 +1,6 @@
 ---
 name: zeugenauswahl-und-aussage
-description: "Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Zeugen und Auskunftspersonen

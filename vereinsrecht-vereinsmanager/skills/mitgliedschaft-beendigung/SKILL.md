@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaft-beendigung
-description: "Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation im Vereinsrecht Vereinsmanager."
 ---
 
 # Austritt, Streichung, Ausschluss

@@ -1,6 +1,6 @@
 ---
 name: lph-03-genehmigungen-und-auflagen
-description: "HOAI LPH 3 Entwurfsplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 3 Entwurfsplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 3 Entwurfsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten

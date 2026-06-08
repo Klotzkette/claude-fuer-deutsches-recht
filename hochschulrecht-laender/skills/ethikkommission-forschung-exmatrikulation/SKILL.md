@@ -1,6 +1,6 @@
 ---
 name: ethikkommission-forschung-exmatrikulation
-description: "Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ethikkommission, Forschungsvorhaben und Verantwortung im Hochschulrecht Länder."
 ---
 
 # Ethikkommission Und Forschung

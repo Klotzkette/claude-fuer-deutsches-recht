@@ -1,6 +1,6 @@
 ---
 name: kommunale-beschlussvorlage-erbbaurecht
-description: "Erstellt Gemeinderatsvorlage für Bestellung, Änderung, Verlängerung oder Heimfallentscheidung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Gemeinderatsvorlage für Bestellung, Änderung, Verlängerung oder Heimfallentscheidung im Erbbaurecht Praxis."
 ---
 
 # Kommunale Beschlussvorlage

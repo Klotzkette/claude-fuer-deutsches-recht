@@ -1,19 +1,9 @@
 ---
 name: mietspiegel-qualifiziert-milieuschutz
-description: "Mietspiegel Qualifiziert Milieuschutz im Miet- und Wohnungseigentumsrecht: prüft konkret Qualifizierter Mietspiegel, Milieuschutz/Umwandlung, Mischmiete Wohn/Gewerbe, Modernisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mietspiegel Qualifiziert Milieuschutz im Miet- und Wohnungseigentumsrecht: prüft konkret Qualifizierter Mietspiegel, Milieuschutz/Umwandlung, Mischmiete Wohn/Gewerbe, Modernisierung."
 ---
 
 # Mietspiegel Qualifiziert Milieuschutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-mietspiegel-qualifiziert` | Qualifizierter Mietspiegel: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anwendbarkeit, Feld, Spanne, Zu-/Abschläge, Begründungsqualität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-milieuschutz-umwandlung` | Milieuschutz/Umwandlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Erhaltungssatzung, Genehmigung, Abwendung, Vorkauf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-mischmiete-wohn-gewerbe` | Mischmiete Wohn/Gewerbe: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schwerpunkt, Schutzregime, Kündigung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-modernisierung-sonderfall-und-edge-case` | Modernisierung: Sonderfall und Edge-Case-Prüfung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-modernisierungsankuendigung` | Modernisierungsankündigung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Frist, Härteeinwand, Energieeffekte und Duldungsanspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Mietspiegel Qualifiziert Milieuschutz im Miet- und Wohnungseigentu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-mietspiegel-qualifiziert`
 

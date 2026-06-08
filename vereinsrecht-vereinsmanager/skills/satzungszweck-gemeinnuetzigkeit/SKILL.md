@@ -1,6 +1,6 @@
 ---
 name: satzungszweck-gemeinnuetzigkeit
-description: "Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit, Ausschließlichkeit, Unmittelbarkeit und Vermögensbindung ab im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gleicht Vereinszweck mit AO-Gemeinnützigkeit, Selbstlosigkeit, Ausschließlichkeit, Unmittelbarkeit und Vermögensbindung ab im Vereinsrecht Vereinsmanager."
 ---
 
 # Satzungszweck und Gemeinnützigkeit

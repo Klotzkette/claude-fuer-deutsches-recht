@@ -1,6 +1,6 @@
 ---
 name: subchapter-v-overview
-description: "Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs im US Bankruptcy Code."
 ---
 
 # Subchapter V Overview

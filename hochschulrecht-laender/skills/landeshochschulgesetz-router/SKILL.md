@@ -1,6 +1,6 @@
 ---
 name: landeshochschulgesetz-router
-description: "Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung im Hochschulrecht Länder."
 ---
 
 # Landeshochschulgesetz Router

@@ -1,17 +1,9 @@
 ---
 name: iwr-arbitration-ny-cisg-anwendung
-description: "IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsrecht: prüft konkret Spezialfall internationale Schiedsgerichtsbarkeit nach New, Spezialfall UN-Kaufrecht CISG, Rechtswahl und Gerichtsstand in der Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsrecht: prüft konkret Spezialfall internationale Schiedsgerichtsbarkeit nach New, Spezialfall UN-Kaufrecht CISG, Rechtswahl und Gerichtsstand in der Praxis."
 ---
 
 # IWR Arbitration NY CISG Anwendung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `iwr-arbitration-ny-convention-spezial` | Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Pruefung Versagungsgruende Art. V, Anerkennungsverfahren in Deutschland nach § 1061 ZPO. Pruefraster und Schriftsatzbausteine. |
-| `iwr-cisg-anwendung-spezial` | Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster für Vertragsentwurf. |
-| `iwr-rechtswahl-gerichtsstand-praxis` | Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art. 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte für typische Konstellationen B2B und Verbraucher. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "IWR Arbitration NY CISG Anwendung im Internationalen Wirtschaftsre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `iwr-arbitration-ny-convention-spezial`
 

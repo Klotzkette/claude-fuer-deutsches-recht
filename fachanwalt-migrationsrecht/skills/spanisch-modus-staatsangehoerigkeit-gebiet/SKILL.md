@@ -1,16 +1,9 @@
 ---
 name: spanisch-modus-staatsangehoerigkeit-gebiet
-description: "Spanisch Modus Staatsangehoerigkeit Gebiet im Migrationsrecht: prüft konkret Spanisch-Modus Migrationsrecht, Staatsangehörigkeit/Gebiet/Status. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Spanisch Modus Staatsangehoerigkeit Gebiet im Migrationsrecht: prüft konkret Spanisch-Modus Migrationsrecht, Staatsangehörigkeit/Gebiet/Status."
 ---
 
 # Spanisch Modus Staatsangehoerigkeit Gebiet
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-spanisch-modus-migration` | Spanisch-Modus Migrationsrecht: Prüfungslinie für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-staatsangehoerigkeit-gebiet-status` | Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Spanisch Modus Staatsangehoerigkeit Gebiet im Migrationsrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-spanisch-modus-migration`
 

@@ -1,18 +1,9 @@
 ---
 name: bautraeger-abnahme-formgerecht-abnahmefiktion
-description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim Bautraegervertrag, Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bautraeger-Abnahme formgerecht nach § 640 BGB, Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit, Anlagen zur Baubeschreibung beim Bautraegervertrag, Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag."
 ---
 
 # Bautraeger Abnahme Formgerecht Abnahmefiktion
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-abnahme-formgerecht-640-bgb` | Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster. |
-| `bautraeger-abnahmefiktion-clause-unwirksam` | Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster. |
-| `bautraeger-anlagen-zur-baubeschreibung` | Anlagen zur Baubeschreibung beim Bautraegervertrag. Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter Anlagen. |
-| `bautraeger-aufflassungsvormerkung-883-bgb` | Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Abnahme Formgerecht Abnahmefiktion im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-abnahme-formgerecht-640-bgb`
 

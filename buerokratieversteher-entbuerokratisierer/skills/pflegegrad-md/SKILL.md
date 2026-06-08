@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-md
-description: "Erklärt Pflegegradbescheid, Begutachtung, Module, Pflegetagebuch, Widerspruch und Frist im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Pflegegradbescheid, Begutachtung, Module, Pflegetagebuch, Widerspruch und Frist im Bürokratie-Entbürokratisierung."
 ---
 
 # Pflegegrad / MD

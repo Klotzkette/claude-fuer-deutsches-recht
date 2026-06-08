@@ -1,6 +1,6 @@
 ---
 name: incoterms-china-shipment
-description: "Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Incoterms China-Handel: Auswahl und Risikobewertung

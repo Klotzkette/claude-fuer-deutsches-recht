@@ -1,6 +1,6 @@
 ---
 name: fernabsatz-lieferanten-red-team
-description: "Fernabsatz: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fernabsatz: Formular, Portal und Einreichungslogik im Vertragsrecht."
 ---
 
 # Fernabsatz: Formular, Portal und Einreichungslogik

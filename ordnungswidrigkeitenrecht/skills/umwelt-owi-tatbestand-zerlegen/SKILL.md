@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-tatbestand-zerlegen
-description: "Umwelt-OWi: Tatbestand zerlegen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umwelt-OWi: Tatbestand zerlegen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Umwelt Owi Tatbestand Zerlegen

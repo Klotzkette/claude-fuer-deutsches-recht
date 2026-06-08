@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-rueckmeldung-monate-schulung
-description: "Erstellt Risikomatrix für Hinweise im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Risikomatrix für Hinweise im Hinweisgeberschutz Compliance."
 ---
 
 # Risikomatrix

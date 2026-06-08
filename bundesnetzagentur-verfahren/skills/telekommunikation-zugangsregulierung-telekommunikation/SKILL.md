@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-zugangsregulierung-telekommunikation
-description: "Telekommunikation / Zugangsregulierung Telekommunikation: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Telekommunikation / Zugangsregulierung Telekommunikation: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren."
 ---
 
 # Telekommunikation: Zugangsregulierung Telekommunikation

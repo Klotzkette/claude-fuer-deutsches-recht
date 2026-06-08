@@ -1,6 +1,6 @@
 ---
 name: sanierungsbausteine-compliance-dokumentation-und-akte
-description: "Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk im Fortbestehensprognose."
 ---
 
 # Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk

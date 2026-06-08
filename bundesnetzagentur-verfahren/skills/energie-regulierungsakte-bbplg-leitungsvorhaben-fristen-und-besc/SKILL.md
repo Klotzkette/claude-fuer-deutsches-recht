@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-bbplg-leitungsvorhaben-fristen-und-besc
-description: "BBPlG Leitungsvorhaben: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BBPlG Leitungsvorhaben: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Fristen- und Bescheidanalyse

@@ -1,6 +1,6 @@
 ---
 name: inso-134-135-unentgeltliche-leistung
-description: "Inso P134 Unentgeltliche P135 im Insolvenz- und Sanierungsrecht: prüft konkret § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen, § 135 InsO (Gesellschafterdarlehen) im Mandat prüfen, § 136 InsO (Stille Gesellschaft) im Mandat prüfen, § 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P134 Unentgeltliche P135 im Insolvenz- und Sanierungsrecht: prüft konkret § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen, § 135 InsO (Gesellschafterdarlehen) im Mandat prüfen, § 136 InsO (Stille Gesellschaft) im Mandat prüfen, § 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen."
 ---
 
 # Inso P134 Unentgeltliche P135
@@ -8,32 +8,6 @@ description: "Inso P134 Unentgeltliche P135 im Insolvenz- und Sanierungsrecht: p
 ## Arbeitsbereich
 
 **Inso P134 Unentgeltliche P135** ordnet den Fall über die tragenden Prüfungslinien: § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen, § 135 InsO (Gesellschafterdarlehen) im Mandat prüfen, § 136 InsO (Stille Gesellschaft) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p134-unentgeltliche-leistung` | § 134 InsO (Unentgeltliche Leistung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p135-gesellschafterdarlehen` | § 135 InsO (Gesellschafterdarlehen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p136-stille-gesellschaft` | § 136 InsO (Stille Gesellschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p137-wechsel-und-scheckzahlungen` | § 137 InsO (Wechsel- und Scheckzahlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p138-nahestehende-personen` | § 138 InsO (Nahestehende Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p140-zeitpunkt-der-vornahme-einer-rechtshandlung` | § 140 InsO (Zeitpunkt der Vornahme einer Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p141-vollstreckbarer-titel` | § 141 InsO (Vollstreckbarer Titel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p142-bargeschaft` | § 142 InsO (Bargeschäft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p143-rechtsfolgen` | § 143 InsO (Rechtsfolgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p144-anspruche-des-anfechtungsgegners` | § 144 InsO (Ansprüche des Anfechtungsgegners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p145-anfechtung-gegen-rechtsnachfolger` | § 145 InsO (Anfechtung gegen Rechtsnachfolger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p146-verjahrung-des-anfechtungsanspruchs` | § 146 InsO (Verjährung des Anfechtungsanspruchs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p148-ubernahme-der-insolvenzmasse` | § 148 InsO (Übernahme der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p149-wertgegenstande` | § 149 InsO (Wertgegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p150-siegelung` | § 150 InsO (Siegelung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p151-verzeichnis-der-massegegenstande` | § 151 InsO (Verzeichnis der Massegegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p152-glaubigerverzeichnis` | § 152 InsO (Gläubigerverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p153-vermogensubersicht` | § 153 InsO (Vermögensübersicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p154-niederlegung-in-der-geschaftsstelle` | § 154 InsO (Niederlegung in der Geschäftsstelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p156-berichtstermin` | § 156 InsO (Berichtstermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p158-massnahmen-vor-der-entscheidung` | § 158 InsO (Maßnahmen vor der Entscheidung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P134 Unentgeltliche P135 im Insolvenz- und Sanierungsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p134-unentgeltliche-leistung`
 

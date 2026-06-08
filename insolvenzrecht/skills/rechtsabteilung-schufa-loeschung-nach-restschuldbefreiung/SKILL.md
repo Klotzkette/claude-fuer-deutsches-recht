@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung
-description: "Rechtsabteilungs-Fachmodul für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Insolvenzrecht."
 ---
 
 # Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung

@@ -1,6 +1,6 @@
 ---
 name: ip-rechte-software-und-erfindungen
-description: "Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # IP Rechte Software Und Erfindungen

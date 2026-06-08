@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-dritter
-description: "Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Stellungnahmen Dritter

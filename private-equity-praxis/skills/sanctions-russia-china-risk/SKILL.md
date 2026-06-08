@@ -1,6 +1,6 @@
 ---
 name: sanctions-russia-china-risk
-description: "Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure im Private Equity Praxis."
 ---
 
 # Sanktions- und geopolitische Risiken

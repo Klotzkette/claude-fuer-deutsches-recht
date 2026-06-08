@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-schulbegleitung-schwerbehinderung
-description: "Laienhilfe Schulbegleitung Schwerbehinderung im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Schulbegleitung, Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii, Laienverstaendlicher Sozialrechts-Skill zu Telefonat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Schulbegleitung Schwerbehinderung im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Schulbegleitung, Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii, Laienverstaendlicher Sozialrechts-Skill zu Telefonat."
 ---
 
 # Laienhilfe Schulbegleitung Schwerbehinderung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-schulbegleitung-kind` | Laienverstaendlicher Sozialrechts-Skill zu Schulbegleitung Kind. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-schwerbehinderung-gdb` | Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-sgb-xii-grundsicherung` | Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii Grundsicherung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-telefonat-behoerde` | Laienverstaendlicher Sozialrechts-Skill zu Telefonat Behörde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Schulbegleitung Schwerbehinderung im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-schulbegleitung-kind`
 

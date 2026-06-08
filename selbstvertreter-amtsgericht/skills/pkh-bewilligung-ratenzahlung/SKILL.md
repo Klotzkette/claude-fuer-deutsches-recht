@@ -1,17 +1,9 @@
 ---
 name: pkh-bewilligung-ratenzahlung
-description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: prüft konkret Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: prüft konkret Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO."
 ---
 
 # PKH Bewilligung Ratenzahlung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `pkh-bewilligung-ablehnung-folgen` | Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde. |
-| `pkh-ratenzahlung-bewilligung` | Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten. |
-| `prozesskostenhilfe-pkh-114-zpo` | Antrag auf Prozesskostenhilfe nach § 114 ZPO. Voraussetzungen Bedürftigkeit Erfolgsaussicht keine Mutwilligkeit. Antragsformular Belege Einkommensnachweise. Wirkung Befreiung von Gerichtskosten und Anwaltskosten. Hinweise für Selbstvertreter. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `pkh-bewilligung-ablehnung-folgen`
 

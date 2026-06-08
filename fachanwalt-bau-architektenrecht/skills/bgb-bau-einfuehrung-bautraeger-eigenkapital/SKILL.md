@@ -1,18 +1,9 @@
 ---
 name: bgb-bau-einfuehrung-bautraeger-eigenkapital
-description: "BGB BAU Einfuehrung Bautraeger Eigenkapital im Plugin Fachanwalt Bau Architektenrecht: prüft konkret BGB, Bau- und Architektenrecht einfuehrend, Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss, Bautraegervertrag notarieller Pruefraster Grundlagen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BGB BAU Einfuehrung Bautraeger Eigenkapital im Plugin Fachanwalt Bau Architektenrecht: prüft konkret BGB, Bau- und Architektenrecht einfuehrend, Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss, Bautraegervertrag notarieller Pruefraster Grundlagen."
 ---
 
 # BGB BAU Einfuehrung Bautraeger Eigenkapital
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-bgb-fristen-form-und-zuständigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `bau-einfuehrung-vertragstypen` | Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag. Pro Typ Aufbau, Pflichten, Vergueng, Kuendigung. |
-| `bautraeger-eigenkapital-ueberpruefung-vor-vertrag` | Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Skill klaert was Erwerber selbst pruefen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale. Liefert Pruefliste. |
-| `bautraeger-notarvertrag-grundlagen-pruefraster` | Bautraegervertrag notarieller Pruefraster Grundlagen. Skill bietet das systematische Pruefraster für den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherheitsleistung Vormerkung Auflassung Abnahme Maengelhaftung Sonderwuensche. Liefert Checkliste. |
 
 ## Arbeitsweg
 
@@ -22,11 +13,11 @@ description: "BGB BAU Einfuehrung Bautraeger Eigenkapital im Plugin Fachanwalt B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-bgb-fristen-form-und-zuständigkeit`
 
-**Fokus:** BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht.
 
 ### BGB: Fristen, Form, Zuständigkeit und Rechtsweg
 

@@ -1,6 +1,6 @@
 ---
 name: broken-deal-und-abbruch
-description: "Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung im Private Equity Praxis."
 ---
 
 # Broken Deal: Abbruch, Kosten und Haftung

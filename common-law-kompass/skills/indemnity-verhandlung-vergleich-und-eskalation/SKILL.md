@@ -1,6 +1,6 @@
 ---
 name: indemnity-verhandlung-vergleich-und-eskalation
-description: "Indemnity: Verhandlung, Vergleich und Eskalation im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Indemnity: Verhandlung, Vergleich und Eskalation im Plugin common law kompass im Common Law Kompass."
 ---
 
 # Indemnity: Verhandlung, Vergleich und Eskalation

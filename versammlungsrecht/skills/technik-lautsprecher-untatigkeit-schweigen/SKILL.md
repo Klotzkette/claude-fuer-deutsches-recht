@@ -1,6 +1,6 @@
 ---
 name: technik-lautsprecher-untatigkeit-schweigen
-description: "Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz im Versammlungsrecht."
 ---
 
 # Technik dient der Kommunikation

@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-im-schriftsatz
-description: "Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus im Deutsche Rechtsgeschichte."
 ---
 
 # Rechtsgeschichte im Schriftsatz

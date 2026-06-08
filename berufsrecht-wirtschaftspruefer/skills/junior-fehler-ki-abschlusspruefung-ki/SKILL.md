@@ -1,6 +1,6 @@
 ---
 name: junior-fehler-ki-abschlusspruefung-ki
-description: "Wirtschaftsprüfer: junior fehler und supervision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: junior fehler und supervision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: junior fehler und supervision - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

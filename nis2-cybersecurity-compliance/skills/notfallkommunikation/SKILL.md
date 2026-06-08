@@ -1,6 +1,6 @@
 ---
 name: notfallkommunikation
-description: "Baut Notfallkommunikation außerhalb kompromittierter Systeme im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Notfallkommunikation außerhalb kompromittierter Systeme im Nis2 Cybersecurity Compliance."
 ---
 
 # Notfallkommunikation

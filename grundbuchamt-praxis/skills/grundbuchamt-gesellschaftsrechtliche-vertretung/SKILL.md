@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-gesellschaftsrechtliche-vertretung
-description: "Prüft Handelsregister, Gesellschafterliste, Geschäftsführer, Prokura, Liquidator und ausländische Vertreter im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsregister, Gesellschafterliste, Geschäftsführer, Prokura, Liquidator und ausländische Vertreter im Grundbuchamt Praxis."
 ---
 
 # Gesellschaft als Eigentümerin

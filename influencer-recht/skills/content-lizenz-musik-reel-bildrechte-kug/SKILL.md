@@ -1,6 +1,6 @@
 ---
 name: content-lizenz-musik-reel-bildrechte-kug
-description: "Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle im Influencer-Recht."
 ---
 
 # Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting

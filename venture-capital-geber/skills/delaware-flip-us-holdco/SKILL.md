@@ -1,6 +1,6 @@
 ---
 name: delaware-flip-us-holdco
-description: "Prüft Gründe, Kosten, IP, Steuer, Investorenerwartung und Minderheitenschutz bei Delaware-Flip-Szenarien im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gründe, Kosten, IP, Steuer, Investorenerwartung und Minderheitenschutz bei Delaware-Flip-Szenarien im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Delaware Flip und US-HoldCo

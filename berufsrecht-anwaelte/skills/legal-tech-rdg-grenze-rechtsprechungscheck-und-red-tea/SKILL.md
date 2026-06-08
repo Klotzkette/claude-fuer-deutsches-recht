@@ -1,6 +1,6 @@
 ---
 name: legal-tech-rdg-grenze-rechtsprechungscheck-und-red-tea
-description: "Anwälte: legal tech rdg grenze - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: legal tech rdg grenze - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: legal tech rdg grenze - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

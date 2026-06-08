@@ -1,6 +1,6 @@
 ---
 name: statuscheck-paragraf84
-description: "Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen im Handelsvertreterrecht."
 ---
 
 # Statuscheck Handelsvertreter nach § 84 HGB

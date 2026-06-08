@@ -1,6 +1,6 @@
 ---
 name: meeting-creditors-341
-description: "Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor im US Bankruptcy Code."
 ---
 
 # Meeting of Creditors § 341

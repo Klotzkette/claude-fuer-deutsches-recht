@@ -1,6 +1,6 @@
 ---
 name: portfolio-governance-board-pack
-description: "Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen im Private Equity Praxis."
 ---
 
 # Portfolio Governance und Board Pack

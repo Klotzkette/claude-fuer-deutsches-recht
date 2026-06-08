@@ -1,17 +1,9 @@
 ---
 name: influencer-marketing-ki-trainingsdaten
-description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz."
 ---
 
 # Influencer Marketing KI Trainingsdaten
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `influencer-marketing-uwg-spezial` | Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs. bezahlte Posts, Schleichwerbung, Abmahnpraxis, Plattformregeln Instagram/TikTok/YouTube, DS-GVO-Schnittstellen. |
-| `ki-trainingsdaten-und-urheberrecht-spezial` | KI-Trainingsdaten und Urheberrecht: Text and Data Mining (TDM) §§ 44a, 44b UrhG, Opt-out-Vorbehalt, KI-generierte Werke und Schutzfähigkeit, EU AI Act, Haftung für KI-Output, Datenbankschutz § 87a UrhG, aktuelle EuGH-/BGH-Leitlinien. |
-| `schriftsatzkern-substantiierung` | Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht für außergerichtliche Abmahnungen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `influencer-marketing-uwg-spezial`
 

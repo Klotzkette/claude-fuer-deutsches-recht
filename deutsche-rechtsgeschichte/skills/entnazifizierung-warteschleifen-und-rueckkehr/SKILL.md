@@ -1,6 +1,6 @@
 ---
 name: entnazifizierung-warteschleifen-und-rueckkehr
-description: "Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur im Deutsche Rechtsgeschichte."
 ---
 
 # Entnazifizierung, Warteschleifen und Rückkehr

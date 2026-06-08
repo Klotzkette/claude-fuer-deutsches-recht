@@ -1,6 +1,6 @@
 ---
 name: kleinsatellit-universitaet-amateurfunk
-description: "CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm im Weltraumrecht."
 ---
 
 # Weltraumrecht: Kleinsatellit/Universität: CubeSat, Genehmigung, Versicherung

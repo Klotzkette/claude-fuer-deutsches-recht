@@ -1,6 +1,6 @@
 ---
 name: bescheid-archivieren
-description: "Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Anerkennungsbescheid archivieren

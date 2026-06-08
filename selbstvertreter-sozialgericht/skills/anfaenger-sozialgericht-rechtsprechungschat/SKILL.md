@@ -1,19 +1,9 @@
 ---
 name: anfaenger-sozialgericht-rechtsprechungschat
-description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am Sozialgericht: prüft konkret Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhörung im sozialverwaltungsverfahren nach § 24 SGB X, Alle wichtigen Fristen im SG-Verfahren ueberblicken. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am Sozialgericht: prüft konkret Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhörung im sozialverwaltungsverfahren nach § 24 SGB X, Alle wichtigen Fristen im SG-Verfahren ueberblicken."
 ---
 
 # Anfaenger Sozialgericht Rechtsprechungschat
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anfaenger-workflow-sozialgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
-| `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden. |
-| `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x` | Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster. |
-| `fristen-berechnen-sgg-laien` | Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt. |
-| `fristenbuch-fuehren-laien-sozialgericht` | Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anfaenger-workflow-sozialgericht`
 

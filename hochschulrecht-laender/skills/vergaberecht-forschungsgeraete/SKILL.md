@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-forschungsgeraete
-description: "Prüft Beschaffung von Forschungsgeräten, Dringlichkeit, Alleinstellungsmerkmal und Dokumentation im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschaffung von Forschungsgeräten, Dringlichkeit, Alleinstellungsmerkmal und Dokumentation im Hochschulrecht Länder."
 ---
 
 # Vergaberecht Forschungsgeräte

@@ -1,6 +1,6 @@
 ---
 name: presse-oeffentlichkeitsarbeit-privat
-description: "Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Pressemitteilungen, Einladungstexten, Veranstalterangabe und Kommunikation ohne unnötige Rechtsrisiken im Versammlungsrecht."
 ---
 
 # Öffentlichkeit gehört dazu

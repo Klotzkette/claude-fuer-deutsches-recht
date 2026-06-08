@@ -1,6 +1,6 @@
 ---
 name: sanierung-krise-jahresabschluss-grundlagen
-description: "Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft handelsrechtliche Pflichten in Unternehmenskrise: Buchführung, Register, Haftung, Gesellschafterwechsel, Fortführung im Handelsrecht Hgb."
 ---
 
 # HGB in Krise und Sanierung

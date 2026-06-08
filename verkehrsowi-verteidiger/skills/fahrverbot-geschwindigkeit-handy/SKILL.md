@@ -1,6 +1,6 @@
 ---
 name: fahrverbot-geschwindigkeit-handy
-description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Fahrverbot: Behörden-, Gerichts- oder Registerweg

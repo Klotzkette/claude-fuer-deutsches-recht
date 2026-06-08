@@ -1,6 +1,6 @@
 ---
 name: konzernabschluss-auslandskomponente-kaltstar
-description: "Wirtschaftsprüfer: konzernabschluss auslandskomponente - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: konzernabschluss auslandskomponente - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: konzernabschluss auslandskomponente - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

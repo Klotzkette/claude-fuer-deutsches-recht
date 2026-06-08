@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-monitoring-planen
-description: "Umweltschutzverband Verbandsklage: Industrieanlage: Monitoring planen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Industrieanlage: Monitoring planen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Industrieanlage Monitoring Planen

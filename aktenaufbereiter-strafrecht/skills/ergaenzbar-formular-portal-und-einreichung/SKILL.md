@@ -1,6 +1,6 @@
 ---
 name: ergaenzbar-formular-portal-und-einreichung
-description: "Ergaenzbar: Formular, Portal und Einreichungslogik im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ergaenzbar: Formular, Portal und Einreichungslogik im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Ergaenzbar: Formular, Portal und Einreichungslogik

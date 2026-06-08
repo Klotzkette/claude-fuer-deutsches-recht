@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht
-description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufshaftpflicht im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Steuerberater; prüft Berufshaftpflicht im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Berufshaftpflicht

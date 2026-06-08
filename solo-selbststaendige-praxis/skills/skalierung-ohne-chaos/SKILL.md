@@ -1,6 +1,6 @@
 ---
 name: skalierung-ohne-chaos
-description: "Solo-Selbstständige: entscheidet zwischen mehr Preis, mehr Prozesse, Subunternehmer oder GmbH; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: entscheidet zwischen mehr Preis, mehr Prozesse, Subunternehmer oder GmbH; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Pricing Liquidität und Wachstum: Entscheidet zwischen mehr preis

@@ -1,6 +1,6 @@
 ---
 name: entgeltgenehmigung-tk-eu
-description: "Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz im Telekommunikationsrecht."
 ---
 
 # Entgeltgenehmigung und Kostenorientierung

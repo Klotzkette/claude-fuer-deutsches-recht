@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-verantwortung-kammerantwort-und-v
-description: "Steuerberater: jahresabschluss verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: jahresabschluss verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: jahresabschluss verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

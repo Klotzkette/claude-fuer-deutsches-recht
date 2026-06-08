@@ -1,6 +1,6 @@
 ---
 name: exclusive-rights-106-bundle
-description: "Prueft Reproduction, Derivative, Distribution, Public Performance, Display und Digital Audio Transmission als Rechtebündel im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Reproduction, Derivative, Distribution, Public Performance, Display und Digital Audio Transmission als Rechtebündel im Us Copyright Registrierung Verlag."
 ---
 
 # Exclusive Rights Bundle § 106

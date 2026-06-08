@@ -1,6 +1,6 @@
 ---
 name: pruefmodus-fristennotiz-datenraum-sharepoint
-description: "Validiert ein vorhandenes Anlagenpaket und gibt eine kurze Fristennotiz plus nächste Handlung aus im Anlagen zu Schriftsätzen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Validiert ein vorhandenes Anlagenpaket und gibt eine kurze Fristennotiz plus nächste Handlung aus im Anlagen zu Schriftsätzen."
 ---
 
 # Prüfmodus, Fristennotiz und nächster Schritt

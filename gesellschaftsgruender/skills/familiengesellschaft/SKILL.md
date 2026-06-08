@@ -1,6 +1,6 @@
 ---
 name: familiengesellschaft
-description: "Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte im Gesellschaftsgruender."
 ---
 
 # Familiengesellschaft und Nachfolge

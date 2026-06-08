@@ -1,6 +1,6 @@
 ---
 name: fallvergleich-epochenuebergreifend
-description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen im Deutsche Rechtsgeschichte."
 ---
 
 # Fallvergleich epochenuebergreifend

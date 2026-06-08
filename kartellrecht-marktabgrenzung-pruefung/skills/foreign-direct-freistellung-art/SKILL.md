@@ -1,6 +1,6 @@
 ---
 name: foreign-direct-freistellung-art
-description: "FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # FDI und Antitrust Schnittstelle

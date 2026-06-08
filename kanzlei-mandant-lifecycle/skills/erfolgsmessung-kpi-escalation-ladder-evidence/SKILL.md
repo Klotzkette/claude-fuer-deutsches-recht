@@ -1,6 +1,6 @@
 ---
 name: erfolgsmessung-kpi-escalation-ladder-evidence
-description: "Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Erfolgsmessung KPI

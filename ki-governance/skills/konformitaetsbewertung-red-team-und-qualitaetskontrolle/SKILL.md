@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbewertung-red-team-und-qualitaetskontrolle
-description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle im Plugin ki governance im Ki Governance."
 ---
 
 # Konformitaetsbewertung: Red-Team und Qualitätskontrolle

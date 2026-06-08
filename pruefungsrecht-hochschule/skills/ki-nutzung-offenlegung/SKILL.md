@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-offenlegung
-description: "Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast im Pruefungsrecht Hochschule."
 ---
 
 # KI-Nutzung und Offenlegung

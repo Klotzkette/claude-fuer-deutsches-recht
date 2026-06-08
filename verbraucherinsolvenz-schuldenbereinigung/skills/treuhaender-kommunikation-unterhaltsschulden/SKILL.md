@@ -1,17 +1,9 @@
 ---
 name: treuhaender-kommunikation-unterhaltsschulden
-description: "Treuhaender Kommunikation Unterhaltsschulden im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Kommunikation mit Treuhänder/Insolvenzverwalter, Unterhaltsschulden, Unternehmerische Restforderungen nach Geschäftsaufgabe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Treuhaender Kommunikation Unterhaltsschulden im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Kommunikation mit Treuhänder/Insolvenzverwalter, Unterhaltsschulden, Unternehmerische Restforderungen nach Geschäftsaufgabe."
 ---
 
 # Treuhaender Kommunikation Unterhaltsschulden
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `treuhaender-kommunikation` | Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.; Normanker: InsO §§ 80 und 292 und 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `unterhaltsschulden` | Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.; Normanker: InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `unternehmerische-restforderungen` | Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.; Normanker: InsO § 304; AO; SGB IV; BGB/HGB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Treuhaender Kommunikation Unterhaltsschulden im Plugin Verbraucher
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `treuhaender-kommunikation`
 

@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-bfsg-barzahlung
-description: "Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Marketing E-Commerce und Plattformen: Prüft

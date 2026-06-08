@@ -1,6 +1,6 @@
 ---
 name: moebel-interior-must-fit
-description: "Möbel-, Interior- und Produktdesign prüfen: Gesamteindruck, Gestaltungsfreiheit, technische Vorgaben, Katalogoffenbarung und Messebeweise im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Möbel-, Interior- und Produktdesign prüfen: Gesamteindruck, Gestaltungsfreiheit, technische Vorgaben, Katalogoffenbarung und Messebeweise im Designrecht Geschmacksmusterrecht."
 ---
 
 # Moebel Interior Produktdesign

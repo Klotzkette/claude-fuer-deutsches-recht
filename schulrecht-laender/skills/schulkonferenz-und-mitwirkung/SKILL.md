@@ -1,6 +1,6 @@
 ---
 name: schulkonferenz-und-mitwirkung
-description: "Prüft schulische Mitwirkungsgremien im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Mitwirkungsgremien im Schulrecht Länder."
 ---
 
 # Schulkonferenz Und Mitwirkung

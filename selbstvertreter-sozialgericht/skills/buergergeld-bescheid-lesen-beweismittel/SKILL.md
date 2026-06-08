@@ -1,19 +1,9 @@
 ---
 name: buergergeld-bescheid-lesen-beweismittel
-description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Sozialgericht: prüft konkret Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II, Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Sozialgericht: prüft konkret Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II, Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II."
 ---
 
 # Buergergeld Bescheid Lesen Beweismittel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bescheid-lesen-tenor-begruendung-belehrung` | Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster. |
-| `beweismittel-im-sozialgericht-uebersicht` | Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau. |
-| `buergergeld-jobcenter-sgb-ii` | Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermögen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag für Buerger. |
-| `buergergeld-kosten-der-unterkunft-22-sgb-ii` | Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Pruefraster. |
-| `buergergeld-mehrbedarf-21-sgb-ii` | Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe für werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bescheid-lesen-tenor-begruendung-belehrung`
 

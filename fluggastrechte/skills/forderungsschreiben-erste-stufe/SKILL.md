@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-erste-stufe
-description: "Prüfungslinie für forderungsschreiben erste stufe im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für forderungsschreiben erste stufe im Fluggastrechte."
 ---
 
 # Forderungsschreiben — Erste Stufe

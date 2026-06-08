@@ -1,6 +1,6 @@
 ---
 name: inso-260-261-262-ueberwachung
-description: "Inso P260 Uberwachung P261 Aufgaben P262 im Insolvenz- und Sanierungsrecht: prüft konkret § 260 InsO Überwachung der Planerfüllung im Mandat prüfen, § 261 InsO Aufgaben und Befugnisse des, § 262 InsO Anzeigepflicht des Insolvenzverwalters im, § 263 InsO Zustimmungsbedürftige Geschäfte im Mandat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P260 Uberwachung P261 Aufgaben P262 im Insolvenz- und Sanierungsrecht: prüft konkret § 260 InsO Überwachung der Planerfüllung im Mandat prüfen, § 261 InsO Aufgaben und Befugnisse des, § 262 InsO Anzeigepflicht des Insolvenzverwalters im, § 263 InsO Zustimmungsbedürftige Geschäfte im Mandat."
 ---
 
 # Inso P260 Uberwachung P261 Aufgaben P262
@@ -8,32 +8,6 @@ description: "Inso P260 Uberwachung P261 Aufgaben P262 im Insolvenz- und Sanieru
 ## Arbeitsbereich
 
 **Inso P260 Uberwachung P261 Aufgaben P262** ordnet den Fall über die tragenden Prüfungslinien: § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen, § 261 InsO (Aufgaben und Befugnisse des, § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p260-uberwachung-der-planerfullung` | § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p261-aufgaben-und-befugnisse-des-insolvenzverwalters` | § 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p262-anzeigepflicht-des-insolvenzverwalters` | § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p263-zustimmungsbedurftige-geschafte` | § 263 InsO (Zustimmungsbedürftige Geschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p264-kreditrahmen` | § 264 InsO (Kreditrahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p265-nachrang-von-neuglaubigern` | § 265 InsO (Nachrang von Neugläubigern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p266-berucksichtigung-des-nachrangs` | § 266 InsO (Berücksichtigung des Nachrangs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p267-bekanntmachung-der-uberwachung` | § 267 InsO (Bekanntmachung der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p268-aufhebung-der-uberwachung` | § 268 InsO (Aufhebung der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269-kosten-der-uberwachung` | § 269 InsO (Kosten der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269a-zusammenarbeit-der-insolvenzverwalter` | § 269a InsO (Zusammenarbeit der Insolvenzverwalter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269b-zusammenarbeit-der-gerichte` | § 269b InsO (Zusammenarbeit der Gerichte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269c-zusammenarbeit-der-glaubigerausschusse` | § 269c InsO (Zusammenarbeit der Gläubigerausschüsse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269d-koordinationsgericht` | § 269d InsO (Koordinationsgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269h-koordinationsplan` | § 269h InsO (Koordinationsplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269i-abweichungen-vom-koordinationsplan` | § 269i InsO (Abweichungen vom Koordinationsplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270-grundsatz` | § 270 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270a-antrag-eigenverwaltungsplanung` | § 270a InsO (Antrag; Eigenverwaltungsplanung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270b-anordnung-der-vorlaufigen-eigenverwaltung` | § 270b InsO (Anordnung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270d-vorbereitung-einer-sanierung-schutzschirm` | § 270d InsO (Vorbereitung einer Sanierung; Schutzschirm) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270e-aufhebung-der-vorlaufigen-eigenverwaltung` | § 270e InsO (Aufhebung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P260 Uberwachung P261 Aufgaben P262 im Insolvenz- und Sanieru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p260-uberwachung-der-planerfullung`
 

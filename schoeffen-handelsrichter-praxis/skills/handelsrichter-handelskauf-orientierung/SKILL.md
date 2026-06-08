@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-handelskauf-orientierung
-description: "Handelsrichter Handelskauf (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter Handelskauf (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rügeobliegenheit, Lieferkette, Incoterms, Qualität und kaufmännische Bestätigung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Handelsrichter Handelskauf: Orientierung

@@ -1,19 +1,9 @@
 ---
 name: workflow-rechtsmittel-redteam-qualitygate
-description: "Workflow Rechtsmittel Redteam Qualitygate im Miet- und Wohnungseigentumsrecht: prüft konkret Rechtsmittel Miet/WEG, Red-Team Miet/WEG, Red-Team Qualitygate im Plugin, Restaurant in WEG-Anlage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Workflow Rechtsmittel Redteam Qualitygate im Miet- und Wohnungseigentumsrecht: prüft konkret Rechtsmittel Miet/WEG, Red-Team Miet/WEG, Red-Team Qualitygate im Plugin, Restaurant in WEG-Anlage."
 ---
 
 # Workflow Rechtsmittel Redteam Qualitygate
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-rechtsmittel-miet-weg` | Rechtsmittel Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-redteam-miet-weg` | Red-Team Miet/WEG: Prüfungslinie für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `workflow-restaurant-in-weg-anlage` | Restaurant in WEG-Anlage: Prüfungslinie für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-risikoampel-raeumung` | Räumungsrisiko-Ampel: Prüfungslinie für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Workflow Rechtsmittel Redteam Qualitygate im Miet- und Wohnungseig
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-rechtsmittel-miet-weg`
 

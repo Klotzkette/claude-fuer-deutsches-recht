@@ -1,6 +1,6 @@
 ---
 name: maritime-satellitendienste-und-schiffssicherheit
-description: "Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Maritime Satellitendienste und Schiffssicherheit

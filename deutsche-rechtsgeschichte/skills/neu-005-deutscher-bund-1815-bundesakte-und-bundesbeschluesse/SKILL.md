@@ -1,6 +1,6 @@
 ---
 name: neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse
-description: "Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse

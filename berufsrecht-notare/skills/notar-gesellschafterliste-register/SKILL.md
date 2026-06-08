@@ -1,6 +1,6 @@
 ---
 name: notar-gesellschafterliste-register
-description: "Notare: gesellschafterliste nach auslandsinsolvenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: gesellschafterliste nach auslandsinsolvenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: gesellschafterliste nach auslandsinsolvenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

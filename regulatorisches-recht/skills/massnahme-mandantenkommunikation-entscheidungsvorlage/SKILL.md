@@ -1,6 +1,6 @@
 ---
 name: massnahme-mandantenkommunikation-entscheidungsvorlage
-description: "Massnahme: Mandantenkommunikation und Entscheidungsvorlage im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Massnahme: Mandantenkommunikation und Entscheidungsvorlage im Plugin regulatorisches recht im Regulatorisches Recht."
 ---
 
 # Massnahme: Mandantenkommunikation und Entscheidungsvorlage

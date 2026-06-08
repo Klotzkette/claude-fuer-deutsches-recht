@@ -1,6 +1,6 @@
 ---
 name: settlement-license-short-online-software
-description: "Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt Settlement, release, license, covenant not to sue, attribution, takedown, payment and future-use terms im Us Copyright Registrierung Verlag."
 ---
 
 # Settlement and License US Copyright

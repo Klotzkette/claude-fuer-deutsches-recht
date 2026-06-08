@@ -1,6 +1,6 @@
 ---
 name: vorlagen-vertragsausfueller-vaf-altvertrag
-description: "Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsausfueller."
 ---
 
 # Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg

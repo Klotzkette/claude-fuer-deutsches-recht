@@ -1,6 +1,6 @@
 ---
 name: busspur-anordnung-antrag-schreiben
-description: "StVO: Busspur: Anordnung angreifen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Busspur: Anordnung angreifen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Busspur Anordnung Angreifen

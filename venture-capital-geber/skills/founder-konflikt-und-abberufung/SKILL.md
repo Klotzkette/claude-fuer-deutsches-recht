@@ -1,6 +1,6 @@
 ---
 name: founder-konflikt-und-abberufung
-description: "Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Founder-Konflikt und Abberufung

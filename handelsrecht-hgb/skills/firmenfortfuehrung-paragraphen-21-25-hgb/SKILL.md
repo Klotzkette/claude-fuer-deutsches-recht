@@ -1,6 +1,6 @@
 ---
 name: firmenfortfuehrung-paragraphen-21-25-hgb
-description: "Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Firmenfortführung, Unternehmenserwerb, Haftung und Haftungsausschluss im Handelsrecht Hgb."
 ---
 
 # Firmenfortführung §§ 21-25 HGB

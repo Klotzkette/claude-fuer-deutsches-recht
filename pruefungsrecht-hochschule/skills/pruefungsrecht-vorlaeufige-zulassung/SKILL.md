@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-vorlaeufige-zulassung
-description: "Prüft Vergleichslösungen im Prüfungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vergleichslösungen im Prüfungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Vergleich Und Pruefungsrecht

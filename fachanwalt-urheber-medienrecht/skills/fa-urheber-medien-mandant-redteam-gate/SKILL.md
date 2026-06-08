@@ -1,17 +1,9 @@
 ---
 name: fa-urheber-medien-mandant-redteam-gate
-description: "FA Urheber Medien Mandant Redteam Gate im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Lizenzvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA Urheber Medien Mandant Redteam Gate im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Mandantenkommunikation im Plugin, Red-Team Qualitygate im Plugin, Lizenzvertrag."
 ---
 
 # FA Urheber Medien Mandant Redteam Gate
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-urheber-medienrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-urheber-medienrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-lizenzvertrag-fristennotiz-und-naechster-schritt` | Lizenzvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "FA Urheber Medien Mandant Redteam Gate im Plugin Fachanwalt Urhebe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -65,7 +57,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 3. `spezial-lizenzvertrag-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Lizenzvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Lizenzvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt urheber medienrecht.
 
 ### Lizenzvertrag: Fristennotiz und nächster Schritt
 

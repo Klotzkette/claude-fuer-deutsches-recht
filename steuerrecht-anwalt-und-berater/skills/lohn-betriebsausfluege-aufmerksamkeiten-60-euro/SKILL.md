@@ -1,6 +1,6 @@
 ---
 name: lohn-betriebsausfluege-aufmerksamkeiten-60-euro
-description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit im Steuerrecht Anwalt Und Berater."
 ---
 
 # Aufmerksamkeiten — 60-EUR-Freigrenze pro persönlichem Anlass

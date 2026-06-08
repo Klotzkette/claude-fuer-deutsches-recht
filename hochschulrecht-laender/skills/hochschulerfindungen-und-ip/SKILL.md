@@ -1,6 +1,6 @@
 ---
 name: hochschulerfindungen-und-ip
-description: "Prüft Hochschulerfindungen, Software und Ausgründungen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulerfindungen, Software und Ausgründungen im Hochschulrecht Länder."
 ---
 
 # Hochschulerfindungen Und Ip

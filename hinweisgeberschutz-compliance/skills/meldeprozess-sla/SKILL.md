@@ -1,6 +1,6 @@
 ---
 name: meldeprozess-sla
-description: "Baut Service-Level für Bearbeitung von Hinweisen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Service-Level für Bearbeitung von Hinweisen im Hinweisgeberschutz Compliance."
 ---
 
 # Meldeprozess SLA

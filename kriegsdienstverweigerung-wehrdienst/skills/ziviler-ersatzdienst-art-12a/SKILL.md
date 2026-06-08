@@ -1,6 +1,6 @@
 ---
 name: ziviler-ersatzdienst-art-12a
-description: "Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Ziviler Ersatzdienst

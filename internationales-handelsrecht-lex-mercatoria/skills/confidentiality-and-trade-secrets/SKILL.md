@@ -1,6 +1,6 @@
 ---
 name: confidentiality-and-trade-secrets
-description: "Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Vertraulichkeit und Geschäftsgeheimnisse

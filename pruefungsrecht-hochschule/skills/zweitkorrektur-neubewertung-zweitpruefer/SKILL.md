@@ -1,6 +1,6 @@
 ---
 name: zweitkorrektur-neubewertung-zweitpruefer
-description: "Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im Pruefungsrecht Hochschule."
 ---
 
 # Zweitkorrektur Und Neubewertung

@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-rufnummernmissbrauch-fristen-und-bescheidana
-description: "Rufnummernmissbrauch: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rufnummernmissbrauch: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht im BNetzA-Verfahren."
 ---
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Fristen- und Bescheidanalyse

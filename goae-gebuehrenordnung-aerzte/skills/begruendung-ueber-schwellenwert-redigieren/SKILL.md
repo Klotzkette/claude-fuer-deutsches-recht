@@ -1,6 +1,6 @@
 ---
 name: begruendung-ueber-schwellenwert-redigieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren im Goae Gebührenordnung Aerzte."
 ---
 
 # Begründung über Schwellenwert redigieren

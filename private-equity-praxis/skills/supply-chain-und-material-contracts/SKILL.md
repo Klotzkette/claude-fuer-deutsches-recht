@@ -1,6 +1,6 @@
 ---
 name: supply-chain-und-material-contracts
-description: "Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung im Private Equity Praxis."
 ---
 
 # Supply Chain und Material Contracts

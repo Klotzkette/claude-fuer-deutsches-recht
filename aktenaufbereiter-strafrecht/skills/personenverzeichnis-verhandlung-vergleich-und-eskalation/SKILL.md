@@ -1,6 +1,6 @@
 ---
 name: personenverzeichnis-verhandlung-vergleich-und-eskalation
-description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation

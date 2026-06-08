@@ -1,17 +1,9 @@
 ---
 name: schnittstelle-verpflichtungsklage
-description: "Schnittstelle Verpflichtungsklage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Schnittstelle, Verpflichtungsklage, Verwaltungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schnittstelle Verpflichtungsklage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Schnittstelle, Verpflichtungsklage, Verwaltungsrecht."
 ---
 
 # Schnittstelle Verpflichtungsklage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schnittstelle-internationaler-bezug-und-schnittstellen` | Schnittstelle: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verpflichtungsklage-behoerden-gericht-und-registerweg` | Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verwaltungsrecht-tatbestand-beweis-und-belege` | Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schnittstelle-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Schnittstelle: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verwaltungsrecht.
 
 ### Schnittstelle: Internationaler Bezug und Schnittstellen
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verpflichtungsklage-behoerden-gericht-und-registerweg`
 
-**Fokus:** Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verwaltungsrecht.
 
 ### Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verwaltungsrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verwaltungsrecht.
 
 ### Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

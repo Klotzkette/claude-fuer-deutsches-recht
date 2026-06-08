@@ -1,6 +1,6 @@
 ---
 name: ratssitzung-und-tagesordnung
-description: "Kommunalrecht der Länder: Ratssitzung und Tagesordnung. Ratssitzung und Tagesordnung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Ratssitzung und Tagesordnung. Ratssitzung und Tagesordnung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Ratssitzung Und Tagesordnung

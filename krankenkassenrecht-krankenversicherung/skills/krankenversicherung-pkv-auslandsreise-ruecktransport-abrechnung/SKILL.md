@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-auslandsreise-ruecktransport-abrechnung
-description: "PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PKV: Auslandsreise und Rücktransport

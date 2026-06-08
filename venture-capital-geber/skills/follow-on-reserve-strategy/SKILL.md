@@ -1,6 +1,6 @@
 ---
 name: follow-on-reserve-strategy
-description: "Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Follow-on-Reserve-Strategie

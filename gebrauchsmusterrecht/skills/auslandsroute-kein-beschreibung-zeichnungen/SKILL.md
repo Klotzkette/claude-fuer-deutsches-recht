@@ -1,6 +1,6 @@
 ---
 name: auslandsroute-kein-beschreibung-zeichnungen
-description: "Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing im Gebrauchsmusterrecht."
 ---
 
 # Auslandsroute Kein Eu Gebrauchsmuster

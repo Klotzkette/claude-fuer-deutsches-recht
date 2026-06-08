@@ -1,6 +1,6 @@
 ---
 name: satzung-entwerfen-und-pruefen
-description: "Kommunalrecht der Länder: Satzung entwerfen und prüfen. Satzung entwerfen und prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Satzung entwerfen und prüfen. Satzung entwerfen und prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Satzung Entwerfen Und Pruefen

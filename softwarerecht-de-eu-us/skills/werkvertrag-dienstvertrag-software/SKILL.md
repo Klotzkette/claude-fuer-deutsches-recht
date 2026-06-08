@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-dienstvertrag-software
-description: "Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang im Softwarerecht De Eu Us."
 ---
 
 # Werkvertrag oder Dienstvertrag Software

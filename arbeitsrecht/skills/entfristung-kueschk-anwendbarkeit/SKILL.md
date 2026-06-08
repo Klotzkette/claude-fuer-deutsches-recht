@@ -1,18 +1,9 @@
 ---
 name: entfristung-kueschk-anwendbarkeit
-description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft konkret Prüft Anwendbarkeit des Kündigungsschutzgesetzes, Elektronische Signaturen und Befristungsabreden, Grundwarnung Entfristungsklage, Sprechzettel für Guetetermin und Kammertermin in der. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft konkret Prüft Anwendbarkeit des Kündigungsschutzgesetzes, Elektronische Signaturen und Befristungsabreden, Grundwarnung Entfristungsklage, Sprechzettel für Guetetermin und Kammertermin in der."
 ---
 
 # Entfristung Kueschk Anwendbarkeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kueschk-anwendbarkeit-kschg-pruefen` | Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit. |
-| `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG. |
-| `entfristung-grundwarnung-drei-wochen-frist` | Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung. |
-| `entfristung-guetetermin-und-kammertermin-sprechzettel` | Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen § 54 und § 57 ArbGG. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kueschk-anwendbarkeit-kschg-pruefen`
 

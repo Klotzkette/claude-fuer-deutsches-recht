@@ -1,6 +1,6 @@
 ---
 name: essential-facilities-eu-bekanntmachung
-description: "Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Essential Facilities und Refusal to Deal

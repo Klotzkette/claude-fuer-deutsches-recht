@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-vg-orientierung
-description: "Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ehrenamtlicher Richter Verwaltungsgericht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Rolle im Verwaltungsprozess, Behördenakte, Amtsermittlung und Beratungsgeheimnis mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ehrenamtlicher Richter Verwaltungsgericht: Orientierung

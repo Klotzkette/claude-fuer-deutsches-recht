@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-regelenergie-fristen-und-bescheidanalys
-description: "Regelenergie: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelenergie: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Regelenergie — Fristen- und Bescheidanalyse

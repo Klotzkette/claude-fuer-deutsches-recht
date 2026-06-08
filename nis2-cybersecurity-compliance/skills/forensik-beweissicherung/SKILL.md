@@ -1,6 +1,6 @@
 ---
 name: forensik-beweissicherung
-description: "Sichert digitale Beweise ohne Beweiswertverlust im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert digitale Beweise ohne Beweiswertverlust im Nis2 Cybersecurity Compliance."
 ---
 
 # Forensik Beweissicherung

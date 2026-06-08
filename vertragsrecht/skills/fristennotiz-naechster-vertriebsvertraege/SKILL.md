@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-vertriebsvertraege
-description: "Anpassen: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anpassen: Fristennotiz und nächster Schritt im Vertragsrecht."
 ---
 
 # Anpassen: Fristennotiz und nächster Schritt

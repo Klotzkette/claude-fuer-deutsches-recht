@@ -1,6 +1,6 @@
 ---
 name: b2b-vs-b2c-klausel-strategie
-description: "Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
 # B2B vs. B2C Klauselstrategie

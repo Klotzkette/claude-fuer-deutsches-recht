@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-berufsgericht-verteidigung
-description: "Rechtsmittel im Berufsgericht (Verteidigungs- und Kammerantwort): steuert Berufung, Antrag auf Zulassung, sofortige Beschwerde, Frist und Begründungsdichte mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsmittel im Berufsgericht (Verteidigungs- und Kammerantwort): steuert Berufung, Antrag auf Zulassung, sofortige Beschwerde, Frist und Begründungsdichte mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Rechtsmittel im Berufsgericht: Verteidigungs- und Kammerantwort

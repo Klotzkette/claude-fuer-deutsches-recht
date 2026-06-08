@@ -1,6 +1,6 @@
 ---
 name: marketplace-takedown-design
-description: "Marketplace-Takedown bei Designverletzungen: DSA Notice-and-Action, Plattformformulare, Produktbilder, Rechteinhaberschaft, Wiederholungstäter und Eskalation im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Marketplace-Takedown bei Designverletzungen: DSA Notice-and-Action, Plattformformulare, Produktbilder, Rechteinhaberschaft, Wiederholungstäter und Eskalation im Designrecht Geschmacksmusterrecht."
 ---
 
 # Marketplace Takedown Design

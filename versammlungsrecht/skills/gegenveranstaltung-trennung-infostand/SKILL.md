@@ -1,6 +1,6 @@
 ---
 name: gegenveranstaltung-trennung-infostand
-description: "Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant konkurrierende Versammlungen, Gegenprotest, Pufferzonen und gleichzeitige Grundrechtsausübung im Versammlungsrecht."
 ---
 
 # Gegenprotest ist nicht automatisch Störung

@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-und-reporting-kammerantwo
-description: "Wirtschaftsprüfer: interne ermittlung und reporting - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: interne ermittlung und reporting - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: konkurrentenstreit-eilverfahren
-description: "Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkurrentenstreit und einstweiliger Rechtsschutz gegen Beförderung oder Stellenbesetzung im Beamtenrecht."
 ---
 
 # Konkurrentenstreit Eilverfahren

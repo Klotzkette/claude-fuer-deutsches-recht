@@ -1,6 +1,6 @@
 ---
 name: kleiner-kauf-konto-gesperrt-mandanten
-description: "Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Kleiner Kauf und Mängelrechte

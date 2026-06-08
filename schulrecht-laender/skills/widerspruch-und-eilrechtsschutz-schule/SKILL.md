@@ -1,6 +1,6 @@
 ---
 name: widerspruch-und-eilrechtsschutz-schule
-description: "Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Widerspruch und Eilantrag im Schulrecht im Schulrecht Länder."
 ---
 
 # Widerspruch Und Eilrechtsschutz Schule

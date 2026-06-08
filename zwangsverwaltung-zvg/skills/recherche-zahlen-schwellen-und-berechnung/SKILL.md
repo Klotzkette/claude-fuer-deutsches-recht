@@ -1,6 +1,6 @@
 ---
 name: recherche-zahlen-schwellen-und-berechnung
-description: "Recherche: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recherche: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Recherche: Zahlen, Schwellenwerte und Berechnung

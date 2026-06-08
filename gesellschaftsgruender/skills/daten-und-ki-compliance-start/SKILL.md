@@ -1,6 +1,6 @@
 ---
 name: daten-und-ki-compliance-start
-description: "Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium im Gesellschaftsgruender."
 ---
 
 # Daten- und KI-Compliance Start

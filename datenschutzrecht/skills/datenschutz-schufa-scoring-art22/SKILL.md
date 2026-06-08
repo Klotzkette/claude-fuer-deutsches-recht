@@ -1,19 +1,9 @@
 ---
 name: datenschutz-schufa-scoring-art22
-description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkret Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an, Datenschutzrechtliches Mandat strukturieren und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkret Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an, Datenschutzrechtliches Mandat strukturieren und."
 ---
 
 # Datenschutz Schufa Scoring Art22
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `datenschutz-schufa-insolvenzdaten-loeschung` | Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach EuGH C-26/22/C-64/22 mit Art. 5 sowie Art. 17 DSGVO und öffentlichen Insolvenzbekanntmachungen. |
-| `datenschutz-scoring-art22-schufa-c63421` | Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, maßgebliches Kriterium für Dritte, Transparenz, Auskunft, Widerspruch und DSFA. |
-| `datenschutzrecht-anpassen` | Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht für Neuerstellung von Dokumentation. |
-| `datenschutzrecht-mandat-arbeitsbereich` | Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Datenschutzprüfung. |
-| `dpa-en-controller-controller-tmpl` | English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR. Used when neither Article 26 nor Article 28 GDPR applies but the parties want a contractual data sharing framework. Output: complete English template covering lawful basis allocation transparency security and breach notification. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `datenschutz-schufa-insolvenzdaten-loeschung`
 

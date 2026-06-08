@@ -1,6 +1,6 @@
 ---
 name: ministerien-tatbestand-beweis-und-belege
-description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin legistik werkstatt im Legistik."
 ---
 
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage

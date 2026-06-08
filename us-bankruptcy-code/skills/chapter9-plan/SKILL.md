@@ -1,6 +1,6 @@
 ---
 name: chapter9-plan
-description: "Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services im US Bankruptcy Code."
 ---
 
 # Chapter 9 Plan Special Rules

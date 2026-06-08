@@ -1,6 +1,6 @@
 ---
 name: kommunikation-an-betroffene
-description: "Formuliert Kommunikation an beschuldigte und betroffene Personen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Kommunikation an beschuldigte und betroffene Personen im Hinweisgeberschutz Compliance."
 ---
 
 # Kommunikation An Betroffene

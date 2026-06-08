@@ -1,15 +1,9 @@
 ---
 name: inso-126-pruefungstermin
-description: "Inso P126 im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inso P126 im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht."
 ---
 
 # Inso P126
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p126-beschlussverfahren-zum-kundigungsschutz` | § 126 InsO (Beschlußverfahren zum Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Inso P126 im Insolvenz- und Sanierungsrecht im Fachanwalt Insolven
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p126-beschlussverfahren-zum-kundigungsschutz`
 

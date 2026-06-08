@@ -1,17 +1,9 @@
 ---
 name: cotif-fachanwalt-haager
-description: "Cotif Fachanwalt Haager im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Cotif, Fachanwalt, Haager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Cotif Fachanwalt Haager im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Cotif, Fachanwalt, Haager."
 ---
 
 # Cotif Fachanwalt Haager
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-cotif-schriftsatz-brief-und-memo-bausteine` | Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-haager-zahlen-schwellen-und-berechnung` | Haager: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-cotif-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht.
 
 ### Cotif: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt transport speditionsrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-haager-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Haager: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Haager: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt transport speditionsrecht.
 
 ### Haager: Zahlen, Schwellenwerte und Berechnung
 

@@ -1,6 +1,6 @@
 ---
 name: genossenschaft-eg
-description: "Prüft, ob eine eG statt GmbH/GbR sinnvoll ist im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob eine eG statt GmbH/GbR sinnvoll ist im Gesellschaftsgruender."
 ---
 
 # Genossenschaft eG

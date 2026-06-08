@@ -1,16 +1,9 @@
 ---
 name: gentherapie-dossier-langzeit
-description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Gentherapie-Dossier und GMP-Kette, Gentherapie Langzeit-Follow-up. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Gentherapie-Dossier und GMP-Kette, Gentherapie Langzeit-Follow-up."
 ---
 
 # Gentherapie Dossier Langzeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gentherapie-dossier-gmp` | Gentherapie-Dossier und GMP-Kette: moderner Medizinrechts-Skill für Qualität, Nichtklinik, Klinik, Herstellkette, Freigabe und Chargen-/Vektorlogik bei Gentherapeutika. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `gentherapie-langzeit-followup` | Gentherapie Langzeit-Follow-up: moderner Medizinrechts-Skill für Nachbeobachtung über Jahre, Registerdaten, Patientenumzug, Abbruch der Nachsorge und Haftungsfolgen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Gentherapie Dossier Langzeit im Medizinrecht: prüft konkret Genth
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gentherapie-dossier-gmp`
 

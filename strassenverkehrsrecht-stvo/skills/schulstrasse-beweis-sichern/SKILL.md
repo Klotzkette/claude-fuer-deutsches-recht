@@ -1,6 +1,6 @@
 ---
 name: schulstrasse-beweis-sichern
-description: "StVO: Schulstraße: Beweis sichern im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Schulstraße: Beweis sichern im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Schulstrasse Beweis Sichern

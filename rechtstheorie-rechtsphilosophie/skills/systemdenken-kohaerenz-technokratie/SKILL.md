@@ -1,17 +1,9 @@
 ---
 name: systemdenken-kohaerenz-technokratie
-description: "Systemdenken Kohaerenz Technokratie im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und w, Prueft Technik-. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Systemdenken Kohaerenz Technokratie im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und w, Prueft Technik-."
 ---
 
 # Systemdenken Kohaerenz Technokratie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `systemdenken-kohaerenz-widerspruch` | Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen. |
-| `technokratie-industriegesellschaft-und-grundrechte` | Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung. |
-| `unionsrecht-autonomie-nationales-recht` | Prueft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `systemdenken-kohaerenz-widerspruch`
 

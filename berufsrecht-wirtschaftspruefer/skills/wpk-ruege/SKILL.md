@@ -1,6 +1,6 @@
 ---
 name: wpk-ruege
-description: "Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

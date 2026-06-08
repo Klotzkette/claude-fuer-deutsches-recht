@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-investoren-q-and-a
-description: "Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf im Erbbaurecht Praxis."
 ---
 
 # Investor Q&A

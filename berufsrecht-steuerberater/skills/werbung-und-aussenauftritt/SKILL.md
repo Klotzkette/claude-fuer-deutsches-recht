@@ -1,6 +1,6 @@
 ---
 name: werbung-und-aussenauftritt
-description: "Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Steuerberater; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Steuerberater; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Werbung und Außenauftritt

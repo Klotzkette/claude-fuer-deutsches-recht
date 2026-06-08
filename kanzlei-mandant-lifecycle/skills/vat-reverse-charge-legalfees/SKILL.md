@@ -1,6 +1,6 @@
 ---
 name: vat-reverse-charge-legalfees
-description: "Umsatzsteuer bei Legal Fees: steuert grenzüberschreitende Kanzleirechnungen, Reverse Charge, Auslagen und Kostenstellen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umsatzsteuer bei Legal Fees: steuert grenzüberschreitende Kanzleirechnungen, Reverse Charge, Auslagen und Kostenstellen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Umsatzsteuer bei Legal Fees

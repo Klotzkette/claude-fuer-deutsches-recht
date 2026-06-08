@@ -1,6 +1,6 @@
 ---
 name: status-stellungnahmen-dritter-ungedient-ab
-description: "Bestimmt, ob jemand ungedient, wehrpflichtig, Soldat, Reservist, frühere Soldatin oder Sonderfall ist im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmt, ob jemand ungedient, wehrpflichtig, Soldat, Reservist, frühere Soldatin oder Sonderfall ist im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Status-Routing Wehrpflicht Soldat Reservist

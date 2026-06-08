@@ -1,6 +1,6 @@
 ---
 name: loesungsstrategie-formular-portal-und-einreichung
-description: "Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
 ---
 
 # Loesungsstrategie: Formular, Portal und Einreichungslogik

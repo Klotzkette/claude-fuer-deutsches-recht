@@ -1,6 +1,6 @@
 ---
 name: lph-09-dokumentation-und-belegakte
-description: "HOAI LPH 9 Objektbetreuung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 9 Objektbetreuung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 9 Objektbetreuung: Sichert protokolle

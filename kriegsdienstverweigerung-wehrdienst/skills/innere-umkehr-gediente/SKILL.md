@@ -1,6 +1,6 @@
 ---
 name: innere-umkehr-gediente
-description: "Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Innere Umkehr bei Gedienten

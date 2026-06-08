@@ -1,6 +1,6 @@
 ---
 name: lph-09-foerdermittel-und-nachweis
-description: "HOAI LPH 9 Objektbetreuung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 9 Objektbetreuung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 9 Objektbetreuung: Prüft fördermittelbedingungen

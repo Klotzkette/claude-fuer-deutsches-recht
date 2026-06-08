@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-reporting
-description: "Berichtet Hinweisfälle an Aufsichtsrat oder Beirat im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berichtet Hinweisfälle an Aufsichtsrat oder Beirat im Hinweisgeberschutz Compliance."
 ---
 
 # Aufsichtsrat Reporting

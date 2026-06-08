@@ -1,6 +1,6 @@
 ---
 name: nebenberuf
-description: "Nebenberuf: vertiefter Berufsrechts-Skill für Notare; prüft Nebenberuf im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nebenberuf: vertiefter Berufsrechts-Skill für Notare; prüft Nebenberuf im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Nebenberuf

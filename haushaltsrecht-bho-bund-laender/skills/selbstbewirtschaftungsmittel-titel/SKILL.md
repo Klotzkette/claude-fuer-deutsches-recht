@@ -1,6 +1,6 @@
 ---
 name: selbstbewirtschaftungsmittel-titel
-description: "Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Selbstbewirtschaftungsmittel Titel Pru

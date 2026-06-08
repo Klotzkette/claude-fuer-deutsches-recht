@@ -1,19 +1,9 @@
 ---
 name: anpassung-wegen-anwartschaft-dynamisch
-description: "Anpassung Wegen Anwartschaft Dynamisch im Plugin Fachanwalt Familienrecht: prüft konkret Anpassung wegen Unterhalt §§ 33 ff VersAusglG, Anwartschaft dynamisch statisch Bewertung, Ausgleich nach der Scheidung §§ 20 ff VersAusglG, Ausländische Anrechte Versorgungsausgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anpassung Wegen Anwartschaft Dynamisch im Plugin Fachanwalt Familienrecht: prüft konkret Anpassung wegen Unterhalt §§ 33 ff VersAusglG, Anwartschaft dynamisch statisch Bewertung, Ausgleich nach der Scheidung §§ 20 ff VersAusglG, Ausländische Anrechte Versorgungsausgleich."
 ---
 
 # Anpassung Wegen Anwartschaft Dynamisch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anpassung-wegen-unterhalt-33-ff-versausglg` | Anpassung wegen Unterhalt §§ 33 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `anwartschaft-dynamisch-statisch-bewertung` | Anwartschaft dynamisch statisch Bewertung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `ausgleich-nach-der-scheidung-20-ff-versausglg` | Ausgleich nach der Scheidung §§ 20 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `auslaendische-anrechte-versorgungsausgleich` | Ausländische Anrechte Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `ausschluss-grobe-unbilligkeit-27-versausglg` | Ausschluss grobe Unbilligkeit § 27 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Anpassung Wegen Anwartschaft Dynamisch im Plugin Fachanwalt Famili
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anpassung-wegen-unterhalt-33-ff-versausglg`
 

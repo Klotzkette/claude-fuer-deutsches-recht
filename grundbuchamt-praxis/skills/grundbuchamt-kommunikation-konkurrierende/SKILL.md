@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-kommunikation-konkurrierende
-description: "Formuliert sachliche Anfragen, Nachreichungen, Fristbitten und Beschwerdeankündigungen ohne Vollzug zu gefährden im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert sachliche Anfragen, Nachreichungen, Fristbitten und Beschwerdeankündigungen ohne Vollzug zu gefährden im Grundbuchamt Praxis."
 ---
 
 # Schreiben an das Grundbuchamt

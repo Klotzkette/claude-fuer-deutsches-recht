@@ -1,6 +1,6 @@
 ---
 name: ransomware-verhandlungsverbot-remote-access
-description: "Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen im Nis2 Cybersecurity Compliance."
 ---
 
 # Ransomware Verhandlungsverbot

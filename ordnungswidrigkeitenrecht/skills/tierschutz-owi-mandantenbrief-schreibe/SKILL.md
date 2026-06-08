@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-mandantenbrief-schreibe
-description: "Tierschutz-OWi: Mandantenbrief schreiben im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tierschutz-OWi: Mandantenbrief schreiben im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Tierschutz Owi Mandantenbrief Schreibe

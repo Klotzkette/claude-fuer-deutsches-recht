@@ -1,6 +1,6 @@
 ---
 name: kauf-due-kita-sozialimmobilie
-description: "Baut DD-Liste: Vertrag, Grundbuch, Laufzeit, Zins, Zustimmung, Heimfall, Bank, Bauzustand und Exit im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut DD-Liste: Vertrag, Grundbuch, Laufzeit, Zins, Zustimmung, Heimfall, Bank, Bauzustand und Exit im Erbbaurecht Praxis."
 ---
 
 # Erbbaurecht kaufen

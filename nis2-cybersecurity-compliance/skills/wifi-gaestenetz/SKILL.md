@@ -1,15 +1,9 @@
 ---
 name: wifi-gaestenetz
-description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance im Nis2 Cybersecurity Compliance."
 ---
 
 # Wifi Gaestenetz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wifi-gaestenetz` | Prüft WLAN, Gästezugang und Segmentierung. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Wifi Gaestenetz im NIS2-Cybersecurity-Compliance im Nis2 Cybersecu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, Informationssicherheits-Konzept, Incident-Response-Plan, BSI-Meldung, Schulungsnachweis Geschäftsleitung, Lieferkettenrisiko-Bericht, Business-Continuity-Plan — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wifi-gaestenetz`
 

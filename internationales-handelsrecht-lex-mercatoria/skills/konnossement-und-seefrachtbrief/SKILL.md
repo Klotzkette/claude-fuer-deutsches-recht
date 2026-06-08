@@ -1,6 +1,6 @@
 ---
 name: konnossement-und-seefrachtbrief
-description: "Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Konnossement und Seefrachtbrief

@@ -1,19 +1,9 @@
 ---
 name: orientierung-pacht-abgrenzung-raeumungsklage
-description: "Orientierung Pacht Abgrenzung Raeumungsklage im Miet- und Wohnungseigentumsrecht: prüft konkret Orientierung, Pacht vs, Räumungsklage Aufbau, Rauchwarnmelder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung Pacht Abgrenzung Raeumungsklage im Miet- und Wohnungseigentumsrecht: prüft konkret Orientierung, Pacht vs, Räumungsklage Aufbau, Rauchwarnmelder."
 ---
 
 # Orientierung Pacht Abgrenzung Raeumungsklage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage` | Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-pacht-abgrenzung` | Pacht vs. Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-raeumungsklage-aufbau` | Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-rauchwarnmelder` | Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-schimmel-beweis-gutachten` | Schimmel Beweis/Gutachten: Fachmodul im Miet- und Wohnungseigentumsrecht; trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Orientierung Pacht Abgrenzung Raeumungsklage im Miet- und Wohnungs
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage`
 

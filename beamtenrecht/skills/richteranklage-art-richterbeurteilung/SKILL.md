@@ -1,6 +1,6 @@
 ---
 name: richteranklage-art-richterbeurteilung
-description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster im Beamtenrecht."
 ---
 
 # Richteranklage Art. 98 GG

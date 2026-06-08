@@ -1,17 +1,9 @@
 ---
 name: erb-einfuehrung-erbfolge-erstgespraech
-description: "ERB Einfuehrung Erbfolge Erstgespraech im Plugin Fachanwalt Erbrecht: prüft konkret Erbfolge-System einfuehrend, Erstgespraechs-Checkliste Erbrecht, Spezialfall internationales Erbrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "ERB Einfuehrung Erbfolge Erstgespraech im Plugin Fachanwalt Erbrecht: prüft konkret Erbfolge-System einfuehrend, Erstgespraechs-Checkliste Erbrecht, Spezialfall internationales Erbrecht."
 ---
 
 # ERB Einfuehrung Erbfolge Erstgespraech
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `erb-einfuehrung-erbfolge-system` | Erbfolge-System einfuehrend: gesetzliche Erbfolge §§ 1924 ff. BGB, Verwandtenerbrecht in Ordnungen, Ehegattenerbrecht § 1931 BGB mit Zugewinngemeinschaft § 1371 BGB, Pflichtteil §§ 2303 ff. BGB. Beispielsfall mit Stammbaum und Quoten. |
-| `erb-erstgespraech-checkliste` | Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhandene Testamente, Nachlassbestand, Schulden, internationaler Bezug, Pflichtteilsberechtigte, Streitlage. Mustervorlage und Erfordernisse für Folgekorrespondenz. |
-| `erb-internationales-erbrecht-spezial` | Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ. Spezialfaelle Schweiz / USA / Tuerkei. Pruefraster und Verfahrensweg. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "ERB Einfuehrung Erbfolge Erstgespraech im Plugin Fachanwalt Erbrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `erb-einfuehrung-erbfolge-system`
 

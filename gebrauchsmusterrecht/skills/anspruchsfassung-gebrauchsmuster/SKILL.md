@@ -1,6 +1,6 @@
 ---
 name: anspruchsfassung-gebrauchsmuster
-description: "Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit im Gebrauchsmusterrecht."
 ---
 
 # Anspruchsfassung Gebrauchsmuster

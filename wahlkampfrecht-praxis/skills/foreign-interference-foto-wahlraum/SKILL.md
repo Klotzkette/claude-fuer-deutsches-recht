@@ -1,6 +1,6 @@
 ---
 name: foreign-interference-foto-wahlraum
-description: "Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten im Wahlkampfrecht."
 ---
 
 # Foreign Interference Lage

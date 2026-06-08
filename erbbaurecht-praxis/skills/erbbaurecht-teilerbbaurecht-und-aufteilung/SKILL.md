@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-teilerbbaurecht-und-aufteilung
-description: "Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen im Erbbaurecht Praxis."
 ---
 
 # Teil-Erbbaurecht und Aufteilung

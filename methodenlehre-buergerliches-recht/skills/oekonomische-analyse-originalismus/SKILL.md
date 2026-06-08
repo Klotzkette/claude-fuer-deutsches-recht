@@ -1,19 +1,9 @@
 ---
 name: oekonomische-analyse-originalismus
-description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buergerliches Recht: prüft konkret Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz, der den historische. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buergerliches Recht: prüft konkret Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz, der den historische."
 ---
 
 # Oekonomische Analyse Originalismus
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern. |
-| `originalismus-und-gesetzgebungsmaterialien-deutschland` | Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem. |
-| `pandekten-und-begriffsjurisprudenz` | Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck, Larenz. Wo die Begriffsjurisprudenz heute noch trifft (Allgemeiner Teil, Stellvertretungsrecht) und wo nicht. Pruefraster zur Erkennung begriffsjuristischer Argumentation. |
-| `positivismus-und-rueckbindung-an-den-text` | Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen und wo seine Grenzen bei Extremunrecht und Normkollisionen deutlich werden. |
-| `postfaktische-argumente-red-team` | Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsanmerkungen, die mit empirisch ungesicherten oder rhetorisch überformten Argumenten konfrontiert sind. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `oekonomische-analyse-des-rechts-coase-posner`
 

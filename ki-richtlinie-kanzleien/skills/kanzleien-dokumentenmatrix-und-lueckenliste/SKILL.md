@@ -1,6 +1,6 @@
 ---
 name: kanzleien-dokumentenmatrix-und-lueckenliste
-description: "Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
 ---
 
 # Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung

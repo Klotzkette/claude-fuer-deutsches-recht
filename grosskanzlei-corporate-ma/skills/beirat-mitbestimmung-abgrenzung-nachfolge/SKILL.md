@@ -1,21 +1,9 @@
 ---
 name: beirat-mitbestimmung-abgrenzung-nachfolge
-description: "Beirat Mitbestimmung Abgrenzung Nachfolge im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beirat Mitbestimmung Abgrenzung Nachfolge im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma."
 ---
 
 # Beirat Mitbestimmung Abgrenzung Nachfolge
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beirat-mitbestimmung-abgrenzung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-nachfolge` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Nachfolge; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-private-equity-investor` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-register-und-notar` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Register Und Notar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-satzungsgrundlage` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Satzungsgrundlage; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-sitzung-und-protokoll` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Sitzung Und Protokoll; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-startup-investor-director` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Beirat Mitbestimmung Abgrenzung Nachfolge im Corporate/M&A (Großk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beirat-mitbestimmung-abgrenzung`
 

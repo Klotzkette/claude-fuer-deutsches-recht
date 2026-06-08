@@ -1,6 +1,6 @@
 ---
 name: administrative-expenses-503
-description: "Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process im US Bankruptcy Code."
 ---
 
 # Administrative Expenses § 503

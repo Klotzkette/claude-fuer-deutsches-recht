@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-bayern
-description: "Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
 ---
 
 # Schulgesetz Bayern

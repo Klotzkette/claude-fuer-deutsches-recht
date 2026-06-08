@@ -1,6 +1,6 @@
 ---
 name: familienzuschlag-drittes-kinder
-description: "Skill zum verfassungsrechtlichen Mindeststandard des Familienzuschlags für das dritte und jedes weitere Kind nach Art. 33 Abs. 5 GG. Klaert das BVerfG-Pruefschema für den Mehrkinderzuschlag mit Vergleich zur sozialhilferechtlichen Bedarfsdeckung und zum kinderbezogenen Existenzminimum. Behandelt die Konstellation alleinverdienender Beamter mit drei und mehr unterhaltsberechtigten Kindern. Liefert Widerspruch und Berechnungsmodell zur Geltendmachung der Differenz zwischen tatsaechlichem und verfassungsrechtlich gebotenem Mehrkinderzuschlag im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zum verfassungsrechtlichen Mindeststandard des Familienzuschlags für das dritte und jedes weitere Kind nach Art. 33 Abs. 5 GG. Klaert das BVerfG-Pruefschema für den Mehrkinderzuschlag mit Vergleich zur sozialhilferechtlichen Bedarfsdeckung und zum kinderbezogenen Existenzminimum. Behandelt die Konstellation alleinverdienender Beamter mit drei und mehr unterhaltsberechtigten Kindern. Liefert Widerspruch und Berechnungsmodell zur Geltendmachung der Differenz zwischen tatsaechlichem und verfassungsrechtlich gebotenem Mehrkinderzuschlag im Beamtenrecht."
 ---
 
 # Familienzuschlag dritte und weitere Kinder — verfassungsrechtliches Minimum

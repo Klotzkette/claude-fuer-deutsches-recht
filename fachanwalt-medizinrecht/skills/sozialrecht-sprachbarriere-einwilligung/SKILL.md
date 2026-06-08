@@ -1,18 +1,9 @@
 ---
 name: sozialrecht-sprachbarriere-einwilligung
-description: "Sozialrecht Sprachbarriere Einwilligung im Medizinrecht: prüft konkret Sozialrecht, Sprachbarriere Einwilligung, Sterilgut und Medizinprodukt, Transplantation und Allocation. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sozialrecht Sprachbarriere Einwilligung im Medizinrecht: prüft konkret Sozialrecht, Sprachbarriere Einwilligung, Sterilgut und Medizinprodukt, Transplantation und Allocation."
 ---
 
 # Sozialrecht Sprachbarriere Einwilligung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-sozialrecht-formular-portal-und-einreichung` | Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `sprachbarriere-einwilligung` | Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `sterilgut-medizinprodukt` | Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `transplantation-allocation` | Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,11 +13,11 @@ description: "Sozialrecht Sprachbarriere Einwilligung im Medizinrecht: prüft ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-sozialrecht-formular-portal-und-einreichung`
 
-**Fokus:** Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht.
 
 ### Sozialrecht: Formular, Portal und Einreichungslogik
 

@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-und-edge-case
-description: "Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin europarecht kompass im Europarecht Kompass."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

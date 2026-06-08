@@ -1,6 +1,6 @@
 ---
 name: urb-relationstechnik-entscheidungsgruende
-description: "Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster für Berufseinsteiger und Referendare im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster für Berufseinsteiger und Referendare im Urteilsbauer Relationsmacher."
 ---
 
 # Urb: Relationstechnik Bauleiter

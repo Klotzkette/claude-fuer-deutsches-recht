@@ -1,6 +1,6 @@
 ---
 name: formuliert-erstpruefung-und-mandatsziel
-description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

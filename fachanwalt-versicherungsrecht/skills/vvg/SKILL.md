@@ -1,15 +1,9 @@
 ---
 name: vvg
-description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Versicherungsrecht."
 ---
 
 # Versr VVG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `versr-vvg-anzeigepflicht-19-arglist` | Vorvertragliche Anzeigepflicht im Fachanwaltsmandat: Gesundheitsfragen, Belehrung, Rücktritt, Kündigung, Anpassung und Arglistanfechtung in BU/PKV/Leben/Unfall. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Versr VVG im Plugin Fachanwalt Versicherungsrecht im Fachanwalt Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `versr-vvg-anzeigepflicht-19-arglist`
 

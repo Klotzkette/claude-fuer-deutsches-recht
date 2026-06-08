@@ -1,6 +1,6 @@
 ---
 name: notweg-ueberhang-sonderfall-edge
-description: "Notweg: Internationaler Bezug und Schnittstellen im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notweg: Internationaler Bezug und Schnittstellen im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
 ---
 
 # Notweg: Internationaler Bezug und Schnittstellen

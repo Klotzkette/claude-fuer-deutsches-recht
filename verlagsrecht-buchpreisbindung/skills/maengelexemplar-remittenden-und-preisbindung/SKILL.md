@@ -1,6 +1,6 @@
 ---
 name: maengelexemplar-remittenden-und-preisbindung
-description: "Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Verl-011 · Mängelexemplare, Remittenden und Preisbindung

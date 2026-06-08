@@ -1,6 +1,6 @@
 ---
 name: depatisnet-verhandlung-vergleich-und-eskalation
-description: "Depatisnet: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Depatisnet: Verhandlung, Vergleich und Eskalation im Patentrecherche."
 ---
 
 # Depatisnet: Verhandlung, Vergleich und Eskalation

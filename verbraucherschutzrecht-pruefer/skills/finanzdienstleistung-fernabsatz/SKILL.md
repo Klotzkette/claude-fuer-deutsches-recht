@@ -1,6 +1,6 @@
 ---
 name: finanzdienstleistung-fernabsatz
-description: "Verbraucherschutzrecht Prüfer: Finanzdienstleistung Fernabsatz. Finanzdienstleistung Fernabsatz im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Finanzdienstleistung Fernabsatz. Finanzdienstleistung Fernabsatz im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Finanzdienstleistung Fernabsatz

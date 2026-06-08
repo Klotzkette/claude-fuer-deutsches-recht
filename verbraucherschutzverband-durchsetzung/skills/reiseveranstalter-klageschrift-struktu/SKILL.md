@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-klageschrift-struktu
-description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Klageschrift strukturieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Klageschrift strukturieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Reiseveranstalter Klageschrift Struktu

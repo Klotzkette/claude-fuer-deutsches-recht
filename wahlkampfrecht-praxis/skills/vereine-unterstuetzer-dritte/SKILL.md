@@ -1,6 +1,6 @@
 ---
 name: vereine-unterstuetzer-dritte
-description: "Wahlkampfrecht Praxis: Unterstuetzung durch Vereine, Initiativen und Drittkampagnen pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Unterstuetzung durch Vereine, Initiativen und Drittkampagnen pruefen im Wahlkampfrecht."
 ---
 
 # Vereine Unterstuetzer Dritte

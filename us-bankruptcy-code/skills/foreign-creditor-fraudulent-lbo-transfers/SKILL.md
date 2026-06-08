@@ -1,6 +1,6 @@
 ---
 name: foreign-creditor-fraudulent-lbo-transfers
-description: "Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt deutsche Gläubiger durch US-Bankruptcy: notice, claim, stay, contract, committee, plan vote and distributions im US Bankruptcy Code."
 ---
 
 # Foreign Creditor German Client

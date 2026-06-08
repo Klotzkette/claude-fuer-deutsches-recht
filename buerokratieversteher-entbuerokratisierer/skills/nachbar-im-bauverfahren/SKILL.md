@@ -1,6 +1,6 @@
 ---
 name: nachbar-im-bauverfahren
-description: "Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage im Bürokratie-Entbürokratisierung."
 ---
 
 # Nachbar im Bauverfahren

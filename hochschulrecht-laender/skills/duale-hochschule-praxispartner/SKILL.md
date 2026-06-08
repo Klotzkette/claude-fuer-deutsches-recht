@@ -1,6 +1,6 @@
 ---
 name: duale-hochschule-praxispartner
-description: "Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Praxispartner, Studienvertrag, Exmatrikulation, Akkreditierung und Status im Hochschulrecht Länder."
 ---
 
 # Duale Hochschule und Praxispartner

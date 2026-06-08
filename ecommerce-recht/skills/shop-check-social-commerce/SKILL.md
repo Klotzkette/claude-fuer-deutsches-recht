@@ -1,6 +1,6 @@
 ---
 name: shop-check-social-commerce
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum im Ecommerce Recht."
 ---
 
 # Shop Check Checkout Widerruf Impressum

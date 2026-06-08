@@ -1,6 +1,6 @@
 ---
 name: livecheck-apog-apbetro-amg
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG im Apothekenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG im Apothekenrecht."
 ---
 
 # Livecheck ApoG ApBetrO AMG

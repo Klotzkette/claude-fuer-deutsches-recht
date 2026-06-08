@@ -1,6 +1,6 @@
 ---
 name: satellitenkonstellation-wettbewerbsrecht-und-marktabsc
-description: "Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht im Weltraumrecht."
 ---
 
 # Weltraumrecht: Satellitenkonstellation: Wettbewerbsrecht und Marktabschottung

@@ -1,6 +1,6 @@
 ---
 name: fusion-vereine
-description: "Prüft Zusammenschluss, Vermögensübertragung, Mitgliederzustimmung, Satzungen und Registerpfad im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zusammenschluss, Vermögensübertragung, Mitgliederzustimmung, Satzungen und Registerpfad im Vereinsrecht Vereinsmanager."
 ---
 
 # Fusion und Zusammenschluss

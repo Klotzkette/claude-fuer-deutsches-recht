@@ -1,6 +1,6 @@
 ---
 name: dashboard-practice-group
-description: "Visualisiert Umsatz, UBT, Utilization, Marge, Pipeline und Headcount. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Visualisiert Umsatz, UBT, Utilization, Marge, Pipeline und Headcount. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Practice Group Dashboard

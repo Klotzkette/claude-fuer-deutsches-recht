@@ -1,6 +1,6 @@
 ---
 name: online-pruefung-identitaet
-description: "Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage im Pruefungsrecht Hochschule."
 ---
 
 # Online-Prüfung und Identität

@@ -1,6 +1,6 @@
 ---
 name: lehrverpflichtung-deputat
-description: "Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lehrdeputat, Ermäßigung, Forschungssemester und Kapazitätsfolgen im Hochschulrecht Länder."
 ---
 
 # Lehrverpflichtung und Deputat

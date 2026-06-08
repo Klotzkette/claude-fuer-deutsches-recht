@@ -1,15 +1,9 @@
 ---
 name: vereinsrecht-zweckaenderung-satzung
-description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Vereinsrecht Vereinsmanager."
 ---
 
 # Zweckaenderung Satzung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zweckaenderung` | Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zweckaenderung`
 

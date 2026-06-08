@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-sonderfall-und-edge-case
-description: "Berufsrecht: Sonderfall und Edge-Case-Prüfung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufsrecht: Sonderfall und Edge-Case-Prüfung im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
 ---
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung

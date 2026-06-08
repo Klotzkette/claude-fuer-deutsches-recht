@@ -1,6 +1,6 @@
 ---
 name: betreuer-registrierung-betreuung
-description: "Betreuer Als Erbe: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betreuer Als Erbe: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Betreuungsrecht."
 ---
 
 # Betreuer als Erbe und Beschenkter

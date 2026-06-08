@@ -1,19 +1,9 @@
 ---
 name: meldung-saechsdsb-tlfdi-uld-sh
-description: "DSV Meldung Saechsdsb Tlfdi ULD SH im Datenschutzrecht: prüft konkret Reicht eine Meldung nach Art, Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DSV Meldung Saechsdsb Tlfdi ULD SH im Datenschutzrecht: prüft konkret Reicht eine Meldung nach Art, Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung."
 ---
 
 # DSV Meldung Saechsdsb Tlfdi ULD SH
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsv-meldung-saechsdsb` | Reicht eine Meldung nach Art. 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SächsDSDG / SächsDSUG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-meldung-tlfdi` | Reicht eine Meldung nach Art. 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus ThürDSG Thüringer Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-meldung-uld-sh` | Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Schleswig-Holstein; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-nachmeldung-aktualisierung-art-33-abs-4` | Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur Strafanzeige; Schluss der Meldung. Output: Nachmeldungs-Schreiben mit Bezug auf Aktenzeichen der Erstmeldung. Abgrenzung: keine neue Erstmeldung. |
-| `dsv-risikobewertung-edsa-leitlinie` | Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch. Behandelt: Beispielfallgruppen Ransomware; Datenexfiltration; Insider; Verlust; Fehlversand; soziale Ingenieurkunst; jeweils mit Schwere-Schwellen für Meldepflicht Art. 33 DSGVO und Benachrichtigungspflicht Art. 34 DSGVO. Output: strukturierte Bewertung mit Bezug auf konkrete Beispielfallgruppe und begründeter Empfehlung Meldung Ja/Nein und Benachrichtigung Ja/Nein. Abgrenzung: keine Behördenmeldung; keine ENISA-Methodik. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "DSV Meldung Saechsdsb Tlfdi ULD SH im Datenschutzrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsv-meldung-saechsdsb`
 

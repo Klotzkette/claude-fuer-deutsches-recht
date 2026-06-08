@@ -1,6 +1,6 @@
 ---
 name: schule-ordnungsmassnahme-schwerbehinderung
-description: "Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme im Bürokratie-Entbürokratisierung."
 ---
 
 # Schule Ordnungsmaßnahme

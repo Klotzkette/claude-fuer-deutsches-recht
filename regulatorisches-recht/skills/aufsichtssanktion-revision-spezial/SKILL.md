@@ -1,6 +1,6 @@
 ---
 name: aufsichtssanktion-revision-spezial
-description: "Revisionsverfahren gegen Aufsichtssanktion: BaFin-Verfuegung, BNetzA-Verfuegung. Widerspruch, Anfechtungsklage Verwaltungsgericht, Kostenrisiko. Pruefraster zur Erfolgsprognose und strategische Optionen (Vergleich, Verfahrensmaengel). Mustertexte für Klageschrift im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Revisionsverfahren gegen Aufsichtssanktion: BaFin-Verfuegung, BNetzA-Verfuegung. Widerspruch, Anfechtungsklage Verwaltungsgericht, Kostenrisiko. Pruefraster zur Erfolgsprognose und strategische Optionen (Vergleich, Verfahrensmaengel). Mustertexte für Klageschrift im Regulatorisches Recht."
 ---
 
 # Aufsichtssanktion: Revision

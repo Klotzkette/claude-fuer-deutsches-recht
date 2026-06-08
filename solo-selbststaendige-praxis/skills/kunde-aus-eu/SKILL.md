@@ -1,6 +1,6 @@
 ---
 name: kunde-aus-eu
-description: "Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Internationales und Auslandskunden: Prüft umsatzsteuer

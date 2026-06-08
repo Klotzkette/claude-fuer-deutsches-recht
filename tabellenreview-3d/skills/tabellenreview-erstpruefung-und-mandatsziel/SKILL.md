@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-erstpruefung-und-mandatsziel
-description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel im Plugin tabellenreview 3d im Tabellenreview 3d."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: training-material
-description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen im Handelsvertreterrecht."
 ---
 
 # Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB

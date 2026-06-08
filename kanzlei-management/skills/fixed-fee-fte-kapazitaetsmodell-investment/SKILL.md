@@ -1,6 +1,6 @@
 ---
 name: fixed-fee-fte-kapazitaetsmodell-investment
-description: "Macht Festpreise mit Scope, Exclusions, Change Request und Marge beherrschbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht Festpreise mit Scope, Exclusions, Change Request und Marge beherrschbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Fixed Fee profitabel machen

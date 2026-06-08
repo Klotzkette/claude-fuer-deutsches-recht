@@ -1,6 +1,6 @@
 ---
 name: einziehung-und-verfall-pruefen
-description: "Ordnungswidrigkeitenrecht: Einziehung und Verfall prüfen. Einziehung und Verfall prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Einziehung und Verfall prüfen. Einziehung und Verfall prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Einziehung Und Verfall Pruefen

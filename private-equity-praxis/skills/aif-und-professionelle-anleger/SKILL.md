@@ -1,6 +1,6 @@
 ---
 name: aif-und-professionelle-anleger
-description: "Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten im Private Equity Praxis."
 ---
 
 # Spezial-AIF: professionelle und semiprofessionelle Anleger

@@ -1,6 +1,6 @@
 ---
 name: handelsbuecher-paragraph-handelsgeschaefte
-description: "Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Buchführungspflicht, Handelsbriefe, Belegfunktion und Prozessbeweis im Handelsrecht Hgb."
 ---
 
 # Handelsbücher § 238 HGB

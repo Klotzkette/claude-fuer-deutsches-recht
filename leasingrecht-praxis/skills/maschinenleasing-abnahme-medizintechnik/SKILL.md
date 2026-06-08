@@ -1,6 +1,6 @@
 ---
 name: maschinenleasing-abnahme-medizintechnik
-description: "Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maschinenleasing: Abnahmeprozess, Wartungsverantwortung, Stillstandsrisiko, Mängelrechte und Rückgabe im Leasingrecht."
 ---
 
 # Maschinenleasing: Abnahme, Wartung und Stillstand

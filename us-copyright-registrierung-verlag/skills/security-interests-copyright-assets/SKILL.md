@@ -1,6 +1,6 @@
 ---
 name: security-interests-copyright-assets
-description: "Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sicherheiten an Copyrights, UCC/recordation Schnittstelle, Kreditverträge, Catalog Finance und Insolvenzrisiken im Us Copyright Registrierung Verlag."
 ---
 
 # Security Interests in Copyright Assets

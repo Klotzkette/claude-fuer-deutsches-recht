@@ -1,6 +1,6 @@
 ---
 name: ordnungsmassnahmen-anhoerung
-description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit im Schulrecht Länder."
 ---
 
 # Ordnungsmaßnahmen Anhörung

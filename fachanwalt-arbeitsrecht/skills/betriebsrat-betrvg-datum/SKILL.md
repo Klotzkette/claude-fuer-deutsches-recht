@@ -1,17 +1,9 @@
 ---
 name: betriebsrat-betrvg-datum
-description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft konkret Betriebsrat, BetrVG, Datum, Formular. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft konkret Betriebsrat, BetrVG, Datum, Formular."
 ---
 
 # Betriebsrat Betrvg Datum
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-betriebsrat-zahlen-schwellen-und-berechnung` | Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen §§ 9 und 38 BetrVG, Wahlrecht § 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender. |
-| `spezial-betrvg-behoerden-gericht-und-registerweg` | BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer. |
-| `spezial-datum-formular-portal-und-einreichung` | Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-betriebsrat-zahlen-schwellen-und-berechnung`
 

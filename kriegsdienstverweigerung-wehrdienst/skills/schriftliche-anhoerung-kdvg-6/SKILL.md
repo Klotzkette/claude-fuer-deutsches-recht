@@ -1,6 +1,6 @@
 ---
 name: schriftliche-anhoerung-kdvg-6
-description: "Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Schriftliche Anhörung § 6 KDVG

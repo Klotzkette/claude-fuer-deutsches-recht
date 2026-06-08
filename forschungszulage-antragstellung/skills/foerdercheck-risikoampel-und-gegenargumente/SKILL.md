@@ -1,6 +1,6 @@
 ---
 name: foerdercheck-risikoampel-und-gegenargumente
-description: "Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien

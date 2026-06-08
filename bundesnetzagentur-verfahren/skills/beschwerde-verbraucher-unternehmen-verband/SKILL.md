@@ -1,6 +1,6 @@
 ---
 name: beschwerde-verbraucher-unternehmen-verband
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband im BNetzA-Verfahren."
 ---
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband

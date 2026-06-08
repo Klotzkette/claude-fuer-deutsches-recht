@@ -1,6 +1,6 @@
 ---
 name: polizei-vorladung-beschuldigter
-description: "Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion im Bürokratie-Entbürokratisierung."
 ---
 
 # Polizei-Vorladung als Beschuldigter

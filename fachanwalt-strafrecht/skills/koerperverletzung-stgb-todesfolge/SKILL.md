@@ -1,24 +1,9 @@
 ---
 name: koerperverletzung-stgb-todesfolge
-description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129, Kreditbetrug § 265b StGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129, Kreditbetrug § 265b StGB."
 ---
 
 # Koerperverletzung Stgb Todesfolge
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-koerperverletzung-223-stgb-grund` | Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung. |
-| `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` | Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB. |
-| `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege` | Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien für den Anfechtungsgegner. |
-| `strafrecht-spezial-kreditbetrug-265b-stgb` | Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo für Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse. |
-| `strafrecht-spezial-kriminologie-deliktphaenomenologie` | Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug für kontextsensitive Strafzumessungsargumentation. |
-| `strafrecht-spezial-kriminologie-grundlagen-und-praxis` | Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug für Schlussvortrag mit kriminologischen Argumenten. |
-| `strafrecht-spezial-kriminologie-opferpsychologie` | Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung für aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin. |
-| `strafrecht-spezial-kriminologie-rueckfallprognose` | Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik für Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung. |
-| `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi` | Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung für Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug für Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung. |
-| `strafrecht-spezial-markenrecht-143-markeng` | Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes öffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-koerperverletzung-223-stgb-grund`
 

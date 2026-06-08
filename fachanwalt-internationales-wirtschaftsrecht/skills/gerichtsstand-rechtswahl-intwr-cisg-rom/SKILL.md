@@ -1,17 +1,9 @@
 ---
 name: gerichtsstand-rechtswahl-intwr-cisg-rom
-description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtschaftsrecht: prüft konkrete Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtschaftsrecht: prüft konkrete Prüfungslinie für gerichtsstand und rechtswahl pruefen, Pruefraster CISG / UN-Kaufrecht, Leitfaden Rom I und Rom II."
 ---
 
 # Gerichtsstand Rechtswahl Intwr CISG ROM
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gerichtsstand-und-rechtswahl-pruefen` | Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht. |
-| `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster für Rechtswahl und gewoehnlicher Aufenthalt. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Gerichtsstand Rechtswahl Intwr CISG ROM im Internationalen Wirtsch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gerichtsstand-und-rechtswahl-pruefen`
 

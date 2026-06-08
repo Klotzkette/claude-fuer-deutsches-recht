@@ -1,6 +1,6 @@
 ---
 name: steuerberater-mandantenentscheidung
-description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Steuerberater: Mandantenkommunikation und Entscheidungsvorlage

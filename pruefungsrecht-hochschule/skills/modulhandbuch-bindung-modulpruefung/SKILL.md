@@ -1,6 +1,6 @@
 ---
 name: modulhandbuch-bindung-modulpruefung
-description: "Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz im Pruefungsrecht Hochschule."
 ---
 
 # Modulhandbuch und Bindungswirkung

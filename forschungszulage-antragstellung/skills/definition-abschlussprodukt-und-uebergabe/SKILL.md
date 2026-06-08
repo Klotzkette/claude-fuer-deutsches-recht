@@ -1,6 +1,6 @@
 ---
 name: definition-abschlussprodukt-und-uebergabe
-description: "Definition: Abschlussprodukt und Übergabe im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Definition: Abschlussprodukt und Übergabe im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Definition: Abschlussprodukt und Übergabe

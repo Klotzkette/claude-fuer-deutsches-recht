@@ -1,6 +1,6 @@
 ---
 name: lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn
-description: "Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten im Leasingrecht."
 ---
 
 # Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer

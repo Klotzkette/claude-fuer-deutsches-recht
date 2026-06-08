@@ -1,6 +1,6 @@
 ---
 name: enterprise-license-metrics
-description: "Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls im Softwarerecht De Eu Us."
 ---
 
 # Enterprise-Lizenzmetriken

@@ -1,6 +1,6 @@
 ---
 name: design-und-urheberrecht-angewandte-kunst
-description: "Schnittstelle Designrecht und Urheberrecht bei angewandter Kunst prüfen: Designschutz, Werkqualität, Doppelschutz, Schutzdauer und prozessuale Vorteile im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittstelle Designrecht und Urheberrecht bei angewandter Kunst prüfen: Designschutz, Werkqualität, Doppelschutz, Schutzdauer und prozessuale Vorteile im Designrecht Geschmacksmusterrecht."
 ---
 
 # Design Und Urheberrecht Angewandte Kunst

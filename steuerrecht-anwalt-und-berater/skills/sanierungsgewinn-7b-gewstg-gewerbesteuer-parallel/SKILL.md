@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel
-description: "§ 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "§ 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken im Steuerrecht Anwalt Und Berater."
 ---
 
 # § 7b GewStG — Gewerbesteuer-Befreiung Sanierung

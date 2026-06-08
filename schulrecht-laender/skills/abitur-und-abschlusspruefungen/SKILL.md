@@ -1,6 +1,6 @@
 ---
 name: abitur-und-abschlusspruefungen
-description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schulische Abschlussprüfungen und Abitur im Schulrecht Länder."
 ---
 
 # Abitur Und Abschlusspruefungen

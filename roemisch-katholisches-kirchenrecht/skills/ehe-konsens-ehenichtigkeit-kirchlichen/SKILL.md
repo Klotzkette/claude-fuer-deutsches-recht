@@ -1,6 +1,6 @@
 ---
 name: ehe-konsens-ehenichtigkeit-kirchlichen
-description: "Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Ehe: Konsens, Form und Hindernisse

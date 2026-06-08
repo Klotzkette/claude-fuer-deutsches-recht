@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-zustaendigkeit-prue-frist-setzen
-description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Landespressegesetz Zuständigkeit Prue

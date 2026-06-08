@@ -1,6 +1,6 @@
 ---
 name: menschenrechte-ueberwachung
-description: "Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Menschenrechte und Überwachung durch Satelliten

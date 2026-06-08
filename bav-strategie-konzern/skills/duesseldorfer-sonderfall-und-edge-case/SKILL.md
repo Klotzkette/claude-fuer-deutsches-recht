@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-sonderfall-und-edge-case
-description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern im Bav Strategie Konzern."
 ---
 
 # Duesseldorfer: Sonderfall und Edge-Case-Prüfung

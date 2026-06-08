@@ -1,17 +1,9 @@
 ---
 name: gegendarstellung-presse-mod-erklaerung
-description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellung Pressefreiheit § 11 BlnPresseG analog, Modifizierte Unterlassungserklärung als Alternative zur, Urheber- und Medienrechtsmandat einordnen und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellung Pressefreiheit § 11 BlnPresseG analog, Modifizierte Unterlassungserklärung als Alternative zur, Urheber- und Medienrechtsmandat einordnen und."
 ---
 
 # Gegendarstellung Presse MOD Erklaerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Prüfung Schriftsatz Klage. |
-| `fachanwalt-urheber-medienrecht-mod-erklaerung` | Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen). |
-| `fachanwalt-urheber-medienrecht-orientierung` | Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-urheber-medienrecht-gegendarstellung-presse`
 

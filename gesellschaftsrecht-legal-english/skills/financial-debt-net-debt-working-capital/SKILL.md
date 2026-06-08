@@ -1,6 +1,6 @@
 ---
 name: financial-debt-net-debt-working-capital
-description: "Prueft Financial Debt, Net Debt, Cash Free Debt Free, Working Capital, Debt-like Items und Kaufpreisformel im M&A-Kontext im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Financial Debt, Net Debt, Cash Free Debt Free, Working Capital, Debt-like Items und Kaufpreisformel im M&A-Kontext im Gesellschaftsrecht Legal English."
 ---
 
 # Financial Debt, Net Debt und Working Capital

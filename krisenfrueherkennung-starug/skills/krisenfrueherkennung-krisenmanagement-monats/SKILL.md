@@ -1,6 +1,6 @@
 ---
 name: krisenfrueherkennung-krisenmanagement-monats
-description: "Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel

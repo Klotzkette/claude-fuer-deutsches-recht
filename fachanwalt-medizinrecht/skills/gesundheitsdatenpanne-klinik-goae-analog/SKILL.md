@@ -1,18 +1,9 @@
 ---
 name: gesundheitsdatenpanne-klinik-goae-analog
-description: "Gesundheitsdatenpanne Klinik Goae Analog im Medizinrecht: prüft konkret Gesundheitsdatenpanne Klinik, GOÄ analog bei Innovation, Grenzüberschreitende Behandlung EU, Hämovigilanz und Blutprodukt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesundheitsdatenpanne Klinik Goae Analog im Medizinrecht: prüft konkret Gesundheitsdatenpanne Klinik, GOÄ analog bei Innovation, Grenzüberschreitende Behandlung EU, Hämovigilanz und Blutprodukt."
 ---
 
 # Gesundheitsdatenpanne Klinik Goae Analog
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gesundheitsdatenpanne-klinik` | Gesundheitsdatenpanne Klinik: moderner Medizinrechts-Skill für Fehlversand Arztbrief, Portalzugriff, Ransomware, Meldung, Benachrichtigung und Schadensersatz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `goae-analog-innovativ` | GOÄ analog bei Innovation: moderner Medizinrechts-Skill für Neue Methode, Analogbewertung, Steigerungssatz, Begründung und Versicherungsstreit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `grenzueberschreitende-behandlung-eu` | Grenzüberschreitende Behandlung EU: moderner Medizinrechts-Skill für Auslandsbehandlung, Richtlinie 2011/24/EU, Erstattung, Haftungsstatut und Beweis. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `haemovigilanz-blutprodukt` | Hämovigilanz und Blutprodukt: moderner Medizinrechts-Skill für Transfusion, Verwechslung, Infektion, Chargenfreigabe, Rückverfolgung und PEI-Meldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Gesundheitsdatenpanne Klinik Goae Analog im Medizinrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gesundheitsdatenpanne-klinik`
 

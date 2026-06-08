@@ -1,6 +1,6 @@
 ---
 name: engagement-letter-scope
-description: "Engagement Letter und Scope: steuert Mandatsvereinbarung, Scope, Out-of-Scope, Teams, Kommunikationskanäle und Abnahme zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Engagement Letter und Scope: steuert Mandatsvereinbarung, Scope, Out-of-Scope, Teams, Kommunikationskanäle und Abnahme zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Engagement Letter und Scope

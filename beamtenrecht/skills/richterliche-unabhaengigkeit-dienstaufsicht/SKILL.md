@@ -1,6 +1,6 @@
 ---
 name: richterliche-unabhaengigkeit-dienstaufsicht
-description: "Richterliche Unabhängigkeit, Dienstaufsicht, Ermahnung, Geschäftsprüfung und unzulässige Einflussnahme im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterliche Unabhängigkeit, Dienstaufsicht, Ermahnung, Geschäftsprüfung und unzulässige Einflussnahme im Beamtenrecht."
 ---
 
 # Richterliche Unabhaengigkeit Dienstaufsicht

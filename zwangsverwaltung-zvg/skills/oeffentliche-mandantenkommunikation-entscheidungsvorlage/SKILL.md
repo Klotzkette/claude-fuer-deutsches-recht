@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-mandantenkommunikation-entscheidungsvorlage
-description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage

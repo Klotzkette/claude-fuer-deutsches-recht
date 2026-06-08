@@ -1,6 +1,6 @@
 ---
 name: neu-012-notverordnungen-und-verfassungskrise-weimar
-description: "Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 012 Notverordnungen Und Verfassungskrise Weimar

@@ -1,6 +1,6 @@
 ---
 name: builder-zahlen-schwellen-und-berechnung
-description: "Builder: Zahlen, Schwellenwerte und Berechnung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Builder: Zahlen, Schwellenwerte und Berechnung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Builder: Zahlen, Schwellenwerte und Berechnung

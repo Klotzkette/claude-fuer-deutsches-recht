@@ -1,21 +1,9 @@
 ---
 name: term-sheet
-description: "Term Sheet im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Investment Teaser Information Memorandum und, Term-Sheet-to-SPA-Bridge, Multi-Jurisdiction-Koordination und Übersetzungen in, Transparenzregister- und UBO-Chain-Check für M&A. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Term Sheet im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Investment Teaser Information Memorandum und, Term-Sheet-to-SPA-Bridge, Multi-Jurisdiction-Koordination und Übersetzungen in, Transparenzregister- und UBO-Chain-Check für M&A."
 ---
 
 # Term Sheet
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `grosskanzlei-corporate-ma-teaser-im-processdocs` | Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation. |
-| `grosskanzlei-corporate-ma-term-sheet-to-spa-bridge` | Term-Sheet-to-SPA-Bridge: uebersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen. |
-| `grosskanzlei-corporate-ma-translations-multijurisdictional` | Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Ländern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Prüfraster lokale Counsel-Matrix, Fragen standardisieren, Rechtsvergleich anstellen, Widersprueche eskalieren, Übersetzungen als Arbeitsuebersetzung kennzeichnen. Output Multi-Jurisdiction-Matrix mit Status je Land und Cross-border-Hinweisen. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Transaktionsstruktur. |
-| `grosskanzlei-corporate-ma-transparenzregister-ubo-chain` | Transparenzregister- und UBO-Chain-Check für M&A: prueft wirtschaftlich Berechtigte, Kontrollketten, PEP-/Sanktionsschnittstellen und Dokumentationsbedarf. |
-| `grosskanzlei-corporate-ma-vendor-due-diligence-vdd` | Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Pruefung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation. |
-| `grosskanzlei-corporate-ma-warranty-catalogue-negotiation` | Warranty Catalogue Negotiation: baut und prueft Garantiepakete für Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts. |
-| `grosskanzlei-corporate-ma-weakness-diagnostic-coach` | Schwaechen-Diagnose-Coach für Deal-Arbeit: erkennt juristisch duenne Argumente, fehlende Fakten, falsche Begriffe, zu schwache Klauseln, unklare Risiken und baut daraus einen konkreten Verbesserungsplan. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Term Sheet im Corporate/M&A (Großkanzlei-Praxis): prüft konkret 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `grosskanzlei-corporate-ma-teaser-im-processdocs`
 

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-pruefungsdaten-drittversuch
-description: "Prüft Datenschutz bei Prüfungsdaten im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenschutz bei Prüfungsdaten im Pruefungsrecht Hochschule."
 ---
 
 # Datenschutz Pruefungsdaten

@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz
-description: "Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Arbeitsschutz-Hinweise und Eskalation im Hinweisgeberschutz Compliance."
 ---
 
 # Arbeitsschutz

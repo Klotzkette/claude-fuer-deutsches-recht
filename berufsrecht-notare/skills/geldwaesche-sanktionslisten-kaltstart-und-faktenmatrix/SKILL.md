@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionslisten-kaltstart-und-faktenmatrix
-description: "Notare: geldwaesche sanktionslisten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: geldwaesche sanktionslisten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: geldwaesche sanktionslisten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-teilloesung-rangfreigabe
-description: "Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Teilflächen, Freigabeerklärung, Rangwirkung, Bankbrief und Vollzug im Grundbuchamt Praxis."
 ---
 
 # Teillöschung und Rangfreigabe

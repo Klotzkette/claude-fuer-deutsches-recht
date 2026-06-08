@@ -1,6 +1,6 @@
 ---
 name: education-distance-learning-110
-description: "Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen im Us Copyright Registrierung Verlag."
 ---
 
 # Education und Distance Learning § 110

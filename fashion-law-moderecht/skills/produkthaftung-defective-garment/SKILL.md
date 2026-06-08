@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-defective-garment
-description: "Produkthaftung und Haftung für mangelhafte Modeartikel prüfen: Verletzungsrisiken, Kinderkleidung, Accessoires, Warnhinweise, Rückruf und Versicherung im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produkthaftung und Haftung für mangelhafte Modeartikel prüfen: Verletzungsrisiken, Kinderkleidung, Accessoires, Warnhinweise, Rückruf und Versicherung im Fashion Law Moderecht."
 ---
 
 # Produkt Haftung Defective Garment

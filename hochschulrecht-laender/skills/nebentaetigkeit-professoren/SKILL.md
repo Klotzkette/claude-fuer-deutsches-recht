@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-professoren
-description: "Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten im Hochschulrecht Länder."
 ---
 
 # Nebentätigkeit Professorinnen und Professoren

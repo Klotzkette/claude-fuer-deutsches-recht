@@ -1,6 +1,6 @@
 ---
 name: travel-rule-krypto-transfers
-description: "Travel Rule für Krypto-Transfers prüfen: Auftraggeber-/Begünstigtendaten, CASP-Pflichten, Wallets, unhosted Wallets, Screening, Ablehnung, Monitoring und Kundenkommunikation im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Travel Rule für Krypto-Transfers prüfen: Auftraggeber-/Begünstigtendaten, CASP-Pflichten, Wallets, unhosted Wallets, Screening, Ablehnung, Monitoring und Kundenkommunikation im Bank-Rechtsabteilung."
 ---
 
 # Travel Rule Krypto

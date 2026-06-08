@@ -1,6 +1,6 @@
 ---
 name: veranstaltung-planen
-description: "Prüft Genehmigungen, Sicherheit, GEMA, Ausschank, Jugendschutz, Datenschutz, Versicherung und Verträge im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Genehmigungen, Sicherheit, GEMA, Ausschank, Jugendschutz, Datenschutz, Versicherung und Verträge im Vereinsrecht Vereinsmanager."
 ---
 
 # Veranstaltung planen

@@ -1,6 +1,6 @@
 ---
 name: internal-investigation
-description: "Steuert interne Untersuchung praktisch im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert interne Untersuchung praktisch im Hinweisgeberschutz Compliance."
 ---
 
 # Internal Investigation

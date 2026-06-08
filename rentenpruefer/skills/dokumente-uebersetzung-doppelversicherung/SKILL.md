@@ -1,6 +1,6 @@
 ---
 name: dokumente-uebersetzung-doppelversicherung
-description: "Ausländische Dokumente: Übersetzung, Apostille, Legalisation, Originalnachweis, Namensabweichungen und Archivbeschaffung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ausländische Dokumente: Übersetzung, Apostille, Legalisation, Originalnachweis, Namensabweichungen und Archivbeschaffung im Rentenpruefer."
 ---
 
 # dokumente-uebersetzung-apostille-legalisation

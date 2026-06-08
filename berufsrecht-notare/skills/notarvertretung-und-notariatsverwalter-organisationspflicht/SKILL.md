@@ -1,6 +1,6 @@
 ---
 name: notarvertretung-und-notariatsverwalter-organisationspflicht
-description: "Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

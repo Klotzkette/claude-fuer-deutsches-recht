@@ -1,6 +1,6 @@
 ---
 name: datenraum-und-trade-secrets-kammerantwort
-description: "Patentanwälte: datenraum und trade secrets - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: datenraum und trade secrets - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: datenraum und trade secrets - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

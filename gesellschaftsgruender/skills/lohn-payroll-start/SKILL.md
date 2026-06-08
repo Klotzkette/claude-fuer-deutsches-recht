@@ -1,6 +1,6 @@
 ---
 name: lohn-payroll-start
-description: "Prüft erste Beschäftigte, Minijob, SV-Meldung, Lohnkonto, BG und Arbeitsverträge im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft erste Beschäftigte, Minijob, SV-Meldung, Lohnkonto, BG und Arbeitsverträge im Gesellschaftsgruender."
 ---
 
 # Payroll und erste Mitarbeitende

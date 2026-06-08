@@ -1,16 +1,9 @@
 ---
 name: ki-medizinprodukt-klinische-ctr
-description: "KI Medizinprodukt Klinische CTR im Medizinrecht: prüft konkret KI-Medizinprodukt High-Risk, Klinische Prüfung CTR/AMG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "KI Medizinprodukt Klinische CTR im Medizinrecht: prüft konkret KI-Medizinprodukt High-Risk, Klinische Prüfung CTR/AMG."
 ---
 
 # KI Medizinprodukt Klinische CTR
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ki-medizinprodukt-highrisk` | KI-Medizinprodukt High-Risk: moderner Medizinrechts-Skill für KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `klinische-pruefung-ctr-amg` | Klinische Prüfung CTR/AMG: moderner Medizinrechts-Skill für Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "KI Medizinprodukt Klinische CTR im Medizinrecht: prüft konkret KI
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ki-medizinprodukt-highrisk`
 

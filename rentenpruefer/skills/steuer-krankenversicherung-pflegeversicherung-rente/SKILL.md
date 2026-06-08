@@ -1,6 +1,6 @@
 ---
 name: steuer-krankenversicherung-pflegeversicherung-rente
-description: "Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente im Rentenpruefer."
 ---
 
 # steuer-krankenversicherung-pflegeversicherung-rente

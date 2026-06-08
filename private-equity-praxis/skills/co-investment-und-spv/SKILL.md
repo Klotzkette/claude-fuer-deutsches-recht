@@ -1,6 +1,6 @@
 ---
 name: co-investment-und-spv
-description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte im Private Equity Praxis."
 ---
 
 # Co-Investment und SPV-Struktur

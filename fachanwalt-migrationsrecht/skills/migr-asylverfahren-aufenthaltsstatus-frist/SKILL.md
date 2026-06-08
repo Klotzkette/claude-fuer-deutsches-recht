@@ -1,18 +1,9 @@
 ---
 name: migr-asylverfahren-aufenthaltsstatus-frist
-description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: prüft konkret Leitfaden Asylverfahren und Anhörung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche, Aufenthaltstitel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: prüft konkret Leitfaden Asylverfahren und Anhörung BAMF, Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche, Aufenthaltstitel."
 ---
 
 # Migr Asylverfahren Aufenthaltsstatus Frist
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `migr-asylverfahren-anhoerung-leitfaden` | Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund. |
-| `spezial-aufenthaltsstatus-frist-und-rechtsmittel` | Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-aufenthaltstitel-fristennotiz-und-naechster-schritt` | Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-aufenthg-fristen-form-und-zuständigkeit` | Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Migr Asylverfahren Aufenthaltsstatus Frist im Migrationsrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `migr-asylverfahren-anhoerung-leitfaden`
 
@@ -128,7 +119,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-aufenthaltstitel-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht.
 
 ### Aufenthaltstitel: Fristennotiz und nächster Schritt
 
@@ -160,7 +151,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-aufenthg-fristen-form-und-zuständigkeit`
 
-**Fokus:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht.
 
 ### Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
 

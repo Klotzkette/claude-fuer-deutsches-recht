@@ -1,6 +1,6 @@
 ---
 name: prior-art-fehler-und-meldepflicht-organisationsp
-description: "Patentanwälte: prior art fehler und meldepflicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: prior art fehler und meldepflicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: prior art fehler und meldepflicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

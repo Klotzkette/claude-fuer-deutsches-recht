@@ -1,6 +1,6 @@
 ---
 name: sammelanmeldung-locarno-schutzgegenstand
-description: "Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung im Designrecht Geschmacksmusterrecht."
 ---
 
 # Sammelanmeldung Und Locarno Klasse

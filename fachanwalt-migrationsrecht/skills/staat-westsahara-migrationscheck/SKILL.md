@@ -1,18 +1,9 @@
 ---
 name: staat-westsahara-migrationscheck
-description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern, GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Westsahara, Staaten- und Gebietscheck Zentralafrikanische Republik, Staaten- und Gebietscheck Zypern, GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung."
 ---
 
 # Staat Westsahara Migrationscheck
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `staat-westsahara-migrationscheck` | Staaten- und Gebietscheck Westsahara: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-zentralafrikanische-republik-migrationscheck` | Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-zypern-migrationscheck` | Staaten- und Gebietscheck Zypern: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` | GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Eilantrag Identitätsprüfung Verfahrensgarantien. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Staat Westsahara Migrationscheck im Migrationsrecht: prüft konkre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `staat-westsahara-migrationscheck`
 

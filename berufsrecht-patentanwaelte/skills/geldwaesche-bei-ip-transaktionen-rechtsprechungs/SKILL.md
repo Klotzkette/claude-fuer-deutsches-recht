@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-bei-ip-transaktionen-rechtsprechungs
-description: "Patentanwälte: geldwaesche bei ip transaktionen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: geldwaesche bei ip transaktionen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: geldwaesche bei ip transaktionen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

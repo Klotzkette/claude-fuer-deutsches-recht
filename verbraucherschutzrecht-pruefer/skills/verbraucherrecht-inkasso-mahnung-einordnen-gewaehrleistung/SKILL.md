@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-inkasso-mahnung-einordnen-gewaehrleistung
-description: "Verbraucherschutzrecht Prüfer: Inkasso und Mahnung einordnen. Inkasso und Mahnung einordnen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Inkasso und Mahnung einordnen. Inkasso und Mahnung einordnen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Inkasso Und Mahnung Einordnen

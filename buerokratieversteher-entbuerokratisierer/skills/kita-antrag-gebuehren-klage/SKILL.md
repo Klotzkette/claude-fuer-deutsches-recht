@@ -1,6 +1,6 @@
 ---
 name: kita-antrag-gebuehren-klage
-description: "Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung im Bürokratie-Entbürokratisierung."
 ---
 
 # Kita-Antrag

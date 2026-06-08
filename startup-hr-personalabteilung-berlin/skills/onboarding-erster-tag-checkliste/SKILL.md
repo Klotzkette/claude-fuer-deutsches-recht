@@ -1,6 +1,6 @@
 ---
 name: onboarding-erster-tag-checkliste
-description: "Berliner Start-up-HR: Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Onboarding Erster Tag Checkliste

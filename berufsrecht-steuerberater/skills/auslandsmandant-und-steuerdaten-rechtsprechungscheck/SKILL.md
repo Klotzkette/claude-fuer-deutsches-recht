@@ -1,6 +1,6 @@
 ---
 name: auslandsmandant-und-steuerdaten-rechtsprechungscheck
-description: "Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

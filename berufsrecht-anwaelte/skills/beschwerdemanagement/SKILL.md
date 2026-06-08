@@ -1,6 +1,6 @@
 ---
 name: beschwerdemanagement
-description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Anwälte; prüft Beschwerdemanagement im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschwerdemanagement: vertiefter Berufsrechts-Skill für Anwälte; prüft Beschwerdemanagement im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Beschwerdemanagement

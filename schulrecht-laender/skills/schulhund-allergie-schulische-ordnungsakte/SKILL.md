@@ -1,6 +1,6 @@
 ---
 name: schulhund-allergie-schulische-ordnungsakte
-description: "Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulhundkonzept, Allergien, Angst, Aufsicht, Versicherung und Elternrechte im Schulrecht Länder."
 ---
 
 # Schulhund, Allergie und Sicherheit

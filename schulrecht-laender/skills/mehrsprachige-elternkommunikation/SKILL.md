@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-elternkommunikation
-description: "Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Schulrecht verständlich für Familien mit Deutsch als Zweitsprache im Schulrecht Länder."
 ---
 
 # Mehrsprachige Elternkommunikation

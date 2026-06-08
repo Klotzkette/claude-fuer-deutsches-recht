@@ -1,6 +1,6 @@
 ---
 name: wochen-liquiditaetsplan
-description: "Solo-Selbstständige: erstellt realistischen Cashplan mit Steuern, Versicherungen und Zahlungslücken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt realistischen Cashplan mit Steuern, Versicherungen und Zahlungslücken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Pricing Liquidität und Wachstum: Erstellt realistischen cashplan mit steuern

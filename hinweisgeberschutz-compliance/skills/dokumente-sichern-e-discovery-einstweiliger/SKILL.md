@@ -1,6 +1,6 @@
 ---
 name: dokumente-sichern-e-discovery-einstweiliger
-description: "Sichert Unterlagen nach Eingang eines Hinweises im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Unterlagen nach Eingang eines Hinweises im Hinweisgeberschutz Compliance."
 ---
 
 # Dokumente Sichern

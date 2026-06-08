@@ -1,6 +1,6 @@
 ---
 name: financial-contract-safe-harbors
-description: "Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting im US Bankruptcy Code."
 ---
 
 # Financial Contract Safe Harbors

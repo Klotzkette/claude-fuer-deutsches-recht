@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-empfehlung-und-haftungsrisiko
-description: "Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung im Influencer-Recht."
 ---
 
 # Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko

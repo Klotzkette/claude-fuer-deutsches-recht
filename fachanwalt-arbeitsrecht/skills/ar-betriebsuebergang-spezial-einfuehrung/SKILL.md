@@ -1,17 +1,9 @@
 ---
 name: ar-betriebsuebergang-spezial-einfuehrung
-description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbeitsrecht: prüft konkret Betriebsübergang § 613a BGB im M&A-Kontext, Arbeitsrecht einführend, Leiharbeit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbeitsrecht: prüft konkret Betriebsübergang § 613a BGB im M&A-Kontext, Arbeitsrecht einführend, Leiharbeit."
 ---
 
 # AR Betriebsuebergang Spezial Einfuehrung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ar-betriebsuebergang-spezial` | Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität. |
-| `ar-einfuehrung-mandantenanliegen` | Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Fachmodule. Erstgesprächs-Checkliste. |
-| `ar-leiharbeit-equal-pay-spezial` | Leiharbeit: Equal-Pay-Anspruch § 8 AÜG, Überlassungshöchstdauer 18 Monate § 1 Abs. 1b AÜG, Verbot verdeckter Arbeitnehmerüberlassung, Arbeitsverhältnis kraft Gesetzes § 10 AÜG, Gleichbehandlungsgrundsatz und tarifliche Abweichungsmöglichkeit. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ar-betriebsuebergang-spezial`
 

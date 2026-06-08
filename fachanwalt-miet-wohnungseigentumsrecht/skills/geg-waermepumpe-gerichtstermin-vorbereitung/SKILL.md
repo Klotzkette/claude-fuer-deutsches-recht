@@ -1,19 +1,9 @@
 ---
 name: geg-waermepumpe-gerichtstermin-vorbereitung
-description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungseigentumsrecht: prüft konkret GEG/Wärmepumpe-Routing, Gerichtstermin Vorbereitung, Gewerberaum-Intake, Haustier-/Nachbarkonflikt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungseigentumsrecht: prüft konkret GEG/Wärmepumpe-Routing, Gerichtstermin Vorbereitung, Gewerberaum-Intake, Haustier-/Nachbarkonflikt."
 ---
 
 # GEG Waermepumpe Gerichtstermin Vorbereitung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-geg-waermepumpe-routing` | GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-gerichtstermin-vorbereitung` | Gerichtstermin Vorbereitung: Prüfungslinie für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-gewerberaum-intake` | Gewerberaum-Intake: Prüfungslinie für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-haustier-nachbar-konflikt` | Haustier-/Nachbarkonflikt: Prüfungslinie für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-hausverwaltung-intake` | Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "GEG Waermepumpe Gerichtstermin Vorbereitung im Miet- und Wohnungse
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-geg-waermepumpe-routing`
 

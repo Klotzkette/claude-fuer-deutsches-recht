@@ -1,6 +1,6 @@
 ---
 name: wohngeld
-description: "Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, Nachzahlung und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, Nachzahlung und Widerspruch im Bürokratie-Entbürokratisierung."
 ---
 
 # Wohngeld

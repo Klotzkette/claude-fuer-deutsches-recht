@@ -1,6 +1,6 @@
 ---
 name: polizei-in-der-schule
-description: "Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten im Schulrecht Länder."
 ---
 
 # Polizei in der Schule

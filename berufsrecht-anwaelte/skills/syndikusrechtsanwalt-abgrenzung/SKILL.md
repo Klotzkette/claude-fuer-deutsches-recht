@@ -1,6 +1,6 @@
 ---
 name: syndikusrechtsanwalt-abgrenzung
-description: "Anwälte: syndikusrechtsanwalt abgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: syndikusrechtsanwalt abgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: syndikusrechtsanwalt abgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,18 +1,9 @@
 ---
 name: richtlinien-entwurf-kueschk-grundwarnung
-description: "Richtlinien Entwurf Kueschk Grundwarnung im Plugin Arbeitsrecht: prüft konkret Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit st, Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Richtlinien Entwurf Kueschk Grundwarnung im Plugin Arbeitsrecht: prüft konkret Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit st, Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz."
 ---
 
 # Richtlinien Entwurf Kueschk Grundwarnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `richtlinien-entwurf` | Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt "Richtlinie entwerfen zu [Thema]", "wir brauchen eine Regelung zu" oder eine Regelungslücke benennt. |
-| `kueschk-grundwarnung-falsche-wiese-und-haftung` | Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt. |
-| `internationale-expansion` | Referenz-Skill: Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen; nicht direkt aufzurufen. |
-| `kueschk-abfindung-faustformel-und-spannweite` | Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht außer §§ 1a und 9 KSchG. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Richtlinien Entwurf Kueschk Grundwarnung im Plugin Arbeitsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `richtlinien-entwurf`
 
@@ -395,7 +386,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 3. `internationale-expansion`
 
-**Fokus:** Referenz-Skill: Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen; nicht direkt aufzurufen.
+**Fokus:** Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen.
 
 ### Internationale Expansion — Referenz-Skill (Arbeitsrecht)
 

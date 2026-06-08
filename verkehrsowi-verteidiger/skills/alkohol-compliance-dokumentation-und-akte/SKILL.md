@@ -1,6 +1,6 @@
 ---
 name: alkohol-compliance-dokumentation-und-akte
-description: "Alkohol: Compliance-Dokumentation und Aktenvermerk im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Alkohol: Compliance-Dokumentation und Aktenvermerk im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Alkohol: Compliance-Dokumentation und Aktenvermerk

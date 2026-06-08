@@ -1,6 +1,6 @@
 ---
 name: bankpflichten-beweislast-bgb
-description: "Bankpflichten: Beweislast, Darlegungslast und Substantiierung im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bankpflichten: Beweislast, Darlegungslast und Substantiierung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Bankpflichten: Beweislast, Darlegungslast und Substantiierung

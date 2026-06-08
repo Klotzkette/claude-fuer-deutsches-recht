@@ -1,15 +1,9 @@
 ---
 name: vifr-planfeststellung
-description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verkehr Infrastrukturrecht."
 ---
 
 # Vifr Planfeststellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vifr-planfeststellung-strasse-bauleiter` | Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss. Pruefraster für Vorhabentraeger und Einwender. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Vifr Planfeststellung im Verkehrs- und Infrastrukturrecht im Verke
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Planfeststellungsbeschluss, Erörterungsprotokoll, UVP-Bericht, FFH-Verträglichkeitsstudie, Einwendung, Klage zum BVerwG, Erlaubnis nach § 67 WHG — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vifr-planfeststellung-strasse-bauleiter`
 

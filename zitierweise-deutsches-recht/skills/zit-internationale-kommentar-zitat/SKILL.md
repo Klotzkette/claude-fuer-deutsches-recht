@@ -1,6 +1,6 @@
 ---
 name: zit-internationale-kommentar-zitat
-description: "Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Pruefraster für internationale Mandate im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Pruefraster für internationale Mandate im Zitierweise."
 ---
 
 # Zit: Internationale Urteile

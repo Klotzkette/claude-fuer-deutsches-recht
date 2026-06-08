@@ -1,17 +1,9 @@
 ---
 name: schuldenbereinigungsplan-quote-schuldnerin
-description: "Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Schuldenbereinigungsplan mit Quote, Schuldner mit Immobilie, Beendete Selbstständigkeit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Schuldenbereinigungsplan mit Quote, Schuldner mit Immobilie, Beendete Selbstständigkeit."
 ---
 
 # Schuldenbereinigungsplan Quote Schuldnerin
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `schuldenbereinigungsplan-quote` | Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `schuldnerin-mit-immobilie` | Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `selbststaendigkeit-beendet` | Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Schuldenbereinigungsplan Quote Schuldnerin im Plugin Verbraucherin
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `schuldenbereinigungsplan-quote`
 

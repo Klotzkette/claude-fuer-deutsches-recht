@@ -1,17 +1,9 @@
 ---
 name: trans-cmr-frachtbrief-hgb-spedition-kabotage
-description: "Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Checkliste CMR-Frachtbrief, Leitfaden HGB-Spedition §§ 453 ff, Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und."
 ---
 
 # Trans CMR Frachtbrief HGB Spedition Kabotage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `trans-cmr-frachtbrief-checkliste` | Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger. |
-| `trans-hgb-spedition-leitfaden` | Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber. |
-| `trans-kabotage-marktzugang-spezial` | Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht. Pruefraster Frachtfuehrer aus Drittstaat. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Trans CMR Frachtbrief HGB Spedition Kabotage im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `trans-cmr-frachtbrief-checkliste`
 

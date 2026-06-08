@@ -1,19 +1,9 @@
 ---
 name: verjaehrung-mietforderungen-verkauf-bricht
-description: "Verjährung Mietforderungen Verkauf Bricht im Miet- und Wohnungseigentumsrecht: prüft konkret Verjährung Mietforderungen, Kauf bricht nicht Miete, Vermieterzutritt, Versicherungskosten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verjährung Mietforderungen Verkauf Bricht im Miet- und Wohnungseigentumsrecht: prüft konkret Verjährung Mietforderungen, Kauf bricht nicht Miete, Vermieterzutritt, Versicherungskosten."
 ---
 
 # Verjährung Mietforderungen Verkauf Bricht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verjaehrung-mietforderungen` | Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-verkauf-bricht-nicht-miete` | Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-vermieterzutritt` | Vermieterzutritt: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-versicherungskosten` | Versicherungskosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-vollstreckungsschutz-raeumung` | Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Verjährung Mietforderungen Verkauf Bricht im Miet- und Wohnungsei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verjaehrung-mietforderungen`
 

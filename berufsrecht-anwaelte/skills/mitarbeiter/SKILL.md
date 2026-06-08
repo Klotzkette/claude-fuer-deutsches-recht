@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter
-description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Anwälte; prüft Mitarbeiter im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mitarbeiter: vertiefter Berufsrechts-Skill für Anwälte; prüft Mitarbeiter im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Mitarbeiter

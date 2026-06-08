@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstellen
-description: "Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk im Rechtsberatungsstelle."
 ---
 
 # Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk

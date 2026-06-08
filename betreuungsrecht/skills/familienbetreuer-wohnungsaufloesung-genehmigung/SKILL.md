@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-wohnungsaufloesung-genehmigung
-description: "Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall im Betreuungsrecht."
 ---
 
 # Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung

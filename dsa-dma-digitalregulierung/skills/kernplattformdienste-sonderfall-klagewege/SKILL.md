@@ -1,6 +1,6 @@
 ---
 name: kernplattformdienste-sonderfall-klagewege
-description: "Kernplattformdienste: Sonderfall und Edge-Case-Prüfung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kernplattformdienste: Sonderfall und Edge-Case-Prüfung im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
 ---
 
 # Kernplattformdienste: Sonderfall und Edge-Case-Prüfung

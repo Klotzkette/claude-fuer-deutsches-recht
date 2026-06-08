@@ -1,6 +1,6 @@
 ---
 name: bestellbutton-uklag-uwg-abmahnung
-description: "Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor im Verbraucherverband-Durchsetzung."
 ---
 
 # VDG 103 Bestellbutton UKlaG UWG Abmahnung

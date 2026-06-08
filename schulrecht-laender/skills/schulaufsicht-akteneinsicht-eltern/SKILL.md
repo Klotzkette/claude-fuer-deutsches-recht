@@ -1,6 +1,6 @@
 ---
 name: schulaufsicht-akteneinsicht-eltern
-description: "Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte im Schulrecht Länder."
 ---
 
 # Schulaufsicht und Akteneinsicht der Eltern

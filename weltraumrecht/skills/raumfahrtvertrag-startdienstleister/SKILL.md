@@ -1,6 +1,6 @@
 ---
 name: raumfahrtvertrag-startdienstleister
-description: "Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window im Weltraumrecht."
 ---
 
 # Weltraumrecht: Raumfahrtvertrag mit Startdienstleister: Launch Services Agreement

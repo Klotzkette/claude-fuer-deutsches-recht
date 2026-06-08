@@ -1,17 +1,9 @@
 ---
 name: polizei-filmen-rechtsschutz-beweislast
-description: "Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Polizei, Polizeirecht, Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Polizei, Polizeirecht, Rechtsschutz."
 ---
 
 # Polizei Filmen Rechtsschutz Beweislast
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-polizei-compliance-dokumentation-und-akte` | Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb` | Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung, Beschlagnahme und verwaltungsgerichtliche Abwehr. |
-| `spezial-rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Polizei Filmen Rechtsschutz Beweislast im Plugin Fachanwalt Verwal
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-polizei-compliance-dokumentation-und-akte`
 
-**Fokus:** Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht.
 
 ### Polizei: Compliance-Dokumentation und Aktenvermerk
 
@@ -124,7 +116,7 @@ Ein pauschales Einschreiten gegen das Anfertigen von Bild- oder Videoaufnahmen t
 
 ## 3. `spezial-rechtsschutz-beweislast-und-darlegungslast`
 
-**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht.
 
 ### Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 

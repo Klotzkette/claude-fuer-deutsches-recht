@@ -1,6 +1,6 @@
 ---
 name: ai-contract-disclosure
-description: "Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft US-Copyright-Klauseln zu AI material, training, output warranties, indemnity, audit and disclosure im Us Copyright Registrierung Verlag."
 ---
 
 # AI Contract Disclosure und Warranties

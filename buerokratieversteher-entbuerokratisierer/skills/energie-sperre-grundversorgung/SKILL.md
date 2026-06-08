@@ -1,6 +1,6 @@
 ---
 name: energie-sperre-grundversorgung
-description: "Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise im Bürokratie-Entbürokratisierung."
 ---
 
 # Energiesperre und Grundversorgung

@@ -1,17 +1,9 @@
 ---
 name: leasing-lp-restrukturierungsplan-starug
-description: "Liqui Leasing LP Restrukturierungsplan Starug im Plugin Liquiditaetsplanung: prüft konkret Leasing- und Lebenspartnerzahlungen in Liquiditaetsplan, Liquiditaetsplanung im Restrukturierungsplan StaRUG, Saisonalitaet erkennen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Liqui Leasing LP Restrukturierungsplan Starug im Plugin Liquiditaetsplanung: prüft konkret Leasing- und Lebenspartnerzahlungen in Liquiditaetsplan, Liquiditaetsplanung im Restrukturierungsplan StaRUG, Saisonalitaet erkennen."
 ---
 
 # Liqui Leasing LP Restrukturierungsplan Starug
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `liqui-mit-leasing-und-lp` | Leasing- und Lebenspartnerzahlungen in Liquiditaetsplan: operate lease als opex, finance lease wirkt sich auf Bilanz aus, vorzeitige Aufloesung kostenpflichtig. Empfehlung: Aufnahme nach Faelligkeit, Pruefung Beendigungskosten. |
-| `liqui-restrukturierungsplan-starug` | Liquiditaetsplanung im Restrukturierungsplan StaRUG: Plan-Liquiditaet, Sanierungsbeitraege Glaeubiger, Working-Capital-Plan, Cash-Out-Termine. Output: integrierter Plan und Glaeubigerverteilungsschema. |
-| `liqui-saisonalitaet-erkennen` | Saisonalitaet erkennen: Vorjahres-Kontodaten gegen Liquiditaetsplan abgleichen, Monats- und Wochenmuster, Sondereffekte (Inventur, Jahresabschluss, Ferien). Empfehlung: saisonale Korrekturfaktoren je Branche. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Liqui Leasing LP Restrukturierungsplan Starug im Plugin Liquiditae
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `liqui-mit-leasing-und-lp`
 

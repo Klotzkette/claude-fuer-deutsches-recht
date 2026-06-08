@@ -1,6 +1,6 @@
 ---
 name: fristenversaeumnis-epo-restitutio-rechtsprechung
-description: "Patentanwälte: fristenversaeumnis epo restitutio - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: fristenversaeumnis epo restitutio - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: fristenversaeumnis epo restitutio - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

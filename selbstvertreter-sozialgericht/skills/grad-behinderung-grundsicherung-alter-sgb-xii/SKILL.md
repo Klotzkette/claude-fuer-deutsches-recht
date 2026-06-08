@@ -1,19 +1,9 @@
 ---
 name: grad-behinderung-grundsicherung-alter-sgb-xii
-description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung am Sozialgericht: prüft konkret Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB, Hilfe zum Lebensunterhalt nach §§ 27 ff. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung am Sozialgericht: prüft konkret Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB, Hilfe zum Lebensunterhalt nach §§ 27 ff."
 ---
 
 # Grad Behinderung Grundsicherung Alter SGB XII
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `grad-der-behinderung-gdb-sgb-ix` | Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger. |
-| `grundsicherung-alter-sgb-xii-41` | Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage. |
-| `grundsicherung-sgb-xii` | Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger. |
-| `hilfe-zum-lebensunterhalt-27-sgb-xii` | Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe für Erwerbsfaehige ohne Anspruch auf Buergergeld und für voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster. |
-| `kindergeld-familienkasse-einspruch` | Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `grad-der-behinderung-gdb-sgb-ix`
 

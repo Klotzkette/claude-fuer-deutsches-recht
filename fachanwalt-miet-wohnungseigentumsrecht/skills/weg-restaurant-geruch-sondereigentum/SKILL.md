@@ -1,24 +1,9 @@
 ---
 name: weg-restaurant-geruch-sondereigentum
-description: "WEG Restaurant Geruch Sondereigentum im Miet- und Wohnungseigentumsrecht: prüft konkret Restaurant/Geruch/Lärm in Anlage, Sondereigentum/Gemeinschaftseigentum, Sondernutzungsrecht, WEG Sonderumlage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "WEG Restaurant Geruch Sondereigentum im Miet- und Wohnungseigentumsrecht: prüft konkret Restaurant/Geruch/Lärm in Anlage, Sondereigentum/Gemeinschaftseigentum, Sondernutzungsrecht, WEG Sonderumlage."
 ---
 
 # WEG Restaurant Geruch Sondereigentum
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-weg-restaurant-geruch-laerm` | Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-sondereigentum-gemeinschaftseigentum` | Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-sondernutzungsrecht` | Sondernutzungsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-sonderumlage` | WEG Sonderumlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-tauben-schaedlinge` | Tauben/Schädlinge: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-teilnahme-online-hybrid` | Online-/Hybridversammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-umlaufbeschluss` | Umlaufbeschluss: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-unterlassungsklage` | WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-vermietete-eigentumswohnung` | Vermietete Eigentumswohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-versicherungsfall` | WEG Versicherungsfall: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "WEG Restaurant Geruch Sondereigentum im Miet- und Wohnungseigentum
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-weg-restaurant-geruch-laerm`
 

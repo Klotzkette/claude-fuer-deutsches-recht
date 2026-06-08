@@ -1,6 +1,6 @@
 ---
 name: verfahrensgeschichte-vergleich-eskalation
-description: "Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
 ---
 
 # Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation

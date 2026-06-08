@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-local-counsel-instruiere
-description: "Schiffbauwerk: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Schiff im Bau (Schiffbauwerk) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffbauwerk: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Schiff im Bau (Schiffbauwerk) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
 ---
 
 # Schiffbauwerk – Local Counsel instruieren

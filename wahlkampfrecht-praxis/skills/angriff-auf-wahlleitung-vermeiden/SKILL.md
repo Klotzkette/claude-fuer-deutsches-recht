@@ -1,6 +1,6 @@
 ---
 name: angriff-auf-wahlleitung-vermeiden
-description: "Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren im Wahlkampfrecht."
 ---
 
 # Angriff Auf Wahlleitung Vermeiden

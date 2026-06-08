@@ -1,6 +1,6 @@
 ---
 name: schweiz-geheimhaltung-signatur-vollmacht
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schweiz Geheimhaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Schweiz Geheimhaltung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # Schweiz Geheimhaltung

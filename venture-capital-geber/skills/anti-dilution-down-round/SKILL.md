@@ -1,6 +1,6 @@
 ---
 name: anti-dilution-down-round
-description: "Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Anti-Dilution und Down Round

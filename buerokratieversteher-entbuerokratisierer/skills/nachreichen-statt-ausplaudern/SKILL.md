@@ -1,6 +1,6 @@
 ---
 name: nachreichen-statt-ausplaudern
-description: "Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage im Bürokratie-Entbürokratisierung."
 ---
 
 # Nachreichen statt Ausplaudern

@@ -1,6 +1,6 @@
 ---
 name: force-majeure-geheimhaltung-nda
-description: "Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderung der Geschäftsgrundlage, kein vertraglich allokiertes Risiko, Vorrang der Anpassung vor Rücktritt) und grenzt COVID-Sonderkonstellationen von der allgemeinen Lage ab im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderung der Geschäftsgrundlage, kein vertraglich allokiertes Risiko, Vorrang der Anpassung vor Rücktritt) und grenzt COVID-Sonderkonstellationen von der allgemeinen Lage ab im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
 # Force Majeure und § 313 BGB (Wegfall der Geschäftsgrundlage)

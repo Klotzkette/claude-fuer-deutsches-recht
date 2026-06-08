@@ -1,6 +1,6 @@
 ---
 name: nacherbenvermerk-und-verfuegungsbeschraenkung
-description: "Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vermerk, Zustimmung, Befreiung, Löschung und Erwerberrisiko im Grundbuchamt Praxis."
 ---
 
 # Nacherbenvermerk

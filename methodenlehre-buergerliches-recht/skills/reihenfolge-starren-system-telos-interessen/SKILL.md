@@ -1,19 +1,9 @@
 ---
 name: reihenfolge-starren-system-telos-interessen
-description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill definiert die methodisch optimale Reihenfolge, Dieses Skill behandelt die methodisch korrekte Handhabung, Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte u. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill definiert die methodisch optimale Reihenfolge, Dieses Skill behandelt die methodisch korrekte Handhabung, Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte u."
 ---
 
 # Reihenfolge Starren System Telos Interessen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert. |
-| `spezial-starren-formular-portal-und-einreichung` | Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen. |
-| `spezial-system-zahlen-schwellen-und-berechnung` | Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbeträge methodisch korrekt ermittelt werden und welche numerischen Schwellen bei AGB-Klauseln, Verjährungsfristen und Bürgschaften zu beachten sind. Zahlenfehler werden so durch strukturierte Berechnung vermieden. |
-| `spezial-telos-mehrparteien-konflikt-und-interessen` | Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird. Es trainiert die Fähigkeit, divergierende Parteiinteressen in die teleologische Analyse einzubeziehen, Interessenabwägungen methodisch zu strukturieren und das auslegungsgerechte Ergebnis im Mehrparteienkontext zu ermitteln. |
-| `spezial-unionsrechtskonforme-beweislast-und-darlegungslast` | Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern. Es zeigt, wann das Unionsrecht eine günstigere Beweislastverteilung für Verbraucher oder Arbeitnehmer gebietet, wie nationale Gerichte unionsrechtskonforme Beweislastregeln anwenden müssen und wie Anwälte diese Regeln prozessstrategisch einsetzen. Besonderes Gewicht liegt auf den Bereichen Verbraucherrecht und Kaufrecht. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine`
 

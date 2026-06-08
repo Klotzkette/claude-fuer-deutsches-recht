@@ -1,6 +1,6 @@
 ---
 name: elektronische-form-bea-qes-formfiktion
-description: "Prüfungslinie für elektronische form bea qes formfiktion im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für elektronische form bea qes formfiktion im BGB AT."
 ---
 
 # Elektronische Form BeA QES Formfiktion

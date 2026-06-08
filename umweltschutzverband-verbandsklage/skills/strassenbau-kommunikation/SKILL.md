@@ -1,6 +1,6 @@
 ---
 name: strassenbau-kommunikation
-description: "Umweltschutzverband Verbandsklage: Straßenbau: Kommunikation schärfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Straßenbau: Kommunikation schärfen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Strassenbau Kommunikation Schaerfen

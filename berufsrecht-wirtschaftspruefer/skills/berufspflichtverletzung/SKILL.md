@@ -1,6 +1,6 @@
 ---
 name: berufspflichtverletzung
-description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufspflichtverletzung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufspflichtverletzung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Berufspflichtverletzung

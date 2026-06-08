@@ -1,6 +1,6 @@
 ---
 name: buergschaftstypen-sponsio-fidepromissio-fideiussio
-description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio für Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio für Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio

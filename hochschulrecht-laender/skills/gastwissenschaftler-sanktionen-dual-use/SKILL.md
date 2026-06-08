@@ -1,6 +1,6 @@
 ---
 name: gastwissenschaftler-sanktionen-dual-use
-description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung im Hochschulrecht Länder."
 ---
 
 # Gastwissenschaftler, Sanktionen und Dual Use

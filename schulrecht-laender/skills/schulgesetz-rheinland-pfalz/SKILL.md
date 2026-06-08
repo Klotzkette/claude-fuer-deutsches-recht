@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-rheinland-pfalz
-description: "Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
 ---
 
 # Schulgesetz Rheinland Pfalz

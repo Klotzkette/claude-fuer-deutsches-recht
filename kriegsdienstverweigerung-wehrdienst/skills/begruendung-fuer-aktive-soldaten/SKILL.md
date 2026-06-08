@@ -1,6 +1,6 @@
 ---
 name: begruendung-fuer-aktive-soldaten
-description: "Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Begründung aktive Soldaten

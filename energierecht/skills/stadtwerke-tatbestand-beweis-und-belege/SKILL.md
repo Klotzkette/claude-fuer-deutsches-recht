@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-tatbestand-beweis-und-belege
-description: "Stadtwerke: Tatbestandsmerkmale, Beweisfragen und Beleglage; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stadtwerke: Tatbestandsmerkmale, Beweisfragen und Beleglage im Energierecht."
 ---
 
 # Stadtwerke: Tatbestandsmerkmale, Beweisfragen und Beleglage

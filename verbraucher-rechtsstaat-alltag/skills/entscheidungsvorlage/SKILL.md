@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage
-description: "Entscheidungsvorlage: erklärt macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entscheidungsvorlage: erklärt macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Entscheidungsvorlage

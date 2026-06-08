@@ -1,6 +1,6 @@
 ---
 name: eligibility-109-credit
-description: "Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues im US Bankruptcy Code."
 ---
 
 # Eligibility § 109 and Credit Counseling

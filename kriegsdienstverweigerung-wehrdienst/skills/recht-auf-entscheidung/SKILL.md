@@ -1,6 +1,6 @@
 ---
 name: recht-auf-entscheidung
-description: "Formuliert grundrechtsbewusst, warum eine ernste Gewissensentscheidung nicht beliebig liegen bleiben darf im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert grundrechtsbewusst, warum eine ernste Gewissensentscheidung nicht beliebig liegen bleiben darf im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Recht auf Entscheidung

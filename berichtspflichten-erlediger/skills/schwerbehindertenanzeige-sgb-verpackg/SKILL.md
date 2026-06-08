@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenanzeige-sgb-verpackg
-description: "Jährliche Anzeige beschäftigter schwerbehinderter Menschen und Ausgleichsabgabe im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Jährliche Anzeige beschäftigter schwerbehinderter Menschen und Ausgleichsabgabe im Berichtspflichten."
 ---
 
 # Schwerbehindertenanzeige und Ausgleichsabgabe

@@ -1,6 +1,6 @@
 ---
 name: subunternehmervertrag
-description: "Solo-Selbstständige: regelt Freelancer, Unterauftrag, AVV, Rechte, Haftung und Scheinselbstständigkeit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: regelt Freelancer, Unterauftrag, AVV, Rechte, Haftung und Scheinselbstständigkeit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Verträge und AGB: Regelt freelancer

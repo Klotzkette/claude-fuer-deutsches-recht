@@ -1,6 +1,6 @@
 ---
 name: amateurfunk-satellit-und-frequenznutzung
-description: "Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA im Weltraumrecht."
 ---
 
 # Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung

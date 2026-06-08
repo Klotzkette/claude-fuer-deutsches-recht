@@ -1,6 +1,6 @@
 ---
 name: urlaub-erkrankung-verfassungstreue-bbg
-description: "Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erholungsurlaub, Erkrankung, Verfall, Übertragung, Langzeiterkrankung und europarechtliche Linien im Beamtenrecht."
 ---
 
 # Urlaub Erkrankung Und Verfall

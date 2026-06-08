@@ -1,6 +1,6 @@
 ---
 name: besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung
-description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Beamtenrecht."
 ---
 
 # Besold Besoldungswiderspruch Zeitnahe Geltendmachung

@@ -1,6 +1,6 @@
 ---
 name: beweisakte-fuer-streit
-description: "Solo-Selbstständige: baut chronologische Beweisakte aus Mail, Chat, Rechnung, Ergebnis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: baut chronologische Beweisakte aus Mail, Chat, Rechnung, Ergebnis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Forderungen Mahnung und Streit: Baut chronologische beweisakte aus mail

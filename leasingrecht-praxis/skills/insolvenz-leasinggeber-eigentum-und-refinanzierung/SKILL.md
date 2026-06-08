@@ -1,6 +1,6 @@
 ---
 name: insolvenz-leasinggeber-eigentum-und-refinanzierung
-description: "Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers im Leasingrecht."
 ---
 
 # Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung

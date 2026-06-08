@@ -1,6 +1,6 @@
 ---
 name: document-room-governance
-description: "Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, Watermark, Versionen und Downloadlogik für Mandat und Verfahren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, Watermark, Versionen und Downloadlogik für Mandat und Verfahren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Datenraum Governance

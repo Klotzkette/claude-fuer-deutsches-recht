@@ -1,6 +1,6 @@
 ---
 name: tracking-verhandlung-vergleich-und-eskalation
-description: "Tracking: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tracking: Verhandlung, Vergleich und Eskalation im Vertragsrecht."
 ---
 
 # Tracking: Verhandlung, Vergleich und Eskalation

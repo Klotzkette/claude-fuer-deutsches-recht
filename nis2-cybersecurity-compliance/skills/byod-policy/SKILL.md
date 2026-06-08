@@ -1,6 +1,6 @@
 ---
 name: byod-policy
-description: "Baut eine BYOD-Policy mit realistischen technischen Grenzen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut eine BYOD-Policy mit realistischen technischen Grenzen im Nis2 Cybersecurity Compliance."
 ---
 
 # BYOD Policy

@@ -1,6 +1,6 @@
 ---
 name: sprachfoerderung-willkommensklasse
-description: "Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sprachförderung, Zuordnung, Wechsel und Teilhaberechte neu zugewanderter Kinder im Schulrecht Länder."
 ---
 
 # Sprachförderung und Willkommensklasse

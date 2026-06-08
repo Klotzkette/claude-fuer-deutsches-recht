@@ -1,6 +1,6 @@
 ---
 name: subscription-package-und-side-letter
-description: "Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation im Private Equity Praxis."
 ---
 
 # Subscription Package und Side Letter

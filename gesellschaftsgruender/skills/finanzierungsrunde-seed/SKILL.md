@@ -1,6 +1,6 @@
 ---
 name: finanzierungsrunde-seed
-description: "Führt durch Seed-Runde: Term Sheet, Bewertung, Verwässerung, Cap Table, Satzung, SHA, Closing im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Seed-Runde: Term Sheet, Bewertung, Verwässerung, Cap Table, Satzung, SHA, Closing im Gesellschaftsgruender."
 ---
 
 # Seed-Finanzierungsrunde

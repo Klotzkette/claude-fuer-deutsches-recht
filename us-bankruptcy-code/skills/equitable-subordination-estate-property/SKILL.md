@@ -1,6 +1,6 @@
 ---
 name: equitable-subordination-estate-property
-description: "Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code."
 ---
 
 # Subordination § 510

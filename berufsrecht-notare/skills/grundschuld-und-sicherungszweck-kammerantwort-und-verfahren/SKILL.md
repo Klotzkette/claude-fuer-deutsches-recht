@@ -1,6 +1,6 @@
 ---
 name: grundschuld-und-sicherungszweck-kammerantwort-und-verfahren
-description: "Notare: grundschuld und sicherungszweck - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: grundschuld und sicherungszweck - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: grundschuld und sicherungszweck - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

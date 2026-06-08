@@ -1,6 +1,6 @@
 ---
 name: earn-out-und-vendor-loan
-description: "Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte im Private Equity Praxis."
 ---
 
 # Earn-out, Vendor Loan und Seller Note

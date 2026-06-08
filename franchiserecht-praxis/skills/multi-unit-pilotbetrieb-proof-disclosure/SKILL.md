@@ -1,6 +1,6 @@
 ---
 name: multi-unit-pilotbetrieb-proof-disclosure
-description: "Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB im Franchiserecht."
 ---
 
 # Franchiserecht: Multi-Unit-Franchise und Area Developer

@@ -1,6 +1,6 @@
 ---
 name: auslandsanerkennung-pruefungsleistung
-description: "Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung im Pruefungsrecht Hochschule."
 ---
 
 # Auslandsanerkennung Prüfungsleistung

@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-mitbestimmung-87-router
-description: "Berliner Start-up-HR: Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Betriebsrat Mitbestimmung 87 Router

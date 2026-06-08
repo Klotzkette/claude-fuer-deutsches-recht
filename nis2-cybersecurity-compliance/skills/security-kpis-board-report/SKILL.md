@@ -1,6 +1,6 @@
 ---
 name: security-kpis-board-report
-description: "Erstellt Board-Reporting mit aussagekräftigen Security-KPIs im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Board-Reporting mit aussagekräftigen Security-KPIs im Nis2 Cybersecurity Compliance."
 ---
 
 # Security Kpis Board Report

@@ -1,6 +1,6 @@
 ---
 name: gewissensbegruendung-werkstatt
-description: "Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Werkstatt Gewissensbegründung

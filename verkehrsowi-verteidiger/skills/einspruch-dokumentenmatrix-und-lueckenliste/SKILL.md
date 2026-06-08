@@ -1,6 +1,6 @@
 ---
 name: einspruch-dokumentenmatrix-und-lueckenliste
-description: "Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung

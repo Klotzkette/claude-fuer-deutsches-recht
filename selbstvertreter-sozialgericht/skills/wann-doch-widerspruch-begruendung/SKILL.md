@@ -1,19 +1,9 @@
 ---
 name: wann-doch-widerspruch-begruendung
-description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialgericht: prüft konkret Wann sollten Sie als Buerger doch einen Anwalt einschalten, Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen, Wie Sie sich gegen ein negatives Gutachten wehren, Sie haben den Widerspruchsbescheid bekommen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialgericht: prüft konkret Wann sollten Sie als Buerger doch einen Anwalt einschalten, Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen, Wie Sie sich gegen ein negatives Gutachten wehren, Sie haben den Widerspruchsbescheid bekommen."
 ---
 
 # Wann Doch Widerspruch Begruendung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wann-doch-anwalt-grenzfaelle-sozialgericht` | Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe. |
-| `widerspruch-begruendung-laienleitfaden` | Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen. |
-| `widerspruch-gegen-gutachten-laien` | Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt. |
-| `widerspruchsbescheid-was-jetzt` | Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid. |
-| `wohngeld-und-sozialhilfe-grenzfaelle` | Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zuständig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialger
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wann-doch-anwalt-grenzfaelle-sozialgericht`
 

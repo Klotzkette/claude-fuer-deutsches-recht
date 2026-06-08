@@ -1,6 +1,6 @@
 ---
 name: vier-risikoampel-und-gegenargumente
-description: "Vier: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vier: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Vier: Risikoampel, Gegenargumente und Verteidigungslinien

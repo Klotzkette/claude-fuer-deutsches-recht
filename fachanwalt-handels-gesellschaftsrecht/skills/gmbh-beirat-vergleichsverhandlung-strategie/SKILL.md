@@ -1,16 +1,9 @@
 ---
 name: gmbh-beirat-vergleichsverhandlung-strategie
-description: "Gmbh Beirat Vergleichsverhandlung Strategie im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Entwirft und prüft mächtige GmbH-Beiräte mit, Informationsr, Vergleichsverhandlungs-Strategie für Handels- und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gmbh Beirat Vergleichsverhandlung Strategie im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Entwirft und prüft mächtige GmbH-Beiräte mit, Informationsr, Vergleichsverhandlungs-Strategie für Handels- und."
 ---
 
 # Gmbh Beirat Vergleichsverhandlung Strategie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gmbh-beirat-vetorechte-und-organnaehe` | Entwirft und prüft mächtige GmbH-Beiräte mit Zustimmungskatalogen, Informationsrechten, Investorenschutz, Organnähe, Interessenkonflikten und Haftungsbegrenzung. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Gmbh Beirat Vergleichsverhandlung Strategie im Plugin Fachanwalt H
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gmbh-beirat-vetorechte-und-organnaehe`
 

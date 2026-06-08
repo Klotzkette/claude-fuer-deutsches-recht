@@ -1,6 +1,6 @@
 ---
 name: gesr-corporate-governance-kodex-spezial
-description: "Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster für boersennotierten Vorstand und Aufsichtsrat im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster für boersennotierten Vorstand und Aufsichtsrat im Gesellschaftsrecht."
 ---
 
 # GesR: Corporate-Governance-Kodex

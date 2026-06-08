@@ -1,6 +1,6 @@
 ---
 name: debt-equity-swap-pe
-description: "Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance im Private Equity Praxis."
 ---
 
 # Debt-Equity-Swap

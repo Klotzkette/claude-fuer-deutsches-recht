@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-berufspflichtverletzung
-description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufshaftpflicht im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufshaftpflicht im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Berufshaftpflicht

@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-nebenbestimmung
-description: "Umweltschutzverband Verbandsklage: Industrieanlage: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Industrieanlage: Nebenbestimmung fordern im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Industrieanlage Nebenbestimmung Forder

@@ -1,6 +1,6 @@
 ---
 name: weltraumbahnhof-deutschland-standortwahl-kueste-umwelt
-description: "Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Weltraumbahnhof Deutschland: Standortwahl, Küste, Umwelt und Sicherheit

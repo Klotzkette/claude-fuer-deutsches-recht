@@ -1,6 +1,6 @@
 ---
 name: wpk-ruege-und-berufsaufsicht-rechtsprechungs
-description: "Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

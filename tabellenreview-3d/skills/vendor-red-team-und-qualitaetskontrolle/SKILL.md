@@ -1,6 +1,6 @@
 ---
 name: vendor-red-team-und-qualitaetskontrolle
-description: "Vendor: Red-Team und Qualitätskontrolle im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vendor: Red-Team und Qualitätskontrolle im Plugin tabellenreview 3d im Tabellenreview 3d."
 ---
 
 # Vendor: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: notrufpflicht-112
-description: "Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmensanschlüsse und Haftungsrisiko im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmensanschlüsse und Haftungsrisiko im Telekommunikationsrecht."
 ---
 
 # Notrufpflicht und Ausfallsicherheit

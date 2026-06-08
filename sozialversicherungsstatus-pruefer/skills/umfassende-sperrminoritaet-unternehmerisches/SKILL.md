@@ -1,6 +1,6 @@
 ---
 name: umfassende-sperrminoritaet-unternehmerisches
-description: "Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF im Sozialversicherungsstatus Pruefer."
 ---
 
 # Umfassende Sperrminorität

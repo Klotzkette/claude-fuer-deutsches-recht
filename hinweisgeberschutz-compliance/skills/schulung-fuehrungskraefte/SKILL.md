@@ -1,6 +1,6 @@
 ---
 name: schulung-fuehrungskraefte
-description: "Schult Führungskräfte gegen Repressalienfehler im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schult Führungskräfte gegen Repressalienfehler im Hinweisgeberschutz Compliance."
 ---
 
 # Schulung Fuehrungskraefte

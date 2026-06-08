@@ -1,6 +1,6 @@
 ---
 name: werbung-google-ads-und-linkedin-kammerantwort-und-verf
-description: "Anwälte: werbung google ads und linkedin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: werbung google ads und linkedin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: werbung google ads und linkedin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

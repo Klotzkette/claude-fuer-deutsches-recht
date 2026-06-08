@@ -1,6 +1,6 @@
 ---
 name: investment-committee-minutes-task-reminder-system
-description: "Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Investment Committee Minutes

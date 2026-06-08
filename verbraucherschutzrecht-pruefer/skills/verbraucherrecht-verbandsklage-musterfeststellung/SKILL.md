@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-verbandsklage-musterfeststellung
-description: "Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.; Normanker: UKlaG; VDuG; ZPO; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.; Normanker: UKlaG; VDuG; ZPO; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein im Verbraucherschutzrecht."
 ---
 
 # Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.

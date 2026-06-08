@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage
-description: "Entscheidungsvorlage: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entscheidungsvorlage: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Entscheidungsvorlage

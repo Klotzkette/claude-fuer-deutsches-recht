@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehen
-description: "Prüft Wandeldarlehen, Discount, Cap, Wandlung, Rang, Prospekt-/Bankaufsichtsrisiken im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wandeldarlehen, Discount, Cap, Wandlung, Rang, Prospekt-/Bankaufsichtsrisiken im Gesellschaftsgruender."
 ---
 
 # Wandeldarlehen und SAFE-ähnliche Instrumente

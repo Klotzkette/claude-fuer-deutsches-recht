@@ -1,6 +1,6 @@
 ---
 name: verdachtsvertraege-behoerden-gericht-und-registerweg
-description: "Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg im Betreuungsrecht."
 ---
 
 # Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg

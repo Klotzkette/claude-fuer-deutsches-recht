@@ -1,6 +1,6 @@
 ---
 name: ordnerstruktur
-description: "Solo-Selbstständige: ordnet Drive/Cloud nach Steuern, Kunden, Verträgen, Belegen und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: ordnet Drive/Cloud nach Steuern, Kunden, Verträgen, Belegen und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Dokumente und Kommunikation: Ordnet drive/cloud nach steuern

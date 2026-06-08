@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Urteilsbauer Relationsmacher im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen- und Risikoampel im Plugin Urteilsbauer Relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Fristen- und Risikoampel

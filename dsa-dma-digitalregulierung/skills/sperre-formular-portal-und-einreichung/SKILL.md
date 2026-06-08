@@ -1,6 +1,6 @@
 ---
 name: sperre-formular-portal-und-einreichung
-description: "Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
 ---
 
 # Sperre: Formular, Portal und Einreichungslogik

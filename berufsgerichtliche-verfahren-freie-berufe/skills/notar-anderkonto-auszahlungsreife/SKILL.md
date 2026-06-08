@@ -1,6 +1,6 @@
 ---
 name: notar-anderkonto-auszahlungsreife
-description: "Notaranderkonto Auszahlungsreife (Präventions- und Organisationspaket): steuert Treuhandauflage, Anderkonto, Auszahlungsreife, Vormerkung und Insolvenzrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notaranderkonto Auszahlungsreife (Präventions- und Organisationspaket): steuert Treuhandauflage, Anderkonto, Auszahlungsreife, Vormerkung und Insolvenzrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Notaranderkonto Auszahlungsreife: Präventions- und Organisationspaket

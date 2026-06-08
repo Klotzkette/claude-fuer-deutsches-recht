@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-eilantrag-normenkontrolle
-description: "Umweltschutzverband Verbandsklage: Wasserentnahme: Eilantrag schreiben im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Wasserentnahme: Eilantrag schreiben im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Wasserentnahme Eilantrag Schreiben

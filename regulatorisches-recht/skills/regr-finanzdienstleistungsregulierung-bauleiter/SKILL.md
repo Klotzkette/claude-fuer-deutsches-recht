@@ -1,6 +1,6 @@
 ---
 name: regr-finanzdienstleistungsregulierung-bauleiter
-description: "Bauleiter Finanzdienstleistungsregulierung: KWG, ZAG, KAGB, WpHG, BaFin-Mitteilungen. Pruefraster für Lizenz- und Erlaubnistatbestaende im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Finanzdienstleistungsregulierung: KWG, ZAG, KAGB, WpHG, BaFin-Mitteilungen. Pruefraster für Lizenz- und Erlaubnistatbestaende im Regulatorisches Recht."
 ---
 
 # RegR: FDL-Regulierung Bauleiter

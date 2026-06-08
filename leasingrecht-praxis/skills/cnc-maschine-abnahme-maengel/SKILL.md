@@ -1,6 +1,6 @@
 ---
 name: cnc-maschine-abnahme-maengel
-description: "CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe im Leasingrecht."
 ---
 
 # CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung

@@ -1,6 +1,6 @@
 ---
 name: pre-seed-seed-runde
-description: "Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pre-Seed und Seed Runde

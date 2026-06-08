@@ -1,6 +1,6 @@
 ---
 name: discovery-gesellschafterbeschluesse
-description: "Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
 ---
 
 # Discovery: Risikoampel, Gegenargumente und Verteidigungslinien

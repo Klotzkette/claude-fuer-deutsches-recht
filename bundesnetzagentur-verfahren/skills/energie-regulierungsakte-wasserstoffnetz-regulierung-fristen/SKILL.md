@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-wasserstoffnetz-regulierung-fristen
-description: "Wasserstoffnetz Regulierung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wasserstoffnetz Regulierung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Wasserstoffnetz Regulierung — Fristen- und Bescheidanalyse

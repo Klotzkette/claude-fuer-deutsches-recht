@@ -1,18 +1,9 @@
 ---
 name: arbeitnehmerdaten-betriebsrat
-description: "Arbeitnehmerdaten Betriebsrat im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Beschäftigtendaten und Betriebsrat, Beschlussverfahren § 72 OWiG, Beschwerde eines Betroffenen als Auslöser, Einspruch § 67 OWiG Frist und Form. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Arbeitnehmerdaten Betriebsrat im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Beschäftigtendaten und Betriebsrat, Beschlussverfahren § 72 OWiG, Beschwerde eines Betroffenen als Auslöser, Einspruch § 67 OWiG Frist und Form."
 ---
 
 # Arbeitnehmerdaten Betriebsrat
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `arbeitnehmerdaten-und-betriebsrat-im-sanktionsverfahren` | Beschäftigtendaten und Betriebsrat: HR-Systeme, Monitoring, Betriebsrat, § 26 BDSG und Beschäftigteneinwilligung verteidigen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `beschlussverfahren-72-owig` | Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `beschwerde-betroffener-behoerdenverfahren` | Beschwerde eines Betroffenen als Auslöser: Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `einspruch-67-owig-frist-und-form` | Einspruch § 67 OWiG Frist und Form: Zweiwochenfrist sichern und fristwahrenden Einspruch ohne unnötige Begründung einlegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Arbeitnehmerdaten Betriebsrat im Datenschutz-Sanktionsverfahren-Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `arbeitnehmerdaten-und-betriebsrat-im-sanktionsverfahren`
 

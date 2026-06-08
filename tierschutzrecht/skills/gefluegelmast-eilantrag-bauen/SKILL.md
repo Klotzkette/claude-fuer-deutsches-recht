@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-eilantrag-bauen
-description: "Geflügelmast: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geflügelmast: Eilantrag bauen im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Gefluegelmast Eilantrag Bauen

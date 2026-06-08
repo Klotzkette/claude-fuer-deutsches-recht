@@ -1,6 +1,6 @@
 ---
 name: kritis-bsig-schnittstelle
-description: "Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten im Nis2 Cybersecurity Compliance."
 ---
 
 # Kritis Bsig Schnittstelle

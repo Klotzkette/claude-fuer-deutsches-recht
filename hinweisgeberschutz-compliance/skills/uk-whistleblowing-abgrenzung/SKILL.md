@@ -1,6 +1,6 @@
 ---
 name: uk-whistleblowing-abgrenzung
-description: "Grenzt UK Whistleblowing bei Niederlassungen ab im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt UK Whistleblowing bei Niederlassungen ab im Hinweisgeberschutz Compliance."
 ---
 
 # Uk Whistleblowing Abgrenzung

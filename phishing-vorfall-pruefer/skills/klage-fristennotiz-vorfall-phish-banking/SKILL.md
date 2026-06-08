@@ -1,6 +1,6 @@
 ---
 name: klage-fristennotiz-vorfall-phish-banking
-description: "Klage: Fristennotiz und nächster Schritt im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klage: Fristennotiz und nächster Schritt im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Klage: Fristennotiz und nächster Schritt

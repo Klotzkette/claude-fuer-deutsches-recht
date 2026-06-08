@@ -1,6 +1,6 @@
 ---
 name: klassenbildung-und-zuteilung
-description: "Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente im Schulrecht Länder."
 ---
 
 # Klassenbildung und Zuteilung

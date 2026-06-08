@@ -1,6 +1,6 @@
 ---
 name: board-pack-auswertung
-description: "Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Board-Pack-Auswertung

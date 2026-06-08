@@ -1,6 +1,6 @@
 ---
 name: bsi-grundschutz-schutzbedarf
-description: "Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine praxisnah zusammen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine praxisnah zusammen im Nis2 Cybersecurity Compliance."
 ---
 
 # BSI Grundschutz Schutzbedarf

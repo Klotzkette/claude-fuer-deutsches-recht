@@ -1,6 +1,6 @@
 ---
 name: konzern-mutter-lebensmittel-haccp
-description: "Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft im Berichtspflichten."
 ---
 
 # Konzernmatrix Mutter/Tochter

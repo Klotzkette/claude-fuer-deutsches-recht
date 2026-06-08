@@ -1,6 +1,6 @@
 ---
 name: pruefungssprache
-description: "Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit im Pruefungsrecht Hochschule."
 ---
 
 # Prüfungssprache

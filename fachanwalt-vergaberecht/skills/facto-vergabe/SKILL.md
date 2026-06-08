@@ -1,18 +1,9 @@
 ---
 name: facto-vergabe
-description: "Facto Vergabe im Plugin Fachanwalt Vergaberecht: prüft konkret Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht, De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB, Nachprüfungsverfahren bei der Vergabekammer durchführen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Facto Vergabe im Plugin Fachanwalt Vergaberecht: prüft konkret Chronologie und Belegmatrix im Plugin, Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht, De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB, Nachprüfungsverfahren bei der Vergabekammer durchführen."
 ---
 
 # Facto Vergabe
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-vergaberecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-vergaberecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `de-facto-vergabe-135-gwb-fristen` | De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege. |
-| `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` | Nachprüfungsverfahren bei der Vergabekammer durchführen: Laufendes VK-Verfahren oder Beschluss der VK liegt vor. Normen: §§ 160 ff. GWB, § 169 GWB (Suspensiveffekt Zuschlagsverbot), § 171 GWB (Sofortige Beschwerde OLG). Prüfraster: Antragsfrist 15 Werktage nach Ruegen-Ablehnung, VK-Verfahren (muendliche Verhandlung, Aufklärung), Sofortbeschwerde OLG-Vergabesenat. Output VK-Schriftsatz, OLG-Beschwerde-Entwurf. Abgrenzung: Erstantrag VK siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; VK-Vergleich siehe fachanwalt-vergaberecht-vk-aufklärung-vergleich. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Facto Vergabe im Plugin Fachanwalt Vergaberecht: prüft konkret Ch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 

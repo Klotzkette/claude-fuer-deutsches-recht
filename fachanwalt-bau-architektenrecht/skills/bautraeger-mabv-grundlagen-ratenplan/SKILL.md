@@ -1,18 +1,9 @@
 ---
 name: bautraeger-mabv-grundlagen-ratenplan
-description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Makler- und Bautraegerverordnung (MaBV) Grundlagen, MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt, MaBV § 2, MaBV Vermoegenstrennung — Bautraeger muss die Gelder der. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Makler- und Bautraegerverordnung (MaBV) Grundlagen, MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt, MaBV § 2, MaBV Vermoegenstrennung — Bautraeger muss die Gelder der."
 ---
 
 # Bautraeger Mabv Grundlagen Ratenplan
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-mabv-grundlagen-1-2` | Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster für Erwerber. |
-| `bautraeger-mabv-ratenplan-3-mabv` | MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster. |
-| `bautraeger-mabv-sicherheit-2-buergschaft` | MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster. |
-| `bautraeger-mabv-vermoegenstrennung` | MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Arch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-mabv-grundlagen-1-2`
 

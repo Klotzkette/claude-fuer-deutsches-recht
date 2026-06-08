@@ -1,6 +1,6 @@
 ---
 name: personalvertretung-zivile-beschaeftigte-schnittstelle
-description: "Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Personalvertretung zivile Beschäftigte Schnittstelle: prüft BPersVG-Mitbestimmung, Abgrenzung zu Soldatenbeteiligung, SBG und Verfahren. Norm-/Quellenanker: BPersVG, SBG, BetrVG im Bundeswehrrecht Wehrrecht."
 ---
 
 # Personalvertretung zivile Beschäftigte — Schnittstelle

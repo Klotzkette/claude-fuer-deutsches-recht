@@ -1,6 +1,6 @@
 ---
 name: elternbeitrag-ogts-ganztag
-description: "Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung im Schulrecht Länder."
 ---
 
 # Elternbeitrag OGS/Ganztag

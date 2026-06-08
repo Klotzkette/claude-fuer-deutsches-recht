@@ -1,6 +1,6 @@
 ---
 name: series-a-term-sheet
-description: "Prüft Lead-Investor, Bewertung, liquidation preference, anti-dilution, pro rata, board, vetoes, ESOP und Closing Steps im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lead-Investor, Bewertung, liquidation preference, anti-dilution, pro rata, board, vetoes, ESOP und Closing Steps im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Series-A-Term-Sheet

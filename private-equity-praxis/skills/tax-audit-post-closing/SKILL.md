@@ -1,6 +1,6 @@
 ---
 name: tax-audit-post-closing
-description: "Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess im Private Equity Praxis."
 ---
 
 # Tax Audit und Post-Closing Tax Claims

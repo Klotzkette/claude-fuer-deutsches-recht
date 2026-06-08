@@ -1,19 +1,9 @@
 ---
 name: beamtenrechtliche-kuerzung-beamtenversorgung
-description: "Beamtenrechtliche Kuerzung Beamtenversorgung im Plugin Fachanwalt Familienrecht: prüft konkret Beamtenrechtliche Kürzung und Rückausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde gegen VA-Beschluss FamFG, Betriebliche Altersversorgung Direktzusage Pensionskasse. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beamtenrechtliche Kuerzung Beamtenversorgung im Plugin Fachanwalt Familienrecht: prüft konkret Beamtenrechtliche Kürzung und Rückausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde gegen VA-Beschluss FamFG, Betriebliche Altersversorgung Direktzusage Pensionskasse."
 ---
 
 # Beamtenrechtliche Kuerzung Beamtenversorgung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beamtenrechtliche-kuerzung-und-rueckausnahme` | Beamtenrechtliche Kürzung und Rückausnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `beamtenversorgung-versorgungsausgleich` | Beamtenversorgung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `beschwerde-gegen-va-beschluss-famfg` | Beschwerde gegen VA-Beschluss FamFG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `betriebliche-altersversorgung-direktzusage-pensionskasse-fonds` | Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `ehezeit-bestimmen-3-versausglg` | Ehezeit bestimmen § 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Beamtenrechtliche Kuerzung Beamtenversorgung im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beamtenrechtliche-kuerzung-und-rueckausnahme`
 

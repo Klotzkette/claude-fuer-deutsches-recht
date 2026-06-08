@@ -1,6 +1,6 @@
 ---
 name: bess-physische-sicherheit-terror
-description: "Prüft Zaun, Zutritt, Drohnen, Video, Wachschutz, Polizei/Feuerwehr, Geheimschutz und Betreiberpflichten im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zaun, Zutritt, Drohnen, Video, Wachschutz, Polizei/Feuerwehr, Geheimschutz und Betreiberpflichten im Energierecht."
 ---
 
 # Physische Sicherheit, Sabotage und Terrorrisiko

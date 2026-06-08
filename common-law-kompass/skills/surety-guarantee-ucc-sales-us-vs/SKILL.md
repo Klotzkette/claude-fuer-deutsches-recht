@@ -1,6 +1,6 @@
 ---
 name: surety-guarantee-ucc-sales-us-vs
-description: "Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen) im Common Law Kompass."
 ---
 
 # Surety, Guarantee und Indemnity

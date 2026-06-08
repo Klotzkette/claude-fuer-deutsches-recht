@@ -1,6 +1,6 @@
 ---
 name: registerrecht-niederlassung-registergericht
-description: "Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Adress-/Vertretungsangaben im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft eintragungsfähige Zweigniederlassung, unselbständige Betriebsstätte und Adress-/Vertretungsangaben im Handelsregister Praxis."
 ---
 
 # Niederlassung und Filiale

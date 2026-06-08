@@ -1,6 +1,6 @@
 ---
 name: verkauf-des-geschaefts
-description: "Solo-Selbstständige: prüft Asset-Deal, Kunden, Rechte, Daten und Gewährleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Asset-Deal, Kunden, Rechte, Daten und Gewährleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft asset-deal

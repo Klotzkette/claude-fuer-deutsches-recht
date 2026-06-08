@@ -1,6 +1,6 @@
 ---
 name: suretyship-schriftsatz-brief-und-memo-bausteine
-description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine im Plugin common law kompass im Common Law Kompass."
 ---
 
 # Suretyship: Schriftsatz-, Brief- und Memo-Bausteine

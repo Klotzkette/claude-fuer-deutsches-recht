@@ -1,6 +1,6 @@
 ---
 name: landlord-tenant-retail
-description: "Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code."
 ---
 
 # Landlord Tenant and Retail Bankruptcy

@@ -1,6 +1,6 @@
 ---
 name: arzt-rechnung-bankentgelte-zustimmungsfiktion
-description: "Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Arztrechnung GOÄ für Laien

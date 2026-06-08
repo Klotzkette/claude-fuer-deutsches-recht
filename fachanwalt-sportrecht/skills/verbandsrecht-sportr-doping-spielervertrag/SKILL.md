@@ -1,17 +1,9 @@
 ---
 name: verbandsrecht-sportr-doping-spielervertrag
-description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft konkret Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüfungslinie für fachanwalt sportrecht spielervertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft konkret Verbandsrecht, Spezialfall Doping-Disziplinarverfahren CAS / NADA, Prüfungslinie für fachanwalt sportrecht spielervertrag."
 ---
 
 # Verbandsrecht Sportr Doping Spielervertrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verbandsrecht-fristen-form-und-zuständigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster für Verteidiger. |
-| `fachanwalt-sportrecht-spielervertrag` | Fachanwalt Sportrecht Spielervertrag: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Verbandsrecht Sportr Doping Spielervertrag im Sportrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verbandsrecht-fristen-form-und-zuständigkeit`
 
-**Fokus:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht.
 
 ### Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 

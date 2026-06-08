@@ -1,6 +1,6 @@
 ---
 name: mit-apache-bsd
-description: "Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Attribution und Haftungsausschlüsse im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft permissive Open-Source-Lizenzen, Notices, Patent Grant, Attribution und Haftungsausschlüsse im Softwarerecht De Eu Us."
 ---
 
 # MIT Apache BSD

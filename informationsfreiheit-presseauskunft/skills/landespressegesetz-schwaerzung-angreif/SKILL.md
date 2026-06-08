@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-schwaerzung-angreif
-description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Schwärzung angreifen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Schwärzung angreifen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Landespressegesetz Schwaerzung Angreif

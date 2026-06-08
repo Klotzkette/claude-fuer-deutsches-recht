@@ -1,6 +1,6 @@
 ---
 name: folgeaktionen
-description: "Plant zulässige und angemessene Folgemaßnahmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant zulässige und angemessene Folgemaßnahmen im Hinweisgeberschutz Compliance."
 ---
 
 # Folgeaktionen

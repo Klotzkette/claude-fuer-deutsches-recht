@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-campus-digital
-description: "Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich im Hochschulrecht Länder."
 ---
 
 # Barrierefreiheit Campus und digital

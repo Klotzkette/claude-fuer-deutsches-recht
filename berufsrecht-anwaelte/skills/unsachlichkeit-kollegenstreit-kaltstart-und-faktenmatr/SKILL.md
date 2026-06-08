@@ -1,6 +1,6 @@
 ---
 name: unsachlichkeit-kollegenstreit-kaltstart-und-faktenmatr
-description: "Anwälte: unsachlichkeit kollegenstreit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: unsachlichkeit kollegenstreit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: unsachlichkeit kollegenstreit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

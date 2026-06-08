@@ -1,6 +1,6 @@
 ---
 name: psychische-belastung-krise-suizidale-aeusserung
-description: "Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Psychische Belastung Krise Suizidale Aeusserung

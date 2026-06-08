@@ -1,6 +1,6 @@
 ---
 name: founder-ask-response
-description: "Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Founder Ask Response

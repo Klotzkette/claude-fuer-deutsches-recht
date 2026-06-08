@@ -1,6 +1,6 @@
 ---
 name: bilanzstreit-orientierung-sitzung
-description: "Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter Bilanzstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Jahresabschluss, Gewährleistung, Earn-out, Bilanzgarantie und kaufmännische Plausibilität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Handelsrichter Bilanzstreit: Orientierung

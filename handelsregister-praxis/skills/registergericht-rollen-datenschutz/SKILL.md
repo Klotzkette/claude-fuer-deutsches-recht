@@ -1,6 +1,6 @@
 ---
 name: registergericht-rollen-datenschutz
-description: "Klärt Zuständigkeiten, Kommunikationsstil, Entscheidungswege und wann eine Sache richterlich, rechtspflegerisch oder rein vollzugstechnisch hängt im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Zuständigkeiten, Kommunikationsstil, Entscheidungswege und wann eine Sache richterlich, rechtspflegerisch oder rein vollzugstechnisch hängt im Handelsregister Praxis."
 ---
 
 # Rechtspfleger, Registerrichter, Geschäftsstelle

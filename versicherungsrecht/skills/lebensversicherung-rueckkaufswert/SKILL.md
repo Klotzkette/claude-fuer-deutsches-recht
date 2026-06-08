@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-rueckkaufswert
-description: "Rückkaufswert, Abschlusskosten, Kündigung, Beitragsfreistellung und Altvertrags-Widerspruch in Lebens- und Rentenversicherung prüfen im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rückkaufswert, Abschlusskosten, Kündigung, Beitragsfreistellung und Altvertrags-Widerspruch in Lebens- und Rentenversicherung prüfen im Versicherungsrecht."
 ---
 
 # Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch

@@ -1,6 +1,6 @@
 ---
 name: entscheidungsform-risikoampel-und-gegenargumente
-description: "Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien

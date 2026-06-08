@@ -1,6 +1,6 @@
 ---
 name: 009-erster-teil-titel-6-unerlaubte-handlungen-und-vers
-description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen

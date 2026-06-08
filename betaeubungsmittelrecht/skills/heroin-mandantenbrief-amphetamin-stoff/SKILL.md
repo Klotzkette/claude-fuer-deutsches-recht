@@ -1,6 +1,6 @@
 ---
 name: heroin-mandantenbrief-amphetamin-stoff
-description: "Heroin: Mandantenbrief schreiben im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heroin: Mandantenbrief schreiben im Betäubungsmittelrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Heroin Mandantenbrief Schreiben

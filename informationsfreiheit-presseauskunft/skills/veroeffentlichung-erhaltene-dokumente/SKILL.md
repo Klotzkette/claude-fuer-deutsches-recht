@@ -1,6 +1,6 @@
 ---
 name: veroeffentlichung-erhaltene-dokumente
-description: "Informationsfreiheit und Presseauskunft: Veröffentlichung erhaltene Dokumente prüfen. Veröffentlichung erhaltene Dokumente prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Veröffentlichung erhaltene Dokumente prüfen. Veröffentlichung erhaltene Dokumente prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Veroeffentlichung Erhaltene Dokumente

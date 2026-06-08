@@ -1,6 +1,6 @@
 ---
 name: single-asset-small-business-stalking-horse
-description: "Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments im US Bankruptcy Code."
 ---
 
 # Single Asset Real Estate

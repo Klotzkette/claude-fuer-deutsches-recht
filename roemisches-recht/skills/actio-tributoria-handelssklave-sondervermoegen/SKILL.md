@@ -1,6 +1,6 @@
 ---
 name: actio-tributoria-handelssklave-sondervermoegen
-description: "Actio tributoria: Klage gegen den dominus für Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Actio tributoria: Klage gegen den dominus für Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 132 Actio Tributoria Handelssklave Sondervermoegen

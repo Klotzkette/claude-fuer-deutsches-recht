@@ -1,6 +1,6 @@
 ---
 name: rezept-btmvv-arztpraxis-compliance-apotheke-dokumentation
-description: "Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
 ---
 
 # Btm Rezept Und Btmvv

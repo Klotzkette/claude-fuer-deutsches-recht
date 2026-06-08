@@ -1,6 +1,6 @@
 ---
 name: lieferanten-tatbestand-beweis-und-belege
-description: "Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage im Vertragsrecht."
 ---
 
 # Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage

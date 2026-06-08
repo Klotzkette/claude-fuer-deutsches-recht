@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-und-personalgespraech
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Betriebsrat Und Personalgespraech; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Betriebsrat Und Personalgespraech; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # Betriebsrat Und Personalgespraech

@@ -1,17 +1,9 @@
 ---
 name: verwr-folgenbeseitigung-planfeststellung
-description: "Verwr Folgenbeseitigung Planfeststellung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Spezialfall Folgenbeseitigungsanspruch, Spezialfall Planfeststellung Grossvorhaben, Leitfaden vorläufiger Rechtsschutz VwGO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verwr Folgenbeseitigung Planfeststellung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Spezialfall Folgenbeseitigungsanspruch, Spezialfall Planfeststellung Grossvorhaben, Leitfaden vorläufiger Rechtsschutz VwGO."
 ---
 
 # Verwr Folgenbeseitigung Planfeststellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verwr-folgenbeseitigung-spezial` | Spezialfall Folgenbeseitigungsanspruch: Grundlage Art. 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Pruefraster für Klage. |
-| `verwr-planfeststellung-grossvorhaben-spezial` | Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff. VwVfG, öffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Pruefraster für Einwender. |
-| `verwr-vorläufiger-rechtsschutz-leitfaden` | Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs. 5 Antrag, § 123 einstweilige Anordnung. Pruefraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Verwr Folgenbeseitigung Planfeststellung im Plugin Fachanwalt Verw
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verwr-folgenbeseitigung-spezial`
 

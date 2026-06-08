@@ -1,6 +1,6 @@
 ---
 name: anwesenheitspflicht
-description: "Prüft Anwesenheitspflichten als Prüfungsvoraussetzung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anwesenheitspflichten als Prüfungsvoraussetzung im Pruefungsrecht Hochschule."
 ---
 
 # Anwesenheitspflicht

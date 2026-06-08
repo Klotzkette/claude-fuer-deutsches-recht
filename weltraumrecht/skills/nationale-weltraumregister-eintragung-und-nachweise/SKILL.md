@@ -1,6 +1,6 @@
 ---
 name: nationale-weltraumregister-eintragung-und-nachweise
-description: "Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Nationale Weltraumregister: Eintragung und Nachweise

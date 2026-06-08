@@ -1,6 +1,6 @@
 ---
 name: inhouse-counsel-ethics
-description: "Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstandsdruck, Fachbereich, Compliance und externer Kanzlei zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstandsdruck, Fachbereich, Compliance und externer Kanzlei zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Inhouse Counsel Ethics

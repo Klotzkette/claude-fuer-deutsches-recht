@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-einspruch-begruenden
-description: "Umwelt-OWi: Einspruch begründen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umwelt-OWi: Einspruch begründen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Umwelt Owi Einspruch Begruenden

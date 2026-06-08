@@ -1,6 +1,6 @@
 ---
 name: reisekosten-pressereise-und-gemischte-veranlassung
-description: "Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation im Influencer-Recht."
 ---
 
 # Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung

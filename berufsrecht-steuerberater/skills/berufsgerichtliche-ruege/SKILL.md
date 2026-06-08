@@ -1,6 +1,6 @@
 ---
 name: berufsgerichtliche-ruege
-description: "Steuerberater: berufsgerichtliche ruege steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: berufsgerichtliche ruege steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: berufsgerichtliche ruege steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

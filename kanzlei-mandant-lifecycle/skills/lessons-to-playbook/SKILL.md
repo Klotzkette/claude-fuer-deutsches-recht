@@ -1,6 +1,6 @@
 ---
 name: lessons-to-playbook
-description: "Lessons to Playbook: steuert aus Mandatsschmerz ein besseres Playbook für nächste Fälle bauen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lessons to Playbook: steuert aus Mandatsschmerz ein besseres Playbook für nächste Fälle bauen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Lessons to Playbook

@@ -1,6 +1,6 @@
 ---
 name: cyberversicherung
-description: "Prüft Cyberversicherung aus Compliance-Sicht im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cyberversicherung aus Compliance-Sicht im Nis2 Cybersecurity Compliance."
 ---
 
 # Cyberversicherung

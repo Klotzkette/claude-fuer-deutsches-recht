@@ -1,6 +1,6 @@
 ---
 name: mediation-singapore-convention
-description: "Internationales Handelsrecht: Internationale Mediation und Singapur-Konvention 2019 (UN Convention on International Settlement Agreements). Vollstreckbarkeit von Mediationsvergleichen, Abgrenzung zu Schiedsvergleich und ICC Mediation Rules 2014 im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Internationale Mediation und Singapur-Konvention 2019 (UN Convention on International Settlement Agreements). Vollstreckbarkeit von Mediationsvergleichen, Abgrenzung zu Schiedsvergleich und ICC Mediation Rules 2014 im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Mediation und Singapur-Konvention 2019

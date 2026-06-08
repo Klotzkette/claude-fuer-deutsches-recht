@@ -1,6 +1,6 @@
 ---
 name: cloud-ordner-und-dateinamen
-description: "Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Büro Alltag und Tools: Baut eine belastbare ordner- und dateinamenlogik für kunden

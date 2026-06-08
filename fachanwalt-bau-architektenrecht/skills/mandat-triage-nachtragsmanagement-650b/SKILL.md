@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-nachtragsmanagement-650b
-description: "Mandat Triage Nachtragsmanagement 650b im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Ersteinordnung neuer Mandate im Bau- und Architektenrecht, Nachtragsforderungen des Unternehmers nach § 650b BGB, Schriftsatzkern im Bau- und Architektenrecht substantiieren, Architektenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandat Triage Nachtragsmanagement 650b im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Ersteinordnung neuer Mandate im Bau- und Architektenrecht, Nachtragsforderungen des Unternehmers nach § 650b BGB, Schriftsatzkern im Bau- und Architektenrecht substantiieren, Architektenrecht."
 ---
 
 # Mandat Triage Nachtragsmanagement 650b
@@ -19,15 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mandat-triage-bau-architektenrecht` | Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme. |
-| `nachtragsmanagement-650b` | Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung. |
-| `schriftsatzkern-substantiierung` | Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollständiger Schriftsatz. |
-| `spezial-architektenrecht-tatbestand-beweis-und-belege` | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mandat-triage-bau-architektenrecht`
 
@@ -794,7 +785,7 @@ Aktenzeichen geprueft und korrigiert:
 
 ## 4. `spezial-architektenrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht.
 
 ### Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

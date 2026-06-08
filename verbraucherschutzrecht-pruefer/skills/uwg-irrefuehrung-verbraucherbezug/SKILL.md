@@ -1,6 +1,6 @@
 ---
 name: uwg-irrefuehrung-verbraucherbezug
-description: "Verbraucherschutzrecht Prüfer: UWG Irreführung Verbraucherbezug. UWG Irreführung Verbraucherbezug im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: UWG Irreführung Verbraucherbezug. UWG Irreführung Verbraucherbezug im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Uwg Irrefuehrung Verbraucherbezug

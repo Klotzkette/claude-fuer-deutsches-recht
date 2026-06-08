@@ -1,6 +1,6 @@
 ---
 name: phishing-tatbestand-beweis-und-belege
-description: "Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,17 +1,9 @@
 ---
 name: glaeubigerliste-richtig-hausrat
-description: "Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Gläubigerliste richtig bauen, Hausrat und Wertgegenstände, Inkasso und titulierte Forderungen."
 ---
 
 # Glaeubigerliste Richtig Hausrat
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `glaeubigerliste-richtig-bauen` | Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.; Normanker: InsO § 305 Abs. 1 Nr. 3; InsO §§ 174 und 175; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `hausrat-und-wertgegenstaende` | Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.; Normanker: ZPO §§ 811 ff.; InsO § 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `inkasso-und-titulierte-forderungen` | Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.; Normanker: ZPO Titel/Vollstreckung; BGB Verjährung; RDG-Kosten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Glaeubigerliste Richtig Hausrat im Plugin Verbraucherinsolvenz Sch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `glaeubigerliste-richtig-bauen`
 

@@ -1,6 +1,6 @@
 ---
 name: rueckruf-muster
-description: "Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag im Verlagsrecht/Buchpreisbindung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Rückruf vergriffenes Werk und Neuauflage

@@ -1,6 +1,6 @@
 ---
 name: vertriebsstreit-orientierung-sitzung
-description: "Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Handelsrichter Vertriebsstreit: Orientierung

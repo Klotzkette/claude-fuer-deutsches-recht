@@ -1,6 +1,6 @@
 ---
 name: registerrecht-aktiengesellschaft-vorstand
-description: "Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG im Handelsregister Praxis."
 ---
 
 # AG: Vorstand/Aufsichtsrat anmelden

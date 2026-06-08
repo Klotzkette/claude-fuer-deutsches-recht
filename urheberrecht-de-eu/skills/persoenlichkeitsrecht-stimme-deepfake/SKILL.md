@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-stimme-deepfake
-description: "Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Stimme, Bild, Deepfake, KI-Cover, Persönlichkeitsrecht, KUG, Datenschutz und Urheberrechtsschnittstellen im Urheberrecht De Eu."
 ---
 
 # Stimme, Deepfake und Persönlichkeit

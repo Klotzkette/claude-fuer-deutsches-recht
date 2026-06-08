@@ -1,6 +1,6 @@
 ---
 name: litigation-hold-client
-description: "Litigation Hold beim Mandanten: steuert E-Mails, Chats, Dateien, Teams/Slack, Backups und Löschroutinen sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Litigation Hold beim Mandanten: steuert E-Mails, Chats, Dateien, Teams/Slack, Backups und Löschroutinen sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Litigation Hold beim Mandanten

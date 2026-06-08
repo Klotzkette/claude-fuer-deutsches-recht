@@ -1,6 +1,6 @@
 ---
 name: kabinettsentwuerfe-compliance-dokumentation-und-akte
-description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im Plugin legistik werkstatt im Legistik."
 ---
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk

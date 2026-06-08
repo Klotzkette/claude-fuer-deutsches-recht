@@ -1,6 +1,6 @@
 ---
 name: stberg-compliance-dokumentation-und-akte
-description: "Stberg: Compliance-Dokumentation und Aktenvermerk im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stberg: Compliance-Dokumentation und Aktenvermerk im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
 ---
 
 # Stberg: Compliance-Dokumentation und Aktenvermerk

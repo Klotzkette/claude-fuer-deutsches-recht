@@ -1,6 +1,6 @@
 ---
 name: kostenobergrenze-budget-haftung
-description: "HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaffenheitsvereinbarung und Architektenhaftung nach BGH VII ZR 395/01 und VII ZR 185/13 mit Beweislast und Dolo-agit-Einwand prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: Baukostenobergrenze, Budget, Kostenrahmen, Beschaffenheitsvereinbarung und Architektenhaftung nach BGH VII ZR 395/01 und VII ZR 185/13 mit Beweislast und Dolo-agit-Einwand prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # Kostenobergrenze, Budget Und Haftung

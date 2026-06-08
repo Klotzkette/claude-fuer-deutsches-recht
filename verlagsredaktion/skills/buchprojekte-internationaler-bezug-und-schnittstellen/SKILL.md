@@ -1,6 +1,6 @@
 ---
 name: buchprojekte-internationaler-bezug-und-schnittstellen
-description: "Buchprojekte: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Buchprojekte: Internationaler Bezug und Schnittstellen im Verlagsredaktion."
 ---
 
 # Buchprojekte: Internationaler Bezug und Schnittstellen

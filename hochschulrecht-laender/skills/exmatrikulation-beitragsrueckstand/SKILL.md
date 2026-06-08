@@ -1,6 +1,6 @@
 ---
 name: exmatrikulation-beitragsrueckstand
-description: "Prüft Beitragsrückstand, Mahnung, Verhältnismäßigkeit, Härtefall und Wiedereinschreibung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beitragsrückstand, Mahnung, Verhältnismäßigkeit, Härtefall und Wiedereinschreibung im Hochschulrecht Länder."
 ---
 
 # Exmatrikulation wegen Beitragsrückstand

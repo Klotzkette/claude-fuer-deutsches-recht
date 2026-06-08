@@ -1,6 +1,6 @@
 ---
 name: portfolio-100-tage-plan
-description: "Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting im Private Equity Praxis."
 ---
 
 # Portfolio: 100-Tage-Plan Legal

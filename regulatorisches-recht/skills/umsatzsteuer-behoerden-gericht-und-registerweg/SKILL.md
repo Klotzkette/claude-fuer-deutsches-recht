@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-behoerden-gericht-und-registerweg
-description: "Umsatzsteuer: Behörden-, Gerichts- oder Registerweg im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umsatzsteuer: Behörden-, Gerichts- oder Registerweg im Plugin regulatorisches recht im Regulatorisches Recht."
 ---
 
 # Umsatzsteuer: Behörden-, Gerichts- oder Registerweg

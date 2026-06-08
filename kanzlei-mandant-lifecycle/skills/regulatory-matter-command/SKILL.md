@@ -1,6 +1,6 @@
 ---
 name: regulatory-matter-command
-description: "Regulatory Matter Command: steuert Behördenverfahren mit Kanzlei und Inhouse steuern: Auskunft, Akteneinsicht, Frist, Ton zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regulatory Matter Command: steuert Behördenverfahren mit Kanzlei und Inhouse steuern: Auskunft, Akteneinsicht, Frist, Ton zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Regulatory Matter Command

@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenrechnung-bauleiter
-description: "Bauleiter Sachverstaendigenrechnung JVEG: Honorargruppen, Zeitaufwand, Auslagen, Mehrwertsteuer. Pruefraster Sachverstaendiger und Kostenfestsetzung im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Sachverstaendigenrechnung JVEG: Honorargruppen, Zeitaufwand, Auslagen, Mehrwertsteuer. Pruefraster Sachverstaendiger und Kostenfestsetzung im Jveg Kostenpruefer."
 ---
 
 # JVEG: Sachverstaendigenrechnung

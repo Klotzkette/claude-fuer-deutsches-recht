@@ -1,6 +1,6 @@
 ---
 name: 030-red-team-antike-quelle-modern
-description: "Rom Red Team Antike Quelle Modern Ueberdehnt im Römisches Recht im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rom Red Team Antike Quelle Modern Ueberdehnt im Römisches Recht im Römisches Recht."
 ---
 
 # Rom Red Team Antike Quelle Modern Ueberdehnt

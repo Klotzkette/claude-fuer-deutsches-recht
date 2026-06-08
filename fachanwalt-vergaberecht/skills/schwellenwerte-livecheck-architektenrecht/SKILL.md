@@ -1,18 +1,9 @@
 ---
 name: schwellenwerte-livecheck-architektenrecht
-description: "Schwellenwerte Livecheck Architektenrecht im Plugin Fachanwalt Vergaberecht: prüft konkret EU-Schwellenwerte 2026/2027 sicher pruefen, Architektenrecht, Fachanwalt, Konzession. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schwellenwerte Livecheck Architektenrecht im Plugin Fachanwalt Vergaberecht: prüft konkret EU-Schwellenwerte 2026/2027 sicher pruefen, Architektenrecht, Fachanwalt, Konzession."
 ---
 
 # Schwellenwerte Livecheck Architektenrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `schwellenwerte-2026-2027-livecheck` | EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk. |
-| `spezial-architektenrecht-compliance-dokumentation-und-akte` | Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-konzession-formular-portal-und-einreichung` | Konzession: Formular, Portal und Einreichungslogik im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -37,7 +28,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `schwellenwerte-2026-2027-livecheck`
 
@@ -92,7 +83,7 @@ Schwellenwerttabelle, Rechenweg, Los-/Zusammenrechnungspruefung, Rechtswegempfeh
 
 ## 2. `spezial-architektenrecht-compliance-dokumentation-und-akte`
 
-**Fokus:** Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht.
 
 ### Architektenrecht: Compliance-Dokumentation und Aktenvermerk
 
@@ -127,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt vergaberecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -162,7 +153,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-konzession-formular-portal-und-einreichung`
 
-**Fokus:** Konzession: Formular, Portal und Einreichungslogik im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Konzession: Formular, Portal und Einreichungslogik im Plugin fachanwalt vergaberecht.
 
 ### Konzession: Formular, Portal und Einreichungslogik
 

@@ -1,6 +1,6 @@
 ---
 name: liability-cap
-description: "Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken im Softwarerecht De Eu Us."
 ---
 
 # Haftungsbegrenzung Software

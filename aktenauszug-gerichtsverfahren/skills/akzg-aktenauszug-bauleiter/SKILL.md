@@ -1,6 +1,6 @@
 ---
 name: akzg-aktenauszug-bauleiter
-description: "Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren."
 ---
 
 # AkzG: Aktenauszug Bauleiter

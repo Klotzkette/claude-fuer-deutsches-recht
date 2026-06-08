@@ -1,6 +1,6 @@
 ---
 name: sprachlich-einfache-erklaerung
-description: "Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Einfache Erklärung

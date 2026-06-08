@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaftsrecht-vs-nachfolge-erbfall-ohg
-description: "Gesellschaftsrechtliche Treuepflicht: Mitgliedschaftsrecht Vs Sonderrecht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Mitgliedschaftsrecht Vs Sonderrecht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Mitgliedschaftsrecht Vs Sonderrecht

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-organschaft-nach-eugh-bfh-update
-description: "Rechtsabteilungs-Fachmodul für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Steuerrecht Anwalt Und Berater."
 ---
 
 # Rechtsabteilung: Organschaft nach EuGH/BFH-Update

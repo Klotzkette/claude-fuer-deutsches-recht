@@ -1,6 +1,6 @@
 ---
 name: hub-and-spoke-cartels
-description: "Hub-and-Spoke-Kartelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft vertikale Kommunikationskanäle, Händlerplattformen, Lieferanten und Informationsfluss prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hub-and-Spoke-Kartelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft vertikale Kommunikationskanäle, Händlerplattformen, Lieferanten und Informationsfluss prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Hub-and-Spoke-Kartelle

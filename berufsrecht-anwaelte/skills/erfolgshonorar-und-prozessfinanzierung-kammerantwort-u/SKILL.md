@@ -1,6 +1,6 @@
 ---
 name: erfolgshonorar-und-prozessfinanzierung-kammerantwort-u
-description: "Anwälte: erfolgshonorar und prozessfinanzierung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: erfolgshonorar und prozessfinanzierung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: erfolgshonorar und prozessfinanzierung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

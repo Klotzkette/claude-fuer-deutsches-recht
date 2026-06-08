@@ -1,6 +1,6 @@
 ---
 name: sigeko-projektsteuerung-abnahmefahrplan
-description: "HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandschutzkonzept, Nachhaltigkeitszertifizierung und andere besondere Leistungen von HOAI-Grundleistungen abgrenzen und vertraglich fassen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: SiGeKo, Projektsteuerung, Bedarfsplanung, Brandschutzkonzept, Nachhaltigkeitszertifizierung und andere besondere Leistungen von HOAI-Grundleistungen abgrenzen und vertraglich fassen im Hoai Leistungsphasen Praxis."
 ---
 
 # SiGeKo, Projektsteuerung Und Besondere Leistungen

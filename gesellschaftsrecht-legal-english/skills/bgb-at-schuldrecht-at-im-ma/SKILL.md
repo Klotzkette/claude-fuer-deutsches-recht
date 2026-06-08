@@ -1,6 +1,6 @@
 ---
 name: bgb-at-schuldrecht-at-im-ma
-description: "Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen: Form, Stellvertretung, Bedingungen, Verfuegungsverbote, AGB-Kontrolle, Konkretisierung, Treu und Glauben. Gegen den weit verbreiteten Irrtum, M&A sei reines Vertragsrecht im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen: Form, Stellvertretung, Bedingungen, Verfuegungsverbote, AGB-Kontrolle, Konkretisierung, Treu und Glauben. Gegen den weit verbreiteten Irrtum, M&A sei reines Vertragsrecht im Gesellschaftsrecht Legal English."
 ---
 
 # BGB AT und Schuldrecht AT im M&A-Mandat

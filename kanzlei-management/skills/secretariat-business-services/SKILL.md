@@ -1,6 +1,6 @@
 ---
 name: secretariat-business-services
-description: "Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssystem der Kanzlei. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssystem der Kanzlei. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Sekretariat und Business Services

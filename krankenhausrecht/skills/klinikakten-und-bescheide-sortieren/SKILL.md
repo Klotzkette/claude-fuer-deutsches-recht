@@ -1,6 +1,6 @@
 ---
 name: klinikakten-und-bescheide-sortieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren im Krankenhausrecht."
 ---
 
 # Klinikakten und Bescheide sortieren

@@ -1,6 +1,6 @@
 ---
 name: memo-research-tracking-leitfaden
-description: "Leitfaden Research- und Quellen-Tracking für Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Pruefraster für Erstautor und Review im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Research- und Quellen-Tracking für Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Pruefraster für Erstautor und Review im Memorandums Ersteller."
 ---
 
 # Memo: Research-Tracking

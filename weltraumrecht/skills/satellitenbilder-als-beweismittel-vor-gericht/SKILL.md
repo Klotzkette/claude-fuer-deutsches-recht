@@ -1,6 +1,6 @@
 ---
 name: satellitenbilder-als-beweismittel-vor-gericht
-description: "Satellitenbilder als Beweismittel – Verwertbarkeit, Authentizität, Metadaten, DSGVO, Geheimschutz im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Satellitenbilder als Beweismittel – Verwertbarkeit, Authentizität, Metadaten, DSGVO, Geheimschutz im Weltraumrecht."
 ---
 
 # Weltraumrecht: Satellitenbilder als Beweismittel vor Gericht

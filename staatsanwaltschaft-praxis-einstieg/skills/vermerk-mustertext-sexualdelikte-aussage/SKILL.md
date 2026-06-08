@@ -1,6 +1,6 @@
 ---
 name: vermerk-mustertext-sexualdelikte-aussage
-description: "Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

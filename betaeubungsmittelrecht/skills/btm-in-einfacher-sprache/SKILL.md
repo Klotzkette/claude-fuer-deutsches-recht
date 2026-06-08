@@ -1,6 +1,6 @@
 ---
 name: btm-in-einfacher-sprache
-description: "Betäubungsmittelrecht: BtM in einfacher Sprache. BtM in einfacher Sprache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betäubungsmittelrecht: BtM in einfacher Sprache. BtM in einfacher Sprache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
 ---
 
 # Btm In Einfacher Sprache

@@ -1,6 +1,6 @@
 ---
 name: evidence-preservation-china
-description: "Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Beweissicherung China: Notarisierung/E-Discovery/Rechtshilfe

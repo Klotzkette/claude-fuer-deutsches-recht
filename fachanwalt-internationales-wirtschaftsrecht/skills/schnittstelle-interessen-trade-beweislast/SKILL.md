@@ -1,17 +1,9 @@
 ---
 name: schnittstelle-interessen-trade-beweislast
-description: "Schnittstelle Interessen Trade Beweislast im Internationalen Wirtschaftsrecht: prüft konkret Schnittstelle, Trade, Uncitral. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schnittstelle Interessen Trade Beweislast im Internationalen Wirtschaftsrecht: prüft konkret Schnittstelle, Trade, Uncitral."
 ---
 
 # Schnittstelle Interessen Trade Beweislast
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schnittstelle-mehrparteien-konflikt-und-interessen` | Schnittstelle: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-trade-beweislast-und-darlegungslast` | Trade: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-uncitral-schriftsatz-brief-und-memo-bausteine` | Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schnittstelle-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Schnittstelle: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Schnittstelle: Mehrparteienkonflikt und Interessenmatrix
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-trade-beweislast-und-darlegungslast`
 
-**Fokus:** Trade: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Trade: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Trade: Beweislast, Darlegungslast und Substantiierung
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-uncitral-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
 

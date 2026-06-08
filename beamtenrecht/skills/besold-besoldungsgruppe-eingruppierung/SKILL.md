@@ -1,6 +1,6 @@
 ---
 name: besold-besoldungsgruppe-eingruppierung
-description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im Beamtenrecht."
 ---
 
 # Besold Besoldungsgruppe Eingruppierung Amt Und Funktion

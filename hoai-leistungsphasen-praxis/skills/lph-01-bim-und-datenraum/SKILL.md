@@ -1,6 +1,6 @@
 ---
 name: lph-01-bim-und-datenraum
-description: "HOAI LPH 1 Grundlagenermittlung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 1 Grundlagenermittlung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 1 Grundlagenermittlung: Ordnet digitale modelle

@@ -1,6 +1,6 @@
 ---
 name: fachanwaltstitel-und-fortbildung-organisationspflicht
-description: "Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: fachanwaltstitel und fortbildung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,17 +1,9 @@
 ---
 name: typische-laien-urkundenbeweis-ff-urteil-zpo
-description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am Amtsgericht: prüft konkret Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am Amtsgericht: prüft konkret Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO."
 ---
 
 # Typische Laien Urkundenbeweis FF Urteil ZPO
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `typische-laien-fehler` | Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen. |
-| `urkundenbeweis-415-ff-zpo` | Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten. |
-| `urteil-pruefen-313-zpo` | Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `typische-laien-fehler`
 

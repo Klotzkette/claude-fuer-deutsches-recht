@@ -1,15 +1,9 @@
 ---
 name: vowi-akteneinsicht
-description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Vowi Akteneinsicht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vowi-akteneinsicht-rohmessdaten-leitfaden` | Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren. Pruefraster für Verteidiger. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Vowi Akteneinsicht im Plugin Verkehrsowi Verteidiger im Verkehrsow
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vowi-akteneinsicht-rohmessdaten-leitfaden`
 

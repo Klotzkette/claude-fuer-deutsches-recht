@@ -1,17 +1,9 @@
 ---
 name: prip-sonderfall-regulatorisches
-description: "Prip Sonderfall Regulatorisches im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prip, Regulatorisches, Schnittstellen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Prip Sonderfall Regulatorisches im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Prip, Regulatorisches, Schnittstellen."
 ---
 
 # Prip Sonderfall Regulatorisches
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-prip-sonderfall-und-edge-case` | Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-regulatorisches-internationaler-bezug-und-schnittstellen` | Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,16 +30,16 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-prip-sonderfall-und-edge-case`
 
-**Fokus:** Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Prip: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Prip: Sonderfall und Edge-Case-Prüfung
-- **Konkreter Gegenstand:** Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -70,12 +62,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-regulatorisches-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Regulatorisches: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Regulatorisches: Internationaler Bezug und Schnittstellen
-- **Konkreter Gegenstand:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -98,12 +90,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstellen-compliance-dokumentation-und-akte`
 
-**Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Schnittstellen: Compliance-Dokumentation und Aktenvermerk
-- **Konkreter Gegenstand:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

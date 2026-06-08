@@ -1,6 +1,6 @@
 ---
 name: rolle-erkennen
-description: "Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist im Bürokratie-Entbürokratisierung."
 ---
 
 # Rolle erkennen

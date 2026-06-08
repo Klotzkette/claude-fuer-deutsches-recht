@@ -1,6 +1,6 @@
 ---
 name: ruege-und-gegenvorstellung-kaltstart-und-faktenmatrix
-description: "Anwälte: ruege und gegenvorstellung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: ruege und gegenvorstellung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: ruege und gegenvorstellung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: abo-falle-kuendigung
-description: "Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Abo-Falle und Kündigung

@@ -1,6 +1,6 @@
 ---
 name: klausurkorrektur-formular-portal-und-einreichung
-description: "Klausurkorrektur: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klausurkorrektur: Formular, Portal und Einreichungslogik im Jurastudium."
 ---
 
 # Klausurkorrektur: Formular, Portal und Einreichungslogik

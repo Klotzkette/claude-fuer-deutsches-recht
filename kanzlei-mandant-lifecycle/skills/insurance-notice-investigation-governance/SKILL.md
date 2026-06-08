@@ -1,6 +1,6 @@
 ---
 name: insurance-notice-investigation-governance
-description: "Insurance Notice: steuert D&O, Rechtsschutz, Cyber, Produkthaftpflicht und Deckungsmeldung im Mandat koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insurance Notice: steuert D&O, Rechtsschutz, Cyber, Produkthaftpflicht und Deckungsmeldung im Mandat koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Insurance Notice

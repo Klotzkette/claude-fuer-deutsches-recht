@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-sitzung-handelskauf
-description: "Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter Gesellschafterstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei GmbH/OHG/KG-Streit, Beschlussmängel, Treuepflicht und einstweiliger Rechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Handelsrichter Gesellschafterstreit: Sitzungspraxis

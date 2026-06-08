@@ -1,6 +1,6 @@
 ---
 name: mehrarbeitsverguetung-88-bbg
-description: "Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjährung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz für Verguetungsklage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Mehrarbeitsverguetung der Beamten nach § 88 BBG bzw. § 60 BeamtStG i.V.m. dem Landesrecht und der Mehrarbeitsverguetungsverordnung. Klaert Anordnung der Mehrarbeit Ausgleich durch Freizeit Verguetung in Geld Begrenzung der Mehrarbeit Kontroll- und Dokumentationspflichten Verjährung der Mehrarbeitsansprueche und das Verhaeltnis zur unionsrechtlichen Arbeitszeitrichtlinie. Behandelt Sonderfaelle wie Bereitschaftsdienst Rufbereitschaft Verwendung im polizeilichen Sondereinsatz und im Justizvollzug. Liefert Antragsmuster und Schriftsatz für Verguetungsklage im Beamtenrecht."
 ---
 
 # Mehrarbeitsverguetung nach § 88 BBG

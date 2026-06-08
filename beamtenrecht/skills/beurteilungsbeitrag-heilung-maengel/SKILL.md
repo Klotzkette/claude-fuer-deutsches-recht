@@ -1,6 +1,6 @@
 ---
 name: beurteilungsbeitrag-heilung-maengel
-description: "Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen Dritter im beamtenrechtlichen Beurteilungsverfahren. Klaert wer einen Beitrag liefern muss wann ein fehlender Beitrag die Beurteilung rechtswidrig macht und wie eine fehlende Heranziehung im Verfahren geheilt werden kann. Behandelt die Konstellationen Abordnung Versetzung Wechsel des Dienstvorgesetzten lange Elternzeit Beurlaubung. Liefert Schriftsatzbausteine zur Anfechtung der Beurteilung und zur Geltendmachung im Konkurrenteneilrechtsschutz. Verweist auf konkurrentenschutz-bestenauslese-art-33-ii-gg im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen Dritter im beamtenrechtlichen Beurteilungsverfahren. Klaert wer einen Beitrag liefern muss wann ein fehlender Beitrag die Beurteilung rechtswidrig macht und wie eine fehlende Heranziehung im Verfahren geheilt werden kann. Behandelt die Konstellationen Abordnung Versetzung Wechsel des Dienstvorgesetzten lange Elternzeit Beurlaubung. Liefert Schriftsatzbausteine zur Anfechtung der Beurteilung und zur Geltendmachung im Konkurrenteneilrechtsschutz. Verweist auf konkurrentenschutz-bestenauslese-art-33-ii-gg im Beamtenrecht."
 ---
 
 # Beurteilungsbeitrag — Pflicht, Mangel, Heilung

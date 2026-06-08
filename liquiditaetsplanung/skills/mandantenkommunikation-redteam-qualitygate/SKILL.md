@@ -1,17 +1,9 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate
-description: "Mandantenkommunikation Redteam Qualitygate im Plugin Liquiditaetsplanung: prüft konkret Mandantenkommunikation im Plugin liquiditaetsplanung, Red-Team Qualitygate im Plugin liquiditaetsplanung, Ausgabengruppen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandantenkommunikation Redteam Qualitygate im Plugin Liquiditaetsplanung: prüft konkret Mandantenkommunikation im Plugin liquiditaetsplanung, Red-Team Qualitygate im Plugin liquiditaetsplanung, Ausgabengruppen."
 ---
 
 # Mandantenkommunikation Redteam Qualitygate
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin liquiditaetsplanung: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin liquiditaetsplanung: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-ausgabengruppen-fristennotiz-und-naechster-schritt` | Ausgabengruppen: Fristennotiz und nächster Schritt im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Mandantenkommunikation Redteam Qualitygate im Plugin Liquiditaetsp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -100,7 +92,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 3. `spezial-ausgabengruppen-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Ausgabengruppen: Fristennotiz und nächster Schritt im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ausgabengruppen: Fristennotiz und nächster Schritt im Plugin liquiditaetsplanung.
 
 ### Ausgabengruppen: Fristennotiz und nächster Schritt
 

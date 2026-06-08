@@ -1,6 +1,6 @@
 ---
 name: neuheit-erfinderischer-patent-gebrauchsmuster
-description: "Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit im Gebrauchsmusterrecht."
 ---
 
 # Neuheit Und Erfinderischer Schritt

@@ -1,6 +1,6 @@
 ---
 name: lernplanung-red-team-und-qualitaetskontrolle
-description: "Lernplanung: Red-Team und Qualitätskontrolle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lernplanung: Red-Team und Qualitätskontrolle im Jurastudium."
 ---
 
 # Lernplanung: Red-Team und Qualitätskontrolle

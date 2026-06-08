@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderung-gdb
-description: "Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung im Bürokratie-Entbürokratisierung."
 ---
 
 # Schwerbehinderung / GdB

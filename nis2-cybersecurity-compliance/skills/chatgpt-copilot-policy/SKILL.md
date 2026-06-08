@@ -1,6 +1,6 @@
 ---
 name: chatgpt-copilot-policy
-description: "Baut Policy für ChatGPT, Copilot und Entwickler-KI im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Policy für ChatGPT, Copilot und Entwickler-KI im Nis2 Cybersecurity Compliance."
 ---
 
 # Chatgpt Copilot Policy

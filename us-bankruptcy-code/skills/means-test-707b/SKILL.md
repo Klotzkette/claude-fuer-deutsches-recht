@@ -1,6 +1,6 @@
 ---
 name: means-test-707b
-description: "Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances im US Bankruptcy Code."
 ---
 
 # Means Test § 707(b)

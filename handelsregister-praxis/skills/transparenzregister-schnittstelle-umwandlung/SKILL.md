@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-schnittstelle-umwandlung
-description: "Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Handelsregisterdaten mit wirtschaftlich Berechtigten, GwG-Risiken und Meldepflichten im Handelsregister Praxis."
 ---
 
 # Transparenzregister-Schnittstelle

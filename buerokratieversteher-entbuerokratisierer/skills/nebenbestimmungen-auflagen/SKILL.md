@@ -1,6 +1,6 @@
 ---
 name: nebenbestimmungen-auflagen
-description: "Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie im Bürokratie-Entbürokratisierung."
 ---
 
 # Nebenbestimmungen und Auflagen

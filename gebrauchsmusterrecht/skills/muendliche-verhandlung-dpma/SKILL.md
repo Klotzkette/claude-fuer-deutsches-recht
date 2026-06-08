@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-dpma
-description: "Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mündliche Verhandlung im DPMA-Löschungsverfahren vorbereiten: Streitpunkte, Stand der Technik, Anspruchsfassung, Beweismittel und Vergleich im Gebrauchsmusterrecht."
 ---
 
 # Muendliche Verhandlung Dpma

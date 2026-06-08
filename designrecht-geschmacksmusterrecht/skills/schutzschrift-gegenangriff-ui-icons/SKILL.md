@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-gegenangriff-ui-icons
-description: "Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Nichtigkeit, fehlende Dringlichkeit, Vorbekanntes, Rechtekette und Marktfolgen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schutzschrift und Gegenangriff im Designrecht: Nichtverletzung, Nichtigkeit, fehlende Dringlichkeit, Vorbekanntes, Rechtekette und Marktfolgen im Designrecht Geschmacksmusterrecht."
 ---
 
 # Schutzschrift Und Gegenangriff

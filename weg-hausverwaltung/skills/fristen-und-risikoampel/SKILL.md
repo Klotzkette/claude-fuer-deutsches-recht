@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Weg Hausverwaltung im Weg Hausverwaltung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen- und Risikoampel im Plugin Weg Hausverwaltung im Weg Hausverwaltung."
 ---
 
 # Fristen- und Risikoampel

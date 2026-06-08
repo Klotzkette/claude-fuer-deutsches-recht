@@ -1,17 +1,9 @@
 ---
 name: entgtranspg-fachanwalt-kschg
-description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret EntgTranspG Entgelttransparenzgesetz, Fachanwalt Erstprüfung und Mandatsziel, KSchG Risikoampel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret EntgTranspG Entgelttransparenzgesetz, Fachanwalt Erstprüfung und Mandatsziel, KSchG Risikoampel."
 ---
 
 # Entgtranspg Fachanwalt Kschg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` | EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel. |
-| `spezial-kschg-risikoampel-und-gegenargumente` | KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-entgtranspg-verhandlung-vergleich-und-eskalation`
 

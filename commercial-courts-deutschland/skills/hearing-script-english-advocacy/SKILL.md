@@ -1,6 +1,6 @@
 ---
 name: hearing-script-english-advocacy
-description: "Erstellt englische Hearing Scripts für deutsche Anwälte: opening, issue roadmap, witness questions, judicial questions, closing and settlement signals im Commercial Courts Deutschland. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt englische Hearing Scripts für deutsche Anwälte: opening, issue roadmap, witness questions, judicial questions, closing and settlement signals im Commercial Courts Deutschland."
 ---
 
 # English Hearing Advocacy

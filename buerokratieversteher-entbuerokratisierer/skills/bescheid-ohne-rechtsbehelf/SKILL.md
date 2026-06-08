@@ -1,6 +1,6 @@
 ---
 name: bescheid-ohne-rechtsbehelf
-description: "Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung im Bürokratie-Entbürokratisierung."
 ---
 
 # Bescheid ohne Rechtsbehelfsbelehrung

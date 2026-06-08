@@ -1,6 +1,6 @@
 ---
 name: rueckrufpflicht-safety-gate
-description: "Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rückruf, Warnung, Korrekturmaßnahme, Safety-Gate-Meldung, Kundenkommunikation und Behördenunterrichtung im Robotik-Recht."
 ---
 
 # Rückrufpflicht und Safety Gate

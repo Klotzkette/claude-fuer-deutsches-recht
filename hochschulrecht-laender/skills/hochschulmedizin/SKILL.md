@@ -1,6 +1,6 @@
 ---
 name: hochschulmedizin
-description: "Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Universitätskliniken und Hochschulmedizin im Hochschulrecht Länder."
 ---
 
 # Hochschulmedizin

@@ -1,6 +1,6 @@
 ---
 name: anhoerung-red-team-und-qualitaetskontrolle
-description: "Anhörung: Red-Team und Qualitätskontrolle im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anhörung: Red-Team und Qualitätskontrolle im Plugin regulatorisches recht im Regulatorisches Recht."
 ---
 
 # Anhörung: Red-Team und Qualitätskontrolle

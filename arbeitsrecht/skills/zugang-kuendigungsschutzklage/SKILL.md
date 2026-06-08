@@ -1,18 +1,9 @@
 ---
 name: zugang-kuendigungsschutzklage
-description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkret Arbeitsrecht, Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags, wenn. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkret Arbeitsrecht, Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags, wenn."
 ---
 
 # Zugang Kuendigungsschutzklage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
-| `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte. |
-| `aufhebungsvertrag-sperrzeit-prognose` | Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `bag-freistellungsklausel-unwirksam-5azr10825` | Bag Freistellungsklausel Unwirksam 5azr10825: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga`
 

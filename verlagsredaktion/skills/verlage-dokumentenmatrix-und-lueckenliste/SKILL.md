@@ -1,6 +1,6 @@
 ---
 name: verlage-dokumentenmatrix-und-lueckenliste
-description: "Verlage: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlage: Dokumentenmatrix, Lückenliste und Nachforderung im Verlagsredaktion."
 ---
 
 # Verlage: Dokumentenmatrix, Lückenliste und Nachforderung

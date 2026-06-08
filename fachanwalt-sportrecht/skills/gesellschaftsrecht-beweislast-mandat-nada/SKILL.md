@@ -1,17 +1,9 @@
 ---
 name: gesellschaftsrecht-beweislast-mandat-nada
-description: "Gesellschaftsrecht Beweislast Mandat Nada im Sportrecht: prüft konkret Gesellschaftsrecht, Mandat, Nada. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschaftsrecht Beweislast Mandat Nada im Sportrecht: prüft konkret Gesellschaftsrecht, Mandat, Nada."
 ---
 
 # Gesellschaftsrecht Beweislast Mandat Nada
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-gesellschaftsrecht-beweislast-und-darlegungslast` | Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-mandat-abschlussprodukt-und-uebergabe` | Mandat: Abschlussprodukt und Übergabe im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-nada-mehrparteien-konflikt-und-interessen` | Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-gesellschaftsrecht-beweislast-und-darlegungslast`
 
-**Fokus:** Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt sportrecht.
 
 ### Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-mandat-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Mandat: Abschlussprodukt und Übergabe im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mandat: Abschlussprodukt und Übergabe im Plugin fachanwalt sportrecht.
 
 ### Mandat: Abschlussprodukt und Übergabe
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-nada-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht.
 
 ### Nada: Mehrparteienkonflikt und Interessenmatrix
 

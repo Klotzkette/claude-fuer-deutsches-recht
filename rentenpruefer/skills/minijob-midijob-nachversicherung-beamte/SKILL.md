@@ -1,6 +1,6 @@
 ---
 name: minijob-midijob-nachversicherung-beamte
-description: "Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Minijob, Midijob, Teilzeit und Pflegezeiten: Beitragswirkung, Wartezeitmonate, Aufstockung, Pflegeperson und typische Lücken im Rentenpruefer."
 ---
 
 # minijob-midijob-teilzeit-pflegezeiten

@@ -1,6 +1,6 @@
 ---
 name: vertreterversammlung-vorstandswahl-partei
-description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation im Parteienrecht."
 ---
 
 # Vertreterversammlung

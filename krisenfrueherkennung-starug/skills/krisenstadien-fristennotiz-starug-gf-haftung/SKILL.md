@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Krisenstadien: Fristennotiz und nächster Schritt im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krisenstadien: Fristennotiz und nächster Schritt im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Krisenstadien: Fristennotiz und nächster Schritt

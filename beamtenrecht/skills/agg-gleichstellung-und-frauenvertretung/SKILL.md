@@ -1,6 +1,6 @@
 ---
 name: agg-gleichstellung-und-frauenvertretung
-description: "AGG, Gleichstellung, Frauenvertretung, Diversität und diskriminierungsfreie Auswahl im öffentlichen Dienst im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AGG, Gleichstellung, Frauenvertretung, Diversität und diskriminierungsfreie Auswahl im öffentlichen Dienst im Beamtenrecht."
 ---
 
 # Agg Gleichstellung Und Frauenvertretung

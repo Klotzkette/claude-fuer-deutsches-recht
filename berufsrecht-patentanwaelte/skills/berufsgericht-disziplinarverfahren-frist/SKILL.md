@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-disziplinarverfahren-frist
-description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Berufsgericht und Disziplinarverfahren

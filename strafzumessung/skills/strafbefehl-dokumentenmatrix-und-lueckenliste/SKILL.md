@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-dokumentenmatrix-und-lueckenliste
-description: "Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Strafzumessung."
 ---
 
 # Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung

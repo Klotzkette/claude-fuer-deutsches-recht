@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-im-notariat-kaltstart-und-faktenmat
-description: "Notare: qualitaetsmanagement im notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: qualitaetsmanagement im notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: qualitaetsmanagement im notariat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,17 +1,9 @@
 ---
 name: vorabklaerung-erfolgsaussichten-wann-doch
-description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am Amtsgericht: prüft konkret Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am Amtsgericht: prüft konkret Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten."
 ---
 
 # Vorabklaerung Erfolgsaussichten Wann Doch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vorabklaerung-erfolgsaussichten-selbstcheck` | Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor. |
-| `wann-doch-anwalt-grenzfaelle` | Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat. |
-| `widerklage-33-zpo` | Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vorabklaerung-erfolgsaussichten-selbstcheck`
 

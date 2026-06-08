@@ -1,6 +1,6 @@
 ---
 name: muendliche-pruefung-protokoll
-description: "Prüft mündliche Prüfungen und Protokolle im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft mündliche Prüfungen und Protokolle im Pruefungsrecht Hochschule."
 ---
 
 # Mündliche Pruefung Protokoll

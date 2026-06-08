@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-beweis-ruegen
-description: "Lebensmittelrecht: Beweis rügen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebensmittelrecht: Beweis rügen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Lebensmittelrecht Beweis Ruegen

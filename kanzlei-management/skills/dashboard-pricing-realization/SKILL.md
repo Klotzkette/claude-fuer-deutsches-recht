@@ -1,6 +1,6 @@
 ---
 name: dashboard-pricing-realization
-description: "Zeigt Preisniveau, Rabatte, Realization, Write-offs und Profitabilität. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeigt Preisniveau, Rabatte, Realization, Write-offs und Profitabilität. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Pricing Realization Dashboard

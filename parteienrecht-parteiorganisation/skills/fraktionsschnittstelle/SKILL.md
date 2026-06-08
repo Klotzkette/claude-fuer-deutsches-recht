@@ -1,6 +1,6 @@
 ---
 name: fraktionsschnittstelle
-description: "Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit im Parteienrecht."
 ---
 
 # Schnittstelle Fraktion/Partei

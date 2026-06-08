@@ -1,6 +1,6 @@
 ---
 name: doppelte-staatsangehoerigkeit
-description: "Routet deutsche KDV und ausländische Wehrpflichten ohne falsche Auslandsversprechen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet deutsche KDV und ausländische Wehrpflichten ohne falsche Auslandsversprechen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Doppelte Staatsangehörigkeit

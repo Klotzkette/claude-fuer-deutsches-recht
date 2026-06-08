@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-zurruhesetzung
-description: "Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstunfähigkeit und Zurruhesetzung: Prognose, amtsärztliches Gutachten, anderweitige Verwendung, Beteiligung und Rechtsschutz im Beamtenrecht."
 ---
 
 # Dienstunfaehigkeit Zurruhesetzung

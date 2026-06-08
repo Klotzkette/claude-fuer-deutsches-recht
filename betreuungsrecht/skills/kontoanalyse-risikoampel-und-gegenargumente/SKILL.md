@@ -1,6 +1,6 @@
 ---
 name: kontoanalyse-risikoampel-und-gegenargumente
-description: "Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien im Betreuungsrecht."
 ---
 
 # Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien

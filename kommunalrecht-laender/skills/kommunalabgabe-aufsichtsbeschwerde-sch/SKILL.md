@@ -1,6 +1,6 @@
 ---
 name: kommunalabgabe-aufsichtsbeschwerde-sch
-description: "der Länder: Kommunalabgabe: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "der Länder: Kommunalabgabe: Aufsichtsbeschwerde schreiben im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Kommunalabgabe Aufsichtsbeschwerde Sch

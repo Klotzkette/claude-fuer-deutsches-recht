@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-internationaler-bezug-und-schnittstellen
-description: "Rechtstheorie: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtstheorie: Internationaler Bezug und Schnittstellen im Hausarbeitenmacher."
 ---
 
 # Rechtstheorie: Internationaler Bezug und Schnittstellen

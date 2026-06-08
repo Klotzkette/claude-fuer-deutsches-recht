@@ -1,6 +1,6 @@
 ---
 name: kita-gebuehren
-description: "Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung im Bürokratie-Entbürokratisierung."
 ---
 
 # Kita-Gebühren

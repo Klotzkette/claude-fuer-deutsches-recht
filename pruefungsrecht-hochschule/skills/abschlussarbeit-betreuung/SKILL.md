@@ -1,6 +1,6 @@
 ---
 name: abschlussarbeit-betreuung
-description: "Prüft Bachelor-/Masterarbeit, Betreuung und Thema im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bachelor-/Masterarbeit, Betreuung und Thema im Pruefungsrecht Hochschule."
 ---
 
 # Abschlussarbeit Betreuung

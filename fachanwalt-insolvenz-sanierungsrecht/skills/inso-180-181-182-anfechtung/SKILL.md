@@ -1,6 +1,6 @@
 ---
 name: inso-180-181-182-anfechtung
-description: "Inso P180 Zustandigkeit P181 Umfang P182 im Insolvenz- und Sanierungsrecht: prüft konkret § 180 InsO (Zuständigkeit für die Feststellung) im Mandat, § 181 InsO (Umfang der Feststellung) im Mandat prüfen, § 182 InsO (Streitwert) im Mandat prüfen, § 183 InsO (Wirkung der Entscheidung) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P180 Zustandigkeit P181 Umfang P182 im Insolvenz- und Sanierungsrecht: prüft konkret § 180 InsO (Zuständigkeit für die Feststellung) im Mandat, § 181 InsO (Umfang der Feststellung) im Mandat prüfen, § 182 InsO (Streitwert) im Mandat prüfen, § 183 InsO (Wirkung der Entscheidung) im Mandat prüfen."
 ---
 
 # Inso P180 Zustandigkeit P181 Umfang P182
@@ -8,32 +8,6 @@ description: "Inso P180 Zustandigkeit P181 Umfang P182 im Insolvenz- und Sanieru
 ## Arbeitsbereich
 
 **Inso P180 Zustandigkeit P181 Umfang P182** ordnet den Fall über die tragenden Prüfungslinien: § 180 InsO (Zuständigkeit für die Feststellung) im Mandat, § 181 InsO (Umfang der Feststellung) im Mandat prüfen, § 182 InsO (Streitwert) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p180-zustandigkeit-fur-die-feststellung` | § 180 InsO (Zuständigkeit für die Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p181-umfang-der-feststellung` | § 181 InsO (Umfang der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p182-streitwert` | § 182 InsO (Streitwert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p183-wirkung-der-entscheidung` | § 183 InsO (Wirkung der Entscheidung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p184-klage-gegen-einen-widerspruch-des-schuldners` | § 184 InsO (Klage gegen einen Widerspruch des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p185-besondere-zustandigkeiten` | § 185 InsO (Besondere Zuständigkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p186-wiedereinsetzung-in-den-vorigen-stand` | § 186 InsO (Wiedereinsetzung in den vorigen Stand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p187-befriedigung-der-insolvenzglaubiger` | § 187 InsO (Befriedigung der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p188-verteilungsverzeichnis` | § 188 InsO (Verteilungsverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p189-berucksichtigung-bestrittener-forderungen` | § 189 InsO (Berücksichtigung bestrittener Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p190-berucksichtigung-absonderungsberechtigter-glaubiger` | § 190 InsO (Berücksichtigung absonderungsberechtigter Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p191-berucksichtigung-aufschiebend-bedingter-forderungen` | § 191 InsO (Berücksichtigung aufschiebend bedingter Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p192-nachtragliche-berucksichtigung` | § 192 InsO (Nachträgliche Berücksichtigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p193-anderung-des-verteilungsverzeichnisses` | § 193 InsO (Änderung des Verteilungsverzeichnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p194-einwendungen-gegen-das-verteilungsverzeichnis` | § 194 InsO (Einwendungen gegen das Verteilungsverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p195-festsetzung-des-bruchteils` | § 195 InsO (Festsetzung des Bruchteils) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p196-schlussverteilung` | § 196 InsO (Schlußverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p197-schlusstermin` | § 197 InsO (Schlußtermin) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p198-hinterlegung-zuruckbehaltener-betrage` | § 198 InsO (Hinterlegung zurückbehaltener Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p199-uberschuss-bei-der-schlussverteilung` | § 199 InsO (Überschuß bei der Schlußverteilung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p202-zustandigkeit-bei-der-vollstreckung` | § 202 InsO (Zuständigkeit bei der Vollstreckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P180 Zustandigkeit P181 Umfang P182 im Insolvenz- und Sanieru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p180-zustandigkeit-fur-die-feststellung`
 

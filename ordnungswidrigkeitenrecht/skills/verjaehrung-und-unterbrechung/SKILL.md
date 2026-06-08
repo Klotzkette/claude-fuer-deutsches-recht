@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-und-unterbrechung
-description: "Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Verjährung und Unterbrechung. Verjährung und Unterbrechung im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Verjährung Und Unterbrechung

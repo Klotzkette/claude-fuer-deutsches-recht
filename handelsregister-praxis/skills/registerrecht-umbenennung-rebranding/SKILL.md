@@ -1,6 +1,6 @@
 ---
 name: registerrecht-umbenennung-rebranding
-description: "Prüft Firmenänderung, Satzung, IHK, Marken-/Domainkonflikte, Bekanntmachung und Mandantenkommunikation im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Firmenänderung, Satzung, IHK, Marken-/Domainkonflikte, Bekanntmachung und Mandantenkommunikation im Handelsregister Praxis."
 ---
 
 # Rebranding im Register

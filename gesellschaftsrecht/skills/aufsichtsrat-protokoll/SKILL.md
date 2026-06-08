@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-protokoll
-description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: Protokoll, Vorstandssitzung, Aufsichtsratssitzung, Gesellschafterversammlung, Protokollentwurf, Sitzungsprotokoll im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: Protokoll, Vorstandssitzung, Aufsichtsratssitzung, Gesellschafterversammlung, Protokollentwurf, Sitzungsprotokoll im Gesellschaftsrecht."
 ---
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)

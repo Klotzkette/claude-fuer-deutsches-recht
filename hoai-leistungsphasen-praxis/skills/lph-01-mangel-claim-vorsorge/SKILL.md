@@ -1,6 +1,6 @@
 ---
 name: lph-01-mangel-claim-vorsorge
-description: "HOAI LPH 1 Grundlagenermittlung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 1 Grundlagenermittlung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 1 Grundlagenermittlung: Sichert spätere mängel-

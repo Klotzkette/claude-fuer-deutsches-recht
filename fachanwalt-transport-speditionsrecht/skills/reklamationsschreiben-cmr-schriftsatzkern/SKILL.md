@@ -1,17 +1,9 @@
 ---
 name: reklamationsschreiben-cmr-schriftsatzkern
-description: "Reklamationsschreiben CMR Schriftsatzkern im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR, Schriftsatzkern im Transport- und Speditionsrecht, Adsp. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Reklamationsschreiben CMR Schriftsatzkern im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR, Schriftsatzkern im Transport- und Speditionsrecht, Adsp."
 ---
 
 # Reklamationsschreiben CMR Schriftsatzkern
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `reklamationsschreiben-cmr-hgb` | Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift. |
-| `schriftsatzkern-substantiierung` | Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollständiger Schriftsatz. |
-| `spezial-adsp-internationaler-bezug-und-schnittstellen` | Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Reklamationsschreiben CMR Schriftsatzkern im Plugin Fachanwalt Tra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `reklamationsschreiben-cmr-hgb`
 
@@ -511,7 +503,7 @@ Vor Versand:
 
 ## 3. `spezial-adsp-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht.
 
 ### Adsp: Internationaler Bezug und Schnittstellen
 

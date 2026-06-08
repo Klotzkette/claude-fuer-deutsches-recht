@@ -1,6 +1,6 @@
 ---
 name: kfz-zulassung
-description: "Hilft bei Zulassung, Stilllegung, Halterdaten, Versicherung, Steuer, Gebühren und Behördenkommunikation im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Zulassung, Stilllegung, Halterdaten, Versicherung, Steuer, Gebühren und Behördenkommunikation im Bürokratie-Entbürokratisierung."
 ---
 
 # Kfz-Zulassung

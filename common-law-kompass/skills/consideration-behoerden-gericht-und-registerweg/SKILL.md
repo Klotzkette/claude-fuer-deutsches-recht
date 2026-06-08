@@ -1,6 +1,6 @@
 ---
 name: consideration-behoerden-gericht-und-registerweg
-description: "Consideration: Behörden-, Gerichts- oder Registerweg im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Consideration: Behörden-, Gerichts- oder Registerweg im Plugin common law kompass im Common Law Kompass."
 ---
 
 # Consideration: Behörden-, Gerichts- oder Registerweg

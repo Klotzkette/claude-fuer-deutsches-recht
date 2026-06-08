@@ -1,6 +1,6 @@
 ---
 name: taetigkeit-fristennotiz-agentische-datenbank
-description: "Taetigkeit: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Taetigkeit: Fristennotiz und nächster Schritt im Patentrecherche."
 ---
 
 # Taetigkeit: Fristennotiz und nächster Schritt

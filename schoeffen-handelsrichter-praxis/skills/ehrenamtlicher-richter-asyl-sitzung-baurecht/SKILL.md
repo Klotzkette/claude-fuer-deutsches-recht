@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-asyl-sitzung-baurecht
-description: "Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ehrenamtlicher Richter Asyl (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Glaubhaftigkeit, Herkunftsländer, Dolmetscher, Schutzstatus und Eilrechtsschutz mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ehrenamtlicher Richter Asyl: Orientierung

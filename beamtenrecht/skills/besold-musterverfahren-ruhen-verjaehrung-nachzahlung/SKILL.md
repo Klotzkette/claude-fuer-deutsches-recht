@@ -1,6 +1,6 @@
 ---
 name: besold-musterverfahren-ruhen-verjaehrung-nachzahlung
-description: "Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung im Beamtenrecht."
 ---
 
 # Besold Musterverfahren Ruhen Verjährung Nachzahlung

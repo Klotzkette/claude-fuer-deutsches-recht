@@ -1,6 +1,6 @@
 ---
 name: nis2-betroffenheitscheck
-description: "Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob das Unternehmen unter NIS-2 beziehungsweise das BSIG 2025 fällt im Nis2 Cybersecurity Compliance."
 ---
 
 # NIS-2 Betroffenheitscheck

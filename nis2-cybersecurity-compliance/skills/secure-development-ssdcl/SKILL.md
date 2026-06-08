@@ -1,6 +1,6 @@
 ---
 name: secure-development-ssdcl
-description: "Prüft Secure Development Lifecycle für eigene Software im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Secure Development Lifecycle für eigene Software im Nis2 Cybersecurity Compliance."
 ---
 
 # Secure Development Ssdcl

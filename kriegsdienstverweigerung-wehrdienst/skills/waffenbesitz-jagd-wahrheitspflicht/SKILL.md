@@ -1,6 +1,6 @@
 ---
 name: waffenbesitz-jagd-wahrheitspflicht
-description: "Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet zivilen Waffenbezug von Kriegsdienst mit der Waffe im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Waffenbesitz und Schützenverein

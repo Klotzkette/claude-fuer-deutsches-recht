@@ -1,6 +1,6 @@
 ---
 name: schoeffe-sitzungsordnung-sitzung-strafkammer
-description: "Sitzungsordnung und Auftreten (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sitzungsordnung und Auftreten (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Sitzungsordnung und Auftreten: Sitzungspraxis

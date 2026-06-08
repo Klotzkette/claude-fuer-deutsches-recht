@@ -1,16 +1,9 @@
 ---
 name: vergleichsverhandlung-strategie-werkmangel
-description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach."
 ---
 
 # Vergleichsverhandlung Strategie Werkmangel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten. |
-| `werkmangel-vob-bgb-pruefen` | Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Ba
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vergleichsverhandlung-strategie`
 

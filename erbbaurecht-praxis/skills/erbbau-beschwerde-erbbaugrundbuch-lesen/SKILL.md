@@ -1,6 +1,6 @@
 ---
 name: erbbau-beschwerde-erbbaugrundbuch-lesen
-description: "Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde im Erbbaurecht Praxis."
 ---
 
 # Grundbuchstreit im Erbbaurecht

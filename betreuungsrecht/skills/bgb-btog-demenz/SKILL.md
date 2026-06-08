@@ -1,6 +1,6 @@
 ---
 name: bgb-btog-demenz
-description: "BGB: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BGB: Verhandlung, Vergleich und Eskalation im Betreuungsrecht."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation

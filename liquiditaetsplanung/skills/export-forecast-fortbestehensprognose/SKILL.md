@@ -1,17 +1,9 @@
 ---
 name: export-forecast-fortbestehensprognose
-description: "Export Forecast Fortbestehensprognose im Plugin Liquiditaetsplanung: prüft konkret Export, Forecast, Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Export Forecast Fortbestehensprognose im Plugin Liquiditaetsplanung: prüft konkret Export, Forecast, Fortbestehensprognose."
 ---
 
 # Export Forecast Fortbestehensprognose
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-export-schriftsatz-brief-und-memo-bausteine` | Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-forecast-risikoampel-und-gegenargumente` | Forecast: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fortbestehensprognose-international-schnittstellen` | Fortbestehensprognose: Internationaler Bezug und Schnittstellen im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Export Forecast Fortbestehensprognose im Plugin Liquiditaetsplanun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-export-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin liquiditaetsplanung.
 
 ### Export: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -51,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-forecast-risikoampel-und-gegenargumente`
 
-**Fokus:** Forecast: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Forecast: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin liquiditaetsplanung.
 
 ### Forecast: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -77,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fortbestehensprognose-international-schnittstellen`
 
-**Fokus:** Fortbestehensprognose: Internationaler Bezug und Schnittstellen im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fortbestehensprognose: Internationaler Bezug und Schnittstellen im Plugin liquiditaetsplanung.
 
 ### Fortbestehensprognose: Internationaler Bezug und Schnittstellen
 

@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-saarland
-description: "Prüft Hochschulrecht in Saarland mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulrecht in Saarland mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
 ---
 
 # Hochschulgesetz Saarland

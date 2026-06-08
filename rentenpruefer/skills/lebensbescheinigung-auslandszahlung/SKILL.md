@@ -1,6 +1,6 @@
 ---
 name: lebensbescheinigung-auslandszahlung
-description: "Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung im Rentenpruefer."
 ---
 
 # lebensbescheinigung-und-auslandszahlung

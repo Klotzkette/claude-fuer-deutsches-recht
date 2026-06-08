@@ -1,6 +1,6 @@
 ---
 name: presse-und-kampagnenrisiko
-description: "Verbraucherschutzverband Durchsetzung: Presse- und Kampagnenrisiko. Presse- und Kampagnenrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Presse- und Kampagnenrisiko. Presse- und Kampagnenrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Presse Und Kampagnenrisiko

@@ -1,16 +1,9 @@
 ---
 name: einbuergerung-start-fachkraefte
-description: "Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret Einbürgerung Start, Fachkräfte-Start. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret Einbürgerung Start, Fachkräfte-Start."
 ---
 
 # Einbuergerung Start Fachkraefte
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-einbuergerung-start` | Einbürgerung Start: Prüfungslinie für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-fachkraefte-start` | Fachkräfte-Start: Prüfungslinie für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Einbuergerung Start Fachkraefte im Migrationsrecht: prüft konkret
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-einbuergerung-start`
 

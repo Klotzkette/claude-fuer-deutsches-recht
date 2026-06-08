@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-einfach-meeting-agenda
-description: "Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Dokumente und Kommunikation: Übersetzt behörden-/steuer-/kundenlage in normales deutsch

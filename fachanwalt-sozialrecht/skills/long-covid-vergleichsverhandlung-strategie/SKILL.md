@@ -1,16 +1,9 @@
 ---
 name: long-covid-vergleichsverhandlung-strategie
-description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt Sozialrecht: prüft konkret Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychis, Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV). Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt Sozialrecht: prüft konkret Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychis, Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV)."
 ---
 
 # Long Covid Vergleichsverhandlung Strategie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `long-covid-erwerbsminderung-gdb-reha-beweis` | Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychisch-somatischen Abgrenzungen durch Krankenversicherung, Rentenversicherung, Versorgungsamt und Sozialgericht. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Sozialrecht (SGB I-XIV): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt So
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `long-covid-erwerbsminderung-gdb-reha-beweis`
 

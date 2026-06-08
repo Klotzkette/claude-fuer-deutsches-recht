@@ -1,6 +1,6 @@
 ---
 name: praxisgruppen-portfolio
-description: "Bewertet Praxisgruppen nach Wachstum, Marge, Risiko, Reputation und Nachfolge. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Praxisgruppen nach Wachstum, Marge, Risiko, Reputation und Nachfolge. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Praxisgruppen-Portfolio

@@ -1,16 +1,9 @@
 ---
 name: medizinische-abschiebungshindernisse-migr
-description: "Medizinische Abschiebungshindernisse Migr im Migrationsrecht: prüft konkret Medizinische Abschiebungshindernisse, Migr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Medizinische Abschiebungshindernisse Migr im Migrationsrecht: prüft konkret Medizinische Abschiebungshindernisse, Migr."
 ---
 
 # Medizinische Abschiebungshindernisse Migr
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-medizinische-abschiebungshindernisse` | Medizinische Abschiebungshindernisse: Fachmodul im Migrationsrecht; prüft qualifiziertes Attest, Behandlung, Reisefähigkeit, Zielstaat; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-migr-sonderfall-und-edge-case` | Migr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Medizinische Abschiebungshindernisse Migr im Migrationsrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-medizinische-abschiebungshindernisse`
 
@@ -51,7 +44,7 @@ description: "Medizinische Abschiebungshindernisse Migr im Migrationsrecht: prü
 
 ## 2. `spezial-migr-sonderfall-und-edge-case`
 
-**Fokus:** Migr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Migr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt migrationsrecht.
 
 ### Migr: Sonderfall und Edge-Case-Prüfung
 

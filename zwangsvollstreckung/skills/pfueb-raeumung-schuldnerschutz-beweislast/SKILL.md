@@ -1,6 +1,6 @@
 ---
 name: pfueb-raeumung-schuldnerschutz-beweislast
-description: "Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien im Zwangsvollstreckung."
 ---
 
 # Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: schultraeger-eilantrag-vorbereiten
-description: "der Länder: Schulträger: Eilantrag vorbereiten im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "der Länder: Schulträger: Eilantrag vorbereiten im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Schultraeger Eilantrag Vorbereiten

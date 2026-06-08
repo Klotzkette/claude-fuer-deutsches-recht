@@ -1,6 +1,6 @@
 ---
 name: einspruchsverfahren-und-conflict-check-kammerant
-description: "Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

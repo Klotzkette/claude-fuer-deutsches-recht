@@ -1,6 +1,6 @@
 ---
 name: rentenluecken-matrix
-description: "Rentenlücken-Matrix für ganze Erwerbsbiografien: Monatsraster, Belegstatus, Trägerzuständigkeit, Priorität und Erledigung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenlücken-Matrix für ganze Erwerbsbiografien: Monatsraster, Belegstatus, Trägerzuständigkeit, Priorität und Erledigung im Rentenpruefer."
 ---
 
 # rentenluecken-matrix

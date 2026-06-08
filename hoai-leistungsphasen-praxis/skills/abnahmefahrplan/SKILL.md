@@ -1,6 +1,6 @@
 ---
 name: abnahmefahrplan
-description: "HOAI-Praxis: plant technische Vorabnahme, förmliche Abnahme, Restmängel und Zustandsfeststellung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: plant technische Vorabnahme, förmliche Abnahme, Restmängel und Zustandsfeststellung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Plant technische vorabnahme

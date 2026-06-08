@@ -1,6 +1,6 @@
 ---
 name: belegvernichtung-aufbewahrung-f
-description: "Steuerberater: belegvernichtung und aufbewahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: belegvernichtung und aufbewahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: belegvernichtung und aufbewahrung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

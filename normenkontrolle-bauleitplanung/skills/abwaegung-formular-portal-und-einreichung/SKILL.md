@@ -1,6 +1,6 @@
 ---
 name: abwaegung-formular-portal-und-einreichung
-description: "Abwaegung: Formular, Portal und Einreichungslogik im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abwaegung: Formular, Portal und Einreichungslogik im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
 ---
 
 # Abwaegung: Formular, Portal und Einreichungslogik

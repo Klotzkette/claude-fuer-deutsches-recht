@@ -1,19 +1,9 @@
 ---
 name: dsgvo-auskunft-dsr-betroffenenrechte
-description: "DSGVO Auskunft DSR Betroffenenrechte im Datenschutzrecht: prüft konkret Auskunftsersuchen nach Art, DSGVO-Auskunftsantwort an Betroffenen vollständig und, Leitfaden Betroffenenrechte-Prozess Art, Spezialfall internationaler Datentransfer Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DSGVO Auskunft DSR Betroffenenrechte im Datenschutzrecht: prüft konkret Auskunftsersuchen nach Art, DSGVO-Auskunftsantwort an Betroffenen vollständig und, Leitfaden Betroffenenrechte-Prozess Art, Spezialfall internationaler Datentransfer Art."
 ---
 
 # DSGVO Auskunft DSR Betroffenenrechte
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsgvo-auskunft` | Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Prüfraster: Identitätsnachweis Vollständigkeitsprüfung Auskunftsinhalt Fristen Einschraenkungsgründe. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzung: nicht für Auskunftsantwort-Gestaltung (dsgvo-auskunft-antwort). |
-| `dsgvo-auskunft-antwort` | DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftsschreiben. Abgrenzung: nicht für Antragseingang und Prüfung (dsgvo-auskunft). |
-| `dsr-betroffenenrechte-prozess-leitfaden` | Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster für Verantwortlichen und Auftragsverarbeiter. |
-| `dsr-internationaler-datentransfer-spezial` | Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster für Konzern. |
-| `dsr-rechtsgrundlage-bauleiter` | Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, öffentliches Interesse. Pruefraster für typische Verarbeitungstaetigkeiten. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "DSGVO Auskunft DSR Betroffenenrechte im Datenschutzrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsgvo-auskunft`
 

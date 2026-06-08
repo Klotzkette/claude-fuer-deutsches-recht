@@ -1,19 +1,9 @@
 ---
 name: betrkv-interessen-bgb-co2kostenaufteilung
-description: "Betrkv Interessen BGB Co2kostenaufteilung im Miet- und Wohnungseigentumsrecht: prüft konkret Betrkv, BGB, CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen, AGG bei Vermietung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Betrkv Interessen BGB Co2kostenaufteilung im Miet- und Wohnungseigentumsrecht: prüft konkret Betrkv, BGB, CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen, AGG bei Vermietung."
 ---
 
 # Betrkv Interessen BGB Co2kostenaufteilung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-betrkv-mehrparteien-konflikt-und-interessen` | Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-co2kostenaufteilung` | CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen: CO2KostAufG, Wohngebäude-Stufenmodell, Nichtwohngebäude-50/50-Regel, Brennstoffdaten, Emissionsfaktor, Vermieteranteil, Mieterentlastung und Abrechnungsbaustein. |
-| `spezial-diskriminierung-agg-vermietung` | AGG bei Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Massengeschäft, Auswahl, Indizien, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-ehe-trennung-mietwohnung` | Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Betrkv Interessen BGB Co2kostenaufteilung im Miet- und Wohnungseig
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-betrkv-mehrparteien-konflikt-und-interessen`
 

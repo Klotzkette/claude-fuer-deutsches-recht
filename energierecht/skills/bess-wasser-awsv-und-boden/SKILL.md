@@ -1,6 +1,6 @@
 ---
 name: bess-wasser-awsv-und-boden
-description: "Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz im Energierecht."
 ---
 
 # Wasser, AwSV, Boden und Havarie

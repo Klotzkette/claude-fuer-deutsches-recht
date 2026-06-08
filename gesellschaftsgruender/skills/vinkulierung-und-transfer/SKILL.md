@@ -1,6 +1,6 @@
 ---
 name: vinkulierung-und-transfer
-description: "Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder im Gesellschaftsgruender."
 ---
 
 # Vinkulierung und Anteilsübertragung

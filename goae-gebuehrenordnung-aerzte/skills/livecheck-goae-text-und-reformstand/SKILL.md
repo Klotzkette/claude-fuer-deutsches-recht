@@ -1,6 +1,6 @@
 ---
 name: livecheck-goae-text-und-reformstand
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck GOÄ Text und Reformstand im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck GOÄ Text und Reformstand im Goae Gebührenordnung Aerzte."
 ---
 
 # Livecheck GOÄ Text und Reformstand

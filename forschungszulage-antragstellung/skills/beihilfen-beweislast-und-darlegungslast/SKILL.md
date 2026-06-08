@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-und-darlegungslast
-description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung

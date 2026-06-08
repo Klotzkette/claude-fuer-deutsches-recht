@@ -1,17 +1,9 @@
 ---
 name: abmahnung-bezuege-designg
-description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Abmahnung, Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtssch. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Abmahnung, Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtssch."
 ---
 
 # Abmahnung Bezuege Designg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-abmahnung-formular-portal-und-einreichung` | Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung. |
-| `spezial-bezuege-zahlen-schwellen-und-berechnung` | Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe. |
-| `spezial-designg-behoerden-gericht-und-registerweg` | DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-abmahnung-formular-portal-und-einreichung`
 

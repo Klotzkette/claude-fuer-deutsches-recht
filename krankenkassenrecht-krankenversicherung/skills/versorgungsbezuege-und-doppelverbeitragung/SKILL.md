@@ -1,6 +1,6 @@
 ---
 name: versorgungsbezuege-und-doppelverbeitragung
-description: "Kritische Analyse der Doppelverbeitragung von Betriebsrenten in der GKV: Rechtslage, Reform 2020, Freibetrag, laufende Verfahren und Gestaltungsoptionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kritische Analyse der Doppelverbeitragung von Betriebsrenten in der GKV: Rechtslage, Reform 2020, Freibetrag, laufende Verfahren und Gestaltungsoptionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Versorgungsbezüge und Doppelverbeitragung

@@ -1,6 +1,6 @@
 ---
 name: wp-stb-koordination
-description: "Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Koordination mit Steuerberater, Wirtschaftsprüfer, Lohnbüro und Fachabteilungen bei überlappenden Berichtspflichten im Berichtspflichten."
 ---
 
 # WP/StB-Koordination bei Berichtspflichten

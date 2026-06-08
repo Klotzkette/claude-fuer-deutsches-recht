@@ -1,6 +1,6 @@
 ---
 name: strafverfahren-und-disziplinarverfahren
-description: "Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittstelle Strafverfahren und Disziplinarverfahren: Aussageverhalten, Aussetzung, Bindungswirkung, Akteneinsicht und Verteidigungsstrategie im Beamtenrecht."
 ---
 
 # Strafverfahren Und Disziplinarverfahren

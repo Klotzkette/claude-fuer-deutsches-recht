@@ -1,6 +1,6 @@
 ---
 name: anhoerung-erwiderung-anwalt-freier
-description: "Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid im Sozialversicherungsstatus Pruefer."
 ---
 
 # Anhörung und Erwiderung

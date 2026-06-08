@@ -1,6 +1,6 @@
 ---
 name: imports-exports-602-603
-description: "Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme im Us Copyright Registrierung Verlag."
 ---
 
 # Importation und Exportation §§ 602-603

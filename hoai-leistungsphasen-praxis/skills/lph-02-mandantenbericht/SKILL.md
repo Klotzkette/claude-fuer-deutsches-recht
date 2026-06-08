@@ -1,6 +1,6 @@
 ---
 name: lph-02-mandantenbericht
-description: "HOAI LPH 2 Vorplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 2 Vorplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 2 Vorplanung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt

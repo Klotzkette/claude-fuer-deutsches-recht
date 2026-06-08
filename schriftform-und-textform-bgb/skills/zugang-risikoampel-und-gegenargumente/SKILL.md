@@ -1,6 +1,6 @@
 ---
 name: zugang-risikoampel-und-gegenargumente
-description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
 ---
 
 # Zugang: Risikoampel, Gegenargumente und Verteidigungslinien

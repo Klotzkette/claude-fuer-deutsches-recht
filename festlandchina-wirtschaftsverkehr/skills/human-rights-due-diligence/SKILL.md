@@ -1,6 +1,6 @@
 ---
 name: human-rights-due-diligence
-description: "Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Menschenrechts-Due-Diligence China: LkSG/CSDDD/UNGP

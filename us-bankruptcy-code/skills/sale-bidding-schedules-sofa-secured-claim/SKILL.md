@@ -1,6 +1,6 @@
 ---
 name: sale-bidding-schedules-sofa-secured-claim
-description: "Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code."
 ---
 
 # Sale Process and Bidding Procedures

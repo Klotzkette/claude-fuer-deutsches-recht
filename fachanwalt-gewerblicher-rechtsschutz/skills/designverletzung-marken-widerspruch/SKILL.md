@@ -1,17 +1,9 @@
 ---
 name: designverletzung-marken-widerspruch
-description: "Designverletzung Marken Widerspruch im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Geschmacksmuster- oder Designverletzung prüfen und, Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO, Markenanmeldung beim DPMA oder EUIPO vorbereiten und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Designverletzung Marken Widerspruch im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Geschmacksmuster- oder Designverletzung prüfen und, Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO, Markenanmeldung beim DPMA oder EUIPO vorbereiten und."
 ---
 
 # Designverletzung Marken Widerspruch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-gewerblicher-rechtsschutz-designverletzung` | Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprüche. Output: Verletzungsprüfmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht für Marken- oder Urheberrechtsverletzungen. |
-| `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` | Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG). |
-| `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` | Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht für Markenrechtsverletzungen (§ 14 MarkenG). |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Designverletzung Marken Widerspruch im Plugin Fachanwalt Gewerblic
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-gewerblicher-rechtsschutz-designverletzung`
 

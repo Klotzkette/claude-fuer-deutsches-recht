@@ -1,6 +1,6 @@
 ---
 name: retention-risk-rollenrechte-hr-sbv
-description: "Berliner Start-up-HR: Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Retention Risk Map

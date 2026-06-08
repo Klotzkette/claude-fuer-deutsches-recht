@@ -1,6 +1,6 @@
 ---
 name: wohnungs-erbbaurecht-und-weg
-description: "Prüft WEG-Struktur, Teilungserklärung, Erbbaugrundbuch, Sondernutzungsrechte und Verwalterzustimmung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft WEG-Struktur, Teilungserklärung, Erbbaugrundbuch, Sondernutzungsrechte und Verwalterzustimmung im Erbbaurecht Praxis."
 ---
 
 # Wohnungserbbaurecht

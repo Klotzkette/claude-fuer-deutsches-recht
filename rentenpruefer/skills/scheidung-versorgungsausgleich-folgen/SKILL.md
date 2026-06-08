@@ -1,6 +1,6 @@
 ---
 name: scheidung-versorgungsausgleich-folgen
-description: "Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Scheidung und Versorgungsausgleich: Rentenanrechte, interne/externe Teilung, Anpassung wegen Tod oder Unterhalt und Bescheidprüfung im Rentenpruefer."
 ---
 
 # scheidung-versorgungsausgleich-folgen

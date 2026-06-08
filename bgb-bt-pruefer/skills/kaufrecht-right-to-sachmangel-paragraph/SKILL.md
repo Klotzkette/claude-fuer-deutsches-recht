@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-right-to-sachmangel-paragraph
-description: "Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf im BGB BT."
 ---
 
 # Kaufrecht: Right to Repair und Nacherfüllung

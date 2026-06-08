@@ -1,6 +1,6 @@
 ---
 name: rechnung-quittung-beleg
-description: "Rechnung, Quittung und Beleg: erklärt wann ein Beleg nötig ist, was geprüft wird und wie man reklamiert in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnung, Quittung und Beleg: erklärt wann ein Beleg nötig ist, was geprüft wird und wie man reklamiert in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Rechnung, Quittung und Beleg

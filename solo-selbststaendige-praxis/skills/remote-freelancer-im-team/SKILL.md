@@ -1,6 +1,6 @@
 ---
 name: remote-freelancer-im-team
-description: "Solo-Selbstständige: prüft agile Teams, Jira, Slack, Daily, Urlaub und Eingliederungsindizien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft agile Teams, Jira, Slack, Daily, Urlaub und Eingliederungsindizien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft agile teams

@@ -1,6 +1,6 @@
 ---
 name: prozessuale-beweisfragen-rechtsabteilung
-description: "Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis im Handelsrecht Hgb."
 ---
 
 # Prozessuale HGB-Beweisfragen

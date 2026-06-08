@@ -1,6 +1,6 @@
 ---
 name: konkurs-und-glaeubigerquoten-rangfolge
-description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Glaeubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Glaeubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit moderner InsO-Rangordnung. Liefert Pruefraster im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Glaeubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Glaeubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit moderner InsO-Rangordnung. Liefert Pruefraster im Römisches Recht."
 ---
 
 # Rom 120 Konkurs Und Glaeubigerquoten Rangfolge

@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-nachzahlung-zinsen-pflegegrad-md
-description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad, Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad, Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag."
 ---
 
 # Laienhilfe Nachzahlung Zinsen Pflegegrad MD
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-nachzahlung-zinsen` | Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung Zinsen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-pflegegrad-md-begutachtung` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-pflegegrad-widerspruch-module` | Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-reha-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-nachzahlung-zinsen`
 

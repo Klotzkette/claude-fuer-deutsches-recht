@@ -1,6 +1,6 @@
 ---
 name: presseanfragen-kdv-psychische-belastung
-description: "Hilft bei öffentlicher Kommunikation ohne Verfahrensschaden im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei öffentlicher Kommunikation ohne Verfahrensschaden im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Presseanfragen

@@ -1,6 +1,6 @@
 ---
 name: datenpunkt-dokument-excel-beweislast
-description: "Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin tabellenreview 3d im Tabellenreview 3d."
 ---
 
 # Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung

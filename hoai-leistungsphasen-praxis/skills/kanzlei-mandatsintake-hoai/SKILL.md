@@ -1,6 +1,6 @@
 ---
 name: kanzlei-mandatsintake-hoai
-description: "HOAI-Praxis: fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Fragt anwaltlich alle unterlagen für hoai-/bauprojektmandat ab

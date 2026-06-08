@@ -1,6 +1,6 @@
 ---
 name: auslagerung-an-freie-mitarbeiter-kammerantwort
-description: "Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: auslagerung an freie mitarbeiter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

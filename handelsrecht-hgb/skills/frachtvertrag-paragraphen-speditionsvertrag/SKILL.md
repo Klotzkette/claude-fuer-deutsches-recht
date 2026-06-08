@@ -1,6 +1,6 @@
 ---
 name: frachtvertrag-paragraphen-speditionsvertrag
-description: "Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Frachtvertrag, Frachtbrief, Haftung, Verlust/Beschädigung, Lieferfrist und Haftungsgrenzen im Handelsrecht Hgb."
 ---
 
 # Frachtvertrag §§ 407 ff. HGB

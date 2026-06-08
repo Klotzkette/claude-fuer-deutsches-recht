@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionslisten-haftpflicht
-description: "Notare: geldwaesche sanktionslisten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: geldwaesche sanktionslisten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: geldwaesche sanktionslisten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

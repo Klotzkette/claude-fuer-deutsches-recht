@@ -1,17 +1,9 @@
 ---
 name: beschlusssammlung-protokoll-beschlussvorlagen
-description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausverwaltung: prüft konkret Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung § 24 Abs, Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausverwaltung: prüft konkret Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung § 24 Abs, Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz."
 ---
 
 # Beschlusssammlung Protokoll Beschlussvorlagen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beschlusssammlung-protokoll` | Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht entstehen. |
-| `beschlussvorlagen-erstellen` | Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verwaltervergabe. |
-| `betriebskosten-nebenkostenabrechnung` | WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende Eigentümer. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beschlusssammlung-protokoll`
 

@@ -1,6 +1,6 @@
 ---
 name: investorprofil-lp-gp-family-office
-description: "Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil im Private Equity Praxis."
 ---
 
 # Investorprofil: LP, GP, Family Office, Stiftung, Versicherung

@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-hoai
-description: "HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: erklärt Bauherrn oder Planer den Stand in normalem Deutsch; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Erklärt bauherrn oder planer den stand in normalem deutsch

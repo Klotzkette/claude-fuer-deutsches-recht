@@ -1,6 +1,6 @@
 ---
 name: notice-deposit-office-action-online-subpoena
-description: "Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4 im Us Copyright Registrierung Verlag."
 ---
 
 # Notice, Deposit und Registration Chapter 4

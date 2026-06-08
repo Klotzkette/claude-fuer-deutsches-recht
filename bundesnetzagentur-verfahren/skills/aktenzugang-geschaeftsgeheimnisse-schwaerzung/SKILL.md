@@ -1,6 +1,6 @@
 ---
 name: aktenzugang-geschaeftsgeheimnisse-schwaerzung
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung im BNetzA-Verfahren."
 ---
 
 # Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur

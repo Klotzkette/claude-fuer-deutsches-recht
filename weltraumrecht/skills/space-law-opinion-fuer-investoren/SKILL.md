@@ -1,6 +1,6 @@
 ---
 name: space-law-opinion-fuer-investoren
-description: "Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken im Weltraumrecht."
 ---
 
 # Weltraumrecht: Space Law Opinion für Investoren

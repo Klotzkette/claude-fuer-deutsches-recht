@@ -1,6 +1,6 @@
 ---
 name: telefon-mandantenkommunikation-entscheidungsvorlage
-description: "Telefon: Mandantenkommunikation und Entscheidungsvorlage im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Telefon: Mandantenkommunikation und Entscheidungsvorlage im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Telefon: Mandantenkommunikation und Entscheidungsvorlage

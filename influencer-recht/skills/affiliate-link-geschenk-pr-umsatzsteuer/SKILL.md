@@ -1,6 +1,6 @@
 ---
 name: affiliate-link-geschenk-pr-umsatzsteuer
-description: "Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV im Influencer-Recht."
 ---
 
 # Influencer-Recht: Affiliate-Link, Rabattcode und Provision

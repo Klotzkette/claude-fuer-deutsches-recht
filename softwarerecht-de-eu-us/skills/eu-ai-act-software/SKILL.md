@@ -1,6 +1,6 @@
 ---
 name: eu-ai-act-software
-description: "Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Software mit KI-Funktionen nach KI-VO, Zweckbestimmung, Hochrisiko, GPAI, Transparenz und Provider/Deployer-Rollen im Softwarerecht De Eu Us."
 ---
 
 # EU AI Act in Softwareprodukten

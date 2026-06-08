@@ -1,6 +1,6 @@
 ---
 name: gpl-agpl
-description: "Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken im Softwarerecht De Eu Us."
 ---
 
 # GPL und AGPL

@@ -1,6 +1,6 @@
 ---
 name: landeskrankenhausplan-aufnahme-herausnahme-aenderung
-description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht."
 ---
 
 # Landeskrankenhausplan Aufnahme Herausnahme Aenderung

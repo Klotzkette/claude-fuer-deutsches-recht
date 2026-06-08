@@ -1,6 +1,6 @@
 ---
 name: dmca-safe-harbor-512-notice
-description: "Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor im Us Copyright Registrierung Verlag."
 ---
 
 # DMCA Safe Harbor § 512 Notice

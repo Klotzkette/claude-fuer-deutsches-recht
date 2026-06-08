@@ -1,6 +1,6 @@
 ---
 name: esg-csrd-pruefung-kammerantwort-und-verfahren
-description: "Wirtschaftsprüfer: esg csrd pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: esg csrd pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: esg csrd pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-drittanhoerung-begle-widerspruch-bauen
-description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Drittanhörung begleiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Drittanhörung begleiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Transparenzgesetz Drittanhoerung Begle

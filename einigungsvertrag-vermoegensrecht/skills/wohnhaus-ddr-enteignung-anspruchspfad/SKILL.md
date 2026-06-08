@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-anspruchspfad
-description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Anspruchspfad prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Wohnhaus Ddr Enteignung Anspruchspfad

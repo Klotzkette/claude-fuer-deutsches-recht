@@ -1,19 +1,9 @@
 ---
 name: datenschutz-en-six-step-eu-us-data-laender-bewertung-china
-description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Datenschutzrecht: prüft konkret English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA, Schrems II als Grundlage des Transfer Impact Assessment. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Datenschutzrecht: prüft konkret English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA, Schrems II als Grundlage des Transfer Impact Assessment."
 ---
 
 # Datenschutz EN SIX Step EU US Data Länder Bewertung China
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `tia-en-six-step-roadmap` | English-language version of the EDPB Recommendation 01/2020 six-step roadmap for Transfer Impact Assessment. Step 1 know your transfers; Step 2 identify transfer tool; Step 3 assess law and practice; Step 4 adopt supplementary measures; Step 5 procedural steps; Step 6 re-evaluate. With checklists and sample entries for use with international counsel. |
-| `tia-eu-us-data-privacy-framework-aktueller-stand` | Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigkeit und Restrisiko. |
-| `tia-laender-bewertung-china-india-brazil-uk` | TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap. |
-| `tia-schrems-ii-eugh-c-311-18-grundlagen` | Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung. |
-| `tia-us-fisa-702-und-eo-12333-bewertung` | Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 EDPB-Roadmap. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Date
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `tia-en-six-step-roadmap`
 

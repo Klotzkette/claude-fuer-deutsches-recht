@@ -1,6 +1,6 @@
 ---
 name: wfoe-joint-venture-rep-office-rechtsformvergleich
-description: "Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan im Festlandchina Wirtschaftsverkehr."
 ---
 
 # WFOE/Joint Venture/Representative Office: Rechtsformvergleich China

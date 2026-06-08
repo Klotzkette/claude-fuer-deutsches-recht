@@ -1,6 +1,6 @@
 ---
 name: grossen-risikoampel-und-gegenargumente
-description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Strafzumessung."
 ---
 
 # Grossen: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: mails-risikoampel-und-gegenargumente
-description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

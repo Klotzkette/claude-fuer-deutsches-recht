@@ -1,6 +1,6 @@
 ---
 name: triage-strafrecht
-description: "Routet Hinweise mit Strafrechtsbezug im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Hinweise mit Strafrechtsbezug im Hinweisgeberschutz Compliance."
 ---
 
 # Triage Strafrecht

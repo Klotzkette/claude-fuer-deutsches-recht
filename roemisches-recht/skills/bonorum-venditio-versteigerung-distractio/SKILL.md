@@ -1,6 +1,6 @@
 ---
 name: bonorum-venditio-versteigerung-distractio
-description: "Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung für den Schuldner. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung für den Schuldner. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor

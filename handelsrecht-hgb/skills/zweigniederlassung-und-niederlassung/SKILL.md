@@ -1,6 +1,6 @@
 ---
 name: zweigniederlassung-und-niederlassung
-description: "Prüft Haupt-/Zweigniederlassung, Firma, Register, Geschäftsbriefe und Vertretung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Haupt-/Zweigniederlassung, Firma, Register, Geschäftsbriefe und Vertretung im Handelsrecht Hgb."
 ---
 
 # Zweigniederlassung und Niederlassung

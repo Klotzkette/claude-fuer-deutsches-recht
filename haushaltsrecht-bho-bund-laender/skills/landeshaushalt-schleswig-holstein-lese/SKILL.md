@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-schleswig-holstein-lese
-description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Schleswig-Holstein lesen. Landeshaushalt Schleswig-Holstein lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Landeshaushalt Schleswig-Holstein lesen. Landeshaushalt Schleswig-Holstein lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Landeshaushalt Schleswig Holstein Lese

@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-eltern
-description: "Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht im Bürokratie-Entbürokratisierung."
 ---
 
 # Minderjährige und Eltern

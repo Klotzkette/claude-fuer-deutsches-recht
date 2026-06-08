@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-drohende-einberufung
-description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Eilrechtsschutz bei Einberufung

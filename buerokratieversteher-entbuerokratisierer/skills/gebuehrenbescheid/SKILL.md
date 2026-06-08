@@ -1,6 +1,6 @@
 ---
 name: gebuehrenbescheid
-description: "Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch im Bürokratie-Entbürokratisierung."
 ---
 
 # Gebührenbescheid

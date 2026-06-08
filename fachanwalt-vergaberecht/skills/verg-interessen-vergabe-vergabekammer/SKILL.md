@@ -1,18 +1,9 @@
 ---
 name: verg-interessen-vergabe-vergabekammer
-description: "Verg Interessen Vergabe Vergabekammer im Plugin Fachanwalt Vergaberecht: prüft konkret Verg, Vergabe, Vergabekammer, Vergaberecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verg Interessen Vergabe Vergabekammer im Plugin Fachanwalt Vergaberecht: prüft konkret Verg, Vergabe, Vergabekammer, Vergaberecht."
 ---
 
 # Verg Interessen Vergabe Vergabekammer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verg-mehrparteien-konflikt-und-interessen` | Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vergabe-behoerden-gericht-und-registerweg` | Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vergabekammer-verhandlung-vergleich-und-eskalation` | Vergabekammer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vergaberecht-tatbestand-beweis-und-belege` | Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -37,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verg-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht.
 
 ### Verg: Mehrparteienkonflikt und Interessenmatrix
 
@@ -76,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vergabe-behoerden-gericht-und-registerweg`
 
-**Fokus:** Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht.
 
 ### Vergabe: Behörden-, Gerichts- oder Registerweg
 
@@ -111,7 +102,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vergabekammer-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Vergabekammer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergabekammer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt vergaberecht.
 
 ### Vergabekammer: Verhandlung, Vergleich und Eskalation
 
@@ -146,7 +137,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-vergaberecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt vergaberecht.
 
 ### Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

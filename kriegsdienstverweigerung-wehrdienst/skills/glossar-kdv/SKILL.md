@@ -1,6 +1,6 @@
 ---
 name: glossar-kdv
-description: "Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Glossar KDV Wehrdienst

@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-kfh-rolle-orientierung
-description: "Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handelsrichter in der Kammer für Handelssachen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei KfH-Zuständigkeit, kaufmännische Expertise, Beratung und Urteilsfindung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Handelsrichter in der Kammer für Handelssachen: Orientierung

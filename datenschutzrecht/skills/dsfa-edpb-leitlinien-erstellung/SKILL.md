@@ -1,19 +1,9 @@
 ---
 name: dsfa-edpb-leitlinien-erstellung
-description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkret Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO, DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkret Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO, DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung."
 ---
 
 # Dsfa Edpb Leitlinien Erstellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsfa-edpb-leitlinien-9-19-anwendung` | Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis. |
-| `dsfa-erstellung` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko. |
-| `dsfa-für-internationale-datentransfers` | DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug. |
-| `dsfa-für-ki-systeme-schnittstelle-art-26-kivo` | DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art. 35 DSGVO mit Art. 26 KI-VO Betreiberpflichten und Art. 27 KI-VO Grundrechte-Folgenabschaetzung. Output: integriertes DSFA-FRIA-Konzept. |
-| `dsfa-methodik-cnil-pia-vs-bsfd-bsi` | Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenueber dem BSI Standard-Datenschutzmodell (SDM) und dem BSFD-Ansatz. Output: Methodenwahl mit Begruendung, Anwendungshinweisen und Werkzeugauswahl. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsfa-edpb-leitlinien-9-19-anwendung`
 

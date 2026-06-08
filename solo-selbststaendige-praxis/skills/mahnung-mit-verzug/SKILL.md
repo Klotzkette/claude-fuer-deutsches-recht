@@ -1,6 +1,6 @@
 ---
 name: mahnung-mit-verzug
-description: "Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Forderungen Mahnung und Streit: Setzt verzug

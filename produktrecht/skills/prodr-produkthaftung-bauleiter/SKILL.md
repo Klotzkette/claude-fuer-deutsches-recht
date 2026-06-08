@@ -1,6 +1,6 @@
 ---
 name: prodr-produkthaftung-bauleiter
-description: "Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster für Schadensregulierung im Produktrecht."
 ---
 
 # ProdR: Produkthaftung Bauleiter

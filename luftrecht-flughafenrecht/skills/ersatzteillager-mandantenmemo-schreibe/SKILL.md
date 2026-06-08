@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-mandantenmemo-schreibe
-description: "Anwalt schreibt Mandantenmemo für MRO-Betrieb oder Airline zu Ersatzteillager-Rechtsfragen: EASA-Compliance Pfandrecht Insolvenz oder Gefahrgut-Auflage. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt schreibt Mandantenmemo für MRO-Betrieb oder Airline zu Ersatzteillager-Rechtsfragen: EASA-Compliance Pfandrecht Insolvenz oder Gefahrgut-Auflage. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Mandantenmemo schreiben

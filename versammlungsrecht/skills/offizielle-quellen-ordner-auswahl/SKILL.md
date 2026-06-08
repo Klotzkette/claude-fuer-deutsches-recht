@@ -1,6 +1,6 @@
 ---
 name: offizielle-quellen-ordner-auswahl
-description: "Erzwingt Live-Check von Gesetz, Behörde, Formular, Rechtsprechung und Landesrecht vor verbindlichem Output im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzwingt Live-Check von Gesetz, Behörde, Formular, Rechtsprechung und Landesrecht vor verbindlichem Output im Versammlungsrecht."
 ---
 
 # Quellenhygiene vor Antwort

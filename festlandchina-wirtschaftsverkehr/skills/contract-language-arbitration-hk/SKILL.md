@@ -1,6 +1,6 @@
 ---
 name: contract-language-arbitration-hk
-description: "Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Vertragsrecht China: Sprache/Rechtswahl/Civil Code 2021

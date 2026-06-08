@@ -1,6 +1,6 @@
 ---
 name: suche-open-data-monitor
-description: "Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienprüfung. Output Monitoring-Report im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienprüfung. Output Monitoring-Report im Lobbyregister Bundestag."
 ---
 
 # Suche und Open-Data-Monitor

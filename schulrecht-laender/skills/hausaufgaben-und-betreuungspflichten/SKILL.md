@@ -1,6 +1,6 @@
 ---
 name: hausaufgaben-und-betreuungspflichten
-description: "Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum im Schulrecht Länder."
 ---
 
 # Hausaufgaben und Betreuungspflichten

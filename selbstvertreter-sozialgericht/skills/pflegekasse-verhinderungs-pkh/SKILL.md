@@ -1,19 +1,9 @@
 ---
 name: pflegekasse-verhinderungs-pkh
-description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht: prüft konkret Pflegekasse Verhinderungspflege und Kurzzeitpflege, Erfolgsaussicht in der PKH-Prüfung, Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG, Rentenauskunft und Versicherungsverlauf pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht: prüft konkret Pflegekasse Verhinderungspflege und Kurzzeitpflege, Erfolgsaussicht in der PKH-Prüfung, Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG, Rentenauskunft und Versicherungsverlauf pruefen."
 ---
 
 # Pflegekasse Verhinderungs PKH
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `pflegekasse-verhinderungs-und-kurzzeitpflege` | Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage. |
-| `pkh-anwaltsbeiordnung-erfolgsaussicht` | Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt. |
-| `pkh-vor-sozialgericht-73a-sgg` | Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung. |
-| `rentenauskunft-und-versicherungsverlauf-pruefen` | Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster. |
-| `rentenkontenklaerung-149-sgb-vi` | Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Verfahren der Kontoklaerung Antrag Belege Schwerpunkte Schulzeit Wehrdienst Mutterschutz Erziehung Pflege Arbeitslosigkeit Auslandsarbeit. Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `pflegekasse-verhinderungs-und-kurzzeitpflege`
 

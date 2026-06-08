@@ -183,7 +183,7 @@ Automatisch generierte Komplett-Liste aller 110 Skills in diesem Plugin. Beschre
 | `variable-verguetung-bonus-commission` | Berliner Start-up-HR: Bonus, Provision und variable Vergütung: Anspruchsgrundlage, Zielvereinbarung, Stichtag, Widerruf, Transparenz und Payroll-Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittst... |
 | `verhaltensbedingte-kuendigung` | Berliner Start-up-HR: Verhaltensbedingte Kündigung: Abmahnung, Wiederholung, Interessenabwägung, Betriebsrat und Prozessrisiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und näc... |
 | `vertraulichkeit-nda-im-arbeitsverhaeltnis` | Berliner Start-up-HR: Verschwiegenheit im Arbeitsverhältnis: Geschäftsgeheimnisse konkretisieren, Catch-all vermeiden, HinSchG-Carve-out einbauen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Ch... |
-| `whistleblowing-hinschg` | Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt. |
+| `whistleblowing-hinschg` | Whistleblowing Hinschg im Plugin Startup Hr Personalabteilung Berlin im Startup-HR Berlin. |
 | `workation-auslandstage` | Berliner Start-up-HR: Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, C... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,6 +1,6 @@
 ---
 name: ehenichtigkeit-vor-dem-kirchlichen-tribunal
-description: "Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Ehenichtigkeit vor dem kirchlichen Tribunal

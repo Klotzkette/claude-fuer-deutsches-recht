@@ -1,6 +1,6 @@
 ---
 name: mietvertrag-buero-labor
-description: "Prüft Mietvertrag vor Gründung/Eintragung, Vor-GmbH-Haftung und Genehmigungen im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mietvertrag vor Gründung/Eintragung, Vor-GmbH-Haftung und Genehmigungen im Gesellschaftsgruender."
 ---
 
 # Büro-, Laden- oder Labor-Mietvertrag

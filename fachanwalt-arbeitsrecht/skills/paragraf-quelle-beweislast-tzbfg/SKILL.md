@@ -1,17 +1,9 @@
 ---
 name: paragraf-quelle-beweislast-tzbfg
-description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht, TzBfG Schriftsatz-. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht, TzBfG Schriftsatz-."
 ---
 
 # Paragraf Quelle Beweislast Tzbfg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-paragraf-dokumentenmatrix-und-lueckenliste` | Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG. |
-| `spezial-quelle-beweislast-und-darlegungslast` | Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze. |
-| `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` | TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-paragraf-dokumentenmatrix-und-lueckenliste`
 

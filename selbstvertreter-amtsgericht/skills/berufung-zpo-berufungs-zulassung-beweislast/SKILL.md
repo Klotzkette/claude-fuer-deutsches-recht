@@ -1,17 +1,9 @@
 ---
 name: berufung-zpo-berufungs-zulassung-beweislast
-description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am Amtsgericht: prüft konkret Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am Amtsgericht: prüft konkret Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess."
 ---
 
 # Berufung ZPO Berufungs Zulassung Beweislast
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `berufung-amtsgericht-511-zpo` | Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter. |
-| `berufungs-zulassung-niedrig-streitwert` | Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht. |
-| `beweislast-grundregel-wer-was` | Grundregel der Beweislast im Zivilprozess. Wer eine Norm zu seinen Gunsten geltend macht muss ihre Voraussetzungen beweisen. Beweislast-Umkehr in Sondernormen Anscheinsbeweis Indizien-Beweis und sekundaere Darlegungslast. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `berufung-amtsgericht-511-zpo`
 

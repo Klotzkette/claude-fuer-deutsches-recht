@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-mecklenburg-vorpommern
-description: "Prüft Schulrecht in Mecklenburg-Vorpommern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulrecht in Mecklenburg-Vorpommern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
 ---
 
 # Schulgesetz Mecklenburg Vorpommern

@@ -1,6 +1,6 @@
 ---
 name: erbbaugrundbuch-lesen
-description: "Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen im Erbbaurecht Praxis."
 ---
 
 # Erbbaugrundbuch lesen

@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-02
-description: "HOAI LPH 7 Mitwirkung bei der Vergabe: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 7 Mitwirkung bei der Vergabe: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Baut risiko-

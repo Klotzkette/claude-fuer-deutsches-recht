@@ -1,6 +1,6 @@
 ---
 name: seeschiff-oder-binnenschiff
-description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend für Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend für Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime im Seerecht Schifffahrtsrecht."
 ---
 
 # Seeschiff oder Binnenschiff – Klassifizierungsprüfung

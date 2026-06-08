@@ -1,6 +1,6 @@
 ---
 name: series-b-und-growth-runde
-description: "Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Series B und Growth-Runde

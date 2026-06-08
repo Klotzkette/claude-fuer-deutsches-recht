@@ -1,6 +1,6 @@
 ---
 name: investment-term-sheet-software-ip
-description: "Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties im Softwarerecht De Eu Us."
 ---
 
 # Investment-Term-Sheet Software IP

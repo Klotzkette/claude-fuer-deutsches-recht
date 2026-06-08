@@ -1,6 +1,6 @@
 ---
 name: performance-review-arbeitsvertrag-befristung
-description: "Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Performance Review Und Feedback

@@ -1,6 +1,6 @@
 ---
 name: beschluss-tatbestand-beweis-und-belege
-description: "Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage

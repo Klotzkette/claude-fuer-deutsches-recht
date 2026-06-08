@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-kammerantwort
-description: "Patentanwälte: ki erfindung und erfinderbenennung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: ki erfindung und erfinderbenennung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

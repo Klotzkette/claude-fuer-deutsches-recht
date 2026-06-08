@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttech
-description: "Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren im Weltraumrecht."
 ---
 
 # Weltraumrecht: Exportkontrolle: ITAR, EAR, EU Dual-Use bei Raumfahrttechnik

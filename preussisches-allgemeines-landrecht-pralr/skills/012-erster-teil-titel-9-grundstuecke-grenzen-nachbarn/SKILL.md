@@ -1,6 +1,6 @@
 ---
 name: 012-erster-teil-titel-9-grundstuecke-grenzen-nachbarn
-description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn

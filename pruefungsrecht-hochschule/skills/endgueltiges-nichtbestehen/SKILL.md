@@ -1,6 +1,6 @@
 ---
 name: endgueltiges-nichtbestehen
-description: "Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz im Pruefungsrecht Hochschule."
 ---
 
 # Endgültiges Nichtbestehen

@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-taxonomie-sfdr-versicherungsprodukt
-description: "Nachhaltigkeits- und ESG-Angaben bei Versicherungsanlageprodukten: Taxonomie, SFDR, Greenwashing, Produktfreigabe und Vertrieb im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nachhaltigkeits- und ESG-Angaben bei Versicherungsanlageprodukten: Taxonomie, SFDR, Greenwashing, Produktfreigabe und Vertrieb im Versicherungsrecht."
 ---
 
 # Nachhaltigkeit bei Versicherungsprodukten

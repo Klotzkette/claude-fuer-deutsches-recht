@@ -1,6 +1,6 @@
 ---
 name: notarkammer-anfrage-kammerantwort-und-verfahrensstrategi
-description: "Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

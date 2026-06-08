@@ -1,17 +1,9 @@
 ---
 name: deutschem-dokumentationspaket-excel
-description: "Deutschem Dokumentationspaket Excel im Plugin Liquiditaetsplanung: prüft konkret Deutschem, Dokumentationspaket, Excel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Deutschem Dokumentationspaket Excel im Plugin Liquiditaetsplanung: prüft konkret Deutschem, Dokumentationspaket, Excel."
 ---
 
 # Deutschem Dokumentationspaket Excel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dokumentationspaket-compliance-dokumentation-und-akte` | Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-excel-behoerden-gericht-und-registerweg` | Excel: Behörden-, Gerichts- oder Registerweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Deutschem Dokumentationspaket Excel im Plugin Liquiditaetsplanung:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-deutschem-tatbestand-beweis-und-belege`
 
-**Fokus:** Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin liquiditaetsplanung.
 
 ### Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -60,7 +52,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-dokumentationspaket-compliance-dokumentation-und-akte`
 
-**Fokus:** Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin liquiditaetsplanung.
 
 ### Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
 
@@ -86,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-excel-behoerden-gericht-und-registerweg`
 
-**Fokus:** Excel: Behörden-, Gerichts- oder Registerweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Excel: Behörden-, Gerichts- oder Registerweg im Plugin liquiditaetsplanung.
 
 ### Excel: Behörden-, Gerichts- oder Registerweg
 

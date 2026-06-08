@@ -1,6 +1,6 @@
 {
   "name": "haushaltsrecht-bho-bund-laender",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "Großes Haushaltsrecht-Plugin für BHO, HGrG, Bundeshaushalt, Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard.",
   "license": "Apache-2.0 OR MIT",
   "author": {

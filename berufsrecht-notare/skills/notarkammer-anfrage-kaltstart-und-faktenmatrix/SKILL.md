@@ -1,6 +1,6 @@
 ---
 name: notarkammer-anfrage-kaltstart-und-faktenmatrix
-description: "Notare: notarkammer anfrage - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: notarkammer anfrage - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: notarkammer anfrage - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

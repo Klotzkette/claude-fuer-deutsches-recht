@@ -1,6 +1,6 @@
 ---
 name: krisenampel
-description: "Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Pricing Liquidität und Wachstum: Erkennt warnzeichen: steuerlücke

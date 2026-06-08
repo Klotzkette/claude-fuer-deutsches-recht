@@ -1,6 +1,6 @@
 ---
 name: copying-substantial-similarity
-description: "Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable expression und substantial similarity vor im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable expression und substantial similarity vor im Us Copyright Registrierung Verlag."
 ---
 
 # Copying und Substantial Similarity

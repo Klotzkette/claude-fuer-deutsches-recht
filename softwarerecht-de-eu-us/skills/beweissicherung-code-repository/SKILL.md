@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-code-repository
-description: "Sichert Git, Tickets, Commits, Builds, Artefakte, CI/CD und Zugriffslogs für IP, Mängel und Streit im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Git, Tickets, Commits, Builds, Artefakte, CI/CD und Zugriffslogs für IP, Mängel und Streit im Softwarerecht De Eu Us."
 ---
 
 # Beweissicherung Code Repository

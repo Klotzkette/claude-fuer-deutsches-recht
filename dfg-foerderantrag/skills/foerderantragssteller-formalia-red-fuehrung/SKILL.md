@@ -1,6 +1,6 @@
 ---
 name: foerderantragssteller-formalia-red-fuehrung
-description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage

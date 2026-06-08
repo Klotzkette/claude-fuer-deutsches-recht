@@ -1,6 +1,6 @@
 ---
 name: inso-54-kosten-88-vollstreckung-95
-description: "Inso P054 Kosten P088 Vollstreckung P095 im Insolvenz- und Sanierungsrecht: prüft konkret § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen, § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat, § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im, § 121 InsO (Betriebsänderungen und Vermittlungsverfahren). Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P054 Kosten P088 Vollstreckung P095 im Insolvenz- und Sanierungsrecht: prüft konkret § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen, § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat, § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im, § 121 InsO (Betriebsänderungen und Vermittlungsverfahren)."
 ---
 
 # Inso P054 Kosten P088 Vollstreckung P095
@@ -8,16 +8,6 @@ description: "Inso P054 Kosten P088 Vollstreckung P095 im Insolvenz- und Sanieru
 ## Arbeitsbereich
 
 **Inso P054 Kosten P088 Vollstreckung P095** ordnet den Fall über die tragenden Prüfungslinien: § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen, § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat, § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p054-kosten-des-insolvenzverfahrens` | § 54 InsO (Kosten des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p088-vollstreckung-vor-verfahrenseroffnung` | § 88 InsO (Vollstreckung vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p095-eintritt-der-aufrechnungslage-im-verfahren` | § 95 InsO (Eintritt der Aufrechnungslage im Verfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p121-betriebsanderungen-und-vermittlungsverfahren` | § 121 InsO (Betriebsänderungen und Vermittlungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p124-sozialplan-vor-verfahrenseroffnung` | § 124 InsO (Sozialplan vor Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -27,7 +17,7 @@ description: "Inso P054 Kosten P088 Vollstreckung P095 im Insolvenz- und Sanieru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p054-kosten-des-insolvenzverfahrens`
 

@@ -1,6 +1,6 @@
 ---
 name: exmatrikulation
-description: "Prüft Exmatrikulation und Folgen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Exmatrikulation und Folgen im Hochschulrecht Länder."
 ---
 
 # Exmatrikulation

@@ -1,6 +1,6 @@
 ---
 name: raumfahrtrechtliche-due-diligence-beim-unternehmenskau
-description: "Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten im Weltraumrecht."
 ---
 
 # Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf

@@ -1,31 +1,9 @@
 ---
 name: staat-status-zeitachse-strafrecht
-description: "Staat Status Zeitachse Strafrecht im Migrationsrecht: prüft konkret Status-Zeitachse, Strafrecht-Schnittstelle, Studium/Ausbildung Start, Unternehmensgründung Migration. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staat Status Zeitachse Strafrecht im Migrationsrecht: prüft konkret Status-Zeitachse, Strafrecht-Schnittstelle, Studium/Ausbildung Start, Unternehmensgründung Migration."
 ---
 
 # Staat Status Zeitachse Strafrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-status-zeitachse` | Status-Zeitachse: Prüfungslinie für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-strafrecht-schnittstelle` | Strafrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-studium-ausbildung-start` | Studium/Ausbildung Start: Prüfungslinie für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-unternehmensgruendung-migration` | Unternehmensgründung Migration: Prüfungslinie für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-urkundennachweis` | Urkundennachweis: Prüfungslinie für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-vulnerabilitaet-atteste` | Vulnerabilität/Atteste: Prüfungslinie für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `staat-aegypten-migrationscheck` | Staaten- und Gebietscheck Ägypten: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-aequatorialguinea-migrationscheck` | Staaten- und Gebietscheck Äquatorialguinea: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-aethiopien-migrationscheck` | Staaten- und Gebietscheck Äthiopien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-afghanistan-migrationscheck` | Staaten- und Gebietscheck Afghanistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-albanien-migrationscheck` | Staaten- und Gebietscheck Albanien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-algerien-migrationscheck` | Staaten- und Gebietscheck Algerien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-amerikanisch-samoa-migrationscheck` | Staaten- und Gebietscheck Amerikanisch-Samoa: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-andorra-migrationscheck` | Staaten- und Gebietscheck Andorra: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-angola-migrationscheck` | Staaten- und Gebietscheck Angola: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-antigua-und-barbuda-migrationscheck` | Staaten- und Gebietscheck Antigua und Barbuda: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-argentinien-migrationscheck` | Staaten- und Gebietscheck Argentinien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 
 ## Arbeitsweg
 
@@ -35,7 +13,7 @@ description: "Staat Status Zeitachse Strafrecht im Migrationsrecht: prüft konkr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-status-zeitachse`
 

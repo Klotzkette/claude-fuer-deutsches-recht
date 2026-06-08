@@ -1,17 +1,9 @@
 ---
 name: themen-fristennotiz-versr-rechtsschutz
-description: "Themen Fristennotiz Versr Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret Themen, Rechtsschutzversicherung, Bauleiter Versicherungsvertragspruefung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Themen Fristennotiz Versr Rechtsschutz im Plugin Fachanwalt Versicherungsrecht: prüft konkret Themen, Rechtsschutzversicherung, Bauleiter Versicherungsvertragspruefung."
 ---
 
 # Themen Fristennotiz Versr Rechtsschutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-themen-fristennotiz-und-naechster-schritt` | Themen: Fristennotiz und nächster Schritt im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `versr-rechtsschutz-stichentscheid-vorvertraglichkeit` | Rechtsschutzversicherung: Deckungszusage, Stichentscheid, Vorvertraglichkeit, Mutwilligkeit, Kostenpositionen und RSV-Prozess. |
-| `versr-versicherungsvertragspruefung-bauleiter` | Bauleiter Versicherungsvertragspruefung: vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheiten § 28 VVG, Beweislast, Rechtsfolgen Verletzung. Pruefraster für Versicherungsnehmer und Versicherer. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Themen Fristennotiz Versr Rechtsschutz im Plugin Fachanwalt Versic
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-themen-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Themen: Fristennotiz und nächster Schritt im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Themen: Fristennotiz und nächster Schritt im Plugin fachanwalt versicherungsrecht.
 
 ### Themen: Fristennotiz und nächster Schritt
 

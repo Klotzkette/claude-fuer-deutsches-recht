@@ -1,6 +1,6 @@
 ---
 name: rentenversicherung
-description: "Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten im Bürokratie-Entbürokratisierung."
 ---
 
 # Rentenversicherung

@@ -1,6 +1,6 @@
 ---
 name: reseller-oem-sbom-software-scraping-api
-description: "Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Reseller-, OEM- und Value-Added-Reseller-Verträge mit Marken, Sublicensing, Support und Haftungskette im Softwarerecht De Eu Us."
 ---
 
 # Reseller OEM VAR

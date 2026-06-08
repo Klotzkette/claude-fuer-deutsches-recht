@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenanzeige-kaltstart
-description: "Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

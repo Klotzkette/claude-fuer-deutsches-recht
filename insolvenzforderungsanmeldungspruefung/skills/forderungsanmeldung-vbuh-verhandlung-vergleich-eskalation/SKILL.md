@@ -1,15 +1,9 @@
 ---
 name: forderungsanmeldung-vbuh-verhandlung-vergleich-eskalation
-description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugin Insolvenzforderungsanmeldungspruefung im Insolvenzforderungsanmeldungspruefung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugin Insolvenzforderungsanmeldungspruefung im Insolvenzforderungsanmeldungspruefung."
 ---
 
 # Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Vbuh: Verhandlung, Vergleich und Eskalation im Forderungsprüfung: fachlich vertieftes Modul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-vbuh-verhandlung-vergleich-und-eskalation`
 

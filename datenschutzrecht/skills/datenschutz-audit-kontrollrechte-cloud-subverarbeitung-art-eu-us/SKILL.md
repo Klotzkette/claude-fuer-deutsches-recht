@@ -1,19 +1,9 @@
 ---
 name: datenschutz-audit-kontrollrechte-cloud-subverarbeitung-art-eu-us
-description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US im Datenschutzrecht: prüft konkret Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV, AVV im Konzern und in Multi-Party-Konstellationen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US im Datenschutzrecht: prüft konkret Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV, AVV im Konzern und in Multi-Party-Konstellationen."
 ---
 
 # Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `avv-audit-und-kontrollrechte` | Audit- und Kontrollrechte des Verantwortlichen gegenueber dem Auftragsverarbeiter nach Art. 28 Abs. 3 lit. h DSGVO. Behandelt Vor-Ort-Audits Selbstauskunft Zertifikate sowie das Verhaeltnis zwischen Audit-Recht und Geschaeftsgeheimnis. Output: Audit-Klausel mit Frequenz Verfahren Kostenregel und Eskalation. |
-| `avv-cloud-und-subverarbeitung-art-28-iv` | Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster für Sub-AV-Listen. |
-| `avv-eu-us-data-privacy-framework-bezug` | Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und Fallback. |
-| `avv-konzern-und-multi-party-konstellation` | AVV im Konzern und in Multi-Party-Konstellationen. Behandelt Konzern-AVV mit zentraler Group-IT Shared-Service-Center und konzernweiter Liste der Auftragsverarbeiter. Klaert die Frage ob Konzern als Einheit auftritt oder jede Gesellschaft eigenstaendig. Output: Konzern-AVV-Klauselgeruest mit Beitrittsmechanik. |
-| `avv-pruefung` | Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rückgabe Lösung Audits. Output: AVV-Prüfmemo oder Vertragsentwurf. Abgrenzung: nicht für Joint-Controller-Vereinbarungen (joint-controller-vereinbarung). |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `avv-audit-und-kontrollrechte`
 

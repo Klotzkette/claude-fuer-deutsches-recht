@@ -1,6 +1,6 @@
 ---
 name: testamentsvollstrecker-grundbuch-vollmacht
-description: "Prüft Verfügungsbefugnis, Zeugnis, Beschränkungen, Nachweisform und Verkaufsvollzug im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verfügungsbefugnis, Zeugnis, Beschränkungen, Nachweisform und Verkaufsvollzug im Grundbuchamt Praxis."
 ---
 
 # Testamentsvollstrecker im Grundbuch

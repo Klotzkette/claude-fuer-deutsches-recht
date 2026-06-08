@@ -1,6 +1,6 @@
 ---
 name: anspruchsentwurf-dokumentenmatrix-und-lueckenliste
-description: "Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung im Patentrecht."
 ---
 
 # Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung

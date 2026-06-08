@@ -1,6 +1,6 @@
 ---
 name: spin-short
-description: "Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten im Insiderrecht Compliance."
 ---
 
 # Spin-off – Insiderrecht bei Unternehmensabspaltungen

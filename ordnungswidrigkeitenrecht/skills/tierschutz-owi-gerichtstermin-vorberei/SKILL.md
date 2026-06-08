@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-gerichtstermin-vorberei
-description: "Tierschutz-OWi: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tierschutz-OWi: Gerichtstermin vorbereiten im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Tierschutz Owi Gerichtstermin Vorberei

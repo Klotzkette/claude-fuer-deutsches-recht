@@ -1,6 +1,6 @@
 ---
 name: nach-grenzbebauung-ueberhang-spezial
-description: "Spezialfall Grenzbebauung und Ueberhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Pruefraster für Eigentuemer und Mieter im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Grenzbebauung und Ueberhang § 910 BGB / Landesrecht: Abstandsflaechen, Rueckschnitt, Vorrang des Naturschutzes. Pruefraster für Eigentuemer und Mieter im Nachbarschaftsstreit Pruefer."
 ---
 
 # Nach: Grenzbebauung Ueberhang

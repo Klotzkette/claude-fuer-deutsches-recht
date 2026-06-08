@@ -1,15 +1,9 @@
 ---
 name: upc-unified
-description: "UPC Unified im Plugin Patentrecherche im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UPC Unified im Plugin Patentrecherche im Patentrecherche."
 ---
 
 # UPC Unified
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `upc-unified-patent-court-spezial` | Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation. Pruefraster für Patentinhaber und potentielle Verletzer. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "UPC Unified im Plugin Patentrecherche im Patentrecherche. Liefert 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `upc-unified-patent-court-spezial`
 

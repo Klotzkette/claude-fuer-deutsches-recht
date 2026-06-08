@@ -1,6 +1,6 @@
 ---
 name: stoerfall-fristennotiz-und-naechster-schritt
-description: "Stoerfall: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stoerfall: Fristennotiz und nächster Schritt im Umweltrecht."
 ---
 
 # Stoerfall: Fristennotiz und nächster Schritt
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Stoerfall: Fristennotiz und nächster Schritt
-- **Konkreter Gegenstand:** Stoerfall: Fristennotiz und nächster Schritt im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Stoerfall: Fristennotiz und nächster Schritt im Plugin umweltrecht..
 - **Normen-/Verfahrensanker:** BImSchG/UVPG/WHG/KrWG/BNatSchG/TEHG/UmwRG/UIG sowie Landesrecht und Behördenvollzug.
 - **Entscheidende Weiche:** Genehmigung, Nebenbestimmung, Drittschutz, Verbandsklage, Mess-/Gutachtengrundlage, Sanierungsanordnung, Bußgeld und Sofortvollzug getrennt prüfen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

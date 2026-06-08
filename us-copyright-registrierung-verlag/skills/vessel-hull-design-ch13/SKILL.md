@@ -1,6 +1,6 @@
 ---
 name: vessel-hull-design-ch13
-description: "Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung im Us Copyright Registrierung Verlag."
 ---
 
 # Vessel Hull Design Chapter 13

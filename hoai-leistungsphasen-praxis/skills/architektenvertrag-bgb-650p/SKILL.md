@@ -1,6 +1,6 @@
 ---
 name: architektenvertrag-bgb-650p
-description: "HOAI-Praxis: prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft planungsgrundlage

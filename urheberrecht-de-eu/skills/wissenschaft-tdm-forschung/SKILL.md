@@ -1,6 +1,6 @@
 ---
 name: wissenschaft-tdm-forschung
-description: "Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen im Urheberrecht De Eu."
 ---
 
 # Wissenschaft, Forschung und TDM

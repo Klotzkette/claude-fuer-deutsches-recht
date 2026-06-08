@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-richter-professoren-fuehrungsaemter
-description: "Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konkurrentenschutz bei Richtern, Professoren und Führungsämtern: Bestenauslese, Gremienbeteiligung, Präsidialrat, Berufungskommission und besondere Aktenlage im Beamtenrecht."
 ---
 
 # konkurrentenschutz-richter-professoren-fuehrungsaemter

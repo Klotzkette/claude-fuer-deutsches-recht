@@ -1,6 +1,6 @@
 ---
 name: klageberechtigung-der-stelle-pruefen
-description: "Verbraucherschutzverband Durchsetzung: Klageberechtigung der Stelle prüfen. Klageberechtigung der Stelle prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Klageberechtigung der Stelle prüfen. Klageberechtigung der Stelle prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Klageberechtigung Der Stelle Pruefen

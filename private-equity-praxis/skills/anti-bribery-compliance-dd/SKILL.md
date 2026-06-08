@@ -1,6 +1,6 @@
 ---
 name: anti-bribery-compliance-dd
-description: "Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken im Private Equity Praxis."
 ---
 
 # ABC/Compliance DD

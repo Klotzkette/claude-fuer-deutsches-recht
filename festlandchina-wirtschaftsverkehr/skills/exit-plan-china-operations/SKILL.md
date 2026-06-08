@@ -1,6 +1,6 @@
 ---
 name: exit-plan-china-operations
-description: "Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Exit-Plan China: Deregistrierung/Kapitalrückführung/Abwicklung

@@ -1,6 +1,6 @@
 ---
 name: haftung-fuer-herabfallende-raketenstufen
-description: "Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast im Weltraumrecht."
 ---
 
 # Weltraumrecht: Haftung für herabfallende Raketenstufen

@@ -1,6 +1,6 @@
 ---
 name: urkundensammlung-und-verwahrung-kammerantwort-und-verfahren
-description: "Notare: urkundensammlung und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: urkundensammlung und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: urkundensammlung und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

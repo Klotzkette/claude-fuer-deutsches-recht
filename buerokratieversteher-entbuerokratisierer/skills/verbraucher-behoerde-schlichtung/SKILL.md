@@ -1,6 +1,6 @@
 ---
 name: verbraucher-behoerde-schlichtung
-description: "Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde im Bürokratie-Entbürokratisierung."
 ---
 
 # Verbraucherbehörde und Schlichtung

@@ -1,17 +1,9 @@
 ---
 name: fazugang-arbeitnehmerverteidigung-schriftform
-description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt Arbeitsrecht: prüft konkret Arbeitnehmerverteidigung, Schriftform Kündigung § 623 BGB, Einschreiben, Post und Zugang. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt Arbeitsrecht: prüft konkret Arbeitnehmerverteidigung, Schriftform Kündigung § 623 BGB, Einschreiben, Post und Zugang."
 ---
 
 # Fazugang Arbeitnehmerverteidigung Schriftform
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne` | Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG. |
-| `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc` | Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung. |
-| `kuendigung-per-einschreiben-risiken` | Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.; Normanker: BGB § 130; KSchG § 4; ZPO Zeugenbeweis; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne`
 

@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-fristen-einspruch
-description: "Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstellt Einspruchsentwuerfe. Berechnung Zustellungsfiktion § 418 ZPO i.V.m. § 37 StPO. Unbeschraenkter oder beschraenkter Einspruch § 410 Abs. 2 StPO. Wiedereinsetzung § 44 StPO. Fristenblatt Mandantenhinweis Einspruchsschreiben im Strafbefehl Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstellt Einspruchsentwuerfe. Berechnung Zustellungsfiktion § 418 ZPO i.V.m. § 37 StPO. Unbeschraenkter oder beschraenkter Einspruch § 410 Abs. 2 StPO. Wiedereinsetzung § 44 StPO. Fristenblatt Mandantenhinweis Einspruchsschreiben im Strafbefehl Verteidiger."
 ---
 
 # Frist und Einspruch nach § 410 StPO

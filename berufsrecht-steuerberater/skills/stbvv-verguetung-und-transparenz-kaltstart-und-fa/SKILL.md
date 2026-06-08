@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung-und-transparenz-kaltstart-und-fa
-description: "Steuerberater: stbvv vergütung und transparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: stbvv vergütung und transparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

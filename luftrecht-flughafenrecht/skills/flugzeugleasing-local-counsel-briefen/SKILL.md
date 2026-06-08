@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Flugzeugleasing-Mandat briefen: Cape-Town-Eintrag IDERA Insolvenz Wet-Lease-Genehmigung. Skill erstellt englisches Briefing-Memo mit deutschem Leasingrecht Cape-Town-Status und konkreten Fragen an Local Counsel im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Flugzeugleasing-Mandat briefen: Cape-Town-Eintrag IDERA Insolvenz Wet-Lease-Genehmigung. Skill erstellt englisches Briefing-Memo mit deutschem Leasingrecht Cape-Town-Status und konkreten Fragen an Local Counsel im Luftrecht Flughafenrecht."
 ---
 
 # Flugzeugleasing – Local Counsel briefen

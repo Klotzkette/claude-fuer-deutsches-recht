@@ -1,6 +1,6 @@
 ---
 name: platzhalterlogik-bauleiter
-description: "Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Pruefraster für Templatebau und Fehlerquellen im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Pruefraster für Templatebau und Fehlerquellen im Vertragsausfueller."
 ---
 
 # VAF: Platzhalterlogik Bauleiter

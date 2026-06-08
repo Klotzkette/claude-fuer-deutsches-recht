@@ -1,6 +1,6 @@
 ---
 name: wandelt-erstpruefung-und-mandatsziel
-description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Wandelt: Erstprüfung, Rollenklärung und Mandatsziel

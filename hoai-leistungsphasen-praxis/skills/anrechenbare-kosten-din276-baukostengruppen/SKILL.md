@@ -1,6 +1,6 @@
 ---
 name: anrechenbare-kosten-din276-baukostengruppen
-description: "HOAI-Fachfrage: anrechenbare Kosten nach § 4 HOAI, DIN-276-Bezug, Kostengruppen, ortsübliche Preise, Eigenleistungen, Umsatzsteuer, Kostenberechnung/Kostenschätzung und Honorargrundlage gerichtsfest prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage: anrechenbare Kosten nach § 4 HOAI, DIN-276-Bezug, Kostengruppen, ortsübliche Preise, Eigenleistungen, Umsatzsteuer, Kostenberechnung/Kostenschätzung und Honorargrundlage gerichtsfest prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # Anrechenbare Kosten, DIN 276 Und Kostengruppen

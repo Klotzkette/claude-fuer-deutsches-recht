@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-risikoampel-und-gegenargumente
-description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin bav strategie konzern im Bav Strategie Konzern."
 ---
 
 # Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien

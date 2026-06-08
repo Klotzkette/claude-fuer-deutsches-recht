@@ -1,6 +1,6 @@
 ---
 name: vig-lebensmittel-und-produkte-frist-se
-description: "Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Frist setzen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Vig Lebensmittel Und Produkte Frist Se

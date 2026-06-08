@@ -1,6 +1,6 @@
 ---
 name: erbvertrag-testament-belehrung-kammerantwort-und-verfahr
-description: "Notare: erbvertrag testament belehrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: erbvertrag testament belehrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: erbvertrag testament belehrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

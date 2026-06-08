@@ -1,6 +1,6 @@
 ---
 name: kostenrechnung-gnotkg-beschwerde-kaltstart-und-faktenmat
-description: "Notare: kostenrechnung gnotkg beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: kostenrechnung gnotkg beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: kostenrechnung gnotkg beschwerde - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: kindererziehungszeiten-zeitenklaerung
-description: "Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise im Rentenpruefer."
 ---
 
 # kindererziehungszeiten-und-beruecksichtigungszeiten

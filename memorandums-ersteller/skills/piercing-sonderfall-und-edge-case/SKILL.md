@@ -1,6 +1,6 @@
 ---
 name: piercing-sonderfall-und-edge-case
-description: "Piercing: Sonderfall und Edge-Case-Prüfung im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Piercing: Sonderfall und Edge-Case-Prüfung im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Piercing: Sonderfall und Edge-Case-Prüfung

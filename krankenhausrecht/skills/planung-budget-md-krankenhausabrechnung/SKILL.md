@@ -1,6 +1,6 @@
 ---
 name: planung-budget-md-krankenhausabrechnung
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle im Krankenhausrecht."
 ---
 
 # Fristen Planung Budget MD Schiedsstelle

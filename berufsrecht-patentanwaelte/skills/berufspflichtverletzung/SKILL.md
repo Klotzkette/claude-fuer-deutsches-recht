@@ -1,6 +1,6 @@
 ---
 name: berufspflichtverletzung
-description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufspflichtverletzung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufspflichtverletzung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Berufspflichtverletzung

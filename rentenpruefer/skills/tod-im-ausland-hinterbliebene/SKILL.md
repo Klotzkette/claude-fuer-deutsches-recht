@@ -1,6 +1,6 @@
 ---
 name: tod-im-ausland-hinterbliebene
-description: "Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tod im Ausland und Hinterbliebene: Sterbeurkunde, Übersetzung, Witwen-/Waisenrente, Auslandszahlung und Trägerkommunikation im Rentenpruefer."
 ---
 
 # tod-im-ausland-hinterbliebene

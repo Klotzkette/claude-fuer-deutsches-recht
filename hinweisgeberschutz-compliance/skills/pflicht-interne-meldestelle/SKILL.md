@@ -1,6 +1,6 @@
 ---
 name: pflicht-interne-meldestelle
-description: "Prüft, ob und wie eine interne Meldestelle einzurichten ist im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob und wie eine interne Meldestelle einzurichten ist im Hinweisgeberschutz Compliance."
 ---
 
 # Pflicht Interne Meldestelle

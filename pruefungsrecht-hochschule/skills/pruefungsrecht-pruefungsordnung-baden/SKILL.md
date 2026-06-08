@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-pruefungsordnung-baden
-description: "Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsordnung Router

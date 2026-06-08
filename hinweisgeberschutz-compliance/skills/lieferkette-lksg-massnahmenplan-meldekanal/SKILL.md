@@ -1,6 +1,6 @@
 ---
 name: lieferkette-lksg-massnahmenplan-meldekanal
-description: "Verknüpft Hinweise mit Lieferkette und Menschenrechten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft Hinweise mit Lieferkette und Menschenrechten im Hinweisgeberschutz Compliance."
 ---
 
 # Lieferkette LkSG CSDDD

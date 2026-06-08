@@ -1,6 +1,6 @@
 ---
 name: kommunalbeamte-und-wahlbeamte
-description: "Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalbeamte und Wahlbeamte: Amtszeit, Abwahl, Bürgermeister, Beigeordnete, Nebentätigkeiten und Versorgung im Beamtenrecht."
 ---
 
 # Kommunalbeamte Und Wahlbeamte

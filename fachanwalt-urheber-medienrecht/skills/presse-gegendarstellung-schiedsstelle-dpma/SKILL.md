@@ -1,17 +1,9 @@
 ---
 name: presse-gegendarstellung-schiedsstelle-dpma
-description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn."
 ---
 
 # Presse Gegendarstellung Schiedsstelle Dpma
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-urheber-medienrecht-presse-gegendarstellung` | Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen. |
-| `fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg` | Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren. |
-| `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` | Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Ur
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-urheber-medienrecht-presse-gegendarstellung`
 

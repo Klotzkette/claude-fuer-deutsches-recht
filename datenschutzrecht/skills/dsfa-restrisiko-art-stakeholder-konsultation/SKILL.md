@@ -1,19 +1,9 @@
 ---
 name: dsfa-restrisiko-art-stakeholder-konsultation
-description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: prüft konkret Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art, Katalog typischer Fehler bei der DSFA-Erstpruefung und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: prüft konkret Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art, Katalog typischer Fehler bei der DSFA-Erstpruefung und."
 ---
 
 # Dsfa Restrisiko ART Stakeholder Konsultation
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsfa-restrisiko-und-art-36-konsultation` | Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Massnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist. |
-| `dsfa-stakeholder-konsultation-art-35-9` | Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Pruefung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation. |
-| `dsfa-template-deutsch-vollvorlage` | Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen. |
-| `dsfa-typische-fehler-bei-erstpruefung` | Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis. |
-| `dsfa-update-bei-aenderungen-und-revision` | Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Aenderungsanalyse Risikoreassessment und Versionshistorie. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsfa-restrisiko-und-art-36-konsultation`
 

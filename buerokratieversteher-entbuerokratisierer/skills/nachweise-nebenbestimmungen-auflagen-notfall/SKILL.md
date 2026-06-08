@@ -1,6 +1,6 @@
 ---
 name: nachweise-nebenbestimmungen-auflagen-notfall
-description: "Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht im Bürokratie-Entbürokratisierung."
 ---
 
 # Nachweise und Belege

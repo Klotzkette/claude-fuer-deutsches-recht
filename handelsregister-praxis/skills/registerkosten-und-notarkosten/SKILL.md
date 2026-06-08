@@ -1,6 +1,6 @@
 ---
 name: registerkosten-und-notarkosten
-description: "Ordnet Register- und Notarkosten grob, vermeidet Doppelvollzug und erklärt Mandanten die Kostenlogik im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Register- und Notarkosten grob, vermeidet Doppelvollzug und erklärt Mandanten die Kostenlogik im Handelsregister Praxis."
 ---
 
 # Kosten und Gebühren antizipieren

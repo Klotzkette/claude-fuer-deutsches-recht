@@ -1,15 +1,9 @@
 ---
 name: leichte-sprache-zielgruppe-zahlen-schwellen-berechnung
-description: "Zielgruppe Zahlen Schwellen Berechnung im Einfache und leichte Sprache im Recht im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zielgruppe Zahlen Schwellen Berechnung im Einfache und leichte Sprache im Recht im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Zielgruppe Zahlen Schwellen Berechnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-zielgruppe-zahlen-schwellen-und-berechnung` | Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -19,11 +13,11 @@ description: "Zielgruppe Zahlen Schwellen Berechnung im Einfache und leichte Spr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Behörde, Verwaltungsstelle, Übersetzer Leichte Sprache, Prüfgruppe (Selbstvertreter), Sozialverbände (Lebenshilfe, BAGSO), Behindertenbeauftragter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bescheid in Leichter Sprache, Erklärfilm-Skript, Antragsformular mit Erläuterung, Mandanteninfo, Prozessunterlagen in einfacher Sprache — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-zielgruppe-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura.
 
 ### Zielgruppe: Zahlen, Schwellenwerte und Berechnung
 

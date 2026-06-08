@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung-bezuege
-description: "Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren im Beamtenrecht."
 ---
 
 # Vorlaeufige Dienstenthebung Bezuege

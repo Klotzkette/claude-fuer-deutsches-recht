@@ -1,6 +1,6 @@
 ---
 name: teilzeit-beurlaubung-umsetzung-versetzung
-description: "Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Teilzeit, Beurlaubung, Elternzeit, Pflegezeit und Rückkehr in den Dienst im Beamtenrecht."
 ---
 
 # Teilzeit Beurlaubung Familienpflege

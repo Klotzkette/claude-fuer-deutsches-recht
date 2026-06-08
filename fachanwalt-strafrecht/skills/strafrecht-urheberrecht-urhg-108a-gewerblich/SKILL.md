@@ -1,24 +1,9 @@
 ---
 name: strafrecht-urheberrecht-urhg-108a-gewerblich
-description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur, Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur, Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst."
 ---
 
 # Urheberrecht Urhg 108a Gewerblich
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe` | Unerlaubte Eingriffe in verwandte Schutzrechte nach Paragraph 108 UrhG. Lichtbildner Tontraegerhersteller Sendeunternehmen Filmhersteller Datenbankhersteller ausuebende Kuenstler. Verwertung Vervielfaeltigung Verbreitung ohne Einwilligung. Strafrahmen bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Abgrenzung zu Paragraph 106 UrhG. Verteidigungsstrategien Schutzfrist Beweis der Inhaberschaft. |
-| `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich` | Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG. Qualifikation der Paragraphen 106 und 108 UrhG bei gewerbsmäßigem Handeln. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Kein Antragsdelikt sondern Offizialdelikt. Online-Schwarzkopiermaerkte Streamingplattformen Bootleg-Vertrieb. Verteidigung Gewerbsmaessigkeitsbegriff Wiederholungsabsicht laufender Einnahmequelle. |
-| `strafrecht-spezial-urheberrecht-108b-urhg-tpm` | Unerlaubte Eingriffe in technische Schutzmassnahmen und zur Rechtewahrnehmung erforderliche Informationen nach Paragraph 108b UrhG. Umgehung von DRM Kopierschutz CSS DVD-Schutz Streaming-Verschluesselung. Strafrahmen bis 1 Jahr Freiheitsstrafe gewerblich bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Privatgebrauchsausnahme. Verteidigung Vorsatz Bestimmungsmerkmal. |
-| `strafrecht-spezial-vergewaltigung-177-stgb` | Sexualdelikte nach § 177 StGB nach Reform 2016 Nein heisst Nein. Sexueller Uebergriff Abs. 1; Regelbeispiele Abs. 2; sexuelle Noetigung Abs. 5; Qualifikationen Abs. 6 Vergewaltigung; Abs. 7 schwere sexuelle Noetigung; Abs. 8 schwere Vergewaltigung. Strafrahmenstufung. Praxisleitfaden Aussage gegen Aussage. |
-| `strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht` | Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB. Wartepflicht und Nachholobliegenheit. Vier Tatbestandsvarianten Absatz 1 Nummer 1 bis 2 und Absatz 2 Nummer 1 bis 2. Bagatellschaden-Streit. Taetige Reue Absatz 4. Verteidigung Vorsatz Unfallbegriff bedeutender Sachschaden Anwesenheit feststellungsbereiter Personen. |
-| `strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung` | Gefaehrdung des Strassenverkehrs nach Paragraph 315c StGB. Konkretes Gefaehrdungsdelikt mit Beinaheunfall. Sieben-Todsuenden-Katalog Absatz 1 Nummer 2. Trunkenheit Fahruntuechtigkeit Absatz 1 Nummer 1 Buchstabe a. Fahrlaessigkeitsvariante Absatz 3. Konkurrenz zu Paragraph 316 StGB und Paragraph 142 StGB. Verteidigungslinien Gefahrnaehe und subjektiver Tatbestand. |
-| `strafrecht-spezial-verkehrsstrafrecht-315d-stgb-rennen` | Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB. Reform 2017 hat das Rennen vom Ordnungswidrigkeitenrecht in das Strafrecht gehoben. Drei Tatbestandsvarianten Absatz 1 Nummer 1 bis 3. Polizeiflucht als Einzelrennen. Erfolgsqualifikation Absatz 5 bei Todesfolge. Verteidigung wegen Bestimmtheit Einzelrennen-Variante. |
-| `strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit` | Trunkenheit im Verkehr nach Paragraph 316 StGB. Abstraktes Gefaehrdungsdelikt ohne konkrete Gefahr. Absolute Fahruntuechtigkeit ab 1.1 Promille Blutalkoholkonzentration; relative Fahruntuechtigkeit ab 0.3 Promille mit Ausfallerscheinungen. Subsidiaritaet zu Paragraph 315c StGB. Verteidigungsstrategien Messung Rueckrechnung Trinkende. Fahrerlaubnisentzug Paragraph 69 StGB. |
-| `strafrecht-spezial-verkehrsstrafrecht-323a-stgb-rauschtat` | Vollrausch nach Paragraph 323a StGB als Auffangtatbestand bei schuldunfaehiger Rauschtat. Voraussetzungen Selbstverschulden Rausch Rauschtat. Strafrahmen-Begrenzung durch Hauptdelikt. Anwendungsfaelle Verkehrsdelikte Gewaltdelikte. Verteidigungsstrategien Schuldunfaehigkeit Paragraph 20 StGB. |
-| `strafrecht-spezial-verletzung-buchfuehrungspflicht-283b-stgb` | Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB als selbstaendiger Tatbestand neben Paragraph 283 StGB. Sanktioniert Unterlassen Verfaelschen Vernichten von Handelsbuechern und Belegen sowie Verstoss gegen Bilanzierungspflicht. Strafdrohung milder Bedeutung in Wirtschaftsstrafverfahren. Verteidigung gegen Buchhaltungsvorwurf. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
 

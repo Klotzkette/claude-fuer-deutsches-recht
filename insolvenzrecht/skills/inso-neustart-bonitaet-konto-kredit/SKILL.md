@@ -1,6 +1,6 @@
 ---
 name: inso-neustart-bonitaet-konto-kredit
-description: "Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditfähigkeit, Vermieter-/Bankauskunft, Löschung, Berichtigung und Dokumentation im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditfähigkeit, Vermieter-/Bankauskunft, Löschung, Berichtigung und Dokumentation im Insolvenzrecht."
 ---
 
 # Neustart nach Insolvenz: Konto, Kredit, Bonität

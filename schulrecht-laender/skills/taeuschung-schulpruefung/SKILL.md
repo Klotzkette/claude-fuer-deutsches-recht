@@ -1,6 +1,6 @@
 ---
 name: taeuschung-schulpruefung
-description: "Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur im Schulrecht Länder."
 ---
 
 # Taeuschung Schulpruefung

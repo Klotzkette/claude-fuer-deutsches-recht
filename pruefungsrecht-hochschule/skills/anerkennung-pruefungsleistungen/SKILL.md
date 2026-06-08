@@ -1,6 +1,6 @@
 ---
 name: anerkennung-pruefungsleistungen
-description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Pruefungsrecht Hochschule."
 ---
 
 # Anerkennung Von Pruefungsleistungen

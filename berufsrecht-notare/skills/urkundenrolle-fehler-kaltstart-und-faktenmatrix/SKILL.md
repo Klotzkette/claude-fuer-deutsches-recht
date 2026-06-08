@@ -1,6 +1,6 @@
 ---
 name: urkundenrolle-fehler-kaltstart-und-faktenmatrix
-description: "Notare: urkundenrolle fehler - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: urkundenrolle fehler - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: urkundenrolle fehler - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: open-source-plain
-description: "Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Source-Risiken vor Gründung, Finanzierung und Due Diligence im Gesellschaftsgruender."
 ---
 
 # Open-Source-Check Startup

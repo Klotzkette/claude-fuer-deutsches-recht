@@ -1,6 +1,6 @@
 ---
 name: 035-aufgebotsverfahren-verlorener-grundschuldbrief
-description: "Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung im Notariat."
 ---
 
 # Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief

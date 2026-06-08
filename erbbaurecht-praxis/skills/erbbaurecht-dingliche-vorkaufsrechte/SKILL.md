@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-dingliche-vorkaufsrechte
-description: "Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung im Erbbaurecht Praxis."
 ---
 
 # Vorkaufsrechte im Erbbaurecht

@@ -1,6 +1,6 @@
 ---
 name: gegenwartsbezug-ohne-anachronismus
-description: "Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Ruest-zeug um historische Argumente in heutige Rechtsdiskussion einzubringen ohne unzulaessige Zeitspringe im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Ruest-zeug um historische Argumente in heutige Rechtsdiskussion einzubringen ohne unzulaessige Zeitspringe im Deutsche Rechtsgeschichte."
 ---
 
 # Gegenwartsbezug ohne Anachronismus

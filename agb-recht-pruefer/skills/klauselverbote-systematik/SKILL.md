@@ -1,6 +1,6 @@
 ---
 name: klauselverbote-systematik
-description: "Norm- und Dogmatik-Skill für Klauselverbote 308 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Norm- und Dogmatik-Skill für Klauselverbote 308 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung im AGB-Recht."
 ---
 
 # Klauselverbote 308 Systematik

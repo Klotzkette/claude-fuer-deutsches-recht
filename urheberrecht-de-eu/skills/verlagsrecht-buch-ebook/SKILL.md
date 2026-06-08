@@ -1,6 +1,6 @@
 ---
 name: verlagsrecht-buch-ebook
-description: "Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Autorenvertrag, Verlagsrecht, E-Book, Hörbuch, Übersetzung, Nebenrechte, Remission und KI-Nutzungen im Urheberrecht De Eu."
 ---
 
 # Verlagsrecht Buch und E-Book

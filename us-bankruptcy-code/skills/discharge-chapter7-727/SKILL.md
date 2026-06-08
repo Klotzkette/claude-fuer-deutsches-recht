@@ -1,6 +1,6 @@
 ---
 name: discharge-chapter7-727
-description: "Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft discharge entitlement, objections, concealment, false oath, records and denial-of-discharge risks im US Bankruptcy Code."
 ---
 
 # Chapter 7 Discharge § 727

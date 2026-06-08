@@ -1,6 +1,6 @@
 ---
 name: schulbibliothek-medienbestand
-description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag im Schulrecht Länder."
 ---
 
 # Schulbibliothek und Medienbestand

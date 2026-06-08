@@ -1,6 +1,6 @@
 ---
 name: attest-anforderungen-auslandsanerkennung
-description: "Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren im Pruefungsrecht Hochschule."
 ---
 
 # Attestanforderungen Hochschule

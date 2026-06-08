@@ -1,6 +1,6 @@
 ---
 name: eu-justizunabhaengigkeit-art-19-euv-art-47-grch
-description: "EU-rechtliche Justizunabhängigkeit: Art. 19 Abs. 1 EUV, Art. 47 GRCh, EuGH-Linien zu Disziplinarregimen, Ernennung, Dienstaufsicht und nationalem Richterrecht im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU-rechtliche Justizunabhängigkeit: Art. 19 Abs. 1 EUV, Art. 47 GRCh, EuGH-Linien zu Disziplinarregimen, Ernennung, Dienstaufsicht und nationalem Richterrecht im Beamtenrecht."
 ---
 
 # EU-Justizunabhängigkeit - Art. 19 EUV und Art. 47 GRCh

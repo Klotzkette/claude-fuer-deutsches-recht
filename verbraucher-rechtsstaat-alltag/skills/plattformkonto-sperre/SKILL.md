@@ -1,6 +1,6 @@
 ---
 name: plattformkonto-sperre
-description: "Plattformkonto gesperrt: erklärt Marktplatz, Social Media, Payment, Beschwerde und Dokumentation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plattformkonto gesperrt: erklärt Marktplatz, Social Media, Payment, Beschwerde und Dokumentation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Plattformkonto gesperrt

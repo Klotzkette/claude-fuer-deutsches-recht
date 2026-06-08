@@ -1,6 +1,6 @@
 ---
 name: bav-pensionsfond-rueckdeckung-spezial
-description: "Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Pruefraster und Mustertexte für Wechsel Direktzusage zu Pensionsfonds im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Pruefraster und Mustertexte für Wechsel Direktzusage zu Pensionsfonds im Bav Strategie Konzern."
 ---
 
 # bAV: Pensionsfonds-Rueckdeckung

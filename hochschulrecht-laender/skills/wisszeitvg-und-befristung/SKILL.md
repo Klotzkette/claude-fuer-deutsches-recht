@@ -1,6 +1,6 @@
 ---
 name: wisszeitvg-und-befristung
-description: "Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wissenschaftszeitvertragsrecht im Hochschulkontext im Hochschulrecht Länder."
 ---
 
 # Wisszeitvg Und Befristung

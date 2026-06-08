@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-praeferenzkalkulation-lieferantenerklaerung
-description: "Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und DA Anhang 22-03: Listenregeln, HS-Wechsel, Wertschwell, vollstaendige Gewinnung, Kumulierungsmoeglichkeiten, Lieferantenerklaerung nach VO (EU) 1207/2001 und VO (EU) 2015/2447. Output: Ursprungskalkulation und Lieferantenerklaerungsvorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und DA Anhang 22-03: Listenregeln, HS-Wechsel, Wertschwell, vollstaendige Gewinnung, Kumulierungsmoeglichkeiten, Lieferantenerklaerung nach VO (EU) 1207/2001 und VO (EU) 2015/2447. Output: Ursprungskalkulation und Lieferantenerklaerungsvorlage im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Praeferenzkalkulation und Lieferantenerklaerung: Nachweis des Praeferenzursprungs

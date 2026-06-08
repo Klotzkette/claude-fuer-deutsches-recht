@@ -1,18 +1,9 @@
 ---
 name: edpb-bemessungsmethodik-art-streitbeilegung
-description: "Edpb Bemessungsmethodik ART Streitbeilegung im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret EDPB 04/2022 Bemessungsmethodik, EDPB-Streitbeilegung Art, EDPB und DSK Praxis Livecheck, Einstellung vor Bescheid anregen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Edpb Bemessungsmethodik ART Streitbeilegung im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret EDPB 04/2022 Bemessungsmethodik, EDPB-Streitbeilegung Art, EDPB und DSK Praxis Livecheck, Einstellung vor Bescheid anregen."
 ---
 
 # Edpb Bemessungsmethodik ART Streitbeilegung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `edpb-04-2022-bemessungsmethodik` | EDPB 04/2022 Bemessungsmethodik: Startbetrag, Schwere, Umsatz, erschwerende/mildernde Umstände, Höchstgrenze und Verhältnismäßigkeit nachrechnen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `edpb-art-65-streitbeilegung` | EDPB-Streitbeilegung Art. 65: Verbindliche EDPB-Entscheidung bei Behördenstreit verstehen und Mandanteninteressen vorher sichern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `edsa-und-dsk-praxis-livecheck` | EDPB und DSK Praxis Livecheck: Aktuelle Leitlinien, Orientierungshilfen und Behördenpraxis live prüfen und nicht aus Modellwissen erfinden. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `einstellung-anregen-vor-bescheid` | Einstellung vor Bescheid anregen: Tatbestand, Verschulden, Bemessung, Maßnahmenplan und Verhältnismäßigkeit für Einstellung oder Verwarnung bündeln. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Edpb Bemessungsmethodik ART Streitbeilegung im Datenschutz-Sanktio
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `edpb-04-2022-bemessungsmethodik`
 

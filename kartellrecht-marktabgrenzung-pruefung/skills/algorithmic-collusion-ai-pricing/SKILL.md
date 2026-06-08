@@ -1,6 +1,6 @@
 ---
 name: algorithmic-collusion-ai-pricing
-description: "Algorithmic Collusion und AI Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisalgorithmen, Hub-and-Spoke, Signalling und Monitoring kartellrechtlich untersuchen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Algorithmic Collusion und AI Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisalgorithmen, Hub-and-Spoke, Signalling und Monitoring kartellrechtlich untersuchen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Algorithmic Collusion und AI Pricing

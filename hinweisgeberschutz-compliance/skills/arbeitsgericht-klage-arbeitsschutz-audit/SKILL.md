@@ -1,6 +1,6 @@
 ---
 name: arbeitsgericht-klage-arbeitsschutz-audit
-description: "Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet arbeitsgerichtliche Klage wegen Repressalie vor im Hinweisgeberschutz Compliance."
 ---
 
 # Arbeitsgericht Klage

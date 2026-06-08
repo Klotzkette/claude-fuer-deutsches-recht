@@ -1,15 +1,9 @@
 ---
 name: inso-3d-gruppen-gerichtsstand
-description: "Inso P003d im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inso P003d im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht."
 ---
 
 # Inso P003d
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p003d-verweisung-an-den-gruppen-gerichtsstand` | § 3d InsO (Verweisung an den Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Inso P003d im Insolvenz- und Sanierungsrecht im Fachanwalt Insolve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p003d-verweisung-an-den-gruppen-gerichtsstand`
 

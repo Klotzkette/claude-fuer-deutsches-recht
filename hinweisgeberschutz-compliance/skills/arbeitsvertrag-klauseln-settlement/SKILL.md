@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-klauseln-settlement
-description: "Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweisgeberschutz Compliance."
 ---
 
 # Arbeitsvertrag Klauseln

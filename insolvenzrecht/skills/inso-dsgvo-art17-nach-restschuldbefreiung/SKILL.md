@@ -1,6 +1,6 @@
 ---
 name: inso-dsgvo-art17-nach-restschuldbefreiung
-description: "Art. 17 DSGVO als insolvenzrechtlicher Anschlussanspruch nach Restschuldbefreiung: Löschung, Einschränkung, Widerspruch, Beschwerde und Klage im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Art. 17 DSGVO als insolvenzrechtlicher Anschlussanspruch nach Restschuldbefreiung: Löschung, Einschränkung, Widerspruch, Beschwerde und Klage im Insolvenzrecht."
 ---
 
 # DSGVO Art. 17 nach Restschuldbefreiung

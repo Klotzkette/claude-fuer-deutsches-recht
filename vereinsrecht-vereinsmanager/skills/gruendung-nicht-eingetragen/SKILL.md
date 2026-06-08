@@ -1,6 +1,6 @@
 ---
 name: gruendung-nicht-eingetragen
-description: "Begleitet Gründung und Grundordnung eines nicht eingetragenen Vereins mit Mindestregeln, Haftungs- und Kontofragen im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Gründung und Grundordnung eines nicht eingetragenen Vereins mit Mindestregeln, Haftungs- und Kontofragen im Vereinsrecht Vereinsmanager."
 ---
 
 # Nicht eingetragener Verein

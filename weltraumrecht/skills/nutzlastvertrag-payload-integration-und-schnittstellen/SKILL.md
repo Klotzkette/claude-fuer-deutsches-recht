@@ -1,6 +1,6 @@
 ---
 name: nutzlastvertrag-payload-integration-und-schnittstellen
-description: "Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken im Weltraumrecht."
 ---
 
 # Weltraumrecht: Nutzlastvertrag: Payload Integration und Schnittstellen

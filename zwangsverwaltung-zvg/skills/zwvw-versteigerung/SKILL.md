@@ -1,15 +1,9 @@
 ---
 name: zwvw-versteigerung
-description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Zvg."
 ---
 
 # Zwvw Versteigerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zwvw-versteigerung-vs-verwaltung-spezial` | Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster für Glaeubiger und Schuldner. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zwvw Versteigerung im Zwangsverwaltung (ZVG) im Zwangsverwaltung Z
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zwvw-versteigerung-vs-verwaltung-spezial`
 

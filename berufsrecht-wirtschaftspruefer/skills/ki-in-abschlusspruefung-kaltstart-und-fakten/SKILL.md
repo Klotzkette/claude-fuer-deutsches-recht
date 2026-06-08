@@ -1,6 +1,6 @@
 ---
 name: ki-in-abschlusspruefung-kaltstart-und-fakten
-description: "Wirtschaftsprüfer: ki in abschlusspruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: ki in abschlusspruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

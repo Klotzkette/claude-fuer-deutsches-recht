@@ -1,19 +1,9 @@
 ---
 name: bverfg-grenzen-diskurstheorie-habermas
-description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Buergerliches Recht: prüft konkret Analysiert die vom BVerfG gezogenen Grenzen richterlicher, Diskurstheorie und juristische Argumentation, Faktizitaet und, Überträgt Dworkins Regeln/Prinzipien-Analyse auf. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Buergerliches Recht: prüft konkret Analysiert die vom BVerfG gezogenen Grenzen richterlicher, Diskurstheorie und juristische Argumentation, Faktizitaet und, Überträgt Dworkins Regeln/Prinzipien-Analyse auf."
 ---
 
 # Bverfg Grenzen Diskurstheorie Habermas
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bverfg-grenzen-richterlicher-rechtsfortbildung` | Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht. |
-| `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann). |
-| `dworkin-prinzipien-integritaet-zivilrecht` | Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente. |
-| `empirie-im-zivilrecht-quellenkritik` | Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit. |
-| `eu-auslegung-autonom-mehrsprachig` | Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeignet für internationale Vertragsrecht, Verbraucherschutzrecht, Datenschutz und alle Bereiche mit unionsrechtlichem Regelungsrahmen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Bue
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bverfg-grenzen-richterlicher-rechtsfortbildung`
 

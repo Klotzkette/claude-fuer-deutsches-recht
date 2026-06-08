@@ -1,6 +1,6 @@
 ---
 name: rufnummernmissbrauch-abschaltung
-description: "Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschaltung, Rechnungslegungs-/Inkassoverbot und Beschwerde im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschaltung, Rechnungslegungs-/Inkassoverbot und Beschwerde im Telekommunikationsrecht."
 ---
 
 # Rufnummernmissbrauch, Abschaltung und Inkassoverbot

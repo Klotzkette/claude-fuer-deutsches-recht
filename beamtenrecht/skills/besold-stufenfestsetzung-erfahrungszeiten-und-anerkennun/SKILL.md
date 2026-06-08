@@ -1,6 +1,6 @@
 ---
 name: besold-stufenfestsetzung-erfahrungszeiten-und-anerkennun
-description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung im Beamtenrecht."
 ---
 
 # Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun

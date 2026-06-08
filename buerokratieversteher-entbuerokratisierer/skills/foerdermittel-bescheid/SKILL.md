@@ -1,6 +1,6 @@
 ---
 name: foerdermittel-bescheid
-description: "Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf im Bürokratie-Entbürokratisierung."
 ---
 
 # Fördermittel-Bescheid

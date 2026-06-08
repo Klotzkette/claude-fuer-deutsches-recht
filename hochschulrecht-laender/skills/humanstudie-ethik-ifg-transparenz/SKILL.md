@@ -1,6 +1,6 @@
 ---
 name: humanstudie-ethik-ifg-transparenz
-description: "Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch im Hochschulrecht Länder."
 ---
 
 # Humanstudie Ethik und Datenschutz

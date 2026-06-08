@@ -1,6 +1,6 @@
 ---
 name: kindergeld-kinderzuschlag-bescheid
-description: "Kindergeld und Kinderzuschlag Bescheid: führt Laien durch Familienkasse, Rückforderung, Einspruch, Nachweise und Fristen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kindergeld und Kinderzuschlag Bescheid: führt Laien durch Familienkasse, Rückforderung, Einspruch, Nachweise und Fristen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Kindergeld und Kinderzuschlag Bescheid

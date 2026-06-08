@@ -1,6 +1,6 @@
 ---
 name: post-contract-principal-direktgeschaeft
-description: "Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB nach Vertragsbeendigung: Wirksamkeit der Klausel, Geltungsdauer maximal zwei Jahre, räumliche und sachliche Reichweite, Karenzentschädigung und Loslösungsrecht sowie Schadensersatz und Vertragsstrafe bei Verstößen im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB nach Vertragsbeendigung: Wirksamkeit der Klausel, Geltungsdauer maximal zwei Jahre, räumliche und sachliche Reichweite, Karenzentschädigung und Loslösungsrecht sowie Schadensersatz und Vertragsstrafe bei Verstößen im Handelsvertreterrecht."
 ---
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB — Durchsetzung und Verletzung

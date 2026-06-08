@@ -1,18 +1,9 @@
 ---
 name: epa-befuellpflicht-impfschaden-arzthaftung
-description: "EPA Befuellpflicht Impfschaden Arzthaftung im Medizinrecht: prüft konkret ePA-Befüllpflicht und Haftung, Impfschaden und Arzthaftung, Checkliste Arzthaftung, Palliativmedizin Haftung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "EPA Befuellpflicht Impfschaden Arzthaftung im Medizinrecht: prüft konkret ePA-Befüllpflicht und Haftung, Impfschaden und Arzthaftung, Checkliste Arzthaftung, Palliativmedizin Haftung."
 ---
 
 # EPA Befuellpflicht Impfschaden Arzthaftung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `epa-befuellpflicht-haftung` | ePA-Befüllpflicht und Haftung: moderner Medizinrechts-Skill für ePA für alle, Befüllungspflichten, Informationspflichten, Widerspruch und Behandlungsfehler durch Datenlücke. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `impfschaden-arzthaftung` | Impfschaden und Arzthaftung: moderner Medizinrechts-Skill für Impfaufklärung, Chargenproblem, Versorgungsanspruch, Kausalität und Pharmakovigilanz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `medr-arzthaftung-checkliste` | Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhebungsfehler, voll beherrschbares Risiko. Pruefraster Arzt und Patientenanwalt. |
-| `palliativmedizin-haftung` | Palliativmedizin Haftung: moderner Medizinrechts-Skill für Symptomkontrolle, Sedierung, Patientenwille, Angehörigenkonflikt und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "EPA Befuellpflicht Impfschaden Arzthaftung im Medizinrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `epa-befuellpflicht-haftung`
 

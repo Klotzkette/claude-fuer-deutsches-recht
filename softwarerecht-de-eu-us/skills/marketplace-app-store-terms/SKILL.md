@@ -1,6 +1,6 @@
 ---
 name: marketplace-app-store-terms
-description: "Prüft App-Store-, Cloud-Marketplace- und Plattformbedingungen für Softwareanbieter und Unternehmenskunden im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft App-Store-, Cloud-Marketplace- und Plattformbedingungen für Softwareanbieter und Unternehmenskunden im Softwarerecht De Eu Us."
 ---
 
 # Marketplace und App-Store Terms

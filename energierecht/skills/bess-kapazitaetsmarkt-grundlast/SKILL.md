@@ -1,6 +1,6 @@
 ---
 name: bess-kapazitaetsmarkt-grundlast
-description: "Ordnet Aussagen zu Grundlast, gesicherter Leistung, Kapazitätsmarkt, Gaskraftwerken und Speicherfunktion rechtlich ein im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Aussagen zu Grundlast, gesicherter Leistung, Kapazitätsmarkt, Gaskraftwerken und Speicherfunktion rechtlich ein im Energierecht."
 ---
 
 # Kapazitätsmechanismen, Grundlast und politische Aussagen

@@ -1,6 +1,6 @@
 ---
 name: strafantrag-form-frist
-description: "Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen im Strafanzeige-Vorbereitung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafantrag richtig stellen, beweisen und Rücknahmefolgen prüfen im Strafanzeige-Vorbereitung."
 ---
 
 # Strafantrag Form, Frist, Rücknahme

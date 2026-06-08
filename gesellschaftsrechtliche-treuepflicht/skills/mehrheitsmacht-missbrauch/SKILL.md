@@ -1,6 +1,6 @@
 ---
 name: mehrheitsmacht-missbrauch
-description: "Gesellschaftsrechtliche Treuepflicht: Mehrheitsmacht Missbrauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Mehrheitsmacht Missbrauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Mehrheitsmacht Missbrauch

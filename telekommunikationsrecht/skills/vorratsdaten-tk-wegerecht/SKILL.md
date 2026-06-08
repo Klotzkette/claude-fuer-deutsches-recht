@@ -1,6 +1,6 @@
 ---
 name: vorratsdaten-tk-wegerecht
-description: "Vorratsdatenspeicherung, Quick Freeze, Sicherheitsbehördenanfragen und EuGH/BVerfG-Linie live prüfen im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorratsdatenspeicherung, Quick Freeze, Sicherheitsbehördenanfragen und EuGH/BVerfG-Linie live prüfen im Telekommunikationsrecht."
 ---
 
 # Vorratsdaten und Speicherpflichten

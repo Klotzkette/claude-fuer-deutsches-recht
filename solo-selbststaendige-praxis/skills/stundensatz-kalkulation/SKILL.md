@@ -1,6 +1,6 @@
 ---
 name: stundensatz-kalkulation
-description: "Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Pricing Liquidität und Wachstum: Berechnet stundensatz aus kosten

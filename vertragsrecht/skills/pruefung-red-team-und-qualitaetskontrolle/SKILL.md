@@ -1,6 +1,6 @@
 ---
 name: pruefung-red-team-und-qualitaetskontrolle
-description: "Pruefung: Red-Team und Qualitätskontrolle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefung: Red-Team und Qualitätskontrolle im Vertragsrecht."
 ---
 
 # Pruefung: Red-Team und Qualitätskontrolle

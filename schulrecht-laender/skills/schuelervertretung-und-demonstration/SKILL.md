@@ -1,6 +1,6 @@
 ---
 name: schuelervertretung-und-demonstration
-description: "Prüft Schülervertretung, politische Aktionen und Versammlungen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schülervertretung, politische Aktionen und Versammlungen im Schulrecht Länder."
 ---
 
 # Schuelervertretung Und Demonstration

@@ -1,6 +1,6 @@
 ---
 name: ein-auftraggeber-risiko
-description: "Solo-Selbstständige: prüft wirtschaftliche Abhängigkeit und Gegenmaßnahmen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft wirtschaftliche Abhängigkeit und Gegenmaßnahmen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft wirtschaftliche abhängigkeit und gegenmaßnahmen

@@ -1,18 +1,9 @@
 ---
 name: long-covid-berufskrankheit-erwerbsminderung
-description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt Sozialrecht: prüft konkret Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB, Long-Covid bei Kindern und Jugendlichen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt Sozialrecht: prüft konkret Long-Covid als Berufskrankheit/Arbeitsunfall, Long-Covid/Post-Covid und Erwerbsminderung, Long-Covid und GdB, Long-Covid bei Kindern und Jugendlichen."
 ---
 
 # Long Covid Berufskrankheit Erwerbsminderung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `long-covid-berufskrankheit-unfallversicherung` | Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `long-covid-erwerbsminderung-leistungsbild` | Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `long-covid-gdb-funktionsbeeintraechtigung` | Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.; Normanker: SGB IX § 152; VersMedV; SGB X §§ 20 und 21; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `long-covid-kinder-schule-teilhabe` | Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.; Normanker: SGB IX, SGB VIII Schnittstellen; Schulrecht der Länder; AWMF Long/Post-COVID Kinder/Jugendliche; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Long Covid Berufskrankheit Erwerbsminderung im Plugin Fachanwalt S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `long-covid-berufskrankheit-unfallversicherung`
 

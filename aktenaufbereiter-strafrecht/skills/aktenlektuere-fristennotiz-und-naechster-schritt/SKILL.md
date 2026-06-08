@@ -1,6 +1,6 @@
 ---
 name: aktenlektuere-fristennotiz-und-naechster-schritt
-description: "Aktenlektuere: Fristennotiz und nächster Schritt im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenlektuere: Fristennotiz und nächster Schritt im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Aktenlektuere: Fristennotiz und nächster Schritt

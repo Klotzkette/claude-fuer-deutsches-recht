@@ -1,19 +1,9 @@
 ---
 name: inso-4-anwendbarkeit-36-unpfaendbare
-description: "Inso P004 Anwendbarkeit P036 Unpfandbare im Insolvenz- und Sanierungsrecht: prüft konkret Red-Team Qualitygate im Plugin, § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat, § 36 InsO (Unpfändbare Gegenstände) im Mandat prüfen, Schutzschirmverfahren § 270d InsO Eigenverwaltung in. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P004 Anwendbarkeit P036 Unpfandbare im Insolvenz- und Sanierungsrecht: prüft konkret Red-Team Qualitygate im Plugin, § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat, § 36 InsO (Unpfändbare Gegenstände) im Mandat prüfen, Schutzschirmverfahren § 270d InsO Eigenverwaltung in."
 ---
 
 # Inso P004 Anwendbarkeit P036 Unpfandbare
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-insolvenz-sanierungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `inso-p004-anwendbarkeit-der-zivilprozessordnung` | § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p036-unpfandbare-gegenstande` | § 36 InsO (Unpfändbare Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` | Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Antrag Sachwalter Plan Beschluss Aufhebung. |
-| `inso-grundzuege-verfahrenstypen` | Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz. Pro Typ: Schwelle, Antragsrecht, Akteure, Ablauf, typische Outcomes. Entscheidungstabelle. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Inso P004 Anwendbarkeit P036 Unpfandbare im Insolvenz- und Sanieru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-redteam-qualitygate`
 

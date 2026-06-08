@@ -1,6 +1,6 @@
 ---
 name: tax-investor-portfolio
-description: "Ordnet Beteiligungserträge, Wandeldarlehenszinsen, Veräußerung, Verlustnutzung, Fonds-/SPV-Steuer und Reporting auf hoher Ebene im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Beteiligungserträge, Wandeldarlehenszinsen, Veräußerung, Verlustnutzung, Fonds-/SPV-Steuer und Reporting auf hoher Ebene im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Steuerliche Investor- und Portfoliothemen

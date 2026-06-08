@@ -1,6 +1,6 @@
 ---
 name: vermoegensabschoepfung-einziehung
-description: "Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO) im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO) im Strafrechts-Aktenaufbereiter."
 ---
 
 # Vermoegensabschoepfung/Einziehung

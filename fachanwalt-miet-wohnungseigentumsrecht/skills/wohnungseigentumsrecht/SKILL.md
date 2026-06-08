@@ -9,16 +9,6 @@ description: "Fachanwaltsbereich Miet- und Wohnungseigentumsrecht: Einstieg und 
 
 Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klärt zunächst, ob es sich um ein Mietverhältnis (BGB §§ 535 ff.) oder um eine WEG-Sache (WEG §§ 9a ff., 44 ff.) handelt, und routet danach in die tragende Prüfungslinie. Im Mittelpunkt stehen Kündigung (§§ 543, 569, 573 BGB), Mieterhöhung mit Kappungsgrenze (§§ 558 ff. BGB), Mietminderung wegen Schimmel und sonstiger Mängel (§§ 535 Abs. 1 S. 2, 536 BGB) sowie die WEG-Beschlussanfechtungsklage nach §§ 44–46 WEG mit ihrer scharfen Monatsfrist. Die Prüfungslinien bauen aufeinander auf — zuerst die tragende Anspruchsgrundlage identifizieren, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht). |
-| `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht). |
-| `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` | Mietminderung wegen Schimmel und Feuchteschaden: Mangelbegriff (§ 536 Abs. 1 BGB), Minderungsquoten nach Lage und Beeinträchtigung, Mangelanzeige (§ 536c BGB), Beweislastverteilung Sphärentheorie BGH (z. B. VIII ZR 271/17), Vorschussanspruch (§ 536a Abs. 2 BGB). Normen: §§ 535 Abs. 1 S. 2, 536, 536a, 536c BGB. Prüfraster: Ursache (Bausubstanz vs. Nutzerverhalten), Anzeige, Quote, Mietkonto. Output: Minderungsschreiben, Mängelprotokoll, Klageentwurf. |
-| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Orientierung im Fachanwaltsrecht Miet- und Wohnungseigentumsrecht: FAO-Voraussetzungen, sachliche Zuständigkeit (§ 23 Nr. 2a GVG für Mietsachen, § 43 WEG für WEG-Sachen), Verfahrensarten, typische Fristen. Normen: §§ 23 Nr. 2a, 23b GVG, § 43 WEG, BGB Mietrecht, WEG. Prüfraster: Mietverhältnis vs. Sondereigentum, Gericht, Verfahrensart, Eilbedarf. Output: Orientierungs-Memo und Routing in Fachmodule. |
-| `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` | WEG-Beschlussanfechtungsklage nach § 44 WEG: Anfechtungsfrist 1 Monat ab Beschlussfassung (§ 45 WEG), Begründungsfrist 2 Monate (§ 45 WEG), Beklagter ist die Gemeinschaft der Wohnungseigentümer (§ 44 Abs. 2 WEG). Normen: §§ 23, 24, 25, 44, 45, 46 WEG. Prüfraster: Fristwahrung, Ladung und Beschlussfähigkeit, ordnungsmäßige Verwaltung, Beschlussinhalt. Output: Anfechtungsklageentwurf oder Verteidigungsschrift. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,7 +17,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseige
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-miet-wohnungseigentumsrecht-kuendigung`
 

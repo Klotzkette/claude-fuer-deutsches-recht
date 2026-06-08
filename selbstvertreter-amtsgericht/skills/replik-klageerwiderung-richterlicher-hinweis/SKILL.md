@@ -1,17 +1,9 @@
 ---
 name: replik-klageerwiderung-richterlicher-hinweis
-description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung am Amtsgericht: prüft konkret Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung am Amtsgericht: prüft konkret Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff."
 ---
 
 # Replik Klageerwiderung Richterlicher Hinweis
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `replik-auf-klageerwiderung-systematik` | Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen. |
-| `richterlicher-hinweis-139-zpo-reaktion` | Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken. |
-| `sachverstaendigenbeweis-402-zpo` | Sachverständigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverständigen Privatgutachten als Urkunde Gerichtsgutachten Prüfung der Glaubwürdigkeit. Wann ist Sachverständigen-Beweis sinnvoll und wann reicht Privatgutachten. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `replik-auf-klageerwiderung-systematik`
 

@@ -1,6 +1,6 @@
 ---
 name: fristversaeumnis-wiedereinsetzung
-description: "Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: fristversaeumnis und wiedereinsetzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

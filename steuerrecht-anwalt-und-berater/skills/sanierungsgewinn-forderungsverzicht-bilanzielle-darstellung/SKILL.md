@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung
-description: "Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung im Steuerrecht Anwalt Und Berater."
 ---
 
 # Forderungsverzicht — bilanzielle Darstellung

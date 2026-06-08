@@ -1,6 +1,6 @@
 ---
 name: lizenzanalogie-musik-mandantenmemo
-description: "Bereitet Lizenzanalogie im Musikfall vor: Tarife, Marktvergleich, Nutzungsausmaß, Reichweite, Dauer, Gebiet und Zuschläge im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Lizenzanalogie im Musikfall vor: Tarife, Marktvergleich, Nutzungsausmaß, Reichweite, Dauer, Gebiet und Zuschläge im Urheberrecht De Eu."
 ---
 
 # Musiklizenzanalogie und Tarife

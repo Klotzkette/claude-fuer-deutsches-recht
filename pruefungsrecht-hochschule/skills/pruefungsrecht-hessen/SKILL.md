@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-hessen
-description: "Prüft Hochschulprüfungsrecht in Hessen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulprüfungsrecht in Hessen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsrecht Hessen

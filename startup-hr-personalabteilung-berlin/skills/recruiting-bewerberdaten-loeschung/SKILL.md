@@ -1,6 +1,6 @@
 ---
 name: recruiting-bewerberdaten-loeschung
-description: "Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Recruiting Bewerberdaten Loeschung

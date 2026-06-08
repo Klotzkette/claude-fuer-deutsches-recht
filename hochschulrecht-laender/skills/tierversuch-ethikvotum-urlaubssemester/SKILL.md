@@ -1,6 +1,6 @@
 ---
 name: tierversuch-ethikvotum-urlaubssemester
-description: "Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Tierversuch, Ethikvotum, Genehmigung, Dokumentation und Forschungsfreiheit im Hochschulrecht Länder."
 ---
 
 # Tierversuch und Ethikvotum

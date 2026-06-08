@@ -1,6 +1,6 @@
 ---
 name: capital-call-internal-budget
-description: "Plant Kapitalabrufe, Liquiditätsbedarf, Reserven, interne Zusagen und Zahlungstermine bei Club Deals oder SPVs im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Kapitalabrufe, Liquiditätsbedarf, Reserven, interne Zusagen und Zahlungstermine bei Club Deals oder SPVs im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Interner Capital Call und Budget

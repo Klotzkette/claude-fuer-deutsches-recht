@@ -1,6 +1,6 @@
 ---
 name: private-hochschule
-description: "Prüft private und staatlich anerkannte Hochschulen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft private und staatlich anerkannte Hochschulen im Hochschulrecht Länder."
 ---
 
 # Private Hochschule

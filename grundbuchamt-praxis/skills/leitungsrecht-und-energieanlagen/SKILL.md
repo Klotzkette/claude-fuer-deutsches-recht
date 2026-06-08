@@ -1,6 +1,6 @@
 ---
 name: leitungsrecht-und-energieanlagen
-description: "Prüft Strom, Wasser, Fernwärme, Telekommunikation, dingliche Sicherung und Rangkonflikte im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Strom, Wasser, Fernwärme, Telekommunikation, dingliche Sicherung und Rangkonflikte im Grundbuchamt Praxis."
 ---
 
 # Leitungsrecht und Anlagen

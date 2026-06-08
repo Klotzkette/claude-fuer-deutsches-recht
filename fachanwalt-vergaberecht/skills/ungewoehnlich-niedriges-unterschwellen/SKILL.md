@@ -1,18 +1,9 @@
 ---
 name: ungewoehnlich-niedriges-unterschwellen
-description: "Ungewoehnlich Niedriges Unterschwellen im Plugin Fachanwalt Vergaberecht: prüft konkret Ungewoehnlich niedriges Angebot pruefen, Rechtsschutz unterhalb der EU-Schwellenwerte planen, Leitfaden Eignungspruefung § 122 GWB, Spezialfall Rahmenvereinbarung und Konzessionsvergabe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ungewoehnlich Niedriges Unterschwellen im Plugin Fachanwalt Vergaberecht: prüft konkret Ungewoehnlich niedriges Angebot pruefen, Rechtsschutz unterhalb der EU-Schwellenwerte planen, Leitfaden Eignungspruefung § 122 GWB, Spezialfall Rahmenvereinbarung und Konzessionsvergabe."
 ---
 
 # Ungewoehnlich Niedriges Unterschwellen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ungewoehnlich-niedriges-angebot` | Ungewoehnlich niedriges Angebot pruefen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge. |
-| `unterschwellen-rechtsschutz-zivilgericht` | Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1. Abschnitt, Landesrecht, einstweiliger Rechtsschutz, Zivilrechtsweg, Ruge und Kostenrisiko. |
-| `verg-eignungspruefung-leitfaden` | Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit. Pruefraster für Bieter und Vergabestelle. |
-| `verg-rahmenvereinbarung-konzession-spezial` | Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung. Pruefraster für Auftraggeber. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Ungewoehnlich Niedriges Unterschwellen im Plugin Fachanwalt Vergab
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ungewoehnlich-niedriges-angebot`
 

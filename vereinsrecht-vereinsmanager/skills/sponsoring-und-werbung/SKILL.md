@@ -1,6 +1,6 @@
 ---
 name: sponsoring-und-werbung
-description: "Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag im Vereinsrecht Vereinsmanager."
 ---
 
 # Sponsoring und Werbung

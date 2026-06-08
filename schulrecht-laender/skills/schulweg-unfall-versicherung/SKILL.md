@@ -1,6 +1,6 @@
 ---
 name: schulweg-unfall-versicherung
-description: "Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulwegunfall, Unfallanzeige, gesetzliche Unfallversicherung und Aufsicht im Schulrecht Länder."
 ---
 
 # Schulweg, Unfall und Versicherung

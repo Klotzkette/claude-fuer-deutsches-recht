@@ -1,6 +1,6 @@
 ---
 name: erste-minijob-ethik-reputation-eu-oss
-description: "Solo-Selbstständige: prüft Minijob, Anmeldung, BG, Lohnkonto und Weisungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Minijob, Anmeldung, BG, Lohnkonto und Weisungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft minijob

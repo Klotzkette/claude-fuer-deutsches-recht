@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvermerk
-description: "Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Dokumente und Kommunikation: Dokumentiert warum kleinunternehmer

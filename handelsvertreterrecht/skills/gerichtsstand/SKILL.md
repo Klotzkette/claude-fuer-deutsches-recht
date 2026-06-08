@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand
-description: "Bestimmt den zuständigen Gerichtsstand für Handelsvertreterstreitigkeiten: allgemeiner Gerichtsstand nach § 12 ZPO, besonderer Gerichtsstand am Erfüllungsort nach § 29 ZPO, Gerichtsstandsvereinbarungen im Vertretervertrag nach § 38 ZPO sowie internationale Zuständigkeit nach EuGVVO bei grenzüberschreitenden Sachverhalten im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bestimmt den zuständigen Gerichtsstand für Handelsvertreterstreitigkeiten: allgemeiner Gerichtsstand nach § 12 ZPO, besonderer Gerichtsstand am Erfüllungsort nach § 29 ZPO, Gerichtsstandsvereinbarungen im Vertretervertrag nach § 38 ZPO sowie internationale Zuständigkeit nach EuGVVO bei grenzüberschreitenden Sachverhalten im Handelsvertreterrecht."
 ---
 
 # Gerichtsstand bei Handelsvertreterstreitigkeiten nach ZPO und EuGVVO

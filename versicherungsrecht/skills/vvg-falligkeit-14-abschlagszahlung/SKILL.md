@@ -1,6 +1,6 @@
 ---
 name: vvg-falligkeit-14-abschlagszahlung
-description: "Fälligkeit des Versicherungsanspruchs, Ermittlungsdauer, Abschlagszahlung, Verzug und taktische Beschleunigung bei großen Schäden im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fälligkeit des Versicherungsanspruchs, Ermittlungsdauer, Abschlagszahlung, Verzug und taktische Beschleunigung bei großen Schäden im Versicherungsrecht."
 ---
 
 # Fälligkeit und Abschlagszahlung § 14 VVG

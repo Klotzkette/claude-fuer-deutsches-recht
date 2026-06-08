@@ -1,6 +1,6 @@
 ---
 name: ki-tools-shadow-it
-description: "Prüft Shadow-IT durch KI-Tools und Browser-Plugins im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Shadow-IT durch KI-Tools und Browser-Plugins im Nis2 Cybersecurity Compliance."
 ---
 
 # KI Tools Shadow It

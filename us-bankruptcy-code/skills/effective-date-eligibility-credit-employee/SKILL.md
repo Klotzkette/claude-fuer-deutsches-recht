@@ -1,6 +1,6 @@
 ---
 name: effective-date-eligibility-credit-employee
-description: "Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance im US Bankruptcy Code."
 ---
 
 # Effective Date and Plan Closing

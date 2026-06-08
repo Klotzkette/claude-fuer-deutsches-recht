@@ -1,6 +1,6 @@
 ---
 name: bachelorarbeit-abgabe-abschlussarbeit
-description: "Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Pruefungsrecht Hochschule."
 ---
 
 # Bachelorarbeit Abgabe

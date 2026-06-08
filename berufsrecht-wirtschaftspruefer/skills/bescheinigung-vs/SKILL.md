@@ -1,6 +1,6 @@
 ---
 name: bescheinigung-vs
-description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

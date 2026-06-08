@@ -1,17 +1,9 @@
 ---
 name: athletenvertrag
-description: "Athletenvertrag im Sportrecht: prüft konkret Athlet steht vor NADA-Disziplinarverfahren wegen positivem, Athletenvertrag, Schiedsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Athletenvertrag im Sportrecht: prüft konkret Athlet steht vor NADA-Disziplinarverfahren wegen positivem, Athletenvertrag, Schiedsverfahren."
 ---
 
 # Athletenvertrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-sportrecht-doping-verfahren` | Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein). |
-| `spezial-athletenvertrag-fristennotiz-und-naechster-schritt` | Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schiedsverfahren-schriftsatz-brief-und-memo-bausteine` | Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Athletenvertrag im Sportrecht: prüft konkret Athlet steht vor NAD
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-sportrecht-doping-verfahren`
 
@@ -310,7 +302,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `spezial-athletenvertrag-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht.
 
 ### Athletenvertrag: Fristennotiz und nächster Schritt
 
@@ -335,7 +327,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schiedsverfahren-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht.
 
 ### Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 

@@ -1,6 +1,6 @@
 ---
 name: m-a-aenderungsmodus-ampelmatrix
-description: "NDA vor M&A-Data-Room: enge Zweckbindung (Pruefung Transaktion), Standstill-Klausel, Non-Solicit, Verbot Reverse-Engineering. Empfehlung: separater Clean Team Agreement für Kartell-/Wettbewerbsdaten im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA vor M&A-Data-Room: enge Zweckbindung (Pruefung Transaktion), Standstill-Klausel, Non-Solicit, Verbot Reverse-Engineering. Empfehlung: separater Clean Team Agreement für Kartell-/Wettbewerbsdaten im NDA-Abgleich."
 ---
 
 # NDA für M&A-Data-Room

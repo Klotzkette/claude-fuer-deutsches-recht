@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-nda-vertraulichkeit
-description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pflichten zur Geheimhaltung, Dauer, Rückgabe und Löschung, Vertragsstrafe (mit Blick auf § 309 Nr. 6 BGB), Gerichtsstand und das Verhältnis zum GeschGehG mit der Pflicht zu angemessenen Geheimhaltungsmaßnahmen im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pflichten zur Geheimhaltung, Dauer, Rückgabe und Löschung, Vertragsstrafe (mit Blick auf § 309 Nr. 6 BGB), Gerichtsstand und das Verhältnis zum GeschGehG mit der Pflicht zu angemessenen Geheimhaltungsmaßnahmen im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
 # Geheimhaltung, NDA und Vertraulichkeit

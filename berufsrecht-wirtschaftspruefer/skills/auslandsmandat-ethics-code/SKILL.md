@@ -1,6 +1,6 @@
 ---
 name: auslandsmandat-ethics-code
-description: "Wirtschaftsprüfer: auslandsmandat und ethics code - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: auslandsmandat und ethics code - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: auslandsmandat und ethics code - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

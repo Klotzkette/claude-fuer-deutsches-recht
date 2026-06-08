@@ -1,6 +1,6 @@
 ---
 name: 064-checkliste-tagesstart-im-notariat
-description: "Notariat im Alltag: Checkliste Tagesstart im Notariat. Tagesöffnungsroutine, Vollzugsmonitor-Prüfung, Fristenkontrolle, Eingangspost und Terminvorbereitung für den täglichen Notariatsbetrieb im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Checkliste Tagesstart im Notariat. Tagesöffnungsroutine, Vollzugsmonitor-Prüfung, Fristenkontrolle, Eingangspost und Terminvorbereitung für den täglichen Notariatsbetrieb im Notariat."
 ---
 
 # Notariat im Alltag: Checkliste Tagesstart im Notariat

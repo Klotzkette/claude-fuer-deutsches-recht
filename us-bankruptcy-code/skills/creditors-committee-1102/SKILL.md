@@ -1,6 +1,6 @@
 ---
 name: creditors-committee-1102
-description: "Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy im US Bankruptcy Code."
 ---
 
 # Creditors Committee § 1102

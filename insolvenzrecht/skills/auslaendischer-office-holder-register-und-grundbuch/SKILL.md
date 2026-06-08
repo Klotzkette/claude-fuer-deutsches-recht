@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-office-holder-register-und-grundbuch
-description: "Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann im Insolvenzrecht."
 ---
 
 # Ausländischer Insolvenzverwalter: inzidente Anerkennung, Register, Grundbuch und GmbH-Anteile

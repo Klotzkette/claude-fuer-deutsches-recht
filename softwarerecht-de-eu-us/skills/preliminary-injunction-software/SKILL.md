@@ -1,6 +1,6 @@
 ---
 name: preliminary-injunction-software
-description: "Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren im Softwarerecht De Eu Us."
 ---
 
 # Einstweilige Verfügung Software

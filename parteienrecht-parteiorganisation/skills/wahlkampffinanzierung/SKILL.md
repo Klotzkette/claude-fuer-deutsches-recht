@@ -1,6 +1,6 @@
 ---
 name: wahlkampffinanzierung
-description: "Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung im Parteienrecht."
 ---
 
 # Wahlkampffinanzierung

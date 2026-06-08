@@ -1,19 +1,9 @@
 ---
 name: strafrecht-strafprozess-ermittlungsverfahren
-description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret Sofortmaßnahmen im Ermittlungsverfahren, Rechtsmittel- und Notfristencockpit im Strafverfahren, BtMG-Verteidigungspraxis, Verteidigung in Verfahren mit dem Tatkomplex haeuslicher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret Sofortmaßnahmen im Ermittlungsverfahren, Rechtsmittel- und Notfristencockpit im Strafverfahren, BtMG-Verteidigungspraxis, Verteidigung in Verfahren mit dem Tatkomplex haeuslicher."
 ---
 
 # Strafprozess Ermittlungsverfahren
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafprozess-ermittlungsverfahren-sofortmassnahmen` | Sofortmaßnahmen im Ermittlungsverfahren: Polizei- oder StA-Kontakt, Vorladung, Durchsuchung, Beschlagnahme, Festnahme, Akteneinsicht, Schweigerecht, Pflichtverteidigung, Presse- und Familienkontakt in eine sichere Verteidigungsroutine bringen. |
-| `strafprozess-rechtsmittel-und-notfristencockpit` | Rechtsmittel- und Notfristencockpit im Strafverfahren: prüft Strafbefehlseinspruch, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung, Empfangsbekenntnis, Fristbeginn und Mandantenentscheidung. |
-| `strafrecht-spezial-btmg-strafverfahren-praxis` | BtMG-Verteidigungspraxis: Verdacht, Durchsuchung, Sicherstellung, Untersuchungshaft, V-Personen, Telekommunikationsueberwachung. Checkliste für Strafverteidiger im BtMG-Verfahren von der ersten Massnahme bis zur Hauptverhandlung. |
-| `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren` | Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/öffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung. |
-| `strafrecht-spezial-markenrecht-144-markeng-strafverfahren` | Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret So
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafprozess-ermittlungsverfahren-sofortmassnahmen`
 

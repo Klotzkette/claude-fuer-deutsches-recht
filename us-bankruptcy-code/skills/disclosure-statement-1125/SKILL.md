@@ -1,6 +1,6 @@
 ---
 name: disclosure-statement-1125
-description: "Prueft adequacy of information, solicitation, plan summary, risk factors and voting package im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft adequacy of information, solicitation, plan summary, risk factors and voting package im US Bankruptcy Code."
 ---
 
 # Disclosure Statement § 1125

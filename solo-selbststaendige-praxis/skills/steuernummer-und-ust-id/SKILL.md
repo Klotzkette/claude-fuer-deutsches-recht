@@ -1,6 +1,6 @@
 ---
 name: steuernummer-und-ust-id
-description: "Solo-Selbstständige: klärt Steuernummer, USt-IdNr., Auslandskunden und Rechnungsstart; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: klärt Steuernummer, USt-IdNr., Auslandskunden und Rechnungsstart; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Anmeldung und Behörden: Klärt steuernummer

@@ -1,6 +1,6 @@
 ---
 name: strategische-erstpruefung-und-mandatsziel
-description: "Strategische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strategische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin bav strategie konzern im Bav Strategie Konzern."
 ---
 
 # Strategische: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-lagebericht-jahreskalender
-description: "AG/SE-Aufsichtsrat Praxis: Jahresabschluss Und Lagebericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Jahresabschluss Und Lagebericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Jahresabschluss Und Lagebericht

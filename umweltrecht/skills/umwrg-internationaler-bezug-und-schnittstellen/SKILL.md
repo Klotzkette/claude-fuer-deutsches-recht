@@ -1,6 +1,6 @@
 ---
 name: umwrg-internationaler-bezug-und-schnittstellen
-description: "Umwrg: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umwrg: Internationaler Bezug und Schnittstellen im Umweltrecht."
 ---
 
 # Umwrg: Internationaler Bezug und Schnittstellen
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Umwrg: Internationaler Bezug und Schnittstellen
-- **Konkreter Gegenstand:** Umwrg: Internationaler Bezug und Schnittstellen im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Umwrg: Internationaler Bezug und Schnittstellen im Plugin umweltrecht..
 - **Normen-/Verfahrensanker:** BImSchG/UVPG/WHG/KrWG/BNatSchG/TEHG/UmwRG/UIG sowie Landesrecht und Behördenvollzug.
 - **Entscheidende Weiche:** Genehmigung, Nebenbestimmung, Drittschutz, Verbandsklage, Mess-/Gutachtengrundlage, Sanierungsanordnung, Bußgeld und Sofortvollzug getrennt prüfen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

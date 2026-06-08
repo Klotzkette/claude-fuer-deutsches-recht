@@ -1,6 +1,6 @@
 ---
 name: trinkwasser-legionellen-umsatzsteuer
-description: "Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan im Berichtspflichten."
 ---
 
 # Trinkwasser und Legionellenmeldung

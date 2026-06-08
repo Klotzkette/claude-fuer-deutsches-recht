@@ -1,6 +1,6 @@
 ---
 name: schiedsgerichtsbarkeit
-description: "Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit im Weltraumrecht."
 ---
 
 # Weltraumrecht: Schiedsgerichtsbarkeit: Raumfahrtverträge

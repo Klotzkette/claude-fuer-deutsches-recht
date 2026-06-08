@@ -1,6 +1,6 @@
 ---
 name: private-hochschule-anerkennung
-description: "Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte im Hochschulrecht Länder."
 ---
 
 # Private Hochschule und Anerkennung

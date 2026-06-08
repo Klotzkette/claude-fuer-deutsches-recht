@@ -1,6 +1,6 @@
 ---
 name: arbeitgeber-fehlzeit-argumente-nicht
-description: "Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Arbeitgeber und Fehlzeit

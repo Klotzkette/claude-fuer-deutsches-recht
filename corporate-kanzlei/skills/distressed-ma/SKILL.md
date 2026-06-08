@@ -1,6 +1,6 @@
 ---
 name: distressed-ma
-description: "Prüfungslinie für corporate kanzlei distressed ma im Corporate Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für corporate kanzlei distressed ma im Corporate Kanzlei."
 ---
 
 # Distressed M&A

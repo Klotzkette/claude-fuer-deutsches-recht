@@ -163,6 +163,6 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `value-pricing-story` | Erklärt den Wert juristischer Arbeit ohne Kostennebel. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygi... |
 | `weekly-ops-standup` | Führt Fristen, Cash, OPOS, Staffing, IT, HR und blockierte Entscheidungen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrec... |
 | `wip-aging` | Analysiert Work in Progress nach Alter, Partner, Mandat und Abrechnungsrisiko. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und beruf... |
-| `workload-balance` | Workload Balance im Kanzlei-Management im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt. |
+| `workload-balance` | Workload Balance im Kanzlei-Management im Kanzlei Management. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

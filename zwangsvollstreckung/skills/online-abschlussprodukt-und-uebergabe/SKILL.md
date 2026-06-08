@@ -1,6 +1,6 @@
 ---
 name: online-abschlussprodukt-und-uebergabe
-description: "Online: Abschlussprodukt und Übergabe; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online: Abschlussprodukt und Übergabe im Zwangsvollstreckung."
 ---
 
 # Online: Abschlussprodukt und Übergabe

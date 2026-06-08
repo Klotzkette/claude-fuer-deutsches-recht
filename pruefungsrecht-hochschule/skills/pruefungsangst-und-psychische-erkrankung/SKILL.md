@@ -1,6 +1,6 @@
 ---
 name: pruefungsangst-und-psychische-erkrankung
-description: "Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsangst Und Psychische Erkrankung

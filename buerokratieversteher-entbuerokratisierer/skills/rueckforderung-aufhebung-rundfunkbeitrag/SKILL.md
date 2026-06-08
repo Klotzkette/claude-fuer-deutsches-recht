@@ -1,6 +1,6 @@
 ---
 name: rueckforderung-aufhebung-rundfunkbeitrag
-description: "Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken im Bürokratie-Entbürokratisierung."
 ---
 
 # Rückforderung und Aufhebung

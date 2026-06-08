@@ -1,6 +1,6 @@
 ---
 name: korrespondenz-zahlen-schwellen-und-berechnung
-description: "Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
 ---
 
 # Korrespondenz: Zahlen, Schwellenwerte und Berechnung

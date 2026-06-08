@@ -1,6 +1,6 @@
 ---
 name: boesglaeubige-meldung
-description: "Behandelt bewusst falsche oder missbräuchliche Meldungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Behandelt bewusst falsche oder missbräuchliche Meldungen im Hinweisgeberschutz Compliance."
 ---
 
 # Boesglaeubige Meldung

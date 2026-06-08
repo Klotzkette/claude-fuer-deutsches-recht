@@ -1,6 +1,6 @@
 ---
 name: nachfolge-und-vertretung
-description: "Solo-Selbstständige: plant Stellvertretung, Vollmachten, Passwortzugang und Notfallmappe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: plant Stellvertretung, Vollmachten, Passwortzugang und Notfallmappe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Plant stellvertretung

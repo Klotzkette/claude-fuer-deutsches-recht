@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-erfolgshonorar-praevention
-description: "Honorarvereinbarung und Erfolgshonorar (Präventions- und Organisationspaket): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Honorarvereinbarung und Erfolgshonorar (Präventions- und Organisationspaket): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Honorarvereinbarung und Erfolgshonorar: Präventions- und Organisationspaket

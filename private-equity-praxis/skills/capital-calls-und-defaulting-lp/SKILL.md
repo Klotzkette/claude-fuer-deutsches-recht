@@ -1,6 +1,6 @@
 ---
 name: capital-calls-und-defaulting-lp
-description: "Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger im Private Equity Praxis."
 ---
 
 # Capital Calls und Defaulting LP

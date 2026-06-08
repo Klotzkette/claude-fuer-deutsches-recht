@@ -1,6 +1,6 @@
 ---
 name: syndikus-oder-inhouse
-description: "Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Syndikus oder Inhouse im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Syndikus oder Inhouse im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Syndikus oder Inhouse

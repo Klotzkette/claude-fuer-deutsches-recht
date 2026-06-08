@@ -1,6 +1,6 @@
 ---
 name: eur-state-aid-notifikation-spezial
-description: "Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster für Förderung und Industrieprojekt. Mustertext für Pre-Notification im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster für Förderung und Industrieprojekt. Mustertext für Pre-Notification im Europarecht Kompass."
 ---
 
 # EU: State-Aid-Notifikation

@@ -1,6 +1,6 @@
 ---
 name: internationaler-datenaustausch-formulare
-description: "Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation im Rentenpruefer."
 ---
 
 # internationaler-datenaustausch-formulare

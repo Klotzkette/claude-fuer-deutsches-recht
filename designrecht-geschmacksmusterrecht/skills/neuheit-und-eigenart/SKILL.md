@@ -1,6 +1,6 @@
 ---
 name: neuheit-und-eigenart
-description: "Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte im Designrecht Geschmacksmusterrecht."
 ---
 
 # Neuheit Und Eigenart

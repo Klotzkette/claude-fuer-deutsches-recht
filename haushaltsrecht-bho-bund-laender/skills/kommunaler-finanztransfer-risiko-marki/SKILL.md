@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-risiko-marki
-description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Kommunaler Finanztransfer Risiko Marki

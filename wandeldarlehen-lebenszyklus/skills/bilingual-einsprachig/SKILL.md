@@ -1,6 +1,6 @@
 ---
 name: bilingual-einsprachig
-description: "Bilingual: Schriftsatz-, Brief- und Memo-Bausteine im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bilingual: Schriftsatz-, Brief- und Memo-Bausteine im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
 ---
 
 # Bilingual: Schriftsatz-, Brief- und Memo-Bausteine

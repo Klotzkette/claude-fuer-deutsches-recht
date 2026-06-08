@@ -1,6 +1,6 @@
 ---
 name: unterstuetzungsunterschriften
-description: "Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen im Wahlkampfrecht."
 ---
 
 # Unterstuetzungsunterschriften

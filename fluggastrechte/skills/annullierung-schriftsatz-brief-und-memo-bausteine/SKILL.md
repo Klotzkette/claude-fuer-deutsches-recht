@@ -1,6 +1,6 @@
 ---
 name: annullierung-schriftsatz-brief-und-memo-bausteine
-description: "Annullierung: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Fluggastrechte."
 ---
 
 # Annullierung: Schriftsatz-, Brief- und Memo-Bausteine

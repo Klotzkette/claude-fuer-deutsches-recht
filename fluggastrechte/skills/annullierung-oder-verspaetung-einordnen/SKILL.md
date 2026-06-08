@@ -1,6 +1,6 @@
 ---
 name: annullierung-oder-verspaetung-einordnen
-description: "Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für annullierung oder verspaetung einordnen im Fluggastrechte."
 ---
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen

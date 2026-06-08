@@ -1,18 +1,9 @@
 ---
 name: cannabis-medizinisch-combined-atmp-companion
-description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prüft konkret Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP, Compassionate Use und Härtefall. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prüft konkret Medizinisches Cannabis Verordnung, Kombiniertes ATMP mit Medizinprodukt, Companion Diagnostic bei ATMP, Compassionate Use und Härtefall."
 ---
 
 # Cannabis Medizinisch Combined Atmp Companion
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `cannabis-medizinisch-verordnung` | Medizinisches Cannabis Verordnung: moderner Medizinrechts-Skill für Cannabis als Medizin, Verordnung, Kostenübernahme, Fahrtüchtigkeit und Berufspflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `combined-atmp-device-mdr` | Kombiniertes ATMP mit Medizinprodukt: moderner Medizinrechts-Skill für ATMP mit Scaffold, Implantat, Katheter, Software oder Applikationsgerät und doppelter Regulierungslogik. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `companion-diagnostic-atmp` | Companion Diagnostic bei ATMP: moderner Medizinrechts-Skill für Therapieselektion durch Biomarker, Testqualität, falsche Negativ-/Positivbefunde und Erstattung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `compassionate-use-haertefall` | Compassionate Use und Härtefall: moderner Medizinrechts-Skill für Nicht zugelassenes Arzneimittel, Härtefallprogramm, Nutzen-Risiko, Erstattung und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Cannabis Medizinisch Combined Atmp Companion im Medizinrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `cannabis-medizinisch-verordnung`
 

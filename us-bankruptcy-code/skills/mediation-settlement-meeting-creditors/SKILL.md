@@ -1,6 +1,6 @@
 ---
 name: mediation-settlement-meeting-creditors
-description: "Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements im US Bankruptcy Code."
 ---
 
 # Settlement and Rule 9019

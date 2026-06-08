@@ -1,6 +1,6 @@
 ---
 name: verifikation-compliance-dokumentation-und-akte
-description: "Verifikation: Compliance-Dokumentation und Aktenvermerk im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verifikation: Compliance-Dokumentation und Aktenvermerk im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
 ---
 
 # Verifikation: Compliance-Dokumentation und Aktenvermerk

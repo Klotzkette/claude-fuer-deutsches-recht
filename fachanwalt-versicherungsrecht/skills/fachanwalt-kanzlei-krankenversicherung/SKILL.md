@@ -1,17 +1,9 @@
 ---
 name: fachanwalt-kanzlei-krankenversicherung
-description: "Kanzlei Krankenversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Fachanwalt, Kanzlei, Krankenversicherung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kanzlei Krankenversicherung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Fachanwalt, Kanzlei, Krankenversicherung."
 ---
 
 # Kanzlei Krankenversicherung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-compliance-dokumentation-und-akte` | Kanzlei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-krankenversicherung-risikoampel-und-gegenargumente` | Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt versicherungsrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kanzlei-compliance-dokumentation-und-akte`
 
-**Fokus:** Kanzlei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt versicherungsrecht.
 
 ### Kanzlei: Compliance-Dokumentation und Aktenvermerk
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-krankenversicherung-risikoampel-und-gegenargumente`
 
-**Fokus:** Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt versicherungsrecht.
 
 ### Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien
 

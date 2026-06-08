@@ -1,6 +1,6 @@
 ---
 name: internationale-kooperation-memorandum-of-understanding
-description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt im Weltraumrecht."
 ---
 
 # Weltraumrecht: Internationale Kooperation: Memorandum of Understanding

@@ -1,6 +1,6 @@
 ---
 name: public-performance-records-search-publication
-description: "Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions im Us Copyright Registrierung Verlag."
 ---
 
 # Public Performance, Display und § 110

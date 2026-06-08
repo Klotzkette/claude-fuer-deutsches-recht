@@ -1,6 +1,6 @@
 ---
 name: stimmbindung-veto-vertragswirklichkeit
-description: "Prüft Stimmbindungsvereinbarungen, Vetorechte, Poolverträge und Nebenabreden im Statusrecht im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Stimmbindungsvereinbarungen, Vetorechte, Poolverträge und Nebenabreden im Statusrecht im Sozialversicherungsstatus Pruefer."
 ---
 
 # Stimmbindung und Nebenvertrag

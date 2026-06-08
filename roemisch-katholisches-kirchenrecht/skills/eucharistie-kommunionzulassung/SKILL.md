@@ -1,6 +1,6 @@
 ---
 name: eucharistie-kommunionzulassung
-description: "Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Eucharistie und Kommunionzulassung

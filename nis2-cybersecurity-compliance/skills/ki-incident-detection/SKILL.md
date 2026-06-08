@@ -1,6 +1,6 @@
 ---
 name: ki-incident-detection
-description: "Prüft KI-gestützte Incident Detection und ihre Grenzen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KI-gestützte Incident Detection und ihre Grenzen im Nis2 Cybersecurity Compliance."
 ---
 
 # KI Incident Detection

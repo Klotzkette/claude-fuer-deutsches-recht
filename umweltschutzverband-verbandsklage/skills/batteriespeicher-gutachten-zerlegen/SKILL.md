@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-gutachten-zerlegen
-description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Gutachten zerlegen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Gutachten zerlegen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Batteriespeicher Gutachten Zerlegen

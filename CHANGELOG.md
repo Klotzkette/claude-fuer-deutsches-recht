@@ -1,3 +1,25 @@
+# v252.0.0 — Skill-Kürzung ohne Wissensverlust und Sanity-Bump
+
+## Schwerpunkt
+
+Nach dem extern eingespielten v251-Stand wurden die Skills nochmals auf Qualität, Kürze und Lesbarkeit geprüft. Entfernt wurden vor allem generische Beschreibungsschwänze, alte Konsolidierungs-Übersichtstabellen und interne Referenz-/Routingreste, die für Nutzerinnen und Nutzer in Claude/Cowork keinen Mehrwert hatten. Fachliche Inhalte, Normanker, Rechtsprechungshinweise und Arbeitsprodukte bleiben erhalten.
+
+## Änderungen
+
+- Generische Description-Tails wie standardisierte Output-/Risikoampel-Sätze repo-weit gekürzt.
+- Alte `Prüfungslinien`-Tabellen mit früheren Skill-Slugs entfernt, wenn sie nur Konsolidierungsgeschichte wiederholten.
+- Detailabschnitte neutralisiert (`Fachliche Module` statt Entstehungsgeschichte).
+- Testakten-Gesamt-PDFs, Plugin-Struktur, YAML-Frontmatter und Übersichten erneut validiert.
+- Versionsstand in Plugin-Manifesten, Marketplace und zentralen Übersichten auf v252.0.0 gehoben.
+
+## Sanity
+
+- 212 Plugins / 18.551 Skills / 203 Testakten.
+- Keine alten Bündel-/Sammelskill-Formeln mehr gefunden.
+- Testakten-PDF-Erstseiten weiterhin ohne Demo-/README-/Download-Vorspann.
+
+---
+
 # v251.0.0 — Boilerplate-Sweep: identische Wiederholungs-Sections plugin-weit entfernt
 
 ## Schwerpunkt

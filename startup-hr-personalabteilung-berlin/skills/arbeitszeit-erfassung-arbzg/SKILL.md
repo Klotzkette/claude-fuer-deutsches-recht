@@ -1,6 +1,6 @@
 ---
 name: arbeitszeit-erfassung-arbzg
-description: "Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Arbeitszeit Erfassung ArbZG

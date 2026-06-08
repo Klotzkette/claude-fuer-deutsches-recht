@@ -1,6 +1,6 @@
 ---
 name: rights-and-permissions-public-record
-description: "Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren im Us Copyright Registrierung Verlag."
 ---
 
 # Rights and Permissions und Public Record

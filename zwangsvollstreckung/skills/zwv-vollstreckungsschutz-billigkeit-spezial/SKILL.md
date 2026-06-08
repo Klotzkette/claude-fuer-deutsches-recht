@@ -1,6 +1,6 @@
 ---
 name: zwv-vollstreckungsschutz-billigkeit-spezial
-description: "Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung im Zwangsvollstreckung."
 ---
 
 # ZwV: Vollstreckungsschutz Billigkeit

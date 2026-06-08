@@ -1,6 +1,6 @@
 ---
 name: mobbing-konflikt-intake
-description: "Berliner Start-up-HR: Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Mobbing Konflikt Intake

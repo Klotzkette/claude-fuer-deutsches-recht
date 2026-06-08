@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-anreizregulierung-erloesobergrenze-fris
-description: "Anreizregulierung Erlösobergrenze: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anreizregulierung Erlösobergrenze: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse

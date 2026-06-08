@@ -1,6 +1,6 @@
 ---
 name: deutsch-englischer-vertrag
-description: "Solo-Selbstständige: warnt vor False Friends und legt deutsches Recht sauber fest; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: warnt vor False Friends und legt deutsches Recht sauber fest; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Internationales und Auslandskunden: Warnt vor false friends und legt deutsches recht sauber fest

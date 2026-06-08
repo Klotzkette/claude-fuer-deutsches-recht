@@ -1,6 +1,6 @@
 ---
 name: revision-rechtsfehler-aktenaufbereiter
-description: "Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Revisionsschrift vorbereiten: § 344 StPO Revisionsantraege, § 337 StPO Rechtsfehler. Sachruege und Verfahrensruege. Typische Verfahrensruegen: § 244 Abs. 2 StPO (Aufklaerungsruege), § 261 StPO (Beweiswuerdigung), § 265 StPO (Hinweispflicht), § 338 StPO (absolute Revisionsgruende). Pruefraster mit Belegstellen in Urteil und Protokoll im Strafrechts-Aktenaufbereiter."
 ---
 
 # Revision: Rechtsfehler-Katalog

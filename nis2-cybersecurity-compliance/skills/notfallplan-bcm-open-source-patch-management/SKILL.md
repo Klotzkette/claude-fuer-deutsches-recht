@@ -1,6 +1,6 @@
 ---
 name: notfallplan-bcm-open-source-patch-management
-description: "Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit im Nis2 Cybersecurity Compliance."
 ---
 
 # Notfallplan Und Bcm

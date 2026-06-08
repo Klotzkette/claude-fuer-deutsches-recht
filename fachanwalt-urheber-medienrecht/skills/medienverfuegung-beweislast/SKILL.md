@@ -1,17 +1,9 @@
 ---
 name: medienverfuegung-beweislast
-description: "Medienverfuegung Beweislast im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Medienverfuegung, Persönlichkeitsrecht, Medienverfügung und Abmahnung, Persoenlichkeitsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Medienverfuegung Beweislast im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Medienverfuegung, Persönlichkeitsrecht, Medienverfügung und Abmahnung, Persoenlichkeitsrecht."
 ---
 
 # Medienverfuegung Beweislast
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-medienverfuegung-beweislast-und-darlegungslast` | Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung` | Persönlichkeitsrecht, Medienverfügung und Abmahnung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-persoenlichkeitsrecht-vergleich-eskalation` | Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Medienverfuegung Beweislast im Plugin Fachanwalt Urheber Medienrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-medienverfuegung-beweislast-und-darlegungslast`
 
-**Fokus:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht.
 
 ### Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
 
@@ -72,7 +64,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-persoenlichkeitsrecht-vergleich-eskalation`
 
-**Fokus:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht.
 
 ### Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
 

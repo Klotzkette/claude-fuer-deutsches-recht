@@ -1,6 +1,6 @@
 ---
 name: meldepflicht-it-sicherheitsvorfall
-description: "Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommunikation, Ursachenanalyse und Abhilfe im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommunikation, Ursachenanalyse und Abhilfe im Telekommunikationsrecht."
 ---
 
 # IT-Sicherheitsvorfall und Meldepflicht

@@ -1,16 +1,9 @@
 ---
 name: hospital-exemption-hta-jca
-description: "Hospital Exemption HTA JCA im Medizinrecht: prüft konkret Hospital Exemption § 4b AMG, EU-HTA/JCA bei ATMP und Onkologie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hospital Exemption HTA JCA im Medizinrecht: prüft konkret Hospital Exemption § 4b AMG, EU-HTA/JCA bei ATMP und Onkologie."
 ---
 
 # Hospital Exemption HTA JCA
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `hospital-exemption-4b-amg` | Hospital Exemption § 4b AMG: moderner Medizinrechts-Skill für Nicht routinemäßige ATMP-Anwendung im Krankenhaus, Einzelfallherstellung, Qualitätsstandards und PEI-Genehmigung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `hta-jca-atmp-onkologie` | EU-HTA/JCA bei ATMP und Onkologie: moderner Medizinrechts-Skill für Gemeinsame klinische Bewertung seit 2025 für Krebsarzneimittel und ATMP, Schnittstelle zum nationalen Nutzenbewertungsweg. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Hospital Exemption HTA JCA im Medizinrecht: prüft konkret Hospita
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `hospital-exemption-4b-amg`
 

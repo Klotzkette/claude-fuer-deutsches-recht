@@ -1,6 +1,6 @@
 ---
 name: haus-literaturrecherche-leitfaden
-description: "Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster für Querschnitts- und Spezialthemen im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster für Querschnitts- und Spezialthemen im Hausarbeitenmacher."
 ---
 
 # Haus: Literaturrecherche

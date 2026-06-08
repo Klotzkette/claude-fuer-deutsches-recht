@@ -1,6 +1,6 @@
 ---
 name: leichte-einfache-sprache
-description: "Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren im Bürokratie-Entbürokratisierung."
 ---
 
 # Leichte und einfache Sprache

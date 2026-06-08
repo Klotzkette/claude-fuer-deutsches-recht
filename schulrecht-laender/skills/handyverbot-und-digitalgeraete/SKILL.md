@@ -1,6 +1,6 @@
 ---
 name: handyverbot-und-digitalgeraete
-description: "Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte im Schulrecht Länder."
 ---
 
 # Handyverbot Und Digitalgeraete

@@ -1,6 +1,6 @@
 ---
 name: scheinprivatisierung-erkennen-oepp
-description: "Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
 ---
 
 # Scheinprivatisierung Erkennen

@@ -1,6 +1,6 @@
 ---
 name: neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel
-description: "Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel

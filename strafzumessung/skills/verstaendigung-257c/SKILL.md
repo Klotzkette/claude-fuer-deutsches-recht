@@ -1,15 +1,9 @@
 ---
 name: verstaendigung-257c
-description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung."
 ---
 
 # Verstaendigung 257c
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verstaendigung-257c-stpo-strafzumessung` | Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung. Strafrahmen statt Strafmass; Bindungswirkung bei vollstaendiger Belehrung; Belehrungspflicht Abs. 4 und 5. BVerfG 2 BvR 2628/10 vom 19.03.2013 Verfassungskonformitaet. BGH 1 StR 525/11 vom 07.02.2012 Belehrungspflicht. Typischer Gestaendnisrabatt 25 bis 33 Prozent. Schnittstelle TOA Strafmilderung Plaedoyer. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung. Li
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verstaendigung-257c-stpo-strafzumessung`
 

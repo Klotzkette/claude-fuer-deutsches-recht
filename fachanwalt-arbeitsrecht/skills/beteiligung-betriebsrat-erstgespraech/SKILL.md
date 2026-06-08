@@ -1,17 +1,9 @@
 ---
 name: beteiligung-betriebsrat-erstgespraech
-description: "Beteiligung Betriebsrat Erstgespraech im Plugin Fachanwalt Arbeitsrecht: prüft konkret Betriebsratsanhörung vor Kündigung, Strukturierter Erstgespraechsleitfaden für Individual- und, Prüfungslinie für fachanwalt arbeitsrecht bag equal pay. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beteiligung Betriebsrat Erstgespraech im Plugin Fachanwalt Arbeitsrecht: prüft konkret Betriebsratsanhörung vor Kündigung, Strukturierter Erstgespraechsleitfaden für Individual- und, Prüfungslinie für fachanwalt arbeitsrecht bag equal pay."
 ---
 
 # Beteiligung Betriebsrat Erstgespraech
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beteiligung-betriebsrat-102-betrvg` | Betriebsratsanhörung vor Kündigung: Sachverhalt, Sozialdaten, Kündigungsgrund, Nachschieben und Fehlerfolgen.; Normanker: BetrVG § 102; KSchG; BAG live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Beteiligung Betriebsrat Erstgespraech im Plugin Fachanwalt Arbeits
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beteiligung-betriebsrat-102-betrvg`
 

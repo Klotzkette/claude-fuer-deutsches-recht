@@ -1,6 +1,6 @@
 ---
 name: exclusive-distributor
-description: "Internationales Handelsrecht: Alleinvertriebsvertrag international. Gebietsschutz nach VBER 2022 (EU) 2022/720, Mindestumsatzpflichten, Wettbewerbsverbote, Kündigung und Schadensersatz bei missbräuchlicher Beendigung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Alleinvertriebsvertrag international. Gebietsschutz nach VBER 2022 (EU) 2022/720, Mindestumsatzpflichten, Wettbewerbsverbote, Kündigung und Schadensersatz bei missbräuchlicher Beendigung im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Alleinvertriebsvertrag International

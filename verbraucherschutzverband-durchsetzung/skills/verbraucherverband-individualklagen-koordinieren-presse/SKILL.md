@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-individualklagen-koordinieren-presse
-description: "Verbraucherschutzverband Durchsetzung: Individualklagen koordinieren. Individualklagen koordinieren im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Individualklagen koordinieren. Individualklagen koordinieren im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Individualklagen Koordinieren

@@ -1,6 +1,6 @@
 ---
 name: schuelerbefoerderung
-description: "Prüft Schülerbeförderung und Kostenerstattung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schülerbeförderung und Kostenerstattung im Schulrecht Länder."
 ---
 
 # Schuelerbefoerderung

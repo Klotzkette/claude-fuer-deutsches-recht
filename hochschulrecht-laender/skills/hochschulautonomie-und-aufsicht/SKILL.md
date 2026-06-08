@@ -1,6 +1,6 @@
 ---
 name: hochschulautonomie-und-aufsicht
-description: "Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht im Hochschulrecht Länder."
 ---
 
 # Hochschulautonomie Und Aufsicht

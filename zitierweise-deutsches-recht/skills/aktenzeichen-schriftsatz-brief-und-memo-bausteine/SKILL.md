@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-schriftsatz-brief-und-memo-bausteine
-description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: online-shop-liefert-nicht
-description: "Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Online-Shop liefert nicht

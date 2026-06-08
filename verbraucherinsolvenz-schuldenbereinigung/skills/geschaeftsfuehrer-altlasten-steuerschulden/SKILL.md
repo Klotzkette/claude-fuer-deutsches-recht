@@ -1,17 +1,9 @@
 ---
 name: geschaeftsfuehrer-altlasten-steuerschulden
-description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Ehemaliger Geschäftsführer, Steuerschulden, Abschluss und Neustart. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Ehemaliger Geschäftsführer, Steuerschulden, Abschluss und Neustart."
 ---
 
 # Geschaeftsfuehrer Altlasten Steuerschulden
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `geschaeftsfuehrer-altlasten` | Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `steuerschulden-und-strafsteuer` | Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `abschluss-und-neustart` | Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Geschaeftsfuehrer Altlasten Steuerschulden im Plugin Verbraucherin
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `geschaeftsfuehrer-altlasten`
 

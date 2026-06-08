@@ -1,6 +1,6 @@
 ---
 name: b2c-b2b-plattform-marktplatz-routing
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing im Ecommerce Recht."
 ---
 
 # B2C B2B Plattform Marktplatz Routing

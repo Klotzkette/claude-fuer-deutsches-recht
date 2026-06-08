@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-digitaler-betrug-fernwartung-stoppen
-description: "Betrugsschutz bei betreuten Personen: Romance Scam, Enkeltrick, Fernwartungssoftware, Onlinebanking, Abos, Krypto und Strafanzeige im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betrugsschutz bei betreuten Personen: Romance Scam, Enkeltrick, Fernwartungssoftware, Onlinebanking, Abos, Krypto und Strafanzeige im Betreuungsrecht."
 ---
 
 # Familienbetreuer: digitaler Betrug und Fernwartung stoppen

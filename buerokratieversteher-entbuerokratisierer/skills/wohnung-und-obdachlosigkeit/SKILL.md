@@ -1,6 +1,6 @@
 ---
 name: wohnung-und-obdachlosigkeit
-description: "Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz im Bürokratie-Entbürokratisierung."
 ---
 
 # Wohnung und Obdachlosigkeit

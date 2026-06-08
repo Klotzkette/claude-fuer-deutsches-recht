@@ -1,17 +1,9 @@
 ---
 name: vorlaeufiger-vwvfg-vergleichsverhandlung
-description: "Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Vorlaeufiger, Vwvfg, Vergleichsverhandlungs-Strategie für."
 ---
 
 # Vorlaeufiger Vwvfg Vergleichsverhandlung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-vorläufiger-mandantenkommunikation-entscheidungsvorlage` | Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vwvfg-dokumentenmatrix-und-lueckenliste` | Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behörde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Vorlaeufiger Vwvfg Vergleichsverhandlung im Plugin Fachanwalt Verw
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-vorläufiger-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht.
 
 ### Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vwvfg-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht.
 
 ### Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
 

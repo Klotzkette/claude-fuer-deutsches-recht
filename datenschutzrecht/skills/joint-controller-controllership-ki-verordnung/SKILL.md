@@ -1,19 +1,9 @@
 ---
 name: joint-controller-controllership-ki-verordnung
-description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht: prüft konkret Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz, Datenschutzkonforme Verwendung von Mandantendaten beim. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht: prüft konkret Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz, Datenschutzkonforme Verwendung von Mandantendaten beim."
 ---
 
 # Joint Controller Controllership KI Verordnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `joint-controller-vereinbarung` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung). |
-| `joint-controllership-en-template` | English language joint controller agreement template under Article 26 GDPR. Allocates responsibilities for information duties data subject requests security incidents and DPIA. Includes published essence clause required by Article 26 (2) GDPR. Output: complete English joint controller agreement template. |
-| `ki-verordnung-compliance` | KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-Compliance-Prüfmemo Massnahmenliste. Abgrenzung: nicht für allgemeine KI-Governance ohne Datenschutzbezug. |
-| `mandantendaten-ki` | Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Output: Compliance-Memo Nutzungsempfehlung. Abgrenzung: nicht für allgemeine KI-VO-Fragen (ki-verordnung-compliance). |
-| `rechtsabteilung-datenpanne-mit-erpressung-und-meldelogik` | Rechtsabteilungs-Fachmodul für Datenpanne mit Erpressung und Meldelogik: 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `joint-controller-vereinbarung`
 

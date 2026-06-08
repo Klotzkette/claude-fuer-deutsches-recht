@@ -1,6 +1,6 @@
 ---
 name: proz-prozessfinanzierung-spezial
-description: "Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster für Mandant und Anwalt im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster für Mandant und Anwalt im Prozessrecht."
 ---
 
 # Proz: Prozessfinanzierung

@@ -1,6 +1,6 @@
 ---
 name: automatic-stay-362
-description: "Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences im US Bankruptcy Code."
 ---
 
 # Automatic Stay § 362

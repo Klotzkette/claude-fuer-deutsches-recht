@@ -1,17 +1,9 @@
 ---
 name: fachanwalt-fao-gebrmg
-description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz, FAO-Dokumentenmatrix, Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz, FAO-Dokumentenmatrix, Gebrauchsmusterrecht."
 ---
 
 # FAO Gebrmg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung. |
-| `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler. |
-| `spezial-gebrmg-verhandlung-vergleich-und-eskalation` | Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 

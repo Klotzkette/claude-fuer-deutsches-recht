@@ -1,6 +1,6 @@
 ---
 name: antrag-zur-niederschrift
-description: "Erklärt Antragstellung zur Niederschrift beim BAPersBw im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Antragstellung zur Niederschrift beim BAPersBw im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Antrag zur Niederschrift

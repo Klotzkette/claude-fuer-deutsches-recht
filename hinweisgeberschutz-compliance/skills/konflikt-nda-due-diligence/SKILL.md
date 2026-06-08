@@ -1,6 +1,6 @@
 ---
 name: konflikt-nda-due-diligence
-description: "Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen im Hinweisgeberschutz Compliance."
 ---
 
 # Konflikt NDA Due Diligence

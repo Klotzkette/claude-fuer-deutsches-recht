@@ -1,6 +1,6 @@
 ---
 name: risk-register-cyber
-description: "Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht im Nis2 Cybersecurity Compliance."
 ---
 
 # Risk Register Cyber

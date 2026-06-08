@@ -1,6 +1,6 @@
 ---
 name: wirtschaftlicher-verein
-description: "Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken im Vereinsrecht Vereinsmanager."
 ---
 
 # Wirtschaftlicher Verein

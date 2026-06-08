@@ -1,6 +1,6 @@
 ---
 name: aufsichtspflicht-und-unfall
-description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung im Schulrecht Länder."
 ---
 
 # Aufsichtspflicht Und Unfall

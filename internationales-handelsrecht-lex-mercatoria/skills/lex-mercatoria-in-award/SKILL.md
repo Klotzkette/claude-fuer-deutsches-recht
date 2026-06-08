@@ -1,6 +1,6 @@
 ---
 name: lex-mercatoria-in-award
-description: "Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Lex Mercatoria im Schiedsspruch

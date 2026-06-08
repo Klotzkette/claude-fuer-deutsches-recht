@@ -1,6 +1,6 @@
 ---
 name: backup-ransomware-banking-dual-besonders
-description: "Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Backup-Strategie gegen Ransomware im Nis2 Cybersecurity Compliance."
 ---
 
 # Backup Ransomware Resilience

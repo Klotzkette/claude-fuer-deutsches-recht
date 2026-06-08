@@ -1,6 +1,6 @@
 ---
 name: generator-beamtenrecht-fuersorgepflicht
-description: "Formular- und Textgenerator für Widerspruch, Akteneinsicht, Beihilfe, Personalakte, Dienstunfall, Remonstration und Eilantrag im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formular- und Textgenerator für Widerspruch, Akteneinsicht, Beihilfe, Personalakte, Dienstunfall, Remonstration und Eilantrag im Beamtenrecht."
 ---
 
 # Formular Generator Beamtenrecht

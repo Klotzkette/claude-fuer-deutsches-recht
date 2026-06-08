@@ -1,6 +1,6 @@
 ---
 name: rechtliche-internationaler-bezug-und-schnittstellen
-description: "Rechtliche: Internationaler Bezug und Schnittstellen im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtliche: Internationaler Bezug und Schnittstellen im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Rechtliche: Internationaler Bezug und Schnittstellen

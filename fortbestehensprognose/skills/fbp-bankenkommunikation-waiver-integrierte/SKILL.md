@@ -1,6 +1,6 @@
 ---
 name: fbp-bankenkommunikation-waiver-integrierte
-description: "Spezialfall Bankenkommunikation und Waiver / Standstill bei drohender Zahlungsunfaehigkeit: Konsortium, Sicherheitenpool, MAC-Klausel. Pruefraster für Geschaeftsleitung und Treuhaender im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Bankenkommunikation und Waiver / Standstill bei drohender Zahlungsunfaehigkeit: Konsortium, Sicherheitenpool, MAC-Klausel. Pruefraster für Geschaeftsleitung und Treuhaender im Fortbestehensprognose."
 ---
 
 # FBP: Bankenkommunikation Waiver

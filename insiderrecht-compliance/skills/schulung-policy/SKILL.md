@@ -1,6 +1,6 @@
 ---
 name: schulung-policy
-description: "Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise für Emittenten aller Groessen im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise für Emittenten aller Groessen im Insiderrecht Compliance."
 ---
 
 # Schulung und Compliance-Policy für Insiderrecht

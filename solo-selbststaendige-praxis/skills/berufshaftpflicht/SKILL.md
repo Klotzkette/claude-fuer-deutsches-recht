@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht
-description: "Solo-Selbstständige: prüft Pflicht, Bedarf, Deckungssumme, Ausschlüsse und Projektanforderungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Pflicht, Bedarf, Deckungssumme, Ausschlüsse und Projektanforderungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Versicherung Haftung und Risiko: Prüft pflicht

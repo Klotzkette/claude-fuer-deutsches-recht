@@ -1,6 +1,6 @@
 ---
 name: eilantrag-endgueltig-nicht-bestanden
-description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Pruefungsrecht Hochschule."
 ---
 
 # Eilantrag Endgueltig Nicht Bestanden

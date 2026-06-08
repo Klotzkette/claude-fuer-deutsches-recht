@@ -1,6 +1,6 @@
 ---
 name: 029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic
-description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht."
 ---
 
 # Rom Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic

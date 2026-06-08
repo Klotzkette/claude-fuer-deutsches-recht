@@ -1,6 +1,6 @@
 ---
 name: workflow-beweislast-und-belegmatrix
-description: "Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweislast und Belegmatrix im Schuldrecht BT: Beweislastverteilung, Umkehr, Anscheinsbeweis im BGB BT."
 ---
 
 # Workflow: Beweislast und Belegmatrix

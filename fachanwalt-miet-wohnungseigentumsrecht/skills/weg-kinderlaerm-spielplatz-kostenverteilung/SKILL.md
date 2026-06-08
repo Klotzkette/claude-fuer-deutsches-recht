@@ -1,24 +1,9 @@
 ---
 name: weg-kinderlaerm-spielplatz-kostenverteilung
-description: "WEG Kinderlaerm Spielplatz Kostenverteilung im Miet- und Wohnungseigentumsrecht: prüft konkret Kinderlärm/Spielplatz, WEG Kostenverteilung, Kurzzeitvermietung in WEG, WEG Ladeinfrastruktur. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "WEG Kinderlaerm Spielplatz Kostenverteilung im Miet- und Wohnungseigentumsrecht: prüft konkret Kinderlärm/Spielplatz, WEG Kostenverteilung, Kurzzeitvermietung in WEG, WEG Ladeinfrastruktur."
 ---
 
 # WEG Kinderlaerm Spielplatz Kostenverteilung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-weg-kinderlaerm-spielplatz` | Kinderlärm/Spielplatz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-kostenverteilung` | WEG Kostenverteilung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-kurzzeitvermietung` | Kurzzeitvermietung in WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-ladeinfrastruktur` | WEG Ladeinfrastruktur: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-mehrheiten-stimmrechte` | WEG Mehrheiten/Stimmrechte: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-mieter-in-versammlung` | Mieter in Versammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-nichtigkeit` | WEG Nichtigkeit: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-notgeschaeftsfuehrung` | Notgeschäftsführung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-photovoltaik-dach` | WEG Photovoltaik Dach: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-privilegierte-massnahmen` | Privilegierte Maßnahmen § 20 WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "WEG Kinderlaerm Spielplatz Kostenverteilung im Miet- und Wohnungse
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-weg-kinderlaerm-spielplatz`
 

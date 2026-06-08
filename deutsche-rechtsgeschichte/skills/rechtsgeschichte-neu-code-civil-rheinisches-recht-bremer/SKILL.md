@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-neu-code-civil-rheinisches-recht-bremer
-description: "Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 001 Code Civil Linksrheinische Gebiete Bis Bgb

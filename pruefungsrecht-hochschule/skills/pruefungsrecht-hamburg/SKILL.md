@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-hamburg
-description: "Prüft Hochschulprüfungsrecht in Hamburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulprüfungsrecht in Hamburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsrecht Hamburg

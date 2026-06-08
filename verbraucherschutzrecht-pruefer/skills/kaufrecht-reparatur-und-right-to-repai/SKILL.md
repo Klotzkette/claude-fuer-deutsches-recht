@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-reparatur-und-right-to-repai
-description: "Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to Repair. Kaufrecht Reparatur und Right to Repair im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to Repair. Kaufrecht Reparatur und Right to Repair im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Kaufrecht Reparatur Und Right To Repai

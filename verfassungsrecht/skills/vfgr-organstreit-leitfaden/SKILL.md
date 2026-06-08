@@ -1,6 +1,6 @@
 ---
 name: vfgr-organstreit-leitfaden
-description: "Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis. Pruefraster für Bundestagsfraktionen und Abgeordnete im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis. Pruefraster für Bundestagsfraktionen und Abgeordnete im Verfassungsrecht."
 ---
 
 # VfgR: Organstreit

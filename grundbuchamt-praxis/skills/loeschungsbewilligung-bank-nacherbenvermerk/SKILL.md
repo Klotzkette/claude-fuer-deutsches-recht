@@ -1,6 +1,6 @@
 ---
 name: loeschungsbewilligung-bank-nacherbenvermerk
-description: "Checkt Bankformular, Unterschriften, Vertretungsmacht, Briefvorlage, Teillöschung und Verwahrstelle im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkt Bankformular, Unterschriften, Vertretungsmacht, Briefvorlage, Teillöschung und Verwahrstelle im Grundbuchamt Praxis."
 ---
 
 # Löschungsbewilligung Bank

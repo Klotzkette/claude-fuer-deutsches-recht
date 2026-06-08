@@ -1,6 +1,6 @@
 ---
 name: partner-briefing-memo
-description: "Schreibt ein knappes Partnerbriefing zu Corporate-English-Fragen mit Issue, Rechtsanker, wirtschaftlicher Wirkung, Empfehlung und Rueckfragen im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schreibt ein knappes Partnerbriefing zu Corporate-English-Fragen mit Issue, Rechtsanker, wirtschaftlicher Wirkung, Empfehlung und Rueckfragen im Gesellschaftsrecht Legal English."
 ---
 
 # Partnerbriefing Memo

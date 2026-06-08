@@ -1,6 +1,6 @@
 ---
 name: lph4-genehmigungsrisiko-bauantrag-auflagen
-description: "HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz, Nachforderungen, Auflagen, Nutzungsänderung und Rücksprung in frühere Leistungsphasen taktisch und haftungsfest prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz, Nachforderungen, Auflagen, Nutzungsänderung und Rücksprung in frühere Leistungsphasen taktisch und haftungsfest prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 4 Genehmigungsrisiko, Bauantrag Und Auflagen

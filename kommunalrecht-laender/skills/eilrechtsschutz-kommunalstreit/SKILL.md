@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-kommunalstreit
-description: "Kommunalrecht der Länder: Eilrechtsschutz Kommunalstreit. Eilrechtsschutz Kommunalstreit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Eilrechtsschutz Kommunalstreit. Eilrechtsschutz Kommunalstreit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Eilrechtsschutz Kommunalstreit

@@ -1,6 +1,6 @@
 ---
 name: transportversicherung-ware-lagerung
-description: "Transportversicherung: Güterschaden, Verlust, Lagerung, Incoterms, multimodaler Transport, Regress gegen Frachtführer und Versicherungswert im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Transportversicherung: Güterschaden, Verlust, Lagerung, Incoterms, multimodaler Transport, Regress gegen Frachtführer und Versicherungswert im Versicherungsrecht."
 ---
 
 # Transportversicherung: Ware, Lagerung, Lieferkette

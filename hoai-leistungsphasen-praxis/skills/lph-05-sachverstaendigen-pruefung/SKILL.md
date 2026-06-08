@@ -1,6 +1,6 @@
 ---
 name: lph-05-sachverstaendigen-pruefung
-description: "HOAI LPH 5 Ausführungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 5 Ausführungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 5 Ausführungsplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur

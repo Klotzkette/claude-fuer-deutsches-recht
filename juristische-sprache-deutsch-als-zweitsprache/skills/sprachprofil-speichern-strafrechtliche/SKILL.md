@@ -1,6 +1,6 @@
 ---
 name: sprachprofil-speichern-strafrechtliche
-description: "Hilft bei Sprachprofil Speichern Ohne Stigma für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Sprachprofil Speichern Ohne Stigma für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
 ---
 
 # Sprachprofil Speichern Ohne Stigma

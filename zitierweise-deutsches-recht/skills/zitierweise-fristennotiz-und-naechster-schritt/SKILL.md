@@ -1,6 +1,6 @@
 ---
 name: zitierweise-fristennotiz-und-naechster-schritt
-description: "Zitierweise: Fristennotiz und nächster Schritt im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zitierweise: Fristennotiz und nächster Schritt im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Zitierweise: Fristennotiz und nächster Schritt

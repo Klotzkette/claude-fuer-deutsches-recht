@@ -1,6 +1,6 @@
 ---
 name: open-access-hochschule
-description: "Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Access-Pflichten, Zweitveröffentlichung, Rechtekette und Drittmittelvorgaben im Hochschulrecht Länder."
 ---
 
 # Open Access Hochschule

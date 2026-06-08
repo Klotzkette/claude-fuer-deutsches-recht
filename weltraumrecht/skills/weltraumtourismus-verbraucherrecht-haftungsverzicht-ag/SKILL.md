@@ -1,6 +1,6 @@
 ---
 name: weltraumtourismus-verbraucherrecht-haftungsverzicht-ag
-description: "Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Weltraumtourismus: Verbraucherrecht, Haftungsverzicht, AGB

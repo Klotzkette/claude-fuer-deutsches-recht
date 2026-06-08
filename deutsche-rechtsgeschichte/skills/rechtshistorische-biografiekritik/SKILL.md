@@ -1,6 +1,6 @@
 ---
 name: rechtshistorische-biografiekritik
-description: "Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade im Deutsche Rechtsgeschichte."
 ---
 
 # Rechtshistorische Biografiekritik

@@ -1,6 +1,6 @@
 ---
 name: software-dokumentation-gui-api-schutz
-description: "Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode im Softwarerecht De Eu Us."
 ---
 
 # Dokumentation, GUI und API-Schutz

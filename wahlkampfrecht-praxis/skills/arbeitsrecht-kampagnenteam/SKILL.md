@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-kampagnenteam
-description: "Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf pruefen im Wahlkampfrecht."
 ---
 
 # Arbeitsrecht Kampagnenteam

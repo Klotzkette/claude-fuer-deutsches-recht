@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-beantragen
-description: "Ordnungswidrigkeitenrecht: Akteneinsicht beantragen. Akteneinsicht beantragen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Akteneinsicht beantragen. Akteneinsicht beantragen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Akteneinsicht Beantragen

@@ -1,6 +1,6 @@
 {
   "name": "forderungsmanagement-klagewerkstatt",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,19 +1,9 @@
 ---
 name: studentenwohnheim-tod-mieters
-description: "Studentenwohnheim TOD Mieters im Miet- und Wohnungseigentumsrecht: prüft konkret Studentenwohnheim, Tod des Mieters, Umlageschlüssel in Miet- und WEG-Abrechnungen, Umwandlung/Kündigungssperre. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Studentenwohnheim TOD Mieters im Miet- und Wohnungseigentumsrecht: prüft konkret Studentenwohnheim, Tod des Mieters, Umlageschlüssel in Miet- und WEG-Abrechnungen, Umwandlung/Kündigungssperre."
 ---
 
 # Studentenwohnheim TOD Mieters
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-studentenwohnheim` | Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-tod-des-mieters` | Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-umlageschluessel` | Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung. |
-| `spezial-umwandlung-kuendigungssperre` | Umwandlung/Kündigungssperre: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-untervermietung-553` | Untervermietung § 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Studentenwohnheim TOD Mieters im Miet- und Wohnungseigentumsrecht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-studentenwohnheim`
 

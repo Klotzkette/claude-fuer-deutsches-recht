@@ -1,6 +1,6 @@
 ---
 name: fusion-foerderung-beihilfe
-description: "Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle im Energierecht."
 ---
 
 # Fusion: Förderung, Beihilfe und IP

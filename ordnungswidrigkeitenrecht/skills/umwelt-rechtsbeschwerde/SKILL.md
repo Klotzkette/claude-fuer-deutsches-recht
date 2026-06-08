@@ -1,6 +1,6 @@
 ---
 name: umwelt-rechtsbeschwerde
-description: "Umwelt-OWi: Rechtsbeschwerde prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umwelt-OWi: Rechtsbeschwerde prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Umwelt Owi Rechtsbeschwerde Pruefen

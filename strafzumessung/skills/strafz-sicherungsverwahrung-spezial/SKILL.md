@@ -1,6 +1,6 @@
 ---
 name: strafz-sicherungsverwahrung-spezial
-description: "Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Pruefraster für Verteidiger im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Pruefraster für Verteidiger im Strafzumessung."
 ---
 
 # StrafZ: Sicherungsverwahrung

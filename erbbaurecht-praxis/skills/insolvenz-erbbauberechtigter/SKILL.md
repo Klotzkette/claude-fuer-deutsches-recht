@@ -1,6 +1,6 @@
 ---
 name: insolvenz-erbbauberechtigter
-description: "Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug im Erbbaurecht Praxis."
 ---
 
 # Insolvenz des Erbbauberechtigten

@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-sanktionen
-description: "Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Sanktions- und Exportkontrollhinweise im Hinweisgeberschutz Compliance."
 ---
 
 # Exportkontrolle Sanktionen

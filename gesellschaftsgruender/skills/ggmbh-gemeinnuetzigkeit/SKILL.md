@@ -1,6 +1,6 @@
 ---
 name: ggmbh-gemeinnuetzigkeit
-description: "Prüft gGmbH-Gründung, Satzungszweck, Mittelbindung und Finanzamt-Abstimmung im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft gGmbH-Gründung, Satzungszweck, Mittelbindung und Finanzamt-Abstimmung im Gesellschaftsgruender."
 ---
 
 # gGmbH und Gemeinnützigkeit

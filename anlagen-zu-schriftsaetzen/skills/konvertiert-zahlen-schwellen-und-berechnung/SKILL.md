@@ -1,6 +1,6 @@
 ---
 name: konvertiert-zahlen-schwellen-und-berechnung
-description: "Prüft PDF-Konvertierung, Dateigrößen, Seitenzahlen, OCR und technische Schwellen vor Versand im Anlagen zu Schriftsätzen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft PDF-Konvertierung, Dateigrößen, Seitenzahlen, OCR und technische Schwellen vor Versand im Anlagen zu Schriftsätzen."
 ---
 
 # Konvertierung, Zahlen und technische Schwellen

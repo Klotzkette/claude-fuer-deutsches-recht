@@ -1,6 +1,6 @@
 ---
 name: flughafen-insolvenzrisiko-markieren
-description: "Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagierzahlen Darlehensausfaelle. Skill prueft InsO §§ 15a 17-19 EU-Beihilferecht Daseinsvorsorge-Ausnahme und LuftVG-Betriebspflichten und liefert Risikoampel-Bewertung für Kreditgeber oder Minderheitsgesellschafter im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagierzahlen Darlehensausfaelle. Skill prueft InsO §§ 15a 17-19 EU-Beihilferecht Daseinsvorsorge-Ausnahme und LuftVG-Betriebspflichten und liefert Risikoampel-Bewertung für Kreditgeber oder Minderheitsgesellschafter im Luftrecht Flughafenrecht."
 ---
 
 # Flughafen – Insolvenzrisiko markieren

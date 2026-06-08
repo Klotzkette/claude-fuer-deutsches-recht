@@ -1,6 +1,6 @@
 ---
 name: egbr-grundstueck
-description: "Prüft eGbR bei Grundstückserwerb, Grundbuchfähigkeit, Register und Gesellschafterwechsel im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft eGbR bei Grundstückserwerb, Grundbuchfähigkeit, Register und Gesellschafterwechsel im Gesellschaftsgruender."
 ---
 
 # eGbR und Grundstück

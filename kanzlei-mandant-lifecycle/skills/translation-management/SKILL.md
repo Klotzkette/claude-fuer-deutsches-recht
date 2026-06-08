@@ -1,6 +1,6 @@
 ---
 name: translation-management
-description: "Translation Management: steuert Übersetzungen, beglaubigte Fassungen, bilinguale Schriftsätze und Kosten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Translation Management: steuert Übersetzungen, beglaubigte Fassungen, bilinguale Schriftsätze und Kosten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Translation Management

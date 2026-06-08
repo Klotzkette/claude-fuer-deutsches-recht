@@ -1,6 +1,6 @@
 ---
 name: dividend-recap-und-refinancing
-description: "Prüft Ausschüttungen, Refinanzierung, Kapitalerhaltung, Covenants, Solvency und Gläubigerschutz im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ausschüttungen, Refinanzierung, Kapitalerhaltung, Covenants, Solvency und Gläubigerschutz im Private Equity Praxis."
 ---
 
 # Dividend Recap und Refinancing

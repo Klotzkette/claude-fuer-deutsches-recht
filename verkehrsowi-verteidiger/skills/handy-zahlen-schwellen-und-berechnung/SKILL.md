@@ -1,6 +1,6 @@
 ---
 name: handy-zahlen-schwellen-und-berechnung
-description: "Handy: Zahlen, Schwellenwerte und Berechnung im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handy: Zahlen, Schwellenwerte und Berechnung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Handy: Zahlen, Schwellenwerte und Berechnung

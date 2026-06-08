@@ -1,6 +1,6 @@
 ---
 name: it-basisschutz-solo
-description: "Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Datenschutz IT und Website: Erstellt mindeststandard für passwortmanager

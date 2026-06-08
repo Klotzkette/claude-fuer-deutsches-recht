@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-rezeption-roemischen-rechts-reichskammergericht
-description: "Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht im Deutsche Rechtsgeschichte."
 ---
 
 # Rezeption des roemischen Rechts

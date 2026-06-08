@@ -1,6 +1,6 @@
 ---
 name: budget-roadmap-byod-policy-chatgpt-copilot
-description: "Übersetzt Cyberrisiken in Budget und Roadmap im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt Cyberrisiken in Budget und Roadmap im Nis2 Cybersecurity Compliance."
 ---
 
 # Budget Und Roadmap

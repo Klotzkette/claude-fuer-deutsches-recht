@@ -1,20 +1,9 @@
 ---
 name: medr-einfuehrung-themen-grundpfeiler-igel
-description: "Medr Einfuehrung Themen Grundpfeiler Igel im Medizinrecht: prüft konkret Medizinrecht einfuehrend, Spezialfall IGeL-Leistungen und Aerztewerbung, Spezialfall IGeL Individuelle Gesundheitsleistung, Spezialfall MVZ-Strukturwandel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Medr Einfuehrung Themen Grundpfeiler Igel im Medizinrecht: prüft konkret Medizinrecht einfuehrend, Spezialfall IGeL-Leistungen und Aerztewerbung, Spezialfall IGeL Individuelle Gesundheitsleistung, Spezialfall MVZ-Strukturwandel."
 ---
 
 # Medr Einfuehrung Themen Grundpfeiler Igel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `medr-einfuehrung-themen` | Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen. Entscheidungstabelle und Verweis auf Detail-Skills. |
-| `medr-grundpfeiler-igel-und-aerztewerbung-spezial` | Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht. |
-| `medr-igel-leistung-spezial` | Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung. Pruefraster für KV-Pruefverfahren und Patientenklage. |
-| `medr-mvz-strukturwandel-spezial` | Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot. Pruefraster Antrag bei KV und Zulassungsausschuss. |
-| `minderjaehrige-einwilligung` | Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsfähigkeit Minderjähriger, Elternkonflikt, dringende Behandlung und Datenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `mindestmengen-zentrumsbildung` | Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komplexe Eingriffe, Mindestmengen, Zentrumsbildung, Verlegungspflicht und Patientensicherheit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -24,7 +13,7 @@ description: "Medr Einfuehrung Themen Grundpfeiler Igel im Medizinrecht: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `medr-einfuehrung-themen`
 

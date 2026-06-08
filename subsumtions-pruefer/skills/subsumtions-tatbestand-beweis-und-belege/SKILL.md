@@ -1,6 +1,6 @@
 ---
 name: subsumtions-tatbestand-beweis-und-belege
-description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Subsumtions Pruefer."
 ---
 
 # Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage

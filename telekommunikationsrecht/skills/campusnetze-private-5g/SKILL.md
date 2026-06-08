@@ -1,6 +1,6 @@
 ---
 name: campusnetze-private-5g
-description: "Campusnetze/private 5G: lokale Frequenzen, Betreiberrolle, Sicherheit, SLA, Industrieanwendung und Drittzugang im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Campusnetze/private 5G: lokale Frequenzen, Betreiberrolle, Sicherheit, SLA, Industrieanwendung und Drittzugang im Telekommunikationsrecht."
 ---
 
 # Campusnetze und private 5G-Netze

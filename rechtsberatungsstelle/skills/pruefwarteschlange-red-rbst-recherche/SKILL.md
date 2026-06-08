@@ -1,6 +1,6 @@
 ---
 name: pruefwarteschlange-red-rbst-recherche
-description: "Pruefwarteschlange: Red-Team und Qualitätskontrolle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pruefwarteschlange: Red-Team und Qualitätskontrolle im Rechtsberatungsstelle."
 ---
 
 # Pruefwarteschlange: Red-Team und Qualitätskontrolle

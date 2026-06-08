@@ -1,6 +1,6 @@
 ---
 name: mitte-internationaler-bezug-und-schnittstellen
-description: "Mitte: Internationaler Bezug und Schnittstellen im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mitte: Internationaler Bezug und Schnittstellen im Plugin legistik werkstatt im Legistik."
 ---
 
 # Mitte: Internationaler Bezug und Schnittstellen

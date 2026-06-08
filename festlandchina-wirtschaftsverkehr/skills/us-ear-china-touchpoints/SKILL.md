@@ -1,6 +1,6 @@
 ---
 name: us-ear-china-touchpoints
-description: "US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US im Festlandchina Wirtschaftsverkehr."
 ---
 
 # US-EAR und China: Berührungspunkte für deutsche Exporteure

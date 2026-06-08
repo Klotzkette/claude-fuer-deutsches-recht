@@ -1,6 +1,6 @@
 ---
 name: lph-08-verbraucher-privater-bauherr
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erklärt pflichten

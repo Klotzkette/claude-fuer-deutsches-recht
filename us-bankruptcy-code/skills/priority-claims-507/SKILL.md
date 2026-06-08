@@ -1,6 +1,6 @@
 ---
 name: priority-claims-507
-description: "Prueft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft priority claims: domestic support, wages, taxes, deposits, grain/fisherman and plan/distribution impact im US Bankruptcy Code."
 ---
 
 # Priority Claims § 507

@@ -1,6 +1,6 @@
 ---
 name: eingangsfrist-7-tage
-description: "Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Eingangsbestätigung und Fristen sauber im Hinweisgeberschutz Compliance."
 ---
 
 # Eingangsfrist 7 Tage

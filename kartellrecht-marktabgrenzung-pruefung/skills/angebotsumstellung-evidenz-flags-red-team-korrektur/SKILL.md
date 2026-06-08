@@ -1,6 +1,6 @@
 ---
 name: angebotsumstellung-evidenz-flags-red-team-korrektur
-description: "Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-klaeranlage-krankenhaus
-description: "Bauueberwachung HOAI LPH 8 für Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie für Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie für Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Klaeranlage Becken und Dichtigkeit

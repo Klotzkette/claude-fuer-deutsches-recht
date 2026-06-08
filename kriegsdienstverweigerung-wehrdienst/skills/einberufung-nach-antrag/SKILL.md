@@ -1,6 +1,6 @@
 ---
 name: einberufung-nach-antrag
-description: "Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Einberufung nach Antrag

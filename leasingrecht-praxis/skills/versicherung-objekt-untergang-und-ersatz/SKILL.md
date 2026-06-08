@@ -1,6 +1,6 @@
 ---
 name: versicherung-objekt-untergang-und-ersatz
-description: "Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versicherung im Leasingrecht: Gefahrtragung, Pflichtversicherung, Totalschaden, Versicherungsleistung und Abrechnung nach Untergang im Leasingrecht."
 ---
 
 # Versicherung im Leasingrecht: Untergang und Ersatz

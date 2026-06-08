@@ -1,6 +1,6 @@
 ---
 name: erbbauzins-rueckstand-mahnung
-description: "Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag im Erbbaurecht Praxis."
 ---
 
 # Erbbauzinsrückstand

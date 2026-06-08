@@ -1,6 +1,6 @@
 ---
 name: rechtsanwaltliche-vollmacht
-description: "Erstellt Vollmacht, Akteneinsicht und Zustellungsbitte im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Vollmacht, Akteneinsicht und Zustellungsbitte im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Anwaltliche Vollmacht

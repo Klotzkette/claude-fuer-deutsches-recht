@@ -1,17 +1,9 @@
 ---
 name: befristung-fao-unwirksam-fristennotiz
-description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeitsrecht: prüft konkret Befristungscompliance und Aktenführung, Fachanwalt für Arbeitsrecht (FAO § 10), Unwirksamkeit erkannt — Fristennotiz und nächster Schritt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeitsrecht: prüft konkret Befristungscompliance und Aktenführung, Fachanwalt für Arbeitsrecht (FAO § 10), Unwirksamkeit erkannt — Fristennotiz und nächster Schritt."
 ---
 
 # Befristung FAO Unwirksam Fristennotiz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-befristung-compliance-dokumentation-und-akte` | Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG. |
-| `spezial-fao-fristen-form-und-zuständigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
-| `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-befristung-compliance-dokumentation-und-akte`
 

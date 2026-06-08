@@ -1,17 +1,9 @@
 ---
 name: tia-zusaetzliche-us-transfer
-description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art."
 ---
 
 # TIA Zusaetzliche US Transfer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` | Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung. |
-| `us-transfer-tia-dokumentation` | US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender. |
-| `verarbeitungsverzeichnis-vvt-generator` | Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung). |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung`
 

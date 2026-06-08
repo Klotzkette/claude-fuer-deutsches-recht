@@ -1,6 +1,6 @@
 ---
 name: document-version-control
-description: "Organisiert Term Sheets, SHA, Side Letters, Cap Tables, Notarentwürfe und Markups versionssicher im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Organisiert Term Sheets, SHA, Side Letters, Cap Tables, Notarentwürfe und Markups versionssicher im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Dokumenten- und Versionskontrolle

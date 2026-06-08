@@ -1,6 +1,6 @@
 ---
 name: neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberlei
-description: "Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei

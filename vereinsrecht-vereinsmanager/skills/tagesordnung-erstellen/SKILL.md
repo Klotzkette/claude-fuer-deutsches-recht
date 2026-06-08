@@ -1,6 +1,6 @@
 ---
 name: tagesordnung-erstellen
-description: "Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen im Vereinsrecht Vereinsmanager."
 ---
 
 # Tagesordnung erstellen

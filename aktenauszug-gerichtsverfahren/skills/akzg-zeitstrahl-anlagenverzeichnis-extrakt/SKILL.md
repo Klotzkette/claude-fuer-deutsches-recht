@@ -1,6 +1,6 @@
 ---
 name: akzg-zeitstrahl-anlagenverzeichnis-extrakt
-description: "Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Pruefraster für Rechtsmittelinstanz im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Pruefraster für Rechtsmittelinstanz im Aktenauszug Gerichtsverfahren."
 ---
 
 # AkzG: Zeitstrahl-Checkliste

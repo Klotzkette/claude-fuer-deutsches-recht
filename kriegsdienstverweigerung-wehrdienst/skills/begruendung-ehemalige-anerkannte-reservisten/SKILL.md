@@ -1,6 +1,6 @@
 ---
 name: begruendung-ehemalige-anerkannte-reservisten
-description: "Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Frühere Anerkennung späterer Dienst

@@ -1,6 +1,6 @@
 ---
 name: hochschulrecht-disziplinarverfahren-pruefungsnah
-description: "Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ordnungs- und Disziplinarmaßnahmen gegen Studierende im Hochschulrecht Länder."
 ---
 
 # Hochschuldisziplinarrecht

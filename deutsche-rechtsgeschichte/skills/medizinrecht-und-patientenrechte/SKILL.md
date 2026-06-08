@@ -1,6 +1,6 @@
 ---
 name: medizinrecht-und-patientenrechte
-description: "Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaerungspflicht (RG-Rspr. 1894), Nuerenberger Kodex 1947, Patientenrechtegesetz 2013 und Sterbehilfe-Diskussion im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaerungspflicht (RG-Rspr. 1894), Nuerenberger Kodex 1947, Patientenrechtegesetz 2013 und Sterbehilfe-Diskussion im Deutsche Rechtsgeschichte."
 ---
 
 # Medizinrecht und Patientenrechte

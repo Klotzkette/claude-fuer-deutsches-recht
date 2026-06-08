@@ -1,6 +1,6 @@
 ---
 name: 031-normkarte-zitat-mit-link-zum-digitalisat
-description: "PrALR: Normkarte Zitat mit Link zum Digitalisat im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Normkarte Zitat mit Link zum Digitalisat im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Normkarte Zitat Mit Link Zum Digitalisat

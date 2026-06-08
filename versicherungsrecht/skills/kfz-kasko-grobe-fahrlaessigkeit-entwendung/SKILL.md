@@ -1,6 +1,6 @@
 ---
 name: kfz-kasko-grobe-fahrlaessigkeit-entwendung
-description: "Kfz-Kaskoversicherung: Entwendung, Unfall, Wild, Alkohol, grobe Fahrlässigkeit, Obliegenheiten, Wiederbeschaffungswert und Sachverständigenstreit im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kfz-Kaskoversicherung: Entwendung, Unfall, Wild, Alkohol, grobe Fahrlässigkeit, Obliegenheiten, Wiederbeschaffungswert und Sachverständigenstreit im Versicherungsrecht."
 ---
 
 # Kfz-Kasko: Entwendung, Unfall, grobe Fahrlässigkeit

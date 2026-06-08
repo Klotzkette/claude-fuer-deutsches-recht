@@ -1,17 +1,9 @@
 ---
 name: fazugang-einwurf-einschreiben-zugang-urlaub
-description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt Arbeitsrecht: prüft konkret Einschreiben-Zustellung bei Kündigung, Zugang bei Abwesenheit, Bestreiten des Inhalts eines zugestellten Umschlags. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt Arbeitsrecht: prüft konkret Einschreiben-Zustellung bei Kündigung, Zugang bei Abwesenheit, Bestreiten des Inhalts eines zugestellten Umschlags."
 ---
 
 # Fazugang Einwurf Einschreiben Zugang Urlaub
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag` | Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen. |
-| `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands` | Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung. |
-| `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangeb` | Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag`
 

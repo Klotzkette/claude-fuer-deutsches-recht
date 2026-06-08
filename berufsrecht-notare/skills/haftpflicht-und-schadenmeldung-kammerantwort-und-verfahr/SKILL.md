@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenmeldung-kammerantwort-und-verfahr
-description: "Notare: haftpflicht und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: haftpflicht und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: haftpflicht und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

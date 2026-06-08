@@ -1,6 +1,6 @@
 ---
 name: chapter11-dip
-description: "Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision im US Bankruptcy Code."
 ---
 
 # Chapter 11 Debtor in Possession

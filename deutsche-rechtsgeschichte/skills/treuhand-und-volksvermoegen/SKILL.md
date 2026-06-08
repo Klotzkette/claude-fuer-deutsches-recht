@@ -1,6 +1,6 @@
 ---
 name: treuhand-und-volksvermoegen
-description: "Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung im Deutsche Rechtsgeschichte."
 ---
 
 # Treuhandanstalt und DDR-Volksvermoegen

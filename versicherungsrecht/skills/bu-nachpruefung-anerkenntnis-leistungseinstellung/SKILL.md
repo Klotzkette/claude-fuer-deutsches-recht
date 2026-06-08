@@ -1,6 +1,6 @@
 ---
 name: bu-nachpruefung-anerkenntnis-leistungseinstellung
-description: "BU-Nachprüfung: Anerkenntnis, Gesundheitsverbesserung, Berufswechsel, Mitwirkung, Fristen, Beweislast und Angriff auf Leistungseinstellung im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BU-Nachprüfung: Anerkenntnis, Gesundheitsverbesserung, Berufswechsel, Mitwirkung, Fristen, Beweislast und Angriff auf Leistungseinstellung im Versicherungsrecht."
 ---
 
 # BU: Anerkenntnis, Nachprüfung, Leistungseinstellung

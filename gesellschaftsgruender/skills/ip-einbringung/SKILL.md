@@ -1,6 +1,6 @@
 ---
 name: ip-einbringung
-description: "Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen im Gesellschaftsgruender."
 ---
 
 # IP-Einbringung und Rechtekette

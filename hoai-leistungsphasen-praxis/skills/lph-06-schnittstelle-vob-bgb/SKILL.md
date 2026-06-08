@@ -1,6 +1,6 @@
 ---
 name: lph-06-schnittstelle-vob-bgb
-description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Prüft vob/b

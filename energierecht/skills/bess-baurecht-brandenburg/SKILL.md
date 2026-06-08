@@ -1,6 +1,6 @@
 ---
 name: bess-baurecht-brandenburg
-description: "Prüft Zulässigkeit im Außenbereich, Bebauungsplan, Sondergebiet Energie, Privilegierung, Erschließung und Nachbarrechte im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zulässigkeit im Außenbereich, Bebauungsplan, Sondergebiet Energie, Privilegierung, Erschließung und Nachbarrechte im Energierecht."
 ---
 
 # Batteriespeicher: Baurecht und Bauleitplanung Brandenburg

@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-risiko-rot-markieren
-description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Risiko rot markieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Risiko rot markieren im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Reiseveranstalter Risiko Rot Markieren

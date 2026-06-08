@@ -1,6 +1,6 @@
 ---
 name: fortbildung-geldwaesche-kyc-homeoffice
-description: "Fortbildung: vertiefter Berufsrechts-Skill für Anwälte; prüft Fortbildung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fortbildung: vertiefter Berufsrechts-Skill für Anwälte; prüft Fortbildung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Fortbildung

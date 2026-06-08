@@ -1,6 +1,6 @@
 ---
 name: begruendung-fuer-reservisten
-description: "Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Begründung Reservisten

@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-mandatsbeendigung-mitarbeiter
-description: "Mandatsannahme: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mandatsannahme im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatsannahme: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Mandatsannahme im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Mandatsannahme

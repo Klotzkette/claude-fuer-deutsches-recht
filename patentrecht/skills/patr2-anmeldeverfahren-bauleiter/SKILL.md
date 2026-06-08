@@ -1,6 +1,6 @@
 ---
 name: patr2-anmeldeverfahren-bauleiter
-description: "Bauleiter Patentanmeldeverfahren DPMA und EPA: Pruefverfahren, Einspruch, Beschwerde. Pruefraster für Erfinder und Patentanwalt im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Patentanmeldeverfahren DPMA und EPA: Pruefverfahren, Einspruch, Beschwerde. Pruefraster für Erfinder und Patentanwalt im Patentrecht."
 ---
 
 # PatR2: Anmeldeverfahren

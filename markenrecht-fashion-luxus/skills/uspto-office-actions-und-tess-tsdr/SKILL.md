@@ -1,6 +1,6 @@
 ---
 name: uspto-office-actions-und-tess-tsdr
-description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation im Markenrecht Fashion Luxus."
 ---
 
 # USPTO Office Actions und TESS/TSDR-Recherche

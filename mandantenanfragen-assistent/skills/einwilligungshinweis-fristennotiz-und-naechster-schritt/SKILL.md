@@ -1,6 +1,6 @@
 ---
 name: einwilligungshinweis-fristennotiz-und-naechster-schritt
-description: "Einwilligungshinweis: Fristennotiz und nächster Schritt im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einwilligungshinweis: Fristennotiz und nächster Schritt im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Einwilligungshinweis: Fristennotiz und nächster Schritt

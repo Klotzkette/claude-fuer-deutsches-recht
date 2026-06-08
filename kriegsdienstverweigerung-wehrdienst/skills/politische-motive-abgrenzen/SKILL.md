@@ -1,6 +1,6 @@
 ---
 name: politische-motive-abgrenzen
-description: "Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Politische Motive abgrenzen

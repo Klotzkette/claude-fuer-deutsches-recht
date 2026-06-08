@@ -1,6 +1,6 @@
 ---
 name: akkreditierung-programm-qualitaet-alumni
-description: "Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen im Hochschulrecht Länder."
 ---
 
 # Akkreditierung: Programm und System

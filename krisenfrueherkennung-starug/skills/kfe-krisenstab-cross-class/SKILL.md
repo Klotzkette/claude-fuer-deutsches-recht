@@ -1,6 +1,6 @@
 ---
 name: kfe-krisenstab-cross-class
-description: "Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster für Geschaeftsleitung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster für Geschaeftsleitung im Krisenfrueherkennung Starug."
 ---
 
 # KFE: Krisenstab Massnahmen

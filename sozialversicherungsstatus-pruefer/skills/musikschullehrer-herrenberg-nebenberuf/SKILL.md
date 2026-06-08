@@ -1,6 +1,6 @@
 ---
 name: musikschullehrer-herrenberg-nebenberuf
-description: "Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte im Sozialversicherungsstatus Pruefer."
 ---
 
 # Musikschullehrer und Herrenberg-Folgen

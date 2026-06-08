@@ -1,6 +1,6 @@
 ---
 name: gewerberecht-ruegen-verjaehrung-berechnen
-description: "Gewerberecht: Beweis rügen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gewerberecht: Beweis rügen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Gewerberecht Beweis Ruegen

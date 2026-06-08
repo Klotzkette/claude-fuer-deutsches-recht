@@ -1,6 +1,6 @@
 ---
 name: begruendung-der-note
-description: "Prüft Begründungspflicht und Bewertungsfeedback im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Begründungspflicht und Bewertungsfeedback im Pruefungsrecht Hochschule."
 ---
 
 # Begruendung Der Note

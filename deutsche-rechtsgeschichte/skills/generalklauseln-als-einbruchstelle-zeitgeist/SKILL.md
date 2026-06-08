@@ -1,6 +1,6 @@
 ---
 name: generalklauseln-als-einbruchstelle-zeitgeist
-description: "Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen im Deutsche Rechtsgeschichte."
 ---
 
 # Generalklauseln als Einbruchstelle des Zeitgeists

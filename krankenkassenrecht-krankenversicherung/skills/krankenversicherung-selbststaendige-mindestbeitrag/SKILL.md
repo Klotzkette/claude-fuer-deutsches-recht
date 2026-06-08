@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-selbststaendige-mindestbeitrag
-description: "Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Selbstständige: Mindestbeitrag und Einkommensteuerbescheid

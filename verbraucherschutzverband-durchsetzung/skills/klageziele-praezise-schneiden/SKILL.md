@@ -1,6 +1,6 @@
 ---
 name: klageziele-praezise-schneiden
-description: "Verbraucherschutzverband Durchsetzung: Klageziele präzise schneiden. Klageziele präzise schneiden im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Klageziele präzise schneiden. Klageziele präzise schneiden im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Klageziele Praezise Schneiden

@@ -1,6 +1,6 @@
 ---
 name: license-noncompliance-machine-regulation
-description: "Prüft Streit über Lizenzüberschreitung, Audit, Nachlizenzierung, Kündigung und Vergleich im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Streit über Lizenzüberschreitung, Audit, Nachlizenzierung, Kündigung und Vergleich im Softwarerecht De Eu Us."
 ---
 
 # License Noncompliance Dispute

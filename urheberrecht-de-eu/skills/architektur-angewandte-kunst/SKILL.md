@@ -1,6 +1,6 @@
 ---
 name: architektur-angewandte-kunst
-description: "Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen im Urheberrecht De Eu."
 ---
 
 # Architektur und angewandte Kunst

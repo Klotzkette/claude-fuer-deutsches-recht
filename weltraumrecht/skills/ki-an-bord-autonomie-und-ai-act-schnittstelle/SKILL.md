@@ -1,6 +1,6 @@
 ---
 name: ki-an-bord-autonomie-und-ai-act-schnittstelle
-description: "Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung im Weltraumrecht."
 ---
 
 # Weltraumrecht: KI an Bord: Autonomie und AI Act-Schnittstelle

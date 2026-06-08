@@ -1,6 +1,6 @@
 ---
 name: nachschreibtermin-terminkollision
-description: "Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit im Schulrecht Länder."
 ---
 
 # Nachschreibtermin und Terminkollision

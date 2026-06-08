@@ -1,6 +1,6 @@
 ---
 name: beweislast-und-ueberzeugungsbildung
-description: "Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Beweismaß und Überzeugung

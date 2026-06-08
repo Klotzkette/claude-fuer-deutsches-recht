@@ -1,6 +1,6 @@
 ---
 name: schlichtung-sonderfall-und-edge-case
-description: "Schlichtung: Sonderfall und Edge-Case-Prüfung im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schlichtung: Sonderfall und Edge-Case-Prüfung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Schlichtung: Sonderfall und Edge-Case-Prüfung

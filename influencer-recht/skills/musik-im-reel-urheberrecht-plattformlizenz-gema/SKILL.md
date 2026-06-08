@@ -1,6 +1,6 @@
 ---
 name: musik-im-reel-urheberrecht-plattformlizenz-gema
-description: "Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken im Influencer-Recht."
 ---
 
 # Influencer-Recht: Musik im Reel – Urheberrecht, Plattformlizenz und GEMA

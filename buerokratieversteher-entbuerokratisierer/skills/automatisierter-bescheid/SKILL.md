@@ -1,6 +1,6 @@
 ---
 name: automatisierter-bescheid
-description: "Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch im Bürokratie-Entbürokratisierung."
 ---
 
 # Automatisierter Bescheid

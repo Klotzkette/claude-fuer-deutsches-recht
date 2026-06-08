@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-drohne-luftfracht-acc3
-description: "Ersatzteillager für Luftfahrzeuge: unklar welche Behörde zuständig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zuständigkeits-Vermerk für Lager-Genehmigung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ersatzteillager für Luftfahrzeuge: unklar welche Behörde zuständig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zuständigkeits-Vermerk für Lager-Genehmigung im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Zuständigkeit prüfen

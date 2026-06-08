@@ -1,6 +1,6 @@
 ---
 name: support-maintenance-sla
-description: "Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wartung, Updates, Patches, Support-Level, Reaktionszeiten, Credits und End-of-Life im Softwarerecht De Eu Us."
 ---
 
 # Support Maintenance SLA

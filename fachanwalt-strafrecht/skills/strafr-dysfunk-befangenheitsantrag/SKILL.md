@@ -1,19 +1,9 @@
 ---
 name: strafr-dysfunk-befangenheitsantrag
-description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den, Beweisantragsstrategie so aufbauen dass der. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den, Beweisantragsstrategie so aufbauen dass der."
 ---
 
 # Strafr Dysfunk Befangenheitsantrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafr-dysfunk-befangenheitsantrag-zielgenau` | Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Verteidigung auszusetzen. Konkrete Tatsachen die aus Sicht eines vernuenftigen Beschuldigten Misstrauen gegen die Unparteilichkeit rechtfertigen. Trennscharf gegenueber Verfahrenskritik. Schriftsatz mit Eidesstattlicher Versicherung. Folgen der Verwerfung nach § 26a StPO als unzulaessig. Selektion welcher Anlass tatsaechlich tragfaehig ist. |
-| `strafr-dysfunk-beistandsleistung-137-stpo` | § 137 Abs. 1 StPO als zentrales Schutzschild gegen den Vorwurf dysfunktionaler Strafverteidigung nutzen. Verteidiger leistet Beistand des Beschuldigten in jeder Lage des Verfahrens. Privilegierung schuetzt aktives Eintreten gegen Belastung. Sie endet erst wenn der Verteidiger sich bewusst ausserhalb der Rechtsordnung stellt. Argumentation in Schriftsatz und Senatsdialog. Auch harte Antraege im Schutzbereich. Reichweite gegenueber § 138a StPO und § 143a StPO. |
-| `strafr-dysfunk-beweisantrag-fundament` | Beweisantrag so begruenden dass er gegen den Verschleppungs- oder Missbrauchsvorwurf immun ist. Klare Beweisbehauptung. Konkretes Beweismittel mit Adresse oder Belegstelle. Sachzusammenhang in einem Satz. Erkennbarer Bezug zur Aufklaerungspflicht § 244 Abs. 2 StPO und zur konkreten Beweiswuerdigung. Anlage von Originalunterlagen wenn moeglich. Praktische Mustertexte für Schriftsatz und Sitzungsprotokoll. |
-| `strafr-dysfunk-beweisantragsstrategie` | Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert. Jeder Antrag traegt erkennbar Beweisbehauptung Beweismittel Konnex zur Sachverteidigung. Bezug zu konkreten Lebenstatsachen statt Beweisermittlungsantrag. Reihenfolge und Zeitpunkt der Antraege strategisch. Antraege schriftlich oder Sitzungsprotokoll. § 244 Abs. 3 und Abs. 6 StPO und § 244 Abs. 4 Satz 2 StPO. Antworten der Kammer mit Sachdienlichkeitsbegruendung pruefen. Vorbeugend gegen § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht. |
-| `strafr-dysfunk-contempt-of-court-debatte-177a` | Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafr-dysfunk-befangenheitsantrag-zielgenau`
 

@@ -1,6 +1,6 @@
 ---
 name: edr-xdr
-description: "Prüft EDR/XDR auf Endpoints und Servern im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft EDR/XDR auf Endpoints und Servern im Nis2 Cybersecurity Compliance."
 ---
 
 # EDR XDR

@@ -1,19 +1,9 @@
 ---
 name: behoerdenpaket-datenpanne-datenschutzrecht
-description: "Behördenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: prüft konkret Behördenpaket, Datenpanne, Datenschutzrecht, Dpia. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Behördenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: prüft konkret Behördenpaket, Datenpanne, Datenschutzrecht, Dpia."
 ---
 
 # Behördenpaket Datenpanne Datenschutzrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung` | Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-datenpanne-schriftsatz-brief-und-memo-bausteine` | Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-datenschutzrecht-compliance-dokumentation-und-akte` | Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dpia-dokumentenmatrix-und-lueckenliste` | Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-drittlandstransfer-verhandlung-vergleich-und-eskalation` | Drittlandstransfer: Verhandlung, Vergleich und Eskalation im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Behördenpaket Datenpanne Datenschutzrecht im Datenschutzrecht: pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-behoerdenpaket-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Behördenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin datenschutzrecht.
 
 ### Behördenpaket: Zahlen, Schwellenwerte und Berechnung
 
@@ -52,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-datenpanne-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht.
 
 ### Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -90,7 +80,7 @@ Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risi
 
 ## 3. `spezial-datenschutzrecht-compliance-dokumentation-und-akte`
 
-**Fokus:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk im Plugin datenschutzrecht.
 
 ### Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
 
@@ -115,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-dpia-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht.
 
 ### Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -140,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-drittlandstransfer-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Drittlandstransfer: Verhandlung, Vergleich und Eskalation im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Drittlandstransfer: Verhandlung, Vergleich und Eskalation im Plugin datenschutzrecht.
 
 ### Drittlandstransfer: Verhandlung, Vergleich und Eskalation
 

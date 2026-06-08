@@ -1,6 +1,6 @@
 ---
 name: gerichtspost-familiengericht-laiencheck
-description: "Gerichtspost Familiengericht verstehen: führt Laien durch Familiengerichtliche Ladung, Anhörung, Jugendamt, Umgang, Sorge und einstweilige Anordnung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gerichtspost Familiengericht verstehen: führt Laien durch Familiengerichtliche Ladung, Anhörung, Jugendamt, Umgang, Sorge und einstweilige Anordnung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Gerichtspost Familiengericht verstehen

@@ -1,6 +1,6 @@
 ---
 name: eigene-betriebsstaette
-description: "Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht im Sozialversicherungsstatus Pruefer."
 ---
 
 # Eigene Betriebsstätte

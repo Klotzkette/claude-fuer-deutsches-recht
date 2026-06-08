@@ -1,6 +1,6 @@
 ---
 name: vertrag-unterschrieben-abo-falle
-description: "Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Vertrag unterschrieben und bereut

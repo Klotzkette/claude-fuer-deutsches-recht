@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-software-beta-pilot
-description: "Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln im Softwarerecht De Eu Us."
 ---
 
 # Arbeitnehmer-Software § 69b UrhG

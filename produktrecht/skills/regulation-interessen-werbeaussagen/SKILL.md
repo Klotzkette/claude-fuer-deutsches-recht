@@ -1,6 +1,6 @@
 ---
 name: regulation-interessen-werbeaussagen
-description: "Regulation: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regulation: Mehrparteienkonflikt und Interessenmatrix im Produktrecht."
 ---
 
 # Regulation: Mehrparteienkonflikt und Interessenmatrix

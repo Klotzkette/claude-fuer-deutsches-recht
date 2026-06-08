@@ -1,6 +1,6 @@
 ---
 name: slot-register-auswerten
-description: "Mandant will Slot-Bestand einer Airline für Sommer- oder Wintersaison bei Fluko auswerten. Prueft VO EWG 95/93 Grandfather Rights Use-it-or-lose-it Slot-Pool und Fluko-Daten und liefert Slot-Portfolio-Analyse mit Nutzungsquoten im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Slot-Bestand einer Airline für Sommer- oder Wintersaison bei Fluko auswerten. Prueft VO EWG 95/93 Grandfather Rights Use-it-or-lose-it Slot-Pool und Fluko-Daten und liefert Slot-Portfolio-Analyse mit Nutzungsquoten im Luftrecht Flughafenrecht."
 ---
 
 # Slot – Register auswerten

@@ -1,6 +1,6 @@
 ---
 name: formalia-red-team-und-qualitaetskontrolle
-description: "Formalia: Red-Team und Qualitätskontrolle im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formalia: Red-Team und Qualitätskontrolle im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Formalia: Red-Team und Qualitätskontrolle

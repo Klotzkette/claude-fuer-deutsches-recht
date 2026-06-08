@@ -1,6 +1,6 @@
 ---
 name: kundgebung-stationaer-landesrecht-behoerde
-description: "Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft stationäre Kundgebungen, Mahnwachen, Infostände mit Meinungskern und symbolische Orte im Versammlungsrecht."
 ---
 
 # Der Ort spricht mit

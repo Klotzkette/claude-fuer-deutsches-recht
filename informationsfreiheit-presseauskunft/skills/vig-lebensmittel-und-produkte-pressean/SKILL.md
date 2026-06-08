@@ -1,6 +1,6 @@
 ---
 name: vig-lebensmittel-und-produkte-pressean
-description: "Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Vig Lebensmittel Und Produkte Pressean

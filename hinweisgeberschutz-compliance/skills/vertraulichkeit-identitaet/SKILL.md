@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-identitaet
-description: "Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Identitätsschutz für Hinweisgeber, Betroffene und Dritte im Hinweisgeberschutz Compliance."
 ---
 
 # Vertraulichkeit Identitaet

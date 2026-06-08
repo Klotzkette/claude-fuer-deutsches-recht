@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-lohnsteuer
-description: "KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe im Berichtspflichten."
 ---
 
 # KI zum Ausfüllen und Validieren nutzen

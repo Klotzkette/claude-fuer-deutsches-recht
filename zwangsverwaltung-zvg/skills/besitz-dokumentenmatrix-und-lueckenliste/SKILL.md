@@ -1,6 +1,6 @@
 ---
 name: besitz-dokumentenmatrix-und-lueckenliste
-description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Besitz: Dokumentenmatrix, Lückenliste und Nachforderung

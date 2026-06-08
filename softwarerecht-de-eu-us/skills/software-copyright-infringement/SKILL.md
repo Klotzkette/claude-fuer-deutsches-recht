@@ -1,6 +1,6 @@
 ---
 name: software-copyright-infringement
-description: "Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung im Softwarerecht De Eu Us."
 ---
 
 # Software Copyright Infringement

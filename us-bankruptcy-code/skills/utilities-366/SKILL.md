@@ -1,6 +1,6 @@
 ---
 name: utilities-366
-description: "Prueft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code."
 ---
 
 # Utilities § 366

@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenanzeige-organisations
-description: "Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

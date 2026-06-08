@@ -1,6 +1,6 @@
 ---
 name: runway-und-milestone-monitor
-description: "Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Runway und Milestone Monitor

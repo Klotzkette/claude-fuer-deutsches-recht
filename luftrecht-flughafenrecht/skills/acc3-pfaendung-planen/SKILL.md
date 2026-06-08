@@ -1,6 +1,6 @@
 ---
 name: acc3-pfaendung-planen
-description: "Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prueft ZPO §§ 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan für ACC3-Frachtflotte im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prueft ZPO §§ 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan für ACC3-Frachtflotte im Luftrecht Flughafenrecht."
 ---
 
 # ACC3 – Pfändung planen

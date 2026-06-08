@@ -1,6 +1,6 @@
 ---
 name: anforderungsprofil-konstitutiv
-description: "Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches Anforderungsprofil bei der beamtenrechtlichen Auswahlentscheidung. Klaert wann ein im Anforderungsprofil aufgestelltes Merkmal die Vergleichsbasis verengt und wann es nur als Auslegungshilfe der Beurteilungen dient. Liefert das Pruefschema zum Wegfall der Vergleichbarkeit bei willkuerlichem Anforderungsprofil und zur Rechtfertigung dienstpostenbezogener Eignungsanforderungen. Hilft bei Anfechtung der Auswahlentscheidung wenn der Mandant durch ein zugeschnittenes Profil ausgeschieden wird im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches Anforderungsprofil bei der beamtenrechtlichen Auswahlentscheidung. Klaert wann ein im Anforderungsprofil aufgestelltes Merkmal die Vergleichsbasis verengt und wann es nur als Auslegungshilfe der Beurteilungen dient. Liefert das Pruefschema zum Wegfall der Vergleichbarkeit bei willkuerlichem Anforderungsprofil und zur Rechtfertigung dienstpostenbezogener Eignungsanforderungen. Hilft bei Anfechtung der Auswahlentscheidung wenn der Mandant durch ein zugeschnittenes Profil ausgeschieden wird im Beamtenrecht."
 ---
 
 # Anforderungsprofil — konstitutiv oder deklaratorisch

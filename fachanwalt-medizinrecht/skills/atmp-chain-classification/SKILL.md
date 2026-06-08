@@ -1,16 +1,9 @@
 ---
 name: atmp-chain-classification
-description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Chain of Identity, ATMP-Klassifizierung und CAT-Route."
 ---
 
 # Atmp Chain Classification
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `atmp-chain-of-identity` | ATMP Chain of Identity: moderner Medizinrechts-Skill für Autologe Zelltherapie: Patientenmaterial, Verwechslung, Transport, Kryokonservierung und Auditspur. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `atmp-classification-cat` | ATMP-Klassifizierung und CAT-Route: moderner Medizinrechts-Skill für Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Atmp Chain Classification im Medizinrecht: prüft konkret ATMP Cha
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `atmp-chain-of-identity`
 

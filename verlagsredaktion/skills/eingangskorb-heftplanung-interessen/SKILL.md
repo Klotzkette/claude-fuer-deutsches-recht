@@ -1,6 +1,6 @@
 ---
 name: eingangskorb-heftplanung-interessen
-description: "Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien im Verlagsredaktion."
 ---
 
 # Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien

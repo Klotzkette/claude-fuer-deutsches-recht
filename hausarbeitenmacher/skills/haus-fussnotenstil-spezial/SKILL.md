@@ -1,6 +1,6 @@
 ---
 name: haus-fussnotenstil-spezial
-description: "Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster für einheitliche Zitierweise im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster für einheitliche Zitierweise im Hausarbeitenmacher."
 ---
 
 # Haus: Fussnotenstil

@@ -1,6 +1,6 @@
 ---
 name: krankenhausapotheke-arzneimittelversorgung
-description: "Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Pruefungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse im Krankenhausrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Pruefungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse im Krankenhausrecht."
 ---
 
 # Krankenhausapotheke Arzneimittelversorgung

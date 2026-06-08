@@ -1,6 +1,6 @@
 ---
 name: vfgr-grundrechtspruefung-bauleiter
-description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht."
 ---
 
 # VfgR: Grundrechtspruefung

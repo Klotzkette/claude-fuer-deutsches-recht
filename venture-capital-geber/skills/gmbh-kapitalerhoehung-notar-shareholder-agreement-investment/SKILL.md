@@ -1,6 +1,6 @@
 ---
 name: gmbh-kapitalerhoehung-notar-shareholder-agreement-investment
-description: "Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung, Notar, Register, Gesellschafterliste und Closing Deliverables im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Begleitet Kapitalerhöhung, Übernahme, Satzungsänderung, Notar, Register, Gesellschafterliste und Closing Deliverables im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # GmbH-Kapitalerhöhung und Notar

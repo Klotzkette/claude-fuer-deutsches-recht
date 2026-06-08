@@ -1,17 +1,9 @@
 ---
 name: stvo-unfallregulierung-beweislast
-description: "Stvo Unfallregulierung Beweislast im Plugin Fachanwalt Verkehrsrecht: prüft konkret Stvo, Unfallregulierung, Verkehrsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Stvo Unfallregulierung Beweislast im Plugin Fachanwalt Verkehrsrecht: prüft konkret Stvo, Unfallregulierung, Verkehrsrecht."
 ---
 
 # Stvo Unfallregulierung Beweislast
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-stvo-dokumentenmatrix-und-lueckenliste` | Stvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-unfallregulierung-beweislast-und-darlegungslast` | Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verkehrsrecht-tatbestand-beweis-und-belege` | Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Stvo Unfallregulierung Beweislast im Plugin Fachanwalt Verkehrsrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-stvo-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verkehrsrecht.
 
 ### Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -86,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-unfallregulierung-beweislast-und-darlegungslast`
 
-**Fokus:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht.
 
 ### Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
 
@@ -111,7 +103,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verkehrsrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verkehrsrecht.
 
 ### Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

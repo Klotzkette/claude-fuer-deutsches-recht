@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-erfolgsaussicht-mutwilligkeit
-description: "Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussicht oder Mutwilligkeit angreifen, ohne das Hauptmandat zu gefährden im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussicht oder Mutwilligkeit angreifen, ohne das Hauptmandat zu gefährden im Versicherungsrecht."
 ---
 
 # Rechtsschutz: Erfolgsaussicht und Mutwilligkeit

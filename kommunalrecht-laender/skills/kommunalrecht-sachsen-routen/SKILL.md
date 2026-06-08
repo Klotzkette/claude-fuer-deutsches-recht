@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-sachsen-routen
-description: "Kommunalrecht der Länder: Kommunalrecht Sachsen routen. Kommunalrecht Sachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Kommunalrecht Sachsen routen. Kommunalrecht Sachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Kommunalrecht Sachsen Routen

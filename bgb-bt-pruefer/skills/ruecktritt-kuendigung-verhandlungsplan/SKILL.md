@@ -1,6 +1,6 @@
 ---
 name: ruecktritt-kuendigung-verhandlungsplan
-description: "Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen im BGB BT."
 ---
 
 # Workflow: Fristen, Rücktritt und Kündigung

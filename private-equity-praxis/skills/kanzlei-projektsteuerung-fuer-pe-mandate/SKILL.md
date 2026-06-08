@@ -1,6 +1,6 @@
 ---
 name: kanzlei-projektsteuerung-fuer-pe-mandate
-description: "Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe im Private Equity Praxis."
 ---
 
 # Kanzlei-Projektsteuerung für PE-Mandate

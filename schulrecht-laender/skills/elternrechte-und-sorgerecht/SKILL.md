@@ -1,6 +1,6 @@
 ---
 name: elternrechte-und-sorgerecht
-description: "Prüft Elternrechte bei gemeinsamer Sorge, Trennung und Information im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Elternrechte bei gemeinsamer Sorge, Trennung und Information im Schulrecht Länder."
 ---
 
 # Elternrechte Und Sorgerecht

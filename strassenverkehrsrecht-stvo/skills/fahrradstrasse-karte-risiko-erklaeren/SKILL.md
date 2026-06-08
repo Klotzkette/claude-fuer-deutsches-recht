@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-karte-risiko-erklaeren
-description: "StVO: Fahrradstraße: Karte bauen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Fahrradstraße: Karte bauen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Fahrradstrasse Karte Bauen

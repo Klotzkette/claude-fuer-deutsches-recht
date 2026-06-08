@@ -1,6 +1,6 @@
 ---
 name: rechnungspruefung-architekt
-description: "HOAI-Praxis: prüft Unternehmerrechnung, Aufmaß, Nachtrag, Skonto und Kostenkontrolle; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Unternehmerrechnung, Aufmaß, Nachtrag, Skonto und Kostenkontrolle; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft unternehmerrechnung

@@ -1,17 +1,9 @@
 ---
 name: gerichtliche-nachforderung-gerichtlicher
-description: "Gerichtliche Nachforderung Gerichtlicher im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Gläubiger mit Sicherheiten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gerichtliche Nachforderung Gerichtlicher im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Gläubiger mit Sicherheiten."
 ---
 
 # Gerichtliche Nachforderung Gerichtlicher
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gerichtliche-nachforderung` | Gerichtliche Nachforderung: Frist, Ergänzung, unvollständiger Antrag, Wiedervorlage und Belegdisziplin.; Normanker: InsO § 305; ZPO-Fristen analog über InsO § 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `gerichtlicher-schuldenbereinigungsplan` | Gerichtlicher Schuldenbereinigungsplan: Zustimmungsersetzung, Kopf-/Summenmehrheit, Einwendungen und taktischer Nutzen.; Normanker: InsO §§ 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `glaeubiger-mit-sicherheiten` | Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.; Normanker: InsO §§ 47 und 49 ff.; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Gerichtliche Nachforderung Gerichtlicher im Plugin Verbraucherinso
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gerichtliche-nachforderung`
 

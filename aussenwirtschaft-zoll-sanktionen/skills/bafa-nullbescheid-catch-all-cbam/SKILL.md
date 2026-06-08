@@ -1,6 +1,6 @@
 ---
 name: bafa-nullbescheid-catch-all-cbam
-description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verbindlichen Feststellung der Genehmigungsfreiheit einer Ausfuhr durch BAFA. Einsatz bei Unsicherheit ueber Listenpflichtigkeit oder Catch-All-Relevanz. Fragestellung, Antragsinhalt und Rechtsnatur des Nullbescheids. Abgrenzung zur VZTA. Output: Nullbescheid-Antrag und Verfahrensprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verbindlichen Feststellung der Genehmigungsfreiheit einer Ausfuhr durch BAFA. Einsatz bei Unsicherheit ueber Listenpflichtigkeit oder Catch-All-Relevanz. Fragestellung, Antragsinhalt und Rechtsnatur des Nullbescheids. Abgrenzung zur VZTA. Output: Nullbescheid-Antrag und Verfahrensprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit

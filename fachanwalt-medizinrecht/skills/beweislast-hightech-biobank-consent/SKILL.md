@@ -1,16 +1,9 @@
 ---
 name: beweislast-hightech-biobank-consent
-description: "Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkret Beweislast in Hightech-Medizin, Biobank Consent Withdrawal. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkret Beweislast in Hightech-Medizin, Biobank Consent Withdrawal."
 ---
 
 # Beweislast Hightech Biobank Consent
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beweislast-hightech-medizin` | Beweislast in Hightech-Medizin: moderner Medizinrechts-Skill für Black-Box-Gerät, KI, Vektorcharge, Registerdaten und Beweisnot im Arzthaftungsprozess. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `biobank-consent-withdrawal` | Biobank Consent Withdrawal: moderner Medizinrechts-Skill für Biobankprobe, Broad Consent, Widerruf, Forschungsnutzung und Rückmeldung von Zufallsbefunden. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Beweislast Hightech Biobank Consent im Medizinrecht: prüft konkre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beweislast-hightech-medizin`
 

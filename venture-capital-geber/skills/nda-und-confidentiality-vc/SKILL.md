@@ -1,6 +1,6 @@
 ---
 name: nda-und-confidentiality-vc
-description: "Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # NDA und Vertraulichkeit im VC-Deal

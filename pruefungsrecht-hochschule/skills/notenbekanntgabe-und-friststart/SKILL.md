@@ -1,6 +1,6 @@
 ---
 name: notenbekanntgabe-und-friststart
-description: "Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Pruefungsrecht Hochschule."
 ---
 
 # Notenbekanntgabe und Friststart

@@ -1,6 +1,6 @@
 ---
 name: globaler-minderausgabe-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Globaler Minderausgabe Titel Pruefen

@@ -1,6 +1,6 @@
 ---
 name: erstantwort-foermlich-mail
-description: "Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage

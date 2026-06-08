@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-mecklenburg-vorpommern
-description: "Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsrecht Mecklenburg Vorpommern

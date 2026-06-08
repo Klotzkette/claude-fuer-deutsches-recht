@@ -1,18 +1,9 @@
 ---
 name: expansion-auftakt-fehlzeit-erfassen
-description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft konkret Startet die Planung einer Neueinstellung in einem weiteren, Neue Abwesenheit oder neuen Urlaubseintrag im Register, Überprüft offene Abwesenheiten und Fristen –, Entgeltfor. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft konkret Startet die Planung einer Neueinstellung in einem weiteren, Neue Abwesenheit oder neuen Urlaubseintrag im Register, Überprüft offene Abwesenheiten und Fristen –, Entgeltfor."
 ---
 
 # Expansion Auftakt Fehlzeit Erfassen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `expansion-auftakt` | Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt "wir stellen in [Land/Region] ein", "Expansion nach [Land]" oder "erste Einstellung in [Land]". |
-| `fehlzeit-erfassen` | Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag. |
-| `fehlzeiten-register` | Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard. |
-| `handbuch-aktualisierung` | Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt "Handbuch aktualisieren", "neue Regelung einpflegen" oder "Richtlinie ändern". |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `expansion-auftakt`
 

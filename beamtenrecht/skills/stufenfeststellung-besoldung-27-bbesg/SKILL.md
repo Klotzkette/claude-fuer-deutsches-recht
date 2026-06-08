@@ -1,6 +1,6 @@
 ---
 name: stufenfeststellung-besoldung-27-bbesg
-description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage im Beamtenrecht."
 ---
 
 # Stufenfeststellung Besoldung nach § 27 BBesG

@@ -1,6 +1,6 @@
 ---
 name: beweisnot-eidesstattliche-erklaerung-zeugen
-description: "Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweisnot bei alten oder ausländischen Zeiten: Archivsuche, Arbeitgeberende, Zeugenerklärungen, Plausibilitätsketten und Grenzen im Rentenpruefer."
 ---
 
 # beweisnot-eidesstattliche-erklaerung-zeugen

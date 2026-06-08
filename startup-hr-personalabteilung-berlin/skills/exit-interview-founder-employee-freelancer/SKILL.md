@@ -1,6 +1,6 @@
 ---
 name: exit-interview-founder-employee-freelancer
-description: "Berliner Start-up-HR: Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Exit Interview Und Retention Lernen

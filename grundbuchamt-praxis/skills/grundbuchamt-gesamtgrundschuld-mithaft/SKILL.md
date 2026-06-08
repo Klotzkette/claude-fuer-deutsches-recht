@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-gesamtgrundschuld-mithaft
-description: "Prüft Mithaft mehrerer Grundstücke, Pfandfreigabe, Rang und Bankauflagen im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mithaft mehrerer Grundstücke, Pfandfreigabe, Rang und Bankauflagen im Grundbuchamt Praxis."
 ---
 
 # Gesamtgrundschuld

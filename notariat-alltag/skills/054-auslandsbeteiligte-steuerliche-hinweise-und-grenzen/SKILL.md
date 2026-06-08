@@ -1,6 +1,6 @@
 ---
 name: 054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen
-description: "Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen. Steuerliche Problembereiche bei Immobilien- und Gesellschaftsgeschäften mit Auslandsbezug, beschränkte Steuerpflicht und Notarhinweispflichten im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen. Steuerliche Problembereiche bei Immobilien- und Gesellschaftsgeschäften mit Auslandsbezug, beschränkte Steuerpflicht und Notarhinweispflichten im Notariat."
 ---
 
 # Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen

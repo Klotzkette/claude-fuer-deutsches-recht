@@ -1,17 +1,9 @@
 ---
 name: sammelantrag-gap-schriftsatzkern
-description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Landwirt muss jaehrlichen Sammelantrag für, Substantiierter Schriftsatzkern für Klage/Widerspruch im, Agrarrecht."
 ---
 
 # Sammelantrag GAP Schriftsatzkern
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `sammelantrag-gap-checkliste` | Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid. |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-agrarrecht-tatbestand-beweis-und-belege` | Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Sammelantrag GAP Schriftsatzkern im Agrarrecht: prüft konkret Lan
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `sammelantrag-gap-checkliste`
 
@@ -468,7 +460,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `spezial-agrarrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht.
 
 ### Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

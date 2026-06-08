@@ -1,19 +1,9 @@
 ---
 name: migration-selbststaendige-migrationsrecht
-description: "Migration Selbststaendige Migrationsrecht im Migrationsrecht: prüft konkret Selbstständige Migration, Migrationsrecht, Unbegleitete Minderjährige, Niederlassungserlaubnis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Migration Selbststaendige Migrationsrecht im Migrationsrecht: prüft konkret Selbstständige Migration, Migrationsrecht, Unbegleitete Minderjährige, Niederlassungserlaubnis."
 ---
 
 # Migration Selbststaendige Migrationsrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-migration-selbststaendige` | Selbstständige Migration: Fachmodul im Migrationsrecht; prüft wirtschaftliches Interesse, Finanzierung, Businessplan, Altersvorsorge; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-migrationsrecht-tatbestand-beweis-und-belege` | Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-minderjaehrige-unbegleitet` | Unbegleitete Minderjährige: Fachmodul im Migrationsrecht; prüft Alter, Jugendamt, Vormund, Dublin, Kindeswohl; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-niederlassungserlaubnis` | Niederlassungserlaubnis: Fachmodul im Migrationsrecht; prüft Zeiten, Beiträge, Sprach-/Integrationsanforderungen, Ausnahmen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-opfer-zeugen-menschenhandel` | Opfer/Zeugen/Menschenhandel: Fachmodul im Migrationsrecht; prüft Schutzstatus, Kooperation, Sicherheit, Sozialleistungen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Migration Selbststaendige Migrationsrecht im Migrationsrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-migration-selbststaendige`
 
@@ -54,7 +44,7 @@ description: "Migration Selbststaendige Migrationsrecht im Migrationsrecht: prü
 
 ## 2. `spezial-migrationsrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt migrationsrecht.
 
 ### Migrationsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

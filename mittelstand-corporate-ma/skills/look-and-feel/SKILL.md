@@ -1,6 +1,6 @@
 ---
 name: look-and-feel
-description: "Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup) im Mittelstand Corporate Ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup) im Mittelstand Corporate Ma."
 ---
 
 # Corporate-Cowork-Look

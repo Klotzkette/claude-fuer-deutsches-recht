@@ -1,18 +1,9 @@
 ---
 name: bautraeger-rechtswidrige-bauvertrag
-description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Rechtswidrige Anpassungsklauseln im Bautraegervertrag, Bauvertrag, Vertragstypen, Werkvertrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Rechtswidrige Anpassungsklauseln im Bautraegervertrag, Bauvertrag, Vertragstypen, Werkvertrag."
 ---
 
 # Bautraeger Rechtswidrige Bauvertrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-rechtswidrige-anpassungsklauseln` | Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Pruefraster. |
-| `spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine` | Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vertragstypen-red-team-und-qualitaetskontrolle` | Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-werkvertrag-dokumentenmatrix-und-lueckenliste` | Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Archi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-rechtswidrige-anpassungsklauseln`
 
@@ -66,7 +57,7 @@ description: "Bautraeger Rechtswidrige Bauvertrag im Plugin Fachanwalt Bau Archi
 
 ## 2. `spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht.
 
 ### Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -91,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vertragstypen-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht.
 
 ### Vertragstypen: Red-Team und Qualitätskontrolle
 
@@ -116,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-werkvertrag-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht.
 
 ### Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung
 

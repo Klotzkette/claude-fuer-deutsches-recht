@@ -1,6 +1,6 @@
 ---
 name: publikationsfreiheit-affiliation
-description: "Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Publikationsfreigabe, Affiliation, Drittmittelbindung und Wissenschaftsfreiheit im Hochschulrecht Länder."
 ---
 
 # Publikationsfreiheit und Affiliation

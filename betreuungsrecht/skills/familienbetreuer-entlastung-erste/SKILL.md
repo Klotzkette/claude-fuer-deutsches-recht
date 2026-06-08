@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-entlastung-erste
-description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz im Betreuungsrecht."
 ---
 
 # Familienbetreuer: Entlastung, Verhinderung, Wechsel

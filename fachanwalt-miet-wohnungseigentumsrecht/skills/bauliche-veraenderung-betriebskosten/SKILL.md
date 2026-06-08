@@ -1,19 +1,9 @@
 ---
 name: bauliche-veraenderung-betriebskosten
-description: "Bauliche Veraenderung Betriebskosten im Miet- und Wohnungseigentumsrecht: prüft konkret Bauliche-Veränderung-Routing, Betriebskosten-Schnellscan, Chronologie und Belegmatrix im Plugin, CO2-Kosten-Routing. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bauliche Veraenderung Betriebskosten im Miet- und Wohnungseigentumsrecht: prüft konkret Bauliche-Veränderung-Routing, Betriebskosten-Schnellscan, Chronologie und Belegmatrix im Plugin, CO2-Kosten-Routing."
 ---
 
 # Bauliche Veraenderung Betriebskosten
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-bauliche-veraenderung-routing` | Bauliche-Veränderung-Routing: Prüfungslinie für Miet- und WEG-Recht; ordnet § 20 WEG, Privilegierung, Kostenfolge und Gebrauchsnachteil; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-betriebskosten-schnellscan` | Betriebskosten-Schnellscan: Prüfungslinie für Miet- und WEG-Recht; entscheidet formeller Fehler, materieller Fehler, Belegeinsicht und Einwendungsfrist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-co2-kosten-routing` | CO2-Kosten-Routing: Prüfungslinie für Miet- und WEG-Recht; klärt Wohn-/Nichtwohngebäude, Stufenmodell, 50/50-Regel und Abrechnungsweg; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-datenschutz-hausverwaltung` | Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Bauliche Veraenderung Betriebskosten im Miet- und Wohnungseigentum
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-bauliche-veraenderung-routing`
 

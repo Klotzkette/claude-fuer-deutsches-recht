@@ -1,6 +1,6 @@
 ---
 name: gewerbeanmeldung
-description: "Hilft bei Gewerbeanmeldung, Erlaubnissen, IHK/HWK, Steuernummer, Nebengewerbe und Auflagen im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Gewerbeanmeldung, Erlaubnissen, IHK/HWK, Steuernummer, Nebengewerbe und Auflagen im Bürokratie-Entbürokratisierung."
 ---
 
 # Gewerbeanmeldung

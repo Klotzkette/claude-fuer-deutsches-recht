@@ -1,15 +1,9 @@
 ---
 name: zoll-plattformdurchsetzung
-description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmusterrecht."
 ---
 
 # Zoll Plattformdurchsetzung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zoll-und-plattformdurchsetzung` | Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produktmerkmale, Registerrecht, technische Prüfung, DSA, Marktplätze und Beweissicherung. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zoll Plattformdurchsetzung im Gebrauchsmusterrecht im Gebrauchsmus
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zoll-und-plattformdurchsetzung`
 

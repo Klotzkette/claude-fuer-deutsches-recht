@@ -1,6 +1,6 @@
 ---
 name: lph-05-risikoregister
-description: "HOAI LPH 5 Ausführungsplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 5 Ausführungsplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 5 Ausführungsplanung: Baut risiko-

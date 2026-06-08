@@ -1,6 +1,6 @@
 ---
 name: anwaltlicher-brief-bafza
-description: "Formuliert Schreiben im inhaltlichen Anerkennungsverfahren im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Schreiben im inhaltlichen Anerkennungsverfahren im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Anwaltlicher Brief BAFzA

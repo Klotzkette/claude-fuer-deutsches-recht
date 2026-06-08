@@ -1,6 +1,6 @@
 ---
 name: lehrmittel-und-lernmittelfreiheit
-description: "Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lernmittel, Kosten, digitale Geräte, Ausleihe und Schulträgerpflichten im Schulrecht Länder."
 ---
 
 # Lehrmittel und Lernmittelfreiheit

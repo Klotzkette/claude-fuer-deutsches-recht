@@ -1,6 +1,6 @@
 ---
 name: schufa-eintrag-scoring-negativeintrag
-description: "SCHUFA-Eintrag prüfen: führt Laien durch Auskunftei, Negativeintrag, Forderungsstreit, Löschung und Datenschutzbeschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "SCHUFA-Eintrag prüfen: führt Laien durch Auskunftei, Negativeintrag, Forderungsstreit, Löschung und Datenschutzbeschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # SCHUFA-Eintrag prüfen

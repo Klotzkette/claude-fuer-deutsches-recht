@@ -1,6 +1,6 @@
 ---
 name: belehrungspflicht-und-verbraucher-organisationspflicht-u
-description: "Notare: belehrungspflicht und verbraucher - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: belehrungspflicht und verbraucher - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: belehrungspflicht und verbraucher - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

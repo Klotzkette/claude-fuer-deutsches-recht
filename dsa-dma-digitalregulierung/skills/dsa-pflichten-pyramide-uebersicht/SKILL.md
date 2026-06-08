@@ -1,6 +1,6 @@
 ---
 name: dsa-pflichten-pyramide-uebersicht
-description: "Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele für Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflichtenpyramide DSA einfuehrend erklaeren: alle Vermittlungsdienste (Art. 11 ff. DSA), Hosting-Dienste, Online-Plattformen, VLOP (very large online platforms ab 45 Mio. EU-Nutzer). Jede Stufe baut auf der vorigen auf. Tabelle mit Pflichten je Stufe, Beispiele für Einordnung. Routet in dsa-vlop-vlose-einordnung-und-pflichten bei Einstufungsfragen im Dsa Dma Digitalregulierung."
 ---
 
 # DSA: Pflichtenpyramide

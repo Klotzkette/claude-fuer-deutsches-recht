@@ -1,6 +1,6 @@
 ---
 name: mappen-zahlen-schwellen-und-berechnung
-description: "Mappen: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mappen: Zahlen, Schwellenwerte und Berechnung im Vertragsausfueller."
 ---
 
 # Mappen: Zahlen, Schwellenwerte und Berechnung

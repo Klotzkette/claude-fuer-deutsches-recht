@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-rechtsbeschwerde-pruefe
-description: "Tierschutz-OWi: Rechtsbeschwerde prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tierschutz-OWi: Rechtsbeschwerde prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Tierschutz Owi Rechtsbeschwerde Pruefe

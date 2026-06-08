@@ -1,6 +1,6 @@
 ---
 name: koalitionssignale-kommunalwahlkampf
-description: "Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren im Wahlkampfrecht."
 ---
 
 # Koalitionssignale Und Rote Linien

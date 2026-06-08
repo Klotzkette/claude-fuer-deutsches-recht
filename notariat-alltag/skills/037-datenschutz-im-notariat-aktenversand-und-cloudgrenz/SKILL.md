@@ -1,6 +1,6 @@
 ---
 name: 037-datenschutz-im-notariat-aktenversand-und-cloudgrenz
-description: "Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. DSGVO-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. DSGVO-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung im Notariat."
 ---
 
 # Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen

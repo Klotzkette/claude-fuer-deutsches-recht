@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-risikoampel-und-gegenargumente
-description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
 ---
 
 # Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien

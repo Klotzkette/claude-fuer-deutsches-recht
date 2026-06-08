@@ -1,6 +1,6 @@
 ---
 name: dokumentenmatrix-status
-description: "Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage im Sozialversicherungsstatus Pruefer."
 ---
 
 # Dokumentenmatrix Statusakte

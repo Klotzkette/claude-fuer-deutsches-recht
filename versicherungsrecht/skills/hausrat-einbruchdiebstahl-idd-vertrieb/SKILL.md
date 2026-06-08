@@ -1,6 +1,6 @@
 ---
 name: hausrat-einbruchdiebstahl-idd-vertrieb
-description: "Hausratversicherung bei Einbruchdiebstahl, Raub, Trickdiebstahl, Wertsachen, Außenversicherung, Unterversicherung und Stehlgutliste im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hausratversicherung bei Einbruchdiebstahl, Raub, Trickdiebstahl, Wertsachen, Außenversicherung, Unterversicherung und Stehlgutliste im Versicherungsrecht."
 ---
 
 # Hausrat: Einbruchdiebstahl und Entschädigungsgrenzen

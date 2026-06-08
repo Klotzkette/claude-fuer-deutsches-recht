@@ -1,6 +1,6 @@
 ---
 name: befehl-und-gewissenskonflikt
-description: "Routet akute Befehlsgewissenskonflikte neben dem KDV-Verfahren im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet akute Befehlsgewissenskonflikte neben dem KDV-Verfahren im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Befehl und Gewissenskonflikt

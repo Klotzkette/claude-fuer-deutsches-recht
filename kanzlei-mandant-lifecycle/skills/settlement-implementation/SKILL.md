@@ -1,6 +1,6 @@
 ---
 name: settlement-implementation
-description: "Settlement Implementation: steuert Vergleich umgesetzt bekommen: Zahlung, Verpflichtungen, Kommunikation, Monitoring und Closeout zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Settlement Implementation: steuert Vergleich umgesetzt bekommen: Zahlung, Verpflichtungen, Kommunikation, Monitoring und Closeout zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Settlement Implementation

@@ -1,6 +1,6 @@
 ---
 name: ordnungsmassnahmen-parteiausschluss
-description: "Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage im Parteienrecht."
 ---
 
 # Ordnungsmaßnahmen

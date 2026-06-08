@@ -1,6 +1,6 @@
 ---
 name: dienstpflichten-waehrend-verfahren
-description: "Minimiert Disziplinarrisiken während laufendem KDV-Antrag im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Minimiert Disziplinarrisiken während laufendem KDV-Antrag im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Dienstpflichten im Verfahren

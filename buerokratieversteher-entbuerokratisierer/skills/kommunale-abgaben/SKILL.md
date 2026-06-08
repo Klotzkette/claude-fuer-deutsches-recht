@@ -1,6 +1,6 @@
 ---
 name: kommunale-abgaben
-description: "Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette im Bürokratie-Entbürokratisierung."
 ---
 
 # Kommunale Abgaben

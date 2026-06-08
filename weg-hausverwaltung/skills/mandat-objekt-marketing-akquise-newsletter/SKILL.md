@@ -1,17 +1,9 @@
 ---
 name: mandat-objekt-marketing-akquise-newsletter
-description: "Mandat Objekt Marketing Akquise Newsletter im Plugin Weg Hausverwaltung: prüft konkret Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026), Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026), Eigentuemerinfo vs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandat Objekt Marketing Akquise Newsletter im Plugin Weg Hausverwaltung: prüft konkret Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026), Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026), Eigentuemerinfo vs."
 ---
 
 # Mandat Objekt Marketing Akquise Newsletter
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mandat-objekt-triage` | Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026): Objekt, Rollen, Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Abrechnungen, Vermögensbericht, Angebote, Fristen, Risiken und nächsten Workflow. Identifiziert Fristen aus § 45 WEG, § 556 BGB sowie GEG-/CO2KostAufG-Schnittstellen. |
-| `marketing-akquise-neue-weg-mandate` | Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026): Pitch-Bestandteile, Honorarmatrix, Verwaltervertrag nach § 26 WEG, Uebernahme-Uebergabe-Checkliste und Wettbewerbsgrenzen. BGH V ZR 251/21 zur Sondervergütung. |
-| `marketing-newsletter-eigentuemerkommunikation` | Eigentuemerinfo vs. E-Mail-Werbung klar trennen (Stand 06/2026): § 7 UWG Double-Opt-In, Einwilligungspflicht, Versicherungswerbung nach § 34d GewO, DSGVO Art. 6. BGH VI ZR 225/17 zu unerlaubter E-Mail-Werbung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Mandat Objekt Marketing Akquise Newsletter im Plugin Weg Hausverwa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mandat-objekt-triage`
 

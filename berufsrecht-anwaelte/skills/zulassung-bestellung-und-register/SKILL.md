@@ -1,6 +1,6 @@
 ---
 name: zulassung-bestellung-und-register
-description: "Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Anwälte; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Anwälte; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Zulassung, Bestellung und Register

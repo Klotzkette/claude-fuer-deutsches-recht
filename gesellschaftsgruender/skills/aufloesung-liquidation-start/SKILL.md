@@ -1,6 +1,6 @@
 ---
 name: aufloesung-liquidation-start
-description: "Prüft geordnete Beendigung einer jungen Gesellschaft: Beschluss, Liquidatoren, Sperrjahr, Register, Gläubiger im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft geordnete Beendigung einer jungen Gesellschaft: Beschluss, Liquidatoren, Sperrjahr, Register, Gläubiger im Gesellschaftsgruender."
 ---
 
 # Auflösung und Liquidation Start

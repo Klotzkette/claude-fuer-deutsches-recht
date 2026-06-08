@@ -1,6 +1,6 @@
 ---
 name: regulator-zahlen-schwellen-und-berechnung
-description: "Regulator: Zahlen, Schwellenwerte und Berechnung im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regulator: Zahlen, Schwellenwerte und Berechnung im Plugin regulatorisches recht im Regulatorisches Recht."
 ---
 
 # Regulator: Zahlen, Schwellenwerte und Berechnung

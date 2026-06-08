@@ -1,6 +1,6 @@
 ---
 name: versand-aus-deutschland-zoll-tracking
-description: "Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits im Us Copyright Registrierung Verlag."
 ---
 
 # Versand aus Deutschland, Zoll und Tracking

@@ -1,6 +1,6 @@
 ---
 name: client-segmentation
-description: "Segmentiert Mandanten nach Wert, Marge, Risiko, Zahlungsdisziplin und Nervenkosten. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Segmentiert Mandanten nach Wert, Marge, Risiko, Zahlungsdisziplin und Nervenkosten. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Mandantensegmentierung

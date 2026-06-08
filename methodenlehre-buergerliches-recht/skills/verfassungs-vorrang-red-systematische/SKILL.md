@@ -1,19 +1,9 @@
 ---
 name: verfassungs-vorrang-red-systematische
-description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill strukturiert die Kommunikation von, Dieses Skill führt eine methodische Red-Team-Analyse und, Systematische Auslegung im deutschen Zivilrecht, Dieses Skill schult die Fähigkeit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill strukturiert die Kommunikation von, Dieses Skill führt eine methodische Red-Team-Analyse und, Systematische Auslegung im deutschen Zivilrecht, Dieses Skill schult die Fähigkeit."
 ---
 
 # Verfassungs Vorrang RED Systematische
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage` | Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill bearbeitet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung. |
-| `spezial-vorrang-red-team-und-qualitaetskontrolle` | Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern? |
-| `systematische-auslegung` | Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster für das System-Element. |
-| `systemkritik-begriffsfallen` | Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik eingesetzt wird, um diese Fallen aufzudecken. Besonderes Gewicht liegt auf der systematischen Kontrolle scheinbar selbstverständlicher Rechtsbegriffe durch Wortlautanalyse, historische Genese und Systemkohärenz. |
-| `systemtheorie-luhmann-rechtssystem-autopoiese` | Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen für die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung). |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage`
 

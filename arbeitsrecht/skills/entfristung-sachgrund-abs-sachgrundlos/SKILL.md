@@ -1,18 +1,9 @@
 ---
 name: entfristung-sachgrund-abs-sachgrundlos
-description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: prüft konkret Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach §, Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: prüft konkret Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach §, Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14."
 ---
 
 # Entfristung Sachgrund ABS Sachgrundlos
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast. |
-| `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
-| `entfristung-sachgrundlos-14-abs-2a-neugruendung` | Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen. |
-| `entfristung-sachgrundlos-14-abs-3-aelter-52` | Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `entfristung-sachgrund-pruefen-14-abs-1`
 

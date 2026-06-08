@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-bremen-routen
-description: "Kommunalrecht der Länder: Kommunalrecht Bremen routen. Kommunalrecht Bremen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Kommunalrecht Bremen routen. Kommunalrecht Bremen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Kommunalrecht Bremen Routen

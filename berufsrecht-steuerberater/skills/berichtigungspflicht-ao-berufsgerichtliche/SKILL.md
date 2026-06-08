@@ -1,6 +1,6 @@
 ---
 name: berichtigungspflicht-ao-berufsgerichtliche
-description: "Steuerberater: berichtigungspflicht 153 ao - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: berichtigungspflicht 153 ao - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: berichtigungspflicht 153 ao - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: inso-gerichtliche-aufsichtswege
-description: "Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast im Insolvenzrecht."
 ---
 
 # Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien

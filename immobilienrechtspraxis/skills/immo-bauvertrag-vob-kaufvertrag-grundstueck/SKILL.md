@@ -1,6 +1,6 @@
 ---
 name: immo-bauvertrag-vob-kaufvertrag-grundstueck
-description: "Bauvertrag nach VOB-B oder BGB §§ 650a ff. BGB: Wahl Recht, Abnahme, Maengelrechte, Sicherheiten, Vergutung Stundenlohnarbeiten, Nachtraege. Pruefraster für beide Vertragstypen im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauvertrag nach VOB-B oder BGB §§ 650a ff. BGB: Wahl Recht, Abnahme, Maengelrechte, Sicherheiten, Vergutung Stundenlohnarbeiten, Nachtraege. Pruefraster für beide Vertragstypen im Immobilienrechtspraxis."
 ---
 
 # Bauvertrag VOB-B / BGB

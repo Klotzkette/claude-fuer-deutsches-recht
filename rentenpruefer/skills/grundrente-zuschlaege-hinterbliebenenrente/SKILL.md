@@ -1,6 +1,6 @@
 ---
 name: grundrente-zuschlaege-hinterbliebenenrente
-description: "Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten im Rentenpruefer."
 ---
 
 # grundrente-und-zuschlaege

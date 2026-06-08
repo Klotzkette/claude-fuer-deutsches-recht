@@ -1,6 +1,6 @@
 ---
 name: amts-aktenintake-zivil-anspruchsgrundlagen
-description: "Amts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Amts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Amts: Fristen, Form, Zuständigkeit und Rechtsweg

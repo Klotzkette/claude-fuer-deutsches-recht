@@ -1,6 +1,6 @@
 ---
 name: one-page-roadmap
-description: "Erstellt eine einseitige Roadmap von Idee bis Eintragung und operativem Start im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt eine einseitige Roadmap von Idee bis Eintragung und operativem Start im Gesellschaftsgruender."
 ---
 
 # One-Page-Gründungsroadmap

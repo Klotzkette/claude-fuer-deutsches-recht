@@ -1,17 +1,9 @@
 ---
 name: erhaltung-modernisierung-kfw-foerderung
-description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltung: prüft konkret Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltung: prüft konkret Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen."
 ---
 
 # Erhaltung Modernisierung KFW Förderung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `erhaltung-modernisierung-baumaengel` | Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen. |
-| `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln. |
-| `abrechnung-ist-plan-mieterschnittstelle` | Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `erhaltung-modernisierung-baumaengel`
 

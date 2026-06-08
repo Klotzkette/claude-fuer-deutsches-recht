@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrechtsverletzung-durch-reaction-video
-description: "Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Videos – allgemeines Persönlichkeitsrecht, KUG, Zitatrecht, UrhG und Haftung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Videos – allgemeines Persönlichkeitsrecht, KUG, Zitatrecht, UrhG und Haftung im Influencer-Recht."
 ---
 
 # Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Video

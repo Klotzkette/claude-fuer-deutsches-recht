@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-outsourcing-organisationspflich
-description: "Anwälte: verschwiegenheit cloud outsourcing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: verschwiegenheit cloud outsourcing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: verschwiegenheit cloud outsourcing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

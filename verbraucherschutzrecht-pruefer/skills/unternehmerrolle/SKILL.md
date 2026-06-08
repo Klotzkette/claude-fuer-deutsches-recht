@@ -1,6 +1,6 @@
 ---
 name: unternehmerrolle
-description: "Verbraucherschutzrecht Prüfer: Unternehmerrolle und Plattformrolle prüfen. Unternehmerrolle und Plattformrolle prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Unternehmerrolle und Plattformrolle prüfen. Unternehmerrolle und Plattformrolle prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Unternehmerrolle Und Plattformrolle Pr

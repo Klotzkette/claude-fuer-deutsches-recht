@@ -1,15 +1,9 @@
 ---
 name: memo-zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memorandum-Erstellung im Memorandums Ersteller."
 ---
 
 # Memo Zitierung Mandantenkommunikation Entscheidungsvorlage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-zitierung-mandantenkommunikation-entscheidungsvorlage` | Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -19,11 +13,11 @@ description: "Memo Zitierung Mandantenkommunikation Entscheidungsvorlage im Memo
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage, Kurzergebnis, Begründung, Risiko, Empfehlung), Akteneinsichtsantrag, Vollmacht, Honorarvereinbarung, Tatsachenpaket — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-zitierung-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller.
 
 ### Zitierung: Mandantenkommunikation und Entscheidungsvorlage
 

@@ -1,6 +1,6 @@
 ---
 name: interessenkollision
-description: "Interessenkollision: vertiefter Berufsrechts-Skill für Notare; prüft Konfliktprüfung, Mandatsannahme, Sozietätswechsel und Tätigkeitsverbote, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Interessenkollision: vertiefter Berufsrechts-Skill für Notare; prüft Konfliktprüfung, Mandatsannahme, Sozietätswechsel und Tätigkeitsverbote, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Interessenkollision

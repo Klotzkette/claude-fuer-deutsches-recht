@@ -1,6 +1,6 @@
 ---
 name: sampling-pastiche-remix
-description: "Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG, Zitat, Karikatur, Parodie, Pastiche und Bearbeitung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sampling und kreative Nachnutzung nach Pelham, § 51a UrhG, Zitat, Karikatur, Parodie, Pastiche und Bearbeitung im Urheberrecht De Eu."
 ---
 
 # Sampling, Pastiche, Remix und Parodie

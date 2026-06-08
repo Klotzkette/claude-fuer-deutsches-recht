@@ -1,6 +1,6 @@
 ---
 name: ueberschuldungspruefung-19-inso
-description: "Prüfungslinie für stb ueberschuldungspruefung 19 inso im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für stb ueberschuldungspruefung 19 inso im Steuerrecht Anwalt Und Berater."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)

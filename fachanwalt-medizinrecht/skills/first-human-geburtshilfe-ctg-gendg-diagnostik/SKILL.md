@@ -1,18 +1,9 @@
 ---
 name: first-human-geburtshilfe-ctg-gendg-diagnostik
-description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: prüft konkret First-in-Human Risk Board, Geburtshilfe CTG und Sectio, GenDG Diagnostik und Einwilligung, Genomdaten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: prüft konkret First-in-Human Risk Board, Geburtshilfe CTG und Sectio, GenDG Diagnostik und Einwilligung, Genomdaten."
 ---
 
 # First Human Geburtshilfe CTG Gendg Diagnostik
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `first-in-human-riskboard` | First-in-Human Risk Board: moderner Medizinrechts-Skill für Erstgabe am Menschen, Dosissteigerung, Sentinel-Dosing, Stop-Regeln und Krisenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `geburtshilfe-ctg-sectio` | Geburtshilfe CTG und Sectio: moderner Medizinrechts-Skill für Pathologisches CTG, Entscheidungs-Entbindungszeit, Hebammen-/Ärzteteam und grober Fehler. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `gendg-diagnostik-einwilligung` | GenDG Diagnostik und Einwilligung: moderner Medizinrechts-Skill für Diagnostische genetische Untersuchung, Schriftlichkeit, Arztvorbehalt und Befundkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `genomdaten-ehds-biobank` | Genomdaten, EHDS und Biobank: moderner Medizinrechts-Skill für Genomdaten für Forschung, Biobank, Secondary Use, Gesundheitsdatenzugang und Widerruf. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "First Human Geburtshilfe CTG Gendg Diagnostik im Medizinrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `first-in-human-riskboard`
 

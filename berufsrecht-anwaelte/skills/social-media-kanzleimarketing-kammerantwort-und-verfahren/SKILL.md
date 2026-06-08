@@ -1,6 +1,6 @@
 ---
 name: social-media-kanzleimarketing-kammerantwort-und-verfahren
-description: "Anwälte: social media kanzleimarketing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: social media kanzleimarketing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: social media kanzleimarketing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: first-day-motions
-description: "Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors im US Bankruptcy Code."
 ---
 
 # First-Day Motions

@@ -1,6 +1,6 @@
 ---
 name: elternzeit-mutterschutz-pflegezeit
-description: "Berliner Start-up-HR: Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Elternzeit Mutterschutz Pflegezeit

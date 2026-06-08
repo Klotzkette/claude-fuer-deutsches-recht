@@ -1,6 +1,6 @@
 ---
 name: wochenreview
-description: "Solo-Selbstständige: führt ein 30-Minuten-Wochenreview für Geld, Kunden, Belege und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: führt ein 30-Minuten-Wochenreview für Geld, Kunden, Belege und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Büro Alltag und Tools: Führt ein 30-minuten-wochenreview für geld

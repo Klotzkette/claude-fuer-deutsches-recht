@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-vorpruefung
-description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

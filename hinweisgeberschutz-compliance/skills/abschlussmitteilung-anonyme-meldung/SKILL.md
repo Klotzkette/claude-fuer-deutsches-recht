@@ -1,6 +1,6 @@
 ---
 name: abschlussmitteilung-anonyme-meldung
-description: "Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Abschlussmitteilung an Hinweisgeber im Hinweisgeberschutz Compliance."
 ---
 
 # Abschlussmitteilung

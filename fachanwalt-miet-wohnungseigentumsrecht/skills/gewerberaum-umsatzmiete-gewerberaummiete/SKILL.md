@@ -1,19 +1,9 @@
 ---
 name: gewerberaum-umsatzmiete-gewerberaummiete
-description: "Gewerberaum Umsatzmiete Gewerberaummiete im Miet- und Wohnungseigentumsrecht: prüft konkret Umsatzmiete, Gewerberaummiete, Glasfaser/Kabel-TV, Härtefall § 574 BGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gewerberaum Umsatzmiete Gewerberaummiete im Miet- und Wohnungseigentumsrecht: prüft konkret Umsatzmiete, Gewerberaummiete, Glasfaser/Kabel-TV, Härtefall § 574 BGB."
 ---
 
 # Gewerberaum Umsatzmiete Gewerberaummiete
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-gewerberaum-umsatzmiete` | Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine` | Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-glasfaser-kabel-tv` | Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-haertefall-574-bgb` | Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-hausmeisterkosten` | Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen; mit Beleg- und Stundenlistenprüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Gewerberaum Umsatzmiete Gewerberaummiete im Miet- und Wohnungseige
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-gewerberaum-umsatzmiete`
 

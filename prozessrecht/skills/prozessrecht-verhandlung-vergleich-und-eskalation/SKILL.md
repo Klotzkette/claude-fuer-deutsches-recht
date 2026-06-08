@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-verhandlung-vergleich-und-eskalation
-description: "Prozessrecht: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prozessrecht: Verhandlung, Vergleich und Eskalation im Prozessrecht."
 ---
 
 # Prozessrecht: Verhandlung, Vergleich und Eskalation

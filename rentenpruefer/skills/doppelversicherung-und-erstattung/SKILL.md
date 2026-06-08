@@ -1,6 +1,6 @@
 ---
 name: doppelversicherung-und-erstattung
-description: "Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Doppelversicherung, Fehlbeiträge und Erstattung: DRV, Versorgungswerk, Arbeitgebermeldungen und Rückabwicklung im Rentenpruefer."
 ---
 
 # doppelversicherung-und-erstattung

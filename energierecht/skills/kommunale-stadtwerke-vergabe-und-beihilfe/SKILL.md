@@ -1,6 +1,6 @@
 ---
 name: kommunale-stadtwerke-vergabe-und-beihilfe
-description: "Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss im Energierecht."
 ---
 
 # Kommunale Stadtwerke, Vergabe und Beihilfe

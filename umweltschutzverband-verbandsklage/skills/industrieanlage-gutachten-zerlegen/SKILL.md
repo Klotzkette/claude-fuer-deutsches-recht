@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-gutachten-zerlegen
-description: "Umweltschutzverband Verbandsklage: Industrieanlage: Gutachten zerlegen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Industrieanlage: Gutachten zerlegen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Industrieanlage Gutachten Zerlegen

@@ -1,6 +1,6 @@
 ---
 name: dekompilierung-interoperabilitaet-devops
-description: "Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede im Softwarerecht De Eu Us."
 ---
 
 # Dekompilierung und Interoperabilität

@@ -1,6 +1,6 @@
 ---
 name: sanitaetsdienst-und-waffenloser-dienst
-description: "Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Sanitätsdienst und waffenloser Dienst

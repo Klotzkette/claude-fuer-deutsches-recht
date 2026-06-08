@@ -1,6 +1,6 @@
 ---
 name: coach-trainer-program-drittpersonal-security
-description: "Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Coach Trainer Seminarleiter

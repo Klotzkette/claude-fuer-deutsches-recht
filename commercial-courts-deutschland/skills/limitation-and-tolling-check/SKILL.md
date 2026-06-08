@@ -1,6 +1,6 @@
 ---
 name: limitation-and-tolling-check
-description: "Prüft Verjährung, Hemmung, Standstill, Klageerhebung, Zustellung demnächst und internationale Limitation Issues im Commercial Courts Deutschland. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verjährung, Hemmung, Standstill, Klageerhebung, Zustellung demnächst und internationale Limitation Issues im Commercial Courts Deutschland."
 ---
 
 # Limitation and Tolling

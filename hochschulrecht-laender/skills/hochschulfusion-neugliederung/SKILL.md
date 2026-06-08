@@ -1,6 +1,6 @@
 ---
 name: hochschulfusion-neugliederung
-description: "Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht im Hochschulrecht Länder."
 ---
 
 # Hochschulfusion und Neugliederung

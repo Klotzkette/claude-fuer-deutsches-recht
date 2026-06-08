@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-sozialversicherung
-description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Vollzug tracken im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Kommunaler Finanztransfer Vollzug Trac

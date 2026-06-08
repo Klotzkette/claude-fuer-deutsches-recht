@@ -1,6 +1,6 @@
 ---
 name: ki-im-notariat-grenzen-organisationspflicht-und-praevent
-description: "Notare: ki im notariat grenzen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: ki im notariat grenzen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: ki im notariat grenzen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

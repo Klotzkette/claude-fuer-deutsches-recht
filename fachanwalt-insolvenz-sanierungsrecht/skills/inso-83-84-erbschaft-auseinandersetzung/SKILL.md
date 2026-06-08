@@ -1,6 +1,6 @@
 ---
 name: inso-83-84-erbschaft-auseinandersetzung
-description: "Inso P083 Erbschaft P084 Auseinandersetzung im Insolvenz- und Sanierungsrecht: prüft konkret § 83 InsO Erbschaft, § 84 InsO Auseinandersetzung einer Gesellschaft oder, § 85 InsO Aufnahme von Aktivprozessen im Mandat prüfen, § 86 InsO Aufnahme bestimmter Passivprozesse im Mandat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P083 Erbschaft P084 Auseinandersetzung im Insolvenz- und Sanierungsrecht: prüft konkret § 83 InsO Erbschaft, § 84 InsO Auseinandersetzung einer Gesellschaft oder, § 85 InsO Aufnahme von Aktivprozessen im Mandat prüfen, § 86 InsO Aufnahme bestimmter Passivprozesse im Mandat."
 ---
 
 # Inso P083 Erbschaft P084 Auseinandersetzung
@@ -8,32 +8,6 @@ description: "Inso P083 Erbschaft P084 Auseinandersetzung im Insolvenz- und Sani
 ## Arbeitsbereich
 
 **Inso P083 Erbschaft P084 Auseinandersetzung** ordnet den Fall über die tragenden Prüfungslinien: § 83 InsO (Erbschaft, § 84 InsO (Auseinandersetzung einer Gesellschaft oder, § 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p083-erbschaft-fortgesetzte-gutergemeinschaft` | § 83 InsO (Erbschaft. Fortgesetzte Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p084-auseinandersetzung-einer-gesellschaft-oder-gemeinschaf` | § 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p085-aufnahme-von-aktivprozessen` | § 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p086-aufnahme-bestimmter-passivprozesse` | § 86 InsO (Aufnahme bestimmter Passivprozesse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p087-forderungen-der-insolvenzglaubiger` | § 87 InsO (Forderungen der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p089-vollstreckungsverbot` | § 89 InsO (Vollstreckungsverbot) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p090-vollstreckungsverbot-bei-masseverbindlichkeiten` | § 90 InsO (Vollstreckungsverbot bei Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p091-ausschluss-sonstigen-rechtserwerbs` | § 91 InsO (Ausschluß sonstigen Rechtserwerbs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p094-erhaltung-einer-aufrechnungslage` | § 94 InsO (Erhaltung einer Aufrechnungslage) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p096-unzulassigkeit-der-aufrechnung` | § 96 InsO (Unzulässigkeit der Aufrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p097-auskunfts-und-mitwirkungspflichten-des-schuldners` | § 97 InsO (Auskunfts- und Mitwirkungspflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p098-durchsetzung-der-pflichten-des-schuldners` | § 98 InsO (Durchsetzung der Pflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p099-postsperre` | § 99 InsO (Postsperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p100-unterhalt-aus-der-insolvenzmasse` | § 100 InsO (Unterhalt aus der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p101-organschaftliche-vertreter-angestellte` | § 101 InsO (Organschaftliche Vertreter. Angestellte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p102-einschrankung-eines-grundrechts` | § 102 InsO (Einschränkung eines Grundrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p103-wahlrecht-des-insolvenzverwalters` | § 103 InsO (Wahlrecht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p105-teilbare-leistungen` | § 105 InsO (Teilbare Leistungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p106-vormerkung` | § 106 InsO (Vormerkung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p107-eigentumsvorbehalt` | § 107 InsO (Eigentumsvorbehalt) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p108-fortbestehen-bestimmter-schuldverhaltnisse` | § 108 InsO (Fortbestehen bestimmter Schuldverhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P083 Erbschaft P084 Auseinandersetzung im Insolvenz- und Sani
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p083-erbschaft-fortgesetzte-gutergemeinschaft`
 

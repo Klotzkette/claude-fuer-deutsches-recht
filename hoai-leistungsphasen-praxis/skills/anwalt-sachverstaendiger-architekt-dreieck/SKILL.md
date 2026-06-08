@@ -1,6 +1,6 @@
 ---
 name: anwalt-sachverstaendiger-architekt-dreieck
-description: "HOAI-Praxis: koordiniert Rollen ohne Verantwortungsvermischung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: koordiniert Rollen ohne Verantwortungsvermischung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung

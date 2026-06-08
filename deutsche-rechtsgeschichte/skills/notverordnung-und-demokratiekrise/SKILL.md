@@ -1,6 +1,6 @@
 ---
 name: notverordnung-und-demokratiekrise
-description: "Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 1930-1933. Art. 48 WRV in der Praxis, Praesidialkabinette Bruening, Papen, Schleicher, Notverordnungsflut und legaler Weg zur NS-Machtergreifung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 1930-1933. Art. 48 WRV in der Praxis, Praesidialkabinette Bruening, Papen, Schleicher, Notverordnungsflut und legaler Weg zur NS-Machtergreifung im Deutsche Rechtsgeschichte."
 ---
 
 # Notverordnung und Demokratiekrise (1930-1933)

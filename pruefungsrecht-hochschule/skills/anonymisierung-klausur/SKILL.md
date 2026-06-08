@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-klausur
-description: "Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler im Pruefungsrecht Hochschule."
 ---
 
 # Anonymisierung der Klausur

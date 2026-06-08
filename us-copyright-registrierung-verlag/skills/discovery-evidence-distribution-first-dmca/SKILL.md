@@ -1,6 +1,6 @@
 ---
 name: discovery-evidence-distribution-first-dmca
-description: "Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege im Us Copyright Registrierung Verlag."
 ---
 
 # Discovery and Evidence Copyright

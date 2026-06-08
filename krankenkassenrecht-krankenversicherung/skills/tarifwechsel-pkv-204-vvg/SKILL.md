@@ -1,6 +1,6 @@
 ---
 name: tarifwechsel-pkv-204-vvg
-description: "Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mitnahme der Altersrückstellungen, Risikoprüfung und Durchsetzung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mitnahme der Altersrückstellungen, Risikoprüfung und Durchsetzung im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Tarifwechsel PKV: § 204 VVG

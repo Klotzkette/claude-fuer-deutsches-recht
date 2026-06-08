@@ -1,6 +1,6 @@
 ---
 name: 027-archaisches-formularrecht-legis-actiones-vertiefen
-description: "Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Römisches Recht."
 ---
 
 # Rom Archaisches Formularrecht Legis Actiones Vertiefen

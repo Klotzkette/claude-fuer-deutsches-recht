@@ -1,6 +1,6 @@
 ---
 name: mutterschutz-elternzeit-nachfolgeplanung
-description: "AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Mutterschutz Elternzeit Pflege 84 Abs 3; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Mutterschutz Elternzeit Pflege 84 Abs 3

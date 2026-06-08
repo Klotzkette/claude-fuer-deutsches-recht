@@ -1,6 +1,6 @@
 ---
 name: ausfuehrungen-formular-portal-und-einreichung
-description: "Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Ausfuehrungen: Formular, Portal und Einreichungslogik

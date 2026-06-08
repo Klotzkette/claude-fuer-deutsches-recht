@@ -1,6 +1,6 @@
 ---
 name: exemptions-522
-description: "Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections im US Bankruptcy Code."
 ---
 
 # Exemptions § 522

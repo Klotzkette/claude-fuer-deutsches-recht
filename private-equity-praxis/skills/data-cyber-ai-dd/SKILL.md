@@ -1,6 +1,6 @@
 ---
 name: data-cyber-ai-dd
-description: "Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten im Private Equity Praxis."
 ---
 
 # Data, Cyber und AI Due Diligence

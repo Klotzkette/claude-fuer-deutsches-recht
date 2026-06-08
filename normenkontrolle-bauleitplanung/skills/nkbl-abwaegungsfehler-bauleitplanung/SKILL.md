@@ -1,6 +1,6 @@
 ---
 name: nkbl-abwaegungsfehler-bauleitplanung
-description: "Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster für Klage im Normenkontrolle Bauleitplanung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster für Klage im Normenkontrolle Bauleitplanung."
 ---
 
 # NkBl: Abwaegungsfehler

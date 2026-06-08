@@ -1,6 +1,6 @@
 ---
 name: faq-fuer-mitarbeiter
-description: "Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schreibt verständliche Mitarbeiter-FAQ im Hinweisgeberschutz Compliance."
 ---
 
 # FAQ Fuer Mitarbeiter

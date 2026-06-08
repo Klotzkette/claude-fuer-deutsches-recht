@@ -1,6 +1,6 @@
 ---
 name: journalist-publizist
-description: "Prüft freie journalistische/publizistische Tätigkeit, Redaktionseinbindung, KSK und arbeitnehmerähnliche Risiken im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft freie journalistische/publizistische Tätigkeit, Redaktionseinbindung, KSK und arbeitnehmerähnliche Risiken im Sozialversicherungsstatus Pruefer."
 ---
 
 # Journalist und Publizist

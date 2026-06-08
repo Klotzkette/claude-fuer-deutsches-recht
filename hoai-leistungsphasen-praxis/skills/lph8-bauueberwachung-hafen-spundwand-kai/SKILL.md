@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-hafen-spundwand-kai
-description: "Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Hafen Spundwand und Kai

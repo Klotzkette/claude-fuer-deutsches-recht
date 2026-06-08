@@ -1,6 +1,6 @@
 ---
 name: robotik-qualitaetsmanagement-robotikhersteller-accuracy
-description: "Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft QM-System eines Robotikherstellers: Design Control, CAPA, Change Control, Lieferantensteuerung und Post-Market-Daten im Robotik-Recht."
 ---
 
 # QM Robotikhersteller

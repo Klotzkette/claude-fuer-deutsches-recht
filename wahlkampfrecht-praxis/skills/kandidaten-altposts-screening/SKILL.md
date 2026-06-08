@@ -1,6 +1,6 @@
 ---
 name: kandidaten-altposts-screening
-description: "Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen im Wahlkampfrecht."
 ---
 
 # Kandidaten Altposts Screening

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-und-kyc
-description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Steuerberater; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geldwäsche und KYC: vertiefter Berufsrechts-Skill für Steuerberater; prüft Risikomanagement, Identifizierung, Verdachtsmeldung und Dokumentation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Geldwäsche und KYC

@@ -1,6 +1,6 @@
 ---
 name: dienstvertrag-werkvertrag-freie-mitarbeit
-description: "Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen im Sozialversicherungsstatus Pruefer."
 ---
 
 # Dienst-/Werkvertrag im Statusrecht

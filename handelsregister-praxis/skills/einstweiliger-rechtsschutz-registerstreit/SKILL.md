@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-registerstreit
-description: "Plant Schutz gegen drohende Eintragung, Verzögerung, Registersperre, Gesellschafterlistenstreit und Vollzugsschäden im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Schutz gegen drohende Eintragung, Verzögerung, Registersperre, Gesellschafterlistenstreit und Vollzugsschäden im Handelsregister Praxis."
 ---
 
 # Eilrechtsschutz bei Registerstillstand

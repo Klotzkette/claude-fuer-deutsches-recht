@@ -1,21 +1,9 @@
 ---
 name: due-diligence-employment-esg-executive-summary
-description: "DUE Diligence Employment ESG Executive Summary im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Commercial Contracts Due Diligence im M&A-Datenraum, Legal Due Diligence im M&A-Prozess, Due Diligence Report erstellen und strukturieren, Employment. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DUE Diligence Employment ESG Executive Summary im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Commercial Contracts Due Diligence im M&A-Datenraum, Legal Due Diligence im M&A-Prozess, Due Diligence Report erstellen und strukturieren, Employment."
 ---
 
 # DUE Diligence Employment ESG Executive Summary
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `grosskanzlei-corporate-ma-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln, Kündigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules. |
-| `grosskanzlei-corporate-ma-due-diligence-legal` | Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting. |
-| `grosskanzlei-corporate-ma-due-diligence-reporting` | Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht für Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Prüfraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial für Einzelanalysen. |
-| `grosskanzlei-corporate-ma-employment-works-council-613a` | Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung. |
-| `grosskanzlei-corporate-ma-environmental-esg-compliance-dd` | Environmental, ESG und Compliance DD für M&A: prueft Umweltgenehmigungen, Lieferketten, Sanktionen, Anti-Korruption, ESG-Offenlegung und Reputationsrisiken. |
-| `grosskanzlei-corporate-ma-exclusivity-no-shop-process-discipline` | Exclusivity, No-Shop und Prozessdisziplin Skill: entwirft und prueft Exklusivitaet, Break Fees, Fiduciary Out, Prozessverstoss und Kommunikationsregeln. |
-| `grosskanzlei-corporate-ma-executive-summary-onepager` | Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "DUE Diligence Employment ESG Executive Summary im Corporate/M&A (G
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `grosskanzlei-corporate-ma-due-diligence-commercial-contracts`
 

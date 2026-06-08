@@ -1,19 +1,9 @@
 ---
 name: geduldete-beschaeftigung-identitaetsklaerung
-description: "Geduldete Beschaeftigung Identitaetsklaerung im Migrationsrecht: prüft konkret Geduldete Beschäftigung, Identitätsklärung, Kindeswohl/Familie, Laienmodus Migrationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Geduldete Beschaeftigung Identitaetsklaerung im Migrationsrecht: prüft konkret Geduldete Beschäftigung, Identitätsklärung, Kindeswohl/Familie, Laienmodus Migrationsrecht."
 ---
 
 # Geduldete Beschaeftigung Identitaetsklaerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-geduldete-beschaeftigung` | Geduldete Beschäftigung: Prüfungslinie für Migrationsrecht; prüft Arbeitserlaubnis, Identität, Voraufenthalt, Lebensunterhalt und Spurwechsel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-identitaetsklaerung` | Identitätsklärung: Prüfungslinie für Migrationsrecht; führt durch Passbeschaffung, Mitwirkung, Zumutbarkeit und Beweisalternativen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-kindeswohl-familie` | Kindeswohl/Familie: Prüfungslinie für Migrationsrecht; prüft Art. 6 GG, Art. 8 EMRK, Schule, Sorge, Umgang und Trennung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-laienmodus-migration` | Laienmodus Migrationsrecht: Prüfungslinie für Migrationsrecht; erklärt Bescheide, Aufenthaltstitel, Fristen und Risiken verständlich und handlungsnah; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-migrationsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Geduldete Beschaeftigung Identitaetsklaerung im Migrationsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-geduldete-beschaeftigung`
 

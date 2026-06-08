@@ -1,6 +1,6 @@
 ---
 name: waerme-dokumentenmatrix-und-lueckenliste
-description: "Waerme: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Waerme: Dokumentenmatrix, Lückenliste und Nachforderung im Energierecht."
 ---
 
 # Waerme: Dokumentenmatrix, Lückenliste und Nachforderung

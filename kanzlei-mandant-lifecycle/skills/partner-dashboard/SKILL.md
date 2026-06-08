@@ -1,6 +1,6 @@
 ---
 name: partner-dashboard
-description: "Partner Dashboard: steuert Mandatsverantwortliche Partnerin sieht Budget, Team, Qualität, Mandantenzufriedenheit und Haftungsrisiken zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Partner Dashboard: steuert Mandatsverantwortliche Partnerin sieht Budget, Team, Qualität, Mandantenzufriedenheit und Haftungsrisiken zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Partner Dashboard

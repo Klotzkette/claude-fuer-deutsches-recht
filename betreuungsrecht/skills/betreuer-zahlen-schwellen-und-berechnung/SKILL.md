@@ -1,6 +1,6 @@
 ---
 name: betreuer-zahlen-schwellen-und-berechnung
-description: "Betreuer: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betreuer: Zahlen, Schwellenwerte und Berechnung im Betreuungsrecht."
 ---
 
 # Betreuer: Zahlen, Schwellenwerte und Berechnung

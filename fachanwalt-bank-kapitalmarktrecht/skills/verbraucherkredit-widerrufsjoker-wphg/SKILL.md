@@ -1,17 +1,9 @@
 ---
 name: verbraucherkredit-widerrufsjoker-wphg
-description: "Verbraucherkredit Widerrufsjoker Wphg im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Verbraucherkredit, Widerrufsjoker, Wphg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verbraucherkredit Widerrufsjoker Wphg im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Verbraucherkredit, Widerrufsjoker, Wphg."
 ---
 
 # Verbraucherkredit Widerrufsjoker Wphg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verbraucherkredit-verhandlung-vergleich-und-eskalation` | Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-widerrufsjoker-formular-portal-und-einreichung` | Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-wphg-dokumentenmatrix-und-lueckenliste` | Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,16 +30,16 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verbraucherkredit-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Verbraucherkredit: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verbraucherkredit: Verhandlung, Vergleich und Eskalation
-- **Konkreter Gegenstand:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -70,12 +62,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-widerrufsjoker-formular-portal-und-einreichung`
 
-**Fokus:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Widerrufsjoker: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Widerrufsjoker: Formular, Portal und Einreichungslogik
-- **Konkreter Gegenstand:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -98,12 +90,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-wphg-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Wphg: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Wphg: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Konkreter Gegenstand:** Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

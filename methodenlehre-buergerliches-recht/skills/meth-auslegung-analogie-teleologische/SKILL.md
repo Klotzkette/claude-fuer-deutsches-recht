@@ -1,19 +1,9 @@
 ---
 name: meth-auslegung-analogie-teleologische
-description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buergerliches Recht: prüft konkret Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlic. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buergerliches Recht: prüft konkret Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlic."
 ---
 
 # Meth Auslegung Analogie Teleologische
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `meth-auslegung-vertrag-leitfaden` | Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden. |
-| `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht. |
-| `methodenehrlichkeit-ideologiekritik-check` | Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächliche Überzeugungskraft zu überprüfen. Geeignet für wissenschaftliche Urteilskritik und anwaltliche Gegenargumentation. |
-| `systemwechsel-und-methodenakrobatik` | Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen. |
-| `abwaegung-gewichtung-intensitaet` | Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingriffstiefe. Das Skill führt durch die Schritte der Abwägungsjurisprudenz im Zivilrecht und hilft dabei, Schutzwürdigkeit, Verhältnismäßigkeit und praktische Konkordanz nachvollziehbar zu machen. Geeignet für Gutachten, Schriftsätze und Risikoprüfungen mit Grundrechts- oder Verfassungsbezug. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `meth-auslegung-vertrag-leitfaden`
 

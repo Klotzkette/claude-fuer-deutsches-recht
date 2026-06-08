@@ -1,6 +1,6 @@
 ---
 name: lieferantenqualifizierung-sensor
-description: "Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lieferantenqualifizierung für Sensoren, Aktoren, Batterien, Cloud, KI-Modell, FOSS und Wartung im Robotik-Recht."
 ---
 
 # Lieferantenqualifizierung Sensor Cloud

@@ -1,6 +1,6 @@
 ---
 name: luftfracht-mandantenmemo-schreiben
-description: "Anwalt schreibt Mandantenmemo für Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt schreibt Mandantenmemo für Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
 ---
 
 # Luftfracht – Mandantenmemo schreiben

@@ -1,19 +1,9 @@
 ---
 name: dpa-template-tom-dpia-summary
-description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret English language Data Processing Agreement (DPA) template, English language technical and organisational measures, Concise English DPIA management summary aligned with Art, Full English DPIA template aligned with Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret English language Data Processing Agreement (DPA) template, English language technical and organisational measures, Concise English DPIA management summary aligned with Art, Full English DPIA template aligned with Art."
 ---
 
 # DPA Template TOM Dpia Summary
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dpa-en-template-controller-processor` | English language Data Processing Agreement (DPA) template under Article 28 GDPR between a controller and a processor. Use when the contract language is English (cross-border deals UK Ireland US providers) and the parties require a stand-alone DPA. Output is a complete English DPA template covering all eight mandatory items of Article 28 (3) GDPR. |
-| `dpa-en-tom-annex-template` | English language technical and organisational measures (TOM) annex template for a DPA under Article 32 GDPR. Covers pseudonymisation encryption confidentiality integrity availability resilience recoverability and regular testing. Output: complete English TOM annex template suitable for ISO 27001 SOC 2 and BSI C5 alignment. |
-| `dpia-en-summary-for-management` | Concise English DPIA management summary aligned with Art. 35 GDPR for board executive committee or non-legal stakeholders. Output: one-pager covering processing necessity risk measures residual risk approval recommendation. |
-| `dpia-en-template-full-version` | Full English DPIA template aligned with Art. 35 GDPR covering description necessity proportionality risk to data subjects measures residual risk approval. Output: ready-to-fill DPIA template in English for cross-border or English-speaking deployments. |
-| `drittlandstransfer-pruefung` | Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzung: nicht für innereuroaeischen Datenaustausch. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dpa-en-template-controller-processor`
 

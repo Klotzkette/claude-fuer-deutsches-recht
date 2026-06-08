@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-beweismittel-offenlegung-nutzen-kommunikation
-description: "Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Beweismittel Offenlegung Nutzen

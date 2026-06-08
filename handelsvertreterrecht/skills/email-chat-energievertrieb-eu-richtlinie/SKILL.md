@@ -1,6 +1,6 @@
 ---
 name: email-chat-energievertrieb-eu-richtlinie
-description: "Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung im Handelsvertreterrecht."
 ---
 
 # E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit

@@ -1,6 +1,6 @@
 ---
 name: europarecht-anwendbarkeit-hausarbeiten
-description: "Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Prüfraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Output Europarecht-Prüfungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG) im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Prüfraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Output Europarecht-Prüfungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG) im Hausarbeitenmacher."
 ---
 
 # Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung

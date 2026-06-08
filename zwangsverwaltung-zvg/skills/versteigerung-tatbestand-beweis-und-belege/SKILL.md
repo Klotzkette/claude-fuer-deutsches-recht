@@ -1,6 +1,6 @@
 ---
 name: versteigerung-tatbestand-beweis-und-belege
-description: "Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage

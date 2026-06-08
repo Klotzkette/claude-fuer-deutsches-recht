@@ -1,6 +1,6 @@
 ---
 name: fragebogen-input-leitfaden
-description: "Leitfaden Fragebogen-Input für Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Pruefraster für UX-Tests im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Fragebogen-Input für Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Pruefraster für UX-Tests im Vertragsausfueller."
 ---
 
 # VAF: Fragebogen-Input

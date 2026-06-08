@@ -1,6 +1,6 @@
 ---
 name: niederschrift-aufstellungsversammlung-online
-description: "Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen im Parteienrecht."
 ---
 
 # Niederschrift Aufstellungsversammlung

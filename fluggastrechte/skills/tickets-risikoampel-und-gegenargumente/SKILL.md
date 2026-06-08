@@ -1,6 +1,6 @@
 ---
 name: tickets-risikoampel-und-gegenargumente
-description: "Tickets: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tickets: Risikoampel, Gegenargumente und Verteidigungslinien im Fluggastrechte."
 ---
 
 # Tickets: Risikoampel, Gegenargumente und Verteidigungslinien

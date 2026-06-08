@@ -1,6 +1,6 @@
 ---
 name: 059-kaufpreisfaelligkeit-bei-altlasten-baulasten-und-mi
-description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht im Notariat."
 ---
 
 # Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten, Mietverträgen

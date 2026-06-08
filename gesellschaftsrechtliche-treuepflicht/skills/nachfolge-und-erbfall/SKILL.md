@@ -1,6 +1,6 @@
 ---
 name: nachfolge-und-erbfall
-description: "Gesellschaftsrechtliche Treuepflicht: Nachfolge Und Erbfall; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Nachfolge Und Erbfall; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Nachfolge Und Erbfall

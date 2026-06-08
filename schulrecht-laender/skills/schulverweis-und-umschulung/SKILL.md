@@ -1,6 +1,6 @@
 ---
 name: schulverweis-und-umschulung
-description: "Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion im Schulrecht Länder."
 ---
 
 # Schulverweis Und Umschulung

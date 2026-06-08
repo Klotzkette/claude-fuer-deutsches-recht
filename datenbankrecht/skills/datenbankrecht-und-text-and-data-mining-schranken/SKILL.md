@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-text-and-data-mining-schranken
-description: "Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer im Datenbankrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer im Datenbankrecht."
 ---
 
 # Text- und Data-Mining-Schranken im Datenbankrecht — §§ 44b und 60d UrhG

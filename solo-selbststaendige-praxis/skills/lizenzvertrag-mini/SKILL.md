@@ -1,6 +1,6 @@
 ---
 name: lizenzvertrag-mini
-description: "Solo-Selbstständige: erstellt kleine Lizenz mit Laufzeit, Gebiet, Vergütung und Audit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt kleine Lizenz mit Laufzeit, Gebiet, Vergütung und Audit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # IP Content und Arbeitsergebnisse: Erstellt kleine lizenz mit laufzeit

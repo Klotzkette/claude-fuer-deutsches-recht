@@ -1,19 +1,9 @@
 ---
 name: weg-wirtschaftsplan-zahlen-zerstrittene
-description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnungseigentumsrecht: prüft konkret WEG Wirtschaftsplan, WEG, Zerstrittene Gemeinschaft, Werkmietwohnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnungseigentumsrecht: prüft konkret WEG Wirtschaftsplan, WEG, Zerstrittene Gemeinschaft, Werkmietwohnung."
 ---
 
 # Spezial WEG Wirtschaftsplan Zahlen Zerstrittene
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-weg-wirtschaftsplan` | WEG Wirtschaftsplan: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vorschüsse, Rücklage, Sonderumlage, Liquidität; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-zahlen-schwellen-und-berechnung` | WEG: Zahlen, Schwellenwerte und Berechnung im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-weg-zerstrittene-gemeinschaft` | Zerstrittene Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht; entwickelt Befriedungsplan, Beschlussreihenfolge, Mediation, Klagerisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-werkmietwohnung` | Werkmietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Dienstverhältnis, Kündigung, Sozialschutz, Räumung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wohnflaechenabweichung` | Wohnflächenabweichung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Berechnung, Toleranz, Minderung, Mieterhöhung, Betriebskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Spezial WEG Wirtschaftsplan Zahlen Zerstrittene im Miet- und Wohnu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-weg-wirtschaftsplan`
 

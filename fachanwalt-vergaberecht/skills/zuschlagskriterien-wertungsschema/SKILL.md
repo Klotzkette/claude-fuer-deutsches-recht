@@ -1,18 +1,9 @@
 ---
 name: zuschlagskriterien-wertungsschema
-description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberecht: prüft konkret Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberecht: prüft konkret Zuschlagskriterien und Wertungsschema im Vergabeverfahren, Foerdermittelvergaben und Rueckforderungsrisiken pruefen, KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren."
 ---
 
 # Zuschlagskriterien Wertungsschema
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` | Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
-| `foerdermittelvergabe-rueckforderung` | Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern. |
-| `ki-beschaffung-ai-act-daten-cloud` | KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung. |
-| `leistungsbeschreibung-neutralitaet-funktional` | Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Zuschlagskriterien Wertungsschema im Plugin Fachanwalt Vergaberech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema`
 

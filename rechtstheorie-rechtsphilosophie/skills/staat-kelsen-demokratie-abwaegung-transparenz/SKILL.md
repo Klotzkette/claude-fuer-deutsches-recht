@@ -1,17 +1,9 @@
 ---
 name: staat-kelsen-demokratie-abwaegung-transparenz
-description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent."
 ---
 
 # Staat Kelsen Demokratie Abwaegung Transparenz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `staat-als-ordnungsmacht-anti-autoritaerer-check` | Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz. |
-| `kelsen-demokratie-verfahren-minderheitenschutz` | Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation. |
-| `abwaegung-transparenz-rationalitaet` | Macht Abwaegungen transparent: Material, Gewichtung, Intensität, Kontrollmaßstab, Abwaegungslast und Ergebnisoffenheit. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `staat-als-ordnungsmacht-anti-autoritaerer-check`
 

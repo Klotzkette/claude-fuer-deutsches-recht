@@ -1,17 +1,9 @@
 ---
 name: ar-aufhebungsvertrag-konkurrenzklausel
-description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeitsrecht: prüft konkret Aufhebungsvertrag in der Praxis, Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog, Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeitsrecht: prüft konkret Aufhebungsvertrag in der Praxis, Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog, Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB."
 ---
 
 # AR Aufhebungsvertrag Konkurrenzklausel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ar-aufhebungsvertrag-praxis` | Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden. |
-| `ar-konkurrenzklausel-spezial` | Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel. |
-| `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` | Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ar-aufhebungsvertrag-praxis`
 

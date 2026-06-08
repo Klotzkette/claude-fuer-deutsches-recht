@@ -1,6 +1,6 @@
 ---
 name: dokument-upload-dolmetscher-uebersetzung
-description: "Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit im Bürokratie-Entbürokratisierung."
 ---
 
 # Dokument-Upload Erste Hilfe

@@ -1,6 +1,6 @@
 ---
 name: teilabnahme-bgb-650s
-description: "HOAI-Praxis: prüft Teilabnahme ab letzter Unternehmerleistung und Haftungsfolgen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Teilabnahme ab letzter Unternehmerleistung und Haftungsfolgen; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen

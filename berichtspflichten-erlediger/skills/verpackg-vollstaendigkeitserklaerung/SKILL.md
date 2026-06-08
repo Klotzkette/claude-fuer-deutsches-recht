@@ -1,6 +1,6 @@
 ---
 name: verpackg-vollstaendigkeitserklaerung
-description: "Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vollständigkeitserklärung nach VerpackG: Schwellen, Mengen, Prüfer, Abgabe und Korrektur im Berichtspflichten."
 ---
 
 # VerpackG Vollständigkeitserklärung

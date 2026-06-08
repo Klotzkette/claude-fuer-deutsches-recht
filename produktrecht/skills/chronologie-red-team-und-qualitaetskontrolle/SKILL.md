@@ -1,6 +1,6 @@
 ---
 name: chronologie-red-team-und-qualitaetskontrolle
-description: "Chronologie: Red-Team und Qualitätskontrolle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chronologie: Red-Team und Qualitätskontrolle im Produktrecht."
 ---
 
 # Chronologie: Red-Team und Qualitätskontrolle

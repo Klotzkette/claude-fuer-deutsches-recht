@@ -1,6 +1,6 @@
 ---
 name: nda-mit-non-solicit-abgrenzung
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Mit Non Solicit Abgrenzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Mit Non Solicit Abgrenzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # NDA Mit Non Solicit Abgrenzung

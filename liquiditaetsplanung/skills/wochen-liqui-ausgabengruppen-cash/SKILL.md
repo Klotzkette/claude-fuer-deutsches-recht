@@ -1,17 +1,9 @@
 ---
 name: wochen-liqui-ausgabengruppen-cash
-description: "Wochen Liqui Ausgabengruppen Cash im Plugin Liquiditaetsplanung: prüft konkret Wochen, Ausgabengruppen systematisch erfassen, Cash-Pooling im Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wochen Liqui Ausgabengruppen Cash im Plugin Liquiditaetsplanung: prüft konkret Wochen, Ausgabengruppen systematisch erfassen, Cash-Pooling im Konzern."
 ---
 
 # Wochen Liqui Ausgabengruppen Cash
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-wochen-fristen-form-und-zuständigkeit` | Wochen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `liqui-ausgabengruppen-systematik` | Ausgabengruppen systematisch erfassen: Personal (Lohn, SV, LSt), Material/Wareneinsatz, Miete, Energie, Versicherungen, Beratungs-/Anwaltskosten, Steuerzahlungen, Investitionen, Zinsen, Tilgung. Vorlage Tabelle. |
-| `liqui-cash-pooling-konzern` | Cash-Pooling im Konzern: rechtliche Risiken Existenzvernichtung BGH II ZR 78/06, Sanierungstauglichkeit, Pruefung Avale gegen Konzerngesellschaften, Steuerrisiken § 8b KStG. Output: Cash-Pool-Risiko-Memo. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Wochen Liqui Ausgabengruppen Cash im Plugin Liquiditaetsplanung: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-wochen-fristen-form-und-zuständigkeit`
 
-**Fokus:** Wochen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wochen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin liquiditaetsplanung.
 
 ### Wochen: Fristen, Form, Zuständigkeit und Rechtsweg
 

@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-kommunikation-schrei
-description: "Messegesellschaft: Kommunikation schreiben im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Messegesellschaft: Kommunikation schreiben im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Messegesellschaft Kommunikation Schrei

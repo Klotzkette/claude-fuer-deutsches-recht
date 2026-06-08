@@ -1,6 +1,6 @@
 ---
 name: fake-shop-und-chargeback
-description: "Fake-Shop und Chargeback: führt Laien durch Betrugsnaher Online-Kauf, Kontaktsperre, Zahlungsrückholung und Anzeigeentscheidung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fake-Shop und Chargeback: führt Laien durch Betrugsnaher Online-Kauf, Kontaktsperre, Zahlungsrückholung und Anzeigeentscheidung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Fake-Shop und Chargeback

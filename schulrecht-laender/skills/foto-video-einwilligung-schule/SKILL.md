@@ -1,6 +1,6 @@
 ---
 name: foto-video-einwilligung-schule
-description: "Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schulische Öffentlichkeitsarbeit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bilder, Videos, Klassenchat, Einwilligungen, DSGVO und schulische Öffentlichkeitsarbeit im Schulrecht Länder."
 ---
 
 # Foto, Video und Einwilligung Schule

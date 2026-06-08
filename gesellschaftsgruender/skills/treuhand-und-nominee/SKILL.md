@@ -1,6 +1,6 @@
 ---
 name: treuhand-und-nominee
-description: "Prüft Treuhand, wirtschaftlich Berechtigte, Stimmrechte, Steuer- und GwG-Risiken im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Treuhand, wirtschaftlich Berechtigte, Stimmrechte, Steuer- und GwG-Risiken im Gesellschaftsgruender."
 ---
 
 # Treuhand/Nominee-Strukturen

@@ -1,6 +1,6 @@
 ---
 name: troubled-portfolio-rescue
-description: "Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Troubled Portfolio Rescue

@@ -1,6 +1,6 @@
 ---
 name: online-technischer-open-book-plagiatssoftware
-description: "Prüft technische Fehler in Online-Prüfungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technische Fehler in Online-Prüfungen im Pruefungsrecht Hochschule."
 ---
 
 # Online Pruefung Technischer Fehler

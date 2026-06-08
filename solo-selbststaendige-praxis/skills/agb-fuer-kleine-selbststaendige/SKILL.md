@@ -1,6 +1,6 @@
 ---
 name: agb-fuer-kleine-selbststaendige
-description: "Solo-Selbstständige: erstellt schlanke AGB ohne unwirksame Überdehnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: erstellt schlanke AGB ohne unwirksame Überdehnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung

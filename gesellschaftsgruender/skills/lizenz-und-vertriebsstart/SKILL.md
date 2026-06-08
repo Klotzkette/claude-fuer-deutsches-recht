@@ -1,6 +1,6 @@
 ---
 name: lizenz-und-vertriebsstart
-description: "Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung im Gesellschaftsgruender."
 ---
 
 # Lizenz- und Vertriebsstart

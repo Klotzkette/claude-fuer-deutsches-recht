@@ -1,6 +1,6 @@
 ---
 name: siec-test-eu-merger-control
-description: "SIEC-Test EU Fusionskontrolle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft horizontale, vertikale, konglomerate und potenzielle Wettbewerbswirkungen strukturieren, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "SIEC-Test EU Fusionskontrolle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft horizontale, vertikale, konglomerate und potenzielle Wettbewerbswirkungen strukturieren, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # SIEC-Test EU Fusionskontrolle

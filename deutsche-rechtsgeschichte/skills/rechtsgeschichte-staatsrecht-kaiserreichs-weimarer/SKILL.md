@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-staatsrecht-kaiserreichs-weimarer
-description: "Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule im Deutsche Rechtsgeschichte."
 ---
 
 # Staatsrecht des Deutschen Kaiserreichs

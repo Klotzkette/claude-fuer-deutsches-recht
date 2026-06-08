@@ -1,17 +1,9 @@
 ---
 name: beweismittel-vorab-dokumenten-erzeugung
-description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amtsgericht: prüft konkret Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amtsgericht: prüft konkret Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG."
 ---
 
 # Beweismittel Vorab Dokumenten Erzeugung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beweismittel-vorab-sammeln-checkliste` | Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist. |
-| `dokumenten-erzeugung-pdf-laien-amtsgericht` | PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools. |
-| `dolmetscher-185-gvg` | Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch auf Dolmetscher Verfahrenssprache deutsch Kosten Eil-Antrag bei Sprachbarriere. Praktischer Leitfaden für Selbstvertreter mit nicht-Deutsch als Muttersprache. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beweismittel-vorab-sammeln-checkliste`
 

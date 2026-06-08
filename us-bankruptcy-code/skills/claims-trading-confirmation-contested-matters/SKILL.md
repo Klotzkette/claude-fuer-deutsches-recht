@@ -1,6 +1,6 @@
 ---
 name: claims-trading-confirmation-contested-matters
-description: "Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy im US Bankruptcy Code."
 ---
 
 # Claims Trading Rule 3001(e)

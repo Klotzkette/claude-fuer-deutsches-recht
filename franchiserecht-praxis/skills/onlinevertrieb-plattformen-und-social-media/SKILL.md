@@ -1,6 +1,6 @@
 ---
 name: onlinevertrieb-plattformen-und-social-media
-description: "Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen im Franchiserecht."
 ---
 
 # Franchiserecht: Online-Vertrieb, Plattformen und Social Media

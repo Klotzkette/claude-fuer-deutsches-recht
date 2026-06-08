@@ -1,6 +1,6 @@
 ---
 name: d-and-o-fuer-einzelne
-description: "Solo-Selbstständige: klärt wann D&O/Managementhaftung bei UG/GmbH sinnvoll wird; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: klärt wann D&O/Managementhaftung bei UG/GmbH sinnvoll wird; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Versicherung Haftung und Risiko: Klärt wann d&o/managementhaftung bei ug/gmbh sinnvoll wird

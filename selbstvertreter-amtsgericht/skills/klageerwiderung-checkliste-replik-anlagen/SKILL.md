@@ -1,17 +1,9 @@
 ---
 name: klageerwiderung-checkliste-replik-anlagen
-description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am Amtsgericht: prüft konkret Vollständige Checkliste für die Klageerwiderung, Anlagen-Nummerierung in Klageerwiderung und Replik korrekt, Bezeichnung Sortierung und Beifuegung von Anlagen zur. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am Amtsgericht: prüft konkret Vollständige Checkliste für die Klageerwiderung, Anlagen-Nummerierung in Klageerwiderung und Replik korrekt, Bezeichnung Sortierung und Beifuegung von Anlagen zur."
 ---
 
 # Klageerwiderung Checkliste Replik Anlagen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `klageerwiderung-checkliste-alle-punkte` | Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt eine Antwort Sachverhaltsstellung Bestreiten Einreden Beweisanbietung Antrag auf Klage-Abweisung. Strukturierte Vorgehensweise für den Beklagten ohne Anwalt. |
-| `klageerwiderung-replik-anlagen-b1-b2-fortlaufend` | Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren. |
-| `klageschrift-anlagen-bezeichnen` | Bezeichnung Sortierung und Beifuegung von Anlagen zur Klageschrift. K1 K2 K3 für Klaeger B1 B2 B3 für Beklagter. Anlagenverzeichnis Leseführung im Sachvortrag und Vorbereitung der Abschriften für Gericht und Beklagten. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `klageerwiderung-checkliste-alle-punkte`
 

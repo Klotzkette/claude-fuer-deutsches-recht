@@ -1,6 +1,6 @@
 ---
 name: drittmittel-overhead-und-ip
-description: "Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Drittmittelvertrag, Overhead, Rechte, Publikation und Haushaltsbindung im Hochschulrecht Länder."
 ---
 
 # Drittmittel, Overhead und IP

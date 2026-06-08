@@ -1,6 +1,6 @@
 ---
 name: games-software-gebuehren-paygov-government
-description: "Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses im Us Copyright Registrierung Verlag."
 ---
 
 # Games, Software und AV Assets

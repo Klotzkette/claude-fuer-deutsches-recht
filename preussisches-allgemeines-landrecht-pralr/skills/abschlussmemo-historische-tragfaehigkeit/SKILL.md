@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-historische-tragfaehigkeit
-description: "PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Abschlussmemo

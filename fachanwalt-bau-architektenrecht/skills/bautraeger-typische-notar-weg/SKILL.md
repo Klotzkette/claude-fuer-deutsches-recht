@@ -1,18 +1,9 @@
 ---
 name: bautraeger-typische-notar-weg
-description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Typische Notar-Fehler im Bautraegervertrag, WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag, WEG-Erstverwalter-Bestellung beim Bautraegervertrag, WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Typische Notar-Fehler im Bautraegervertrag, WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag, WEG-Erstverwalter-Bestellung beim Bautraegervertrag, WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen."
 ---
 
 # Bautraeger Typische Notar WEG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-typische-notar-fehler-checkliste` | Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klaerung. |
-| `bautraeger-weg-abgeschlossenheitsbescheinigung` | WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster. |
-| `bautraeger-weg-erstverwalter-bestellung` | WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Pruefraster. |
-| `bautraeger-weg-gemeinschaftsordnung-pruefen` | WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Typische Notar WEG im Plugin Fachanwalt Bau Architekten
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-typische-notar-fehler-checkliste`
 

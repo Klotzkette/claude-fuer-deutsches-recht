@@ -1,6 +1,6 @@
 ---
 name: loeschfristen
-description: "Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert Löschung und Archivierung von HinSchG-Akten im Hinweisgeberschutz Compliance."
 ---
 
 # Loeschfristen

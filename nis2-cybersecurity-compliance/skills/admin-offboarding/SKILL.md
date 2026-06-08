@@ -1,6 +1,6 @@
 ---
 name: admin-offboarding
-description: "Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel im Nis2 Cybersecurity Compliance."
 ---
 
 # Admin Offboarding

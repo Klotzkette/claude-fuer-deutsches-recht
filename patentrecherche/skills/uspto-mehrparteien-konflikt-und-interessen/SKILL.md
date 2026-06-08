@@ -1,6 +1,6 @@
 ---
 name: uspto-mehrparteien-konflikt-und-interessen
-description: "USPTO: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "USPTO: Mehrparteienkonflikt und Interessenmatrix im Patentrecherche."
 ---
 
 # USPTO: Mehrparteienkonflikt und Interessenmatrix

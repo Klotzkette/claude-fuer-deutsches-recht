@@ -1,6 +1,6 @@
 ---
 name: copyright-royalty-board-ch8
-description: "Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen im Us Copyright Registrierung Verlag."
 ---
 
 # Copyright Royalty Board Chapter 8

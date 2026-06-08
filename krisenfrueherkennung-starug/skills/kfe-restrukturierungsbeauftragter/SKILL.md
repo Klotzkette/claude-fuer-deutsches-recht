@@ -1,6 +1,6 @@
 ---
 name: kfe-restrukturierungsbeauftragter
-description: "Spezialfall Restrukturierungsbeauftragter §§ 73 ff. StaRUG: Bestellung, Aufgaben, Haftung, Kosten. Pruefraster für Geschaeftsleitung und Glaeubigerausschuss im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Restrukturierungsbeauftragter §§ 73 ff. StaRUG: Bestellung, Aufgaben, Haftung, Kosten. Pruefraster für Geschaeftsleitung und Glaeubigerausschuss im Krisenfrueherkennung Starug."
 ---
 
 # KFE: Restrukturierungsbeauftragter

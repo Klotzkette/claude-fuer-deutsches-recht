@@ -1,6 +1,6 @@
 ---
 name: quorum-und-betroffenengruppe
-description: "Verbraucherschutzverband Durchsetzung: Quorum und Betroffenengruppe. Quorum und Betroffenengruppe im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Quorum und Betroffenengruppe. Quorum und Betroffenengruppe im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Quorum Und Betroffenengruppe

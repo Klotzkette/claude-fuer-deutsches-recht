@@ -1,18 +1,9 @@
 ---
 name: faktenbank-untersuchung-abfrage-ergaenzen
-description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: prüft konkret Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche, Beantwortet Fragen gegen ein laufendes, Fügt einer laufenden internen Untersuchung neue Daten hinzu, Befragu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: prüft konkret Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche, Beantwortet Fragen gegen ein laufendes, Fügt einer laufenden internen Untersuchung neue Daten hinzu, Befragu."
 ---
 
 # Faktenbank Untersuchung Abfrage Ergaenzen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle. |
-| `untersuchung-abfrage` | Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der Anwalt das Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln durchlesen zu müssen. |
-| `untersuchung-ergaenzen` | Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen. Verarbeitet Dokumentenpakete anhand dokumentierter Auswahlkriterien, markiert relevante Funde und protokolliert alles Gesichtete zur Deckungsverifikation. Lädt, wenn neue Beweise, Befragungsnotizen oder Dokumentenlieferungen für eine laufende Untersuchung eingehen. |
-| `untersuchung-eroeffnen` | Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `rechtsstand-mai-2026-faktenbank`
 

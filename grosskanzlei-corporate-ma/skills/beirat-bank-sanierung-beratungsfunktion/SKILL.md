@@ -1,21 +1,9 @@
 ---
 name: beirat-bank-sanierung-beratungsfunktion
-description: "Beirat Bank Sanierung Beratungsfunktion im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beirat Bank Sanierung Beratungsfunktion im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma."
 ---
 
 # Beirat Bank Sanierung Beratungsfunktion
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beratungsfunktion` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beschlussfassung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beschlussmaengel` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-bestellung-und-abberufung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-budget-und-businessplan` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-compliance-und-internal-investigation` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Beirat Bank Sanierung Beratungsfunktion im Corporate/M&A (Großkan
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beirat-bank-und-sanierung`
 

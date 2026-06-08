@@ -1,17 +1,9 @@
 ---
 name: faevvollzug-parteibetrieb-gerichtsvollzieher
-description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung."
 ---
 
 # Faevvollzug Parteibetrieb Gerichtsvollzieher
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt` | Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung. |
-| `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev` | BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz. |
-| `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or` | Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt`
 

@@ -1,6 +1,6 @@
 ---
 name: founder-reference-calls
-description: "Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, Angels und Experten mit rechtlich sauberer Fragelogik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, Angels und Experten mit rechtlich sauberer Fragelogik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Founder Reference Calls

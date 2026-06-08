@@ -1,6 +1,6 @@
 ---
 name: handwerkerrechnung-zu-hoch
-description: "Handwerkerrechnung zu hoch: führt Laien durch Werkvertrag, Kostenvoranschlag, Stundenlohnzettel, Nachtrag und mangelhafte Ausführung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handwerkerrechnung zu hoch: führt Laien durch Werkvertrag, Kostenvoranschlag, Stundenlohnzettel, Nachtrag und mangelhafte Ausführung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Handwerkerrechnung zu hoch

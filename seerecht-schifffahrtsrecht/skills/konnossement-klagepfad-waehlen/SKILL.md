@@ -1,6 +1,6 @@
 ---
 name: konnossement-klagepfad-waehlen
-description: "Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
 ---
 
 # Konnossement – Klagepfad wählen

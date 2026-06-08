@@ -1,6 +1,6 @@
 ---
 name: jus-staatsexamen-vorbereitung-spezial
-description: "Spezialfall Staatsexamensvorbereitung: Lernplan zwoelf Monate, Karteikartensystem, Probeklausuren, gesundheitliche Aspekte. Pruefraster für Examenskandidaten im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Staatsexamensvorbereitung: Lernplan zwoelf Monate, Karteikartensystem, Probeklausuren, gesundheitliche Aspekte. Pruefraster für Examenskandidaten im Jurastudium."
 ---
 
 # JuS: Staatsexamen-Vorbereitung

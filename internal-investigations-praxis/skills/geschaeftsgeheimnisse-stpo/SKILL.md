@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnisse-stpo
-description: "Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz im Internal Investigations Praxis."
 ---
 
 # Schutz von Geschäftsgeheimnissen in Internal Investigations

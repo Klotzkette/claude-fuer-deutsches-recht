@@ -1,6 +1,6 @@
 ---
 name: inso-139-147-eroeffnungsantrag
-description: "Inso P139 Eroffnungsantrag P147 im Insolvenz- und Sanierungsrecht: prüft konkret § 139 InsO Berechnung der Fristen vor dem, § 147 InsO Rechtshandlungen nach Verfahrenseröffnung im, § 157 InsO Entscheidung über den Fortgang des Verfahrens, § 200 InsO Aufhebung des Insolvenzverfahrens im Mandat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P139 Eroffnungsantrag P147 im Insolvenz- und Sanierungsrecht: prüft konkret § 139 InsO Berechnung der Fristen vor dem, § 147 InsO Rechtshandlungen nach Verfahrenseröffnung im, § 157 InsO Entscheidung über den Fortgang des Verfahrens, § 200 InsO Aufhebung des Insolvenzverfahrens im Mandat."
 ---
 
 # Inso P139 Eroffnungsantrag P147
@@ -8,32 +8,6 @@ description: "Inso P139 Eroffnungsantrag P147 im Insolvenz- und Sanierungsrecht:
 ## Arbeitsbereich
 
 **Inso P139 Eroffnungsantrag P147** ordnet den Fall über die tragenden Prüfungslinien: § 139 InsO (Berechnung der Fristen vor dem, § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im, § 157 InsO (Entscheidung über den Fortgang des Verfahrens). Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p139-berechnung-der-fristen-vor-dem-eroffnungsantrag` | § 139 InsO (Berechnung der Fristen vor dem Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p147-rechtshandlungen-nach-verfahrenseroffnung` | § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p157-entscheidung-uber-den-fortgang-des-verfahrens` | § 157 InsO (Entscheidung über den Fortgang des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p200-aufhebung-des-insolvenzverfahrens` | § 200 InsO (Aufhebung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p201-rechte-der-insolvenzglaubiger-nach-verfahrensaufhebung` | § 201 InsO (Rechte der Insolvenzgläubiger nach Verfahrensaufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p214-verfahren-bei-der-einstellung` | § 214 InsO (Verfahren bei der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p250-verstoss-gegen-verfahrensvorschriften` | § 250 InsO (Verstoß gegen Verfahrensvorschriften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p258-aufhebung-des-insolvenzverfahrens` | § 258 InsO (Aufhebung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p259b-besondere-verjahrungsfrist` | § 259b InsO (Besondere Verjährungsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269e-verfahrenskoordinator` | § 269e InsO (Verfahrenskoordinator) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269f-aufgaben-und-rechtsstellung-des-verfahrenskoordinator` | § 269f InsO (Aufgaben und Rechtsstellung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p269g-vergutung-des-verfahrenskoordinators` | § 269g InsO (Vergütung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270c-vorlaufiges-eigenverwaltungsverfahren` | § 270c InsO (Vorläufiges Eigenverwaltungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p289-einstellung-des-insolvenzverfahrens` | § 289 InsO (Einstellung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p300a-neuerwerb-im-laufenden-insolvenzverfahren` | § 300a InsO (Neuerwerb im laufenden Insolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p306-ruhen-des-verfahrens` | § 306 InsO (Ruhen des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p311-aufnahme-des-verfahrens-uber-den-eroffnungsantrag` | § 311 InsO (Aufnahme des Verfahrens über den Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p319-antragsfrist` | § 319 InsO (Antragsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p332-verweisung-auf-das-nachlassinsolvenzverfahren` | § 332 InsO (Verweisung auf das Nachlaßinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p354-voraussetzungen-des-partikularverfahrens` | § 354 InsO (Voraussetzungen des Partikularverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p356-sekundarinsolvenzverfahren` | § 356 InsO (Sekundärinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P139 Eroffnungsantrag P147 im Insolvenz- und Sanierungsrecht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p139-berechnung-der-fristen-vor-dem-eroffnungsantrag`
 

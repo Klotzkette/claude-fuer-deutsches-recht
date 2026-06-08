@@ -1,6 +1,6 @@
 ---
 name: green-claims-vergleichende-werbung
-description: "Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance im Influencer-Recht."
 ---
 
 # Influencer-Recht: Green Claims und Nachhaltigkeitswerbung

@@ -1,6 +1,6 @@
 ---
 name: verifikation-sonderfall-und-edge-case
-description: "Verifikation: Sonderfall und Edge-Case-Prüfung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verifikation: Sonderfall und Edge-Case-Prüfung im Immobilienrechtspraxis."
 ---
 
 # Verifikation: Sonderfall und Edge-Case-Prüfung

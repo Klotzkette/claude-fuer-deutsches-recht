@@ -1,6 +1,6 @@
 ---
 name: register-qualitaetsgate-vor-einreichung
-description: "Checkliste vor dem Absenden: Urkunden, Beschlüsse, Listen, Unterschriften, Kapital, Namen, Daten, Registerblatt im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkliste vor dem Absenden: Urkunden, Beschlüsse, Listen, Unterschriften, Kapital, Namen, Daten, Registerblatt im Handelsregister Praxis."
 ---
 
 # Quality Gate vor Einreichung

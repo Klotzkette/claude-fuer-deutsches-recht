@@ -1,6 +1,6 @@
 ---
 name: persoenliche-leistungspflicht
-description: "Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist im Sozialversicherungsstatus Pruefer."
 ---
 
 # Persönliche Leistungspflicht

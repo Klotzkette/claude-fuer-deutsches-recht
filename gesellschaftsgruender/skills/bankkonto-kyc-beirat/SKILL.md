@@ -1,6 +1,6 @@
 ---
 name: bankkonto-kyc-beirat
-description: "Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung im Gesellschaftsgruender."
 ---
 
 # Bankkonto und KYC-Paket

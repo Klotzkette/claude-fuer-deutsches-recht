@@ -1,6 +1,6 @@
 ---
 name: kein-totalverweigerungs-tool
-description: "Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Keine Totalverweigerung

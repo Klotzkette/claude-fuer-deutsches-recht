@@ -1,6 +1,6 @@
 ---
 name: factoringtyp-true-false-reverse-maturity
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Factoringtyp true false reverse maturity im Factoring Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Factoringtyp true false reverse maturity im Factoring Recht."
 ---
 
 # Factoringtyp true false reverse maturity

@@ -1,6 +1,6 @@
 ---
 name: kooperationsgespraech
-description: "Bereitet Kooperationsgespräche mit Versammlungsbehörde und Polizei vor und protokolliert sie im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Kooperationsgespräche mit Versammlungsbehörde und Polizei vor und protokolliert sie im Versammlungsrecht."
 ---
 
 # Kooperation mit geradem Rücken

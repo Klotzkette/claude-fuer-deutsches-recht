@@ -1,17 +1,9 @@
 ---
 name: sponsoring-sportr-sonderfall-sportrecht
-description: "Sponsoring Sportr Sonderfall Sportrecht im Sportrecht: prüft konkret Sponsoring, Sportr, Sportrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sponsoring Sportr Sonderfall Sportrecht im Sportrecht: prüft konkret Sponsoring, Sportr, Sportrecht."
 ---
 
 # Sponsoring Sportr Sonderfall Sportrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-sponsoring-internationaler-bezug-und-schnittstellen` | Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-sportr-sonderfall-und-edge-case` | Sportr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-sportrecht-tatbestand-beweis-und-belege` | Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-sponsoring-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht.
 
 ### Sponsoring: Internationaler Bezug und Schnittstellen
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-sportr-sonderfall-und-edge-case`
 
-**Fokus:** Sportr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sportr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt sportrecht.
 
 ### Sportr: Sonderfall und Edge-Case-Prüfung
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-sportrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt sportrecht.
 
 ### Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

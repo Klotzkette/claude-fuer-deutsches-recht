@@ -1,6 +1,6 @@
 ---
 name: multi-client-matter
-description: "Mehrere Mandanten in einer Sache: steuert Joint Defense, gleichlaufende Interessen, Kostenteilung, Konfliktumschlag und Information zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mehrere Mandanten in einer Sache: steuert Joint Defense, gleichlaufende Interessen, Kostenteilung, Konfliktumschlag und Information zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Mehrere Mandanten in einer Sache

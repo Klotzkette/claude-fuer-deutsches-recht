@@ -1,6 +1,6 @@
 ---
 name: praesidialrat-mitwirkung-richterernennung
-description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvertretung. Behandelt typische Konstellationen wie Beförderung zur Vorsitzenden Richterin Wechsel in den Bundesgerichtshof und Ernennung zur Praesidentin eines Gerichts. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvertretung. Behandelt typische Konstellationen wie Beförderung zur Vorsitzenden Richterin Wechsel in den Bundesgerichtshof und Ernennung zur Praesidentin eines Gerichts. Liefert Pruefraster und Schriftsatzbausteine im Beamtenrecht."
 ---
 
 # Praesidialrat — Mitwirkung bei Richterernennungen

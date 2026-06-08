@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluesse-textbausteine
-description: "Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
 ---
 
 # Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine

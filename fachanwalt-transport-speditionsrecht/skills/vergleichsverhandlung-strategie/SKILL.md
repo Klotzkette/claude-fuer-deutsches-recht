@@ -1,15 +1,9 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht im Fachanwalt Transport Speditionsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Speditionsrecht im Fachanwalt Transport Speditionsrecht."
 ---
 
 # Vergleichsverhandlung Strategie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Transport- und Speditionsrecht strategisch vorbereiten: BATNA, Angebotsstrategie. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Forderungshoehe, Haftungslimits, Vergleichsspielraum. Output: Vergleichsverhandlungs-Strategie Transport. Abgrenzung: nicht ADSP-Schiedsverfahren. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Transport Spe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vergleichsverhandlung-strategie`
 

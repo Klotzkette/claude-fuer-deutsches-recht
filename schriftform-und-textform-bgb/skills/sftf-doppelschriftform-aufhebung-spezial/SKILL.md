@@ -1,6 +1,6 @@
 ---
 name: sftf-doppelschriftform-aufhebung-spezial
-description: "Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster für langlaufende Vertraege im Schriftform Und Textform Bgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster für langlaufende Vertraege im Schriftform Und Textform Bgb."
 ---
 
 # SfTf: Doppelschriftform-Aufhebung

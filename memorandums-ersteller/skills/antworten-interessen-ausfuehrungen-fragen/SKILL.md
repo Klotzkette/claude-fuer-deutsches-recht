@@ -1,6 +1,6 @@
 ---
 name: antworten-interessen-ausfuehrungen-fragen
-description: "Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller im Memorandums Ersteller."
 ---
 
 # Antworten: Mehrparteienkonflikt und Interessenmatrix

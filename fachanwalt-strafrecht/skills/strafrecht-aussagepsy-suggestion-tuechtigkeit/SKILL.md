@@ -1,24 +1,9 @@
 ---
 name: strafrecht-aussagepsy-suggestion-tuechtigkeit
-description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse, BGH-Grundsaetze zur aussagepsychologischen Begutachtung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse, BGH-Grundsaetze zur aussagepsychologischen Begutachtung."
 ---
 
 # Aussagepsy Suggestion Tuechtigkeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung` | Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata für die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung. |
-| `strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft` | Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin. |
-| `strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand` | Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug für Beweisverwertungsverbot und Plaedoyer-Argumentation. |
-| `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze` | BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger. |
-| `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen` | Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster für die Verteidigung, Replik gegen mangelhafte Gutachten. |
-| `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung` | Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug für Aussage-gegen-Aussage mit jugendlichen Belastungszeugen. |
-| `strafrecht-spezial-aussagepsychologie-kindliche-zeugen` | Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug für Aussage-gegen-Aussage mit kindlicher Belastungszeugin. |
-| `strafrecht-spezial-aussagepsychologie-konstanzanalyse` | Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge für das Kreuzverhoer. |
-| `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen` | Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug für die Aussagegenese-Pruefung bei Vielfach-Vernehmungen. |
-| `strafrecht-spezial-aussagepsychologie-realkennzeichen` | Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster für die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung`
 

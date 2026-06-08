@@ -1,6 +1,6 @@
 ---
 name: standardklauseln-bauleiter-nda-vertragsstrafe
-description: "Bauleiter NDA-Standardklauseln: Vertraulichkeitsumfang, Empfaengerkreis, Laufzeit, Rechtsfolgen, Schriftform. Pruefraster für mutual und one-way NDA im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter NDA-Standardklauseln: Vertraulichkeitsumfang, Empfaengerkreis, Laufzeit, Rechtsfolgen, Schriftform. Pruefraster für mutual und one-way NDA im NDA-Abgleich."
 ---
 
 # NDA: Standardklauseln Bauleiter

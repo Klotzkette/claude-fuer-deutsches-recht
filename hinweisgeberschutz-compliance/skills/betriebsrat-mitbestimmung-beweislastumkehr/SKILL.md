@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-mitbestimmung-beweislastumkehr
-description: "Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mitbestimmung bei Meldesystem und Untersuchungen im Hinweisgeberschutz Compliance."
 ---
 
 # Betriebsrat Mitbestimmung

@@ -1,6 +1,6 @@
 ---
 name: frequenznutzung-tk-frequenzzuteilung
-description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff im Telekommunikationsrecht."
 ---
 
 # Frequenzstörungen und Funkverträglichkeit

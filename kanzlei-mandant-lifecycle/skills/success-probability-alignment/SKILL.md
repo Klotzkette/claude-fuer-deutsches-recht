@@ -1,6 +1,6 @@
 ---
 name: success-probability-alignment
-description: "Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht auf Chancen, Risiken, Bauchgefühl und Business-Ziel abgleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht auf Chancen, Risiken, Bauchgefühl und Business-Ziel abgleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Erfolgsaussichten Alignment

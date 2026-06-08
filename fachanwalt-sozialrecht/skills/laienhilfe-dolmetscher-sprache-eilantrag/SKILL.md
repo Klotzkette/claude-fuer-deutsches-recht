@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-dolmetscher-sprache-eilantrag
-description: "Laienhilfe Dolmetscher Sprache Eilantrag im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher, Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall, Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Einkommen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Dolmetscher Sprache Eilantrag im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher, Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall, Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Einkommen."
 ---
 
 # Laienhilfe Dolmetscher Sprache Eilantrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-dolmetscher-sprache` | Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher Sprache. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-eilantrag-notfall` | Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-eingliederungshilfe-erwachsene` | Laienverstaendlicher Sozialrechts-Skill zu Eingliederungshilfe Erwachsene. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-einkommen-vermoegen-sgbii` | Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Dolmetscher Sprache Eilantrag im Plugin Fachanwalt Sozi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-dolmetscher-sprache`
 

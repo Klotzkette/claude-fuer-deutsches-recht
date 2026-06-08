@@ -1,6 +1,6 @@
 ---
 name: sale-back-mietkauf-abgrenzung
-description: "Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolvenzanfechtung (§§ 129 ff. InsO) und steuerliche Behandlung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolvenzanfechtung (§§ 129 ff. InsO) und steuerliche Behandlung im Leasingrecht."
 ---
 
 # Sale-and-Lease-Back: Liquidität, Bilanzierung und Insolvenzanfechtung

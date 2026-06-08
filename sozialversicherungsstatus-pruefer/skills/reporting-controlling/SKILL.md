@@ -1,6 +1,6 @@
 ---
 name: reporting-controlling
-description: "Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien im Sozialversicherungsstatus Pruefer."
 ---
 
 # Reporting und Controlling

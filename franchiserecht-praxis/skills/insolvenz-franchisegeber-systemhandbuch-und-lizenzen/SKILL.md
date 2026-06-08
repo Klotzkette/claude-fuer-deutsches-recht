@@ -1,6 +1,6 @@
 ---
 name: insolvenz-franchisegeber-systemhandbuch-und-lizenzen
-description: "Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer im Franchiserecht."
 ---
 
 # Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen

@@ -1,6 +1,6 @@
 ---
 name: beweisverwertungsverbote-pruefen
-description: "Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung im Strafrechts-Aktenaufbereiter."
 ---
 
 # Beweisverwertungsverbote pruefen

@@ -1,6 +1,6 @@
 ---
 name: qualitaetspruefung-beweislast-und-darlegungslast
-description: "Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung

@@ -1,17 +1,9 @@
 ---
 name: freistellungsklausel
-description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungslinie für fachanwalt arbeitsrecht bag, Freistellungsklausel im Arbeitsvertrag, Abfindungsrechner modular. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft konkrete Prüfungslinie für fachanwalt arbeitsrecht bag, Freistellungsklausel im Arbeitsvertrag, Abfindungsrechner modular."
 ---
 
 # Freistellungsklausel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases. |
-| `ar-abfindungs-rechner-modular` | Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`
 

@@ -1,6 +1,6 @@
 ---
 name: urlaub-krankheit
-description: "Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinbarungen zu Vertretung und Ausfall im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinbarungen zu Vertretung und Ausfall im Handelsvertreterrecht."
 ---
 
 # Urlaub und Krankheit im Handelsvertreterverhältnis — Rechte und Pflichten

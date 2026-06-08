@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-corporate-legal-english
-description: "Schlusspruefung für Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schlusspruefung für Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen im Gesellschaftsrecht Legal English."
 ---
 
 # Qualitätstor Corporate Legal English

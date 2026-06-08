@@ -1,19 +1,9 @@
 ---
 name: zahlungsverzug-kuendigung-mietrecht
-description: "Zahlungsverzug Kuendigung Mietrecht im Miet- und Wohnungseigentumsrecht: prüft konkret Zahlungsverzug, Kündigung und Schonfrist, Einfuehrung Vertragstypen Mietrecht, Haustiere im Mietverhältnis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zahlungsverzug Kuendigung Mietrecht im Miet- und Wohnungseigentumsrecht: prüft konkret Zahlungsverzug, Kündigung und Schonfrist, Einfuehrung Vertragstypen Mietrecht, Haustiere im Mietverhältnis."
 ---
 
 # Zahlungsverzug Kuendigung Mietrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-zahlungsverzug-kuendigung-schonfrist` | Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `mietrecht-einfuehrung-vertragstypen` | Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle für Mandanten und Verweis auf passende Detail-Skills. |
-| `spezial-haustiere-mietvertrag` | Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kleinreparaturklausel` | Kleinreparaturklausel: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-mietvertrag-agb-klauseln` | Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Zahlungsverzug Kuendigung Mietrecht im Miet- und Wohnungseigentums
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-zahlungsverzug-kuendigung-schonfrist`
 

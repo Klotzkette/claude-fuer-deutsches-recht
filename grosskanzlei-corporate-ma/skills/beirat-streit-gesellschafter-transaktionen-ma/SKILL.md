@@ -1,21 +1,9 @@
 ---
 name: beirat-streit-gesellschafter-transaktionen-ma
-description: "Beirat Streit Gesellschafter Transaktionen MA im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beirat Streit Gesellschafter Transaktionen MA im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma."
 ---
 
 # Beirat Streit Gesellschafter Transaktionen MA
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-verguetung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-veto-rechte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Veto Rechte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gk-ma-lma-loan-transfer` | Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und Register. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Beirat Streit Gesellschafter Transaktionen MA im Corporate/M&A (Gr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beirat-streit-gesellschafter`
 

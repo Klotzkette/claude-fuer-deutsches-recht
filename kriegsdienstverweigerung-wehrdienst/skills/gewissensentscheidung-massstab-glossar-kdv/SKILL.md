@@ -1,6 +1,6 @@
 ---
 name: gewissensentscheidung-massstab-glossar-kdv
-description: "Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Maßstab der Gewissensentscheidung

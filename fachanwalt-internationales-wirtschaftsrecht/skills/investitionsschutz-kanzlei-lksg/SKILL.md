@@ -1,17 +1,9 @@
 ---
 name: investitionsschutz-kanzlei-lksg
-description: "Investitionsschutz Kanzlei Lksg im Internationalen Wirtschaftsrecht: prüft konkret Investitionsschutz, Kanzlei, Lksg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Investitionsschutz Kanzlei Lksg im Internationalen Wirtschaftsrecht: prüft konkret Investitionsschutz, Kanzlei, Lksg."
 ---
 
 # Investitionsschutz Kanzlei Lksg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-investitionsschutz-verhandlung-vergleich-und-eskalation` | Investitionsschutz: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-lksg-compliance-dokumentation-und-akte` | Lksg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-investitionsschutz-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Investitionsschutz: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Investitionsschutz: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Investitionsschutz: Verhandlung, Vergleich und Eskalation
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kanzlei-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Kanzlei: Internationaler Bezug und Schnittstellen im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Internationaler Bezug und Schnittstellen im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Kanzlei: Internationaler Bezug und Schnittstellen
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-lksg-compliance-dokumentation-und-akte`
 
-**Fokus:** Lksg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Lksg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Lksg: Compliance-Dokumentation und Aktenvermerk
 

@@ -1,6 +1,6 @@
 ---
 name: richterbeurteilung-praesidialrat
-description: "Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Richterbeurteilung, Präsidialrat, Richterwahlausschuss und Beteiligung vor Ernennung im Beamtenrecht."
 ---
 
 # Richterbeurteilung Praesidialrat

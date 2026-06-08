@@ -1,17 +1,9 @@
 ---
 name: vollstreckungsklausel-zpo-papierform
-description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsgericht: prüft konkret Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsgericht: prüft konkret Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage."
 ---
 
 # Vollstreckungsklausel ZPO Papierform
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vollstreckungsklausel-724-zpo` | Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun. |
-| `einreichung-papierform-mit-abschriften` | Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persönliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung. |
-| `anlagen-formatieren-k1-k2-pdf-amtsgericht` | Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger ohne Anwalt am Amtsgericht. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vollstreckungsklausel-724-zpo`
 

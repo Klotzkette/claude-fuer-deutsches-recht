@@ -1,6 +1,6 @@
 ---
 name: mitarbeiter-gf-arbeitsvertrag
-description: "Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote im Gesellschaftsgruender."
 ---
 
 # Gründer als Arbeitnehmer/Geschäftsführer

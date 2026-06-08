@@ -1,6 +1,6 @@
 ---
 name: internationales-mandat-und-geheimnisschutz-kammerantwo
-description: "Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

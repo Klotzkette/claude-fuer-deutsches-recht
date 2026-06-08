@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbeschwerde-dienstaufsicht
-description: "Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung im Bürokratie-Entbürokratisierung."
 ---
 
 # Aufsichts- und Dienstaufsichtsbeschwerde

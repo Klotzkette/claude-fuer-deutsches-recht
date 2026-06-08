@@ -1,6 +1,6 @@
 ---
 name: konzern-rahmenvertrag-anpassen
-description: "Spezialfall Rahmenvertrag im Konzern anpassen ohne Aenderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Pruefraster für Aenderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Rahmenvertrag im Konzern anpassen ohne Aenderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Pruefraster für Aenderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte im Vertragsausfueller."
 ---
 
 # Rahmenvertrag-Anpassung

@@ -1,6 +1,6 @@
 ---
 name: proz-beweismittel-leitfaden-mediationsklage
-description: "Leitfaden Beweismittel ZPO: Urkundenbeweis, Zeugenbeweis, Sachverstaendigenbeweis, Parteivernehmung, Augenscheinsbeweis. Pruefraster für Beweisangebot im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Beweismittel ZPO: Urkundenbeweis, Zeugenbeweis, Sachverstaendigenbeweis, Parteivernehmung, Augenscheinsbeweis. Pruefraster für Beweisangebot im Prozessrecht."
 ---
 
 # Proz: Beweismittel

@@ -1,17 +1,9 @@
 ---
 name: private-rechtsschutz-beweislast
-description: "Private Rechtsschutz Beweislast im Plugin Fachanwalt Versicherungsrecht: prüft konkret Private, Pruefen, Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Private Rechtsschutz Beweislast im Plugin Fachanwalt Versicherungsrecht: prüft konkret Private, Pruefen, Rechtsschutz."
 ---
 
 # Private Rechtsschutz Beweislast
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-private-dokumentenmatrix-und-lueckenliste` | Private: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-pruefen-formular-portal-und-einreichung` | Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-private-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Private: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Private: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt versicherungsrecht.
 
 ### Private: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-pruefen-formular-portal-und-einreichung`
 
-**Fokus:** Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht.
 
 ### Pruefen: Formular, Portal und Einreichungslogik
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-rechtsschutz-beweislast-und-darlegungslast`
 
-**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt versicherungsrecht.
 
 ### Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 

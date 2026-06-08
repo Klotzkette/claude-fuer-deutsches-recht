@@ -1,16 +1,9 @@
 ---
 name: ba-zustimmung-beschaeftigungsduldung
-description: "BA Zustimmung Beschaeftigungsduldung im Migrationsrecht: prüft konkret BA-Zustimmung Beschäftigung, Beschäftigungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BA Zustimmung Beschaeftigungsduldung im Migrationsrecht: prüft konkret BA-Zustimmung Beschäftigung, Beschäftigungsduldung."
 ---
 
 # BA Zustimmung Beschaeftigungsduldung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-ba-zustimmung-beschaeftigung` | BA-Zustimmung Beschäftigung: Fachmodul im Migrationsrecht; prüft Zustimmungserfordernis, Vorrang/Arbeitsbedingungen, Ausnahmen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-beschaeftigungsduldung` | Beschäftigungsduldung: Fachmodul im Migrationsrecht; prüft Beschäftigungszeiten, Lebensunterhalt, Identität, Straffreiheit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "BA Zustimmung Beschaeftigungsduldung im Migrationsrecht: prüft ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-ba-zustimmung-beschaeftigung`
 

@@ -1,6 +1,6 @@
 ---
 name: strafkammer-strafzumessung
-description: "Strafkammer: Behörden-, Gerichts- oder Registerweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafkammer: Behörden-, Gerichts- oder Registerweg im Strafzumessung."
 ---
 
 # Strafkammer: Behörden-, Gerichts- oder Registerweg

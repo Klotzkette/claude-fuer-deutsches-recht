@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-rueckruf-market
-description: "Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation im Berichtspflichten."
 ---
 
 # Produktsicherheit und Marktüberwachung melden

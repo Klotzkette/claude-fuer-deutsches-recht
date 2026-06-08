@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-urheber-architektur-angewandte
-description: "Prueft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur im Urheberrecht De Eu."
 ---
 
 # Arbeitnehmerurheber und Auftragswerke

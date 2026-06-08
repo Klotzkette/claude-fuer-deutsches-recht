@@ -1,6 +1,6 @@
 ---
 name: bess-netzanschluss-hoehe-spannung
-description: "Prüft Netzanschlussbegehren, Anschlusszusage, Netzverträglichkeitsprüfung, Kostentragung und Zeitplan im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Netzanschlussbegehren, Anschlusszusage, Netzverträglichkeitsprüfung, Kostentragung und Zeitplan im Energierecht."
 ---
 
 # Netzanschluss: Hochspannung, Umspannwerk und Kapazität

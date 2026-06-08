@@ -1,17 +1,9 @@
 ---
 name: anfechtungs-eilrechtsschutz-abs
-description: "Anfechtungs Eilrechtsschutz ABS im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Anfechtungs, Eilrechtsschutz nach § 80 Abs, Eilrechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anfechtungs Eilrechtsschutz ABS im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Anfechtungs, Eilrechtsschutz nach § 80 Abs, Eilrechtsschutz."
 ---
 
 # Anfechtungs Eilrechtsschutz ABS
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-anfechtungs-risikoampel-und-gegenargumente` | Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-eilrechtsschutz-80-abs-5-vwgo` | Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-eilrechtsschutz-schriftsatz-brief-und-memo-bausteine` | Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Anfechtungs Eilrechtsschutz ABS im Plugin Fachanwalt Verwaltungsre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-anfechtungs-risikoampel-und-gegenargumente`
 
-**Fokus:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht.
 
 ### Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -72,7 +64,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-eilrechtsschutz-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht.
 
 ### Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
 

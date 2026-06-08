@@ -1,6 +1,6 @@
 ---
 name: us-securities-accredited-investor
-description: "Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # US Securities und Accredited Investor

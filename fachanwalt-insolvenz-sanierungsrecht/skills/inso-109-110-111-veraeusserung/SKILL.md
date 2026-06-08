@@ -1,6 +1,6 @@
 ---
 name: inso-109-110-111-veraeusserung
-description: "Inso P109 Schuldner P110 P111 Verausserung im Insolvenz- und Sanierungsrecht: prüft konkret § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, § 110 InsO (Schuldner als Vermieter oder Verpächter) im, § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im, § 112 InsO (Kündigungssperre) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P109 Schuldner P110 P111 Verausserung im Insolvenz- und Sanierungsrecht: prüft konkret § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, § 110 InsO (Schuldner als Vermieter oder Verpächter) im, § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im, § 112 InsO (Kündigungssperre) im Mandat prüfen."
 ---
 
 # Inso P109 Schuldner P110 P111 Verausserung
@@ -8,32 +8,6 @@ description: "Inso P109 Schuldner P110 P111 Verausserung im Insolvenz- und Sanie
 ## Arbeitsbereich
 
 **Inso P109 Schuldner P110 P111 Verausserung** ordnet den Fall über die tragenden Prüfungslinien: § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, § 110 InsO (Schuldner als Vermieter oder Verpächter) im, § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p109-schuldner-als-mieter-oder-pachter` | § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p110-schuldner-als-vermieter-oder-verpachter` | § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p111-verausserung-des-miet-oder-pachtobjekts` | § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p112-kundigungssperre` | § 112 InsO (Kündigungssperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p113-kundigung-eines-dienstverhaltnisses` | § 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p114-weggefallen` | § 114 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen. |
-| `inso-p115-erloschen-von-auftragen` | § 115 InsO (Erlöschen von Aufträgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p117-erloschen-von-vollmachten` | § 117 InsO (Erlöschen von Vollmachten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p118-auflosung-von-gesellschaften` | § 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p119-unwirksamkeit-abweichender-vereinbarungen` | § 119 InsO (Unwirksamkeit abweichender Vereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p120-kundigung-von-betriebsvereinbarungen` | § 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p122-gerichtliche-zustimmung-zur-durchfuhrung-einer-betrieb` | § 122 InsO (Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p123-umfang-des-sozialplans` | § 123 InsO (Umfang des Sozialplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p125-interessenausgleich-und-kundigungsschutz` | § 125 InsO (Interessenausgleich und Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p127-klage-des-arbeitnehmers` | § 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p128-betriebsverausserung` | § 128 InsO (Betriebsveräußerung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p129-grundsatz` | § 129 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p130-kongruente-deckung` | § 130 InsO (Kongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p131-inkongruente-deckung` | § 131 InsO (Inkongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p132-unmittelbar-nachteilige-rechtshandlungen` | § 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p133-vorsatzliche-benachteiligung` | § 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P109 Schuldner P110 P111 Verausserung im Insolvenz- und Sanie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p109-schuldner-als-mieter-oder-pachter`
 

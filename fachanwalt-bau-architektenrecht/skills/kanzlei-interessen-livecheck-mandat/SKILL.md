@@ -1,18 +1,9 @@
 ---
 name: kanzlei-interessen-livecheck-mandat
-description: "Kanzlei Interessen Livecheck Mandat im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Kanzlei, Livecheck, Mandat, Orientierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kanzlei Interessen Livecheck Mandat im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Kanzlei, Livecheck, Mandat, Orientierung."
 ---
 
 # Kanzlei Interessen Livecheck Mandat
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-kanzlei-mehrparteien-konflikt-und-interessen` | Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-mandat-mandantenkommunikation-entscheidungsvorlage` | Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -37,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-kanzlei-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht.
 
 ### Kanzlei: Mehrparteienkonflikt und Interessenmatrix
 
@@ -66,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-livecheck-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht.
 
 ### Livecheck: Abschlussprodukt und Übergabe
 
@@ -91,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mandat-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht.
 
 ### Mandat: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -116,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-orientierung-sonderfall-und-edge-case`
 
-**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht.
 
 ### Orientierung: Sonderfall und Edge-Case-Prüfung
 

@@ -1,6 +1,6 @@
 ---
 name: rahmenvertrag-einzelauftrag
-description: "Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Rahmenvertrag und Einzelauftrag

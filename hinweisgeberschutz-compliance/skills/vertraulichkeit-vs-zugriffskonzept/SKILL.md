@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-vs-zugriffskonzept
-description: "Balanciert Vertraulichkeit mit Anhörungspflichten im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Balanciert Vertraulichkeit mit Anhörungspflichten im Hinweisgeberschutz Compliance."
 ---
 
 # Vertraulichkeit Vs Anhörung

@@ -1,6 +1,6 @@
 ---
 name: market-positioning
-description: "Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Marktpositionierung Mittelstandskanzlei

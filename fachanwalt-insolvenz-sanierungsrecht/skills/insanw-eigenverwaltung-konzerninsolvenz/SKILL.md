@@ -1,19 +1,9 @@
 ---
 name: insanw-eigenverwaltung-konzerninsolvenz
-description: "Inso Insanw Eigenverwaltung Konzerninsolvenz im Insolvenz- und Sanierungsrecht: prüft konkret Spezialfall Eigenverwaltung und Schutzschirmverfahren §§, Spezialfall Konzerninsolvenz §§ 3a ff, Spezialfall Insolvenzanfechtung Zahlungsstrom Banken, Arbeitnehmer und Insolvenz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso Insanw Eigenverwaltung Konzerninsolvenz im Insolvenz- und Sanierungsrecht: prüft konkret Spezialfall Eigenverwaltung und Schutzschirmverfahren §§, Spezialfall Konzerninsolvenz §§ 3a ff, Spezialfall Insolvenzanfechtung Zahlungsstrom Banken, Arbeitnehmer und Insolvenz."
 ---
 
 # Inso Insanw Eigenverwaltung Konzerninsolvenz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `insanw-eigenverwaltung-schutzschirm-spezial` | Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff. InsO: Bescheinigung nach § 270d InsO, Sachwalter, Glaeubigerausschuss, Drittsicherheiten. Pruefraster für Bescheinigungsersteller. |
-| `insanw-konzerninsolvenz-koordination-spezial` | Spezialfall Konzerninsolvenz §§ 3a ff. InsO: Gruppen-Gerichtsstand, Koordinationsverfahren, Konzern-Anfechtung. Pruefraster für mehrstufige Konzerne und auslaendische Tochtergesellschaften. |
-| `inso-anfechtung-zahlungsstrom-banken` | Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, Verrechnung mit eigenen Forderungen, § 96 InsO. Pruefraster typischer Bankenfaelle und BGH-Linie 2024 ff. Schriftsatzbausteine. |
-| `inso-arbeitnehmer-und-betriebsuebergang` | Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal. Pruefraster und Mustertexte. Schnittstelle Arbeitsrecht. |
-| `inso-grenzueberschreitend-eu-eir` | Grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und Abgrenzung zu Drittstaaten: Hauptverfahren, Sekundaerverfahren, COMI, automatische Anerkennung, Verwalterbefugnisse, Drittstaaten-Anerkennung nach §§ 335 ff., 343 InsO und Register-/Grundbuchvollzug. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Inso Insanw Eigenverwaltung Konzerninsolvenz im Insolvenz- und San
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `insanw-eigenverwaltung-schutzschirm-spezial`
 

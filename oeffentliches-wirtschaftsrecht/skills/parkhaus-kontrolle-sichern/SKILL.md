@@ -1,6 +1,6 @@
 ---
 name: parkhaus-kontrolle-sichern
-description: "Parkhaus: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Parkhaus: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Parkhaus Kontrolle Sichern

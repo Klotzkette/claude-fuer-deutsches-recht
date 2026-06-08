@@ -1,6 +1,6 @@
 ---
 name: frequenzzuteilung-itu-erdbeobachtung
-description: "Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden im Weltraumrecht."
 ---
 
 # Weltraumrecht: Frequenzzuteilung: ITU, Bundesnetzagentur und Interferenz

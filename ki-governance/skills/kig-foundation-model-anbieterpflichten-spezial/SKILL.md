@@ -1,6 +1,6 @@
 ---
 name: kig-foundation-model-anbieterpflichten-spezial
-description: "Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. 53 ff. AI Act: Transparenz, Trainingsdaten, systemisches Risiko ab Schwellenwert. Pruefraster für Anbieter und Downstream-Deployer im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. 53 ff. AI Act: Transparenz, Trainingsdaten, systemisches Risiko ab Schwellenwert. Pruefraster für Anbieter und Downstream-Deployer im Ki Governance."
 ---
 
 # KIG: GPAI Anbieterpflichten

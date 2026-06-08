@@ -1,6 +1,6 @@
 ---
 name: ki-registerakte-nachlass
-description: "Zwingt zu Belegpfad, Registerauszug, Aktenzeichen, Normenanker und klarer Kennzeichnung nicht verifizierter Annahmen im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwingt zu Belegpfad, Registerauszug, Aktenzeichen, Normenanker und klarer Kennzeichnung nicht verifizierter Annahmen im Handelsregister Praxis."
 ---
 
 # KI-Halluzinationsschutz in Registerakten

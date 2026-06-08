@@ -1,6 +1,6 @@
 ---
 name: frageliste-auftragnehmer
-description: "Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Frageliste Auftragnehmer

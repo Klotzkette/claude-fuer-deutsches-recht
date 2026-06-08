@@ -1,6 +1,6 @@
 ---
 name: charterparty-local-closing-planen
-description: "Charterparty: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Charterparty: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
 ---
 
 # Charterparty – Local Counsel instruieren

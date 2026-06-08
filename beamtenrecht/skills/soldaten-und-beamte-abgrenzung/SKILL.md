@@ -1,6 +1,6 @@
 ---
 name: soldaten-und-beamte-abgrenzung
-description: "Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung im Beamtenrecht."
 ---
 
 # Soldaten Und Beamte Abgrenzung

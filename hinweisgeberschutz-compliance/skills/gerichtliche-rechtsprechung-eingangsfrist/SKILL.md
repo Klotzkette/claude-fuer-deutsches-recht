@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-rechtsprechung-eingangsfrist
-description: "Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzwingt Rechtsprechungs-Livecheck ohne BeckRS-Blindzitate im Hinweisgeberschutz Compliance."
 ---
 
 # Gerichtliche Rechtsprechung Livecheck

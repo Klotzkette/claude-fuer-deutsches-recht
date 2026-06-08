@@ -1,6 +1,6 @@
 ---
 name: verwahrungsanzeige-und-gnotkg-rechtsprechungscheck-und-r
-description: "Notare: verwahrungsanzeige und gnotkg - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: verwahrungsanzeige und gnotkg - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: verwahrungsanzeige und gnotkg - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

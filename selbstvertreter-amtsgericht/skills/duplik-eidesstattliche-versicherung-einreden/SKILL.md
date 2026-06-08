@@ -1,17 +1,9 @@
 ---
 name: duplik-eidesstattliche-versicherung-einreden
-description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung am Amtsgericht: prüft konkret Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung am Amtsgericht: prüft konkret Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung."
 ---
 
 # Duplik Eidesstattliche Versicherung Einreden
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `duplik-nach-replik` | Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht. |
-| `eidesstattliche-versicherung-294-zpo` | Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB. |
-| `einreden-aktiv-geltend-machen` | Einreden aktiv geltend machen Verjährung Aufrechnung Zurückbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prüft nicht von Amts wegen außer bei rechtsvernichtenden oder rechtshindernden Einwendungen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `duplik-nach-replik`
 

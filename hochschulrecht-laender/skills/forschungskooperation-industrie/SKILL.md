@@ -1,6 +1,6 @@
 ---
 name: forschungskooperation-industrie
-description: "Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance im Hochschulrecht Länder."
 ---
 
 # Forschungskooperation mit Industrie

@@ -1,6 +1,6 @@
 ---
 name: personalakte-neuer-mitarbeiter-onboarding
-description: "Berliner Start-up-HR: Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Personalakte Neuer Mitarbeiter Onboarding

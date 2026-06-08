@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-wegen-rs-master
-description: "Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren im Franchiserecht."
 ---
 
 # Franchiserecht: Schadensersatz wegen Falschaufklärung

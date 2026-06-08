@@ -1,6 +1,6 @@
 ---
 name: vo-hochrisiko-kirk-fortbildung-bauleiter
-description: "KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten im Ki Richtlinie Kanzleien."
 ---
 
 # KI-VO Hochrisiko Personalwesen

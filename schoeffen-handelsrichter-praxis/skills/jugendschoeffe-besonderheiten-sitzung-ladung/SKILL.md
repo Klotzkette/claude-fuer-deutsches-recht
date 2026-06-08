@@ -1,6 +1,6 @@
 ---
 name: jugendschoeffe-besonderheiten-sitzung-ladung
-description: "Jugendschöffe Besonderheiten (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Jugendschöffe Besonderheiten (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Jugendschöffe Besonderheiten: Orientierung

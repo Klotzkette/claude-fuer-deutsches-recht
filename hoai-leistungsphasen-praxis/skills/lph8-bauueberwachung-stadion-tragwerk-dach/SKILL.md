@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-stadion-tragwerk-dach
-description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM für Stadionbetreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM für Stadionbetreiber im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Stadion Tragwerk Dach (LPH 8)

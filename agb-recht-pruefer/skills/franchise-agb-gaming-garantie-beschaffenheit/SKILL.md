@@ -1,6 +1,6 @@
 ---
 name: franchise-agb-gaming-garantie-beschaffenheit
-description: "Branchen-Fachmodul für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Branchen-Fachmodul für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen im AGB-Recht."
 ---
 
 # Franchise AGB

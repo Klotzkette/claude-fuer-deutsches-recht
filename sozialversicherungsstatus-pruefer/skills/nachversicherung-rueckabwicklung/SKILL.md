@@ -1,6 +1,6 @@
 ---
 name: nachversicherung-rueckabwicklung
-description: "Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach Statusänderung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft arbeits-, steuer-, beitrags- und vertragspraktische Rückabwicklung nach Statusänderung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Rückabwicklung nach Umqualifizierung

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-deich-hochwasserschutz
-description: "Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Deich und Hochwasserschutzanlage

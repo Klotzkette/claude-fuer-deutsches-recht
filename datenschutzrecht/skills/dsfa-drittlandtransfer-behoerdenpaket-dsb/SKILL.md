@@ -1,19 +1,9 @@
 ---
 name: dsfa-drittlandtransfer-behoerdenpaket-dsb
-description: "Dsfa Drittlandtransfer Behördenpaket DSB im Datenschutzrecht: prüft konkret Behördenfähiges Dokumentations- und Antwortpaket für, Bestellungspflicht für Datenschutzbeauftragten prüfen, Pruefung wann eine DSFA nach Art, Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dsfa Drittlandtransfer Behördenpaket DSB im Datenschutzrecht: prüft konkret Behördenfähiges Dokumentations- und Antwortpaket für, Bestellungspflicht für Datenschutzbeauftragten prüfen, Pruefung wann eine DSFA nach Art, Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach."
 ---
 
 # Dsfa Drittlandtransfer Behördenpaket DSB
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `drittlandtransfer-behoerdenpaket-output` | Behördenfähiges Dokumentations- und Antwortpaket für Drittlandtransfers erstellen: Deckvermerk, Transferregister, DPF/SCC/TIA-Nachweise, TOMs, Subprozessoren, Maßnahmenplan und Antwort an deutsche Datenschutzaufsicht. |
-| `dsb-bestellungspflicht-pruefung` | Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Prüfraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungsprüfmemo Empfehlung. Abgrenzung: nicht für Aufgaben des DSB (Art. 39 DSGVO). |
-| `dsfa-art-35-dsgvo-trigger-und-anwendungsbereich` | Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich ist. Trigger-Pruefung Anwendungsbereich Schwellwert. Generalklausel Art. 35 Abs. 1 voraussichtlich hohes Risiko; Regelbeispiele Art. 35 Abs. 3; Pflichtlisten Art. 35 Abs. 4 BfDI. Output: Triage-Vermerk DSFA-pflichtig oder nicht. |
-| `dsfa-bfdi-und-laender-blacklist` | Abgleich einer Verarbeitung mit der BfDI-Pflichtliste nach Art. 35 Abs. 4 DSGVO und mit den Listen der Landesdatenschutzbehoerden. Output: dokumentierter Listenabgleich mit Trefferanalyse und ggf. Verweis auf zwingende DSFA. |
-| `dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii` | Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO: Aktenstruktur Versionierung Aufbewahrung Beweiswert. Output: DSFA-Akte mit Aktenuebersicht und Aufbewahrungsregeln. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Dsfa Drittlandtransfer Behördenpaket DSB im Datenschutzrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `drittlandtransfer-behoerdenpaket-output`
 

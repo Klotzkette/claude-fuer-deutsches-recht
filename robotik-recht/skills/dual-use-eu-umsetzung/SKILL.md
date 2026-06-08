@@ -1,6 +1,6 @@
 ---
 name: dual-use-eu-umsetzung
-description: "Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dual-Use, Exportkontrolle und militärische Robotik-Schnittstellen, ohne zivile Produktpflichten zu übersehen im Robotik-Recht."
 ---
 
 # Dual-Use und militärische Robotik

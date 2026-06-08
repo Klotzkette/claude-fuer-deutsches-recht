@@ -1,6 +1,6 @@
 ---
 name: zinsobergrenze-und-wuchertatbestand
-description: "Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die historische Zinsobergrenze (centesima usura 12 Prozent oder 6 Prozent) Sondervorschriften beim fenus nauticum und das Verhaeltnis zum heutigen Wucherrecht § 138 II BGB und § 291 StGB. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die historische Zinsobergrenze (centesima usura 12 Prozent oder 6 Prozent) Sondervorschriften beim fenus nauticum und das Verhaeltnis zum heutigen Wucherrecht § 138 II BGB und § 291 StGB. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Zinsobergrenze Und Wuchertatbestand

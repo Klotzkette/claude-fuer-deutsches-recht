@@ -1,6 +1,6 @@
 ---
 name: fortbildung
-description: "Fortbildung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Fortbildung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fortbildung: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Fortbildung im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Fortbildung

@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-baden-wuerttemberg
-description: "Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsrecht Baden Wuerttemberg

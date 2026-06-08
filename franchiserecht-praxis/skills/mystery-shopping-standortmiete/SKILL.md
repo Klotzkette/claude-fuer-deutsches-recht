@@ -1,6 +1,6 @@
 ---
 name: mystery-shopping-standortmiete
-description: "Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage im Franchiserecht."
 ---
 
 # Franchiserecht: Mystery Shopping – Beweis und Datenschutz

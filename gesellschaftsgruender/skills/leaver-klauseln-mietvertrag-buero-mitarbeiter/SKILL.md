@@ -1,6 +1,6 @@
 ---
 name: leaver-klauseln-mietvertrag-buero-mitarbeiter
-description: "Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit im Gesellschaftsgruender."
 ---
 
 # Leaver-Klauseln

@@ -1,6 +1,6 @@
 ---
 name: gruenderrollen-konfliktcheck
-description: "Klärt Rollen, Beiträge, Erwartungen, Streitpunkte und Exit-Szenarien vor Satzungsentwurf im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Rollen, Beiträge, Erwartungen, Streitpunkte und Exit-Szenarien vor Satzungsentwurf im Gesellschaftsgruender."
 ---
 
 # Gründerrollen und Konfliktcheck

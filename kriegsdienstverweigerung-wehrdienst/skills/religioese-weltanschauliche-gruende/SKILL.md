@@ -1,6 +1,6 @@
 ---
 name: religioese-weltanschauliche-gruende
-description: "Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Religiöse und weltanschauliche Gründe

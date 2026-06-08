@@ -1,17 +1,9 @@
 ---
 name: 130a-zpo-fax-grenzen-mein-justizpostfach
-description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Amtsgericht: prüft konkret Elektronische Einreichung nach § 130a ZPO für Buerger, Einreichung per Fax und ihre verbleibenden Grenzen, Einrichtung und Nutzung von Mein Justizpostfach (MJP) für. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Amtsgericht: prüft konkret Elektronische Einreichung nach § 130a ZPO für Buerger, Einreichung per Fax und ihre verbleibenden Grenzen, Einrichtung und Nutzung von Mein Justizpostfach (MJP) für."
 ---
 
 # 130a ZPO FAX Grenzen Mein Justizpostfach
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `einreichung-130a-zpo-elektronisch-buerger` | Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere Übermittlungswege qualifizierte elektronische Signatur Bedeutung der Eingangsbestätigung. Abgrenzung zu Email und einfachem Scan. Wann ist elektronische Einreichung fristwahrend. |
-| `einreichung-fax-und-grenzen` | Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung. |
-| `einreichung-mein-justizpostfach-mjp-2024` | Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger seit 2024. Sichere elektronische Einreichung von Klagen und Schriftsaetzen an Gerichte. BundID-Login Postfach-Funktion Versandbestätigung und Zustellung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Am
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `einreichung-130a-zpo-elektronisch-buerger`
 

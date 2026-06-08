@@ -1,18 +1,9 @@
 ---
 name: staat-vereinigte-arabische-staaten
-description: "Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Vereinigte Arabische Emirate, Staaten- und Gebietscheck Vereinigte Staaten, Staaten- und Gebietscheck Vereinigtes Königreich, Staaten- und Gebietscheck Vietnam. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konkret Staaten- und Gebietscheck Vereinigte Arabische Emirate, Staaten- und Gebietscheck Vereinigte Staaten, Staaten- und Gebietscheck Vereinigtes Königreich, Staaten- und Gebietscheck Vietnam."
 ---
 
 # Staat Vereinigte Arabische Staaten
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `staat-vereinigte-arabische-emirate-migrationscheck` | Staaten- und Gebietscheck Vereinigte Arabische Emirate: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vereinigte-staaten-migrationscheck` | Staaten- und Gebietscheck Vereinigte Staaten: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vereinigtes-koenigreich-migrationscheck` | Staaten- und Gebietscheck Vereinigtes Königreich: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vietnam-migrationscheck` | Staaten- und Gebietscheck Vietnam: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Staat Vereinigte Arabische Staaten im Migrationsrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `staat-vereinigte-arabische-emirate-migrationscheck`
 

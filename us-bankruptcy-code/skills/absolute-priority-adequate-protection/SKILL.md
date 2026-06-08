@@ -1,6 +1,6 @@
 ---
 name: absolute-priority-adequate-protection
-description: "Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures im US Bankruptcy Code."
 ---
 
 # Absolute Priority Rule

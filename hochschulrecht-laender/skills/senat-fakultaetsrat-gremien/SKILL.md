@@ -1,6 +1,6 @@
 ---
 name: senat-fakultaetsrat-gremien
-description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulrecht Länder."
 ---
 
 # Senat Fakultaetsrat Gremien

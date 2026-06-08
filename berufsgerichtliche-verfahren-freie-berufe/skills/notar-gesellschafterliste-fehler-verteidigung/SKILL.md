@@ -1,6 +1,6 @@
 ---
 name: notar-gesellschafterliste-fehler-verteidigung
-description: "Notar Gesellschafterliste Fehler (Verteidigungs- und Kammerantwort): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notar Gesellschafterliste Fehler (Verteidigungs- und Kammerantwort): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Notar Gesellschafterliste Fehler: Verteidigungs- und Kammerantwort

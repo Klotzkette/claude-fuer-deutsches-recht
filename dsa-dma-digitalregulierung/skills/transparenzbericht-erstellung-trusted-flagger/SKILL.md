@@ -1,6 +1,6 @@
 ---
 name: transparenzbericht-erstellung-trusted-flagger
-description: "Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behördenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behördenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht im Dsa Dma Digitalregulierung."
 ---
 
 # DSA Transparenzbericht

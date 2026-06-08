@@ -1,17 +1,9 @@
 ---
 name: gleichheit-praejudizien-interpretation
-description: "Gleichheit Praejudizien Interpretation im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Gleichbehandlung durch Praejudizien, Prueft Text, Sprecherintention, objektivierten Sinn. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gleichheit Praejudizien Interpretation im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Gleichbehandlung durch Praejudizien, Prueft Text, Sprecherintention, objektivierten Sinn."
 ---
 
 # Gleichheit Praejudizien Interpretation
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gleichheit-und-praejudizien` | Prueft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität. |
-| `interpretation-und-intention` | Prueft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung. |
-| `kanzlei-briefing-rechtstheorie` | Uebersetzt rechtstheoretische Probleme für Kanzlei, Mandanten, Vorstand, Gericht oder Ministerium in klare Sprache und Entscheidungsvorlagen. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gleichheit-und-praejudizien`
 

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-kanzlei-kaltstart-und-fakten
-description: "Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: geldwaesche risikoanalyse kanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

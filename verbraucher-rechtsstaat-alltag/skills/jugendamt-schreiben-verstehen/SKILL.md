@@ -1,6 +1,6 @@
 ---
 name: jugendamt-schreiben-verstehen
-description: "Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Jugendamt-Schreiben verstehen

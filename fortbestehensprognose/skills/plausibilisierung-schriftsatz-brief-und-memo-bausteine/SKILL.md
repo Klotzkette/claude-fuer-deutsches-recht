@@ -1,6 +1,6 @@
 ---
 name: plausibilisierung-schriftsatz-brief-und-memo-bausteine
-description: "Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine im Fortbestehensprognose."
 ---
 
 # Plausibilisierung: Schriftsatz-, Brief- und Memo-Bausteine

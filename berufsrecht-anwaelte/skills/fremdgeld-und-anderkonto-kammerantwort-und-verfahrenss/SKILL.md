@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-und-anderkonto-kammerantwort-und-verfahrenss
-description: "Anwälte: fremdgeld und anderkonto - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: fremdgeld und anderkonto - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: fremdgeld und anderkonto - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

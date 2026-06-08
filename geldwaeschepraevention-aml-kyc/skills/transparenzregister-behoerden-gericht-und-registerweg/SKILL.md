@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-behoerden-gericht-und-registerweg
-description: "Transparenzregister: Behörden-, Gerichts- oder Registerweg im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Transparenzregister: Behörden-, Gerichts- oder Registerweg im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
 ---
 
 # Transparenzregister: Behörden-, Gerichts- oder Registerweg

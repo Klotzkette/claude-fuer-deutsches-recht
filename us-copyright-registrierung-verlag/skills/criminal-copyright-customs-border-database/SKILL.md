@@ -1,6 +1,6 @@
 ---
 name: criminal-copyright-customs-border-database
-description: "Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319 im Us Copyright Registrierung Verlag."
 ---
 
 # Criminal Copyright § 506

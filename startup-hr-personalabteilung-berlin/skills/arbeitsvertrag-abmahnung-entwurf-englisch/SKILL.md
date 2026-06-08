@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-abmahnung-entwurf-englisch
-description: "Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Abmahnung Entwurf Und Risiko

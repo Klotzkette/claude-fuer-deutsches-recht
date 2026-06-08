@@ -1,6 +1,6 @@
 ---
 name: iso27001-mapping
-description: "Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies im Nis2 Cybersecurity Compliance."
 ---
 
 # ISO 27001 Mapping

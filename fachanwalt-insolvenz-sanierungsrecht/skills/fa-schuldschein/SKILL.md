@@ -1,15 +1,9 @@
 ---
 name: fa-schuldschein
-description: "FA Schuldschein im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "FA Schuldschein im Insolvenz- und Sanierungsrecht im Fachanwalt Insolvenz Sanierungsrecht."
 ---
 
 # FA Schuldschein
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fa-insolvenz-schuldschein-und-lma` | Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "FA Schuldschein im Insolvenz- und Sanierungsrecht im Fachanwalt In
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fa-insolvenz-schuldschein-und-lma`
 

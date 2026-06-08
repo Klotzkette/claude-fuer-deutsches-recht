@@ -1,6 +1,6 @@
 ---
 name: syndikusrechtsanwalt-abgrenzung-kaltstart-und-faktenma
-description: "Anwälte: syndikusrechtsanwalt abgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: syndikusrechtsanwalt abgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: syndikusrechtsanwalt abgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: terminsvertreter-und-untervollmacht-kammerantwort
-description: "Anwälte: terminsvertreter und untervollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: terminsvertreter und untervollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: terminsvertreter und untervollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

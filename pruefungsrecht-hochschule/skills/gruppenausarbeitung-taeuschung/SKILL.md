@@ -1,6 +1,6 @@
 ---
 name: gruppenausarbeitung-taeuschung
-description: "Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Pruefungsrecht Hochschule."
 ---
 
 # Gruppenausarbeitung und Täuschung

@@ -1,6 +1,6 @@
 ---
 name: flughafen-zustaendigkeit-pruefen
-description: "Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planfeststellungsbehoerde zuständig. Prueft LuftVG §§ 6 8 29 Behördenabgrenzung Planfeststellungspflicht Landesrecht und liefert Zuständigkeits-Vermerk für Flughafen-Bescheid oder Planfeststellungsverfahren im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planfeststellungsbehoerde zuständig. Prueft LuftVG §§ 6 8 29 Behördenabgrenzung Planfeststellungspflicht Landesrecht und liefert Zuständigkeits-Vermerk für Flughafen-Bescheid oder Planfeststellungsverfahren im Luftrecht Flughafenrecht."
 ---
 
 # Flughafen – Zuständigkeit prüfen

@@ -1,6 +1,6 @@
 ---
 name: aenderungs-formular-portal-und-einreichung
-description: "Aenderungs: Formular, Portal und Einreichungslogik im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aenderungs: Formular, Portal und Einreichungslogik im Plugin legistik werkstatt im Legistik."
 ---
 
 # Aenderungs: Formular, Portal und Einreichungslogik

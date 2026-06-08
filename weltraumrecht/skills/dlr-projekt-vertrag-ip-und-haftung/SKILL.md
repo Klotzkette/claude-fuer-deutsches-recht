@@ -1,6 +1,6 @@
 ---
 name: dlr-projekt-vertrag-ip-und-haftung
-description: "DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten im Weltraumrecht."
 ---
 
 # Weltraumrecht: DLR-Projektvertrag: IP und Haftung

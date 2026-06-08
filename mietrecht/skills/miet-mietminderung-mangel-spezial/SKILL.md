@@ -1,6 +1,6 @@
 ---
 name: miet-mietminderung-mangel-spezial
-description: "Spezialfall Mietminderung bei Mangel § 536 BGB: Erheblichkeit, Mangelanzeige, Hoehe der Minderung, Beweislast. Pruefraster für Mietminderungsbescheid und Klage im Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Mietminderung bei Mangel § 536 BGB: Erheblichkeit, Mangelanzeige, Hoehe der Minderung, Beweislast. Pruefraster für Mietminderungsbescheid und Klage im Mietrecht."
 ---
 
 # Miet: Mietminderung Mangel

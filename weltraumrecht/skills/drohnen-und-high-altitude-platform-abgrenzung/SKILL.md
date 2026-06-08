@@ -1,6 +1,6 @@
 ---
 name: drohnen-und-high-altitude-platform-abgrenzung
-description: "Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Drohnen und High-Altitude-Platform: Abgrenzung

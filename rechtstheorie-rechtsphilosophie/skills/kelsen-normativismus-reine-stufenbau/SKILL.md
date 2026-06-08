@@ -1,17 +1,9 @@
 ---
 name: kelsen-normativismus-reine-stufenbau
-description: "Kelsen Normativismus Reine Stufenbau im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral, Ordnet Normen im Stufenbau. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kelsen Normativismus Reine Stufenbau im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral, Ordnet Normen im Stufenbau."
 ---
 
 # Kelsen Normativismus Reine Stufenbau
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kelsen-normativismus-und-reine-rechtslehre` | Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik. |
-| `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz. |
-| `kelsen-stufenbau-kompetenz-und-grundnorm` | Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kelsen-normativismus-und-reine-rechtslehre`
 

@@ -1,6 +1,6 @@
 ---
 name: schulrecht-hausunterricht-schulsozialarbeit
-description: "Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation im Schulrecht Länder."
 ---
 
 # Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung

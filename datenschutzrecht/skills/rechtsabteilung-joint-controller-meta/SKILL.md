@@ -1,19 +1,9 @@
 ---
 name: rechtsabteilung-joint-controller-meta
-description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft konkret Rechtsabteilungs-Fachmodul für Joint Controller im, Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und, Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring, Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft konkret Rechtsabteilungs-Fachmodul für Joint Controller im, Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und, Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring, Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach."
 ---
 
 # Rechtsabteilung Joint Controller Meta
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `rechtsabteilung-joint-controller-im-plattform-oekosystem` | Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-meta-datenminimierung-und-zweckbindung` | Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess` | Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen` | Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `regulierungs-luecken-analyse` | Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht für spezifische Prüfungen wie AVV oder DSFA. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `rechtsabteilung-joint-controller-im-plattform-oekosystem`
 

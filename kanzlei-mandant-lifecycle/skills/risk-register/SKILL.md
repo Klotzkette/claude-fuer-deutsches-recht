@@ -1,6 +1,6 @@
 ---
 name: risk-register
-description: "Risk Register: steuert rechtliche, wirtschaftliche, prozessuale und Beziehungssrisiken in einem Register führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Risk Register: steuert rechtliche, wirtschaftliche, prozessuale und Beziehungssrisiken in einem Register führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Risk Register

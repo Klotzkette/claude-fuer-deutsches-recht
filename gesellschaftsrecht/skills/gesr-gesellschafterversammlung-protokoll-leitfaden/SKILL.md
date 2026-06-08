@@ -1,6 +1,6 @@
 ---
 name: gesr-gesellschafterversammlung-protokoll-leitfaden
-description: "Leitfaden Protokoll Gesellschafterversammlung GmbH: Einberufung, Tagesordnung, Beschluesse, Anfechtung. Pruefraster für Geschaeftsfuehrer und Berater im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Protokoll Gesellschafterversammlung GmbH: Einberufung, Tagesordnung, Beschluesse, Anfechtung. Pruefraster für Geschaeftsfuehrer und Berater im Gesellschaftsrecht."
 ---
 
 # GesR: Gesellschafterversammlung

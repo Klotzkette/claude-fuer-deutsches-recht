@@ -1,6 +1,6 @@
 ---
 name: scope-creep-fruehwarnung
-description: "Scope Creep Frühwarnung: steuert Mandat wächst stillschweigend; Zusatzarbeit, Budget und Verantwortung rechtzeitig klären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Scope Creep Frühwarnung: steuert Mandat wächst stillschweigend; Zusatzarbeit, Budget und Verantwortung rechtzeitig klären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Scope Creep Frühwarnung

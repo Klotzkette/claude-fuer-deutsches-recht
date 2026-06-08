@@ -1,6 +1,6 @@
 ---
 name: grundbuchauszug-due-lesen-abteilung
-description: "Baut eine DD-Tabelle aus Eigentum, Belastungen, Rang, Vollzugshindernissen, offenen Fragen und Deal-Relevanz im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut eine DD-Tabelle aus Eigentum, Belastungen, Rang, Vollzugshindernissen, offenen Fragen und Deal-Relevanz im Grundbuchamt Praxis."
 ---
 
 # Grundbuch-DD

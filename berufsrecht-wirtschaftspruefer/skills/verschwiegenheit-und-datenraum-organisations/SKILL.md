@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-datenraum-organisations
-description: "Wirtschaftsprüfer: verschwiegenheit und datenraum - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: verschwiegenheit und datenraum - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: verschwiegenheit und datenraum - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

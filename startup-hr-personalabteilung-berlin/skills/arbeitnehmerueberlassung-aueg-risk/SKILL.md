@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmerueberlassung-aueg-risk
-description: "Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Arbeitnehmerueberlassung AÜG Risk

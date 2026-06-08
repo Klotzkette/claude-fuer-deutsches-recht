@@ -1,6 +1,6 @@
 ---
 name: meldebehoerde
-description: "Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen im Bürokratie-Entbürokratisierung."
 ---
 
 # Meldebehörde

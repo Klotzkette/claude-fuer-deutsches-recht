@@ -1,6 +1,6 @@
 ---
 name: status
-description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss im Rechtsberatungsstelle."
 ---
 
 # Fallstatus: Zielgruppengerechte Fallzusammenfassung

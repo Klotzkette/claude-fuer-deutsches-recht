@@ -1,6 +1,6 @@
 ---
 name: schwimmunterricht-befreiung
-description: "Prüft Schwimmunterricht, religiöse/gesundheitliche Gründe, Attest und Teilnahmepflicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schwimmunterricht, religiöse/gesundheitliche Gründe, Attest und Teilnahmepflicht im Schulrecht Länder."
 ---
 
 # Schwimmunterricht und Befreiung

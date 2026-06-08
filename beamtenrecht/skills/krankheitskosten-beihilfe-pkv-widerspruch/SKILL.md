@@ -1,6 +1,6 @@
 ---
 name: krankheitskosten-beihilfe-pkv-widerspruch
-description: "Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch im Beamtenrecht."
 ---
 
 # krankheitskosten-beihilfe-pkv-widerspruch

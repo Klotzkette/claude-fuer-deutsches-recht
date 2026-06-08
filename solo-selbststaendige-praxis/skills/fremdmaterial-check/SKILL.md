@@ -1,6 +1,6 @@
 ---
 name: fremdmaterial-check
-description: "Solo-Selbstständige: prüft Zitate, Screenshots, Stock, Open Source und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Zitate, Screenshots, Stock, Open Source und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft zitate

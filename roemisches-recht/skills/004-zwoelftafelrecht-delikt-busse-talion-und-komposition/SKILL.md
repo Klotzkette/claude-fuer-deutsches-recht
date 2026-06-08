@@ -1,6 +1,6 @@
 ---
 name: 004-zwoelftafelrecht-delikt-busse-talion-und-komposition
-description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Römisches Recht."
 ---
 
 # Rom Zwoelftafelrecht Delikt Busse Talion Und Komposition

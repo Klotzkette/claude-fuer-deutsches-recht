@@ -1,6 +1,6 @@
 ---
 name: nachlass-und-testamentsvollstrecker-register
-description: "Prüft Erbschein, Europäisches Nachlasszeugnis, Testamentsvollstreckerzeugnis und Vertretungsmacht im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erbschein, Europäisches Nachlasszeugnis, Testamentsvollstreckerzeugnis und Vertretungsmacht im Handelsregister Praxis."
 ---
 
 # Nachlassvertretung im Register

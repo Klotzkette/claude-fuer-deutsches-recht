@@ -1,6 +1,6 @@
 ---
 name: laien-sanity-check
-description: "Letzte Prüfung: Habe ich verstanden, was passiert, welche Frist läuft, was ich sende und was ich nicht sende? im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Letzte Prüfung: Habe ich verstanden, was passiert, welche Frist läuft, was ich sende und was ich nicht sende? im Bürokratie-Entbürokratisierung."
 ---
 
 # Laien-Sanity-Check

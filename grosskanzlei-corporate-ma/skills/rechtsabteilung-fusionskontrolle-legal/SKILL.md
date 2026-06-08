@@ -1,19 +1,9 @@
 ---
 name: rechtsabteilung-fusionskontrolle-legal
-description: "Rechtsabteilung Fusionskontrolle Legal im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing, Rechtsabteilungs-Fachmodul für Legal Tech DD mit, Rechtsabteilungs-Fachmodul für Locked Box Leakage aus, Rechtsabteilungs-Fachmodul für. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rechtsabteilung Fusionskontrolle Legal im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing, Rechtsabteilungs-Fachmodul für Legal Tech DD mit, Rechtsabteilungs-Fachmodul für Locked Box Leakage aus, Rechtsabteilungs-Fachmodul für."
 ---
 
 # Rechtsabteilung Fusionskontrolle Legal
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `rechtsabteilung-fusionskontrolle-als-closing-condition` | Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz` | Rechtsabteilungs-Fachmodul für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-locked-box-leakage-aus-konzerncashpool` | Rechtsabteilungs-Fachmodul für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall` | Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` | Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Rechtsabteilung Fusionskontrolle Legal im Corporate/M&A (Großkanz
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `rechtsabteilung-fusionskontrolle-als-closing-condition`
 

@@ -1,6 +1,6 @@
 ---
 name: betriebsausgaben-werbungskosten-pruefraster
-description: "Anw Betriebsausgaben Werbungskosten Pruefraster: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anw Betriebsausgaben Werbungskosten Pruefraster: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Steuerrecht Anwalt Und Berater."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster

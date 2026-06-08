@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-akteneinsicht-erzwing
-description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Batteriespeicher: Akteneinsicht erzwingen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Batteriespeicher Akteneinsicht Erzwing

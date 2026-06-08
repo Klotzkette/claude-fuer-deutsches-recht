@@ -1,6 +1,6 @@
 ---
 name: vorrang-unmittelbare-wettbewerb-kartell
-description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung) im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung) im Europarecht Kompass."
 ---
 
 # Vorrang und unmittelbare Wirkung

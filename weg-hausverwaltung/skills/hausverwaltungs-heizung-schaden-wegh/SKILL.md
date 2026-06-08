@@ -1,17 +1,9 @@
 ---
 name: hausverwaltungs-heizung-schaden-wegh
-description: "Hausverwaltungs Heizung Schaden Wegh im Plugin Weg Hausverwaltung: prüft konkret Hausverwaltungs, Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hausverwaltungs Heizung Schaden Wegh im Plugin Weg Hausverwaltung: prüft konkret Hausverwaltungs, Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit."
 ---
 
 # Hausverwaltungs Heizung Schaden Wegh
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-hausverwaltungs-fristen-form-und-zuständigkeit` | Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `heizung-schaden-versicherung-notmassnahme` | Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan. |
-| `wegh-verwalterhaftung-spezial` | Spezialfall Verwalterhaftung WEG §§ 26 ff. WEG nach Reform 2020: Innen- und Aussenhaftung, D-and-O für Verwalter, Haftung für Beschlussumsetzung. Pruefraster für Verwalter. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Hausverwaltungs Heizung Schaden Wegh im Plugin Weg Hausverwaltung:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-hausverwaltungs-fristen-form-und-zuständigkeit`
 

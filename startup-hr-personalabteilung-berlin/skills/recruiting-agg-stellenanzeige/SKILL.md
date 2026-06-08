@@ -1,6 +1,6 @@
 ---
 name: recruiting-agg-stellenanzeige
-description: "Berliner Start-up-HR: Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Recruiting AGG Stellenanzeige

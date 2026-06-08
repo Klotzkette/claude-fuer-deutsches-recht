@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-anreizregulierung-erloesobergrenze-rech
-description: "Anreizregulierung Erlösobergrenze: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anreizregulierung Erlösobergrenze: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Rechtsmittel-Check

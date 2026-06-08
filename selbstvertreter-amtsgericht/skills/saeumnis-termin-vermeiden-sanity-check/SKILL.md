@@ -1,17 +1,9 @@
 ---
 name: saeumnis-termin-vermeiden-sanity-check
-description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amtsgericht: prüft konkret Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage, Klageerwiderung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amtsgericht: prüft konkret Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage, Klageerwiderung."
 ---
 
 # Saeumnis Termin Vermeiden Sanity Check
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `saeumnis-im-termin-330-zpo` | Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis. |
-| `saeumnis-vermeiden-330-ff-zpo` | Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO. |
-| `sanity-check-selbstvertretung-amtsgericht` | Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel beim Amtsgericht. Prüft Fristen, Zuständigkeit, Anwaltszwang, Streitwert, Antrag, Tatsachenvortrag, Beweise, Anlagen, Kosten, Zustellung und rote Warnsignale. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `saeumnis-im-termin-330-zpo`
 

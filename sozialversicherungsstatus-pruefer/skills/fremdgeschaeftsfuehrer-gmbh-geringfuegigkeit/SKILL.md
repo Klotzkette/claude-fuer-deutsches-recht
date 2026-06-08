@@ -1,6 +1,6 @@
 ---
 name: fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit
-description: "Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Fremdgeschäftsführer GmbH

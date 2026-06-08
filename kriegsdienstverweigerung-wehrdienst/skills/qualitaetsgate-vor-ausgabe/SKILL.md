@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-vor-ausgabe
-description: "Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Qualitätsgate vor Ausgabe

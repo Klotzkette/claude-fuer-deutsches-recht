@@ -1,6 +1,6 @@
 ---
 name: versammlung-polizei-campus
-description: "Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Versammlungen, Proteste, Polizei, Hausrecht und Wissenschaftsfreiheit im Hochschulrecht Länder."
 ---
 
 # Versammlung und Polizei auf dem Campus

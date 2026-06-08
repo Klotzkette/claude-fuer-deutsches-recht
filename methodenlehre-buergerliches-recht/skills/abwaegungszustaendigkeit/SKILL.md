@@ -1,19 +1,9 @@
 ---
 name: abwaegungszustaendigkeit
-description: "Abwaegungszuständigkeit im Plugin Methodenlehre Buergerliches Recht: prüft konkret Klärt, welche Institution im Rechtssystem für eine konkrete, Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zustän. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Abwaegungszuständigkeit im Plugin Methodenlehre Buergerliches Recht: prüft konkret Klärt, welche Institution im Rechtssystem für eine konkrete, Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zustän."
 ---
 
 # Abwaegungszuständigkeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `abwaegungszuständigkeit-institutionen` | Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution. |
-| `spezial-buergerlichen-fristen-form-und-zuständigkeit` | Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen. |
-| `spezial-verjaehrung-fristennotiz-und-naechster-schritt` | Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten. Es zeigt, wie Verjährungsbeginn, Hemmung und Neubeginn korrekt berechnet werden, wie Verjährungsunterbrechungen durch Mahnung, Klage und Verhandlungen dokumentiert werden und wie Anwälte Fristensysteme für eine sichere Mandatsführung aufbauen. Besonderes Gewicht liegt auf der Haftungsvermeidung durch lückenlose Fristenüberwachung. |
-| `freiheitlicher-paternalismus-check-vertrag` | Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf versteckten oder offenen Paternalismus gegenüber der Vertragsautonomie. Das Skill hilft, Einschränkungen der Privatautonomie durch Richterrecht, AGB-Kontrolle und zwingende Normen methodisch zu legitimieren oder anzugreifen. Es gibt Juristen ein Analysewerkzeug, um Schutzregelungen auf ihre freiheitliche Verhältnismäßigkeit zu prüfen. |
-| `generalklauseln-abwaegungslenkung` | Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei gleichzeitig an Gesetz und Recht gebunden bleibt. Geeignet für Fälle mit offenen Wertungsfragen im BGB. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Abwaegungszuständigkeit im Plugin Methodenlehre Buergerliches Rec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `abwaegungszuständigkeit-institutionen`
 

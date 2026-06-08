@@ -1,6 +1,6 @@
 ---
 name: bf-kiosk-selbstbedienung-mediendienste
-description: "Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Pruefraster und Bezugnahme zu Norm-Klauseln im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Pruefraster und Bezugnahme zu Norm-Klauseln im Barrierefreiheit Web Checker."
 ---
 
 # BF: Kiosk-Terminals

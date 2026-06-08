@@ -1,6 +1,6 @@
 ---
 name: crossborder-us-ksv-abgabe-kuenstler-ksvg
-description: "Prüft US-Freelancer für deutsche Unternehmen: Status, IP, Steuer, Datenschutz, Export und local counsel triggers im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Freelancer für deutsche Unternehmen: Status, IP, Steuer, Datenschutz, Export und local counsel triggers im Sozialversicherungsstatus Pruefer."
 ---
 
 # Cross-border US Freelancer

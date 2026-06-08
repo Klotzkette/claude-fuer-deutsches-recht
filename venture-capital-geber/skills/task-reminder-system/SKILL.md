@@ -1,6 +1,6 @@
 ---
 name: task-reminder-system
-description: "Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Task- und Reminder-System

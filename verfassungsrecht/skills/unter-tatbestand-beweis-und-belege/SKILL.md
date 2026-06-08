@@ -1,6 +1,6 @@
 ---
 name: unter-tatbestand-beweis-und-belege
-description: "Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Verfassungsrecht."
 ---
 
 # Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage

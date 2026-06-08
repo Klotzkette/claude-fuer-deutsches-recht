@@ -1,6 +1,6 @@
 ---
 name: briefe-erstberatung-rdg-konform
-description: "Briefe: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Briefe: Zahlen, Schwellenwerte und Berechnung im Rechtsberatungsstelle."
 ---
 
 # Briefe: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: business-compliance-dokumentation-und-akte
-description: "Business: Compliance-Dokumentation und Aktenvermerk; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Business: Compliance-Dokumentation und Aktenvermerk im Vertragsrecht."
 ---
 
 # Business: Compliance-Dokumentation und Aktenvermerk

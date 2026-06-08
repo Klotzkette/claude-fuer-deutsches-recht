@@ -1,6 +1,6 @@
 ---
 name: werbung-und-aussenauftritt
-description: "Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Notare; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Notare; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Werbung und Außenauftritt

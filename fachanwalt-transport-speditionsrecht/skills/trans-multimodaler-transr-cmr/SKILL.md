@@ -1,17 +1,9 @@
 ---
 name: trans-multimodaler-transr-cmr
-description: "Trans Multimodaler Transr CMR im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Spezialfall multimodaler Transport § 452 HGB und, Spezialfall CMR grenzueberschreitend, Spezialfall multimodaler Transport. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Trans Multimodaler Transr CMR im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Spezialfall multimodaler Transport § 452 HGB und, Spezialfall CMR grenzueberschreitend, Spezialfall multimodaler Transport."
 ---
 
 # Trans Multimodaler Transr CMR
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `trans-multimodaler-transport-spezial` | Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading. Pruefraster Schadensregulierung. |
-| `transr-cmr-grenzueberschreitend-spezial` | Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden. Pruefraster. |
-| `transr-multimodaler-transport-spezial` | Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort. Pruefraster Schadenslokalisation. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Trans Multimodaler Transr CMR im Plugin Fachanwalt Transport Spedi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `trans-multimodaler-transport-spezial`
 

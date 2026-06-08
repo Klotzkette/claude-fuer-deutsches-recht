@@ -1,15 +1,9 @@
 ---
 name: zeugenentschaedigung-antrag
-description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenpruefer."
 ---
 
 # Zeugenentschaedigung Antrag
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-zeugenentschaedigung-dokumentenmatrix-und-lueckenliste` | Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -19,11 +13,11 @@ description: "Zeugenentschaedigung Antrag im JVEG-Kostenprüfung im Jveg Kostenp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Sachverständiger, Dolmetscher, Übersetzer, Geschäftsstelle, Kostenbeamter, Bezirksrevisor, Festsetzungsrichter, Erinnerung-/Beschwerdesenat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergütungsantrag, Stundennachweis, Reisekostenabrechnung, Festsetzungsbeschluss, Erinnerung, Beschwerde, Sachverständigenrechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-zeugenentschaedigung-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jveg kostenpruefer.
 
 ### Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung
 

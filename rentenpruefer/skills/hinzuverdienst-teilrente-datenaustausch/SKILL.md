@@ -1,6 +1,6 @@
 ---
 name: hinzuverdienst-teilrente-datenaustausch
-description: "Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten im Rentenpruefer."
 ---
 
 # hinzuverdienst-und-teilrente

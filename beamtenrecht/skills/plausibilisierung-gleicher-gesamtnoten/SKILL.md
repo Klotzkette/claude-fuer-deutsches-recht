@@ -1,6 +1,6 @@
 ---
 name: plausibilisierung-gleicher-gesamtnoten
-description: "Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur rechtlich sauberen Aufloesung von Notengleichstand bei der beamtenrechtlichen Auswahlentscheidung. Klaert die Stufenfolge ausschoepfender Beurteilungswert Binnendifferenzierung Einzelmerkmale Reihenfolge und Gewichtung sowie das Recht zum Rueckgriff auf Vorbeurteilung Hilfskriterien und Auswahlgespraech. Liefert Pruefraster und Schriftsatzbausteine zur Anfechtung der Auswahlentscheidung wenn der Auswahlvermerk diese Stufenfolge nicht oder nicht nachvollziehbar abarbeitet im Beamtenrecht."
 ---
 
 # Plausibilisierung gleicher Gesamtnoten

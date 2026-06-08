@@ -1,6 +1,6 @@
 ---
 name: internationaler-versand-betriebspruefung-apotheke-einfacher
-description: "Betäubungsmittelrecht: Internationaler Versand. Internationaler Versand im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betäubungsmittelrecht: Internationaler Versand. Internationaler Versand im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Betäubungsmittelrecht."
 ---
 
 # Internationaler Versand

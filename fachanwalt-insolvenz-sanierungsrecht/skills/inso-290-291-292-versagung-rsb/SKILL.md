@@ -1,35 +1,9 @@
 ---
 name: inso-290-291-292-versagung-rsb
-description: "Inso P290 Versagung P291 Weggefallen P292 im Insolvenz- und Sanierungsrecht: prüft konkret § 290 InsO (Versagung der Restschuldbefreiung) im Mandat, § 291 InsO ist im aktuellen Normtext weggefallen, Altakten, Übe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P290 Versagung P291 Weggefallen P292 im Insolvenz- und Sanierungsrecht: prüft konkret § 290 InsO (Versagung der Restschuldbefreiung) im Mandat, § 291 InsO ist im aktuellen Normtext weggefallen, Altakten, Übe."
 ---
 
 # Inso P290 Versagung P291 Weggefallen P292
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p290-versagung-der-restschuldbefreiung` | § 290 InsO (Versagung der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p291-weggefallen` | § 291 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen. |
-| `inso-p292-rechtsstellung-des-treuhanders` | § 292 InsO (Rechtsstellung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p293-vergutung-des-treuhanders` | § 293 InsO (Vergütung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p294-gleichbehandlung-der-glaubiger` | § 294 InsO (Gleichbehandlung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p295-obliegenheiten-des-schuldners` | § 295 InsO (Obliegenheiten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p295a-obliegenheiten-des-schuldners-bei-selbstandiger-tatig` | § 295a InsO (Obliegenheiten des Schuldners bei selbständiger Tätigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p296-verstoss-gegen-obliegenheiten` | § 296 InsO (Verstoß gegen Obliegenheiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p297-insolvenzstraftaten` | § 297 InsO (Insolvenzstraftaten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p297a-nachtraglich-bekannt-gewordene-versagungsgrunde` | § 297a InsO (Nachträglich bekannt gewordene Versagungsgründe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p298-deckung-der-mindestvergutung-des-treuhanders` | § 298 InsO (Deckung der Mindestvergütung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p299-vorzeitige-beendigung` | § 299 InsO (Vorzeitige Beendigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p300-entscheidung-uber-die-restschuldbefreiung` | § 300 InsO (Entscheidung über die Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p301-wirkung-der-restschuldbefreiung` | § 301 InsO (Wirkung der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p302-ausgenommene-forderungen` | § 302 InsO (Ausgenommene Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p303-widerruf-der-restschuldbefreiung` | § 303 InsO (Widerruf der Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p303a-eintragung-in-das-schuldnerverzeichnis` | § 303a InsO (Eintragung in das Schuldnerverzeichnis) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p304-grundsatz` | § 304 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p305-eroffnungsantrag-des-schuldners` | § 305 InsO (Eröffnungsantrag des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p305a-scheitern-der-aussergerichtlichen-schuldenbereinigung` | § 305a InsO (Scheitern der außergerichtlichen Schuldenbereinigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p307-zustellung-an-die-glaubiger` | § 307 InsO (Zustellung an die Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -39,7 +13,7 @@ description: "Inso P290 Versagung P291 Weggefallen P292 im Insolvenz- und Sanier
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p290-versagung-der-restschuldbefreiung`
 

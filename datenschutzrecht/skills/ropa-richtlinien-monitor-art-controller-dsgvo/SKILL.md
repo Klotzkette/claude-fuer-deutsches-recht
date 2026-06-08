@@ -1,19 +1,9 @@
 ---
 name: ropa-richtlinien-monitor-art-controller-dsgvo
-description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht: prüft konkret Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten, RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht: prüft konkret Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten, RoPA-Besonderheiten bei besonderen Datenkategorien nach Art."
 ---
 
 # Ropa Richtlinien Monitor ART Controller DSGVO
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `richtlinien-monitor` | Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung. |
-| `ropa-art-30-controller-deutsch-vorlage` | Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Tabellenstruktur mit allen sieben Mindestinhalten, ausgefuelltes Beispiel für Personalverwaltung, Mandantenakte, Kontaktformular, CRM. Direkt nutzbare Vorlage für Kanzleien und Unternehmen. |
-| `ropa-art-30-dsgvo-grundlagen` | Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA). |
-| `ropa-bdsg-besondere-art-9-categories` | RoPA-Besonderheiten bei besonderen Datenkategorien nach Art. 9 DSGVO (Gesundheit, biometrische Daten, Religion, Gewerkschaftszugehoerigkeit), bei Beschaeftigtendaten § 26 BDSG und strafrechtlichen Verurteilungen Art. 10 DSGVO. Erhoehte Anforderungen an Zweckbestimmung, Erforderlichkeit, Rechtsgrundlage und TOMs. |
-| `ropa-en-controller-template` | Full English-language template for the Records of Processing Activities (RoPA) of the controller under Article 30(1) GDPR. Seven mandatory contents, cover sheet, three worked examples (HR, client files, CRM with US sub-processor), and a versioning footer. Suitable for German law firms with international clients. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `richtlinien-monitor`
 

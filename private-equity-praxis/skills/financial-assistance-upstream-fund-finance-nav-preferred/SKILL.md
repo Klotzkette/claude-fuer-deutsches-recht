@@ -1,6 +1,6 @@
 ---
 name: financial-assistance-upstream-fund-finance-nav-preferred
-description: "Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen im Private Equity Praxis."
 ---
 
 # Financial Assistance, Upstream Security und Kapitalerhaltung

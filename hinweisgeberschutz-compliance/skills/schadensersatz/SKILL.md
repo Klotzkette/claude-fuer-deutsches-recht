@@ -1,6 +1,6 @@
 ---
 name: schadensersatz
-description: "Prüft Schadensersatzansprüche bei Repressalien im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schadensersatzansprüche bei Repressalien im Hinweisgeberschutz Compliance."
 ---
 
 # Schadensersatz

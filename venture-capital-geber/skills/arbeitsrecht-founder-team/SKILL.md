@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-founder-team
-description: "Prüft Geschäftsführer, Arbeitsverträge, IP-Abtretung, Freelancer, Scheinselbstständigkeit und Schlüsselpersonenrisiko im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Geschäftsführer, Arbeitsverträge, IP-Abtretung, Freelancer, Scheinselbstständigkeit und Schlüsselpersonenrisiko im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Arbeitsrecht und Founder Team

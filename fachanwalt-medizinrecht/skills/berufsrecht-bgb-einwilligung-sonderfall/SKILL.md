@@ -1,20 +1,9 @@
 ---
 name: berufsrecht-bgb-einwilligung-sonderfall
-description: "Berufsrecht BGB Einwilligung Sonderfall im Medizinrecht: prüft konkret Berufsrecht, BGB, Einwilligung, Fachanwalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Berufsrecht BGB Einwilligung Sonderfall im Medizinrecht: prüft konkret Berufsrecht, BGB, Einwilligung, Fachanwalt."
 ---
 
 # Berufsrecht BGB Einwilligung Sonderfall
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-berufsrecht-verhandlung-vergleich-und-eskalation` | Berufsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-einwilligung-sonderfall-und-edge-case` | Einwilligung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-red-team-und-qualitaetskontrolle` | Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-krankenversicherung-zahlen-schwellen-und-berechnung` | Krankenversicherung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -24,11 +13,11 @@ description: "Berufsrecht BGB Einwilligung Sonderfall im Medizinrecht: prüft ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-berufsrecht-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Berufsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Berufsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt medizinrecht.
 
 ### Berufsrecht: Verhandlung, Vergleich und Eskalation
 
@@ -54,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bgb-risikoampel-und-gegenargumente`
 
-**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt medizinrecht.
 
 ### BGB: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -80,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-einwilligung-sonderfall-und-edge-case`
 
-**Fokus:** Einwilligung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einwilligung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt medizinrecht.
 
 ### Einwilligung: Sonderfall und Edge-Case-Prüfung
 
@@ -106,7 +95,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -132,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-kanzlei-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt medizinrecht.
 
 ### Kanzlei: Red-Team und Qualitätskontrolle
 
@@ -158,7 +147,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 6. `spezial-krankenversicherung-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Krankenversicherung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Krankenversicherung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt medizinrecht.
 
 ### Krankenversicherung: Zahlen, Schwellenwerte und Berechnung
 

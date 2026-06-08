@@ -1,6 +1,6 @@
 ---
 name: neu-010-november-1918-uebergangsrecht-revolution-und-kontinu
-description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 010 November 1918 Uebergangsrecht Revolution Und Kontinu

@@ -1,6 +1,6 @@
 ---
 name: habilitation-hausrecht-campus-hochschularchiv
-description: "Prüft Habilitation und Lehrbefähigung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Habilitation und Lehrbefähigung im Hochschulrecht Länder."
 ---
 
 # Habilitation

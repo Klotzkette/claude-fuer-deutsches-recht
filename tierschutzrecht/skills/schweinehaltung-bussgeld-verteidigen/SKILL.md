@@ -1,6 +1,6 @@
 ---
 name: schweinehaltung-bussgeld-verteidigen
-description: "Schweinehaltung: Bußgeld verteidigen. Buß im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schweinehaltung: Bußgeld verteidigen. Buß im Tierschutzrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Schweinehaltung Bussgeld Verteidigen

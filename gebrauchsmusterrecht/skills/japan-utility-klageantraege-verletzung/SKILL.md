@@ -1,6 +1,6 @@
 ---
 name: japan-utility-klageantraege-verletzung
-description: "Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Japanisches Utility Model als Vergleich prüfen: Registrierung, technischer Bericht, Durchsetzungsvoraussetzungen und lokale Counsel-Fragen im Gebrauchsmusterrecht."
 ---
 
 # Japan Utility Model Vergleich

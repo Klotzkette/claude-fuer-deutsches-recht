@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Notare; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Notare; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Protokoll und Nachbereitung

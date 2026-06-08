@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-nabeg-planfeststellung-rechtsmittel-che
-description: "NABEG Planfeststellung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NABEG Planfeststellung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: NABEG Planfeststellung — Rechtsmittel-Check

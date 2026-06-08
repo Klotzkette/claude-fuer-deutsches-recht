@@ -1,6 +1,6 @@
 ---
 name: gesellschafter-geschaeftsfuehrer
-description: "Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Gesellschafter Geschaeftsfuehrer

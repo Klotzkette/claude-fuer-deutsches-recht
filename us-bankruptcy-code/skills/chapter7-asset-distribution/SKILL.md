@@ -1,6 +1,6 @@
 ---
 name: chapter7-asset-distribution
-description: "Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing im US Bankruptcy Code."
 ---
 
 # Chapter 7 Assets and Distribution

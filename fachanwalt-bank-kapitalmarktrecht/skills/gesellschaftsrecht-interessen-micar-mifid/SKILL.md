@@ -1,17 +1,9 @@
 ---
 name: gesellschaftsrecht-interessen-micar-mifid
-description: "Gesellschaftsrecht Interessen Micar Mifid im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Gesellschaftsrecht, Micar, Mifid. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschaftsrecht Interessen Micar Mifid im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Gesellschaftsrecht, Micar, Mifid."
 ---
 
 # Gesellschaftsrecht Interessen Micar Mifid
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-gesellschaftsrecht-mehrparteien-konflikt-und-interessen` | Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-micar-schriftsatz-brief-und-memo-bausteine` | Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-mifid-behoerden-gericht-und-registerweg` | Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,16 +30,16 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-gesellschaftsrecht-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix
-- **Konkreter Gegenstand:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -70,12 +62,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-micar-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Micar: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Micar: Schriftsatz-, Brief- und Memo-Bausteine
-- **Konkreter Gegenstand:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -98,12 +90,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mifid-behoerden-gericht-und-registerweg`
 
-**Fokus:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Mifid: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Mifid: Behörden-, Gerichts- oder Registerweg
-- **Konkreter Gegenstand:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

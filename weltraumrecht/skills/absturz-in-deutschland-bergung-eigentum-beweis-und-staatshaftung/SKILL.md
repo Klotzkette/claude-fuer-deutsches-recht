@@ -1,6 +1,6 @@
 ---
 name: absturz-in-deutschland-bergung-eigentum-beweis-und-staatshaftung
-description: "Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung im Weltraumrecht."
 ---
 
 # Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung

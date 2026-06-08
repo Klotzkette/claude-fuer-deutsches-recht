@@ -1,6 +1,6 @@
 ---
 name: pre-litigation-notice-and-standstill
-description: "Bereitet Pre-Action Letter, Standstill Agreement und Verjährungshemmung vor, wenn ein Commercial-Court-Verfahren droht im Commercial Courts Deutschland. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Pre-Action Letter, Standstill Agreement und Verjährungshemmung vor, wenn ein Commercial-Court-Verfahren droht im Commercial Courts Deutschland."
 ---
 
 # Pre-Litigation und Standstill

@@ -1,6 +1,6 @@
 ---
 name: norddeutscher-kaiserreichsverfassung
-description: "Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 007 Norddeutscher Bund Verfassung 1867

@@ -1,6 +1,6 @@
 ---
 name: gegen-gelb-gleicht
-description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Gegen: Dokumentenmatrix, Lückenliste und Nachforderung

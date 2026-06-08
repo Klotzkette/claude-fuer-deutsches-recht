@@ -1,6 +1,6 @@
 ---
 name: berufspflichtverletzung
-description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufspflichtverletzung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufspflichtverletzung: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufspflichtverletzung im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Berufspflichtverletzung

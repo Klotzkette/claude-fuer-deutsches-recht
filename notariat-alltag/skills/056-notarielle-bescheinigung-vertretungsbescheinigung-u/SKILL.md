@@ -1,6 +1,6 @@
 ---
 name: 056-notarielle-bescheinigung-vertretungsbescheinigung-u
-description: "Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen im Notariat."
 ---
 
 # Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung, Registerstand

@@ -1,6 +1,6 @@
 ---
 name: kagb-aif-bafin-grenzcheck
-description: "Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # KAGB/AIF/BaFin-Grenzcheck

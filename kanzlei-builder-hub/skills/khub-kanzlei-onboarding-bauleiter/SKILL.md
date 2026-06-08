@@ -1,6 +1,6 @@
 ---
 name: khub-kanzlei-onboarding-bauleiter
-description: "Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden: Rollenmatrix, Mandatsfreigabe, IT-Setup, Berufsrecht-Briefing, Probezeit-Plan. Pruefraster für Kanzlei-Manager im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden: Rollenmatrix, Mandatsfreigabe, IT-Setup, Berufsrecht-Briefing, Probezeit-Plan. Pruefraster für Kanzlei-Manager im Kanzlei Builder Hub."
 ---
 
 # Khub: Kanzlei-Onboarding Bauleiter

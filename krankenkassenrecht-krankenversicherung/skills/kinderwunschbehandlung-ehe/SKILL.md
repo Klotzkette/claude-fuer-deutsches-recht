@@ -1,6 +1,6 @@
 ---
 name: kinderwunschbehandlung-ehe
-description: "GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Kinderwunschbehandlung: Ehe, Alter und Kostenquote

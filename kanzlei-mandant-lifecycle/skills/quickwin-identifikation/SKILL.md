@@ -1,6 +1,6 @@
 ---
 name: quickwin-identifikation
-description: "Quickwin-Identifikation: steuert kleine schnelle Erfolge finden: Frist retten, Gegner beruhigen, Datenraum ordnen, Rechnung klären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Quickwin-Identifikation: steuert kleine schnelle Erfolge finden: Frist retten, Gegner beruhigen, Datenraum ordnen, Rechnung klären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Quickwin-Identifikation

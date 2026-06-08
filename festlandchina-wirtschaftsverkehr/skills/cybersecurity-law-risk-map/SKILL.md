@@ -1,6 +1,6 @@
 ---
 name: cybersecurity-law-risk-map
-description: "Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Cybersecurity Law VR China: Risikolandkarte für deutsche Unternehmen

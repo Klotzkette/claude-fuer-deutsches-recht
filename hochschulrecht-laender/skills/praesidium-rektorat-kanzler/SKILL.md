@@ -1,6 +1,6 @@
 ---
 name: praesidium-rektorat-kanzler
-description: "Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten im Hochschulrecht Länder."
 ---
 
 # Praesidium Rektorat Kanzler

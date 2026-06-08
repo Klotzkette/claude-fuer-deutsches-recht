@@ -1,6 +1,6 @@
 ---
 name: dolmetscherkosten-zahlen-schwellen-und-berechnung
-description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
 ---
 
 # Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung

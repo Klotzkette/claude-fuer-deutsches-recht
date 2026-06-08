@@ -1,17 +1,9 @@
 ---
 name: obliegenheiten-inso-p-konto-planablehnung
-description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Obliegenheiten in der Wohlverhaltensphase, P-Konto-Sofortschutz, Planablehnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Obliegenheiten in der Wohlverhaltensphase, P-Konto-Sofortschutz, Planablehnung."
 ---
 
 # Obliegenheiten Inso P Konto Planablehnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `obliegenheiten-295-inso` | Obliegenheiten in der Wohlverhaltensphase: Erwerbsobliegenheit, Erbschaft, Umzug, Zahlung an Treuhänder und Informationspflicht.; Normanker: InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `p-konto-sofortschutz` | P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.; Normanker: ZPO §§ 850k ff.; Pfändungsschutzkonto-Regeln; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `planablehnung-und-naechster-schritt` | Planablehnung: wann trotzdem Antrag stellen, wann Plan nachbessern, wann Regelinsolvenz prüfen.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Obliegenheiten Inso P Konto Planablehnung im Plugin Verbraucherins
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `obliegenheiten-295-inso`
 

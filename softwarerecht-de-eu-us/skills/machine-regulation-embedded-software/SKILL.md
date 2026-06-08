@@ -1,6 +1,6 @@
 ---
 name: machine-regulation-embedded-software
-description: "Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Embedded Software, Safety Functions, Updates, Maschinenverordnung, CE und technische Dokumentation im Softwarerecht De Eu Us."
 ---
 
 # Embedded Software Maschinenverordnung

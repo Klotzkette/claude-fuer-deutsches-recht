@@ -1,6 +1,6 @@
 ---
 name: ihk-handwerk-berufsabschluss
-description: "Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Pruefungsrecht Hochschule."
 ---
 
 # IHK, Handwerk und Berufsabschluss

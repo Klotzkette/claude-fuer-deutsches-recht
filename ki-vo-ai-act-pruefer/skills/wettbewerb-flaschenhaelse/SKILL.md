@@ -1,15 +1,9 @@
 ---
 name: wettbewerb-flaschenhaelse
-description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pruefer."
 ---
 
 # Wettbewerb Flaschenhaelse
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wettbewerb-ki-flaschenhaelse-big-tech` | KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wettbewerb-ki-flaschenhaelse-big-tech`
 

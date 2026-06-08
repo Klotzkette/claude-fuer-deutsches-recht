@@ -1,6 +1,6 @@
 ---
 name: rbst-mandantenkommunikation-entscheidungsvorlage
-description: "Rbst: Mandantenkommunikation und Entscheidungsvorlage; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rbst: Mandantenkommunikation und Entscheidungsvorlage im Rechtsberatungsstelle."
 ---
 
 # Rbst: Mandantenkommunikation und Entscheidungsvorlage

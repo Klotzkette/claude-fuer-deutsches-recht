@@ -1,6 +1,6 @@
 ---
 name: pflicht-planung-restrukturierungsplan
-description: "Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung

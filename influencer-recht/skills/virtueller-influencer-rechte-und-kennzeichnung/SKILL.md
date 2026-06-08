@@ -1,6 +1,6 @@
 ---
 name: virtueller-influencer-rechte-und-kennzeichnung
-description: "Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act im Influencer-Recht."
 ---
 
 # Influencer-Recht: Virtueller Influencer – Rechte und Kennzeichnung

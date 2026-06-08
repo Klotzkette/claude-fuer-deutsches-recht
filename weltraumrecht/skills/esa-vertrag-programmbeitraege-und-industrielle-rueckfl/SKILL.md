@@ -1,6 +1,6 @@
 ---
 name: esa-vertrag-programmbeitraege-und-industrielle-rueckfl
-description: "ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen im Weltraumrecht."
 ---
 
 # Weltraumrecht: ESA-Vertrag: Programmbeiträge und industrielle Rückflüsse

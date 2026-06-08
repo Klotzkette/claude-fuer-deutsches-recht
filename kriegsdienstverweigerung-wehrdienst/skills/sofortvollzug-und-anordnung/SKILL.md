@@ -1,6 +1,6 @@
 ---
 name: sofortvollzug-und-anordnung
-description: "Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Sofortvollzug § 80 VwGO

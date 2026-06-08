@@ -1,6 +1,6 @@
 ---
 name: immatrikulation-und-rueckmeldung
-description: "Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Immatrikulation, Rückmeldung und Gebühren im Hochschulrecht Länder."
 ---
 
 # Immatrikulation Und Rueckmeldung

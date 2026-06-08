@@ -1,6 +1,6 @@
 ---
 name: praesentation-aufsichtsrat
-description: "Wirtschaftsprüfer: praesentation im aufsichtsrat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: praesentation im aufsichtsrat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: praesentation im aufsichtsrat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

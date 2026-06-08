@@ -1,6 +1,6 @@
 ---
 name: artenschutz-fachbeitrag-lesen
-description: "Umweltschutzverband Verbandsklage: Artenschutz-Fachbeitrag lesen. Artenschutz-Fachbeitrag lesen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Artenschutz-Fachbeitrag lesen. Artenschutz-Fachbeitrag lesen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
 ---
 
 # Artenschutz Fachbeitrag Lesen

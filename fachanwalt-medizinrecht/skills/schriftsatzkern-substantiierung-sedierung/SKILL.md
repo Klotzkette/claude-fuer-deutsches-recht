@@ -1,18 +1,9 @@
 ---
 name: schriftsatzkern-substantiierung-sedierung
-description: "Schriftsatzkern Substantiierung Sedierung im Medizinrecht: prüft konkret Substantiierter Schriftsatzkern für Arzthaftungsklage und, Ambulante Sedierung und IGeL, Sepsis-Diagnoseverzug, 630A. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schriftsatzkern Substantiierung Sedierung im Medizinrecht: prüft konkret Substantiierter Schriftsatzkern für Arzthaftungsklage und, Ambulante Sedierung und IGeL, Sepsis-Diagnoseverzug, 630A."
 ---
 
 # Schriftsatzkern Substantiierung Sedierung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverständigen-Gutachten, Hilfsanträge Replik-Vorausschau. Output vollständiger Schriftsatz mit Antrag Begründung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission. |
-| `sedierung-ambulant-igel` | Ambulante Sedierung und IGeL: moderner Medizinrechts-Skill für Sedierung in Praxis/MVZ, Überwachung, Privatvereinbarung, GOÄ und Notfallmanagement. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `sepsis-diagnoseverzug` | Sepsis-Diagnoseverzug: moderner Medizinrechts-Skill für Infektzeichen, Labor, Eskalation, Antibiotikagabe, SOP und Kausalitätsstreit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `spezial-630a-dokumentenmatrix-und-lueckenliste` | 630A: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Schriftsatzkern Substantiierung Sedierung im Medizinrecht: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `schriftsatzkern-substantiierung`
 
@@ -340,7 +331,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `spezial-630a-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** 630A: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** 630A: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt medizinrecht.
 
 ### 630A: Dokumentenmatrix, Lückenliste und Nachforderung
 

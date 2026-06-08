@@ -1,6 +1,6 @@
 ---
 name: durch-schriftsatz-brief-und-memo-bausteine
-description: "Durch: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Durch: Schriftsatz-, Brief- und Memo-Bausteine im Hausarbeitenmacher."
 ---
 
 # Durch: Schriftsatz-, Brief- und Memo-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: case-management-tool
-description: "Prüft technisches Case-Management für Hinweisfälle im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technisches Case-Management für Hinweisfälle im Hinweisgeberschutz Compliance."
 ---
 
 # Case Management Tool

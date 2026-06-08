@@ -1,6 +1,6 @@
 ---
 name: betreiber-mitverschulden-betriebsanleitung
-description: "Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende Wartung, Umgehung von Schutzfunktionen, Schulungslücken und Logspuren im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende Wartung, Umgehung von Schutzfunktionen, Schulungslücken und Logspuren im Robotik-Recht."
 ---
 
 # Betreiber-Mitverschulden und Fehlbedienung

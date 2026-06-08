@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-entreicherung-und-saldotheorie
-description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Entreicherung § 818 Abs. 3 BGB, Bösgläubigkeit, Saldotheorie und Zweikondiktionenlehre im BGB BT."
 ---
 
 # Bereicherungsrecht: Entreicherung und Saldotheorie

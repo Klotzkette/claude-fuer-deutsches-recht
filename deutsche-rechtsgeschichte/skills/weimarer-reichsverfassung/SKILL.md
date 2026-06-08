@@ -1,6 +1,6 @@
 ---
 name: weimarer-reichsverfassung
-description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern im Deutsche Rechtsgeschichte."
 ---
 
 # Weimarer Reichsverfassung (WRV, 11. August 1919)

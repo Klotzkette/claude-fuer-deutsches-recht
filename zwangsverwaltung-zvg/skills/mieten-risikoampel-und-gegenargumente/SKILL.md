@@ -1,6 +1,6 @@
 ---
 name: mieten-risikoampel-und-gegenargumente
-description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Mieten: Risikoampel, Gegenargumente und Verteidigungslinien

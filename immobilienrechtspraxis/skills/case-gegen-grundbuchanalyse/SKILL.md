@@ -1,6 +1,6 @@
 ---
 name: case-gegen-grundbuchanalyse
-description: "Case: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Case: Internationaler Bezug und Schnittstellen im Immobilienrechtspraxis."
 ---
 
 # Case: Internationaler Bezug und Schnittstellen

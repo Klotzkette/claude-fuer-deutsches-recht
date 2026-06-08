@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-photovoltaik-untererbbaurecht
-description: "Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung im Erbbaurecht Praxis."
 ---
 
 # PV, Wärmepumpe, Ladepunkte

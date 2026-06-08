@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-berufspflichtverletzung
-description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufshaftpflicht im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufshaftpflicht: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufshaftpflicht im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Berufshaftpflicht

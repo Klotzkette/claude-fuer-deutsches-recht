@@ -1,6 +1,6 @@
 ---
 name: muendliche-atmosphaere-druck
-description: "Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis im Pruefungsrecht Hochschule."
 ---
 
 # Mündliche Atmosphäre und Druck

@@ -1,19 +1,9 @@
 ---
 name: verbundabtrennung-versorgungsausgleich
-description: "Verbundabtrennung Versorgungsausgleich im Plugin Fachanwalt Familienrecht: prüft konkret Verbundabtrennung Versorgungsausgleich, Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG, Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verbundabtrennung Versorgungsausgleich im Plugin Fachanwalt Familienrecht: prüft konkret Verbundabtrennung Versorgungsausgleich, Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG, Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausg."
 ---
 
 # Verbundabtrennung Versorgungsausgleich
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `verbundabtrennung-versorgungsausgleich` | Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg` | Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `versorgungsausgleich-rentenmix-inland-ausland` | Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.; Normanker: VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `versorgungsausgleich-und-versorgungsausgleichskasse` | Versorgungsausgleich und Versorgungsausgleichskasse: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Verbundabtrennung Versorgungsausgleich im Plugin Fachanwalt Famili
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `verbundabtrennung-versorgungsausgleich`
 

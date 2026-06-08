@@ -1,18 +1,9 @@
 ---
 name: orphan-atmp-pathologie-probenverwechslung
-description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft konkret Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik, Prädiktive Genetik und Familie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft konkret Orphan ATMP Zugang, Pathologie Probenverwechslung, Patientenverfügung in der Klinik, Prädiktive Genetik und Familie."
 ---
 
 # Orphan Atmp Pathologie Probenverwechslung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `orphan-atmp-zugang` | Orphan ATMP Zugang: moderner Medizinrechts-Skill für Seltene Erkrankung, Orphan-Status, Studienzugang, Registerdaten und Kostenträgerstrategie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `pathologie-probenverwechslung` | Pathologie Probenverwechslung: moderner Medizinrechts-Skill für Gewebeprobe, Barcode, Präanalytik, Chain of Custody und falsche Krebsdiagnose. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `patientenverfuegung-klinik` | Patientenverfügung in der Klinik: moderner Medizinrechts-Skill für Auslegung von Patientenverfügung, Vorsorgevollmacht, Ethikkomitee und Haftungsangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `praediktive-genetik-familie` | Prädiktive Genetik und Familie: moderner Medizinrechts-Skill für Prädiktiver Test, Angehörigeninformation, Recht auf Nichtwissen und Beratungsdokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Orphan Atmp Pathologie Probenverwechslung im Medizinrecht: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `orphan-atmp-zugang`
 

@@ -1,6 +1,6 @@
 ---
 name: zweitpruefer-befangenheit
-description: "Prüft Prüferbestellung, Befangenheit, Zweitkorrektur und Bewertungsunabhängigkeit im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferbestellung, Befangenheit, Zweitkorrektur und Bewertungsunabhängigkeit im Pruefungsrecht Hochschule."
 ---
 
 # Zweitprüfer und Befangenheit

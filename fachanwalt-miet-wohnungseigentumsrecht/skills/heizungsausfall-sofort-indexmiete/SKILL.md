@@ -1,19 +1,9 @@
 ---
 name: heizungsausfall-sofort-indexmiete
-description: "Heizungsausfall Sofort Indexmiete im Miet- und Wohnungseigentumsrecht: prüft konkret Heizungsausfall sofort, Index-/Staffelmiete, Inkasso/Mahnung Miete, Kaution nach Auszug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Heizungsausfall Sofort Indexmiete im Miet- und Wohnungseigentumsrecht: prüft konkret Heizungsausfall sofort, Index-/Staffelmiete, Inkasso/Mahnung Miete, Kaution nach Auszug."
 ---
 
 # Heizungsausfall Sofort Indexmiete
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-heizungsausfall-sofort` | Heizungsausfall sofort: Prüfungslinie für Miet- und WEG-Recht; erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-indexmiete-staffelmiete` | Index-/Staffelmiete: Prüfungslinie für Miet- und WEG-Recht; prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-inkasso-mahnung-miete` | Inkasso/Mahnung Miete: Prüfungslinie für Miet- und WEG-Recht; erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-kaution-nach-auszug` | Kaution nach Auszug: Prüfungslinie für Miet- und WEG-Recht; sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-kosten-streitwert` | Kosten und Streitwert: Prüfungslinie für Miet- und WEG-Recht; schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Heizungsausfall Sofort Indexmiete im Miet- und Wohnungseigentumsre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-heizungsausfall-sofort`
 

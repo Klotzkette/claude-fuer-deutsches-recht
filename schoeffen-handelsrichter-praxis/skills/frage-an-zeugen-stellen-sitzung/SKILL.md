@@ -1,6 +1,6 @@
 ---
 name: frage-an-zeugen-stellen-sitzung
-description: "Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fragen an Zeugen stellen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Fragerecht, suggestive Fragen, Schutz von Zeugen und Sitzungsdisziplin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Fragen an Zeugen stellen: Sitzungspraxis

@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-erstpruefung-und-mandatsziel
-description: "Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Zwangsvollstreckung."
 ---
 
 # Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel

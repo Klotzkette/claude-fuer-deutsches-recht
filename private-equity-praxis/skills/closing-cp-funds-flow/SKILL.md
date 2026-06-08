@@ -1,6 +1,6 @@
 ---
 name: closing-cp-funds-flow
-description: "Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan im Private Equity Praxis."
 ---
 
 # Closing, CPs und Funds Flow

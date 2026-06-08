@@ -1,6 +1,6 @@
 ---
 name: settlement-authority
-description: "Settlement Authority: steuert Vergleichsvollmacht, wirtschaftliche Untergrenzen, Eskalationsleiter und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Settlement Authority: steuert Vergleichsvollmacht, wirtschaftliche Untergrenzen, Eskalationsleiter und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Settlement Authority

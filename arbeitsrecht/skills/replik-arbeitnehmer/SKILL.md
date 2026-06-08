@@ -1,18 +1,9 @@
 ---
 name: replik-arbeitnehmer
-description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret Reaktion auf die Klageerwiderung des Arbeitgebers, Checkliste Sonderkündigungsschutz, Streitwert nach § 42 GKG drei Bruttomonatsgehaelter, KERNSKILL. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret Reaktion auf die Klageerwiderung des Arbeitgebers, Checkliste Sonderkündigungsschutz, Streitwert nach § 42 GKG drei Bruttomonatsgehaelter, KERNSKILL."
 ---
 
 # Kueschk Replik Arbeitnehmer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kueschk-replik-arbeitnehmer-baustein` | Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie für den Kammertermin. |
-| `kueschk-sonderkuendigungsschutz-checkliste` | Checkliste Sonderkündigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche Zustimmungserfordernisse. |
-| `kueschk-streitwert-kostenfolge-prozesskostenhilfe` | Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten. |
-| `kueschk-stricken-anwalt-risiko-und-vergleichsdruck` | KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige Lösung nach neuem Arbeitsverhältnis. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kueschk-replik-arbeitnehmer-baustein`
 

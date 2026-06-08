@@ -1,17 +1,9 @@
 ---
 name: bankrecht-privatbuergschaft-regress-bk
-description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Privat-, Ehegatten- und Angehörigenbürgschaft prüfen, Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Privat-, Ehegatten- und Angehörigenbürgschaft prüfen, Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen."
 ---
 
 # Bankrecht Privatbuergschaft Regress BK
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bankrecht-privatbuergschaft-sittenwidrigkeit` | Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie. |
-| `bankrecht-regress-nach-avalzahlung` | Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen: § 774 BGB, Aufwendungsersatz, Kontobelastung, Sicherheiten, Mitbürgen, Insolvenz, Anfechtung und Vergleich. |
-| `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern` | Fachanwalts-Fachmodul für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bankrecht-privatbuergschaft-sittenwidrigkeit`
 

@@ -1,6 +1,6 @@
 ---
 name: schuldnerschutz-beweislast-und-darlegungslast
-description: "Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung im Zwangsvollstreckung."
 ---
 
 # Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung

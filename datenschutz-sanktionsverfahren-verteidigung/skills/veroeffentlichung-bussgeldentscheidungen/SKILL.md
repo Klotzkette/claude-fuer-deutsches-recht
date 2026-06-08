@@ -1,18 +1,9 @@
 ---
 name: veroeffentlichung-bussgeldentscheidungen
-description: "Veroeffentlichung Bussgeldentscheidungen im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Veröffentlichung von Bußgeldentscheidungen, Anwesenheit und Entbindung § 73 OWiG, One-Stop-Shop Art, Akteneinsicht § 49 OWiG und § 147 StPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Veroeffentlichung Bussgeldentscheidungen im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Veröffentlichung von Bußgeldentscheidungen, Anwesenheit und Entbindung § 73 OWiG, One-Stop-Shop Art, Akteneinsicht § 49 OWiG und § 147 StPO."
 ---
 
 # Veroeffentlichung Bussgeldentscheidungen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `veroeffentlichung-von-bussgeldentscheidungen` | Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `anwesenheit-73-owig-vertretung` | Anwesenheit und Entbindung § 73 OWiG: Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `one-stop-shop-art-56-60` | One-Stop-Shop Art. 56 und 60: Lead Authority, betroffene Aufsichten, Draft Decision, Einwände und grenzüberschreitende Verteidigung steuern. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `akteneinsicht-49-owig-147-stpo` | Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Veroeffentlichung Bussgeldentscheidungen im Datenschutz-Sanktionsv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `veroeffentlichung-von-bussgeldentscheidungen`
 

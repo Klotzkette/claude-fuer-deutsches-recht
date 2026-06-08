@@ -1,6 +1,6 @@
 ---
 name: spannungs-verteidigungsfall
-description: "Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Spannungs- und Verteidigungsfall

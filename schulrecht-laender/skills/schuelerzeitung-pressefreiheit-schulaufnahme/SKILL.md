@@ -1,6 +1,6 @@
 ---
 name: schuelerzeitung-pressefreiheit-schulaufnahme
-description: "Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit im Schulrecht Länder."
 ---
 
 # Schülerzeitung und Pressefreiheit

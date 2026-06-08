@@ -1,6 +1,6 @@
 ---
 name: market-definition-2024-eu-notice
-description: "EU Marktdefinitionsbekanntmachung 2024: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Produktmarkt, räumlicher Markt, Innovation, Plattformen und Evidenz nach Kommissionslogik prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EU Marktdefinitionsbekanntmachung 2024: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Produktmarkt, räumlicher Markt, Innovation, Plattformen und Evidenz nach Kommissionslogik prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # EU Marktdefinitionsbekanntmachung 2024

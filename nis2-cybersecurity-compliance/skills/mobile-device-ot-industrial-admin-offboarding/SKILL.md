@@ -1,6 +1,6 @@
 ---
 name: mobile-device-ot-industrial-admin-offboarding
-description: "Steuert verlorene Geräte und gestohlene Laptops im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuert verlorene Geräte und gestohlene Laptops im Nis2 Cybersecurity Compliance."
 ---
 
 # Mobile Device Loss

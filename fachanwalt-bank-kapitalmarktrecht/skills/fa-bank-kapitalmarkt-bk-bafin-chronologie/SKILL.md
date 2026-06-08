@@ -1,17 +1,9 @@
 ---
 name: fa-bank-kapitalmarkt-bk-bafin-chronologie
-description: "FA Bank Kapitalmarkt BK Bafin Chronologie im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank, BaFin-Beschwerdeverfahren Workflow, Chronologie und Belegmatrix im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA Bank Kapitalmarkt BK Bafin Chronologie im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank, BaFin-Beschwerdeverfahren Workflow, Chronologie und Belegmatrix im Plugin."
 ---
 
 # FA Bank Kapitalmarkt BK Bafin Chronologie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Bank Kapitalmarktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `bk-bafin-beschwerdeverfahren-workflow` | BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext für Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-bank-kapitalmarktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "FA Bank Kapitalmarkt BK Bafin Chronologie im Plugin Fachanwalt Ban
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `allgemein`
 

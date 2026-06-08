@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-einfach-abschlussbericht
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Mandantenbrief Einfach Erklaert; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Mandantenbrief Einfach Erklaert; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # Mandantenbrief Einfach Erklaert

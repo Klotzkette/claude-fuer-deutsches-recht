@@ -1,6 +1,6 @@
 ---
 name: dekanat-organstreit
-description: "Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel im Hochschulrecht Länder."
 ---
 
 # Dekanat und Organstreit

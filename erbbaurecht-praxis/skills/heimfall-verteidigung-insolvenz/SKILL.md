@@ -1,6 +1,6 @@
 ---
 name: heimfall-verteidigung-insolvenz
-description: "Entwickelt Einwendungen, Nachholung, Verhältnismäßigkeit, Vergleich, Finanzierungslösung und Eilstrategie im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entwickelt Einwendungen, Nachholung, Verhältnismäßigkeit, Vergleich, Finanzierungslösung und Eilstrategie im Erbbaurecht Praxis."
 ---
 
 # Heimfall abwehren

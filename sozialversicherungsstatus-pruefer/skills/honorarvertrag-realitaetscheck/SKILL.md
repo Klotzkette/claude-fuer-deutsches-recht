@@ -1,6 +1,6 @@
 ---
 name: honorarvertrag-realitaetscheck
-description: "Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen im Sozialversicherungsstatus Pruefer."
 ---
 
 # Honorarvertrag Realitätscheck

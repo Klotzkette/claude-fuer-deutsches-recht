@@ -1,6 +1,6 @@
 ---
 name: registerbeanstandung-und-beschwerde
-description: "Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht im Handelsrecht Hgb."
 ---
 
 # Registerbeanstandung und Beschwerde

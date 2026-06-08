@@ -1,6 +1,6 @@
 ---
 name: lohn-betriebliche-altersversorgung-grundlagen
-description: "Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Förderung. Output bAV-Beratungs-Notiz im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Förderung. Output bAV-Beratungs-Notiz im Steuerrecht Anwalt Und Berater."
 ---
 
 # Betriebliche Altersversorgung (bAV) — Grundlagen

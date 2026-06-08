@@ -1,6 +1,6 @@
 ---
 name: compliance-hotline-provider
-description: "Prüft Hotline-Provider und Case-Management-Tools im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hotline-Provider und Case-Management-Tools im Hinweisgeberschutz Compliance."
 ---
 
 # Compliance Hotline Provider

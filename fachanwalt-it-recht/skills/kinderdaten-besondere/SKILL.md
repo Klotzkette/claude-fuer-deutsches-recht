@@ -1,19 +1,9 @@
 ---
 name: kinderdaten-besondere
-description: "DSV Kinderdaten Besondere im Plugin Fachanwalt It Recht: prüft konkret Bewertet einen Datenschutzvorfall mit Daten von, Etabliert eine interne und externe Kommunikationssperre, Bestimmt die federführende Aufsichtsbehörde bei, Strukturiert die Lessons-Learned-Nachbereitung eines. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DSV Kinderdaten Besondere im Plugin Fachanwalt It Recht: prüft konkret Bewertet einen Datenschutzvorfall mit Daten von, Etabliert eine interne und externe Kommunikationssperre, Bestimmt die federführende Aufsichtsbehörde bei, Strukturiert die Lessons-Learned-Nachbereitung eines."
 ---
 
 # DSV Kinderdaten Besondere
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsv-kinderdaten-besondere-schutzbeduerftigkeit` | Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung. |
-| `dsv-kommunikationssperre` | Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarbeiterinformation; Betriebsrat-Beteiligung; Sozialmedien. Output: Kommunikationssperre-Memo und Sprachregelung. Abgrenzung: keine Pressemitteilung; keine Krisen-PR. |
-| `dsv-lead-authority-konzern` | Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Meldung an Lead Authority versus parallele Meldung an betroffene Behörden. Output: Memo zur Behördenzuständigkeit mit Begründung. Abgrenzung: keine konkrete Meldung. |
-| `dsv-lessons-learned-nachbereitung` | Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung; Erfolgsmessung. Output: Workshop-Leitfaden und Maßnahmen-Tracker. Abgrenzung: keine VVT- oder DSFA-Pflege; keine Bußgeldverteidigung. |
-| `dsv-meldung-art-33-pflichtangaben` | Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene oder vorgeschlagene Abhilfemaßnahmen; Begründung Verspätung Art. 33 Abs. 1 Satz 2; Form schriftlich oder per Online-Formular; schrittweise Übermittlung Art. 33 Abs. 4. Output: Fließtext-Meldung in der Reihenfolge der Berliner Formularstruktur I bis VI. Abgrenzung: keine behörden-spezifischen Eingabewege; keine Benachrichtigung Art. 34. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "DSV Kinderdaten Besondere im Plugin Fachanwalt It Recht: prüft ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsv-kinderdaten-besondere-schutzbeduerftigkeit`
 

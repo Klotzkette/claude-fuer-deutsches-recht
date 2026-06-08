@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-hilfsmittel-ablehnung-krankenkasse
-description: "Laienhilfe Hilfsmittel Ablehnung Krankenkasse im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel, Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung, Laienverstaendlicher Sozialrechts-Skill zu Kinder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Hilfsmittel Ablehnung Krankenkasse im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel, Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung, Laienverstaendlicher Sozialrechts-Skill zu Kinder."
 ---
 
 # Laienhilfe Hilfsmittel Ablehnung Krankenkasse
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-hilfsmittel-ablehnung` | Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Ablehnung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-hilfsmittel-krankenkasse` | Laienverstaendlicher Sozialrechts-Skill zu Hilfsmittel Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-kdu-miete-heizung` | Laienverstaendlicher Sozialrechts-Skill zu Kdu Miete Heizung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-kinder-jugendhilfe-abgrenzung` | Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Hilfsmittel Ablehnung Krankenkasse im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-hilfsmittel-ablehnung`
 

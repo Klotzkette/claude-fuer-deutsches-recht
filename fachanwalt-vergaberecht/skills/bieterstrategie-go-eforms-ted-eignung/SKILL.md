@@ -1,18 +1,9 @@
 ---
 name: bieterstrategie-go-eforms-ted-eignung
-description: "Bieterstrategie GO Eforms TED Eignung im Plugin Fachanwalt Vergaberecht: prüft konkret Bieterstrategie und Go/No-Go für Ausschreibungen, eForms, TED und Bekanntmachungen pruefen, Eignung vertieft pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bieterstrategie GO Eforms TED Eignung im Plugin Fachanwalt Vergaberecht: prüft konkret Bieterstrategie und Go/No-Go für Ausschreibungen, eForms, TED und Bekanntmachungen pruefen, Eignung vertieft pruefen."
 ---
 
 # Bieterstrategie GO Eforms TED Eignung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bieterstrategie-go-no-go` | Bieterstrategie und Go/No-Go für Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen. |
-| `eforms-ted-bekanntmachung-check` | eForms, TED und Bekanntmachungen pruefen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen. |
-| `eignung-referenzen-umsatz-nachunternehmer` | Eignung vertieft pruefen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bieterstrategie GO Eforms TED Eignung im Plugin Fachanwalt Vergabe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bieterstrategie-go-no-go`
 

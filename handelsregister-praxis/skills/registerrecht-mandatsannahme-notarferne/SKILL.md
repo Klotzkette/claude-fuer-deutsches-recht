@@ -1,6 +1,6 @@
 ---
 name: registerrecht-mandatsannahme-notarferne
-description: "Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Rolle der anwaltlichen Beratung neben Notar, Verantwortungsgrenzen und Mandantensteuerung im Handelsregister Praxis."
 ---
 
 # Kanzlei ohne Notarvollzug

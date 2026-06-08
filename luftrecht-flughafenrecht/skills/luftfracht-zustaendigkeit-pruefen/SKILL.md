@@ -1,6 +1,6 @@
 ---
 name: luftfracht-zustaendigkeit-pruefen
-description: "Luftfracht-Mandat: unklar welche Behörde zuständig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prueft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zuständigkeits-Vermerk für Luftfracht-Streit oder Genehmigungsverfahren im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Luftfracht-Mandat: unklar welche Behörde zuständig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prueft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zuständigkeits-Vermerk für Luftfracht-Streit oder Genehmigungsverfahren im Luftrecht Flughafenrecht."
 ---
 
 # Luftfracht – Zuständigkeit prüfen

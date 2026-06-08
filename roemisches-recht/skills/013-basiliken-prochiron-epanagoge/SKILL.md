@@ -1,6 +1,6 @@
 ---
 name: 013-basiliken-prochiron-epanagoge
-description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Römisches Recht."
 ---
 
 # Rom Basiliken Prochiron Epanagoge Und Spaetere Rezeption

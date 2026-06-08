@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-reexport-weitergabe-kettenlieferung
-description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraenkungen in BAFA-Genehmigungen, Re-Export-Verbote in Handelsvertraegen, Catch-All-Risiko bei Weiterlieferung an Endabnehmer in Hochrisikolaendern, No-Russia-Clause Art. 12g VO (EU) 833/2014 in der Lieferkette. Output: Re-Export-Pruefmatrix im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraenkungen in BAFA-Genehmigungen, Re-Export-Verbote in Handelsvertraegen, Catch-All-Risiko bei Weiterlieferung an Endabnehmer in Hochrisikolaendern, No-Russia-Clause Art. 12g VO (EU) 833/2014 in der Lieferkette. Output: Re-Export-Pruefmatrix im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Re-Export und Kettenlieferung: Weitergabeverbote und Catch-All-Risiken

@@ -1,6 +1,6 @@
 ---
 name: bankabschluss-und-regulatorik-rechtsprechung
-description: "Wirtschaftsprüfer: bankabschluss und regulatorik - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: bankabschluss und regulatorik - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: bankabschluss und regulatorik - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

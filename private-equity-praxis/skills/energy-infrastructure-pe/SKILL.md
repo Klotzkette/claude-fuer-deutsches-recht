@@ -1,6 +1,6 @@
 ---
 name: energy-infrastructure-pe
-description: "Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen im Private Equity Praxis."
 ---
 
 # Energy/Infrastructure PE

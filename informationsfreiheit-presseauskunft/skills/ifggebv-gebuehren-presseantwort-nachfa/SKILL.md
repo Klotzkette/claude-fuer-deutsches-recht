@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-presseantwort-nachfa
-description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Presseantwort nachfassen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Ifggebv Gebühren Presseantwort Nachfa

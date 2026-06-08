@@ -1,6 +1,6 @@
 ---
 name: cross-border
-description: "Cross-Border: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Cross-Border im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cross-Border: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Cross-Border im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Cross-Border

@@ -1,17 +1,9 @@
 ---
 name: embargo-fristennotiz-schiedsverfahren
-description: "Embargo Fristennotiz Schiedsverfahren im Internationalen Wirtschaftsrecht: prüft konkret Embargo, Schiedsverfahren, Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Embargo Fristennotiz Schiedsverfahren im Internationalen Wirtschaftsrecht: prüft konkret Embargo, Schiedsverfahren, Wirtschaftsrecht."
 ---
 
 # Embargo Fristennotiz Schiedsverfahren
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-embargo-fristennotiz-und-naechster-schritt` | Embargo: Fristennotiz und nächster Schritt im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schiedsverfahren-behoerden-gericht-und-registerweg` | Schiedsverfahren: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-wirtschaftsrecht-fristen-form-und-zuständigkeit` | Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-embargo-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Embargo: Fristennotiz und nächster Schritt im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Embargo: Fristennotiz und nächster Schritt im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Embargo: Fristennotiz und nächster Schritt
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-schiedsverfahren-behoerden-gericht-und-registerweg`
 
-**Fokus:** Schiedsverfahren: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schiedsverfahren: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Schiedsverfahren: Behörden-, Gerichts- oder Registerweg
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-wirtschaftsrecht-fristen-form-und-zuständigkeit`
 
-**Fokus:** Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 

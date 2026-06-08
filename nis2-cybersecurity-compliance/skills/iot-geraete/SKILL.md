@@ -1,6 +1,6 @@
 ---
 name: iot-geraete
-description: "Prüft IoT-Geräte im Unternehmen und Produktkontext im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft IoT-Geräte im Unternehmen und Produktkontext im Nis2 Cybersecurity Compliance."
 ---
 
 # IoT Geraete

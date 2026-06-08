@@ -1,6 +1,6 @@
 ---
 name: geschaeftsbesorgung-zahlungsdienste-goa
-description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung im BGB BT."
 ---
 
 # Geschäftsbesorgung und Zahlungsdienste

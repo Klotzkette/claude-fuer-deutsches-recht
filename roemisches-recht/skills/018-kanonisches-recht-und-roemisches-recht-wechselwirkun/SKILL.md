@@ -1,6 +1,6 @@
 ---
 name: 018-kanonisches-recht-und-roemisches-recht-wechselwirkun
-description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht."
 ---
 
 # Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun

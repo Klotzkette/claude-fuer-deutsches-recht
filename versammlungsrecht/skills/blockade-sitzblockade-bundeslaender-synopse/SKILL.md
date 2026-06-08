@@ -1,6 +1,6 @@
 ---
 name: blockade-sitzblockade-bundeslaender-synopse
-description: "Prüft Blockaden, Sitzblockaden, Zufahrtsnähe und Friedlichkeitsgrenzen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Blockaden, Sitzblockaden, Zufahrtsnähe und Friedlichkeitsgrenzen im Versammlungsrecht."
 ---
 
 # Friedlichkeit sorgfältig prüfen

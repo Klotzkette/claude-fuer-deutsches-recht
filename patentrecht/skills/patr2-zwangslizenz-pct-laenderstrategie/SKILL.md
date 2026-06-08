@@ -1,6 +1,6 @@
 ---
 name: patr2-zwangslizenz-pct-laenderstrategie
-description: "Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung: Voraussetzungen, EuGH Huawei / ZTE, kartellrechtliche Aspekte. Pruefraster für SEP-Inhaber und Implementer im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung: Voraussetzungen, EuGH Huawei / ZTE, kartellrechtliche Aspekte. Pruefraster für SEP-Inhaber und Implementer im Patentrecht."
 ---
 
 # PatR2: Zwangslizenz FRAND

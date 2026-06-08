@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata
-description: "Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer Schema BGB, Schema StGB, Anspruchsprüfung Aufbau, Verbrechensaufbau, Grundrechtsschema oder brauche ich Schemata sagt im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer Schema BGB, Schema StGB, Anspruchsprüfung Aufbau, Verbrechensaufbau, Grundrechtsschema oder brauche ich Schemata sagt im Jurastudium."
 ---
 
 # Lösungsschemata

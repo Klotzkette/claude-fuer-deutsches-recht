@@ -1,6 +1,6 @@
 ---
 name: steuerberater-wp-freier-mitarbeiter
-description: "Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien im Sozialversicherungsstatus Pruefer."
 ---
 
 # Freier Mitarbeiter Steuerberater/WP

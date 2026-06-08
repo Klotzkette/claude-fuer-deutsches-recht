@@ -1,6 +1,6 @@
 ---
 name: maengelruege-paragraph-377-hgb
-description: "Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust im Handelsrecht Hgb."
 ---
 
 # Mängelrüge § 377 HGB

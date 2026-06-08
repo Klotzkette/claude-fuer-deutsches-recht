@@ -1,6 +1,6 @@
 ---
 name: asymmetrische-demobilisierung
-description: "Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren im Wahlkampfrecht."
 ---
 
 # Asymmetrische Demobilisierung

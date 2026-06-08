@@ -1,15 +1,9 @@
 ---
 name: wohnhaus
-description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # EIN Wohnhaus
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ein-099-wohnhaus-ddr-enteignung-klage-skizzier` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren. Klage skizzieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "EIN Wohnhaus im Einigungsvertrag und Vermögensrecht im Einigungsv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Anmeldung nach § 30 VermG, Restitutionsbescheid, Investitionsvorrangbescheid, Grundbuchauszug, Notar-Auflassung, Investitionsbescheinigung, EALG-Bescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ein-099-wohnhaus-ddr-enteignung-klage-skizzier`
 

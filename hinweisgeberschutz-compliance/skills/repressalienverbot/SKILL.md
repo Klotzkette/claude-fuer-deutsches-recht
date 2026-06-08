@@ -1,6 +1,6 @@
 ---
 name: repressalienverbot
-description: "Prüft Repressalien und schützt Betroffene prozessfest im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Repressalien und schützt Betroffene prozessfest im Hinweisgeberschutz Compliance."
 ---
 
 # Repressalienverbot

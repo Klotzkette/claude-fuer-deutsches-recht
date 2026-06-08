@@ -1,6 +1,6 @@
 ---
 name: befangenheit-selbstanzeige-sitzung
-description: "Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Befangenheit Selbstanzeige: Sitzungspraxis

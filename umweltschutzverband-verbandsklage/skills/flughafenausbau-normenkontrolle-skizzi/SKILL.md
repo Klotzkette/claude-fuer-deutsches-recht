@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-normenkontrolle-skizzi
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Normenkontrolle skizzieren im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Flughafenausbau Normenkontrolle Skizzi

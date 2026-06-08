@@ -1,6 +1,6 @@
 ---
 name: kanzlei-berufsgeheimnis-kartellrecht
-description: "Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld im Hinweisgeberschutz Compliance."
 ---
 
 # Kanzlei Berufsgeheimnis

@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-vermerk-und-mustertext
-description: "Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Steuerberater; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Steuerberater; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

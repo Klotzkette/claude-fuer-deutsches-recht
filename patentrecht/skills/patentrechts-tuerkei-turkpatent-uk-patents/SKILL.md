@@ -1,6 +1,6 @@
 ---
 name: patentrechts-tuerkei-turkpatent-uk-patents
-description: "Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel im Patentrecht."
 ---
 
 # Patentrechts: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: gute-wissenschaftliche-praxis
-description: "Prüft gute wissenschaftliche Praxis und Ombudsverfahren im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft gute wissenschaftliche Praxis und Ombudsverfahren im Hochschulrecht Länder."
 ---
 
 # Gute Wissenschaftliche Praxis

@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-haccp-rueckverfolgung
-description: "Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation im Berichtspflichten."
 ---
 
 # Lebensmittel: HACCP und Rückverfolgung

@@ -1,6 +1,6 @@
 ---
 name: social-media-soldat-dienstpflichten
-description: "Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG im Bundeswehrrecht Wehrrecht."
 ---
 
 # Social Media und Dienstpflichten des Soldaten

@@ -1,6 +1,6 @@
 ---
 name: registerbeanstandung-beantworten
-description: "Hilft bei Zwischenverfügung/Registerbeanstandung nach Gründung oder Änderung im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Zwischenverfügung/Registerbeanstandung nach Gründung oder Änderung im Gesellschaftsgruender."
 ---
 
 # Registerbeanstandung beantworten

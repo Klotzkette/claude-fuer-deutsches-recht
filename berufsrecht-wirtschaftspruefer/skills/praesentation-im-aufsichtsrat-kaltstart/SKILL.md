@@ -1,6 +1,6 @@
 ---
 name: praesentation-im-aufsichtsrat-kaltstart
-description: "Wirtschaftsprüfer: praesentation im aufsichtsrat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: praesentation im aufsichtsrat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: praesentation im aufsichtsrat - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

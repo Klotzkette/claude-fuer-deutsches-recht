@@ -1,6 +1,6 @@
 ---
 name: board-pack-erste-100-tage
-description: "Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung im Gesellschaftsgruender."
 ---
 
 # Board Pack erste 100 Tage

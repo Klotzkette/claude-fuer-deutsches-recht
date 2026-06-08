@@ -1,6 +1,6 @@
 ---
 name: vorstandswechsel-register
-description: "Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen im Vereinsrecht Vereinsmanager."
 ---
 
 # Vorstandswechsel Register

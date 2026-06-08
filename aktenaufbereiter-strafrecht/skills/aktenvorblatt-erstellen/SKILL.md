@@ -1,6 +1,6 @@
 ---
 name: aktenvorblatt-erstellen
-description: "Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstes Aktenvorblatt für eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zuständiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf für die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Aktenvorblatt-Erstellung

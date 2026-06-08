@@ -1,6 +1,6 @@
 ---
 name: registerakte-handelsstreit
-description: "Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sortiert Registerauszüge, Gesellschafterlisten, Vollmachten, Notarentwürfe und Beanstandungen im Handelsrecht Hgb."
 ---
 
 # Registerakte und Lückenliste

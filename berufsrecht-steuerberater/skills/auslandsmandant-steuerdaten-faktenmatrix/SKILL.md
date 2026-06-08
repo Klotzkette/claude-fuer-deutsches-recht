@@ -1,6 +1,6 @@
 ---
 name: auslandsmandant-steuerdaten-faktenmatrix
-description: "Steuerberater: auslandsmandant und steuerdaten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: auslandsmandant und steuerdaten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: auslandsmandant und steuerdaten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

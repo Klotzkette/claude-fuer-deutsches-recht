@@ -1,6 +1,6 @@
 ---
 name: market-sizing-commercial-thesis
-description: "Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Market Sizing und Commercial Thesis

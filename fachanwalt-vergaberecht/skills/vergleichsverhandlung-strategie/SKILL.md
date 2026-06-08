@@ -1,17 +1,9 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht: prüft konkret Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht: prüft konkret Vergleichsverhandlungs-Strategie für Vergaberecht, Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder, Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten."
 ---
 
 # Vergleichsverhandlung Strategie
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `wertungspreisqualitaet-matrix` | Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation. |
-| `wettbewerbsregister-abfrage-selbstreinigung` | Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Massnahmen und Nachweise. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Vergaberecht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vergleichsverhandlung-strategie`
 

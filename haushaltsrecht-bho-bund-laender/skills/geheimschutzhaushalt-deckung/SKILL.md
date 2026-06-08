@@ -1,15 +1,9 @@
 ---
 name: geheimschutzhaushalt-deckung
-description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO) im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO) im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Geheimschutzhaushalt Deckung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bho-299-geheimschutzhaushalt-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Deckung finden. Deckung finden für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Geheimschutzhaushalt Deckung im Haushaltsrecht (BHO/LHO) im Hausha
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bho-299-geheimschutzhaushalt-deckung-finden`
 

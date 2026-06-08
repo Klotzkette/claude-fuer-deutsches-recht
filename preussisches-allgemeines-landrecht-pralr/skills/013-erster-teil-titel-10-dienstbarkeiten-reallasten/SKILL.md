@@ -1,6 +1,6 @@
 ---
 name: 013-erster-teil-titel-10-dienstbarkeiten-reallasten
-description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un

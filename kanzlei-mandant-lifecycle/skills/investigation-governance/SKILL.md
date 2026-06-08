@@ -1,6 +1,6 @@
 ---
 name: investigation-governance
-description: "Investigation Governance: steuert interne Untersuchung, Upjohn-Warnung, Interviewplan, Dokumentensicherung und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Investigation Governance: steuert interne Untersuchung, Upjohn-Warnung, Interviewplan, Dokumentensicherung und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Investigation Governance

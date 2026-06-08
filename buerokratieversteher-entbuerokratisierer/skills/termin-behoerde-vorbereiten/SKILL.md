@@ -1,6 +1,6 @@
 ---
 name: termin-behoerde-vorbereiten
-description: "Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben im Bürokratie-Entbürokratisierung."
 ---
 
 # Termin bei Behörde

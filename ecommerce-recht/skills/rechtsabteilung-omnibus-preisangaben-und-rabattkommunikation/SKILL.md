@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation
-description: "Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht."
 ---
 
 # Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation

@@ -1,6 +1,6 @@
 ---
 name: motion-picture-audiovisual
-description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Film, Video, Trailer, Ads, Clips, underlying rights, music sync and work-made-for-hire packaging im Us Copyright Registrierung Verlag."
 ---
 
 # Motion Pictures und Audiovisual Works

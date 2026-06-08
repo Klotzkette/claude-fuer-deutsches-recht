@@ -1,6 +1,6 @@
 ---
 name: checkliste-vor-unterschrift
-description: "Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin im Gesellschaftsgruender."
 ---
 
 # Checkliste vor Unterschrift

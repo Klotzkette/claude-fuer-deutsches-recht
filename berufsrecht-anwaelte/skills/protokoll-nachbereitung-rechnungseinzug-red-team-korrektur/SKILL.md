@@ -1,6 +1,6 @@
 ---
 name: protokoll-nachbereitung-rechnungseinzug-red-team-korrektur
-description: "Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Anwälte; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Protokoll und Nachbereitung: vertiefter Berufsrechts-Skill für Anwälte; prüft sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Protokoll und Nachbereitung

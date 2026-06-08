@@ -1,6 +1,6 @@
 ---
 name: wegerecht-oeffentliche-wege
-description: "Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung und Streit mit Straßenbaulastträgern im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung und Streit mit Straßenbaulastträgern im Telekommunikationsrecht."
 ---
 
 # Wegerecht für öffentliche Wege

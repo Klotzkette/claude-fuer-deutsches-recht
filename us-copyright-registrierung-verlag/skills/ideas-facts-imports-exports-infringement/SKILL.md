@@ -1,6 +1,6 @@
 ---
 name: ideas-facts-imports-exports-infringement
-description: "Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act im Us Copyright Registrierung Verlag."
 ---
 
 # Ideas, Facts, Merger und Scenes a Faire

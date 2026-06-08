@@ -1,6 +1,6 @@
 ---
 name: zeichenbudgets-verhandlung-vergleich-und-eskalation
-description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Zeichenbudgets: Verhandlung, Vergleich und Eskalation

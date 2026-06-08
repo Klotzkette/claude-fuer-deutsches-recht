@@ -1,6 +1,6 @@
 ---
 name: anhoerung-auskunftsbeschluss-digital-services
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan im BNetzA-Verfahren."
 ---
 
 # Anhörung, Auskunftsbeschluss, Fristenplan

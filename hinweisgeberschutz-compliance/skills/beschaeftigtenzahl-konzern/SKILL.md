@@ -1,6 +1,6 @@
 ---
 name: beschaeftigtenzahl-konzern
-description: "Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen im Hinweisgeberschutz Compliance."
 ---
 
 # Beschaeftigtenzahl Konzern

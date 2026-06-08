@@ -1,6 +1,6 @@
 ---
 name: devops-ci-digitale-souveraenitaet-dora-art16
-description: "Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit im Nis2 Cybersecurity Compliance."
 ---
 
 # Devops Ci Cd Secrets

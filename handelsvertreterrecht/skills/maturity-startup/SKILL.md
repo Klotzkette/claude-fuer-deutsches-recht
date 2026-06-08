@@ -1,6 +1,6 @@
 ---
 name: maturity-startup
-description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios im Handelsvertreterrecht."
 ---
 
 # Handelsvertreterrecht im Start-up- und Scale-up-Kontext

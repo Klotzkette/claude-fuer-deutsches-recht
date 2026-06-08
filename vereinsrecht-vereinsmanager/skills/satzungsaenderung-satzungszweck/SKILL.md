@@ -1,6 +1,6 @@
 ---
 name: satzungsaenderung-satzungszweck
-description: "Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Satzungsänderung: Synopse, Einladung, Mehrheit, Protokoll, Register, Finanzamt bei Gemeinnützigkeit im Vereinsrecht Vereinsmanager."
 ---
 
 # Satzungsänderung

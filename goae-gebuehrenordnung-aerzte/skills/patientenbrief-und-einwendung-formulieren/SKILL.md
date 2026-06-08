@@ -1,6 +1,6 @@
 ---
 name: patientenbrief-und-einwendung-formulieren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren im Goae Gebührenordnung Aerzte."
 ---
 
 # Patientenbrief und Einwendung formulieren

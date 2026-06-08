@@ -1,19 +1,9 @@
 ---
 name: geringfuegigkeit-versausglg-gesetzliche
-description: "Geringfuegigkeit Versausglg Gesetzliche im Plugin Fachanwalt Familienrecht: prüft konkret Geringfügigkeit § 18 VersAusglG, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz und Umgang, Grundprinzip Versorgungsausgleich Halbteilung § 1 VersAusglG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Geringfuegigkeit Versausglg Gesetzliche im Plugin Fachanwalt Familienrecht: prüft konkret Geringfügigkeit § 18 VersAusglG, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz und Umgang, Grundprinzip Versorgungsausgleich Halbteilung § 1 VersAusglG."
 ---
 
 # Geringfuegigkeit Versausglg Gesetzliche
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `geringfuegigkeit-18-versausglg` | Geringfügigkeit § 18 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `gesetzliche-rentenversicherung-entgeltpunkte` | Gesetzliche Rentenversicherung Entgeltpunkte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `gewaltschutz-und-umgang-schnittstelle` | Gewaltschutz und Umgang: Schutzanordnung, Näherungsverbot, Umgangsausschluss, begleiteter Umgang und Beweisführung.; Normanker: GewSchG; BGB § 1684; FamFG Eilrechtsschutz; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `grundprinzip-versorgungsausgleich-halbteilung-1-versausglg` | Grundprinzip Versorgungsausgleich Halbteilung § 1 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `interne-teilung-10-versausglg` | Interne Teilung § 10 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Geringfuegigkeit Versausglg Gesetzliche im Plugin Fachanwalt Famil
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `geringfuegigkeit-18-versausglg`
 

@@ -9,16 +9,6 @@ description: "Fachanwaltsbereich Familienrecht: Einstieg, Verfahrenswahl und Rou
 
 Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` | Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen. |
-| `fachanwalt-familienrecht-mediation-156-famfg-cochemer` | Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation § 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel § 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung § 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach § 1684 BGB. |
-| `fachanwalt-familienrecht-orientierung` | Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule. |
-| `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` | Personenstandsrechtliche Folgen nach dem Selbstbestimmungsgesetz (SBGG): Wirkung der Erklärung auf Eltern-Kind-Verhältnis, Vornamens- und Personenstandsregister, abgeleitete familienrechtliche Bezeichnungen, Bestand bestehender Sorge- und Umgangsregelungen sowie Beurkundungspflichten. Normen: SBGG §§ 2, 3, 8, PStG §§ 21, 27, BGB §§ 1591 ff. Prüfraster: Anwendungsbereich, Erklärungs- und Sperrfrist (§ 4 SBGG), Folgen für gemeinsame Sorge, Anschluss an PStRV. Output: Memo zu Personenstandsfolgen oder Schriftsatzbaustein. |
-| `fachanwalt-familienrecht-scheidungsantrag-stellen` | Scheidungsantrag stellen oder verteidigen: Zerrüttungsvermutung nach Trennungsjahr (§§ 1565, 1566 BGB), Verbundverfahren (§ 137 FamFG), Anwaltszwang vor dem Familiengericht (§ 114 FamFG), Versorgungsausgleich von Amts wegen (§§ 1 ff. VersAusglG). Normen: §§ 1564–1568 BGB, §§ 111, 121, 133, 137 FamFG, VersAusglG. Prüfraster: Trennungsjahr belegbar, Härteklausel § 1565 Abs. 2 BGB, Folgesachen (Unterhalt, Zugewinn, Sorge, Hausrat), Kosten. Output: Antragsschrift oder Erwiderung. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,7 +17,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er kl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag`
 

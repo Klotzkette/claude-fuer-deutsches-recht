@@ -1,6 +1,6 @@
 ---
 name: zeugnisbemerkung-arbeits-sozialverhalten
-description: "Prüft Kopfnoten, Bemerkungen, Sozialverhalten und Löschung/Änderung im Zeugnis im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kopfnoten, Bemerkungen, Sozialverhalten und Löschung/Änderung im Zeugnis im Schulrecht Länder."
 ---
 
 # Zeugnisbemerkung Arbeits- und Sozialverhalten

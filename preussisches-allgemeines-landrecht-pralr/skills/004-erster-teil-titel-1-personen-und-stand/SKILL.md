@@ -1,6 +1,6 @@
 ---
 name: 004-erster-teil-titel-1-personen-und-stand
-description: "PrALR: Erster Teil Titel 1 Personen und Stand im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 1 Personen und Stand im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Erster Teil Titel 1 Personen und Stand

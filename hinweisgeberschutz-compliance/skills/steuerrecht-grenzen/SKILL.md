@@ -1,6 +1,6 @@
 ---
 name: steuerrecht-grenzen
-description: "Prüft Steuerhinweise und Grenzen interner Aufklärung im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Steuerhinweise und Grenzen interner Aufklärung im Hinweisgeberschutz Compliance."
 ---
 
 # Steuerrecht Grenzen

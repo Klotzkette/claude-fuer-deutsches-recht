@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-local-counsel-instruie
-description: "Offshore-Schiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offshore-Schiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
 ---
 
 # Offshore-Schiff – Local Counsel instruieren

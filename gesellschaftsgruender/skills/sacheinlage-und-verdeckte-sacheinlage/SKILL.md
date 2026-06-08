@@ -1,6 +1,6 @@
 ---
 name: sacheinlage-und-verdeckte-sacheinlage
-description: "Prüft Sacheinlagen, Werthaltigkeit, Sachgründungsbericht und verdeckte Sacheinlage im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sacheinlagen, Werthaltigkeit, Sachgründungsbericht und verdeckte Sacheinlage im Gesellschaftsgruender."
 ---
 
 # Sacheinlage und verdeckte Sacheinlage

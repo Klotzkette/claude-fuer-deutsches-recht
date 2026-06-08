@@ -1,6 +1,6 @@
 ---
 name: subrogation-regress-transportversicherung
-description: "Legalzession und Regress des Versicherers: Forderungsübergang, Quotenvorrecht, Beweissicherung, Vergleich, Regressabwehr und Verjährung im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legalzession und Regress des Versicherers: Forderungsübergang, Quotenvorrecht, Beweissicherung, Vergleich, Regressabwehr und Verjährung im Versicherungsrecht."
 ---
 
 # Regress und Legalzession § 86 VVG

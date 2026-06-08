@@ -1,6 +1,6 @@
 ---
 name: genossenschaft-registerschnittstelle
-description: "Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vorstand, Aufsichtsrat, Prüfung, Satzung und Eintragungslogik bei eG im Handelsregister Praxis."
 ---
 
 # Genossenschaftsregister-Schnittstelle

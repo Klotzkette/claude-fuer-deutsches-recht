@@ -1,6 +1,6 @@
 ---
 name: beitraege-luecken-und-nachzahlung
-description: "Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beitragslücken und Nachzahlung: freiwillige Beiträge, Ausbildungszeiten, besondere Nachzahlungsmöglichkeiten und Fristen im Rentenpruefer."
 ---
 
 # beitraege-luecken-und-nachzahlung

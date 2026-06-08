@@ -1,6 +1,6 @@
 ---
 name: berichte-iv-masseunzulaenglichkeit
-description: "Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Risiken. Output: strukturierter Bericht Entscheidungsvorlage Ampelbericht. Abgrenzung: nicht für Schlussbericht und Schlussrechnung (iv-verteilung-schlussrechnung) im Insolvenzverwaltung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwischenberichte Sachstandsberichte und Beschlussvorlagen für Insolvenzgericht Gläubiger­ausschuss und Gläubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Prüfraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Risiken. Output: strukturierter Bericht Entscheidungsvorlage Ampelbericht. Abgrenzung: nicht für Schlussbericht und Schlussrechnung (iv-verteilung-schlussrechnung) im Insolvenzverwaltung."
 ---
 
 # Berichte an Gericht und Gläubigerorgane

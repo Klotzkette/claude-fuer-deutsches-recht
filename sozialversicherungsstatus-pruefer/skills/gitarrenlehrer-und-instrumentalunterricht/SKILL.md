@@ -1,6 +1,6 @@
 ---
 name: gitarrenlehrer-und-instrumentalunterricht
-description: "Prüft privaten Instrumentalunterricht, Musikschulen, Räume, Schülerzuteilung und eigene Unterrichtsorganisation im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft privaten Instrumentalunterricht, Musikschulen, Räume, Schülerzuteilung und eigene Unterrichtsorganisation im Sozialversicherungsstatus Pruefer."
 ---
 
 # Gitarrenlehrer und Instrumentalunterricht

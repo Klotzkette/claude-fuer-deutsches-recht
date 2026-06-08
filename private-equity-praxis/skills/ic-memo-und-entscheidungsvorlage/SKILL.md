@@ -1,6 +1,6 @@
 ---
 name: ic-memo-und-entscheidungsvorlage
-description: "Erstellt IC-Memo mit Deal-These, Struktur, Risiken, Schutzmechanismen, offenen Punkten und Beschlussvorschlag im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt IC-Memo mit Deal-These, Struktur, Risiken, Schutzmechanismen, offenen Punkten und Beschlussvorschlag im Private Equity Praxis."
 ---
 
 # Investment Committee Memo

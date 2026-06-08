@@ -1,6 +1,6 @@
 ---
 name: fruehere-soldaten-und-erneute-heranziehung
-description: "Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsschutzinteresse früherer Soldaten wegen möglicher erneuter Heranziehung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Frühere Soldaten

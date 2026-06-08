@@ -1,6 +1,6 @@
 ---
 name: gewerbeanmeldung-creator-taetigkeit
-description: "Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit im Influencer-Recht."
 ---
 
 # Influencer-Recht: Gewerbeanmeldung für Creator

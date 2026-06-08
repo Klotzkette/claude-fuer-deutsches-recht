@@ -1,6 +1,6 @@
 ---
 name: dienststelle-kommunikation
-description: "Formuliert sachliche Dienststellenkommunikation ohne Provokation im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert sachliche Dienststellenkommunikation ohne Provokation im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Kommunikation mit Dienststelle

@@ -1,6 +1,6 @@
 ---
 name: verwaltungsrecht-anfechtung-bnetza
-description: "Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse und Nebenbestimmungen im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse und Nebenbestimmungen im Telekommunikationsrecht."
 ---
 
 # Anfechtung von BNetzA-Beschlüssen

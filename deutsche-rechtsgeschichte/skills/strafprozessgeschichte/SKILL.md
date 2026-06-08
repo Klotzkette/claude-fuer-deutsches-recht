@@ -1,6 +1,6 @@
 ---
 name: strafprozessgeschichte
-description: "Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021 im Deutsche Rechtsgeschichte."
 ---
 
 # Strafprozessgeschichte

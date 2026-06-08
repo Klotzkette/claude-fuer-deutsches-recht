@@ -1,19 +1,9 @@
 ---
 name: miet-modernisierungsmieterhoehung-wem
-description: "Modernisierungsmieterhoehung WEM im Miet- und Wohnungseigentumsrecht: prüft konkret Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB, Spezialfall bauliche Veraenderung im WEG § 20 WEG nach, Modernisierung und Erhaltung abgrenzen, Spezialfall Milieuschutzgebiet soziale Erhaltungssatzung §. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Modernisierungsmieterhoehung WEM im Miet- und Wohnungseigentumsrecht: prüft konkret Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB, Spezialfall bauliche Veraenderung im WEG § 20 WEG nach, Modernisierung und Erhaltung abgrenzen, Spezialfall Milieuschutzgebiet soziale Erhaltungssatzung §."
 ---
 
 # Modernisierungsmieterhoehung WEM
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `miet-modernisierungsmieterhoehung-leitfaden` | Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze. Pruefraster Vermieter und Mieter. Mustertext Mieterhoehungsschreiben. |
-| `miet-wem-bauliche-veraenderung-spezial` | Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Massnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz. Pruefraster Vorbereitung Versammlung. |
-| `mietrecht-modernisierung-und-erhalt` | Modernisierung und Erhaltung abgrenzen: Modernisierungsumlage 8 Prozent (Kappung 3 Euro/qm in 6 Jahren), Erhaltungsaufwand auf Vermieter, Duldungspflicht Mieter §§ 555a ff. BGB. Ankuendigung, Form, Inhalt, Mietminderung waehrend Massnahme. Pruefraster und Mustertexte. |
-| `milieuschutz-und-genehmigung-veraendert` | Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen. Verfahren bei der Gemeinde, Klage gegen Verweigerung. Mustertexte. |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Räumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Modernisierungsmieterhoehung WEM im Miet- und Wohnungseigentumsrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `miet-modernisierungsmieterhoehung-leitfaden`
 

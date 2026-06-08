@@ -1,6 +1,6 @@
 ---
 name: disziplinarvorgesetzter-stellungnahme
-description: "Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Stellungnahme Disziplinarvorgesetzter

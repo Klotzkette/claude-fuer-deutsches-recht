@@ -1,6 +1,6 @@
 ---
 name: theorie-mehrparteien-konflikt-und-interessen
-description: "Theorie: Mehrparteienkonflikt und Interessenmatrix im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Bav Strategie Konzern. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Theorie: Mehrparteienkonflikt und Interessenmatrix im Plugin bav strategie konzern im Bav Strategie Konzern."
 ---
 
 # Theorie: Mehrparteienkonflikt und Interessenmatrix

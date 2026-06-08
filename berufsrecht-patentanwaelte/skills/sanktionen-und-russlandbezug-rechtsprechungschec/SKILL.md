@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-russlandbezug-rechtsprechungschec
-description: "Patentanwälte: sanktionen und russlandbezug - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: sanktionen und russlandbezug - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: sanktionen und russlandbezug - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

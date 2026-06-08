@@ -1,17 +1,9 @@
 ---
 name: nachgereichter-296a-orientierung
-description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgericht: prüft konkret Nachgereichter Schriftsatz nach Schluss der muendlichen, Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertret, Parteivernehmung nach §§ 445 ff. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgericht: prüft konkret Nachgereichter Schriftsatz nach Schluss der muendlichen, Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertret, Parteivernehmung nach §§ 445 ff."
 ---
 
 # Nachgereichter 296a Orientierung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `nachgereichter-schriftsatz-296a-zpo` | Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht. |
-| `orientierung-selbstvertreter-amtsgericht` | Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen. |
-| `parteivernehmung-445-ff-zpo` | Parteivernehmung nach §§ 445 ff. ZPO. Subsidiaeres Beweismittel auf Antrag oder von Amts wegen. Bedingungen und Beweiswert. Wann lohnt sich Parteivernehmung warum gilt die eigene Aussage als schwach. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Nachgereichter 296a Orientierung im Selbstvertretung am Amtsgerich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `nachgereichter-schriftsatz-296a-zpo`
 

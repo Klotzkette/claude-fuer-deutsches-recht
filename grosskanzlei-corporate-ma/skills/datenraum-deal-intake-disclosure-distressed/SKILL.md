@@ -1,6 +1,6 @@
 ---
 name: datenraum-deal-intake-disclosure-distressed
-description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Großkanzlei-Praxis): prüft konkret KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und bestücken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A, Neues M&A-Mandat aufnehmen und strukturieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenraum Deal Intake Disclosure Distressed im Corporate/M&A (Großkanzlei-Praxis): prüft konkret KI-Qualitaetskontrolle und Halluzinations-Absicherung in, Due Diligence Datenraum strukturieren und bestücken, Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A, Neues M&A-Mandat aufnehmen und strukturieren."
 ---
 
 # Datenraum Deal Intake Disclosure Distressed
@@ -19,18 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` | KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau. |
-| `grosskanzlei-corporate-ma-datenraum-aufbau` | Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial. |
-| `grosskanzlei-corporate-ma-datenraum-gap-clean-room` | Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehlende Dokumente identifizieren, Gap-Liste erstellen, Clean-Room-Prozess dokumentieren, Nachanforderungen strukturieren. Output Gap-Report mit priorisierten Nachforderungen und Clean-Room-Zugangsprotokolll. Abgrenzung zu Datenraum-Aufbau und zu QA-Information-Requests. |
-| `grosskanzlei-corporate-ma-deal-intake` | Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Prüfraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgesellschaft, Transaktionsstruktur, Zeitplan, Budget-Ersteinschaetzung, Annahme-Check. Output Deal-Intake-Sheet mit Parteienregister, Dealtyp, Workstreams, initiales Budget und Fristen-Erstliste. Abgrenzung zu Kaltstart-Skill für Kanzleipraeferenzen und zu Matter-File für laufende Akte. |
-| `grosskanzlei-corporate-ma-deal-team-staffing` | Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan für Fristen und zu Konflikt-GwG-Sanktions-Check für Mandat-Annahme. |
-| `grosskanzlei-corporate-ma-disclosure-schedules` | Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist. §§ 433 ff. BGB, SPA Disclosure-Mechanismus. Prüfraster Vollständigkeit der Offenbarungen, General Disclosure vs. Specific Disclosure, Knowledge-Qualifikation, Materiality-Schwellen, Datenraumverweis-Tauglichkeit. Output Disclosure-Matrix mit Guarantee-zu-Schedule-Mapping und Luecken-Ampel. Abgrenzung zu SPA/APA-Entwurf und zu Vertragsmarkup-Key-Issues. |
-| `grosskanzlei-corporate-ma-distressed-ma` | Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prüft Erwerb notleidender Vermögenswerte. §§ 17-19 InsO Insolvenztatbestaende, § 1 StaRUG Sanierung, §§ 433 ff. BGB Share/Asset Deal. Prüfraster Insolvenzreife-Prüfung, Antragspflicht, Deal-Strukturoptionen Asset Deal vs. Share Deal, MAC-Klausel-Risiko, W&I-Versicherungsausschluesse. Output Distressed-MA-Memo mit Strukturempfehlung, Risikoampel und naechsten Schritten. Abgrenzung zu StaRUG-Insolvenzplan und zu Post-Closing-Integration. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`
 

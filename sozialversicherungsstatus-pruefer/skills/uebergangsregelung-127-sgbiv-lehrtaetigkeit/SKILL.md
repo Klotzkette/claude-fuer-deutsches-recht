@@ -1,6 +1,6 @@
 ---
 name: uebergangsregelung-127-sgbiv-lehrtaetigkeit
-description: "Prüft die befristete Übergangsregelung für Lehrtätigkeiten und ihre engen Voraussetzungen im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft die befristete Übergangsregelung für Lehrtätigkeiten und ihre engen Voraussetzungen im Sozialversicherungsstatus Pruefer."
 ---
 
 # Übergangsregelung § 127 SGB IV Lehrkräfte

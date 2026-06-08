@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-abhilfeklage-musterfeststellung-w-uklag
-description: "Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Abhilfeklage Oder Musterfeststellung W

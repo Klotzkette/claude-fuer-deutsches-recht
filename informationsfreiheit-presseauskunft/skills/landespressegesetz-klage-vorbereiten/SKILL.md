@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-klage-vorbereiten
-description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Klage vorbereiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Landespressegesetz: Klage vorbereiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Landespressegesetz Klage Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: termination-of-mandate
-description: "Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Mandatsbeendigung

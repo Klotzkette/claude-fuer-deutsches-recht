@@ -1,6 +1,6 @@
 ---
 name: safe-kiss-deutsche-adaption
-description: "Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # SAFE/KISS deutsche Adaption

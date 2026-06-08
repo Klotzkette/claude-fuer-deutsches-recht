@@ -1,6 +1,6 @@
 ---
 name: flugportal-anspruchsgruppen-bilden
-description: "Verbraucherschutzverband Durchsetzung: Flugportal: Anspruchsgruppen bilden im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Flugportal: Anspruchsgruppen bilden im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Flugportal Anspruchsgruppen Bilden

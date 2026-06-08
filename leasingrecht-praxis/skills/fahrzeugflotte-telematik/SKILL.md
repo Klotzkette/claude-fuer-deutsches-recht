@@ -1,6 +1,6 @@
 ---
 name: fahrzeugflotte-telematik
-description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung im Leasingrecht."
 ---
 
 # Fahrzeugflotte und Telematik: Datenstrategie und Compliance

@@ -1,6 +1,6 @@
 ---
 name: video-hearing-128a-284-zpo
-description: "Prüft Videoverhandlung, hybride Beweisaufnahme, ausländische Zeugen, Techniktest und Protokollierung im Commercial Courts Deutschland. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Videoverhandlung, hybride Beweisaufnahme, ausländische Zeugen, Techniktest und Protokollierung im Commercial Courts Deutschland."
 ---
 
 # Video Hearing

@@ -1,6 +1,6 @@
 ---
 name: gegenseite-mehrparteien-konflikt-und-interessen
-description: "Gegenseite: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Prozessrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gegenseite: Mehrparteienkonflikt und Interessenmatrix im Prozessrecht."
 ---
 
 # Gegenseite: Mehrparteienkonflikt und Interessenmatrix

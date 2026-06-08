@@ -1,6 +1,6 @@
 ---
 name: berufsgesellschaft-02
-description: "Wirtschaftsprüfer: berufsgesellschaft zulassung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: berufsgesellschaft zulassung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: berufsgesellschaft zulassung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

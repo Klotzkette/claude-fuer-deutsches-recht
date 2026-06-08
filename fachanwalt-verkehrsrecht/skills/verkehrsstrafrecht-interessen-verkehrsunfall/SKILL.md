@@ -1,17 +1,9 @@
 ---
 name: verkehrsstrafrecht-interessen-verkehrsunfall
-description: "Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt Verkehrsrecht: prüft konkret Verkehrsstrafrecht, Verkehrsunfall, Vergleichsverhandlungs-Strategie für Verkehrsrecht Unfall-, OWi- und Verkehrsst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt Verkehrsrecht: prüft konkret Verkehrsstrafrecht, Verkehrsunfall, Vergleichsverhandlungs-Strategie für Verkehrsrecht Unfall-, OWi- und Verkehrsst."
 ---
 
 # Verkehrsstrafrecht Interessen Verkehrsunfall
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verkehrsstrafrecht-mehrparteien-konflikt-und-interessen` | Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verkehrsunfall-schriftsatz-brief-und-memo-bausteine` | Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Verkehrsstrafrecht Interessen Verkehrsunfall im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verkehrsstrafrecht-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht.
 
 ### Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verkehrsunfall-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht.
 
 ### Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
 

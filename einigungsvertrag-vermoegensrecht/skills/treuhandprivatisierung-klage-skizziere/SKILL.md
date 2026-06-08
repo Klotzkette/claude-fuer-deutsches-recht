@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-klage-skizziere
-description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Treuhandprivatisierung Klage Skizziere

@@ -1,6 +1,6 @@
 ---
 name: zusammenschaltung-interconnection
-description: "Zusammenschaltung, Terminierung, IP-Interconnection, Qualität, Entgelte und Streitbeilegung im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zusammenschaltung, Terminierung, IP-Interconnection, Qualität, Entgelte und Streitbeilegung im Telekommunikationsrecht."
 ---
 
 # Zusammenschaltung und Interconnection

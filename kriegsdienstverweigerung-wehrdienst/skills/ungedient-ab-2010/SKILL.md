@@ -1,6 +1,6 @@
 ---
 name: ungedient-ab-2010
-description: "Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Ungediente ab 01.01.2010

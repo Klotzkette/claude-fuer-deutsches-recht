@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-vergleich-bewer
-description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Vergleich bewerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Vergleich bewerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Treuhandprivatisierung Vergleich Bewer

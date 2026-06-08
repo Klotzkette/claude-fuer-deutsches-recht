@@ -1,6 +1,6 @@
 ---
 name: bittet-internationaler-bezug-und-schnittstellen
-description: "Bittet: Internationaler Bezug und Schnittstellen im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bittet: Internationaler Bezug und Schnittstellen im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Bittet: Internationaler Bezug und Schnittstellen

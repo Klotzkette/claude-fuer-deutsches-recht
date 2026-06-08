@@ -1,6 +1,6 @@
 ---
 name: zwischenverfuegung-paragraph-18-gbo
-description: "Analysiert beanstandete Hindernisse, Behebbarkeit, Rangwahrung, Frist und Antwortstrategie im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert beanstandete Hindernisse, Behebbarkeit, Rangwahrung, Frist und Antwortstrategie im Grundbuchamt Praxis."
 ---
 
 # Zwischenverfügung beantworten

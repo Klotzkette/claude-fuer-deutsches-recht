@@ -1,6 +1,6 @@
 ---
 name: finanzamt-anfrage-creator-exit
-description: "Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie im Influencer-Recht."
 ---
 
 # Influencer-Recht: Finanzamt – Anfrage beantworten

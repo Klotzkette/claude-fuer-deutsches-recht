@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-nebenbestimmungen
-description: "Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
 ---
 
 # Vergleich Und Nebenbestimmungen

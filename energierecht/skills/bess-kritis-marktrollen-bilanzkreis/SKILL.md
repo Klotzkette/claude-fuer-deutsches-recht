@@ -1,6 +1,6 @@
 ---
 name: bess-kritis-marktrollen-bilanzkreis
-description: "Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind im Energierecht."
 ---
 
 # KRITIS, NIS2, BSI und Cybersecurity

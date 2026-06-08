@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-live-erbbaurecht-reminder
-description: "Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden im Erbbaurecht Praxis."
 ---
 
 # Rechtsprechung live verifizieren

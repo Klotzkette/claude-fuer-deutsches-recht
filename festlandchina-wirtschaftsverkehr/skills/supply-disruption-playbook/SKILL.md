@@ -1,6 +1,6 @@
 ---
 name: supply-disruption-playbook
-description: "Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Supply-Disruption-Playbook China: Notfallprotokoll und Eskalation

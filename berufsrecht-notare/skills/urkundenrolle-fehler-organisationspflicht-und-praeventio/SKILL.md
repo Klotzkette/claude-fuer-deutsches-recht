@@ -1,6 +1,6 @@
 ---
 name: urkundenrolle-fehler-organisationspflicht-und-praeventio
-description: "Notare: urkundenrolle fehler - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: urkundenrolle fehler - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: urkundenrolle fehler - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

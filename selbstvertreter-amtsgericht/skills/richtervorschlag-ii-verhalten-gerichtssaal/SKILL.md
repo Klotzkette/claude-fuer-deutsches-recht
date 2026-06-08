@@ -1,17 +1,9 @@
 ---
 name: richtervorschlag-ii-verhalten-gerichtssaal
-description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am Amtsgericht: prüft konkret Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am Amtsgericht: prüft konkret Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO."
 ---
 
 # Richtervorschlag II Verhalten Gerichtssaal
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vergleich-richtervorschlag-278-ii-zpo` | Vergleich vor dem Amtsgericht nach § 278 II ZPO Richtervorschlag Erledigungsklausel Auswirkung auf Kosten und Streitwert. Wann ist ein Vergleich vorteilhaft wann nicht und wie wird er protokolliert. |
-| `verhalten-gerichtssaal-laienleitfaden` | Verhalten im Gerichtssaal für Laien. Aufstehen Anrede Hoher Herr Vorsitzender Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin. |
-| `video-verhandlung-128a-zpo` | Video-Verhandlung nach § 128a ZPO. Teilnahme an muendlicher Verhandlung per Bild und Ton-Übertragung. Antrag technische Voraussetzungen Einverstaendnis-Pflichten. Praktischer Leitfaden für Selbstvertreter. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vergleich-richtervorschlag-278-ii-zpo`
 

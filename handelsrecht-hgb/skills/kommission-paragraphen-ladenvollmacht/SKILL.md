@@ -1,6 +1,6 @@
 ---
 name: kommission-paragraphen-ladenvollmacht
-description: "Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht im Handelsrecht Hgb."
 ---
 
 # Kommission §§ 383 ff. HGB

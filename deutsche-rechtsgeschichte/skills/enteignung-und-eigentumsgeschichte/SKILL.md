@@ -1,6 +1,6 @@
 ---
 name: enteignung-und-eigentumsgeschichte
-description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen im Deutsche Rechtsgeschichte."
 ---
 
 # Enteignung und Eigentumsgeschichte

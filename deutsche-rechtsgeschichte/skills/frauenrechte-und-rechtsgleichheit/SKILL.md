@@ -1,6 +1,6 @@
 ---
 name: frauenrechte-und-rechtsgleichheit
-description: "Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen im Deutsche Rechtsgeschichte."
 ---
 
 # Frauenrechte und Rechtsgleichheit

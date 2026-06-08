@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-schleswig-holstein-route
-description: "Kommunalrecht der Länder: Kommunalrecht Schleswig-Holstein routen. Kommunalrecht Schleswig-Holstein routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Kommunalrecht Schleswig-Holstein routen. Kommunalrecht Schleswig-Holstein routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Kommunalrecht Schleswig Holstein Route

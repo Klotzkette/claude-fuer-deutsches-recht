@@ -1,18 +1,9 @@
 ---
 name: klage-sozialgericht-laienhilfe-akteneinsicht
-description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt Sozialrecht: prüft konkret Nach negativem Widerspruchsbescheid muss Klage zum, Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht, Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld, Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt Sozialrecht: prüft konkret Nach negativem Widerspruchsbescheid muss Klage zum, Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht, Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld, Laienverstaendlicher Sozialrechts-Skill zu Asylblg."
 ---
 
 # Klage Sozialgericht Laienhilfe Akteneinsicht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `klage-sozialgericht` | Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zuständigkeit § 8 SGG örtliche Zuständigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe). |
-| `laienhilfe-akteneinsicht-laie` | Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-arbeitslosengeld-sperrzeit` | Laienverstaendlicher Sozialrechts-Skill zu Arbeitslosengeld Sperrzeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-asylblg` | Laienverstaendlicher Sozialrechts-Skill zu Asylblg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Klage Sozialgericht Laienhilfe Akteneinsicht im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `klage-sozialgericht`
 

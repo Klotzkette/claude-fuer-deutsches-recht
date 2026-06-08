@@ -1,6 +1,6 @@
 ---
 name: umweltinformation-uig-ifg
-description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing) im Umweltrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing) im Umweltrecht."
 ---
 
 # Umweltinformation nach UIG und IFG

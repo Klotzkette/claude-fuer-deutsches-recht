@@ -1,6 +1,6 @@
 ---
 name: dfg-erstpruefung-und-mandatsziel
-description: "DFG: Erstprüfung, Rollenklärung und Mandatsziel im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DFG: Erstprüfung, Rollenklärung und Mandatsziel im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # DFG: Erstprüfung, Rollenklärung und Mandatsziel

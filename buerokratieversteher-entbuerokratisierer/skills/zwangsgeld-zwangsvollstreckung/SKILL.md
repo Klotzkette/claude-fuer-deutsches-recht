@@ -1,15 +1,9 @@
 ---
 name: zwangsgeld-zwangsvollstreckung
-description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Bürokratie-Entbürokratisierung."
 ---
 
 # Zwangsgeld Zwangsvollstreckung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zwangsgeld-und-zwangsvollstreckung-behoerde` | Erklärt Androhung, Festsetzung, Ersatzvornahme, unmittelbaren Zwang, Vollstreckung und schnelle Gegenmaßnahmen. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zwangsgeld Zwangsvollstreckung im Bürokratieabbau-Praxis im Büro
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zwangsgeld-und-zwangsvollstreckung-behoerde`
 

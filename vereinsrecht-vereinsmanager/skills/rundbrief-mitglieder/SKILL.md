@@ -1,6 +1,6 @@
 ---
 name: rundbrief-mitglieder
-description: "Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten im Vereinsrecht Vereinsmanager."
 ---
 
 # Rundbrief an Mitglieder

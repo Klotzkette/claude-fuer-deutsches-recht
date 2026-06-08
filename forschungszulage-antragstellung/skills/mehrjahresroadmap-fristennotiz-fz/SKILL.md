@@ -1,6 +1,6 @@
 ---
 name: mehrjahresroadmap-fristennotiz-fz
-description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt

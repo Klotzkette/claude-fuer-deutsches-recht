@@ -1,6 +1,6 @@
 ---
 name: zuwendung-an-verband-dashboard-bauen
-description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Dashboard bauen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Zuwendung An Verband Dashboard Bauen

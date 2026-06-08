@@ -1,6 +1,6 @@
 ---
 name: agb-konforme-klauseln-305-310-bgb
-description: "Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
 # AGB-konforme Klauseln nach §§ 305-310 BGB

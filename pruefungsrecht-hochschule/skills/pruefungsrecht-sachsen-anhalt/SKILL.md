@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-sachsen-anhalt
-description: "Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsrecht Sachsen Anhalt

@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-kammerantwort-und-verfahr
-description: "Notare: vollzugsueberwachung grundbuch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: vollzugsueberwachung grundbuch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

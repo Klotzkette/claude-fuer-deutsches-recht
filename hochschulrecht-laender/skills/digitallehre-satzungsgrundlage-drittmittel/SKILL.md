@@ -1,6 +1,6 @@
 ---
 name: digitallehre-satzungsgrundlage-drittmittel
-description: "Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft digitale Lehre, Anwesenheit, Aufzeichnung, Satzung und Datenschutz im Hochschulrecht Länder."
 ---
 
 # Digitallehre und Satzungsgrundlage

@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-ifg-ablehnung
-description: "Informationsfreiheit und Presseauskunft: Widerspruch gegen IFG-Ablehnung. Widerspruch gegen IFG-Ablehnung im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informationsfreiheit und Presseauskunft: Widerspruch gegen IFG-Ablehnung. Widerspruch gegen IFG-Ablehnung im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Widerspruch Gegen Ifg Ablehnung

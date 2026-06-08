@@ -1,6 +1,6 @@
 ---
 name: hinweisgeber-personenkreis
-description: "Prüft, ob die meldende Person geschützt ist im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob die meldende Person geschützt ist im Hinweisgeberschutz Compliance."
 ---
 
 # Hinweisgeber Personenkreis

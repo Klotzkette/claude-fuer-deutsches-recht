@@ -1,6 +1,6 @@
 ---
 name: gesellschafterlistenstreit-eilstrategie-gmbh
-description: "Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar im Handelsregister Praxis."
 ---
 
 # Gesellschafterlistenstreit strategisch führen

@@ -1,6 +1,6 @@
 ---
 name: vernichtung-rueckruf-vorbenutzungsrecht
-description: "Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vernichtung, Rückruf und Entfernung aus Vertriebswegen prüfen: Bestände, Verhältnismäßigkeit, Dritte, Ersatzteile und Vergleichslösungen im Gebrauchsmusterrecht."
 ---
 
 # Vernichtung Rueckruf Und Entfernung

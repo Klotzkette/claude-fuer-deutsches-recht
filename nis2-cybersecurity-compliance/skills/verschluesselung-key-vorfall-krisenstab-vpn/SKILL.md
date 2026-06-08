@@ -1,6 +1,6 @@
 ---
 name: verschluesselung-key-vorfall-krisenstab-vpn
-description: "Prüft Verschlüsselung und Key Management im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verschlüsselung und Key Management im Nis2 Cybersecurity Compliance."
 ---
 
 # Verschluesselung Key Management

@@ -1,6 +1,6 @@
 ---
 name: handover-kanzleiwechsel
-description: "Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Handover Kanzleiwechsel

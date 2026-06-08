@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-agb-klausel-verbrauchervertrag-energievertrag
-description: "Verbraucherschutzrecht Prüfer: AGB-Klausel im Verbrauchervertrag prüfen. AGB-Klausel im Verbrauchervertrag prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: AGB-Klausel im Verbrauchervertrag prüfen. AGB-Klausel im Verbrauchervertrag prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Agb Klausel Im Verbrauchervertrag Prue

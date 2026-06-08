@@ -1,6 +1,6 @@
 ---
 name: umwandlung-und-registersperre-kaltstart-und-faktenmatrix
-description: "Notare: umwandlung und registersperre - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: umwandlung und registersperre - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: umwandlung und registersperre - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

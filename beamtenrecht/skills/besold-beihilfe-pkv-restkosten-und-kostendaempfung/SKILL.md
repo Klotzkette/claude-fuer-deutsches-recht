@@ -1,6 +1,6 @@
 ---
 name: besold-beihilfe-pkv-restkosten-und-kostendaempfung
-description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamtenrecht."
 ---
 
 # Besold Beihilfe Pkv Restkosten Und Kostendaempfung

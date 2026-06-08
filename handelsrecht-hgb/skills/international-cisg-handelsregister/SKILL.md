@@ -1,6 +1,6 @@
 ---
 name: international-cisg-handelsregister
-description: "Prüft HGB bei internationalem Handelskauf, CISG-Abgrenzung, Rom I und Gerichtsstand im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft HGB bei internationalem Handelskauf, CISG-Abgrenzung, Rom I und Gerichtsstand im Handelsrecht Hgb."
 ---
 
 # Internationaler Bezug und CISG-Schnittstelle

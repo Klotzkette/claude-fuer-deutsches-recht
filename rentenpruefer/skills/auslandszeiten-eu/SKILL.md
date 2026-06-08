@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-eu
-description: "Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandszeiten in EU, EWR und Schweiz: Koordinierung, pro-rata-Berechnung, Antragstellung über den Wohnsitzstaat und Doppelzeiten im Rentenpruefer."
 ---
 
 # auslandszeiten-eu-ewr-schweiz

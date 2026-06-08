@@ -1,6 +1,6 @@
 ---
 name: bussgeld-risiko-exportkontrolle-sanktionen
-description: "Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße im Hinweisgeberschutz Compliance."
 ---
 
 # Bussgeld Risiko

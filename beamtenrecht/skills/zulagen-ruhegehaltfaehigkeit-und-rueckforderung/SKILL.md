@@ -1,6 +1,6 @@
 ---
 name: zulagen-ruhegehaltfaehigkeit-und-rueckforderung
-description: "Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung im Beamtenrecht."
 ---
 
 # zulagen-ruhegehaltfaehigkeit-und-rueckforderung

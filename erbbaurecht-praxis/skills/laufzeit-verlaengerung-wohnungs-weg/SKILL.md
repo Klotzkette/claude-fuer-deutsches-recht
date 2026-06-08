@@ -1,6 +1,6 @@
 ---
 name: laufzeit-verlaengerung-wohnungs-weg
-description: "Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage im Erbbaurecht Praxis."
 ---
 
 # Laufzeit und Verlängerung

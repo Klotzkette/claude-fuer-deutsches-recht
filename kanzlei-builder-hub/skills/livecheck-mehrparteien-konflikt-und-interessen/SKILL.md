@@ -1,6 +1,6 @@
 ---
 name: livecheck-mehrparteien-konflikt-und-interessen
-description: "Livecheck: Mehrparteienkonflikt und Interessenmatrix im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Livecheck: Mehrparteienkonflikt und Interessenmatrix im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Livecheck: Mehrparteienkonflikt und Interessenmatrix

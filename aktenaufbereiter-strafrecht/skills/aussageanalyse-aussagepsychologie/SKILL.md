@@ -1,6 +1,6 @@
 ---
 name: aussageanalyse-aussagepsychologie
-description: "Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, Detailverknuepfung, Selbstbelastung, ungewoehnliche Details, Nichtsteuerungsmerkmale. Hypothesentest Falschaussage. Sinnvoll bei Aussage-gegen-Aussage. Output strukturiertes Gutachten-Modul für Verteidigerschriftsatz im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, Detailverknuepfung, Selbstbelastung, ungewoehnliche Details, Nichtsteuerungsmerkmale. Hypothesentest Falschaussage. Sinnvoll bei Aussage-gegen-Aussage. Output strukturiertes Gutachten-Modul für Verteidigerschriftsatz im Strafrechts-Aktenaufbereiter."
 ---
 
 # Aussageanalyse Aussagepsychologie

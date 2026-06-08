@@ -1,6 +1,6 @@
 ---
 name: flughafenausbau-einwendung-bauen
-description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Einwendung bauen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Flughafenausbau: Einwendung bauen im Umweltverbandsklage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Flughafenausbau Einwendung Bauen

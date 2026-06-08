@@ -1,6 +1,6 @@
 ---
 name: 003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar
-description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Römisches Recht."
 ---
 
 # Rom Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar

@@ -1,17 +1,9 @@
 ---
 name: wegh-eigentuemerversammlung-wirtschaftsplan
-description: "Wegh Eigentuemerversammlung Wirtschaftsplan im Plugin Weg Hausverwaltung: prüft konkret Bauleiter Eigentuemerversammlung WEG, WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach §, Prüft Wirtschaftsplan, Jahresabrechnung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wegh Eigentuemerversammlung Wirtschaftsplan im Plugin Weg Hausverwaltung: prüft konkret Bauleiter Eigentuemerversammlung WEG, WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach §, Prüft Wirtschaftsplan, Jahresabrechnung."
 ---
 
 # Wegh Eigentuemerversammlung Wirtschaftsplan
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wegh-eigentuemerversammlung-bauleiter` | Bauleiter Eigentuemerversammlung WEG: Einberufung, Tagesordnung, Beschlusskompetenz, Protokoll. Pruefraster für Verwalter. |
-| `wegh-wirtschaftsplan-jahresabrechnung-leitfaden` | WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle. |
-| `wirtschaftsplan-jahresabrechnung-28-weg` | Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE), V ZR 236/23 und V ZR 128/23 (Schlüsseländerung). |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Wegh Eigentuemerversammlung Wirtschaftsplan im Plugin Weg Hausverw
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wegh-eigentuemerversammlung-bauleiter`
 

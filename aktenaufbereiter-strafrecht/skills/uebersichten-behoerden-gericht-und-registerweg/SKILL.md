@@ -1,6 +1,6 @@
 ---
 name: uebersichten-behoerden-gericht-und-registerweg
-description: "Uebersichten: Behörden-, Gerichts- oder Registerweg im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Uebersichten: Behörden-, Gerichts- oder Registerweg im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Uebersichten: Behörden-, Gerichts- oder Registerweg

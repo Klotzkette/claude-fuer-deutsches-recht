@@ -1,19 +1,9 @@
 ---
 name: datenschutz-sicherheit-daueraufenthalt-eu
-description: "Datenschutz Sicherheit Daueraufenthalt EU im Migrationsrecht: prüft konkret Datenschutz/Sicherheit, Daueraufenthalt-EU, Digitale Beweise Flucht, Dublin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz Sicherheit Daueraufenthalt EU im Migrationsrecht: prüft konkret Datenschutz/Sicherheit, Daueraufenthalt-EU, Digitale Beweise Flucht, Dublin."
 ---
 
 # Datenschutz Sicherheit Daueraufenthalt EU
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-datenschutz-sicherheit-migration` | Datenschutz/Sicherheit: Fachmodul im Migrationsrecht; prüft Schutz sensibler Daten, Behördenweitergabe, Mandantenrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-daueraufenthalt-eu` | Daueraufenthalt-EU: Fachmodul im Migrationsrecht; prüft Zeiten, Lebensunterhalt, Sprachkenntnisse, Ausschlüsse, Mobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-digitalbeweise-flucht` | Digitale Beweise Flucht: Fachmodul im Migrationsrecht; prüft Fotos, Chats, Social Media, Metadaten, Übersetzung, Sicherheit; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-dublin-risikoampel-und-gegenargumente` | Dublin: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-duldung-60a` | Duldung § 60a: Fachmodul im Migrationsrecht; prüft tatsächliche/rechtliche Unmöglichkeit, Attest, Pass, Familie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Datenschutz Sicherheit Daueraufenthalt EU im Migrationsrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-datenschutz-sicherheit-migration`
 
@@ -108,7 +98,7 @@ description: "Datenschutz Sicherheit Daueraufenthalt EU im Migrationsrecht: prü
 
 ## 4. `spezial-dublin-risikoampel-und-gegenargumente`
 
-**Fokus:** Dublin: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Dublin: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt migrationsrecht.
 
 ### Dublin: Risikoampel, Gegenargumente und Verteidigungslinien
 

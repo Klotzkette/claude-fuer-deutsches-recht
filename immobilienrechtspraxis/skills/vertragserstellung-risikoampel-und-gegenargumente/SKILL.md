@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-risikoampel-und-gegenargumente
-description: "Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien im Immobilienrechtspraxis."
 ---
 
 # Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien

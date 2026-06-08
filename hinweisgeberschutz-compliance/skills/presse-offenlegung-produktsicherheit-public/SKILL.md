@@ -1,6 +1,6 @@
 ---
 name: presse-offenlegung-produktsicherheit-public
-description: "Bereitet Reaktion auf Presseoffenlegung vor im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Reaktion auf Presseoffenlegung vor im Hinweisgeberschutz Compliance."
 ---
 
 # Presse Und Offenlegung

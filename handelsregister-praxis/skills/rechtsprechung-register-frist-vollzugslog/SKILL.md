@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-register-frist-vollzugslog
-description: "Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink ausgegeben werden im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legt fest, wie Entscheidungen in Registersachen nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink ausgegeben werden im Handelsregister Praxis."
 ---
 
 # Rechtsprechung nur verifiziert nutzen

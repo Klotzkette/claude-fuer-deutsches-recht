@@ -1,6 +1,6 @@
 ---
 name: berechnen-bgb-buch-fuehren-fristverlaengerung
-description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung am Amtsgericht: prüft konkret Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung am Amtsgericht: prüft konkret Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO."
 ---
 
 # Berechnen BGB Buch Fuehren Fristverlaengerung
@@ -8,14 +8,6 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 ## Arbeitsbereich
 
 **Berechnen BGB Buch Fuehren Fristverlaengerung** ordnet den Fall über die tragenden Prüfungslinien: Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fristen-berechnen-187-188-bgb` | Berechnung von Prozessfristen nach §§ 187 188 BGB. Beginn am Tag nach Ereignis Ende am gleichen Wochentag der Folgewoche Frist-Ende auf Wochenende oder Feiertag verschiebt sich. Praxis-Beispiele und typische Fallen. |
-| `fristen-buch-fuehren-laien` | Eigenes Fristen-System für Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelprüfung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen. |
-| `fristverlaengerung-antrag-225-zpo` | Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Welche Fristen verlaengerbar sind welche nicht (Notfristen). Begründung Frist-Antrag rechtzeitig stellen Folge bei nicht-Bewilligung Substituierende Strategie. |
 
 ## Arbeitsweg
 
@@ -25,7 +17,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fristen-berechnen-187-188-bgb`
 

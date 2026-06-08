@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelbelehrung-zivil
-description: "Prüfungslinie für rechtsmittelbelehrung zivil im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für rechtsmittelbelehrung zivil im Urteilsbauer Relationsmacher."
 ---
 
 # Rechtsmittelbelehrung Zivil

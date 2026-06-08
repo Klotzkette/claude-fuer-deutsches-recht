@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-testdaten-validierung
-description: "Plant gerichtliche oder außergerichtliche Besichtigung eines Roboters mit Geheimnisschutz, Sachverständigem und Testprotokoll im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant gerichtliche oder außergerichtliche Besichtigung eines Roboters mit Geheimnisschutz, Sachverständigem und Testprotokoll im Robotik-Recht."
 ---
 
 # Technische Besichtigung und Geheimnisschutz

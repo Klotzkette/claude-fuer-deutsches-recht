@@ -1,6 +1,6 @@
 ---
 name: datum-entscheidungsform-spezial-gericht
-description: "Datum: Behörden-, Gerichts- oder Registerweg im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datum: Behörden-, Gerichts- oder Registerweg im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Datum: Behörden-, Gerichts- oder Registerweg

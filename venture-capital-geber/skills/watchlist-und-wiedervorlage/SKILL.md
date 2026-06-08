@@ -1,6 +1,6 @@
 ---
 name: watchlist-und-wiedervorlage
-description: "Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Watchlist und Wiedervorlage

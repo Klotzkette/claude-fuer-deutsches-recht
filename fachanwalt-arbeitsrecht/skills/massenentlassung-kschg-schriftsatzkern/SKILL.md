@@ -1,17 +1,9 @@
 ---
 name: massenentlassung-kschg-schriftsatzkern
-description: "Massenentlassung Kschg Schriftsatzkern im Plugin Fachanwalt Arbeitsrecht: prüft konkret Massenentlassung, Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollkl, Tatbestand. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Massenentlassung Kschg Schriftsatzkern im Plugin Fachanwalt Arbeitsrecht: prüft konkret Massenentlassung, Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollkl, Tatbestand."
 ---
 
 # Massenentlassung Kschg Schriftsatzkern
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `massenentlassung-17-kschg-realitaetscheck` | Massenentlassung: Anzeige, Konsultation, Agentur für Arbeit, Fehlerfolgen, neue Rechtsprechung und Rettungsstrategie.; Normanker: KSchG § 17; MERL; EuGH/BAG live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-arbeitsrecht-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung § 26 BDSG. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Massenentlassung Kschg Schriftsatzkern im Plugin Fachanwalt Arbeit
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `massenentlassung-17-kschg-realitaetscheck`
 

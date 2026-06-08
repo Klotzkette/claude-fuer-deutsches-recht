@@ -1,6 +1,6 @@
 ---
 name: eintragung-prozessvergleich-registerfolge
-description: "Übersetzt gerichtliche Vergleiche in Beschluss, Anmeldung, Liste, Löschung oder Berichtigung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt gerichtliche Vergleiche in Beschluss, Anmeldung, Liste, Löschung oder Berichtigung im Handelsregister Praxis."
 ---
 
 # Prozessvergleich mit Registerfolge

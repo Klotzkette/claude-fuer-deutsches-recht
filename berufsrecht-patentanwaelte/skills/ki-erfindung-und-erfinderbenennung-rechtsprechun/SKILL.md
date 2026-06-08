@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-rechtsprechun
-description: "Patentanwälte: ki erfindung und erfinderbenennung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: ki erfindung und erfinderbenennung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

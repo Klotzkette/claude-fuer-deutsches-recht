@@ -1,19 +1,9 @@
 ---
 name: software-source-ttdsg
-description: "Software Source TTDSG im Plugin Fachanwalt It Recht: prüft konkret Schnittstellen, Software, Source, Ttdsg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Software Source TTDSG im Plugin Fachanwalt It Recht: prüft konkret Schnittstellen, Software, Source, Ttdsg."
 ---
 
 # Software Source TTDSG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schnittstellen-formular-portal-und-einreichung` | Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-software-dokumentenmatrix-und-lueckenliste` | Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-source-internationaler-bezug-und-schnittstellen` | Source: Internationaler Bezug und Schnittstellen im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-ttdsg-verhandlung-vergleich-und-eskalation` | Ttdsg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verhandlung-abschlussprodukt-und-uebergabe` | Verhandlung: Abschlussprodukt und Übergabe im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schnittstellen-formular-portal-und-einreichung`
 
-**Fokus:** Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht.
 
 ### Schnittstellen: Formular, Portal und Einreichungslogik
 
@@ -67,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-software-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht.
 
 ### Software: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -92,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-source-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Source: Internationaler Bezug und Schnittstellen im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Source: Internationaler Bezug und Schnittstellen im Plugin fachanwalt it recht.
 
 ### Source: Internationaler Bezug und Schnittstellen
 
@@ -117,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-ttdsg-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Ttdsg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ttdsg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt it recht.
 
 ### Ttdsg: Verhandlung, Vergleich und Eskalation
 
@@ -142,7 +132,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-verhandlung-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Verhandlung: Abschlussprodukt und Übergabe im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verhandlung: Abschlussprodukt und Übergabe im Plugin fachanwalt it recht.
 
 ### Verhandlung: Abschlussprodukt und Übergabe
 

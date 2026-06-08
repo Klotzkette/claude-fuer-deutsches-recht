@@ -1,17 +1,9 @@
 ---
 name: anwalt-amtsgericht-gewerbe-restaurant
-description: "Anwalt Amtsgericht Gewerbe Restaurant im Plugin Weg Hausverwaltung: prüft konkret Erkennt, wann ein WEG-/Hausverwaltungsvorgang nicht mehr nur, Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen, Ordnet unübersichtliche WEG- und Hausverwaltungsakten mit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anwalt Amtsgericht Gewerbe Restaurant im Plugin Weg Hausverwaltung: prüft konkret Erkennt, wann ein WEG-/Hausverwaltungsvorgang nicht mehr nur, Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen, Ordnet unübersichtliche WEG- und Hausverwaltungsakten mit."
 ---
 
 # Anwalt Amtsgericht Gewerbe Restaurant
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `eskalation-anwalt-amtsgericht` | Erkennt, wann ein WEG-/Hausverwaltungsvorgang nicht mehr nur Verwaltung ist (Stand 05/2026): Anwalt, Beschlussklage, Hausgeldklage, einstweiliger Rechtsschutz, Beweissicherung, Verwalterhaftung über GdWE oder Vergleich; berücksichtigt Fristen aus § 45 WEG, BGH V ZR 17/24 (Erkundigungsobliegenheit) und V ZR 139/23 (Prozesskostenverteilung). |
-| `gewerbe-restaurant-geruch-laerm-hof` | Bearbeitet Restaurant- und Gewerbekonflikte in WEG-Anlagen: Geruch, Lüftung, Lärm, Müll, Lieferverkehr, Fettabscheider, Sondernutzung, Brandschutz und Mieter-/Eigentümerrollen. Output: Eskalations- und Beschlussplan. |
-| `grossakte-konfliktlandkarte` | Ordnet unübersichtliche WEG- und Hausverwaltungsakten mit vielen Konflikten: Heizung, Dach, Gewerbe, Geruch, Tauben, Fahrrad, Kinder, Wallbox, Steckersolar, Nebenkosten, Protokolle und Beschlüsse. Output: Konfliktlandkarte, Prioritätenplan und Skill-Routing. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Anwalt Amtsgericht Gewerbe Restaurant im Plugin Weg Hausverwaltung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `eskalation-anwalt-amtsgericht`
 

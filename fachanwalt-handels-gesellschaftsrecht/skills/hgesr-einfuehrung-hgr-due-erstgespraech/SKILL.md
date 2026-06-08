@@ -1,17 +1,9 @@
 ---
 name: hgesr-einfuehrung-hgr-due-erstgespraech
-description: "Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einfuehrung deutsche Rechtsformen für Handels- und, Due-Diligence-Checker light für kleinere Mandate, Strukturierter Erstgespraechsleitfaden für Handels- und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einfuehrung deutsche Rechtsformen für Handels- und, Due-Diligence-Checker light für kleinere Mandate, Strukturierter Erstgespraechsleitfaden für Handels- und."
 ---
 
 # Hgesr Einfuehrung HGR DUE Erstgespraech
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `hgesr-einfuehrung-rechtsformen` | Einfuehrung deutsche Rechtsformen für Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft. Pro Rechtsform: Haftung, Mindestkapital, Organe, Steuerregime, typische Nutzung. Entscheidungsbaum für Mandanten. |
-| `hgr-due-diligence-cheker-light` | Due-Diligence-Checker light für kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten. Mustertext für Findings-Memo. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Hgesr Einfuehrung HGR DUE Erstgespraech im Plugin Fachanwalt Hande
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `hgesr-einfuehrung-rechtsformen`
 

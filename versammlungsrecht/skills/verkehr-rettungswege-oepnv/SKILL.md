@@ -1,6 +1,6 @@
 ---
 name: verkehr-rettungswege-oepnv
-description: "Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bearbeitet Verkehr, ÖPNV, Rettungswege, Baustellen, Umleitungen und Straßenverkehrsbehörden im Versammlungsrecht."
 ---
 
 # Verkehr ist wichtig, aber kein Pauschalverbot

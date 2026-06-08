@@ -1,6 +1,6 @@
 ---
 name: genossenschaft-und-vereinsrecht
-description: "Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht im Deutsche Rechtsgeschichte."
 ---
 
 # Genossenschaft und Vereinsrecht

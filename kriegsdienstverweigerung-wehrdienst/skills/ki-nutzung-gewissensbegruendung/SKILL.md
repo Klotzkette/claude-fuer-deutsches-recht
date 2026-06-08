@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-gewissensbegruendung
-description: "Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # KI bei Gewissensbegründung

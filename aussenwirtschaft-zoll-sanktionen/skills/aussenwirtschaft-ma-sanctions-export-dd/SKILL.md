@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ma-sanctions-export-dd
-description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizierung von Sanktionsexposure des Zielunternehmens, Exportkontrollverstoss-Historizitaet, ICP-Qualitaet, Haftungsrisiken und Vertragsgestaltung (Rep und Warranties, Ruecktrittsrechte). Output: M&A-Exportkontroll-DD-Bericht im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizierung von Sanktionsexposure des Zielunternehmens, Exportkontrollverstoss-Historizitaet, ICP-Qualitaet, Haftungsrisiken und Vertragsgestaltung (Rep und Warranties, Ruecktrittsrechte). Output: M&A-Exportkontroll-DD-Bericht im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # M und A Exportkontroll- und Sanktions-Due-Diligence

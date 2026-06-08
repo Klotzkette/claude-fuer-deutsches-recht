@@ -1,6 +1,6 @@
 ---
 name: grenzbaum-schriftsatz-brief-und-memo-bausteine
-description: "Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
 ---
 
 # Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine

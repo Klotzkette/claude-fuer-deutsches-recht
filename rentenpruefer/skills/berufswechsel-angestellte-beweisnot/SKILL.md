@@ -1,6 +1,6 @@
 ---
 name: berufswechsel-angestellte-beweisnot
-description: "Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufswechsel und Erwerbsformen: Angestellte, Selbständige, Freelancer, Kammerberufe, Pflichtversicherung und freiwillige Beiträge im Rentenpruefer."
 ---
 
 # berufswechsel-angestellte-selbstaendige-freiberufler

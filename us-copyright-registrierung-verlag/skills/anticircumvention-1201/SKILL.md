@@ -1,6 +1,6 @@
 ---
 name: anticircumvention-1201
-description: "Prueft Zugriffsschutz, Technological Protection Measures, Umgehung, Tools, Exemptions und Security-Research-Risiken im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Zugriffsschutz, Technological Protection Measures, Umgehung, Tools, Exemptions und Security-Research-Risiken im Us Copyright Registrierung Verlag."
 ---
 
 # Anti-Circumvention § 1201

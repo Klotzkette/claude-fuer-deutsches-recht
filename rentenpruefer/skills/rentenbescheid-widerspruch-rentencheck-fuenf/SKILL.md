@@ -1,6 +1,6 @@
 ---
 name: rentenbescheid-widerspruch-rentencheck-fuenf
-description: "Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung im Rentenpruefer."
 ---
 
 # rentenbescheid-pruefen-widerspruch

@@ -1,6 +1,6 @@
 ---
 name: untatigkeit-und-schweigen
-description: "Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt im Versammlungsrecht."
 ---
 
 # Schweigen ist kein Plan

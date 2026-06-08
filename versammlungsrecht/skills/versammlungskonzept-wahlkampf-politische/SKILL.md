@@ -1,6 +1,6 @@
 ---
 name: versammlungskonzept-wahlkampf-politische
-description: "Erstellt ein belastbares Versammlungskonzept als Anlage zur Anzeige oder als Antwort auf Behördenfragen im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt ein belastbares Versammlungskonzept als Anlage zur Anzeige oder als Antwort auf Behördenfragen im Versammlungsrecht."
 ---
 
 # Gutes Konzept ohne Selbstfesselung

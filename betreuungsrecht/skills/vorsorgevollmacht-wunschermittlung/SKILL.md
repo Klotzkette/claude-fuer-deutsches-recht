@@ -1,6 +1,6 @@
 ---
 name: vorsorgevollmacht-wunschermittlung
-description: "Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster für den Vergleich Vollmacht/Betreuungsbedarf im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster für den Vergleich Vollmacht/Betreuungsbedarf im Betreuungsrecht."
 ---
 
 # Vorsorgevollmacht pruefen

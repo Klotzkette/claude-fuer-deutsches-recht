@@ -1,6 +1,6 @@
 ---
 name: notarvertretung-und-notariatsverwalter-kaltstart
-description: "Notare: notarvertretung und notariatsverwalter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: notarvertretung und notariatsverwalter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: notarvertretung und notariatsverwalter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

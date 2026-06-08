@@ -1,17 +1,9 @@
 ---
 name: sportr-stadionverbot-verbandsstrafe
-description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüfungslinie für verbandsstrafe anfechten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret Spezialfall Stadionverbot und Fanrechte, Spezialfall Stadionverbot und Fan-Rechte, Prüfungslinie für verbandsstrafe anfechten."
 ---
 
 # Sportr Stadionverbot Verbandsstrafe
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `sportr-stadionverbot-fanrechte-spezial` | Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhörung, gleichbehandlungsrechtliche Aspekte. Pruefraster für Anhörungsrecht und Klage. |
-| `sportr-stadionverbot-und-fan-rechte-spezial` | Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhörungspflicht, Klage Anfechtung, Vergleichsverhandlung. BGH-Rechtsprechung zur Begruendungspflicht. |
-| `verbandsstrafe-anfechten` | Verbandsstrafe Anfechten: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Sportr Stadionverbot Verbandsstrafe im Sportrecht: prüft konkret 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `sportr-stadionverbot-fanrechte-spezial`
 

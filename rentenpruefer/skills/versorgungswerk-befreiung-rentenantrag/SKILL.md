@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-befreiung-rentenantrag
-description: "Befreiung von der gesetzlichen Rentenversicherungspflicht zugunsten eines berufsständischen Versorgungswerks nach § 6 SGB VI im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Befreiung von der gesetzlichen Rentenversicherungspflicht zugunsten eines berufsständischen Versorgungswerks nach § 6 SGB VI im Rentenpruefer."
 ---
 
 # versorgungswerk-befreiung-6-sgb-vi

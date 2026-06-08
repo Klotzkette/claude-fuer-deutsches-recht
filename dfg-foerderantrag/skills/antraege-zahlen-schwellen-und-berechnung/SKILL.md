@@ -1,6 +1,6 @@
 ---
 name: antraege-zahlen-schwellen-und-berechnung
-description: "Antraege: Zahlen, Schwellenwerte und Berechnung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Antraege: Zahlen, Schwellenwerte und Berechnung im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Antraege: Zahlen, Schwellenwerte und Berechnung

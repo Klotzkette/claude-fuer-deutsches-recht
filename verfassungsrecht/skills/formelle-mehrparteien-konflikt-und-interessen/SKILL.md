@@ -1,6 +1,6 @@
 ---
 name: formelle-mehrparteien-konflikt-und-interessen
-description: "Formelle: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formelle: Mehrparteienkonflikt und Interessenmatrix im Verfassungsrecht."
 ---
 
 # Formelle: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: konzession-oder-auftrag
-description: "Öffentliches Wirtschaftsrecht: Konzession oder Auftrag. Konzession oder Auftrag im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Öffentliches Wirtschaftsrecht: Konzession oder Auftrag. Konzession oder Auftrag im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Öffentliches Wirtschaftsrecht."
 ---
 
 # Konzession Oder Auftrag

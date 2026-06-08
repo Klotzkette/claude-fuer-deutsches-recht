@@ -1,6 +1,6 @@
 ---
 name: disziplinarrecht-bdg-vollzugsmodell-bund
-description: "Bundesdisziplinarrecht nach der BDG-Novelle 2024: Vollzugsmodell, Disziplinarverfügung, Entfernung, Rechtsschutz, fehlende automatische Suspensivwirkung, Verfassungstreue und Verfahrensbeschleunigung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bundesdisziplinarrecht nach der BDG-Novelle 2024: Vollzugsmodell, Disziplinarverfügung, Entfernung, Rechtsschutz, fehlende automatische Suspensivwirkung, Verfassungstreue und Verfahrensbeschleunigung im Beamtenrecht."
 ---
 
 # BDG 2024 - Vollzugsmodell und Disziplinarverfügung

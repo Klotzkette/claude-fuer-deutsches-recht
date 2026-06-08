@@ -1,6 +1,6 @@
 ---
 name: externes-bfj-formular
-description: "Bereitet Kommunikation mit externer Meldestelle vor im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Kommunikation mit externer Meldestelle vor im Hinweisgeberschutz Compliance."
 ---
 
 # Externes BfJ Formular

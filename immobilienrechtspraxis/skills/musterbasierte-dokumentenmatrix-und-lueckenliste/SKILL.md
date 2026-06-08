@@ -1,6 +1,6 @@
 ---
 name: musterbasierte-dokumentenmatrix-und-lueckenliste
-description: "Musterbasierte: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Musterbasierte: Dokumentenmatrix, Lückenliste und Nachforderung im Immobilienrechtspraxis."
 ---
 
 # Musterbasierte: Dokumentenmatrix, Lückenliste und Nachforderung

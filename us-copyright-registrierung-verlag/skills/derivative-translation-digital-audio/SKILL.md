@@ -1,6 +1,6 @@
 ---
 name: derivative-translation-digital-audio
-description: "Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen im Us Copyright Registrierung Verlag."
 ---
 
 # Derivative Works, Übersetzungen und Neuauflagen

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-verantwortung-kaltstart-und-fakte
-description: "Steuerberater: jahresabschluss verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: jahresabschluss verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: jahresabschluss verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

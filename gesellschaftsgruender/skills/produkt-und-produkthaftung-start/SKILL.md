@@ -1,6 +1,6 @@
 ---
 name: produkt-und-produkthaftung-start
-description: "Prüft CE, Produktsicherheit, Bedienungsanleitung, Haftung und Versicherung vor Markteintritt im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft CE, Produktsicherheit, Bedienungsanleitung, Haftung und Versicherung vor Markteintritt im Gesellschaftsgruender."
 ---
 
 # Produkt- und Produkthaftungsstart

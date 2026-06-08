@@ -1,6 +1,6 @@
 ---
 name: success-fee-risk
-description: "Prüft Erfolgskomponenten vorsichtig nach Berufsrecht und Risikoallokation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erfolgskomponenten vorsichtig nach Berufsrecht und Risikoallokation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Erfolgshonorar und Risiko

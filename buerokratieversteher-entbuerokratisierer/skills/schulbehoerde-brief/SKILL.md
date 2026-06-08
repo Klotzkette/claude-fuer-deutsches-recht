@@ -1,6 +1,6 @@
 ---
 name: schulbehoerde-brief
-description: "Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht im Bürokratie-Entbürokratisierung."
 ---
 
 # Schulbehörde-Brief

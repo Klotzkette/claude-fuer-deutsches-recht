@@ -1,6 +1,6 @@
 ---
 name: recordation-205-transfers
-description: "Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene im Us Copyright Registrierung Verlag."
 ---
 
 # Recordation § 205 Transfers

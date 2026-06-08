@@ -1,6 +1,6 @@
 ---
 name: messeveroeffentlichung-prototyp-muendliche
-description: "Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Messeveröffentlichung und Prototypvorführung prüfen: öffentliche Zugänglichkeit, Schonfrist, Beweise, Fotografien, Besucher, Angebot und Vertrieb im Gebrauchsmusterrecht."
 ---
 
 # Messeveroeffentlichung Und Prototyp

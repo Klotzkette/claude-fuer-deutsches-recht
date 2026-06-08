@@ -1,6 +1,6 @@
 ---
 name: lrs-hochschule
-description: "Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck im Pruefungsrecht Hochschule."
 ---
 
 # LRS in Hochschulprüfungen

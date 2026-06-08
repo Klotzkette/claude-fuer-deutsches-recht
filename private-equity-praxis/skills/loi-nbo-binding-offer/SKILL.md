@@ -1,6 +1,6 @@
 ---
 name: loi-nbo-binding-offer
-description: "Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee im Private Equity Praxis."
 ---
 
 # LOI, NBO und Binding Offer

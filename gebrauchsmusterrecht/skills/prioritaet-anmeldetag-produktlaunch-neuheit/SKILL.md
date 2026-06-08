@@ -1,6 +1,6 @@
 ---
 name: prioritaet-anmeldetag-produktlaunch-neuheit
-description: "Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen: Paris-Priorität, Patentbezug, Offenbarungsidentität und Fristen im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Priorität und Anmeldetag im Gebrauchsmusterrecht prüfen: Paris-Priorität, Patentbezug, Offenbarungsidentität und Fristen im Gebrauchsmusterrecht."
 ---
 
 # Prioritaet Und Anmeldetag

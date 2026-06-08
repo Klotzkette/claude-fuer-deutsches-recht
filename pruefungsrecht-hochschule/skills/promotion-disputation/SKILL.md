@@ -1,6 +1,6 @@
 ---
 name: promotion-disputation
-description: "Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Pruefungsrecht Hochschule."
 ---
 
 # Promotion und Disputation

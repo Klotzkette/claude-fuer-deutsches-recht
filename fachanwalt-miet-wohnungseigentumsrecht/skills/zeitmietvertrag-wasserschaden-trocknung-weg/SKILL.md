@@ -1,19 +1,9 @@
 ---
 name: zeitmietvertrag-wasserschaden-trocknung-weg
-description: "Zeitmietvertrag Wasserschaden Trocknung WEG im Miet- und Wohnungseigentumsrecht: prüft konkret Zeitmietvertrag, Wasserschaden/Trocknung, Verwaltungsbeirat Haftung, Materielle Betriebskostenprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zeitmietvertrag Wasserschaden Trocknung WEG im Miet- und Wohnungseigentumsrecht: prüft konkret Zeitmietvertrag, Wasserschaden/Trocknung, Verwaltungsbeirat Haftung, Materielle Betriebskostenprüfung."
 ---
 
 # Zeitmietvertrag Wasserschaden Trocknung WEG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-zeitmietvertrag` | Zeitmietvertrag: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wasserschaden-trocknung` | Wasserschaden/Trocknung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-beirat-haftung` | Verwaltungsbeirat Haftung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-betriebskosten-materiell` | Materielle Betriebskostenprüfung: Umlagefähigkeit nach Mietvertrag und BetrKV, laufende Kosten, Wirtschaftlichkeitsgebot, Abgrenzung Wartung/Reparatur, Verwaltung/Instandhaltung, Hausmeistersplit, Versicherung, Grundsteuer, Belege und Korrekturberechnung. |
-| `spezial-grundsteuer-umlage` | Grundsteuer-Umlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Zeitmietvertrag Wasserschaden Trocknung WEG im Miet- und Wohnungse
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-zeitmietvertrag`
 

@@ -1,6 +1,6 @@
 ---
 name: vernunftigerweise-vorhersehbarer
-description: "Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft vorhersehbaren Gebrauch, Fehlgebrauch und Grenzen von Warnhinweisen bei Robotern im Betrieb und beim Verbraucher im Robotik-Recht."
 ---
 
 # Vorhersehbarer Gebrauch

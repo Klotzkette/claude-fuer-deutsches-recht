@@ -1,6 +1,6 @@
 ---
 name: polizei-ort-polizeifilmerei-beweissicherung
-description: "Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag im Versammlungsrecht."
 ---
 
 # Vor Ort ruhig und dokumentiert

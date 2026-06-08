@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-kontrolle-sichern
-description: "Messegesellschaft: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Messegesellschaft: Kontrolle sichern im Öffentliches Wirtschaftsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Messegesellschaft Kontrolle Sichern

@@ -1,6 +1,6 @@
 ---
 name: hochschulwahlen
-description: "Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulwahlen und Wahlprüfung im Hochschulrecht Länder."
 ---
 
 # Hochschulwahlen

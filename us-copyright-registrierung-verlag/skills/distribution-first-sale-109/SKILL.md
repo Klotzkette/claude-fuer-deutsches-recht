@@ -1,6 +1,6 @@
 ---
 name: distribution-first-sale-109
-description: "Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen im Us Copyright Registrierung Verlag."
 ---
 
 # Distribution Right und First Sale

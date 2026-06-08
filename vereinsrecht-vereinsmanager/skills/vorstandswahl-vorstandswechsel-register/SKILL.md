@@ -1,6 +1,6 @@
 ---
 name: vorstandswahl-vorstandswechsel-register
-description: "Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor im Vereinsrecht Vereinsmanager."
 ---
 
 # Vorstandswahl

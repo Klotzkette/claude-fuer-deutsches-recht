@@ -1,19 +1,9 @@
 ---
 name: rechtsmittel-vg-migration-schreiben-einfache
-description: "Rechtsmittel VG Migration Schreiben Einfache im Migrationsrecht: prüft konkret Rechtsmittel VG, Red-Team Migration, Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht, Schreiben einfache Sprache. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rechtsmittel VG Migration Schreiben Einfache im Migrationsrecht: prüft konkret Rechtsmittel VG, Red-Team Migration, Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht, Schreiben einfache Sprache."
 ---
 
 # Rechtsmittel VG Migration Schreiben Einfache
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-rechtsmittel-vg` | Rechtsmittel VG: Prüfungslinie für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-redteam-migration` | Red-Team Migration: Prüfungslinie für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `workflow-schreiben-einfache-sprache` | Schreiben einfache Sprache: Prüfungslinie für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-sozialrecht-schnittstelle` | Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Rechtsmittel VG Migration Schreiben Einfache im Migrationsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-rechtsmittel-vg`
 

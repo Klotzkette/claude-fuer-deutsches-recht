@@ -1,6 +1,6 @@
 ---
 name: strafzumessungstatsachen-vergleich-eskalation
-description: "Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation im Strafzumessung."
 ---
 
 # Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation

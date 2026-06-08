@@ -1,6 +1,6 @@
 ---
 name: beschlussverfahren-72-owig
-description: "Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Beschlussverfahren 72 Owig

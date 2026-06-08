@@ -1,6 +1,6 @@
 ---
 name: tod-erbe-vorlage-originale-aktenzeichen
-description: "Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen im Bürokratie-Entbürokratisierung."
 ---
 
 # Tod, Erbe und Behörde

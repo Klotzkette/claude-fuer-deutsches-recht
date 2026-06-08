@@ -1,6 +1,6 @@
 ---
 name: competition-clean-team
-description: "Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess im Private Equity Praxis."
 ---
 
 # Clean Team und Kartellrecht im PE-Prozess

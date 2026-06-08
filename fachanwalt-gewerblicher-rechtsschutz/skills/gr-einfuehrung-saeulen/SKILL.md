@@ -1,17 +1,9 @@
 ---
 name: gr-einfuehrung-saeulen
-description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz."
 ---
 
 # GR Einfuehrung Saeulen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `gr-einfuehrung-saeulen` | Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio. |
-| `gr-mitbewerberabmahnung-aktivlegitimation-spezial` | Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs. 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missbrauchsprüfung § 8c UWG, negative Feststellungsklage als Gegenmaßnahme. |
-| `gr-uebersetzung-marke-osterreich-schweiz-spezial` | Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `gr-einfuehrung-saeulen`
 

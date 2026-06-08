@@ -1,6 +1,6 @@
 ---
 name: serials-newsletters-database-updates
-description: "Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Serials, Newsletter, Updates und Datenbanken: periodische Publikationen, Online-only-Ausgaben, Updates und Gruppengebühren praxisnah sortieren im Us Copyright Registrierung Verlag."
 ---
 
 # Serials, Newsletter und Datenbankupdates

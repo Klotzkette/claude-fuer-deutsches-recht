@@ -1,6 +1,6 @@
 ---
 name: reasonable-efforts-reps-warranties
-description: "Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie für deutsches Recht im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie für deutsches Recht im Gesellschaftsrecht Legal English."
 ---
 
 # Efforts und Covenants

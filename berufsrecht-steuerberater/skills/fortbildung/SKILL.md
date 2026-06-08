@@ -1,6 +1,6 @@
 ---
 name: fortbildung
-description: "Fortbildung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fortbildung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fortbildung: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fortbildung im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Fortbildung

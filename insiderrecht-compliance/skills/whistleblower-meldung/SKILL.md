@@ -1,6 +1,6 @@
 ---
 name: whistleblower-meldung
-description: "Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen im Insiderrecht Compliance."
 ---
 
 # Whistleblower-Meldungen mit Insiderrecht-Bezug

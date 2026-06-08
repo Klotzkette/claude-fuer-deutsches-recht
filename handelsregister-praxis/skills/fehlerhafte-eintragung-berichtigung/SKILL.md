@@ -1,6 +1,6 @@
 ---
 name: fehlerhafte-eintragung-berichtigung
-description: "Prüft Schreibfehler, materiell falsche Eintragung, Amtskorrektur, Löschung, neue Anmeldung und Haftungsnotiz im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schreibfehler, materiell falsche Eintragung, Amtskorrektur, Löschung, neue Anmeldung und Haftungsnotiz im Handelsregister Praxis."
 ---
 
 # Fehlerhafte Eintragung korrigieren

@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bauproduktenrecht-und-technische-normen
-description: "Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Länder-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung) im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Länder-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung) im Legistik."
 ---
 
 # Bauproduktenrecht und technische Normen (BMWSB)

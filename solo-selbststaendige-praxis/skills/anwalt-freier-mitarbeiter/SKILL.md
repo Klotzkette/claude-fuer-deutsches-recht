@@ -1,6 +1,6 @@
 ---
 name: anwalt-freier-mitarbeiter
-description: "Solo-Selbstständige: ordnet freie Mitarbeit, Kanzleieingliederung und Berufsrecht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: ordnet freie Mitarbeit, Kanzleieingliederung und Berufsrecht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Scheinselbstständigkeit und Status: Ordnet freie mitarbeit

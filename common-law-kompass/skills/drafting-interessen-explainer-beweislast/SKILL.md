@@ -1,6 +1,6 @@
 ---
 name: drafting-interessen-explainer-beweislast
-description: "Drafting: Mehrparteienkonflikt und Interessenmatrix im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Drafting: Mehrparteienkonflikt und Interessenmatrix im Plugin common law kompass im Common Law Kompass."
 ---
 
 # Drafting: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: ethik-abschlussprodukt-und-uebergabe
-description: "Ethik: Abschlussprodukt und Übergabe im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ethik: Abschlussprodukt und Übergabe im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Ethik: Abschlussprodukt und Übergabe

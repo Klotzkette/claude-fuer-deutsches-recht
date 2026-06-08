@@ -1,6 +1,6 @@
 ---
 name: juristisches-staatsexamen-ki-nutzung-ki
-description: "Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Pruefungsrecht Hochschule."
 ---
 
 # Juristisches Staatsexamen

@@ -1,16 +1,9 @@
 ---
 name: vektor-shedding-vergleichsverhandlung
-description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konkret Vektor-Shedding und Umweltrisiko, Vergleichsverhandlung und Einigungsstrategie im Medizinrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konkret Vektor-Shedding und Umweltrisiko, Vergleichsverhandlung und Einigungsstrategie im Medizinrecht."
 ---
 
 # Vektor Shedding Vergleichsverhandlung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vektor-shedding-umweltrisiko` | Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Vektor Shedding Vergleichsverhandlung im Medizinrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vektor-shedding-umweltrisiko`
 

@@ -1,15 +1,9 @@
 ---
 name: dublin-ueberstellung
-description: "Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsrecht."
 ---
 
 # Dublin Ueberstellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-dublin-fristen-ueberstellung` | Dublin-Fristen/Überstellung: Fachmodul im Migrationsrecht; prüft Aufnahme-/Wiederaufnahme, Überstellungsfrist, Kirchenasyl, Aussetzung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Dublin Ueberstellung im Migrationsrecht im Fachanwalt Migrationsre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-dublin-fristen-ueberstellung`
 

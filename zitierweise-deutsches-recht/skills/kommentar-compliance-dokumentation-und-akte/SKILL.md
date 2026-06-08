@@ -1,6 +1,6 @@
 ---
 name: kommentar-compliance-dokumentation-und-akte
-description: "Kommentar: Compliance-Dokumentation und Aktenvermerk im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommentar: Compliance-Dokumentation und Aktenvermerk im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

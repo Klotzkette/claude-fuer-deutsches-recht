@@ -1,6 +1,6 @@
 ---
 name: befreiung-schulveranstaltung
-description: "Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pflichtveranstaltung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Befreiung von Klassenfahrt, Exkursion, Projektwoche und Pflichtveranstaltung im Schulrecht Länder."
 ---
 
 # Befreiung von Schulveranstaltung

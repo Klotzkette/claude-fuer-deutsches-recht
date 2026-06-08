@@ -1,6 +1,6 @@
 ---
 name: was-will-dieses-schreiben
-description: "Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst? im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst? im Bürokratie-Entbürokratisierung."
 ---
 
 # Was will dieses Schreiben?

@@ -1,6 +1,6 @@
 ---
 name: verkehrswende-verhandlung-vergleich-und-eskalation
-description: "Verkehrswende: Verhandlung, Vergleich und Eskalation im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verkehrswende: Verhandlung, Vergleich und Eskalation im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
 ---
 
 # Verkehrswende: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: chancengleichheit-stoerung
-description: "Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Pruefungsrecht Hochschule."
 ---
 
 # Chancengleichheit und Störung

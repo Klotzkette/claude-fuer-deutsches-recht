@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-paragraph-sittenwidrige
-description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB im BGB BT."
 ---
 
 # Deliktsrecht § 823 Abs. 1 BGB

@@ -1,6 +1,6 @@
 ---
 name: fraktur-lesen-und-begriffe-entschluesseln
-description: "PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Begriffe entschlüsseln

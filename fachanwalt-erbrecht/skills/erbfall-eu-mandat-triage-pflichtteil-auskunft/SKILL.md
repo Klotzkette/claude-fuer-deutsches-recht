@@ -1,6 +1,6 @@
 ---
 name: erbfall-eu-mandat-triage-pflichtteil-auskunft
-description: "Erbfall EU Mandat Triage Pflichtteil Auskunft im Plugin Fachanwalt Erbrecht: prüft konkret Internationaler Erbfall, Erbrechtsmandat schnell einordnen und Sofortmassnahmen, Pflichtteil. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erbfall EU Mandat Triage Pflichtteil Auskunft im Plugin Fachanwalt Erbrecht: prüft konkret Internationaler Erbfall, Erbrechtsmandat schnell einordnen und Sofortmassnahmen, Pflichtteil."
 ---
 
 # Erbfall EU Mandat Triage Pflichtteil Auskunft
@@ -19,14 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `internationaler-erbfall-eu-erbvo` | Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.; Normanker: EuErbVO; FamFG; GBO; IPR; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `mandat-triage-erbrecht` | Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills. |
-| `pflichtteil-auskunft-wertermittlung` | Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.; Normanker: BGB §§ 2303 und 2314 und 2325; ZPO Stufenklage; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,7 +27,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `internationaler-erbfall-eu-erbvo`
 

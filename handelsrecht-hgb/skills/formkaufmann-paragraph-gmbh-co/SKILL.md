@@ -1,6 +1,6 @@
 ---
 name: formkaufmann-paragraph-gmbh-co
-description: "Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen im Handelsrecht Hgb."
 ---
 
 # Formkaufmann § 6 HGB

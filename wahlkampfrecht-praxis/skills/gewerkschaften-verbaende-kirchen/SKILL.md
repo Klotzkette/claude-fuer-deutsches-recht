@@ -1,6 +1,6 @@
 ---
 name: gewerkschaften-verbaende-kirchen
-description: "Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen pruefen im Wahlkampfrecht."
 ---
 
 # Gewerkschaften Verbaende Kirchen

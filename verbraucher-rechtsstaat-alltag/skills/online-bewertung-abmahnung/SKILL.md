@@ -1,6 +1,6 @@
 ---
 name: online-bewertung-abmahnung
-description: "Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Online-Bewertung und Abmahnung

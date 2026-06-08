@@ -1,6 +1,6 @@
 ---
 name: zivildienst-altfaelle-ziviler-ersatzdienst
-description: "Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Zivildienst-Altfall

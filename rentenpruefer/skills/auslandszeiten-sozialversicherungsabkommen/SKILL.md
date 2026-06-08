@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-sozialversicherungsabkommen
-description: "Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auslandszeiten in Abkommensstaaten: Rentenanspruch, getrennte Renten, Zusammenrechnung für Anspruchsvoraussetzungen und zuständige Verbindungsstellen im Rentenpruefer."
 ---
 
 # auslandszeiten-sozialversicherungsabkommen

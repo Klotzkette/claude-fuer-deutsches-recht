@@ -1,6 +1,6 @@
 ---
 name: korrekturfrist-und-verzoegerung
-description: "Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Pruefungsrecht Hochschule."
 ---
 
 # Korrekturfrist und Verzögerung

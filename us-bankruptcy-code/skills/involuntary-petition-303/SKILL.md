@@ -1,6 +1,6 @@
 ---
 name: involuntary-petition-303
-description: "Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code."
 ---
 
 # Involuntary Petition § 303

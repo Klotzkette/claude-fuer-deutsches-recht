@@ -1,19 +1,9 @@
 ---
 name: schluessel-schliessanlage
-description: "Schluessel Schliessanlage im Miet- und Wohnungseigentumsrecht: prüft konkret Schlüssel/Schließanlage, Schnittstellen, Schönheitsreparaturen AGB, Sozialbindung Wohnraum. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schluessel Schliessanlage im Miet- und Wohnungseigentumsrecht: prüft konkret Schlüssel/Schließanlage, Schnittstellen, Schönheitsreparaturen AGB, Sozialbindung Wohnraum."
 ---
 
 # Schluessel Schliessanlage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schluessel-schliessanlage` | Schlüssel/Schließanlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Verlust, Kosten, Austausch, Beweis, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-schnittstellen-internationaler-bezug-und-schnittstellen` | Schnittstellen: Internationaler Bezug und Schnittstellen im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-schoenheitsreparaturen-agb` | Schönheitsreparaturen AGB: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft starre Fristen, Anfangszustand, Quotenklausel, Endrenovierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-sozialbindung-wohnraum` | Sozialbindung Wohnraum: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft WBS, Kostenmiete, Fehlbelegung, Mieterhöhung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-staffelmiete-wirksamkeit` | Staffelmiete Wirksamkeit: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beträge, Zeiträume, Kündigungsverzicht, Mietpreisbremse und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Schluessel Schliessanlage im Miet- und Wohnungseigentumsrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schluessel-schliessanlage`
 

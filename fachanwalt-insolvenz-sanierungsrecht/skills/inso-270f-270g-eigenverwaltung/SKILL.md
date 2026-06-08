@@ -1,6 +1,6 @@
 ---
 name: inso-270f-270g-eigenverwaltung
-description: "Inso P270f Anordnung P270g Eigenverwaltung im Insolvenz- und Sanierungsrecht: prüft konkret § 270f InsO Anordnung der Eigenverwaltung im Mandat prüfen, § 270g InsO Eigenverwaltung bei gruppenangehörigen, § 271 InsO Nachträgliche Anordnung im Mandat prüfen, § 272 InsO Aufhebung der Anordnung im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P270f Anordnung P270g Eigenverwaltung im Insolvenz- und Sanierungsrecht: prüft konkret § 270f InsO Anordnung der Eigenverwaltung im Mandat prüfen, § 270g InsO Eigenverwaltung bei gruppenangehörigen, § 271 InsO Nachträgliche Anordnung im Mandat prüfen, § 272 InsO Aufhebung der Anordnung im Mandat prüfen."
 ---
 
 # Inso P270f Anordnung P270g Eigenverwaltung
@@ -8,32 +8,6 @@ description: "Inso P270f Anordnung P270g Eigenverwaltung im Insolvenz- und Sanie
 ## Arbeitsbereich
 
 **Inso P270f Anordnung P270g Eigenverwaltung** ordnet den Fall über die tragenden Prüfungslinien: § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen, § 270g InsO (Eigenverwaltung bei gruppenangehörigen, § 271 InsO (Nachträgliche Anordnung) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p270f-anordnung-der-eigenverwaltung` | § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p270g-eigenverwaltung-bei-gruppenangehorigen-schuldnern` | § 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p271-nachtragliche-anordnung` | § 271 InsO (Nachträgliche Anordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p272-aufhebung-der-anordnung` | § 272 InsO (Aufhebung der Anordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p273-offentliche-bekanntmachung` | § 273 InsO (Öffentliche Bekanntmachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p274-rechtsstellung-des-sachwalters` | § 274 InsO (Rechtsstellung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p275-mitwirkung-des-sachwalters` | § 275 InsO (Mitwirkung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p276-mitwirkung-des-glaubigerausschusses` | § 276 InsO (Mitwirkung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p276a-mitwirkung-der-uberwachungsorgane` | § 276a InsO (Mitwirkung der Überwachungsorgane) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p277-anordnung-der-zustimmungsbedurftigkeit` | § 277 InsO (Anordnung der Zustimmungsbedürftigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p278-mittel-zur-lebensfuhrung-des-schuldners` | § 278 InsO (Mittel zur Lebensführung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p281-unterrichtung-der-glaubiger` | § 281 InsO (Unterrichtung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p282-verwertung-von-sicherungsgut` | § 282 InsO (Verwertung von Sicherungsgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p283-befriedigung-der-insolvenzglaubiger` | § 283 InsO (Befriedigung der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p284-insolvenzplan` | § 284 InsO (Insolvenzplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p285-masseunzulanglichkeit` | § 285 InsO (Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p286-grundsatz` | § 286 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p287-antrag-des-schuldners` | § 287 InsO (Antrag des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p287a-entscheidung-des-insolvenzgerichts` | § 287a InsO (Entscheidung des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p287b-erwerbsobliegenheit-des-schuldners` | § 287b InsO (Erwerbsobliegenheit des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p288-bestimmung-des-treuhanders` | § 288 InsO (Bestimmung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -43,7 +17,7 @@ description: "Inso P270f Anordnung P270g Eigenverwaltung im Insolvenz- und Sanie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p270f-anordnung-der-eigenverwaltung`
 

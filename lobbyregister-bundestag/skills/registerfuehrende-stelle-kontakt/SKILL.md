@@ -1,6 +1,6 @@
 ---
 name: registerfuehrende-stelle-kontakt
-description: "Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte im Lobbyregister Bundestag."
 ---
 
 # Registerfuehrende Stelle Kontakt

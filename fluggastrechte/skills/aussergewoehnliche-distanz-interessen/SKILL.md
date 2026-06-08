@@ -1,6 +1,6 @@
 ---
 name: aussergewoehnliche-distanz-interessen
-description: "Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung im Fluggastrechte."
 ---
 
 # Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung

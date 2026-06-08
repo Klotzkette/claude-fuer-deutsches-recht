@@ -1,6 +1,6 @@
 ---
 name: earn-out-kaufpreismechanik
-description: "Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen im Gesellschaftsrecht Legal English."
 ---
 
 # Earn-out und Kaufpreismechanik

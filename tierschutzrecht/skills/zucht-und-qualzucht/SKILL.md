@@ -1,6 +1,6 @@
 ---
 name: zucht-und-qualzucht
-description: "Tierschutzrecht: Zucht und Qualzucht. Zucht und Qualzucht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tierschutzrecht: Zucht und Qualzucht. Zucht und Qualzucht im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
 ---
 
 # Zucht Und Qualzucht

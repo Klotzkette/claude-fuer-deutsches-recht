@@ -1,6 +1,6 @@
 ---
 name: datenschutz-chef-liste-gehaelter-fehlzeiten
-description: "Berliner Start-up-HR: Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Datenschutz Chef Liste Gehaelter Fehlzeiten

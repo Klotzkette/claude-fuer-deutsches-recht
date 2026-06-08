@@ -1,6 +1,6 @@
 ---
 name: sprachpruefung-und-eignung
-description: "Prüft Sprach-, Eignungs- und Aufnahmeprüfungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sprach-, Eignungs- und Aufnahmeprüfungen im Pruefungsrecht Hochschule."
 ---
 
 # Sprachpruefung Und Eignung

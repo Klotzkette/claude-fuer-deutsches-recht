@@ -1,6 +1,6 @@
 ---
 name: lohnsteuer-sozialversicherung-meldungen
-description: "Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren im Berichtspflichten."
 ---
 
 # Lohnsteuer und Sozialversicherung melden

@@ -1,19 +1,9 @@
 ---
 name: steuerstrafrecht-ao-akteneinsicht-auswerten
-description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft konkret Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht, Akteneinsicht § 147 StPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft konkret Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht, Akteneinsicht § 147 StPO."
 ---
 
 # Steuerstrafrecht AO Akteneinsicht Auswerten
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige` | Selbstanzeige nach Paragraph 371 AO. Strafbefreiungsgrund bei vorsaetzlicher Steuerhinterziehung. Strenge Voraussetzungen seit Reform 2015. Vollstaendigkeitsgebot Sperrgruende Absatz 2 fristgerechte Zahlung. Abgrenzung zu Paragraph 153 AO Berichtigungsanzeige. Praxis Vorbereitung Zeitpunkt Aufbau Anlagen. Mehrheit von Steuerpflichtigen koordinieren. |
-| `akteneinsicht-strafrecht-auswerten` | Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Prüfung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisanträgen Befangenheits-Prüfung und Vermerk für Beweisverwertung. |
-| `erstgespraech-mandatsannahme` | Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen. § 136 StPO Belehrung Schweigerecht, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Prüfraster Konflikt-Check, Schweigerecht kommunizieren, Sachverhalt aufnehmen, Akteneinsicht beantragen, Honorarvereinbarung treffen. Output Mandats-Aufnahmeprotokoll mit Sofortmassnahmen-Liste und Belehrungsprotokoll. Abgrenzung zu Wahlverteidiger-Mandat für spezifischen Mandatstyp und zu Mandat-Triage. |
-| `fachanwalt-strafrecht-akteneinsicht-beantragen` | Akteneinsicht § 147 StPO: Verteidigerrecht nach Abs. 1, Teilversagung im laufenden Ermittlungsverfahren nur bei Gefaehrdung des Untersuchungszwecks, U-Haft-Mindestinformationen nach Abs. 2 S. 2, eigenes Akteneinsichtsrecht nicht verteidigter Beschuldigter nach Abs. 4, Verletzteneinsicht § 406e StPO, elektronische Akteneinsicht und gerichtliche Entscheidung nach Abs. 5. |
-| `fachanwalt-strafrecht-anklage-reaktion` | Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Prüfraster Anklage auf Vollständigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
 

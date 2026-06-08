@@ -1,6 +1,6 @@
 ---
 name: aussenauftritt-marktchance
-description: "Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme im Sozialversicherungsstatus Pruefer."
 ---
 
 # Außenauftritt und Marktchance

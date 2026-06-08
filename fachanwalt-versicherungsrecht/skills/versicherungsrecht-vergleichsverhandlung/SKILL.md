@@ -1,17 +1,9 @@
 ---
 name: versicherungsrecht-vergleichsverhandlung
-description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Versicherungsrecht, Vergleichsverhandlungs-Strategie für, BaFin-Beschwerde, Versicherungsombudsmann. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: prüft konkret Versicherungsrecht, Vergleichsverhandlungs-Strategie für, BaFin-Beschwerde, Versicherungsombudsmann."
 ---
 
 # Vergleichsverhandlung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-versicherungsrecht-tatbestand-beweis-und-belege` | Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `versr-bafin-ombudsmann-aufsichtsbeschwerde` | BaFin-Beschwerde, Versicherungsombudsmann, PKV-Ombudsmann und Klage taktisch wählen. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Vergleichsverhandlung im Plugin Fachanwalt Versicherungsrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-versicherungsrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht.
 
 ### Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

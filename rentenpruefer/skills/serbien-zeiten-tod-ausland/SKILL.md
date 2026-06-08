@@ -1,6 +1,6 @@
 ---
 name: serbien-zeiten-tod-ausland
-description: "Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Serbische Versicherungszeiten: Sozialversicherungsabkommen, getrennte Leistungsfeststellung, Verbindungsstellen, Nachweise und Übersetzungsfragen im Rentenpruefer."
 ---
 
 # serbien-zeiten-und-nachweise

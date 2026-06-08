@@ -1,6 +1,6 @@
 ---
 name: e-rechnung-umsatzsteuer-umsetzung-und-fehler
-description: "Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Validierung, Archivierung, Rechnungseingang, Ausgangsrechnung und GoBD-Schnittstelle im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Validierung, Archivierung, Rechnungseingang, Ausgangsrechnung und GoBD-Schnittstelle im Steuerrecht Anwalt Und Berater."
 ---
 
 # E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung

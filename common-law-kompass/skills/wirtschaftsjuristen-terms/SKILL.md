@@ -1,15 +1,9 @@
 ---
 name: wirtschaftsjuristen-terms
-description: "Wirtschaftsjuristen Terms im Common Law (Orientierung) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsjuristen Terms im Common Law (Orientierung) im Common Law Kompass."
 ---
 
 # Wirtschaftsjuristen Terms
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-wirtschaftsjuristen-tatbestand-beweis-und-belege` | Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Regelungs- und Quellenanker
 
@@ -36,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-wirtschaftsjuristen-tatbestand-beweis-und-belege`
 
-**Fokus:** Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass.
 
 ### Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

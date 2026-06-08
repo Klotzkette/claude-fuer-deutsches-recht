@@ -1,6 +1,6 @@
 ---
 name: gewaltschutz-und-schulischer-schutzplan
-description: "Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schutzplan, Trennung der Beteiligten, Aufsicht und Dokumentation bei Gewalt im Schulrecht Länder."
 ---
 
 # Gewaltschutz und schulischer Schutzplan

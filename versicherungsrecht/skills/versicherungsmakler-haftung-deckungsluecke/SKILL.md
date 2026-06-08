@@ -1,6 +1,6 @@
 ---
 name: versicherungsmakler-haftung-deckungsluecke
-description: "Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen im Versicherungsrecht."
 ---
 
 # Versicherungsmaklerhaftung bei Deckungslücken

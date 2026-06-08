@@ -1,6 +1,6 @@
 ---
 name: reise-flug-reparatur-statt-vermerk-mustertext
-description: "Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Reise, Flug und Zug Problem

@@ -1,6 +1,6 @@
 ---
 name: produktrechtliche-rechtscheck
-description: "Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Produktrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine im Produktrecht."
 ---
 
 # Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine

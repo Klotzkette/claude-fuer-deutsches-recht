@@ -1,6 +1,6 @@
 ---
 name: treuhand-oder-fremdgeld
-description: "Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Notare; prüft Treuhand oder Fremdgeld im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Notare; prüft Treuhand oder Fremdgeld im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Treuhand oder Fremdgeld

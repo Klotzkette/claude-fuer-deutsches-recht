@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-und-geheimnisschutz
-description: "Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Verschwiegenheit und Geheimnisschutz

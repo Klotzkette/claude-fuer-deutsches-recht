@@ -1,6 +1,6 @@
 ---
 name: merch-drops-preisangaben-rabatt
-description: "Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau im Influencer-Recht."
 ---
 
 # Influencer-Recht: Merch-Drops, E-Commerce und Widerruf

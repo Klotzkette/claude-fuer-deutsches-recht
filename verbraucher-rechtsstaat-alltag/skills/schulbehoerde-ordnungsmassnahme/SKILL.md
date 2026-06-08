@@ -1,6 +1,6 @@
 ---
 name: schulbehoerde-ordnungsmassnahme
-description: "Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Ausschluss, Umsetzung, Klassenkonferenz, Anhörung und Rechtsschutz. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Ausschluss, Umsetzung, Klassenkonferenz, Anhörung und Rechtsschutz. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Schulbehörde Ordnungsmaßnahme

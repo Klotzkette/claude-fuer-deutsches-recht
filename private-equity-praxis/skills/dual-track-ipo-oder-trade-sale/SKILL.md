@@ -1,6 +1,6 @@
 ---
 name: dual-track-ipo-oder-trade-sale
-description: "Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output im Private Equity Praxis."
 ---
 
 # Dual Track: IPO oder Trade Sale

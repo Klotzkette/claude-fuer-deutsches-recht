@@ -1,6 +1,6 @@
 ---
 name: fraudulent-lbo
-description: "Prueft leveraged buyout fraudulent-transfer exposure, solvency, reasonably equivalent value and lender/recipient targets im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft leveraged buyout fraudulent-transfer exposure, solvency, reasonably equivalent value and lender/recipient targets im US Bankruptcy Code."
 ---
 
 # Fraudulent Conveyance LBO

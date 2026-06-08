@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-sanctions
-description: "Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektorrisiken, BRAO 43a im Mittelstand Corporate Ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektorrisiken, BRAO 43a im Mittelstand Corporate Ma."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck

@@ -1,6 +1,6 @@
 ---
 name: fernbeglaubigung-videoverfahren-02
-description: "Notare: fernbeglaubigung und videoverfahren - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: fernbeglaubigung und videoverfahren - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: fernbeglaubigung und videoverfahren - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: datenverlust-digitaler-deliktische-haftung
-description: "Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Schäden durch Datenverlust, Fehlsteuerung, Produktionsstillstand, Privacy-Schäden und reine Vermögensschäden im Robotik-Recht."
 ---
 
 # Datenverlust und digitaler Schaden

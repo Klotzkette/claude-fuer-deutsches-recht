@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-waren-digitalen-elementen-preisangaben-dark
-description: "Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Waren Mit Digitalen Elementen

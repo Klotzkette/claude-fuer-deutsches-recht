@@ -1,6 +1,6 @@
 ---
 name: leasing-abrechnung-inkasso
-description: "Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingabrechnung: Schlussrechnung, Nachforderungen, Verrechnung von Verwertungserlösen, Verjährungsfristen und Einwendungen des LN im Leasingrecht."
 ---
 
 # Leasingabrechnung, Nachforderung und Verjährung

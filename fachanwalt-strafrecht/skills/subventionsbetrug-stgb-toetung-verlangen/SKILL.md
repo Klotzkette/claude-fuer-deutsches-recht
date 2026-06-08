@@ -1,6 +1,6 @@
 ---
 name: subventionsbetrug-stgb-toetung-verlangen
-description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft konkret Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB, Gewaesserverunreinigung nach Paragraph 324 StGB. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft konkret Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB, Gewaesserverunreinigung nach Paragraph 324 StGB."
 ---
 
 # Subventionsbetrug Stgb Toetung Verlangen
@@ -8,21 +8,6 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 ## Arbeitsbereich
 
 **Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüfungslinien: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-subventionsbetrug-264-stgb` | Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster für Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen. |
-| `strafrecht-spezial-toetung-auf-verlangen-216-stgb` | Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre. |
-| `strafrecht-spezial-totschlag-212-stgb` | Totschlag nach § 212 StGB. Grundtatbestand der vorsaetzlichen Toetung. Abgrenzung zu Mord § 211 StGB und zur fahrlaessigen Toetung § 222 StGB. Vorsatzformen (dolus directus / eventualis) und Hemmschwellentheorie der staendigen BGH-Rechtsprechung. Versuch § 22 / § 23 StGB. Minder schwerer Fall § 213 StGB. |
-| `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser` | Gewaesserverunreinigung nach Paragraph 324 StGB. Schutzgut Beschaffenheit eines Gewaessers. Tathandlung Veraenderung verschlechterung der Wasserqualitaet. Verwaltungsakzessorietaet Genehmigung. Vorsatz und Fahrlaessigkeit Absatz 3. Verteidigungslinien Verursachungsbeitrag Stoff-Mengen-Schwelle wasserrechtliche Erlaubnis. |
-| `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall` | Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB. Schutzgut Boden und Gewaesserumwelt vor gefaehrlichen Abfaellen. Tathandlungen Behandeln Lagern Befoerdern Verbringen. Katalog Absatz 1 Nummer 1 bis 4. Absatz 2 grenzueberschreitendes Verbringen. Verwaltungsakzessorietaet KrWG. Verteidigung Abfallbegriff Vorsatz. |
-| `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen` | Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB. Schutzgut Genehmigungsvorbehalt im immissionsschutzrechtlichen Verfahren. Absatz 1 Nuklearanlagen Absatz 2 immissionsschutzrechtlich genehmigungsbeduerftige Anlagen. Verwaltungsakzessorietaet BImSchG. Strafbarkeit Anlagenbetrieb ohne Genehmigung wesentliche Abweichung. |
-| `strafrecht-spezial-untreue-266-stgb-grundtatbestand` | Untreue nach Paragraph 266 StGB Grundtatbestand. Missbrauchstatbestand und Treubruchstatbestand. Vermoegensbetreuungspflicht aufgrund Gesetz Rechtsgeschaeft oder Treueverhaeltnis. Vermoegensschaden mit BGH-Stufenmodell. Verteidigungslinien bei Wirtschaftsstraftaten und GmbH-Geschaeftsfuehrung. |
-| `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93` | Untreue im Aktienrecht. Paragraph 266 StGB iVm Paragraph 93 AktG Sorgfaltspflicht des Vorstands. Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG. Pflichtverletzung bei riskanten Unternehmensentscheidungen. Spendenpraxis Sponsoring Risikomanagement. Aufsichtsrat-Verantwortung Paragraph 116 AktG. |
-| `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand` | Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster für Mitarbeiter Treuhaender Verwalter. |
-| `strafrecht-spezial-urheberrecht-106-urhg` | Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten öffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes öffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB. |
 
 ## Arbeitsweg
 
@@ -32,7 +17,7 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-subventionsbetrug-264-stgb`
 

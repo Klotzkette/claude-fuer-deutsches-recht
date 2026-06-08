@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-portfolio-cleanup
-description: "Patentanwälte: kostenrisiko bei portfolio cleanup - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: kostenrisiko bei portfolio cleanup - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: kostenrisiko bei portfolio cleanup - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

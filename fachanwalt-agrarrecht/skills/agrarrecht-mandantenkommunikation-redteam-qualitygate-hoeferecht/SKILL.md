@@ -1,17 +1,9 @@
 ---
 name: agrarrecht-mandantenkommunikation-redteam-qualitygate-hoeferecht
-description: "Mandantenkommunikation Redteam Qualitygate Hoeferecht im Agrarrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mandantenkommunikation Redteam Qualitygate Hoeferecht im Agrarrecht: prüft konkret Mandantenkommunikation im Plugin fachanwalt-agrarrecht, Red-Team Qualitygate im Plugin fachanwalt-agrarrecht, Hoeferecht."
 ---
 
 # Mandantenkommunikation Redteam Qualitygate Hoeferecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-agrarrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-agrarrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-hoeferecht-fristen-form-und-zuständigkeit` | Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-mandantenkommunikation`
 
@@ -82,7 +74,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## 3. `spezial-hoeferecht-fristen-form-und-zuständigkeit`
 
-**Fokus:** Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht.
 
 ### Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg
 

@@ -1,6 +1,6 @@
 ---
 name: open-source-ki-an-drohnen-high
-description: "Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität im Weltraumrecht."
 ---
 
 # Weltraumrecht: Open-Source-Software im Satelliten

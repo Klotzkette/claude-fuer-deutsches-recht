@@ -1,6 +1,6 @@
 ---
 name: software-policy-legal-engineering
-description: "Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases im Softwarerecht De Eu Us."
 ---
 
 # Legal-Engineering Software Policy

@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-und-selbstverwaltung
-description: "Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28 im Deutsche Rechtsgeschichte."
 ---
 
 # Kommunalrecht und Selbstverwaltung

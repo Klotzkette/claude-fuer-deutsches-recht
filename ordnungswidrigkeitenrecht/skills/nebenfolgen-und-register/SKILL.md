@@ -1,6 +1,6 @@
 ---
 name: nebenfolgen-und-register
-description: "Ordnungswidrigkeitenrecht: Nebenfolgen und Register. Nebenfolgen und Register im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnungswidrigkeitenrecht: Nebenfolgen und Register. Nebenfolgen und Register im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im OWiG-Recht."
 ---
 
 # Nebenfolgen Und Register

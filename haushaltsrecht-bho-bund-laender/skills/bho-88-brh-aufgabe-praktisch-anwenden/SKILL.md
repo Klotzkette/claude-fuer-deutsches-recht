@@ -1,6 +1,6 @@
 ---
 name: bho-88-brh-aufgabe-praktisch-anwenden
-description: "Haushaltsrecht BHO Bund und Länder: BHO § 88 BRH Aufgabe praktisch anwenden. BHO § 88 BRH Aufgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: BHO § 88 BRH Aufgabe praktisch anwenden. BHO § 88 BRH Aufgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Bho 88 Brh Aufgabe Praktisch Anwenden

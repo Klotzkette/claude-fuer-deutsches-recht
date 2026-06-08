@@ -1,6 +1,6 @@
 ---
 name: sachbezuege-benefits-steuer-sv
-description: "Berliner Start-up-HR: Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Sachbezuege Benefits Steuer SV

@@ -1,6 +1,6 @@
 ---
 name: beauty-filter-und-irrefuehrung
-description: "Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung im Influencer-Recht."
 ---
 
 # Influencer-Recht: Beauty-Filter und Irreführung

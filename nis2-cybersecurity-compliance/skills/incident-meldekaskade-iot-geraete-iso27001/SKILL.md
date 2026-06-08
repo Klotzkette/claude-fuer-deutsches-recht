@@ -1,6 +1,6 @@
 ---
 name: incident-meldekaskade-iot-geraete-iso27001
-description: "Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht im Nis2 Cybersecurity Compliance."
 ---
 
 # Incident Meldekaskade 24 72 Abschluss

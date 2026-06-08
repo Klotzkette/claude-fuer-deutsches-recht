@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-kapazitaetsvergabe-gas-fristen-und-besc
-description: "Kapazitätsvergabe Gas: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kapazitätsvergabe Gas: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse

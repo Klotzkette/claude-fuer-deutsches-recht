@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-unterweisung-nachweise
-description: "Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle im Berichtspflichten."
 ---
 
 # Arbeitsschutz-Unterweisungen nachweisen

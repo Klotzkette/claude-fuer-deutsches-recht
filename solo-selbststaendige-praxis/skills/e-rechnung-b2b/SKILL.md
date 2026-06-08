@@ -1,6 +1,6 @@
 ---
 name: e-rechnung-b2b
-description: "Solo-Selbstständige: prüft E-Rechnungspflichten, Empfangsfähigkeit und Übergangslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft E-Rechnungspflichten, Empfangsfähigkeit und Übergangslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft e-rechnungspflichten

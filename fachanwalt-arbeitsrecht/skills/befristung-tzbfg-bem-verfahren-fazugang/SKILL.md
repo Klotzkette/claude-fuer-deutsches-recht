@@ -1,17 +1,9 @@
 ---
 name: befristung-tzbfg-bem-verfahren-fazugang
-description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbeitsrecht: prüft konkret Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüfungslinie für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbeitsrecht: prüft konkret Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüfungslinie für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum."
 ---
 
 # Befristung Tzbfg BEM Verfahren Fazugang
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-arbeitsrecht-befristung-tzbfg` | Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Prüfraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungsprüf-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung. |
-| `fachanwalt-arbeitsrecht-bem-verfahren` | Fachanwalt Arbeitsrecht Bem Verfahren: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan` | Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung §§ 187 ff. BGB, Drei-Wochen-Klagefrist § 4 KSchG, Kündigungsfristen § 622 BGB, worst-case-Strategie für Mandant. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-arbeitsrecht-befristung-tzbfg`
 

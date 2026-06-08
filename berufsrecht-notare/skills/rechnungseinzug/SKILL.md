@@ -1,6 +1,6 @@
 ---
 name: rechnungseinzug
-description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Notare; prüft Rechnungseinzug im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnungseinzug: vertiefter Berufsrechts-Skill für Notare; prüft Rechnungseinzug im Berufsrecht für Notare, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Notare."
 ---
 
 # Rechnungseinzug

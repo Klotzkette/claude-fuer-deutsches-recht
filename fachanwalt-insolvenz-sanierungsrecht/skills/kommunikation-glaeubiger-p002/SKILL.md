@@ -1,19 +1,9 @@
 ---
 name: kommunikation-glaeubiger-p002
-description: "Inso Kommunikation Glaeubiger P002 im Insolvenz- und Sanierungsrecht: prüft konkret Kommunikation mit Glaeubigern im Insolvenz- und, § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen, § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen, § 3a InsO (Gruppen-Gerichtsstand) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso Kommunikation Glaeubiger P002 im Insolvenz- und Sanierungsrecht: prüft konkret Kommunikation mit Glaeubigern im Insolvenz- und, § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen, § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen, § 3a InsO (Gruppen-Gerichtsstand) im Mandat prüfen."
 ---
 
 # Inso Kommunikation Glaeubiger P002
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-kommunikation-glaeubiger` | Kommunikation mit Glaeubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung, Vergleichsangebot, Glaeubigerversammlung, Pruefungstermin. Strategie nach Glaeubigergruppen (Bank, Lieferant, Arbeitnehmer, Finanzamt, Sozialversicherung). Mustertexte. |
-| `inso-p002-amtsgericht-als-insolvenzgericht` | § 2 InsO (Amtsgericht als Insolvenzgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p003-ortliche-zustandigkeit` | § 3 InsO (Örtliche Zuständigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p003a-gruppen-gerichtsstand` | § 3a InsO (Gruppen-Gerichtsstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p003b-fortbestehen-des-gruppen-gerichtsstands` | § 3b InsO (Fortbestehen des Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Inso Kommunikation Glaeubiger P002 im Insolvenz- und Sanierungsrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-kommunikation-glaeubiger`
 

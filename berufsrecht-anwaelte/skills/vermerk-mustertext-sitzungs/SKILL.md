@@ -1,6 +1,6 @@
 ---
 name: vermerk-mustertext-sitzungs
-description: "Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Anwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Anwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

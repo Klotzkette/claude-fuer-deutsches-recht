@@ -1,6 +1,6 @@
 ---
 name: schutzvoraussetzungen
-description: "Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle im Hinweisgeberschutz Compliance."
 ---
 
 # Schutzvoraussetzungen

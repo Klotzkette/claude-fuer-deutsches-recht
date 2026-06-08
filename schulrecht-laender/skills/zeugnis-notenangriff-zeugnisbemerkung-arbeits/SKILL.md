@@ -1,6 +1,6 @@
 ---
 name: zeugnis-notenangriff-zeugnisbemerkung-arbeits
-description: "Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum im Schulrecht Länder."
 ---
 
 # Zeugnis Und Notenangriff

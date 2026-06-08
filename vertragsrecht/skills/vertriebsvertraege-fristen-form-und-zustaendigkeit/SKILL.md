@@ -1,6 +1,6 @@
 ---
 name: vertriebsvertraege-fristen-form-und-zustaendigkeit
-description: "Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsrecht."
 ---
 
 # Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg

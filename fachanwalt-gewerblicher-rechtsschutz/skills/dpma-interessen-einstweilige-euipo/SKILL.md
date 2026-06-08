@@ -1,17 +1,9 @@
 ---
 name: dpma-interessen-einstweilige-euipo
-description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret DPMA-Mehrparteienverfahren, Mandantenkommunikation im Eilverfahren, EUIPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret DPMA-Mehrparteienverfahren, Mandantenkommunikation im Eilverfahren, EUIPO."
 ---
 
 # Dpma Interessen Einstweilige Euipo
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-dpma-mehrparteien-konflikt-und-interessen` | DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie. |
-| `spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage` | Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation. |
-| `spezial-euipo-internationaler-bezug-und-schnittstellen` | EUIPO: Internationale Schnittstellen und Verfahren. Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Designierung über Hague-System. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-dpma-mehrparteien-konflikt-und-interessen`
 

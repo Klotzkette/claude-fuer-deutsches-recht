@@ -1,6 +1,6 @@
 ---
 name: gnss-galileo-haftung-und-dienstqualitaet
-description: "Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang im Weltraumrecht."
 ---
 
 # Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität

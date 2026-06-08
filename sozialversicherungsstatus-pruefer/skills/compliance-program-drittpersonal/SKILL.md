@@ -1,6 +1,6 @@
 ---
 name: compliance-program-drittpersonal
-description: "Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister im Sozialversicherungsstatus Pruefer."
 ---
 
 # Compliance-Programm Drittpersonal

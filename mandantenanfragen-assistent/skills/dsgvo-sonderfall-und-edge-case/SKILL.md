@@ -1,6 +1,6 @@
 ---
 name: dsgvo-sonderfall-und-edge-case
-description: "DSGVO: Sonderfall und Edge-Case-Prüfung im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "DSGVO: Sonderfall und Edge-Case-Prüfung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # DSGVO: Sonderfall und Edge-Case-Prüfung

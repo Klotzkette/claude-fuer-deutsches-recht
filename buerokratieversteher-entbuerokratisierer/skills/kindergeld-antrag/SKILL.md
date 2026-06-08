@@ -1,6 +1,6 @@
 ---
 name: kindergeld-antrag
-description: "Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen im Bürokratie-Entbürokratisierung."
 ---
 
 # Kindergeld-Antrag

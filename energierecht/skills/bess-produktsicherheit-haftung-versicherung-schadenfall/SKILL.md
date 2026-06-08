@@ -1,6 +1,6 @@
 ---
 name: bess-produktsicherheit-haftung-versicherung-schadenfall
-description: "Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung im Energierecht."
 ---
 
 # Produktsicherheit, Rückruf und Haftung

@@ -1,6 +1,6 @@
 ---
 name: franchise-leasing-ausstattung
-description: "Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung im Leasingrecht."
 ---
 
 # Franchise-Leasing: Ausstattung und Eigentumsrechte

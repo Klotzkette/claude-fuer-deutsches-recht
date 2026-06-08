@@ -1,6 +1,6 @@
 ---
 name: reservisten-heranziehung
-description: "Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Reservisten und Heranziehung

@@ -1,6 +1,6 @@
 ---
 name: schulgeld-ersatzschule
-description: "Prüft Schulgeld, Sonderungsverbot, Ersatzschule und Vertragsgestaltung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulgeld, Sonderungsverbot, Ersatzschule und Vertragsgestaltung im Schulrecht Länder."
 ---
 
 # Schulgeld Ersatzschule

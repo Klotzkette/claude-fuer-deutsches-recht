@@ -1,6 +1,6 @@
 ---
 name: copyright-management-info-royalty-board-small
-description: "Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente im Us Copyright Registrierung Verlag."
 ---
 
 # Copyright Management Information § 1202

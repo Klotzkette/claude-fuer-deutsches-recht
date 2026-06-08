@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-eilrechtsschutz-planen
-description: "StVO: Fahrradstraße: Eilrechtsschutz planen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Fahrradstraße: Eilrechtsschutz planen im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Fahrradstrasse Eilrechtsschutz Planen

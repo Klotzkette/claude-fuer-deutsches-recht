@@ -1,6 +1,6 @@
 ---
 name: leasingvertrag-redline-leasingnehmer
-description: "Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche im Leasingrecht."
 ---
 
 # Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber)

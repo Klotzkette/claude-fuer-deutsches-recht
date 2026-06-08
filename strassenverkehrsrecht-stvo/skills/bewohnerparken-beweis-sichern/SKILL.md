@@ -1,6 +1,6 @@
 ---
 name: bewohnerparken-beweis-sichern
-description: "StVO: Bewohnerparken: Beweis sichern im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Bewohnerparken: Beweis sichern im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Bewohnerparken Beweis Sichern

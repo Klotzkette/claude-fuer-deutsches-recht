@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-bussgeld-abgrenzen
-description: "StVO: Fahrradstraße: Bußgeld abgrenzen. Buß im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "StVO: Fahrradstraße: Bußgeld abgrenzen. Buß im Straßenverkehrsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Fahrradstrasse Bussgeld Abgrenzen

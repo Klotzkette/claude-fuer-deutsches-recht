@@ -1,6 +1,6 @@
 ---
 name: marken-und-designmandate-kaltstart-und-faktenmat
-description: "Patentanwälte: marken und designmandate - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: marken und designmandate - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: marken und designmandate - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

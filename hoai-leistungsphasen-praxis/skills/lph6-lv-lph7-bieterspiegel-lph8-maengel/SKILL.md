@@ -1,6 +1,6 @@
 ---
 name: lph6-lv-lph7-bieterspiegel-lph8-maengel
-description: "HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage LPH 6: Leistungsverzeichnis, Mengen/Massen, Schnittstellen, Produktneutralität, funktionale Leistungsbeschreibung, Kostenanschlag und Vergabereife prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 6 Leistungsverzeichnis, Mengen Und Vergabereife

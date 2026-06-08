@@ -1,6 +1,6 @@
 ---
 name: hr-monatsabschluss-quality-gate
-description: "Berliner Start-up-HR: HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # HR Monatsabschluss Quality Gate

@@ -1,19 +1,9 @@
 ---
 name: familiennachzug-ehegatte-kind-forscher-ict
-description: "Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: prüft konkret Ehegattennachzug, Kindernachzug, Familiennachzug, Forscher/ICT/Au-pair/Sondertitel. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: prüft konkret Ehegattennachzug, Kindernachzug, Familiennachzug, Forscher/ICT/Au-pair/Sondertitel."
 ---
 
 # Familiennachzug Ehegatte Kind Forscher ICT
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-familiennachzug-ehegatte` | Ehegattennachzug: Fachmodul im Migrationsrecht; prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-familiennachzug-kind` | Kindernachzug: Fachmodul im Migrationsrecht; prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-familiennachzug-zahlen-schwellen-und-berechnung` | Familiennachzug: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-forscher-ict-au-pair` | Forscher/ICT/Au-pair/Sondertitel: Fachmodul im Migrationsrecht; prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-freizuegigkeit-eu` | Freizügigkeit EU: Fachmodul im Migrationsrecht; prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: pr�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-familiennachzug-ehegatte`
 
@@ -81,7 +71,7 @@ description: "Familiennachzug Ehegatte Kind Forscher ICT im Migrationsrecht: pr�
 
 ## 3. `spezial-familiennachzug-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Familiennachzug: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Familiennachzug: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt migrationsrecht.
 
 ### Familiennachzug: Zahlen, Schwellenwerte und Berechnung
 

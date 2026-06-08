@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-veroeffentlichung
-description: "Influencer-Recht: Qualitätsgate vor Veröffentlichung – systematischer Freigabe-Check für alle rechtlichen Pflichten vor einem Creator-Post im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Qualitätsgate vor Veröffentlichung – systematischer Freigabe-Check für alle rechtlichen Pflichten vor einem Creator-Post im Influencer-Recht."
 ---
 
 # Influencer-Recht: Qualitätsgate – Freigabe vor Veröffentlichung

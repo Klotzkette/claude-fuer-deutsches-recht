@@ -1,6 +1,6 @@
 ---
 name: klagewege-mandantenkommunikation-entscheidungsvorlage
-description: "Klagewege: Mandantenkommunikation und Entscheidungsvorlage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Dsa Dma Digitalregulierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klagewege: Mandantenkommunikation und Entscheidungsvorlage im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
 ---
 
 # Klagewege: Mandantenkommunikation und Entscheidungsvorlage

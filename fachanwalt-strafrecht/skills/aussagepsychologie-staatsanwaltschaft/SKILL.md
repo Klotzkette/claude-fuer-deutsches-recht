@@ -1,24 +1,9 @@
 ---
 name: aussagepsychologie-staatsanwaltschaft
-description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkret Verteidigerwerkzeug, Vernehmungsmethodik, Aussetzung nach § 221 StGB, Bandenbetrug § 263 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkret Verteidigerwerkzeug, Vernehmungsmethodik, Aussetzung nach § 221 StGB, Bandenbetrug § 263 Abs."
 ---
 
 # Aussagepsychologie Staatsanwaltschaft
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` | Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata für Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen. |
-| `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis` | Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug für Vernehmungsanalyse. |
-| `strafrecht-spezial-aussetzung-221-stgb` | Aussetzung nach § 221 StGB. Konkretes Gefaehrdungsdelikt. Versetzen in hilflose Lage oder Imstichlassen bei Obhuts- oder Beistandspflicht. Gefahr des Todes oder einer schweren Gesundheitsschaedigung. Qualifikationen Abs. 2 und Erfolgsqualifikation Tod Abs. 3. |
-| `strafrecht-spezial-bandenbetrug-263-stgb` | Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Pruefraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo. |
-| `strafrecht-spezial-bankrott-283-stgb` | Bankrott nach Paragraph 283 StGB. Tatbestandsalternativen Beiseiteschaffen Verheimlichen Zerstoeren Verkuerzung. Krise und Insolvenzreife als objektive Strafbarkeitsbedingung. Vorsatz und Fahrlaessigkeitsvarianten Absatz 4 und 5. Faktische Geschaeftsfuehrer Paragraph 14 StGB. Verteidigungsstrategien in Insolvenzverfahren und Strafverfahren. |
-| `strafrecht-spezial-bankrott-strafzumessung-und-einziehung` | Strafzumessung bei Bankrott und Insolvenzdelikten. Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre Paragraph 6 GmbHG. Bewaehrung bei Insolvenzstraftaten. Wiedergutmachung Paragraph 46a StGB. |
-| `strafrecht-spezial-bedrohung-241-stgb` | Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persönliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre. |
-| `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb` | Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB. Regelbeispiele Gewerbsmaessigkeit und Inkaufnahme wirtschaftlicher Not vieler Glaeubiger. Strafrahmen 6 Monate bis 10 Jahre. Verteidigung gegen die Regelbeispielsindikation. Abgrenzung zu Paragraph 283 StGB Grundtatbestand. Praxisrelevanz in Wirtschaftsstrafverfahren. |
-| `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb` | Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo für Bauunternehmen Pharma Healthcare Einkaufsabteilungen. |
-| `strafrecht-spezial-betrug-263-stgb-besonders-schwer` | Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen ueber Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust grosser Ausmasses oder grosse Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 

@@ -1,6 +1,6 @@
 ---
 name: ueberwachungsstelle-und-rechtsfolgen
-description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zuständige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung. Mustertexte für Behördenkommunikation im Barrierefreiheit Web Checker."
 ---
 
 # Ueberwachung und Rechtsfolgen

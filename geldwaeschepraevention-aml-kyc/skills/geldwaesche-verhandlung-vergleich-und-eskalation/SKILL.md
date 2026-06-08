@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verhandlung-vergleich-und-eskalation
-description: "Geldwaesche: Verhandlung, Vergleich und Eskalation im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Geldwaeschepraevention Aml Kyc. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geldwaesche: Verhandlung, Vergleich und Eskalation im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
 ---
 
 # Geldwaesche: Verhandlung, Vergleich und Eskalation

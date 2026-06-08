@@ -1,6 +1,6 @@
 ---
 name: status-soldat-beamter-zivilbeschaeftigter-klaeren
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären im Bundeswehrrecht Wehrrecht."
 ---
 
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter

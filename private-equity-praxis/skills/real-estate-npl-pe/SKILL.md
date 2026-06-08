@@ -1,6 +1,6 @@
 ---
 name: real-estate-npl-pe
-description: "Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz im Private Equity Praxis."
 ---
 
 # Real-Estate-NPL und Sicherheitenverwertung

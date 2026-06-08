@@ -1,6 +1,6 @@
 ---
 name: drohne-register-auswerten
-description: "Mandant will Registrierungsstatus einer Drohne beim LBA auswerten. Prueft EU-VO 2019/947 Art. 14 Registrierungspflicht ab 250 g LuftVG § 21a und Betreiber-Identifikation und liefert Registrierungs-Auswertung mit Compliance-Status im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant will Registrierungsstatus einer Drohne beim LBA auswerten. Prueft EU-VO 2019/947 Art. 14 Registrierungspflicht ab 250 g LuftVG § 21a und Betreiber-Identifikation und liefert Registrierungs-Auswertung mit Compliance-Status im Luftrecht Flughafenrecht."
 ---
 
 # Drohne – Register auswerten

@@ -374,7 +374,7 @@ Automatisch generierte Komplett-Liste aller 139 Skills in diesem Plugin. Beschre
 | `zahlstelle-bote-vertreter-und-treuhand` | Bei eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfäng... |
 | `zahlung-auf-fremde-schuld-und-putativschuldner` | Anwendungsfall: jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endemp... |
 | `zahlung-fremde-schuld-putativschuldner` | Bei jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wic... |
-| `zweckverfehlung-kondiktionszweck` | Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfechtungsrecht Pruefer im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Outp... |
+| `zweckverfehlung-kondiktionszweck` | Zweckverfehlung Kondiktionszweck im Plugin Bereicherungs Und Anfechtungsrecht Pruefer im Bereicherungs-/Anfechtungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. |
 | `zweckverfehlung-und-kondiktionszweck` | Zweckverfehlung, Wegfall des Leistungszwecks und kondiktionsrechtliche Zweckabreden prüfen. Normen: § 812 Abs. 1 S. 2 BGB. Output: Zweckkondiktions-Prüfbogen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

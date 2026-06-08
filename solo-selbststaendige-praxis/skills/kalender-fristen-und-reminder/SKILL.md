@@ -1,6 +1,6 @@
 ---
 name: kalender-fristen-und-reminder
-description: "Solo-Selbstständige: richtet Fristen, Wiedervorlagen, Steuertermine und Kundenabnahmen ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: richtet Fristen, Wiedervorlagen, Steuertermine und Kundenabnahmen ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Büro Alltag und Tools: Richtet fristen

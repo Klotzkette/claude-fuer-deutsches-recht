@@ -1,17 +1,9 @@
 ---
 name: marketing-website-protokollwerkstatt-top
-description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwaltung: prüft konkret Verwalter-Website rechtssicher gestalten (Stand 06/2026), Erstellt und prüft Protokolle für lange, Rampe, beidseitige Handläufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwaltung: prüft konkret Verwalter-Website rechtssicher gestalten (Stand 06/2026), Erstellt und prüft Protokolle für lange, Rampe, beidseitige Handläufe."
 ---
 
 # Marketing Website Protokollwerkstatt TOP
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `marketing-website-impressum-tmg-und-bewertungen` | Verwalter-Website rechtssicher gestalten (Stand 06/2026): Impressum nach § 5 DDG, Datenschutz nach TDDDG, § 34c GewO, Umgang mit falschen und negativen Bewertungen auf Google und Co. BGH VI ZR 1244/20. |
-| `protokollwerkstatt-top-marathon` | Erstellt und prüft Protokolle für lange Eigentümerversammlungen mit vielen Tagesordnungspunkten. Trennt Aussprache, Antrag, Beschlusswortlaut, Abstimmung, Verkündung, Anlagen und Nacharbeit. Output: protokollfähige TOP-Struktur. |
-| `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich` | Rampe, beidseitige Handläufe, Tuerverbreiterung und Beleuchtungsoptimierung im Gemeinschaftseigentum (Stand 06/2026): DIN 18040 Masszahlen, Kostentragung § 21 WEG, Genehmigungspflicht Landesbauordnung, Beschlussvorlagen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `marketing-website-impressum-tmg-und-bewertungen`
 

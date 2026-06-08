@@ -1,18 +1,9 @@
 ---
 name: bautraeger-rueckabwicklung-insolvenz
-description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bautraeger-Rueckabwicklung bei Insolvenz, Selbstvornahme und Vorschussklage gegen den Bautraeger, Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen, Bautraeger typische Nichtigkeitsfallen und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bautraeger-Rueckabwicklung bei Insolvenz, Selbstvornahme und Vorschussklage gegen den Bautraeger, Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen, Bautraeger typische Nichtigkeitsfallen und."
 ---
 
 # Bautraeger Rueckabwicklung Insolvenz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-rueckabwicklung-bei-insolvenz` | Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster. |
-| `bautraeger-selbstvornahme-und-vorschussklage` | Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster. |
-| `bautraeger-sonderwuensche-zusaetzliche-vereinbarungen` | Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf. |
-| `bautraeger-typische-nichtigkeitsfallen-checkliste` | Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien für den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Rueckabwicklung Insolvenz im Plugin Fachanwalt Bau Arch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-rueckabwicklung-bei-insolvenz`
 

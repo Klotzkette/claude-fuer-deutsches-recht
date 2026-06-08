@@ -1,6 +1,6 @@
 ---
 name: nachfolge-in-practice-group
-description: "Sichert Mandantenbeziehungen und Fachwissen beim Seniorpartner-Übergang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Mandantenbeziehungen und Fachwissen beim Seniorpartner-Übergang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Nachfolge in Praxisgruppen

@@ -1,6 +1,6 @@
 # status-navigator-step-plan
 
-**35 Skills** · Stand `v251.0.0`
+**35 Skills** · Stand `v252.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/status-navigator-step-plan/README.md)

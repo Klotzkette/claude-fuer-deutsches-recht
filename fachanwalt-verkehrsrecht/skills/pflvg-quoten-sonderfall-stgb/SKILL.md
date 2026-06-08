@@ -1,17 +1,9 @@
 ---
 name: pflvg-quoten-sonderfall-stgb
-description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: prüft konkret Pflvg, Quoten, Stgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: prüft konkret Pflvg, Quoten, Stgb."
 ---
 
 # Pflvg Quoten Sonderfall Stgb
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-pflvg-risikoampel-und-gegenargumente` | Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-quoten-sonderfall-und-edge-case` | Quoten: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-stgb-formular-portal-und-einreichung` | Stgb: Formular, Portal und Einreichungslogik im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Pflvg Quoten Sonderfall Stgb im Plugin Fachanwalt Verkehrsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-pflvg-risikoampel-und-gegenargumente`
 
-**Fokus:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht.
 
 ### Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-quoten-sonderfall-und-edge-case`
 
-**Fokus:** Quoten: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Quoten: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verkehrsrecht.
 
 ### Quoten: Sonderfall und Edge-Case-Prüfung
 
@@ -75,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-stgb-formular-portal-und-einreichung`
 
-**Fokus:** Stgb: Formular, Portal und Einreichungslogik im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Stgb: Formular, Portal und Einreichungslogik im Plugin fachanwalt verkehrsrecht.
 
 ### Stgb: Formular, Portal und Einreichungslogik
 

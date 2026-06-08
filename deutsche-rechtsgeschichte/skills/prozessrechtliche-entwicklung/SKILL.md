@@ -1,6 +1,6 @@
 ---
 name: prozessrechtliche-entwicklung
-description: "Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022 im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022 im Deutsche Rechtsgeschichte."
 ---
 
 # Prozessrechtliche Entwicklung

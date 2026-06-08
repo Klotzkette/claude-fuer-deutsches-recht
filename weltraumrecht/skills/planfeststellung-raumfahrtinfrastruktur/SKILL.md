@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-raumfahrtinfrastruktur
-description: "Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz im Weltraumrecht."
 ---
 
 # Weltraumrecht: Planfeststellung Raumfahrtinfrastruktur

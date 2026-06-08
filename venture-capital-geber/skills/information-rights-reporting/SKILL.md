@@ -1,6 +1,6 @@
 ---
 name: information-rights-reporting
-description: "Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Updates, consent requests und Sanktionen bei Ausbleiben im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Updates, consent requests und Sanktionen bei Ausbleiben im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Information Rights und Reporting

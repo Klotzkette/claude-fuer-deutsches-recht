@@ -1,6 +1,6 @@
 ---
 name: translation-de-en-pe-terms
-description: "Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache im Private Equity Praxis."
 ---
 
 # DE/EN PE-Terms: präzise übersetzen

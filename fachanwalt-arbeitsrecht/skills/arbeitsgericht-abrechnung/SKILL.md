@@ -1,17 +1,9 @@
 ---
 name: arbeitsgericht-abrechnung
-description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüft konkret Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüft konkret Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung."
 ---
 
 # Arbeitsgericht Abrechnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vergleich-arbeitsgericht-abrechnung` | Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `zugang-kuendigung-bote-beweis` | Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.; Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; BAG-Rechtsprechung live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vergleich-arbeitsgericht-abrechnung`
 

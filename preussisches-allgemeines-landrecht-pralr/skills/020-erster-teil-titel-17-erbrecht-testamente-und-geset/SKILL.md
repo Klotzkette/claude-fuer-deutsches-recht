@@ -1,6 +1,6 @@
 ---
 name: 020-erster-teil-titel-17-erbrecht-testamente-und-geset
-description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge

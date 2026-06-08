@@ -1,6 +1,6 @@
 ---
 name: management-rollover
-description: "Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte im Private Equity Praxis."
 ---
 
 # Management Roll-over

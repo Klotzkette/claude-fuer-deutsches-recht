@@ -1,6 +1,6 @@
 ---
 name: pruefungsordnung-aenderung-uebergangsrecht
-description: "Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall im Pruefungsrecht Hochschule."
 ---
 
 # Prüfungsordnungsänderung und Übergangsrecht

@@ -1,6 +1,6 @@
 ---
 name: security-installation
-description: "Security: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Security: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Security: Dokumentenmatrix, Lückenliste und Nachforderung

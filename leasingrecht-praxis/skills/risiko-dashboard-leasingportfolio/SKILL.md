@@ -1,6 +1,6 @@
 ---
 name: risiko-dashboard-leasingportfolio
-description: "Risiko-Dashboard Leasingportfolio: KPIs, Konzentrations- und Restwertrisiken, NPL-Tracking, Stresstest und regulatorisches Reporting im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Risiko-Dashboard Leasingportfolio: KPIs, Konzentrations- und Restwertrisiken, NPL-Tracking, Stresstest und regulatorisches Reporting im Leasingrecht."
 ---
 
 # Risiko-Dashboard: Leasingportfolio

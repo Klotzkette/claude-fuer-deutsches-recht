@@ -1,6 +1,6 @@
 ---
 name: elternabend-protokoll-und-beschluss
-description: "Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit im Schulrecht Länder."
 ---
 
 # Elternabend, Protokoll und Beschluss

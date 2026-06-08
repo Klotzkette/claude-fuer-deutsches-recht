@@ -1,17 +1,9 @@
 ---
 name: top-generator-verwalterpflichten-weg-wegh
-description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwaltung: prüft konkret Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und V, Prüft Verwalterbestellung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwaltung: prüft konkret Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und V, Prüft Verwalterbestellung."
 ---
 
 # TOP Generator Verwalterpflichten WEG Wegh
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `top-generator-emotion-zu-beschluss` | Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine. |
-| `verwalterpflichten-26-27-weg` | Prüft Verwalterbestellung, Abberufung, Verwaltervertrag, Aufgaben und Befugnisse nach §§ 26 und 27 WEG (Stand 05/2026), laufende Verwaltung, Eilmaßnahmen, Vertretung der GdWE und Haftung; berücksichtigt BGH V ZR 34/24 (keine Schutzwirkung des Verwaltervertrags) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE). |
-| `wegh-bauliche-veraenderung-beschluss-spezial` | Spezialfall bauliche Veraenderung Beschluss WEG nach Reform: privilegierte Massnahmen, Kostenverteilung. Pruefraster für Verwalter und Eigentuemergemeinschaft. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwal
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `top-generator-emotion-zu-beschluss`
 

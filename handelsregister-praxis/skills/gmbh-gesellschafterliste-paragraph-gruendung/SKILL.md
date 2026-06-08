@@ -1,6 +1,6 @@
 ---
 name: gmbh-gesellschafterliste-paragraph-gruendung
-description: "Prüft Liste, Prozentangaben, Veränderungsspalte, Notarzuständigkeit, Legitimationswirkung und Streit über Unrichtigkeit im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Liste, Prozentangaben, Veränderungsspalte, Notarzuständigkeit, Legitimationswirkung und Streit über Unrichtigkeit im Handelsregister Praxis."
 ---
 
 # Gesellschafterliste und Widerspruch

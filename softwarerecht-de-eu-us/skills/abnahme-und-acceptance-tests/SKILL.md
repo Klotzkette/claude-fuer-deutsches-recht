@@ -1,6 +1,6 @@
 ---
 name: abnahme-und-acceptance-tests
-description: "Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte im Softwarerecht De Eu Us."
 ---
 
 # Abnahme und Acceptance Tests

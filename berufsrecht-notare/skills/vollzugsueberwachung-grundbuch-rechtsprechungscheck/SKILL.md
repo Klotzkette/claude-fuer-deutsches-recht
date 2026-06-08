@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-rechtsprechungscheck
-description: "Notare: vollzugsueberwachung grundbuch - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: vollzugsueberwachung grundbuch - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

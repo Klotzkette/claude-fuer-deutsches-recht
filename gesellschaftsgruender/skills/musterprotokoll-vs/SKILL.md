@@ -1,6 +1,6 @@
 ---
 name: musterprotokoll-vs
-description: "Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist im Gesellschaftsgruender."
 ---
 
 # Musterprotokoll vs individuelle Satzung

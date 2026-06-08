@@ -1,6 +1,6 @@
 ---
 name: slot-pfandrecht-vorbereiten
-description: "Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill prueft VO EWG 95/93 Slot-Nicht-Uebertragbarkeit EuGH-Rechtsprechung und alternative Sicherheiten für Airline-Finanzierung und liefert Sicherungs-Alternativen-Vermerk im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill prueft VO EWG 95/93 Slot-Nicht-Uebertragbarkeit EuGH-Rechtsprechung und alternative Sicherheiten für Airline-Finanzierung und liefert Sicherungs-Alternativen-Vermerk im Luftrecht Flughafenrecht."
 ---
 
 # Slot – Pfandrecht vorbereiten

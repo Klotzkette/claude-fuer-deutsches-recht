@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-vertraege-spezial
-description: "Spezialfall mehrsprachige Vertraege deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Uebersetzungsfehler. Pruefraster für internationale Mandate im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall mehrsprachige Vertraege deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Uebersetzungsfehler. Pruefraster für internationale Mandate im Vertragsausfueller."
 ---
 
 # VAF: Mehrsprachige Vertraege

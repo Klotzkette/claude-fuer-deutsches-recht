@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-drv-widerspruch-sozialgericht
-description: "Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche im Rentenpruefer."
 ---
 
 # versorgungswerk-und-drv-parallel

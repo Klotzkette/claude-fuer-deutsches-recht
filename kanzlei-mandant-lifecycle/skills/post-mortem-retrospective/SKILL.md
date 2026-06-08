@@ -1,6 +1,6 @@
 ---
 name: post-mortem-retrospective
-description: "Post-Mortem Retrospective: steuert Nach großem Mandat: Was lief gut, was teuer, was nervte, was wird nächstes Mal anders zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Post-Mortem Retrospective: steuert Nach großem Mandat: Was lief gut, was teuer, was nervte, was wird nächstes Mal anders zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Post-Mortem Retrospective

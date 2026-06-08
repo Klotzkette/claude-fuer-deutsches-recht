@@ -1,6 +1,6 @@
 ---
 name: frageliste-auftraggeber
-description: "Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Frageliste Auftraggeber

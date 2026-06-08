@@ -1,6 +1,6 @@
 ---
 name: masterarbeit-betreuung
-description: "Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Pruefungsrecht Hochschule."
 ---
 
 # Masterarbeit und Betreuung

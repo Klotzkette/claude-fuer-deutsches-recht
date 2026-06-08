@@ -1,6 +1,6 @@
 ---
 name: gmbh-geschaeftsfuehrerbestellung-abberufung
-description: "Prüft Beschluss, Anmeldung, Versicherung, Vertretungsregel, Amtsannahme, Abberufung und Handelsregistervollzug im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschluss, Anmeldung, Versicherung, Vertretungsregel, Amtsannahme, Abberufung und Handelsregistervollzug im Handelsregister Praxis."
 ---
 
 # Geschäftsführerwechsel

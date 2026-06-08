@@ -1,6 +1,6 @@
 ---
 name: chinesische-investoren-in-deutschland
-description: "Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Parallele US-CFIUS-Prüfung bei US-Nexus. Output: Investoren-Compliance-Paket und Verhandlungsrahmen im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Parallele US-CFIUS-Prüfung bei US-Nexus. Output: Investoren-Compliance-Paket und Verhandlungsrahmen im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Chinesische Investoren in Deutschland: Compliance und Verfahren

@@ -1,6 +1,6 @@
 ---
 name: luecken-mandantenkommunikation-entscheidungsvorlage
-description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Luecken: Mandantenkommunikation und Entscheidungsvorlage

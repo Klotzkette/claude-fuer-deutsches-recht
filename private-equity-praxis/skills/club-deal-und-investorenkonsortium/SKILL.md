@@ -1,6 +1,6 @@
 ---
 name: club-deal-und-investorenkonsortium
-description: "Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln im Private Equity Praxis."
 ---
 
 # Club Deal und Investorenkonsortium

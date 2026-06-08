@@ -1,6 +1,6 @@
 ---
 name: bildrechte-kug-beiwerk-oeffentlichkeit
-description: "Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken im Influencer-Recht."
 ---
 
 # Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit

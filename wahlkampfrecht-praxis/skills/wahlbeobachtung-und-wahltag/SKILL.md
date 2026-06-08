@@ -1,6 +1,6 @@
 ---
 name: wahlbeobachtung-und-wahltag
-description: "Wahlkampfrecht Praxis: Wahlbeobachtung ohne Eingriff in Wahlhandlung briefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlbeobachtung ohne Eingriff in Wahlhandlung briefen im Wahlkampfrecht."
 ---
 
 # Wahlbeobachtung Und Wahltag

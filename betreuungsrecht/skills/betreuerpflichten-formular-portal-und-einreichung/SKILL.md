@@ -1,6 +1,6 @@
 ---
 name: betreuerpflichten-formular-portal-und-einreichung
-description: "Betreuerpflichten: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Betreuerpflichten: Formular, Portal und Einreichungslogik im Betreuungsrecht."
 ---
 
 # Betreuerpflichten: Formular, Portal und Einreichungslogik

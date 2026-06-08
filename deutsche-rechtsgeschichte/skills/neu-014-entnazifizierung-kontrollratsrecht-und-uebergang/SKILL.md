@@ -1,6 +1,6 @@
 ---
 name: neu-014-entnazifizierung-kontrollratsrecht-und-uebergang
-description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang im Deutsche Rechtsgeschichte."
 ---
 
 # Deutsche Rechtsgeschichte: 014 Entnazifizierung Kontrollratsrecht Und Uebergang

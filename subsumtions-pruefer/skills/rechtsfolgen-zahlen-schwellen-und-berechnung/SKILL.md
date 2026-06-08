@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgen-zahlen-schwellen-und-berechnung
-description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Subsumtions Pruefer."
 ---
 
 # Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung

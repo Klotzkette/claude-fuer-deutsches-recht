@@ -1,6 +1,6 @@
 ---
 name: aufsicht-anhoerung-ordnungswidrigkeit
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit im Apothekenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit im Apothekenrecht."
 ---
 
 # Aufsicht Anhörung Ordnungswidrigkeit

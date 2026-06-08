@@ -1,19 +1,9 @@
 ---
 name: kirchenasyl-kosten-prozesskostenhilfe
-description: "Kirchenasyl Kosten Prozesskostenhilfe im Migrationsrecht: prüft konkret Kirchenasyl, Kosten/PKH Migration, Krankenversicherung, Länderquellen-Kritik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kirchenasyl Kosten Prozesskostenhilfe im Migrationsrecht: prüft konkret Kirchenasyl, Kosten/PKH Migration, Krankenversicherung, Länderquellen-Kritik."
 ---
 
 # Kirchenasyl Kosten Prozesskostenhilfe
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-kirchenasyl` | Kirchenasyl: Fachmodul im Migrationsrecht; prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-kosten-prozesskostenhilfe` | Kosten/PKH Migration: Fachmodul im Migrationsrecht; prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-krankenversicherung` | Krankenversicherung: Fachmodul im Migrationsrecht; prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-lagebericht-quellenkritik` | Länderquellen-Kritik: Fachmodul im Migrationsrecht; prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-lgbtiq-schutz` | LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht; prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Kirchenasyl Kosten Prozesskostenhilfe im Migrationsrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-kirchenasyl`
 

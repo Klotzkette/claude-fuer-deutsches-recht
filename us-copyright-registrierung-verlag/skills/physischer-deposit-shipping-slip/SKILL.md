@@ -1,6 +1,6 @@
 ---
 name: physischer-deposit-shipping-slip
-description: "Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung im Us Copyright Registrierung Verlag."
 ---
 
 # Physischer Deposit und Shipping Slip

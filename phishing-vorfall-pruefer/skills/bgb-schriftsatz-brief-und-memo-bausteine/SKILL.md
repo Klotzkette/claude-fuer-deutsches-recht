@@ -1,6 +1,6 @@
 ---
 name: bgb-schriftsatz-brief-und-memo-bausteine
-description: "BGB: Schriftsatz-, Brief- und Memo-Bausteine im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "BGB: Schriftsatz-, Brief- und Memo-Bausteine im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # BGB: Schriftsatz-, Brief- und Memo-Bausteine

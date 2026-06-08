@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaft-aufnahme-beendigung-notarielle
-description: "Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige im Vereinsrecht Vereinsmanager."
 ---
 
 # Mitgliedschaft und Aufnahme

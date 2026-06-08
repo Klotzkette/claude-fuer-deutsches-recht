@@ -1,6 +1,6 @@
 ---
 name: insolvency-runway-crisis
-description: "Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Insolvenz, Runway und Krise

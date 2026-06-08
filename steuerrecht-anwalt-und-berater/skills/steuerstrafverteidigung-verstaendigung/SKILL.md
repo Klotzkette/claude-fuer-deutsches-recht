@@ -1,6 +1,6 @@
 ---
 name: steuerstrafverteidigung-verstaendigung
-description: "Prüfungslinie für anw steuerstrafverteidigung verstaendigung im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für anw steuerstrafverteidigung verstaendigung im Steuerrecht Anwalt Und Berater."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung

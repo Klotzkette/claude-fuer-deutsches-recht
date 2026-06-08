@@ -1,6 +1,6 @@
 ---
 name: speditionsvertrag-paragraphen-453-466-hgb
-description: "Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Spediteur, Besorgung der Versendung, Selbsteintritt, Sammelladung, Haftung im Handelsrecht Hgb."
 ---
 
 # Speditionsvertrag §§ 453 ff. HGB

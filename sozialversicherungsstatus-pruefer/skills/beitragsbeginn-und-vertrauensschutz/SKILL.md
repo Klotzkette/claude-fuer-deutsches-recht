@@ -1,6 +1,6 @@
 ---
 name: beitragsbeginn-und-vertrauensschutz
-description: "Prüft Beginn der Versicherungspflicht, Wirkung von Statusbescheiden, Vertrauensschutz und Änderungsfälle im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beginn der Versicherungspflicht, Wirkung von Statusbescheiden, Vertrauensschutz und Änderungsfälle im Sozialversicherungsstatus Pruefer."
 ---
 
 # Beitragsbeginn und Vertrauensschutz

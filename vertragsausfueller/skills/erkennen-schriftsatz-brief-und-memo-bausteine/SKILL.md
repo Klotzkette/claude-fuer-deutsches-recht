@@ -1,6 +1,6 @@
 ---
 name: erkennen-schriftsatz-brief-und-memo-bausteine
-description: "Erkennen: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erkennen: Schriftsatz-, Brief- und Memo-Bausteine im Vertragsausfueller."
 ---
 
 # Erkennen: Schriftsatz-, Brief- und Memo-Bausteine

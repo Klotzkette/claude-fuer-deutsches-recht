@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-uebertragende
-description: "Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht im Insolvenzrecht."
 ---
 
 # Sanierungsgewinn — Uebertragende Sanierung (Asset Deal) und ihre Steuerfolgen

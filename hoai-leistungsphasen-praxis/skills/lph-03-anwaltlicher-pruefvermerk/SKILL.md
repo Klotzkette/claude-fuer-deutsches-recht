@@ -1,6 +1,6 @@
 ---
 name: lph-03-anwaltlicher-pruefvermerk
-description: "HOAI LPH 3 Entwurfsplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 3 Entwurfsplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 3 Entwurfsplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand

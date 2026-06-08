@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fristen- und Risikoampel im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse."
 ---
 
 # Fristen- und Risikoampel

@@ -1,6 +1,6 @@
 ---
 name: urteil-rechtskraft-urteilsverkuendung-zpo
-description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am Amtsgericht: prüft konkret Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am Amtsgericht: prüft konkret Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO."
 ---
 
 # Urteil Rechtskraft Urteilsverkuendung ZPO
@@ -8,14 +8,6 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 ## Arbeitsbereich
 
 **Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `urteil-rechtskraft-705-zpo` | Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter. |
-| `urteilsverkuendung-310-zpo` | Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben. |
-| `verbrauchergerichtsstand-29c-zpo` | Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und Außergeschäftsraum-Vertraegen kann der Verbraucher am eigenen Wohnsitz klagen oder verklagt werden. Voraussetzungen und Beispiele aus dem Versandhandel Online-Verkauf und Fernabsatzvertraegen. |
 
 ## Arbeitsweg
 
@@ -25,7 +17,7 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `urteil-rechtskraft-705-zpo`
 

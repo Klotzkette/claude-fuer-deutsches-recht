@@ -1,6 +1,6 @@
 ---
 name: aarhus-argumentationslinie
-description: "Umweltschutzverband Verbandsklage: Aarhus-Argumentationslinie. Aarhus-Argumentationslinie im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Aarhus-Argumentationslinie. Aarhus-Argumentationslinie im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
 ---
 
 # Aarhus Argumentationslinie

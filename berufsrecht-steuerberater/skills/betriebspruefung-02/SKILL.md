@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-02
-description: "Steuerberater: betriebspruefung rollenabgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: betriebspruefung rollenabgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: betriebspruefung rollenabgrenzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

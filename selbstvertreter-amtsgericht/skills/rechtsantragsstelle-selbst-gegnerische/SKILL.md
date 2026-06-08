@@ -1,17 +1,9 @@
 ---
 name: rechtsantragsstelle-selbst-gegnerische
-description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amtsgericht: prüft konkret Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amtsgericht: prüft konkret Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG."
 ---
 
 # Rechtsantragsstelle Selbst Gegnerische
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `einreichung-rechtsantragsstelle-selbst` | Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen. |
-| `gegnerische-vollstreckung-abwehr` | Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht. |
-| `gerichtskostenvorschuss-12-gkg` | Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt wenn Vorschuss eingegangen ist. Berechnung Zahlung Bedeutung für § 167 ZPO und Verjährungs-Hemmung. Was tun bei finanziellen Schwierigkeiten PKH-Antrag. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `einreichung-rechtsantragsstelle-selbst`
 

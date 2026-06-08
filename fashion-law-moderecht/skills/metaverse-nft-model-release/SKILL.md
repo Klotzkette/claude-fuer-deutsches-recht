@@ -1,6 +1,6 @@
 ---
 name: metaverse-nft-model-release
-description: "Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims im Fashion Law Moderecht."
 ---
 
 # Metaverse Nft Digital Fashion

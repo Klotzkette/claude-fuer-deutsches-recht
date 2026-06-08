@@ -1,19 +1,9 @@
 ---
 name: krankenkassen-hilfsmittel-leistungsablehnung
-description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung am Sozialgericht: prüft konkret Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD), Krankenkassen-Rehabilitation nach § 40 SGB V. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung am Sozialgericht: prüft konkret Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD), Krankenkassen-Rehabilitation nach § 40 SGB V."
 ---
 
 # Krankenkassen Hilfsmittel Leistungsablehnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `krankenkassen-hilfsmittel-33-sgb-v` | Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage. |
-| `krankenkassen-leistungsablehnung-sgb-v` | Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage. |
-| `krankenkassen-mds-stellungnahme` | Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Pruefung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Pruefraster. |
-| `krankenkassen-reha-40-sgb-v` | Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Voraussetzungen ambulante stationaere Reha Mutter-Vater-Kind-Kur Anschlussheilbehandlung Verhaeltnis zur Rentenversicherung. Liefert Antragsvorlage. |
-| `krankenkassen-wahltarife-und-sonderkuendigung` | Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `krankenkassen-hilfsmittel-33-sgb-v`
 

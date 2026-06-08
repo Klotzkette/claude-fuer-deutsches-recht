@@ -1,6 +1,6 @@
 ---
 name: reste-und-uebertragbarkeit-szenario-re
-description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Szenario rechnen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Reste Und Uebertragbarkeit Szenario Re

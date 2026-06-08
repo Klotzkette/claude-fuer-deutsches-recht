@@ -1,6 +1,6 @@
 ---
 name: zugriff-sonderfall-und-edge-case
-description: "Zugriff: Sonderfall und Edge-Case-Prüfung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zitierweise. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zugriff: Sonderfall und Edge-Case-Prüfung im Plugin zitierweise deutsches recht im Zitierweise."
 ---
 
 # Zugriff: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: parteivortraege-compliance-dokumentation-und-akte
-description: "Parteivortraege: Compliance-Dokumentation und Aktenvermerk im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Parteivortraege: Compliance-Dokumentation und Aktenvermerk im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
 ---
 
 # Parteivortraege: Compliance-Dokumentation und Aktenvermerk

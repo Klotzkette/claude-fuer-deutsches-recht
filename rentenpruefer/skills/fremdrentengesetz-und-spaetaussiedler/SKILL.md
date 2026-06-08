@@ -1,6 +1,6 @@
 ---
 name: fremdrentengesetz-und-spaetaussiedler
-description: "Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger im Rentenpruefer."
 ---
 
 # fremdrentengesetz-und-spaetaussiedler

@@ -1,6 +1,6 @@
 ---
 name: outsourcing-von-zeichnungen-kammerantwort
-description: "Patentanwälte: outsourcing von zeichnungen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: outsourcing von zeichnungen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: outsourcing von zeichnungen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

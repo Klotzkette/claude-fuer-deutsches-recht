@@ -1,6 +1,6 @@
 ---
 name: vollmacht-und-anmeldung-oeffentliche-beglaubigung
-description: "Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft notarielle Beglaubigung, Vertreteranmeldung, Untervollmacht, Signatur und elektronische Einreichung im Handelsregister Praxis."
 ---
 
 # Anmeldung und Vollmacht formfest machen

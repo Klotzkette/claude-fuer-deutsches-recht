@@ -1,6 +1,6 @@
 ---
 name: ki-hochrisiko-anhang-iii-pruefen
-description: "Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt für Schritt mit Belegen aus dem konkreten Einsatzfall im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt für Schritt mit Belegen aus dem konkreten Einsatzfall im Ki Governance."
 ---
 
 # Hochrisiko-KI Anhang III

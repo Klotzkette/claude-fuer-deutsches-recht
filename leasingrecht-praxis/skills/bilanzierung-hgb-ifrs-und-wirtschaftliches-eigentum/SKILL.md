@@ -1,6 +1,6 @@
 ---
 name: bilanzierung-hgb-ifrs-und-wirtschaftliches-eigentum
-description: "Leasingbilanzierung: HGB (BMF-Erlass, wirtschaftliches Eigentum § 39 AO), IFRS 16 (Right-of-Use-Asset), steuerliche Folgen und Bilanzoptimierung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leasingbilanzierung: HGB (BMF-Erlass, wirtschaftliches Eigentum § 39 AO), IFRS 16 (Right-of-Use-Asset), steuerliche Folgen und Bilanzoptimierung im Leasingrecht."
 ---
 
 # Leasingbilanzierung: HGB, § 39 AO und IFRS 16

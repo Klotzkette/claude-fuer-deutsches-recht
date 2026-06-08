@@ -1,17 +1,9 @@
 ---
 name: klageschrift-pflichtbestandteile
-description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgericht: prüft konkret Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgericht: prüft konkret Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO."
 ---
 
 # Klageschrift Pflichtbestandteile
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `klageschrift-pflichtbestandteile-253-zpo` | Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe. |
-| `klageschrift-tatsachenvortrag-strukturieren` | Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern. |
-| `kostenfestsetzung-103-104-zpo` | Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren Ihre Kosten gegen den Verlierer festsetzen lassen. Antrag bei Geschäftsstelle was erstattungsfähig was nicht. Mit Muster und Hinweis auf Selbstvertretung-Sonderfall. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `klageschrift-pflichtbestandteile-253-zpo`
 

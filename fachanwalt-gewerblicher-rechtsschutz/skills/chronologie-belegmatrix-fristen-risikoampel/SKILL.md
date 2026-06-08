@@ -1,17 +1,9 @@
 ---
 name: chronologie-belegmatrix-fristen-risikoampel
-description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Chronologie und Belegmatrix im gewerblichen Rechtsschutz, Fristen und Risikoampel im gewerblichen Rechtsschutz, Mandantenkommunikation im gewerblichen Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Chronologie und Belegmatrix im gewerblichen Rechtsschutz, Fristen und Risikoampel im gewerblichen Rechtsschutz, Mandantenkommunikation im gewerblichen Rechtsschutz."
 ---
 
 # Chronologie Belegmatrix Fristen Risikoampel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte. |
-| `workflow-fristen-und-risikoampel` | Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im gewerblichen Rechtsschutz: Mandantenbriefe, Entscheidungsvorlagen, Statusberichte, Kostenaufklärung, Beratungsprotokoll, Tonalität und BRAO-Informationspflichten. Mustertexte für alle Phasen des Mandats. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 

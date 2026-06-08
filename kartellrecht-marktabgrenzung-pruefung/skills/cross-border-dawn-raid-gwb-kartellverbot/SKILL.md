@@ -1,6 +1,6 @@
 ---
 name: cross-border-dawn-raid-gwb-kartellverbot
-description: "Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Cross-Border Evidence Sharing

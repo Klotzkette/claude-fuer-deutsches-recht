@@ -1,6 +1,6 @@
 ---
 name: schutzdauer-gemeinfreiheit-software-69a
-description: "Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutzdauer, Miturheberschaft, anonyme Werke, Leistungsschutzdauer, gemeinfreie Vorlagen und neue Bearbeitungen im Urheberrecht De Eu."
 ---
 
 # Schutzdauer und Gemeinfreiheit

@@ -1,6 +1,6 @@
 ---
 name: kunst-und-musikhochschulen
-description: "Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen im Hochschulrecht Länder."
 ---
 
 # Kunst Und Musikhochschulen

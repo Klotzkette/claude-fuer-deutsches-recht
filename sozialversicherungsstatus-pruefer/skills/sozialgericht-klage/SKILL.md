@@ -1,6 +1,6 @@
 ---
 name: sozialgericht-klage
-description: "Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie im Sozialversicherungsstatus Pruefer."
 ---
 
 # Sozialgerichtliche Klage

@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinie-abgleich
-description: "Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleicht deutsches HinSchG mit EU-Whistleblower-Richtlinie im Hinweisgeberschutz Compliance."
 ---
 
 # EU Richtlinie Abgleich

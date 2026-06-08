@@ -1,6 +1,6 @@
 ---
 name: sitz-inlandsanschrift-und-geschaeftsanschrift
-description: "Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung im Handelsregister Praxis."
 ---
 
 # Sitz, Geschäftsanschrift, Zustellung

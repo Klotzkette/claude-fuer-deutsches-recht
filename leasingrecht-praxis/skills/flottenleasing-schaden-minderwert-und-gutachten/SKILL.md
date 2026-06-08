@@ -1,6 +1,6 @@
 ---
 name: flottenleasing-schaden-minderwert-und-gutachten
-description: "Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse im Leasingrecht."
 ---
 
 # Flottenleasing: Schadenmanagement und Minderwertabrechnung

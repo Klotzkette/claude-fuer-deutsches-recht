@@ -1,6 +1,6 @@
 ---
 name: produktakte-gap-produktbeobachtung-field
-description: "Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt Gap-Analyse der Produktakte durch: fehlende Nachweise, falsche Annahmen, ungeklärte Rollen, nicht belegte Standards im Robotik-Recht."
 ---
 
 # Produktakte Gap-Analyse

@@ -1,6 +1,6 @@
 ---
 name: compilations-derivative-works-103
-description: "Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103 im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103 im Us Copyright Registrierung Verlag."
 ---
 
 # Compilations und Derivative Works

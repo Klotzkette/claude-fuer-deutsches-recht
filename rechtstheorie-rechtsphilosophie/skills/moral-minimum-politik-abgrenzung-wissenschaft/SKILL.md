@@ -1,17 +1,9 @@
 ---
 name: moral-minimum-politik-abgrenzung-wissenschaft
-description: "Moral Minimum Politik Abgrenzung Wissenschaft im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist, Prueft die Rolle von Rechtswissenschaft. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Moral Minimum Politik Abgrenzung Wissenschaft im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist, Prueft die Rolle von Rechtswissenschaft."
 ---
 
 # Moral Minimum Politik Abgrenzung Wissenschaft
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `recht-und-moral-minimum` | Prueft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch. |
-| `recht-und-politik-abgrenzung` | Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss. |
-| `recht-und-wissenschaft` | Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `recht-und-moral-minimum`
 

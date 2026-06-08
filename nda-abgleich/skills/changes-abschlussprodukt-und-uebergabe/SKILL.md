@@ -1,6 +1,6 @@
 ---
 name: changes-abschlussprodukt-und-uebergabe
-description: "Changes: Abschlussprodukt und Übergabe im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Changes: Abschlussprodukt und Übergabe im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Changes: Abschlussprodukt und Übergabe

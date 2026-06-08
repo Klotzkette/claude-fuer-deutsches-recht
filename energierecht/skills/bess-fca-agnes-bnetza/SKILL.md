@@ -1,6 +1,6 @@
 ---
 name: bess-fca-agnes-bnetza
-description: "Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt im Energierecht."
 ---
 
 # FCA/AgNes: Netzanschluss-Regelwerk lesen

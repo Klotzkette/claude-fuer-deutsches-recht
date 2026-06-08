@@ -1,6 +1,6 @@
 ---
 name: vs-eigentum-erbbauzins-rueckstand
-description: "Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG im Erbbaurecht Praxis."
 ---
 
 # Erbbaurecht verständlich erklären

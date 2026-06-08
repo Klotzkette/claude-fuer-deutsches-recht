@@ -1,6 +1,6 @@
 ---
 name: gate-behoerden-gericht-und-registerweg
-description: "Gate: Behörden-, Gerichts- oder Registerweg im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gate: Behörden-, Gerichts- oder Registerweg im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Gate: Behörden-, Gerichts- oder Registerweg

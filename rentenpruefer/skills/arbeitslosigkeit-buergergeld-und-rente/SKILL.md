@@ -1,6 +1,6 @@
 ---
 name: arbeitslosigkeit-buergergeld-und-rente
-description: "Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn im Rentenpruefer."
 ---
 
 # arbeitslosigkeit-buergergeld-und-rente

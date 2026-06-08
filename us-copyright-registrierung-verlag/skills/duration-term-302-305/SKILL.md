@@ -1,6 +1,6 @@
 ---
 name: duration-term-302-305
-description: "Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration im Us Copyright Registrierung Verlag."
 ---
 
 # Duration und Term

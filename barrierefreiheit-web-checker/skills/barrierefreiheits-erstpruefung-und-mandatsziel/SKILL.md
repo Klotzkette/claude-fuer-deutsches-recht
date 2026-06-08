@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheits-erstpruefung-und-mandatsziel
-description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
 ---
 
 # Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel

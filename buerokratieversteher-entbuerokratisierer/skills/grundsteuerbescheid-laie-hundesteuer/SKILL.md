@@ -1,6 +1,6 @@
 ---
 name: grundsteuerbescheid-laie-hundesteuer
-description: "Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz im Bürokratie-Entbürokratisierung."
 ---
 
 # Grundsteuerbescheid für Laien

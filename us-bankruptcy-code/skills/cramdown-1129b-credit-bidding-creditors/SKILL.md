@@ -1,6 +1,6 @@
 ---
 name: cramdown-1129b-credit-bidding-creditors
-description: "Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes im US Bankruptcy Code."
 ---
 
 # Cramdown § 1129(b)

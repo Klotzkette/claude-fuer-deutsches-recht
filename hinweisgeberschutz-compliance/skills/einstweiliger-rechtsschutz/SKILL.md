@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilrechtsschutz gegen Repressalien im Hinweisgeberschutz Compliance."
 ---
 
 # Einstweiliger Rechtsschutz

@@ -1,6 +1,6 @@
 {
   "name": "betaeubungsmittelrecht",
-  "version": "251.0.0",
+  "version": "252.0.0",
   "description": "Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance.",
   "license": "Apache-2.0 OR MIT",
   "author": {

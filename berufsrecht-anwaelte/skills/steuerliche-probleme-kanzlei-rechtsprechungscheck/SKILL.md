@@ -1,6 +1,6 @@
 ---
 name: steuerliche-probleme-kanzlei-rechtsprechungscheck
-description: "Anwälte: steuerliche probleme kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: steuerliche probleme kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: steuerliche probleme kanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

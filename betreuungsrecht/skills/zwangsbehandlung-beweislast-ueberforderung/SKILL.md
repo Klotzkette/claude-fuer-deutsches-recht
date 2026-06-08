@@ -1,6 +1,6 @@
 ---
 name: zwangsbehandlung-beweislast-ueberforderung
-description: "Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Betreuungsrecht."
 ---
 
 # Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: inso-1-ziele-3c-zustaendigkeit-4a
-description: "Inso P001 Ziele P003c Zustandigkeit P004a im Insolvenz- und Sanierungsrecht: prüft konkret § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen, § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im, § 4a InsO (Stundung der Kosten des Insolvenzverfahrens) im, § 5 InsO (Verfahrensgrundsätze) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P001 Ziele P003c Zustandigkeit P004a im Insolvenz- und Sanierungsrecht: prüft konkret § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen, § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im, § 4a InsO (Stundung der Kosten des Insolvenzverfahrens) im, § 5 InsO (Verfahrensgrundsätze) im Mandat prüfen."
 ---
 
 # Inso P001 Ziele P003c Zustandigkeit P004a
@@ -8,16 +8,6 @@ description: "Inso P001 Ziele P003c Zustandigkeit P004a im Insolvenz- und Sanier
 ## Arbeitsbereich
 
 **Inso P001 Ziele P003c Zustandigkeit P004a** ordnet den Fall über die tragenden Prüfungslinien: § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen, § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im, § 4a InsO (Stundung der Kosten des Insolvenzverfahrens) im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p001-ziele-des-insolvenzverfahrens` | § 1 InsO (Ziele des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p003c-zustandigkeit-fur-gruppen-folgeverfahren` | § 3c InsO (Zuständigkeit für Gruppen-Folgeverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p004a-stundung-der-kosten-des-insolvenzverfahrens` | § 4a InsO (Stundung der Kosten des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p005-verfahrensgrundsatze` | § 5 InsO (Verfahrensgrundsätze) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p011-zulassigkeit-des-insolvenzverfahrens` | § 11 InsO (Zulässigkeit des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -27,7 +17,7 @@ description: "Inso P001 Ziele P003c Zustandigkeit P004a im Insolvenz- und Sanier
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p001-ziele-des-insolvenzverfahrens`
 

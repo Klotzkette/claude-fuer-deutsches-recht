@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zweigstelle-kammerantwort-und-verfahren
-description: "Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

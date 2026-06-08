@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-schleswig-holstein
-description: "Prüft Schulrecht in Schleswig-Holstein mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulrecht in Schleswig-Holstein mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
 ---
 
 # Schulgesetz Schleswig Holstein

@@ -1,19 +1,9 @@
 ---
 name: ergaenzt-fachanwalt-insolvenzantrag-red-team-korrektur
-description: "Ergaenzt Fachanwalt Insolvenzantrag RED im Strafrecht: prüft konkret Ergaenzt, Fachanwalt, Insolvenzantrag, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Ergaenzt Fachanwalt Insolvenzantrag RED im Strafrecht: prüft konkret Ergaenzt, Fachanwalt, Insolvenzantrag, Kanzlei."
 ---
 
 # Ergaenzt Fachanwalt Insolvenzantrag RED
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-ergaenzt-mandantenkommunikation-entscheidungsvorlage` | Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-insolvenzantrag-red-team-und-qualitaetskontrolle` | Insolvenzantrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-sonderfall-und-edge-case` | Kanzlei: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Ergaenzt Fachanwalt Insolvenzantrag RED im Strafrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-ergaenzt-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt strafrecht.
 
 ### Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -52,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt strafrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -101,7 +91,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-insolvenzantrag-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Insolvenzantrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Insolvenzantrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt strafrecht.
 
 ### Insolvenzantrag: Red-Team und Qualitätskontrolle
 
@@ -126,7 +116,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-kanzlei-sonderfall-und-edge-case`
 
-**Fokus:** Kanzlei: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt strafrecht.
 
 ### Kanzlei: Sonderfall und Edge-Case-Prüfung
 
@@ -151,7 +141,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-livecheck-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt strafrecht.
 
 ### Livecheck: Abschlussprodukt und Übergabe
 

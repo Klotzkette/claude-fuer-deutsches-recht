@@ -1,6 +1,6 @@
 ---
 name: medizinisches-staatsexamen
-description: "Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Pruefungsrecht Hochschule."
 ---
 
 # Medizinisches Staatsexamen

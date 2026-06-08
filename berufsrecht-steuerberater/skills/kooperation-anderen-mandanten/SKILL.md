@@ -1,6 +1,6 @@
 ---
 name: kooperation-anderen-mandanten
-description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kooperation mit anderen Berufen im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kooperation mit anderen Berufen: vertiefter Berufsrechts-Skill für Steuerberater; prüft Kooperation mit anderen Berufen im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Kooperation mit anderen Berufen

@@ -1,17 +1,9 @@
 ---
 name: mietkaution-genossenschaftsanteil-muster
-description: "Mietkaution Genossenschaftsanteil Muster im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Mietkaution und Genossenschaftsanteile, Muster-Schuldenbereinigungsplan, Musterbrief an Gläubiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mietkaution Genossenschaftsanteil Muster im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Mietkaution und Genossenschaftsanteile, Muster-Schuldenbereinigungsplan, Musterbrief an Gläubiger."
 ---
 
 # Mietkaution Genossenschaftsanteil Muster
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mietkaution-und-genossenschaftsanteil` | Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `muster-schuldenbereinigungsplan` | Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `musterbrief-glaeubiger` | Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Mietkaution Genossenschaftsanteil Muster im Plugin Verbraucherinso
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mietkaution-und-genossenschaftsanteil`
 

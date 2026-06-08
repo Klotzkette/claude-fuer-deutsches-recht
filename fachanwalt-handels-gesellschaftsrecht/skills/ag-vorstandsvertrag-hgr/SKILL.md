@@ -1,17 +1,9 @@
 ---
 name: ag-vorstandsvertrag-hgr
-description: "AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Vorstandsvertrag AG vorbereiten, Spezialfall Aktionsbindungsvertrag bei AG, Gesellschaftervertrags-Tour. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Vorstandsvertrag AG vorbereiten, Spezialfall Aktionsbindungsvertrag bei AG, Gesellschaftervertrags-Tour."
 ---
 
 # AG Vorstandsvertrag HGR
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `ag-vorstandsvertrag-vorbereiten` | Vorstandsvertrag AG vorbereiten: §§ 84 ff. AktG, Bestellung und Anstellung trennen, Vergueng (fix, variabel, ESG-LTI), D and O Versicherung, Tantieme Caps nach VorstAG, Anstellungsbedingungen Compliance, Sonderkuendigung bei wichtigem Grund. Mustertexte und Verhandlungsstrategie. |
-| `hgr-aktionsbindungsvertrag-spezial` | Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung. Mustertexte und Pruefraster für Hauptaktionaer und Minderheitsgesellschafter. |
-| `hgr-gesellschaftervertrag-tour` | Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along. Klausel-für-Klausel Erklaerung und Klauselrisiken. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "AG Vorstandsvertrag HGR im Plugin Fachanwalt Handels Gesellschafts
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `ag-vorstandsvertrag-vorbereiten`
 

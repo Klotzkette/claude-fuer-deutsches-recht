@@ -1,6 +1,6 @@
 ---
 name: expectation-management-expert-fachabteilung
-description: "Erwartungsmanagement: steuert Enttäuschungen, schlechte Nachrichten, unsichere Rechtslage und Entscheidungsdruck konstruktiv steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erwartungsmanagement: steuert Enttäuschungen, schlechte Nachrichten, unsichere Rechtslage und Entscheidungsdruck konstruktiv steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Erwartungsmanagement

@@ -1,6 +1,6 @@
 ---
 name: tech-product-dd-fuer-vcs
-description: "Hilft jungen VCs, Produktreife, Roadmap, technische Schulden, Architektur, KI-Claims und Abhängigkeiten zu hinterfragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft jungen VCs, Produktreife, Roadmap, technische Schulden, Architektur, KI-Claims und Abhängigkeiten zu hinterfragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Tech/Product-DD für VCs

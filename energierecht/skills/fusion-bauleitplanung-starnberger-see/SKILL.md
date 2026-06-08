@@ -1,6 +1,6 @@
 ---
 name: fusion-bauleitplanung-starnberger-see
-description: "Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte im Energierecht."
 ---
 
 # Fusion: Bauleitplanung am Starnberger See

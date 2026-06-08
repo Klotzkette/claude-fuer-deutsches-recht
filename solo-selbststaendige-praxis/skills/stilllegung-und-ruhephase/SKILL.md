@@ -1,6 +1,6 @@
 ---
 name: stilllegung-und-ruhephase
-description: "Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Krise Schulden und Neustart: Plant pause

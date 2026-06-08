@@ -1,6 +1,6 @@
 ---
 name: koalitions-listenverbindung-kommunalmandat
-description: "Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung im Parteienrecht."
 ---
 
 # Kooperationen und Listenverbindungen

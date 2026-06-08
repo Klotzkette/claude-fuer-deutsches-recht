@@ -1,6 +1,6 @@
 ---
 name: china-customs-tariff-origin-preferential-not
-description: "Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Zolltarif und Warenursprung China: Prüfung und Dokumentation

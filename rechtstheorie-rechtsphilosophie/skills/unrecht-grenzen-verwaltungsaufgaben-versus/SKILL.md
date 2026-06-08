@@ -1,17 +1,9 @@
 ---
 name: unrecht-grenzen-verwaltungsaufgaben-versus
-description: "Unrecht Grenzen Verwaltungsaufgaben Versus im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Unrecht Grenzen Verwaltungsaufgaben Versus im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer."
 ---
 
 # Unrecht Grenzen Verwaltungsaufgaben Versus
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `unrecht-und-grenzen-des-gehorsams` | Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
-| `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
-| `wirtschaftsprivatrecht-dogmatik` | Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `unrecht-und-grenzen-des-gehorsams`
 

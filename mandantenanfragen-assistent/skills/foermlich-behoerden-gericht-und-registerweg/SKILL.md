@@ -1,6 +1,6 @@
 ---
 name: foermlich-behoerden-gericht-und-registerweg
-description: "Foermlich: Behörden-, Gerichts- oder Registerweg im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Foermlich: Behörden-, Gerichts- oder Registerweg im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Foermlich: Behörden-, Gerichts- oder Registerweg

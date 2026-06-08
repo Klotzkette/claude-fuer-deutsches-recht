@@ -1,6 +1,6 @@
 ---
 name: photos-stock-physischer-deposit-platform
-description: "Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown im Us Copyright Registrierung Verlag."
 ---
 
 # Photos, Stock und Social Media

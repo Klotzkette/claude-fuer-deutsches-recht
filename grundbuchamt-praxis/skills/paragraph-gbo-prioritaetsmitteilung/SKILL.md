@@ -1,6 +1,6 @@
 ---
 name: paragraph-gbo-prioritaetsmitteilung
-description: "Prüft öffentliche oder öffentlich beglaubigte Urkunden, Registerauszüge, Erbnachweise, Vollmachten, Auslandsurkunden und Übersetzungen im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft öffentliche oder öffentlich beglaubigte Urkunden, Registerauszüge, Erbnachweise, Vollmachten, Auslandsurkunden und Übersetzungen im Grundbuchamt Praxis."
 ---
 
 # § 29 GBO Nachweisform

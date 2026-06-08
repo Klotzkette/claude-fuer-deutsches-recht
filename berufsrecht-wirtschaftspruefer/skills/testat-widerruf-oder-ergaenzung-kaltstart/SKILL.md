@@ -1,6 +1,6 @@
 ---
 name: testat-widerruf-oder-ergaenzung-kaltstart
-description: "Wirtschaftsprüfer: testat widerruf oder ergänzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: testat widerruf oder ergänzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: testat widerruf oder ergänzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

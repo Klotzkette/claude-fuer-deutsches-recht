@@ -1,6 +1,6 @@
 ---
 name: prioritaetsmitteilung-und-rangbescheinigung
-description: "Prüft, wann Rang gesichert ist und wie Notar/Bank/Grundbuchamt die Reihenfolge dokumentieren im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, wann Rang gesichert ist und wie Notar/Bank/Grundbuchamt die Reihenfolge dokumentieren im Grundbuchamt Praxis."
 ---
 
 # Priorität und Rangbescheinigung

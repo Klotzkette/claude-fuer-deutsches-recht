@@ -1,15 +1,9 @@
 ---
 name: widerspruch-klage
-description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht."
 ---
 
 # Widerspruch Klage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `widerspruch-klage-eilrechtsschutz` | Routet Widerspruch, Anfechtungsklage, § 80 Abs. 5 VwGO und § 123 VwGO bei versammlungsrechtlichen Bescheiden. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Widerspruch Klage im Versammlungsrecht im Versammlungsrecht. Liefe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `widerspruch-klage-eilrechtsschutz`
 

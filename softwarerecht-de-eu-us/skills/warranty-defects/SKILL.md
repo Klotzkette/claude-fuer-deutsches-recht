@@ -1,6 +1,6 @@
 ---
 name: warranty-defects
-description: "Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität im Softwarerecht De Eu Us."
 ---
 
 # Softwaremängel und Gewährleistung

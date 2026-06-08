@@ -1,6 +1,6 @@
 ---
 name: erbrecht-und-hofrecht
-description: "Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht im Deutsche Rechtsgeschichte."
 ---
 
 # Erbrecht und Hofrecht

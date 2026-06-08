@@ -1,6 +1,6 @@
 ---
 name: vertrieb-regulierte-vertriebsumstellung
-description: "Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters im Handelsvertreterrecht."
 ---
 
 # Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten

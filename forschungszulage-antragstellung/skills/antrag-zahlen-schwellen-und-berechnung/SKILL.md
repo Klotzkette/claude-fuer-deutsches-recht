@@ -1,6 +1,6 @@
 ---
 name: antrag-zahlen-schwellen-und-berechnung
-description: "Antrag: Zahlen, Schwellenwerte und Berechnung im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Antrag: Zahlen, Schwellenwerte und Berechnung im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Antrag: Zahlen, Schwellenwerte und Berechnung

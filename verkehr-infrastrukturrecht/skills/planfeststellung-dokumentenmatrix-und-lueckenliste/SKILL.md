@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-dokumentenmatrix-und-lueckenliste
-description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehr Infrastrukturrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
 ---
 
 # Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung

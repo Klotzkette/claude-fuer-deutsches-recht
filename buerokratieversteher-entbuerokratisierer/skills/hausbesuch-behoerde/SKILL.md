@@ -1,6 +1,6 @@
 ---
 name: hausbesuch-behoerde
-description: "Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung im Bürokratie-Entbürokratisierung."
 ---
 
 # Hausbesuch Behörde

@@ -1,6 +1,6 @@
 ---
 name: lph-08-kommunikation-baustelle-behoerde
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Formuliert klare e-mails an bauherr

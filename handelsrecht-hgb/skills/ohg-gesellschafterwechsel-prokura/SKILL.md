@@ -1,6 +1,6 @@
 ---
 name: ohg-gesellschafterwechsel-prokura
-description: "Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eintritt, Ausscheiden, Nachhaftung, Abfindung und Registereintragung im Handelsrecht Hgb."
 ---
 
 # OHG Gesellschafterwechsel

@@ -1,6 +1,6 @@
 ---
 name: tax-structuring-deutschland-fokus
-description: "Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit im Private Equity Praxis."
 ---
 
 # Tax Structuring: Deutschland-Fokus

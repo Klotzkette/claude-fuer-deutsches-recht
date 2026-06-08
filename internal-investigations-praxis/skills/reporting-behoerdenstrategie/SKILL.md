@@ -1,6 +1,6 @@
 ---
 name: reporting-behoerdenstrategie
-description: "Strukturiert den Abschlussbericht einer Internal Investigation – Aufbau, Privilegierung, Adressaten, Versionen und Verwertbarkeit im Internal Investigations Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strukturiert den Abschlussbericht einer Internal Investigation – Aufbau, Privilegierung, Adressaten, Versionen und Verwertbarkeit im Internal Investigations Praxis."
 ---
 
 # Abschlussbericht der Internal Investigation

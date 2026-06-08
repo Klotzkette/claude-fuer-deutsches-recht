@@ -1,6 +1,6 @@
 ---
 name: nda-vor-erfindungsgespraech-kaltstart-und-fakten
-description: "Patentanwälte: nda vor erfindungsgespraech - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: nda vor erfindungsgespraech - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: nda vor erfindungsgespraech - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

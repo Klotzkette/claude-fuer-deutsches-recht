@@ -1,19 +1,9 @@
 ---
 name: unfallrente-sgb-unfallversicherung-bg
-description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozialgericht: prüft konkret Unfallrente nach § 56 SGB VII, Streit mit der Berufsgenossenschaft SGB VII, Die Untätigkeitsklage nach § 88 SGG, Sie haben das Urteil des SG bekommen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozialgericht: prüft konkret Unfallrente nach § 56 SGB VII, Streit mit der Berufsgenossenschaft SGB VII, Die Untätigkeitsklage nach § 88 SGG, Sie haben das Urteil des SG bekommen."
 ---
 
 # Unfallrente SGB Unfallversicherung BG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `unfallrente-56-sgb-vii` | Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster. |
-| `unfallversicherung-bg-anerkennung-sgb-vii` | Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte. |
-| `untaetigkeitsklage-88-sgg` | Die Untätigkeitsklage nach § 88 SGG. Wenn die Behörde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger. |
-| `urteil-sozialgericht-was-jetzt` | Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger. |
-| `vergleich-vorschlag-101-sgg` | Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozia
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `unfallrente-56-sgb-vii`
 

@@ -1,6 +1,6 @@
 ---
 name: launch-readiness-legal-review
-description: "Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Launch Readiness Legal Review

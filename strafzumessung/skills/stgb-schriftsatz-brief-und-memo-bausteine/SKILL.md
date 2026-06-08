@@ -1,6 +1,6 @@
 ---
 name: stgb-schriftsatz-brief-und-memo-bausteine
-description: "Stgb: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stgb: Schriftsatz-, Brief- und Memo-Bausteine im Strafzumessung."
 ---
 
 # Stgb: Schriftsatz-, Brief- und Memo-Bausteine

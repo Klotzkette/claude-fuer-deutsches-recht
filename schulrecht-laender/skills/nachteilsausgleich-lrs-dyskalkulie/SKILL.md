@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-lrs-dyskalkulie
-description: "Prüft LRS/Dyskalkulie-spezifische Maßnahmen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft LRS/Dyskalkulie-spezifische Maßnahmen im Schulrecht Länder."
 ---
 
 # Nachteilsausgleich Lrs Dyskalkulie

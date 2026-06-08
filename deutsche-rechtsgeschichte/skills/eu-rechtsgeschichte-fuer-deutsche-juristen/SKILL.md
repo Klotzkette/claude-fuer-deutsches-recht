@@ -1,6 +1,6 @@
 ---
 name: eu-rechtsgeschichte-fuer-deutsche-juristen
-description: "Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung im Deutsche Rechtsgeschichte."
 ---
 
 # EU-Rechtsgeschichte für deutsche Juristen

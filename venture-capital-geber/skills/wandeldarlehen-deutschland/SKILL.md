@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehen-deutschland
-description: "Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Wandeldarlehen Deutschland

@@ -1,6 +1,6 @@
 ---
 name: freilassung-freiheitsstatus-sklaverei
-description: "Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana im Römisches Recht."
 ---
 
 # Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch

@@ -1,6 +1,6 @@
 ---
 name: notfall-tk-notrufpflicht
-description: "Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommunikation und Business Continuity im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommunikation und Business Continuity im Telekommunikationsrecht."
 ---
 
 # Notfall- und Katastrophenkommunikation

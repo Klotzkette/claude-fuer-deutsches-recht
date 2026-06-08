@@ -1,6 +1,6 @@
 ---
 name: beschwerde-mandantenmail-freundlich
-description: "Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung. Beschwerdeverfahren nach FamFG und GBO, Zuständigkeit, Fristen, Rechtsmittel und Beschwerdeinhalt im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung. Beschwerdeverfahren nach FamFG und GBO, Zuständigkeit, Fristen, Rechtsmittel und Beschwerdeinhalt im Notariat."
 ---
 
 # Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung

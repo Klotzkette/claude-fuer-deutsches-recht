@@ -1,6 +1,6 @@
 ---
 name: workflow-vergleich-und-verhandlungsplan
-description: "Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation im BGB BT."
 ---
 
 # Workflow: Vergleich und Verhandlungsplan

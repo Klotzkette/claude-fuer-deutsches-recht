@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-betriebsrat-und-managementwechsel
-description: "Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken im Private Equity Praxis."
 ---
 
 # Arbeitsrecht, Betriebsrat und Managementwechsel

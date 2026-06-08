@@ -1,6 +1,6 @@
 ---
 name: mitgliedsbeitraege
-description: "Gestaltet Beitragsordnung, Fälligkeit, Mahnung, Sozialklausel, Umlagen und Beitragserhöhung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Beitragsordnung, Fälligkeit, Mahnung, Sozialklausel, Umlagen und Beitragserhöhung im Vereinsrecht Vereinsmanager."
 ---
 
 # Mitgliedsbeiträge

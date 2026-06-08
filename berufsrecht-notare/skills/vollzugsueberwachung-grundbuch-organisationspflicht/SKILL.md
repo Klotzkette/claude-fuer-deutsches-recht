@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-organisationspflicht
-description: "Notare: vollzugsueberwachung grundbuch - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: vollzugsueberwachung grundbuch - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

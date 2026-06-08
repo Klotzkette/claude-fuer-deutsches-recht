@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-bauen-berechtigte-ermitteln
-description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Chronologie bauen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Parteivermögen: Chronologie bauen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Parteivermoegen Chronologie Bauen

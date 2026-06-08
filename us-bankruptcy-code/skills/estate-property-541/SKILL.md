@@ -1,6 +1,6 @@
 ---
 name: estate-property-541
-description: "Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets im US Bankruptcy Code."
 ---
 
 # Property of the Estate § 541

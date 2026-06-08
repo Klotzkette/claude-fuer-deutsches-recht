@@ -1,6 +1,6 @@
 ---
 name: ki-in-abschlusspruefung-kammerantwort-und-verhaeltnismaessigkeit
-description: "Wirtschaftsprüfer: ki in abschlusspruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wirtschaftsprüfer: ki in abschlusspruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: live-shopping-preisangaben-widerruf-impressum
-description: "Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen im Influencer-Recht."
 ---
 
 # Influencer-Recht: Live Shopping – Preisangaben, Widerruf, Impressum

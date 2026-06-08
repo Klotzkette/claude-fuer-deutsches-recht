@@ -1,6 +1,6 @@
 ---
 name: maschinen-ce-konformitaetsakte
-description: "Maschinen/Anlagen: CE, Konformitätserklärung, technische Dokumentation, Risikobeurteilung und Marktüberwachung im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Maschinen/Anlagen: CE, Konformitätserklärung, technische Dokumentation, Risikobeurteilung und Marktüberwachung im Berichtspflichten."
 ---
 
 # Maschinen CE und technische Dokumentation

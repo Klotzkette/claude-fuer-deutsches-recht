@@ -1,6 +1,6 @@
 ---
 name: exakt-50-prozent-gf
-description: "Prüft 50-Prozent-Gesellschafter-Geschäftsführer, Pattsituation, Sperrrechte und echte Blockademacht im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft 50-Prozent-Gesellschafter-Geschäftsführer, Pattsituation, Sperrrechte und echte Blockademacht im Sozialversicherungsstatus Pruefer."
 ---
 
 # Exakt 50 Prozent Geschäftsführer

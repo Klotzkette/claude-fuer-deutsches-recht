@@ -1,6 +1,6 @@
 ---
 name: steuerpruefung-creator-buchhaltung-datev
-description: "Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie im Influencer-Recht."
 ---
 
 # Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator

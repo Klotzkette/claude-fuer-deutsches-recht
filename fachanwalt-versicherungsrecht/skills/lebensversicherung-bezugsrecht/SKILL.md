@@ -1,17 +1,9 @@
 ---
 name: lebensversicherung-bezugsrecht
-description: "Versr Lebensversicherung Bezugsrecht im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebensversicherung, Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober, Rechtsf, Obliegenheitsverletzung in der Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Versr Lebensversicherung Bezugsrecht im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebensversicherung, Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober, Rechtsf, Obliegenheitsverletzung in der Praxis."
 ---
 
 # Versr Lebensversicherung Bezugsrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `versr-lebensversicherung-bezugsrecht-bewertungsreserven` | Lebensversicherung: Bezugsrecht, Erbfall, Scheidung, Sicherungsabtretung, Rückkaufswert, Überschüsse und Bewertungsreserven. |
-| `versr-obliegenheit-28-quotelung-kausalitaet` | Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober Fahrlässigkeit, Rechtsfolgenbelehrung, Kausalitätsgegenbeweis und Quote. |
-| `versr-obliegenheitsverletzung-praxis` | Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht. Folgen Leistungsfreiheit bei Vorsatz, Quotelung bei grober Fahrlaessigkeit, Kausalitaetsgegenbeweis Versicherungsnehmer. Pruefraster Mandant. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Versr Lebensversicherung Bezugsrecht im Plugin Fachanwalt Versiche
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `versr-lebensversicherung-bezugsrecht-bewertungsreserven`
 

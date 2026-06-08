@@ -1,6 +1,6 @@
 ---
 name: dsgvo-art32-schnittstelle
-description: "Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft IT-Sicherheit mit Datenschutz und Art. 32 DSGVO im Nis2 Cybersecurity Compliance."
 ---
 
 # DSGVO Art32 Schnittstelle

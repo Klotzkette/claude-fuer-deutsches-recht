@@ -1,17 +1,9 @@
 ---
 name: bad-umbau-barrierefreie-einladung-bauliche
-description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwaltung: prüft konkret Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026), Aufzug-Nachrüstung und Treppenlift als privilegierte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwaltung: prüft konkret Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026), Aufzug-Nachrüstung und Treppenlift als privilegierte."
 ---
 
 # BAD Umbau Barrierefreie Einladung Bauliche
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft` | Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12. |
-| `barrierefreie-einladung-protokoll-versammlung` | Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs. |
-| `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg` | Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft`
 

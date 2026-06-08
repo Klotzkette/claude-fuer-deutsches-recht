@@ -1,6 +1,6 @@
 ---
 name: ranking-kennzahlen-und-hochschulmarketing
-description: "Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rankings, Kennzahlenmeldungen, Werbeaussagen und Reputationsrisiken im Hochschulrecht Länder."
 ---
 
 # Ranking, Kennzahlen und Hochschulmarketing

@@ -1,6 +1,6 @@
 ---
 name: musterungen-und-eignung
-description: "Erklärt, warum KDV-Antrag Musterung grundsätzlich nicht ersetzt und wie § 13 wirkt im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt, warum KDV-Antrag Musterung grundsätzlich nicht ersetzt und wie § 13 wirkt im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Musterung und Eignung

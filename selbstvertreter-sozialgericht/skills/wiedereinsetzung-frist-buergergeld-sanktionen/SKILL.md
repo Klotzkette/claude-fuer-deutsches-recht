@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-frist-buergergeld-sanktionen
-description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung am Sozialgericht: prüft konkret Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V, Schwerbehindertenausweis und Merkzeichen pruefen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung am Sozialgericht: prüft konkret Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V, Schwerbehindertenausweis und Merkzeichen pruefen."
 ---
 
 # Wiedereinsetzung Frist Buergergeld Sanktionen
@@ -8,16 +8,6 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 ## Arbeitsbereich
 
 **Wiedereinsetzung Frist Buergergeld Sanktionen** ordnet den Fall über die tragenden Prüfungslinien: Wenn Sie eine Frist verpasst haben § 67 SGG, Buergergeld Sanktionen nach § 31a SGB II, Krankenkassen-Krankengeld nach § 44 SGB V. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
-| `buergergeld-sanktionen-31a-sgb-ii` | Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine. |
-| `krankenkassen-krankengeld-44-sgb-v` | Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Pruefraster und Strategie bei Streit. |
-| `schwerbehindertenausweis-merkzeichen-pruefen` | Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Pruefraster. |
-| `widerspruch-ohne-anwalt-einreichen` | Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persönliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt. |
 
 ## Arbeitsweg
 
@@ -27,7 +17,7 @@ description: "Wiedereinsetzung Frist Buergergeld Sanktionen im Selbstvertretung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wiedereinsetzung-frist-67-sgg`
 

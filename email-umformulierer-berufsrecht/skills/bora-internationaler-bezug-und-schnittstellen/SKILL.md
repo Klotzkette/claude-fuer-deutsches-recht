@@ -1,6 +1,6 @@
 ---
 name: bora-internationaler-bezug-und-schnittstellen
-description: "Bora: Internationaler Bezug und Schnittstellen im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bora: Internationaler Bezug und Schnittstellen im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

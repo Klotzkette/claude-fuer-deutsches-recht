@@ -1,6 +1,6 @@
 ---
 name: attorneys-fees-505
-description: "Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Fee-Shifting-Risiko, prevailing party, objective reasonableness und Vergleichsdruck im US-Copyright-Prozess im Us Copyright Registrierung Verlag."
 ---
 
 # Attorney’s Fees § 505

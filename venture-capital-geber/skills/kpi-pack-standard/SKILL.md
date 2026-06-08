@@ -1,6 +1,6 @@
 ---
 name: kpi-pack-standard
-description: "Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # KPI-Pack Standard

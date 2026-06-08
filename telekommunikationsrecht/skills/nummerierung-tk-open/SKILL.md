@@ -1,6 +1,6 @@
 ---
 name: nummerierung-tk-open
-description: "Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 0800/0900, M2M und Nummernportierung im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 0800/0900, M2M und Nummernportierung im Telekommunikationsrecht."
 ---
 
 # Nummerierung und Rufnummernzuteilung

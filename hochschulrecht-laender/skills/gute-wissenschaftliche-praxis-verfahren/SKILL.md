@@ -1,6 +1,6 @@
 ---
 name: gute-wissenschaftliche-praxis-verfahren
-description: "Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fairness im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft GWP-Verfahren, Ombudsperson, Kommission, Sanktionen und Fairness im Hochschulrecht Länder."
 ---
 
 # Gute wissenschaftliche Praxis Verfahren

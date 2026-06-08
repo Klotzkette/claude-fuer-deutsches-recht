@@ -1,6 +1,6 @@
 ---
 name: change-request-matrix-global-computerprogramm
-description: "Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance im Softwarerecht De Eu Us."
 ---
 
 # Change Requests und Scope Creep

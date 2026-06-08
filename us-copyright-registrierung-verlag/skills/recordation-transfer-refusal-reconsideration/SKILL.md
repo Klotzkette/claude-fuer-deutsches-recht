@@ -1,6 +1,6 @@
 ---
 name: recordation-transfer-refusal-reconsideration
-description: "Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen im Us Copyright Registrierung Verlag."
 ---
 
 # Recordation von Transfers und Sicherheiten

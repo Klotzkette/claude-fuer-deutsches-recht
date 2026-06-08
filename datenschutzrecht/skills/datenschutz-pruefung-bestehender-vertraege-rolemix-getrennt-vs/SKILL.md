@@ -1,19 +1,9 @@
 ---
 name: datenschutz-pruefung-bestehender-vertraege-rolemix-getrennt-vs
-description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im Datenschutzrecht: prüft konkret Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art, Datenpanne nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im Datenschutzrecht: prüft konkret Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art, Datenpanne nach Art."
 ---
 
 # Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `avv-pruefung-bestehender-vertraege-audit` | Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan. |
-| `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich` | Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung. |
-| `avv-tom-art-32-dsgvo-anlage` | TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch. |
-| `datenpanne-meldung` | Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenenbenachrichtigung Dokumentation. Output: Meldeschreiben an Aufsichtsbehoerde Betroffenenbenachrichtigung Dokumentationsprotokoll. Abgrenzung: nicht für praeventive Massnahmen (dsfa-erstellung). |
-| `datenschutz-auskunftei-restschuldbefreiung-art17` | Art. 17 DSGVO im Auskunfteifall: Interessenabwägung, öffentliche Registerfrist, Einschränkung, Widerspruch und gerichtliche Durchsetzung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `avv-pruefung-bestehender-vertraege-audit`
 

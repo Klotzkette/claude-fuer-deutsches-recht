@@ -1,6 +1,6 @@
 ---
 name: khub-sonderfall-und-edge-case
-description: "Khub: Sonderfall und Edge-Case-Prüfung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Khub: Sonderfall und Edge-Case-Prüfung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Khub: Sonderfall und Edge-Case-Prüfung

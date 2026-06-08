@@ -1,6 +1,6 @@
 ---
 name: drittmittel-und-industriekooperation
-description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im Hochschulrecht Länder."
 ---
 
 # Drittmittel Und Industriekooperation

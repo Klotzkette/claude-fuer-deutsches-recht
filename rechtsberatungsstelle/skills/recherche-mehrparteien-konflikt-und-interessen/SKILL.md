@@ -1,6 +1,6 @@
 ---
 name: recherche-mehrparteien-konflikt-und-interessen
-description: "Recherche: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recherche: Mehrparteienkonflikt und Interessenmatrix im Rechtsberatungsstelle."
 ---
 
 # Recherche: Mehrparteienkonflikt und Interessenmatrix

@@ -1,19 +1,9 @@
 ---
 name: krankenkassen-zahnersatz-ladung-termin
-description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozialgericht: prüft konkret Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs, Strategie mit medizinischen Gutachten im SG-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozialgericht: prüft konkret Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs, Strategie mit medizinischen Gutachten im SG-Verfahren."
 ---
 
 # Krankenkassen Zahnersatz Ladung Termin
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `krankenkassen-zahnersatz-55-sgb-v` | Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine. |
-| `ladung-termin-sozialgericht-vorbereitung` | Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt. |
-| `leistungsklage-54-sgg` | Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behörde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger. |
-| `medizinische-gutachten-strategie-laien` | Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft Gutachten Welche Fragen welcher Arzt. Vorbereitung Untersuchung und Reaktion auf Gutachten. |
-| `mitwirkungspflicht-60-bis-67-sgb-i` | Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `krankenkassen-zahnersatz-55-sgb-v`
 

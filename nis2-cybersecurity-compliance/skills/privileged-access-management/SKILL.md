@@ -1,6 +1,6 @@
 ---
 name: privileged-access-management
-description: "Prüft privilegierte Zugänge, Admin-Sessions und Break-glass im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft privilegierte Zugänge, Admin-Sessions und Break-glass im Nis2 Cybersecurity Compliance."
 ---
 
 # Privileged Access Management

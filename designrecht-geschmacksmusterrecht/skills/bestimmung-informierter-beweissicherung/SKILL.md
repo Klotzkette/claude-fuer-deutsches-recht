@@ -1,6 +1,6 @@
 ---
 name: bestimmung-informierter-beweissicherung
-description: "Informierten Benutzer und Gestaltungsfreiheit bestimmen: Produktsektor, Kenntnisstand, Entwerferfreiheit, Musterdichte und Bedeutung kleiner Unterschiede im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Informierten Benutzer und Gestaltungsfreiheit bestimmen: Produktsektor, Kenntnisstand, Entwerferfreiheit, Musterdichte und Bedeutung kleiner Unterschiede im Designrecht Geschmacksmusterrecht."
 ---
 
 # Bestimmung Informierter Benutzer

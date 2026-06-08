@@ -1,19 +1,9 @@
 ---
 name: mutterrente-kindererziehung-nichtigkeit
-description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Sozialgericht: prüft konkret Mutterrente und Kindererziehungszeiten nach § 56 SGB VI, Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach, Nichtzulassungsbeschwerde zum BSG nach § 160a SGG, Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Sozialgericht: prüft konkret Mutterrente und Kindererziehungszeiten nach § 56 SGB VI, Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach, Nichtzulassungsbeschwerde zum BSG nach § 160a SGG, Einstieg für Bürger ohne Anwalt vor dem Sozialgericht."
 ---
 
 # Mutterrente Kindererziehung Nichtigkeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `mutterrente-und-kindererziehung-56-sgb-vi` | Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster. |
-| `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x` | Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung für Vollziehung und Vollstreckung. Liefert Pruefraster. |
-| `nichtzulassungsbeschwerde-bsg-160a-sgg` | Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Wenn LSG Revision nicht zugelassen hat. Grundsatzbedeutung Divergenz Verfahrensmangel mit Anwalt. |
-| `orientierung-selbstvertreter-sozialgericht` | Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG. |
-| `persönliches-budget-29-sgb-ix` | Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `mutterrente-und-kindererziehung-56-sgb-vi`
 

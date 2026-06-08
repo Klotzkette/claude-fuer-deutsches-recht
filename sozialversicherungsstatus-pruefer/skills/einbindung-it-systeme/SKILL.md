@@ -1,6 +1,6 @@
 ---
 name: einbindung-it-systeme
-description: "Prüft E-Mail, Jira, Teams, ERP, Klinik-/Schulsoftware, Zeiterfassung und Adminrechte als Eingliederungsindizien im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft E-Mail, Jira, Teams, ERP, Klinik-/Schulsoftware, Zeiterfassung und Adminrechte als Eingliederungsindizien im Sozialversicherungsstatus Pruefer."
 ---
 
 # Einbindung in IT-Systeme

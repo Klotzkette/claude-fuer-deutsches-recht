@@ -1,6 +1,6 @@
 ---
 name: versicherungsprodukt-agb-betriebshaftpflicht
-description: "AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und VVG-Leitbild prüfen im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und VVG-Leitbild prüfen im Versicherungsrecht."
 ---
 
 # Versicherungsbedingungen als AGB prüfen

@@ -1,6 +1,6 @@
 ---
 name: kundenupdate
-description: "Solo-Selbstständige: schreibt Statusmail mit nächstem Schritt und offener Mitwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: schreibt Statusmail mit nächstem Schritt und offener Mitwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Dokumente und Kommunikation: Schreibt statusmail mit nächstem schritt und offener mitwirkung

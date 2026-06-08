@@ -1,19 +1,9 @@
 ---
 name: adhaesionsverfahren-ermittlungsverfahren
-description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft konkret Red-Team Qualitygate im Plugin fachanwalt-strafrecht, Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten, Ermittlungsverfahren, Orientierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft konkret Red-Team Qualitygate im Plugin fachanwalt-strafrecht, Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten, Ermittlungsverfahren, Orientierung."
 ---
 
 # Adhaesionsverfahren Ermittlungsverfahren
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `fachanwalt-strafrecht-adhaesionsverfahren` | Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO Adhaesionsverfahren, § 823 BGB Schadensersatz, § 253 BGB Schmerzensgeld. Prüfraster Zulässigkeit im Strafverfahren, Antragsschrift-Anforderungen, Beweisangebot, taktische Abwaegung Adhaesion vs. separater Zivilprozess. Output Adhaesionsantrag mit Schadensaufstellung und taktischer Einordnung. Abgrenzung zu Taeter-Opfer-Ausgleich § 46a StGB und zu Verständigung § 257c StPO. |
-| `spezial-ermittlungsverfahren-vergleich-eskalation` | Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-orientierung-fristen-form-und-zuständigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `strafprozess-aktenlog-fristen-und-wiedervorlagen` | Aktenlog, Fristenbuch und Wiedervorlagen im Strafverfahren: erstellt aus Eingangspost, beA, EGVP, Verfügung, Ladung, Beschluss, Strafbefehl, Urteil und Aktennachlieferung eine robuste Fristen- und Aufgabensteuerung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Adhaesionsverfahren Ermittlungsverfahren im Strafrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-redteam-qualitygate`
 
@@ -332,7 +322,7 @@ des Strafprozesses sprengt.
 
 ## 3. `spezial-ermittlungsverfahren-vergleich-eskalation`
 
-**Fokus:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht.
 
 ### Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 
@@ -357,7 +347,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-orientierung-fristen-form-und-zuständigkeit`
 
-**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt strafrecht.
 
 ### Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 

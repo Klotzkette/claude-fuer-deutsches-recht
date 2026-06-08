@@ -1,19 +1,9 @@
 ---
 name: verfolgungsgrund-gfk-visum-national
-description: "Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft konkret GFK-Verfolgungsgrund, Nationales Visum D, Vulnerable Personen Asyl, Woche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft konkret GFK-Verfolgungsgrund, Nationales Visum D, Vulnerable Personen Asyl, Woche."
 ---
 
 # Verfolgungsgrund GFK Visum National
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-verfolgungsgrund-gfk` | GFK-Verfolgungsgrund: Fachmodul im Migrationsrecht; prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-visum-national-d` | Nationales Visum D: Fachmodul im Migrationsrecht; prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-vulnerable-personen-asyl` | Vulnerable Personen Asyl: Fachmodul im Migrationsrecht; prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-woche-mehrparteien-konflikt-und-interessen` | Woche: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-wohnsitzauflage` | Wohnsitzauflage: Fachmodul im Migrationsrecht; prüft Verpflichtung, Änderung, Familie, Arbeit, Integration; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-verfolgungsgrund-gfk`
 
@@ -108,7 +98,7 @@ description: "Verfolgungsgrund GFK Visum National im Migrationsrecht: prüft kon
 
 ## 4. `spezial-woche-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Woche: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Woche: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt migrationsrecht.
 
 ### Woche: Mehrparteienkonflikt und Interessenmatrix
 

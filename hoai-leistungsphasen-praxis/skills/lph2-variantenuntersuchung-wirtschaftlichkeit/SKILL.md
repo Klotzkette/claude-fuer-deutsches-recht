@@ -1,6 +1,6 @@
 ---
 name: lph2-variantenuntersuchung-wirtschaftlichkeit
-description: "HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsvergleich, Kostenschätzung, Bedarfsplanung, Förderfähigkeit und Entscheidungsvorlage für Bauherrn oder öffentlichen Auftraggeber prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage LPH 2: Variantenuntersuchung, Wirtschaftlichkeitsvergleich, Kostenschätzung, Bedarfsplanung, Förderfähigkeit und Entscheidungsvorlage für Bauherrn oder öffentlichen Auftraggeber prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 2 Variantenuntersuchung Und Wirtschaftlichkeit

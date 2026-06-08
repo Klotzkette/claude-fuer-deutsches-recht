@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-schriftsatz-brief-und-memo-bausteine
-description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin tabellenreview 3d; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Tabellenreview 3d. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin tabellenreview 3d im Tabellenreview 3d."
 ---
 
 # Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine

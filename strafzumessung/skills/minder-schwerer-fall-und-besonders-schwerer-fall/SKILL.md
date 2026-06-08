@@ -1,6 +1,6 @@
 ---
 name: minder-schwerer-fall-und-besonders-schwerer-fall
-description: "Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug im Strafzumessung."
 ---
 
 # Minder schwerer Fall und besonders schwerer Fall

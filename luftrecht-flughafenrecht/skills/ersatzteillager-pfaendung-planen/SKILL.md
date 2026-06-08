@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-pfaendung-planen
-description: "Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaenden. Prueft ZPO § 808 Mobiliarpfaendung Cape-Town-Motorenerfassung LuftFzgG Zubehoerpfandrecht und Insolvenz-Freigabe und liefert Pfaendungsplan für Teile-Vollstreckung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaenden. Prueft ZPO § 808 Mobiliarpfaendung Cape-Town-Motorenerfassung LuftFzgG Zubehoerpfandrecht und Insolvenz-Freigabe und liefert Pfaendungsplan für Teile-Vollstreckung im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Pfändung planen

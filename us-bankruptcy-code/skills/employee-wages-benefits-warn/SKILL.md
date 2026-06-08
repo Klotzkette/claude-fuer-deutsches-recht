@@ -1,6 +1,6 @@
 ---
 name: employee-wages-benefits-warn
-description: "Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues im US Bankruptcy Code."
 ---
 
 # Employees Wages Benefits and WARN

@@ -1,6 +1,6 @@
 ---
 name: data-room-index-vc
-description: "Baut Datenraum-Index für Startup-DD: Corporate, Cap Table, IP, Tech, HR, Finance, Contracts, Regulatory, Litigation im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Datenraum-Index für Startup-DD: Corporate, Cap Table, IP, Tech, HR, Finance, Contracts, Regulatory, Litigation im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Datenraum-Index VC

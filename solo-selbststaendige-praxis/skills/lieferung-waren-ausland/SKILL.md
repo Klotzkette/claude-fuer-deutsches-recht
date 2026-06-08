@@ -1,6 +1,6 @@
 ---
 name: lieferung-waren-ausland
-description: "Solo-Selbstständige: prüft Zoll, Incoterms, Versandrisiko und Rücksendung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Zoll, Incoterms, Versandrisiko und Rücksendung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Internationales und Auslandskunden: Prüft zoll

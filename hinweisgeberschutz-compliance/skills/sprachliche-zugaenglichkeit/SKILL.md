@@ -1,6 +1,6 @@
 ---
 name: sprachliche-zugaenglichkeit
-description: "Gestaltet Meldesystem sprachlich verständlich im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Meldesystem sprachlich verständlich im Hinweisgeberschutz Compliance."
 ---
 
 # Sprachliche Zugaenglichkeit

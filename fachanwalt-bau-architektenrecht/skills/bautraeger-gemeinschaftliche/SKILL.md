@@ -1,18 +1,9 @@
 ---
 name: bautraeger-gemeinschaftliche
-description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Gemeinschaftliche Maengelverfolgung in der WEG, Aufflassung nach § 925 BGB beim Bautraegervertrag, Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag, Bautraeger-Insolvenz Konsequenzen für den Erwerber. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Gemeinschaftliche Maengelverfolgung in der WEG, Aufflassung nach § 925 BGB beim Bautraegervertrag, Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag, Bautraeger-Insolvenz Konsequenzen für den Erwerber."
 ---
 
 # Bautraeger Gemeinschaftliche
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-gemeinschaftliche-maengelverfolgung-weg` | Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster. |
-| `bautraeger-grundbuchaufflassung-925-bgb` | Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster. |
-| `bautraeger-grundbuchgebuehren-rangwahrung` | Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster. |
-| `bautraeger-insolvenz-konsequenzen-erwerber` | Bautraeger-Insolvenz Konsequenzen für den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Gemeinschaftliche im Plugin Fachanwalt Bau Architektenr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-gemeinschaftliche-maengelverfolgung-weg`
 

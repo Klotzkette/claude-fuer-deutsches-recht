@@ -1,6 +1,6 @@
 ---
 name: trade-secret-misappropriation-code
-description: "Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Entwendung von Source Code, Architektur, Roadmap, Kundendaten und Secrets durch Mitarbeiter, Contractor oder Wettbewerber im Softwarerecht De Eu Us."
 ---
 
 # Trade Secret Misappropriation Code

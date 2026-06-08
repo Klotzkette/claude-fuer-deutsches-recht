@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-messstellenbetrieb-msbg-smart-meter-ste
-description: "Messstellenbetrieb MsbG Smart Meter: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Messstellenbetrieb MsbG Smart Meter: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Stellungnahme-Entwurf

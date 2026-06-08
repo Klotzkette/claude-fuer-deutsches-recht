@@ -1,6 +1,6 @@
 ---
 name: schuldschein-transfer
-description: "Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik im Private Equity Praxis."
 ---
 
 # Übertragung von Schuldscheindarlehen

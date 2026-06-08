@@ -1,19 +1,9 @@
 ---
 name: familiennachzug-start-fiktionswirkung-first
-description: "Familiennachzug Start Fiktionswirkung First im Migrationsrecht: prüft konkret Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration, Fristen- und Risikoampel im Plugin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Familiennachzug Start Fiktionswirkung First im Migrationsrecht: prüft konkret Familiennachzug Start, Fiktionswirkung, First-Year-Associate-Coach Migration, Fristen- und Risikoampel im Plugin."
 ---
 
 # Familiennachzug Start Fiktionswirkung First
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-familiennachzug-start` | Familiennachzug Start: Prüfungslinie für Migrationsrecht; sortiert Ehe, Kinder, Eltern, Lebensunterhalt, Wohnraum, A1 und Urkunden; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-fiktionswirkung` | Fiktionswirkung: Prüfungslinie für Migrationsrecht; prüft Antragstellung, Fortgeltung, Bescheinigung, Reise- und Arbeitsrisiken; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-first-year-associate-migration` | First-Year-Associate-Coach Migration: Prüfungslinie für Migrationsrecht; führt neue Anwältinnen durch Status, Fristen, Normen, Beweise und Schriftsatzlogik; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-migrationsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-fristenrettung-asyl-aufenthalt` | Fristenrettung Asyl/Aufenthalt: Prüfungslinie für Migrationsrecht; priorisiert Klage, Eilantrag, Dublin, Fiktion, Ablauf Titel und Abschiebung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Familiennachzug Start Fiktionswirkung First im Migrationsrecht: pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-familiennachzug-start`
 

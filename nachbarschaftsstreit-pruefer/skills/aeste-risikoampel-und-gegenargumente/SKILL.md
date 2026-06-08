@@ -1,6 +1,6 @@
 ---
 name: aeste-risikoampel-und-gegenargumente
-description: "Aeste: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin nachbarschaftsstreit pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Nachbarschaftsstreit Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aeste: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
 ---
 
 # Aeste: Risikoampel, Gegenargumente und Verteidigungslinien

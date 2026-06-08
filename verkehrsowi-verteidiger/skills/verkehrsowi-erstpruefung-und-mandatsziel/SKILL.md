@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-erstpruefung-und-mandatsziel
-description: "Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
 ---
 
 # Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel

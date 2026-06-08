@@ -1,6 +1,6 @@
 ---
 name: treuhandkonto-versteigerung
-description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Treuhandkonto: Behörden-, Gerichts- oder Registerweg

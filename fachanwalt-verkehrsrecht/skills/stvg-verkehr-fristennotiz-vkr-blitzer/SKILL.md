@@ -1,17 +1,9 @@
 ---
 name: stvg-verkehr-fristennotiz-vkr-blitzer
-description: "Stvg Verkehr Fristennotiz VKR Blitzer im Plugin Fachanwalt Verkehrsrecht: prüft konkret Stvg, Verkehr, Spezialfall Blitzer- und Messverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Stvg Verkehr Fristennotiz VKR Blitzer im Plugin Fachanwalt Verkehrsrecht: prüft konkret Stvg, Verkehr, Spezialfall Blitzer- und Messverfahren."
 ---
 
 # Stvg Verkehr Fristennotiz VKR Blitzer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-stvg-fristen-form-und-zuständigkeit` | Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-verkehr-fristennotiz-und-naechster-schritt` | Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `vkr-blitzer-messverfahren-spezial` | Spezialfall Blitzer- und Messverfahren: standardisiertes Messverfahren, Rohmessdaten-Recht des Verteidigers (BVerfG 2 BvR 1167/20), Verwertbarkeit, Beweisantrag Sachverstaendigengutachten. Pruefraster und Schriftsatzbausteine. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Stvg Verkehr Fristennotiz VKR Blitzer im Plugin Fachanwalt Verkehr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-stvg-fristen-form-und-zuständigkeit`
 
-**Fokus:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht.
 
 ### Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verkehr-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht.
 
 ### Verkehr: Fristennotiz und nächster Schritt
 

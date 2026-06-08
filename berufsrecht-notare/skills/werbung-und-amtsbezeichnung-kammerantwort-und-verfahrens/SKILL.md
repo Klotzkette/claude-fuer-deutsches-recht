@@ -1,6 +1,6 @@
 ---
 name: werbung-und-amtsbezeichnung-kammerantwort-und-verfahrens
-description: "Notare: werbung und amtsbezeichnung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: werbung und amtsbezeichnung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: werbung und amtsbezeichnung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

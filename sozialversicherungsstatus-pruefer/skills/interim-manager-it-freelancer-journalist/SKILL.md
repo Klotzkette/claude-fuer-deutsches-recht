@@ -1,6 +1,6 @@
 ---
 name: interim-manager-it-freelancer-journalist
-description: "Prüft Interim-Manager, CRO, Projektleiter und operative Leitungsrollen auf Beschäftigung oder Selbständigkeit im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Interim-Manager, CRO, Projektleiter und operative Leitungsrollen auf Beschäftigung oder Selbständigkeit im Sozialversicherungsstatus Pruefer."
 ---
 
 # Interim Manager

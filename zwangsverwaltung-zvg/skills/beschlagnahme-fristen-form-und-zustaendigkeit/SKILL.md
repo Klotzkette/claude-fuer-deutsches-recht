@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-fristen-form-und-zustaendigkeit
-description: "Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg

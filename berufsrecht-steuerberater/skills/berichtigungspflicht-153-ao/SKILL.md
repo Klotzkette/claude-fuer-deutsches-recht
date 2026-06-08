@@ -1,6 +1,6 @@
 ---
 name: berichtigungspflicht-153-ao
-description: "Steuerberater: berichtigungspflicht 153 ao - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: berichtigungspflicht 153 ao - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: berichtigungspflicht 153 ao - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

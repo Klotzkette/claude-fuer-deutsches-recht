@@ -1,6 +1,6 @@
 ---
 name: aufsicht-bundeswahlleiter-befangenheit
-description: "Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen im Parteienrecht."
 ---
 
 # Bundeswahlleiter-Kommunikation

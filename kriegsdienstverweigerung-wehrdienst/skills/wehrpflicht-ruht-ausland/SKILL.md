@@ -1,6 +1,6 @@
 ---
 name: wehrpflicht-ruht-ausland
-description: "Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Ausland im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Ausland im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Ruhen der Wehrpflicht Ausland

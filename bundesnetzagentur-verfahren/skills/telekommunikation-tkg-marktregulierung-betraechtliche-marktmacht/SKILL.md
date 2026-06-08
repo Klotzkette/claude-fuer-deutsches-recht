@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-tkg-marktregulierung-betraechtliche-marktmacht
-description: "Telekommunikation / TKG Marktregulierung beträchtliche Marktmacht: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Telekommunikation / TKG Marktregulierung beträchtliche Marktmacht: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln im BNetzA-Verfahren."
 ---
 
 # Telekommunikation: TKG Marktregulierung beträchtliche Marktmacht

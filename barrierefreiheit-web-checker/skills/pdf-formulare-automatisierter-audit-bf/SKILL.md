@@ -1,6 +1,6 @@
 ---
 name: pdf-formulare-automatisierter-audit-bf
-description: "PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie für Bestands-PDFs im Barrierefreiheit Web Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie für Bestands-PDFs im Barrierefreiheit Web Checker."
 ---
 
 # PDF und Formulare barrierefrei

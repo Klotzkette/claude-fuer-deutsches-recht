@@ -1,6 +1,6 @@
 ---
 name: sanierung-vorhandener-vertraege
-description: "Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Pruefer."
 ---
 
 # Sanierung vorhandener Verträge

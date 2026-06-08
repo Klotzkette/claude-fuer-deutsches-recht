@@ -1,6 +1,6 @@
 ---
 name: gelb-formular-portal-und-einreichung
-description: "Gelb: Formular, Portal und Einreichungslogik im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gelb: Formular, Portal und Einreichungslogik im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Gelb: Formular, Portal und Einreichungslogik

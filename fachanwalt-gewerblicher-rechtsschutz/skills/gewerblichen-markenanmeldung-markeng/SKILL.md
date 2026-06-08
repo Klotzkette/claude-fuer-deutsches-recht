@@ -1,17 +1,9 @@
 ---
 name: gewerblichen-markenanmeldung-markeng
-description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz, Markenanmeldung, MarkenG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz, Markenanmeldung, MarkenG."
 ---
 
 # Gewerblichen Markenanmeldung Markeng
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-gewerblichen-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf. |
-| `spezial-markenanmeldung-compliance-dokumentation-und-akte` | Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation. |
-| `spezial-markeng-risikoampel-und-gegenargumente` | MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerbli
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-gewerblichen-tatbestand-beweis-und-belege`
 

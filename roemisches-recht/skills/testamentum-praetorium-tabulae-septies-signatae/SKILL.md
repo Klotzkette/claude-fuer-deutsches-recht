@@ -1,6 +1,6 @@
 ---
 name: testamentum-praetorium-tabulae-septies-signatae
-description: "Testamentum praetorium: praetorische Form des Tabula-Testaments mit 7 Siegelzeugen. Skill behandelt die Voraussetzungen die Verbesserung gegenueber dem Mancipationstestament und die Folgen für die bonorum possessio secundum tabulas. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Testamentum praetorium: praetorische Form des Tabula-Testaments mit 7 Siegelzeugen. Skill behandelt die Voraussetzungen die Verbesserung gegenueber dem Mancipationstestament und die Folgen für die bonorum possessio secundum tabulas. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 144 Testamentum Praetorium Tabulae Septies Signatae

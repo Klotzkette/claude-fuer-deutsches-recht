@@ -1,6 +1,6 @@
 ---
 name: mangel-am-leasingobjekt-rechte-gegen-lieferant
-description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast im Leasingrecht."
 ---
 
 # Mangel am Leasingobjekt: Rechte gegen den Lieferanten

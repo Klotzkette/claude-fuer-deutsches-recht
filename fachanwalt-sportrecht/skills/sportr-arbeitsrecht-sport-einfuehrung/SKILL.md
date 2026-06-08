@@ -1,17 +1,9 @@
 ---
 name: sportr-arbeitsrecht-sport-einfuehrung
-description: "Sportr Arbeitsrecht Sport Einfuehrung im Sportrecht: prüft konkret Leitfaden Arbeitsrecht im Sport, Sportrecht einfuehrend, Spezialfall Spielerberater-Rechtsverhaeltnis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sportr Arbeitsrecht Sport Einfuehrung im Sportrecht: prüft konkret Leitfaden Arbeitsrecht im Sport, Sportrecht einfuehrend, Spezialfall Spielerberater-Rechtsverhaeltnis."
 ---
 
 # Sportr Arbeitsrecht Sport Einfuehrung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `sportr-arbeitsrecht-im-sport-leitfaden` | Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge. Schnittstelle zu Verbandsrecht. |
-| `sportr-einfuehrung-rechtsfelder` | Sportrecht einfuehrend: Sportverbandsrecht, Verbandsstrafrecht, Anti-Doping, Sportarbeitsvertraege (Profisport), Sponsoring, Vermarktung, Persoenlichkeitsrecht Athlet, Fan-Rechte. Entscheidungstabelle. |
-| `sportr-spielerberater-rechtsverhaeltnis-spezial` | Spezialfall Spielerberater-Rechtsverhaeltnis: FIFA-Reglement RWFC 2023, DFB-Reglement, Klauseln Exclusive Mandate, Commission Cap, Anti-Tampering. Pruefraster für Vertrag und Beispielklauseln. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Sportr Arbeitsrecht Sport Einfuehrung im Sportrecht: prüft konkre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `sportr-arbeitsrecht-im-sport-leitfaden`
 

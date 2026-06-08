@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-wrackpflicht-versicherung
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk im Seerecht Schifffahrtsrecht."
 ---
 
 # Schiffbauwerk – Wrackbeseitigungspflicht prüfen

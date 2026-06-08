@@ -1,19 +1,9 @@
 ---
 name: famr-mandantenaufnahme-regenbogenfamilien
-description: "Famr Mandantenaufnahme Regenbogenfamilien im Plugin Fachanwalt Familienrecht: prüft konkret Mandantenaufnahme im Familienrecht, Spezialfall Regenbogenfamilien, Spezialfall Versorgungsausgleich, Fehlerhafte Auskunft Versorgungsträger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Famr Mandantenaufnahme Regenbogenfamilien im Plugin Fachanwalt Familienrecht: prüft konkret Mandantenaufnahme im Familienrecht, Spezialfall Regenbogenfamilien, Spezialfall Versorgungsausgleich, Fehlerhafte Auskunft Versorgungsträger."
 ---
 
 # Famr Mandantenaufnahme Regenbogenfamilien
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `famr-mandantenaufnahme-spezial` | Mandantenaufnahme im Familienrecht: emotionale Lage, Eilbedarf (Gewaltschutz, Kindeswohlgefaehrdung, Wegnahme Kind), Vertraulichkeit Familienangehoerige, Verfahrenskostenhilfe. Strukturiertes Erstgespraechs-Protokoll und Mustertext Mandatsbestaetigung. |
-| `famr-regenbogenfamilien-recht-spezial` | Spezialfall Regenbogenfamilien: rechtliche Elternschaft nach BGH, Stiefkindadoption, Co-Mutter-Anerkennung, Reform des Abstammungsrechts (Entwurf 2024 ff.), Sorgerecht bei Trennung. Pruefraster und aktueller Rechtsprechungsstand. |
-| `famr-versorgungsausgleich-spezial` | Spezialfall Versorgungsausgleich: VersAusglG, Anrechte Berechnung pro Versorgungstraeger, externe Teilung, interne Teilung, Anpassung wegen Unterhaltszahlung. Pruefraster und Beispielsfall. Schnittstelle Rentenversicherung. |
-| `fehlerhafte-auskunft-versorgungstraeger` | Fehlerhafte Auskunft Versorgungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `fragebogen-versorgungsausgleich-ausfuellen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Famr Mandantenaufnahme Regenbogenfamilien im Plugin Fachanwalt Fam
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `famr-mandantenaufnahme-spezial`
 

@@ -1,6 +1,6 @@
 ---
 name: us-export-control-encryption-ear
-description: "Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports im Softwarerecht De Eu Us."
 ---
 
 # US Export Control Encryption EAR

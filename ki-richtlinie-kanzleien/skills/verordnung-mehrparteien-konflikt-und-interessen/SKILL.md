@@ -1,6 +1,6 @@
 ---
 name: verordnung-mehrparteien-konflikt-und-interessen
-description: "Verordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
 ---
 
 # Verordnung: Mehrparteienkonflikt und Interessenmatrix

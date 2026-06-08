@@ -1,6 +1,6 @@
 ---
 name: policy-rollout-change-kommunikation
-description: "Berliner Start-up-HR: Policy-Rollout und Change-Kommunikation: Warum, ab wann, was ändert sich, Fragenkanal, Betriebsrat und Nachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Policy-Rollout und Change-Kommunikation: Warum, ab wann, was ändert sich, Fragenkanal, Betriebsrat und Nachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Policy Rollout Change Kommunikation

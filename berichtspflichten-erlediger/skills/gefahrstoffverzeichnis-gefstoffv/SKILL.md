@@ -1,6 +1,6 @@
 ---
 name: gefahrstoffverzeichnis-gefstoffv
-description: "Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gefahrstoffverzeichnis, Betriebsanweisungen, Unterweisung, Sicherheitsdatenblätter und behördliche Nachweise im Berichtspflichten."
 ---
 
 # Gefahrstoffverzeichnis und Arbeitsschutz

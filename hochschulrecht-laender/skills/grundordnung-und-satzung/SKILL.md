@@ -1,6 +1,6 @@
 ---
 name: grundordnung-und-satzung
-description: "Prüft Grundordnung, Satzungskompetenz und Bekanntmachung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Grundordnung, Satzungskompetenz und Bekanntmachung im Hochschulrecht Länder."
 ---
 
 # Grundordnung Und Satzung

@@ -1,6 +1,6 @@
 ---
 name: lph-01-schnittstelle-vob-bgb
-description: "HOAI LPH 1 Grundlagenermittlung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 1 Grundlagenermittlung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 1 Grundlagenermittlung: Prüft vob/b

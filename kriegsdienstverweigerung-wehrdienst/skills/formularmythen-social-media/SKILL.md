@@ -1,6 +1,6 @@
 ---
 name: formularmythen-social-media
-description: "Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlarvt falsche Tipps zu Adresse, Mustern, Fristen und angeblichen Automatismen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Social-Media-Mythen

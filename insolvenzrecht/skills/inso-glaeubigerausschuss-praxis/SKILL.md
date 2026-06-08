@@ -1,6 +1,6 @@
 ---
 name: inso-glaeubigerausschuss-praxis
-description: "Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorläufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster für Glaeubiger-Mitglied und mustertexte für Anhörung im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorläufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster für Glaeubiger-Mitglied und mustertexte für Anhörung im Insolvenzrecht."
 ---
 
 # InsO: Glaeubigerausschuss

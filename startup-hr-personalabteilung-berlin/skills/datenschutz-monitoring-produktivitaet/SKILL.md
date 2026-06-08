@@ -1,6 +1,6 @@
 ---
 name: datenschutz-monitoring-produktivitaet
-description: "Berliner Start-up-HR: Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Datenschutz Monitoring Produktivitaet

@@ -1,6 +1,6 @@
 ---
 name: eskalation-sonderfall-und-edge-case
-description: "Eskalation: Sonderfall und Edge-Case-Prüfung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eskalation: Sonderfall und Edge-Case-Prüfung im Fortbestehensprognose."
 ---
 
 # Eskalation: Sonderfall und Edge-Case-Prüfung

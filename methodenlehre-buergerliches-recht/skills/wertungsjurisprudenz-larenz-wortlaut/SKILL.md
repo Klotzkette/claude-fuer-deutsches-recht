@@ -1,16 +1,9 @@
 ---
 name: wertungsjurisprudenz-larenz-wortlaut
-description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buergerliches Recht: prüft konkret Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buergerliches Recht: prüft konkret Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht."
 ---
 
 # Wertungsjurisprudenz Larenz Wortlaut
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wertungsjurisprudenz-larenz-canaris` | Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertungen statt subjektiver Interessen. Rueckbindung an Grundrechte und Rechtssystem. Methodisches Pruefraster und Anwendung im BGB. |
-| `wortlaut-grammatikalische-auslegung` | Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster für den Wortlaut-Schritt jeder Auslegung. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wertungsjurisprudenz-larenz-canaris`
 

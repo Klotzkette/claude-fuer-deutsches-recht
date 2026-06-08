@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenquote-ausgleichsabgabe
-description: "Berliner Start-up-HR: Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Schwerbehindertenquote Ausgleichsabgabe

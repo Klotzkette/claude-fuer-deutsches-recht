@@ -1,6 +1,6 @@
 ---
 name: datenschutz-gewissensakte-dienststelle
-description: "Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Datenschutz Gewissensakte

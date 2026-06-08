@@ -1,6 +1,6 @@
 ---
 name: einigungsvertrag-treuhandprivatisierung
-description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Treuhandprivatisierung Akte Anfordern

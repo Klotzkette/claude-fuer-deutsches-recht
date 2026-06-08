@@ -1,6 +1,6 @@
 ---
 name: banking-behoerden-gericht-und-registerweg
-description: "Banking: Behörden-, Gerichts- oder Registerweg im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Banking: Behörden-, Gerichts- oder Registerweg im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Banking: Behörden-, Gerichts- oder Registerweg

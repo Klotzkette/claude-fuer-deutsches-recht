@@ -1,6 +1,6 @@
 ---
 name: rechtshistorische-timeline
-description: "Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. Methodik zur Erstellung einer chronologischen Darstellung mit Quellenangaben für ein konkretes rechtshistorisches Problem im Deutsche Rechtsgeschichte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. Methodik zur Erstellung einer chronologischen Darstellung mit Quellenangaben für ein konkretes rechtshistorisches Problem im Deutsche Rechtsgeschichte."
 ---
 
 # Rechtshistorische Timeline

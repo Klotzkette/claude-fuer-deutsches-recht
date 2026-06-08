@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-berlin
-description: "Prüft Hochschulrecht in Berlin mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulrecht in Berlin mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie im Hochschulrecht Länder."
 ---
 
 # Hochschulgesetz Berlin

@@ -1,6 +1,6 @@
 ---
 name: familienzuschlag-kinder-und-rueckforderung
-description: "Familienzuschlag, Kinderanteile, Konkurrenzen, Teilzeit, Trennung, Rückforderung und Mitteilungspflichten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Familienzuschlag, Kinderanteile, Konkurrenzen, Teilzeit, Trennung, Rückforderung und Mitteilungspflichten im Beamtenrecht."
 ---
 
 # Familienzuschlag Kinder Und Rueckforderung

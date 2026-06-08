@@ -1,6 +1,6 @@
 ---
 name: graduiertenschule-zulassung
-description: "Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz im Hochschulrecht Länder."
 ---
 
 # Graduiertenschule Zulassung

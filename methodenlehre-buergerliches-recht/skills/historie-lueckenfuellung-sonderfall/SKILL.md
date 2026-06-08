@@ -1,19 +1,9 @@
 ---
 name: historie-lueckenfuellung-sonderfall
-description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen, Dieses Skill behandelt die methodisch-pragmatische. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen, Dieses Skill behandelt die methodisch-pragmatische."
 ---
 
 # Historie Lueckenfuellung Sonderfall
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-historie-compliance-dokumentation-und-akte` | Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung. |
-| `spezial-lueckenfuellung-sonderfall-und-edge-case` | Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht. |
-| `spezial-methodenlehre-erstpruefung-und-mandatsziel` | Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren. Es zeigt, wie aus dem Mandantenanliegen eine rechtlich präzise Fragestellung entwickelt wird, welche Auslegungsmethoden für die Erstprüfung heranzuziehen sind und wie Mandatsziel, Rechtsfrage und Bearbeitungsstrategie methodisch aufeinander abgestimmt werden. Das Skill sichert von Anfang an die methodische Kohärenz des Mandats. |
-| `spezial-pragmatisch-internationaler-bezug-und-schnittstellen` | Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht. Es zeigt, wie Kollisionsnormen (Rom I, Rom II, CISG) angewendet werden, wie Gerichtsstandsvereinbarungen und Schiedsklauseln methodisch geprüft und internationale Vertragsschnittstellen erkannt werden. Besonderes Gewicht liegt auf der pragmatischen Priorisierung — Wann lohnt es sich, den internationalen Aspekt methodisch vertieft zu prüfen, und wann reicht ein Schnittstellen-Screening? |
-| `spezial-rechtsanwendung-tatbestand-beweis-und-belege` | Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung von materiell-rechtlicher Prüfung und prozessrechtlichen Beweisanforderungen, sodass eine anwaltliche Position von Anfang an beweiskräftig aufgebaut wird. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-historie-compliance-dokumentation-und-akte`
 

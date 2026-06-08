@@ -1,6 +1,6 @@
 ---
 name: funds-flow-wire
-description: "Prüft Zahlungsströme, Treuhand, Bankdaten, AML, Währungsrisiko, Closing Conditions und Belegkette im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zahlungsströme, Treuhand, Bankdaten, AML, Währungsrisiko, Closing Conditions und Belegkette im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Funds Flow und Zahlungen

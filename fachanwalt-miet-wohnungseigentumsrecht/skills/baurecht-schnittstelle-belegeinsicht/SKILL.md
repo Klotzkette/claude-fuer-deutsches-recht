@@ -1,19 +1,9 @@
 ---
 name: baurecht-schnittstelle-belegeinsicht
-description: "Baurecht Schnittstelle Belegeinsicht im Miet- und Wohnungseigentumsrecht: prüft konkret Baurecht-Schnittstelle, Belegeinsicht Betriebskosten, Berliner Räumung, Beschlussanfechtung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Baurecht Schnittstelle Belegeinsicht im Miet- und Wohnungseigentumsrecht: prüft konkret Baurecht-Schnittstelle, Belegeinsicht Betriebskosten, Berliner Räumung, Beschlussanfechtung."
 ---
 
 # Baurecht Schnittstelle Belegeinsicht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-baurecht-schnittstelle-miete` | Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-belegeinsicht-betriebskosten` | Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs. 3 BGB; mit BGH VIII ZR 118/19 und VIII ZR 66/20. |
-| `spezial-berliner-raeumung` | Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-beschlussanfechtung-compliance-dokumentation-und-akte` | Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-betriebskosten-formell` | Formelle Ordnung der Betriebskostenabrechnung: Mindestangaben nach BGH VIII ZR 84/07, Abrechnungseinheit, Gesamtkosten, Verteilerschlüssel, Mieteranteil, Vorauszahlungen, Saldo, Zugang und Abgrenzung zu bloß materiellen Fehlern. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Baurecht Schnittstelle Belegeinsicht im Miet- und Wohnungseigentum
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-baurecht-schnittstelle-miete`
 

@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnisse-logdaten-grundrechte
-description: "Prüft Schutz von Geschäftsgeheimnissen in Logs, Diagnosedaten, Trainingsdaten, Quellcode, Sachverständigenverfahren und Behördenkontakten im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schutz von Geschäftsgeheimnissen in Logs, Diagnosedaten, Trainingsdaten, Quellcode, Sachverständigenverfahren und Behördenkontakten im Robotik-Recht."
 ---
 
 # Geschäftsgeheimnisse und Logdaten

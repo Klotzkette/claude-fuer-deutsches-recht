@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-dienstaufsicht
-description: "Notare: rechtsmittel gegen dienstaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: rechtsmittel gegen dienstaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: rechtsmittel gegen dienstaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: steuern-grunderwerbsteuer-entschaedigung
-description: "Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht im Erbbaurecht Praxis."
 ---
 
 # Steuerliche Schnittstellen

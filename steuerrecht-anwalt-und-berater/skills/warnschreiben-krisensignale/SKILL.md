@@ -1,6 +1,6 @@
 ---
 name: warnschreiben-krisensignale
-description: "Prüfungslinie für stb warnschreiben krisensignale im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für stb warnschreiben krisensignale im Steuerrecht Anwalt Und Berater."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen

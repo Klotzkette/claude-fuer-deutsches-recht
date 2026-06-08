@@ -1,6 +1,6 @@
 ---
 name: religionsunterricht-ethik-befreiung
-description: "Prüft Religionsunterricht, Ethik, Befreiung und Weltanschauung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Religionsunterricht, Ethik, Befreiung und Weltanschauung im Schulrecht Länder."
 ---
 
 # Religionsunterricht Ethik Befreiung

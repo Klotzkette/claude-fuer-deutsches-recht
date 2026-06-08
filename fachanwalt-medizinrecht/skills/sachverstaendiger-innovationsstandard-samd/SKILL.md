@@ -1,16 +1,9 @@
 ---
 name: sachverstaendiger-innovationsstandard-samd
-description: "Sachverstaendiger Innovationsstandard Samd im Medizinrecht: prüft konkret Sachverständiger und Innovationsstandard, Software as Medical Device Zweckbestimmung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sachverstaendiger Innovationsstandard Samd im Medizinrecht: prüft konkret Sachverständiger und Innovationsstandard, Software as Medical Device Zweckbestimmung."
 ---
 
 # Sachverstaendiger Innovationsstandard Samd
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `sachverstaendiger-innovationsstandard` | Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `samd-zweckbestimmung` | Software as Medical Device Zweckbestimmung: moderner Medizinrechts-Skill für Softwaregrenze Wellness-App/Medizinprodukt, Zweckbestimmung, CE und ärztliche Anwendung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Sachverstaendiger Innovationsstandard Samd im Medizinrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `sachverstaendiger-innovationsstandard`
 

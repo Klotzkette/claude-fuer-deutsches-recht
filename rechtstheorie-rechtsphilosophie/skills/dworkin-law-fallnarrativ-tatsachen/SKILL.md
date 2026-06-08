@@ -1,17 +1,9 @@
 ---
 name: dworkin-law-fallnarrativ-tatsachen
-description: "Dworkin LAW Fallnarrativ Tatsachen im Rechtstheorie und Rechtsphilosophie: prüft konkret Verarbeitet Ronald Dworkins Theorie praktisch, Prueft, wie Narrativ, Tatsachen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dworkin LAW Fallnarrativ Tatsachen im Rechtstheorie und Rechtsphilosophie: prüft konkret Verarbeitet Ronald Dworkins Theorie praktisch, Prueft, wie Narrativ, Tatsachen."
 ---
 
 # Dworkin LAW Fallnarrativ Tatsachen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dworkin-law-as-integrity-hard-cases` | Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür. |
-| `fallnarrativ-tatsachen-beweis` | Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben. |
-| `formalismus-und-begriffszauber-kritik` | Erkennt formale und begriffsjuristische Scheinloesungen, ohne Systematik und Dogmatik vorschnell zu verachten. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dworkin-law-as-integrity-hard-cases`
 

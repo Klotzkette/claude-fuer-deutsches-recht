@@ -1,6 +1,6 @@
 ---
 name: rechtspfleger-behoerden-gericht-und-registerweg
-description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Urteilsbauer Relationsmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
 ---
 
 # Rechtspfleger: Behörden-, Gerichts- oder Registerweg

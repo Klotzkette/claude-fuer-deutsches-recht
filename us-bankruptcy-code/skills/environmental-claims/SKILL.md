@@ -1,6 +1,6 @@
 ---
 name: environmental-claims
-description: "Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks im US Bankruptcy Code."
 ---
 
 # Environmental Claims in Bankruptcy

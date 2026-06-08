@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-gegen-vollzug
-description: "Umweltschutzverband Verbandsklage: Eilrechtsschutz gegen Vollzug. Eilrechtsschutz gegen Vollzug im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltschutzverband Verbandsklage: Eilrechtsschutz gegen Vollzug. Eilrechtsschutz gegen Vollzug im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Umweltverbandsklage."
 ---
 
 # Eilrechtsschutz Gegen Vollzug

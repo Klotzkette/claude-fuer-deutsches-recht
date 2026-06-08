@@ -1,6 +1,6 @@
 ---
 name: valuation-pre-post-money
-description: "Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, convertible impact und round economics im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnet Pre-/Post-Money, Ticket, Quote, option pool shuffle, convertible impact und round economics im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pre-Money, Post-Money und Bewertung

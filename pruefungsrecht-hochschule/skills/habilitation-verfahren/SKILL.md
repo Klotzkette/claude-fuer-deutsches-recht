@@ -1,6 +1,6 @@
 ---
 name: habilitation-verfahren
-description: "Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Pruefungsrecht Hochschule."
 ---
 
 # Habilitation Verfahren

@@ -1,6 +1,6 @@
 ---
 name: m-and-a-in-china
-description: "M&A-Transaktionen in VR China: Due-Diligence-Besonderheiten (SAMR-Genehmigung, Antimonopol-Gesetz AMG CN 2022), FIL-Compliance, Datenschutz (PIPL) bei Datenraum, Technologietransfer-Risiken, Deregistrierung/Exit-Klauseln, AWV-Meldung DE-Seite, HSR-Analogon China. Output: M&A-Prüfliste und Transaktionsstruktur-Empfehlung im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "M&A-Transaktionen in VR China: Due-Diligence-Besonderheiten (SAMR-Genehmigung, Antimonopol-Gesetz AMG CN 2022), FIL-Compliance, Datenschutz (PIPL) bei Datenraum, Technologietransfer-Risiken, Deregistrierung/Exit-Klauseln, AWV-Meldung DE-Seite, HSR-Analogon China. Output: M&A-Prüfliste und Transaktionsstruktur-Empfehlung im Festlandchina Wirtschaftsverkehr."
 ---
 
 # M&A in China: Due Diligence und Transaktionsstruktur

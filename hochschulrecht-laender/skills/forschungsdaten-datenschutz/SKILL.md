@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-datenschutz
-description: "Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung im Hochschulrecht Länder."
 ---
 
 # Forschungsdaten und Datenschutz

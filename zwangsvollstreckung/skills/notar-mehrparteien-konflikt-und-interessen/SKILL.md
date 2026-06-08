@@ -1,6 +1,6 @@
 ---
 name: notar-mehrparteien-konflikt-und-interessen
-description: "Notar: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notar: Mehrparteienkonflikt und Interessenmatrix im Zwangsvollstreckung."
 ---
 
 # Notar: Mehrparteienkonflikt und Interessenmatrix

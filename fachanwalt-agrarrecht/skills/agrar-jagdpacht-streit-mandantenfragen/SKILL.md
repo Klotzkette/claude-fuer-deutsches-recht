@@ -1,17 +1,9 @@
 ---
 name: agrar-jagdpacht-streit-mandantenfragen
-description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkret Spezialfall Jagdpachtstreit, Typische Mandantenfragen Agrarrecht und Routing, Spezialfall Paechterbetrieb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkret Spezialfall Jagdpachtstreit, Typische Mandantenfragen Agrarrecht und Routing, Spezialfall Paechterbetrieb."
 ---
 
 # Agrar Jagdpacht Streit Mandantenfragen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `agrar-jagdpacht-streit-spezial` | Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten. Pruefraster und Mustertexte für Pachtvertrag und Klage. |
-| `agrar-mandantenfragen-typisch` | Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Förderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills. |
-| `agrar-paechterbetrieb-spezial` | Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung. Schnittstelle Erbrecht beim Generationenwechsel. Pruefraster mit Belegen. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Agrar Jagdpacht Streit Mandantenfragen im Agrarrecht: prüft konkr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `agrar-jagdpacht-streit-spezial`
 

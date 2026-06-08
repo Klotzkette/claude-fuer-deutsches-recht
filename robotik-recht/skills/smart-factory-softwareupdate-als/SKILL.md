@@ -1,6 +1,6 @@
 ---
 name: smart-factory-softwareupdate-als
-description: "Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Smart Factory: vernetzte Maschinen, Roboterzellen, Datenräume, Security, Produktionsstillstand und Haftungsketten im Robotik-Recht."
 ---
 
 # Smart Factory und Industrie 4.0

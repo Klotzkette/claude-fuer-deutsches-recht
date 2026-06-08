@@ -1,17 +1,9 @@
 ---
 name: urheber-urhg
-description: "Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schnittstellen, Urheber, Urhg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schnittstellen, Urheber, Urhg."
 ---
 
 # Urhg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-urheber-tatbestand-beweis-und-belege` | Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-urhg-dokumentenmatrix-und-lueckenliste` | Urhg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Urhg im Plugin Fachanwalt Urheber Medienrecht: prüft konkret Schn
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schnittstellen-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht.
 
 ### Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 
@@ -50,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-urheber-tatbestand-beweis-und-belege`
 
-**Fokus:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht.
 
 ### Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -75,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-urhg-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Urhg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Urhg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt urheber medienrecht.
 
 ### Urhg: Dokumentenmatrix, Lückenliste und Nachforderung
 

@@ -1,6 +1,6 @@
 ---
 name: rechtsbehelfsbelehrung-pruefungsbescheid
-description: "Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft im Pruefungsrecht Hochschule."
 ---
 
 # Rechtsbehelfsbelehrung Prüfungsbescheid

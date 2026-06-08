@@ -1,6 +1,6 @@
 ---
 name: jus-klausurtraining-leitfaden
-description: "Leitfaden Klausurtraining: Sachverhaltsanalyse, Aufbau, Zeitmanagement, typische Fehler. Pruefraster für Klausurenkurs Z1 / Z2 / Examen im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Klausurtraining: Sachverhaltsanalyse, Aufbau, Zeitmanagement, typische Fehler. Pruefraster für Klausurenkurs Z1 / Z2 / Examen im Jurastudium."
 ---
 
 # JuS: Klausurtraining

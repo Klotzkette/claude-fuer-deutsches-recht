@@ -1,6 +1,6 @@
 ---
 name: eingangsbestaetigung-aktenzeichen-falscher
-description: "Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit im Versammlungsrecht."
 ---
 
 # Ohne Eingangsnachweis wird es unnötig nervös

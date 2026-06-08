@@ -1,6 +1,6 @@
 ---
 name: weltraummedizin-probandenrecht-haftung
-description: "Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler im Weltraumrecht."
 ---
 
 # Weltraumrecht: Weltraummedizin: Probandenrecht, Ethik, Haftung

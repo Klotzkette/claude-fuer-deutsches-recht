@@ -1,15 +1,9 @@
 ---
 name: vkr-einfuehrung
-description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt Verkehrsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt Verkehrsrecht."
 ---
 
 # VKR Einfuehrung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vkr-einfuehrung-rechtsfelder` | Verkehrsrecht einfuehrend: Verkehrsstrafrecht (Trunkenheit § 316 StGB, Gefaehrdung § 315c StGB, Unfallflucht § 142 StGB), OWi (Bussgeldverfahren), Haftpflicht, Kasko, Fuehrerscheinrecht, FeV, MPU. Entscheidungstabelle. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "VKR Einfuehrung im Plugin Fachanwalt Verkehrsrecht im Fachanwalt V
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vkr-einfuehrung-rechtsfelder`
 

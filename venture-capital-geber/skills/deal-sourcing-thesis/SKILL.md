@@ -1,6 +1,6 @@
 ---
 name: deal-sourcing-thesis
-description: "Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Deal-Sourcing und Investmentthese

@@ -1,6 +1,6 @@
 ---
 name: postlauf-zustellung-pruefungsamt
-description: "Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme im Pruefungsrecht Hochschule."
 ---
 
 # Postlauf und Zustellung Prüfungsamt

@@ -1,6 +1,6 @@
 ---
 name: pruefungsamt-kommunikation
-description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Pruefungsrecht Hochschule."
 ---
 
 # Pruefungsamt Kommunikation

@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-em-rente-erwerbsminderungsrente
-description: "Laienhilfe EM Rente Erwerbsminderungsrente im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Em Rente, Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung, Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe EM Rente Erwerbsminderungsrente im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Em Rente, Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung, Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler."
 ---
 
 # Laienhilfe EM Rente Erwerbsminderungsrente
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-em-rente-gutachten` | Laienverstaendlicher Sozialrechts-Skill zu Em Rente Gutachten. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-erwerbsminderungsrente-antrag` | Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-fehlervermeidung-sozialrecht` | Laienverstaendlicher Sozialrechts-Skill zu Fehlervermeidung Sozialrecht. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-gutachten-fehler-finden` | Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe EM Rente Erwerbsminderungsrente im Plugin Fachanwalt So
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-em-rente-gutachten`
 

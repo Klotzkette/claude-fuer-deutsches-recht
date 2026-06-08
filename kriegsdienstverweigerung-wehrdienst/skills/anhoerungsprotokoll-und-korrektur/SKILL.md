@@ -1,6 +1,6 @@
 ---
 name: anhoerungsprotokoll-und-korrektur
-description: "Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Anhörungsprotokoll prüfen

@@ -1,6 +1,6 @@
 ---
 name: product-liability-prompt-code-public
-description: "Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen im Softwarerecht De Eu Us."
 ---
 
 # Produkthaftung für fehlerhafte Software EU

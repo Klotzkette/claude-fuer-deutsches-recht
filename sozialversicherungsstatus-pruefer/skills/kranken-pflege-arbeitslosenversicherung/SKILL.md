@@ -1,6 +1,6 @@
 ---
 name: kranken-pflege-arbeitslosenversicherung
-description: "Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige im Sozialversicherungsstatus Pruefer."
 ---
 
 # Kranken-, Pflege- und Arbeitslosenversicherung

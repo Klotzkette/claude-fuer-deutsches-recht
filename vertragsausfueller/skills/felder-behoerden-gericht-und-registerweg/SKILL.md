@@ -1,6 +1,6 @@
 ---
 name: felder-behoerden-gericht-und-registerweg
-description: "Felder: Behörden-, Gerichts- oder Registerweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Felder: Behörden-, Gerichts- oder Registerweg im Vertragsausfueller."
 ---
 
 # Felder: Behörden-, Gerichts- oder Registerweg

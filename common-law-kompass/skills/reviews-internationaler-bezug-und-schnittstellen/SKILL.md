@@ -1,6 +1,6 @@
 ---
 name: reviews-internationaler-bezug-und-schnittstellen
-description: "Reviews: Internationaler Bezug und Schnittstellen im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Reviews: Internationaler Bezug und Schnittstellen im Plugin common law kompass im Common Law Kompass."
 ---
 
 # Reviews: Internationaler Bezug und Schnittstellen

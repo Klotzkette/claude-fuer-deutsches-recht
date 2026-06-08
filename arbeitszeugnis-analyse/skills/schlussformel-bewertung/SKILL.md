@@ -1,6 +1,6 @@
 ---
 name: schlussformel-bewertung
-description: "Prüfungslinie für schlussformel bewertung im Arbeitszeugnis-Analyse. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für schlussformel bewertung im Arbeitszeugnis-Analyse."
 ---
 
 # Schlussformel-Bewertung

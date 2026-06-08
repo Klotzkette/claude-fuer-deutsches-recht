@@ -1,6 +1,6 @@
 ---
 name: flug-massenklage-einfuehrung-vo
-description: "Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Pruefraster für Verbraucher und Legal-Tech im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Pruefraster für Verbraucher und Legal-Tech im Fluggastrechte."
 ---
 
 # Flug: Massenklage RDG

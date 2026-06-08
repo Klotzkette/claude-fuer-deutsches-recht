@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflicht
-description: "Prüft Dokumentation eingehender Meldungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dokumentation eingehender Meldungen im Hinweisgeberschutz Compliance."
 ---
 
 # Dokumentationspflicht

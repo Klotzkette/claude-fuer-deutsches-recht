@@ -1,6 +1,6 @@
 ---
 name: akzg-vertraulichkeit-redaction-spezial
-description: "Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Pruefraster für Akteneinsicht durch Dritte im Aktenauszug Gerichtsverfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Pruefraster für Akteneinsicht durch Dritte im Aktenauszug Gerichtsverfahren."
 ---
 
 # AkzG: Vertraulichkeit Redaction

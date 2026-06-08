@@ -1,6 +1,6 @@
 ---
 name: policy-pack
-description: "Erzeugt ein schlankes Policy-Paket statt Papierfriedhof im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzeugt ein schlankes Policy-Paket statt Papierfriedhof im Nis2 Cybersecurity Compliance."
 ---
 
 # Policy Pack

@@ -1,6 +1,6 @@
 ---
 name: landtage-schriftsatz-brief-und-memo-bausteine
-description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Legistik. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Plugin legistik werkstatt im Legistik."
 ---
 
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine

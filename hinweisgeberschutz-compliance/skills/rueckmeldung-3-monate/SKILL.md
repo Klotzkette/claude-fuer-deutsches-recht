@@ -1,6 +1,6 @@
 ---
 name: rueckmeldung-3-monate
-description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hinweisgeberschutz Compliance."
 ---
 
 # Rueckmeldung 3 Monate

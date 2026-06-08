@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-krankenversicherung-im-ruhestand
-description: "Krankenversicherung für Mitglieder berufsständischer Versorgungswerke (Ärzte, Anwälte, Apotheker): Ausnahmen von KVdR, freiwillige GKV, PKV-Optionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Krankenversicherung für Mitglieder berufsständischer Versorgungswerke (Ärzte, Anwälte, Apotheker): Ausnahmen von KVdR, freiwillige GKV, PKV-Optionen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Versorgungswerk: Krankenversicherung im Ruhestand

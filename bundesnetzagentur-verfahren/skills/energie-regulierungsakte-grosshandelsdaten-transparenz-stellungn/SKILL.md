@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-grosshandelsdaten-transparenz-stellungn
-description: "Großhandelsdaten Transparenz: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Großhandelsdaten Transparenz: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Großhandelsdaten Transparenz — Stellungnahme-Entwurf

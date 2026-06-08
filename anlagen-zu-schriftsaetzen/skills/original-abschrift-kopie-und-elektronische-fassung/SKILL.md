@@ -1,6 +1,6 @@
 ---
 name: original-abschrift-kopie-und-elektronische-fassung
-description: "Klären, wann Original, beglaubigte Abschrift, einfache Kopie, Scan, elektronisches Dokument oder Ausdruck als Anlage sinnvoll oder erforderlich ist im Anlagen zu Schriftsätzen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klären, wann Original, beglaubigte Abschrift, einfache Kopie, Scan, elektronisches Dokument oder Ausdruck als Anlage sinnvoll oder erforderlich ist im Anlagen zu Schriftsätzen."
 ---
 
 # Original, Abschrift, Kopie und elektronische Fassung

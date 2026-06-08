@@ -1,6 +1,6 @@
 ---
 name: usb-wechseldatentraeger
-description: "Prüft USB-Sticks, externe Platten und Wechseldatenträger im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft USB-Sticks, externe Platten und Wechseldatenträger im Nis2 Cybersecurity Compliance."
 ---
 
 # USB Wechseldatentraeger

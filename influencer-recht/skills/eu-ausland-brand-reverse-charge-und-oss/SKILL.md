@@ -1,6 +1,6 @@
 ---
 name: eu-ausland-brand-reverse-charge-und-oss
-description: "Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration im Influencer-Recht."
 ---
 
 # Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS

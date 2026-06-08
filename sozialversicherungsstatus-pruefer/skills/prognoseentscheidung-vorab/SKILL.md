@@ -1,6 +1,6 @@
 ---
 name: prognoseentscheidung-vorab
-description: "Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität im Sozialversicherungsstatus Pruefer."
 ---
 
 # Prognoseentscheidung vor Einsatzbeginn

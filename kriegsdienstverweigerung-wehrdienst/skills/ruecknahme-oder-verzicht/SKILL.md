@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-oder-verzicht
-description: "Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Rücknahme oder Verzicht

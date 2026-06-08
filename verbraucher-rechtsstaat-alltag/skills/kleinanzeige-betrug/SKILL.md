@@ -1,6 +1,6 @@
 ---
 name: kleinanzeige-betrug
-description: "Kleinanzeige Betrug: führt Laien durch Privater Plattformkauf, Vorkasse, Identitätsmissbrauch und Rückholung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kleinanzeige Betrug: führt Laien durch Privater Plattformkauf, Vorkasse, Identitätsmissbrauch und Rückholung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Kleinanzeige Betrug

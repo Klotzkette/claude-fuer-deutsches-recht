@@ -1,6 +1,6 @@
 ---
 name: lieferkettenereignis
-description: "Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesentlichen Lieferkettenereignissen (Lieferantenausfall, Rohstoffengpass, Geopolitik) im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesentlichen Lieferkettenereignissen (Lieferantenausfall, Rohstoffengpass, Geopolitik) im Insiderrecht Compliance."
 ---
 
 # Lieferkettenereignis – Insiderrecht und Ad-hoc-Pflicht

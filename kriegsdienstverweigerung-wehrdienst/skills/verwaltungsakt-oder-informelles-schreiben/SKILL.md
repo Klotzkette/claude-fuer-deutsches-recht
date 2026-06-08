@@ -1,6 +1,6 @@
 ---
 name: verwaltungsakt-oder-informelles-schreiben
-description: "Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Verwaltungsakt oder Hinweis

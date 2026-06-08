@@ -1,6 +1,6 @@
 ---
 name: untersuchungsbericht-untersuchungsplan-us-sox
-description: "Erstellt Untersuchungsbericht ohne Quellenpreisgabe im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Untersuchungsbericht ohne Quellenpreisgabe im Hinweisgeberschutz Compliance."
 ---
 
 # Untersuchungsbericht

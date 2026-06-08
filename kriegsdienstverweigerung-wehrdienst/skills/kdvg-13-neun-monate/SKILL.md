@@ -1,6 +1,6 @@
 ---
 name: kdvg-13-neun-monate
-description: "Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Neunmonats-Sollfrist § 13

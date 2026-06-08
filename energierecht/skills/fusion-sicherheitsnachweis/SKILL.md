@@ -1,6 +1,6 @@
 ---
 name: fusion-sicherheitsnachweis
-description: "Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz im Energierecht."
 ---
 
 # Fusion: Sicherheitsnachweis und Störfalllogik

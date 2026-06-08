@@ -1,19 +1,9 @@
 ---
 name: meldung-lfdi-mv-rlp-saarland-saechsdsb
-description: "DSV Meldung Lfdi MV RLP Saarland Saechsdsb im Plugin Fachanwalt It Recht: prüft konkret Reicht eine Meldung nach Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "DSV Meldung Lfdi MV RLP Saarland Saechsdsb im Plugin Fachanwalt It Recht: prüft konkret Reicht eine Meldung nach Art."
 ---
 
 # DSV Meldung Lfdi MV RLP Saarland Saechsdsb
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `dsv-meldung-lfdi-bw` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Baden-Württemberg; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-meldung-lfdi-mv` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg-Vorpommern und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG M-V Datenschutzgesetz Mecklenburg-Vorpommern; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-meldung-lfdi-rlp` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland-Pfalz und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Rheinland-Pfalz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-meldung-lfdi-saarland` | Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Saarland und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SDSG Saarländisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
-| `dsv-meldung-saechsdsb` | Reicht eine Meldung nach Art. 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SächsDSDG / SächsDSUG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "DSV Meldung Lfdi MV RLP Saarland Saechsdsb im Plugin Fachanwalt It
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `dsv-meldung-lfdi-bw`
 

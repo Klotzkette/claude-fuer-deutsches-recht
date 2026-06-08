@@ -1,6 +1,6 @@
 ---
 name: anrechnung-55-beamtvg-mehrere-renten
-description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Hoechstgrenzenmodell die Behandlung von Kindererziehungszeiten und die unionsrechtlich gebotene Beruecksichtigung von EU-Renten. Liefert Berechnungstabelle und Antragsbausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Hoechstgrenzenmodell die Behandlung von Kindererziehungszeiten und die unionsrechtlich gebotene Beruecksichtigung von EU-Renten. Liefert Berechnungstabelle und Antragsbausteine im Beamtenrecht."
 ---
 
 # Anrechnung Renten nach § 55 BeamtVG

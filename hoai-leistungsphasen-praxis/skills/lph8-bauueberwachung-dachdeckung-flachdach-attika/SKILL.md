@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Flachdach und Attika

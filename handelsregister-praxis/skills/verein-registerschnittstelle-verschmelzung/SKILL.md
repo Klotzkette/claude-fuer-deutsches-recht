@@ -1,6 +1,6 @@
 ---
 name: verein-registerschnittstelle-verschmelzung
-description: "Klärt, wann Vereinsregisterlogik statt Handelsregisterlogik greift und welche Beschlüsse/Protokolle gebraucht werden im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Klärt, wann Vereinsregisterlogik statt Handelsregisterlogik greift und welche Beschlüsse/Protokolle gebraucht werden im Handelsregister Praxis."
 ---
 
 # Vereinsregister-Schnittstelle

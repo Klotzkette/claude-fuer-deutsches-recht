@@ -1,6 +1,6 @@
 ---
 name: leiter-verantwortung-mildere-mittel
-description: "Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung im Versammlungsrecht."
 ---
 
 # Leitung ist nicht Befehlsempfänger der Polizei

@@ -1,17 +1,9 @@
 ---
 name: hoefeo-laender-landpachtrecht
-description: "Hoefeo Länder Landpachtrecht im Agrarrecht: prüft konkret Hoefeo, Länder, Landpachtrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hoefeo Länder Landpachtrecht im Agrarrecht: prüft konkret Hoefeo, Länder, Landpachtrecht."
 ---
 
 # Hoefeo Länder Landpachtrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-hoefeo-dokumentenmatrix-und-lueckenliste` | Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-laender-behoerden-gericht-und-registerweg` | Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-landpachtrecht-schriftsatz-brief-und-memo-bausteine` | Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-hoefeo-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt agrarrecht.
 
 ### Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -67,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-laender-behoerden-gericht-und-registerweg`
 
-**Fokus:** Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht.
 
 ### Länder: Behörden-, Gerichts- oder Registerweg
 
@@ -92,7 +84,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-landpachtrecht-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt agrarrecht.
 
 ### Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
 

@@ -1,6 +1,6 @@
 ---
 name: zwoelftafelgesetz-prozess-und-vollstreckung
-description: "Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus im Römisches Recht."
 ---
 
 # Zwölftafelgesetz - Prozess und Vollstreckung

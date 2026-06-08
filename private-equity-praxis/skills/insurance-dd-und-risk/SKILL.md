@@ -1,6 +1,6 @@
 ---
 name: insurance-dd-und-risk
-description: "Prüft Versicherungsschutz, Claims, D&O, Cyber, Produkthaftung, W&I und Post-Closing-Deckung im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Versicherungsschutz, Claims, D&O, Cyber, Produkthaftung, W&I und Post-Closing-Deckung im Private Equity Praxis."
 ---
 
 # Insurance DD und Risk Allocation

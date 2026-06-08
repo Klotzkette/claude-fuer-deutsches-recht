@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-hypothek-bestellen
-description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bestellt Schiffshypothek als Sicherheit für Finanzierung eines hypothekenbelastetes Seeschiff. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bestellt Schiffshypothek als Sicherheit für Finanzierung eines hypothekenbelastetes Seeschiff. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste im Seerecht Schifffahrtsrecht."
 ---
 
 # Schiffshypothek – Schiffshypothek bestellen

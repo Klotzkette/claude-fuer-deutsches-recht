@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-nda-im-arbeitsverhaeltnis
-description: "Berliner Start-up-HR: Verschwiegenheit im Arbeitsverhältnis: Geschäftsgeheimnisse konkretisieren, Catch-all vermeiden, HinSchG-Carve-out einbauen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Verschwiegenheit im Arbeitsverhältnis: Geschäftsgeheimnisse konkretisieren, Catch-all vermeiden, HinSchG-Carve-out einbauen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Vertraulichkeit Nda Im Arbeitsverhaeltnis

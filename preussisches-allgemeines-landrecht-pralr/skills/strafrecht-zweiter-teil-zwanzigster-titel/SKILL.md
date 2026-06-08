@@ -1,6 +1,6 @@
 ---
 name: strafrecht-zweiter-teil-zwanzigster-titel
-description: "PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Strafrecht

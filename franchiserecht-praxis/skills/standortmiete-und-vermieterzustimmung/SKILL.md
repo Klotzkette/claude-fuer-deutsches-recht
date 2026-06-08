@@ -1,6 +1,6 @@
 ---
 name: standortmiete-und-vermieterzustimmung
-description: "Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht im Franchiserecht."
 ---
 
 # Franchiserecht: Standortmiete und Vermieterzustimmung

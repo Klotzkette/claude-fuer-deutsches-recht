@@ -1,6 +1,6 @@
 ---
 name: parteienprivileg-verfassung-parteigericht
-description: "Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz im Parteienrecht."
 ---
 
 # Parteienprivileg und Verfassung

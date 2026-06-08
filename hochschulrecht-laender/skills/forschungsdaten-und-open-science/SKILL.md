@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-und-open-science
-description: "Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Forschungsdaten, Open Science und Repositorien im Hochschulrecht Länder."
 ---
 
 # Forschungsdaten Und Open Science

@@ -1,6 +1,6 @@
 ---
 name: vorladung-polizei-zeuge-beschuldigter
-description: "Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Vorladung Polizei: Zeuge oder Beschuldigter

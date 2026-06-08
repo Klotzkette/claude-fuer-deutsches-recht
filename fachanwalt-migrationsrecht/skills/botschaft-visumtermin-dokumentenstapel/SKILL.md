@@ -1,19 +1,9 @@
 ---
 name: botschaft-visumtermin-dokumentenstapel
-description: "Botschaft Visumtermin Dokumentenstapel im Migrationsrecht: prüft konkret Botschaft/Visumtermin, Chronologie und Belegmatrix im Plugin, Dokumentenstapel Migration, Dublin/GEAS Start. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Botschaft Visumtermin Dokumentenstapel im Migrationsrecht: prüft konkret Botschaft/Visumtermin, Chronologie und Belegmatrix im Plugin, Dokumentenstapel Migration, Dublin/GEAS Start."
 ---
 
 # Botschaft Visumtermin Dokumentenstapel
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-botschaft-visumtermin` | Botschaft/Visumtermin: Prüfungslinie für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-dokumentenstapel-migration` | Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-dublin-geas-start` | Dublin/GEAS Start: Prüfungslinie für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-duldung-spurwechsel` | Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Botschaft Visumtermin Dokumentenstapel im Migrationsrecht: prüft 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-botschaft-visumtermin`
 

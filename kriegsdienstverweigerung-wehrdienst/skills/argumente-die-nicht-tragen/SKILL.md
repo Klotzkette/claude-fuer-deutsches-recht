@@ -1,6 +1,6 @@
 ---
 name: argumente-die-nicht-tragen
-description: "Markiert KDV-schwache Argumente und passende Alternativwege im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Markiert KDV-schwache Argumente und passende Alternativwege im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Argumente die nicht tragen

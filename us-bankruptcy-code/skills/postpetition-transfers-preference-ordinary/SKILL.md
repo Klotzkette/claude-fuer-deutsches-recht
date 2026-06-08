@@ -1,6 +1,6 @@
 ---
 name: postpetition-transfers-preference-ordinary
-description: "Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft unauthorized postpetition transfers, ordinary course, court authorization and recovery im US Bankruptcy Code."
 ---
 
 # Postpetition Transfers § 549

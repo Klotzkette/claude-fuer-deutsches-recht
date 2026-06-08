@@ -1,6 +1,6 @@
 ---
 name: teaser-processdocs-transaktionsstruktur
-description: "Teaser, IM und Prozessdokumente: Unterstuetzt Seller-side bei Investment Teaser, Information Memorandum, NDA, Process Letter und Bieterkommunikation im Mittelstand Corporate Ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Teaser, IM und Prozessdokumente: Unterstuetzt Seller-side bei Investment Teaser, Information Memorandum, NDA, Process Letter und Bieterkommunikation im Mittelstand Corporate Ma."
 ---
 
 # Teaser, IM und Prozessdokumente

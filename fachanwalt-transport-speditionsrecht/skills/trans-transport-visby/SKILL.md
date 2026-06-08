@@ -1,17 +1,9 @@
 ---
 name: trans-transport-visby
-description: "Trans Transport Visby im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Trans, Transport, Visby. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Trans Transport Visby im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Trans, Transport, Visby."
 ---
 
 # Trans Transport Visby
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-trans-mandantenkommunikation-entscheidungsvorlage` | Trans: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-transport-tatbestand-beweis-und-belege` | Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-visby-compliance-dokumentation-und-akte` | Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-trans-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Trans: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Trans: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt transport speditionsrecht.
 
 ### Trans: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-transport-tatbestand-beweis-und-belege`
 
-**Fokus:** Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt transport speditionsrecht.
 
 ### Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-visby-compliance-dokumentation-und-akte`
 
-**Fokus:** Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht.
 
 ### Visby: Compliance-Dokumentation und Aktenvermerk
 

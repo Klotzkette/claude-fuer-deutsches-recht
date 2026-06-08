@@ -1,6 +1,6 @@
 ---
 name: raumstation-an-suborbitalflug-luftrecht
-description: "Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle im Weltraumrecht."
 ---
 
 # Weltraumrecht: Raumstation: Recht an Bord, Strafrecht, Arbeitsrecht, Medizin

@@ -1,6 +1,6 @@
 ---
 name: kirk-fortbildung-pflicht-spezial
-description: "Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster für Kanzleimanagement im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster für Kanzleimanagement im Ki Richtlinie Kanzleien."
 ---
 
 # KIRK: Fortbildung KI-Pflicht

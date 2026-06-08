@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schule
-description: "Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation im Schulrecht Länder."
 ---
 
 # Datenschutz Schule

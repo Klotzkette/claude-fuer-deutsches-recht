@@ -1,6 +1,6 @@
 ---
 name: fusion-netzanschluss-und-systemnutzen
-description: "Prüft Netzanschluss, gesicherte Leistung, PPA, Marktrolle, Wasserstoff-/Wärme-Kopplung und Systemintegration im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Netzanschluss, gesicherte Leistung, PPA, Marktrolle, Wasserstoff-/Wärme-Kopplung und Systemintegration im Energierecht."
 ---
 
 # Fusion: Netzanschluss, Systemnutzen und Vermarktung

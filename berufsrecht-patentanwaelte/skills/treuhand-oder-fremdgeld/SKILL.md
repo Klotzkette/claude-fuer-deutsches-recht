@@ -1,6 +1,6 @@
 ---
 name: treuhand-oder-fremdgeld
-description: "Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Treuhand oder Fremdgeld im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Treuhand oder Fremdgeld im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Treuhand oder Fremdgeld

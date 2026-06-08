@@ -1,6 +1,6 @@
 ---
 name: mitarbeiterbeteiligung-esop-vsop
-description: "Prüft Mitarbeiterbeteiligung, virtuelle Anteile, Vesting, Leaver und Steuer-/Arbeitsrechtsschnittstellen im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Mitarbeiterbeteiligung, virtuelle Anteile, Vesting, Leaver und Steuer-/Arbeitsrechtsschnittstellen im Gesellschaftsgruender."
 ---
 
 # ESOP/VSOP Mitarbeiterbeteiligung

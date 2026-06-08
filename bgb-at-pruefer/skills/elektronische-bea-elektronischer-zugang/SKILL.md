@@ -1,6 +1,6 @@
 ---
 name: elektronische-bea-elektronischer-zugang
-description: "Elektronische Form Bea Qes Formfiktion: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im BGB AT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Elektronische Form Bea Qes Formfiktion: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im BGB AT."
 ---
 
 # Elektronische Form BeA QES Formfiktion

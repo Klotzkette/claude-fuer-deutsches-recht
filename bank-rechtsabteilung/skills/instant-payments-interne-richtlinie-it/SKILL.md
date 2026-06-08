@@ -1,6 +1,6 @@
 ---
 name: instant-payments-interne-richtlinie-it
-description: "Instant Payments und SEPA-Echtzeitüberweisungen prüfen: Verfügbarkeit, Gebühren, Sanktionsscreening, Verification of Payee, Betrugsprävention, Kundenkommunikation und technische Umsetzungsrisiken im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Instant Payments und SEPA-Echtzeitüberweisungen prüfen: Verfügbarkeit, Gebühren, Sanktionsscreening, Verification of Payee, Betrugsprävention, Kundenkommunikation und technische Umsetzungsrisiken im Bank-Rechtsabteilung."
 ---
 
 # Instant Payments SEPA

@@ -1,17 +1,9 @@
 ---
 name: hgb-kabotage-beweislast-kanzlei-red-team-korrektur
-description: "HGB Kabotage Beweislast Kanzlei RED im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret HGB, Kabotage, Kanzlei. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "HGB Kabotage Beweislast Kanzlei RED im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret HGB, Kabotage, Kanzlei."
 ---
 
 # HGB Kabotage Beweislast Kanzlei RED
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-hgb-dokumentenmatrix-und-lueckenliste` | HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kabotage-beweislast-und-darlegungslast` | Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kanzlei-red-team-und-qualitaetskontrolle` | Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-hgb-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht.
 
 ### HGB: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kabotage-beweislast-und-darlegungslast`
 
-**Fokus:** Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht.
 
 ### Kabotage: Beweislast, Darlegungslast und Substantiierung
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-kanzlei-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt transport speditionsrecht.
 
 ### Kanzlei: Red-Team und Qualitätskontrolle
 

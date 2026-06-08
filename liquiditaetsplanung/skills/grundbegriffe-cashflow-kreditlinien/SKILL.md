@@ -1,17 +1,9 @@
 ---
 name: grundbegriffe-cashflow-kreditlinien
-description: "Liqui Grundbegriffe Cashflow Kreditlinien im Plugin Liquiditaetsplanung: prüft konkret Liquiditaetsplanung Grundbegriffe, Kreditlinien pruefen, Debitorenseite optimieren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Liqui Grundbegriffe Cashflow Kreditlinien im Plugin Liquiditaetsplanung: prüft konkret Liquiditaetsplanung Grundbegriffe, Kreditlinien pruefen, Debitorenseite optimieren."
 ---
 
 # Liqui Grundbegriffe Cashflow Kreditlinien
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `liqui-grundbegriffe-cashflow` | Liquiditaetsplanung Grundbegriffe: Cashflow vs. Gewinn, indirekte vs. direkte Methode, Liquiditaet 1./2./3. Grades, Working Capital. Abgrenzung zur GuV-Planung. Empfehlung: direkte Methode für 13-Wochen-Forecast, indirekte für Jahresplanung. |
-| `liqui-kreditlinien-pruefen` | Kreditlinien pruefen: Kontokorrent, Investitionskredit, Avalkredit, Factoring-Linie, Lieferantenkredit. Ausnutzungsgrade, Tilgungsplaene, Sicherheiten, Covenants. Pruefraster für Bankgespraech. |
-| `liqui-mahnstufen-debitoren` | Debitorenseite optimieren: DSO-Kennzahl, Mahnstufen, Skontostrategie, Factoring-Optionen, Forderungsausfallversicherung. Empfehlung: 3-Wochen-Forecast getrennt nach Kategorie 'sicher / wahrscheinlich / fraglich'. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Liqui Grundbegriffe Cashflow Kreditlinien im Plugin Liquiditaetspl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `liqui-grundbegriffe-cashflow`
 

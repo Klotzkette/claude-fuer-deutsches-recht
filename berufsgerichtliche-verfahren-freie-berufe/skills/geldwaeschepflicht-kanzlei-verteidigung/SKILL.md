@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepflicht-kanzlei-verteidigung
-description: "Geldwäschepflichten der Kanzlei (Verteidigungs- und Kammerantwort): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geldwäschepflichten der Kanzlei (Verteidigungs- und Kammerantwort): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Geldwäschepflichten der Kanzlei: Verteidigungs- und Kammerantwort

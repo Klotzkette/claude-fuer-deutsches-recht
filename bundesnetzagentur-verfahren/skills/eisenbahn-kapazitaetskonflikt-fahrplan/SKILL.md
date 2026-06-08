@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-kapazitaetskonflikt-fahrplan
-description: "Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht im BNetzA-Verfahren."
 ---
 
 # Eisenbahn: Kapazitätskonflikt Fahrplan

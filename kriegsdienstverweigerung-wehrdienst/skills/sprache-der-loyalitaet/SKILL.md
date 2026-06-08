@@ -1,6 +1,6 @@
 ---
 name: sprache-der-loyalitaet
-description: "Formuliert staatstreu und grundgesetznah ohne Unterwürfigkeit im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert staatstreu und grundgesetznah ohne Unterwürfigkeit im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Sprache der Loyalität

@@ -1,24 +1,9 @@
 ---
 name: weg-baumaengel-gemeinschaft
-description: "WEG Baumaengel Gemeinschaft im Miet- und Wohnungseigentumsrecht: prüft konkret WEG Baumängel/Gemeinschaft, WEG-Beschlusskompetenz, Beschlusssammlung, Kamera/Datenschutz WEG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "WEG Baumaengel Gemeinschaft im Miet- und Wohnungseigentumsrecht: prüft konkret WEG Baumängel/Gemeinschaft, WEG-Beschlusskompetenz, Beschlusssammlung, Kamera/Datenschutz WEG."
 ---
 
 # WEG Baumaengel Gemeinschaft
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-weg-baumaengel-gemeinschaft` | WEG Baumängel/Gemeinschaft: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vergemeinschaftung, Ansprüche, Beweissicherung, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-beschlusskompetenz` | WEG-Beschlusskompetenz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kompetenz, Bestimmtheit, ordnungsmäßige Verwaltung, Nichtigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-beschlusssammlung` | Beschlusssammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eintrag, Fehler, Einsicht, Beweiswert, Verwalterpflicht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-datenschutz-kamera` | Kamera/Datenschutz WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Zweck, Rechtsgrundlage, Beschluss, Hinweisschilder, Speicherfrist; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-einladung-tagesordnung` | WEG Einladung/Tagesordnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Frist, Form, TOP-Bestimmtheit, Unterlagen, Vollmachten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-fahrraddiebstahl-sicherheit` | Fahrraddiebstahl/Sicherheit: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Verkehrssicherung, Kameras, Schlösser, Beschluss und Datenschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-handwerkervergabe` | Handwerkervergabe: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Angebotseinholung, Vergleichbarkeit, Eilmaßnahme, Interessenkonflikt; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-hausordnung` | Hausordnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Gebrauch, Ruhezeiten, Kinder, Tiere, Grillen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-instandhaltungsruecklage` | Erhaltungsrücklage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Angemessenheit, Finanzierung, Zweckbindung, Darstellung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-jahresabrechnung` | WEG Jahresabrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Abrechnungsspitze, Einzel-/Gesamtabrechnung, Vermögensbericht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "WEG Baumaengel Gemeinschaft im Miet- und Wohnungseigentumsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-weg-baumaengel-gemeinschaft`
 

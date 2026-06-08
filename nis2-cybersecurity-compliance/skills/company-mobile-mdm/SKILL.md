@@ -1,6 +1,6 @@
 ---
 name: company-mobile-mdm
-description: "Prüft Firmenhandys, MDM, Zertifikate und Geräteschutz im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Firmenhandys, MDM, Zertifikate und Geräteschutz im Nis2 Cybersecurity Compliance."
 ---
 
 # Company Mobile MDM

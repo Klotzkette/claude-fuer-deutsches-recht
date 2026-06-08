@@ -1,6 +1,6 @@
 ---
 name: cloud-hosting-meldekanal
-description: "Prüft Cloudhosting für Meldekanal im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Cloudhosting für Meldekanal im Hinweisgeberschutz Compliance."
 ---
 
 # Cloud Hosting Meldekanal

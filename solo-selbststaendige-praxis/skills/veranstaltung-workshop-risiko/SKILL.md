@@ -1,6 +1,6 @@
 ---
 name: veranstaltung-workshop-risiko
-description: "Solo-Selbstständige: prüft Präsenzworkshop, Räume, Teilnehmende, Fotos und Unfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Präsenzworkshop, Räume, Teilnehmende, Fotos und Unfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Versicherung Haftung und Risiko: Prüft präsenzworkshop

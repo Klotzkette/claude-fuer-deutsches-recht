@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitsbericht-csrd
-description: "AG/SE-Aufsichtsrat Praxis: Nachhaltigkeitsbericht Csrd; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Nachhaltigkeitsbericht Csrd; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Nachhaltigkeitsbericht Csrd

@@ -1,6 +1,6 @@
 ---
 name: sozialamt-grundsicherung
-description: "Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch im Bürokratie-Entbürokratisierung."
 ---
 
 # Sozialamt / Grundsicherung

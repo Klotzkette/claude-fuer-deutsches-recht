@@ -1,6 +1,6 @@
 ---
 name: therapeuten-praxen
-description: "Prüft Physio-, Ergo-, Logo- und Psychotherapie-Praxen mit Raum-/Gerätenutzung, Patientensteuerung und Abrechnung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Physio-, Ergo-, Logo- und Psychotherapie-Praxen mit Raum-/Gerätenutzung, Patientensteuerung und Abrechnung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Therapeuten in Praxen

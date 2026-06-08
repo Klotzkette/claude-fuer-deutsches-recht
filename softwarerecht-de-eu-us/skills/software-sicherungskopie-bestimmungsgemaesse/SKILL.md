@@ -1,6 +1,6 @@
 ---
 name: software-sicherungskopie-bestimmungsgemaesse
-description: "Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen im Softwarerecht De Eu Us."
 ---
 
 # Sicherungskopie und bestimmungsgemäße Nutzung

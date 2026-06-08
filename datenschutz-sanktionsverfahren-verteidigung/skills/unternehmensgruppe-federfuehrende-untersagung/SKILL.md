@@ -1,18 +1,9 @@
 ---
 name: unternehmensgruppe-federfuehrende-untersagung
-description: "Unternehmensgruppe Federfuehrende Untersagung im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Unternehmensgruppe und federführende Aufsicht, Untersagung und Verarbeitungsstopp, Verhältnismäßigkeit und Existenzgefahr, Verhältnismäßigkeit der Aufsichtsmaßnahme. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Unternehmensgruppe Federfuehrende Untersagung im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Unternehmensgruppe und federführende Aufsicht, Untersagung und Verarbeitungsstopp, Verhältnismäßigkeit und Existenzgefahr, Verhältnismäßigkeit der Aufsichtsmaßnahme."
 ---
 
 # Unternehmensgruppe Federfuehrende Untersagung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `unternehmensgruppe-und-federfuehrende-aufsicht` | Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `untersagung-und-verarbeitungsstopp` | Untersagung und Verarbeitungsstopp: Vorläufige oder endgültige Beschränkung einer Verarbeitung mit Eilrechtsschutz und milderen Mitteln angreifen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `unverhaeltnismaessigkeit-und-existenzgefahr` | Verhältnismäßigkeit und Existenzgefahr: Liquidität, Eigenkapital, Insolvenznähe, Arbeitsplätze und Ratenzahlung gegen Abschreckung abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `verhaeltnismaessigkeit-aufsichtsmassnahme` | Verhältnismäßigkeit der Aufsichtsmaßnahme: Datenschutzgewinn, Betriebsfolgen, Grundrechte, mildere Mittel und Angemessenheit abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Unternehmensgruppe Federfuehrende Untersagung im Datenschutz-Sankt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `unternehmensgruppe-und-federfuehrende-aufsicht`
 

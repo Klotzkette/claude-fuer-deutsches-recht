@@ -1,6 +1,6 @@
 ---
 name: lehrbeauftragte-status-lehrverpflichtung
-description: "Prüft Lehrbeauftragte, Honorar und Status im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lehrbeauftragte, Honorar und Status im Hochschulrecht Länder."
 ---
 
 # Lehrbeauftragte Und Status

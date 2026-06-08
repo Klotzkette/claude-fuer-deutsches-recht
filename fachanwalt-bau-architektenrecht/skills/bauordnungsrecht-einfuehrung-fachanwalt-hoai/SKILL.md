@@ -1,18 +1,9 @@
 ---
 name: bauordnungsrecht-einfuehrung-fachanwalt-hoai
-description: "Bauordnungsrecht Einfuehrung Fachanwalt HOAI im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bauordnungsrecht, Einfuehrung, Fachanwalt, Hoai. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bauordnungsrecht Einfuehrung Fachanwalt HOAI im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Bauordnungsrecht, Einfuehrung, Fachanwalt, Hoai."
 ---
 
 # Bauordnungsrecht Einfuehrung Fachanwalt HOAI
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-bauordnungsrecht-behoerden-gericht-und-registerweg` | Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-einfuehrung-formular-portal-und-einreichung` | Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-hoai-risikoampel-und-gegenargumente` | Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -22,11 +13,11 @@ description: "Bauordnungsrecht Einfuehrung Fachanwalt HOAI im Plugin Fachanwalt 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-bauordnungsrecht-behoerden-gericht-und-registerweg`
 
-**Fokus:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht.
 
 ### Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
 
@@ -51,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-einfuehrung-formular-portal-und-einreichung`
 
-**Fokus:** Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht.
 
 ### Einfuehrung: Formular, Portal und Einreichungslogik
 
@@ -76,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht.
 
 ### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -101,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-hoai-risikoampel-und-gegenargumente`
 
-**Fokus:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht.
 
 ### Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
 

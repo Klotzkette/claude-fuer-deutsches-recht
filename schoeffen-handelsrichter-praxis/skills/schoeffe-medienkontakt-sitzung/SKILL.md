@@ -1,6 +1,6 @@
 ---
 name: schoeffe-medienkontakt-sitzung
-description: "Schöffe und Medienkontakt (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schöffe und Medienkontakt (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Presse, Social Media, laufendes Verfahren, Beratungsgeheimnis und Neutralität mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Schöffe und Medienkontakt: Sitzungspraxis

@@ -1,6 +1,6 @@
 ---
 name: claims-proof-claim-501
-description: "Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code."
 ---
 
 # Proof of Claim § 501

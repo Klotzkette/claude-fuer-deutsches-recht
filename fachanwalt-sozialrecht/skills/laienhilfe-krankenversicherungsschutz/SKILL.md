@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-krankenversicherungsschutz
-description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen, Frist, Laienverstaendlicher Sozialrechts-Skill zu Muendliche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu, Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen, Frist, Laienverstaendlicher Sozialrechts-Skill zu Muendliche."
 ---
 
 # Laienhilfe Krankenversicherungsschutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-krankenversicherungsschutz` | Laienverstaendlicher Sozialrechts-Skill zu Krankenversicherungsschutz. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-merkzeichen` | Laienverstaendlicher Sozialrechts-Skill zu Merkzeichen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-muendliche-verhandlung-sg` | Laienverstaendlicher Sozialrechts-Skill zu Muendliche Verhandlung Sg. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-mutterschaft-elterngeld-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Mutterschaft Elterngeld Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Krankenversicherungsschutz im Plugin Fachanwalt Sozialr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-krankenversicherungsschutz`
 

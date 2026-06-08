@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-kommunikation-steuern
-description: "Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Kommunikation steuern im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Kommunikation steuern im Verbraucherverband-Durchsetzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Plattform Sperre Kommunikation Steuern

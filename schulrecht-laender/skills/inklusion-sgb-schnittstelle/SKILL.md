@@ -1,6 +1,6 @@
 ---
 name: inklusion-sgb-schnittstelle
-description: "Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung im Schulrecht Länder."
 ---
 
 # Inklusion Sgb Schnittstelle

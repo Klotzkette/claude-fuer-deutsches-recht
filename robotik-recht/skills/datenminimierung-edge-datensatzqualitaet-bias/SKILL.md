@@ -1,6 +1,6 @@
 ---
 name: datenminimierung-edge-datensatzqualitaet-bias
-description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention im Robotik-Recht."
 ---
 
 # Datenminimierung in der Edge/Cloud-Architektur

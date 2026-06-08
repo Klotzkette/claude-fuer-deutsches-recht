@@ -1,6 +1,6 @@
 ---
 name: boilerplate-klauseln-definitionen
-description: "Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
 # Boilerplate-Klauseln: Katalog mit Mustertexten

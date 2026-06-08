@@ -1,6 +1,6 @@
 ---
 name: mandanten-oder-beteiligtenkommunikation
-description: "Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beteiligtenkommunikation: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft übersetzt das Ergebnis in klare, taktisch sichere Kommunikation, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Beteiligtenkommunikation

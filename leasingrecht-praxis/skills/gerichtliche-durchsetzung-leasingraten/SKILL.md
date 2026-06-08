@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-durchsetzung-leasingraten
-description: "Gerichtliche Durchsetzung von Leasingraten: Klage, Beweisführung, einstweiliger Rechtsschutz, vollstreckungsfähiger Titel und Prozessstrategie im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gerichtliche Durchsetzung von Leasingraten: Klage, Beweisführung, einstweiliger Rechtsschutz, vollstreckungsfähiger Titel und Prozessstrategie im Leasingrecht."
 ---
 
 # Gerichtliche Durchsetzung von Leasingraten

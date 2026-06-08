@@ -1,17 +1,9 @@
 ---
 name: schiedsklausel-intwr-eu-sanktions
-description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsrecht: prüft konkret Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsrecht: prüft konkret Schiedsklausel, Spezialfall EU-Sanktionen Russland / Belarus / Iran und, Sanktions-Compliance."
 ---
 
 # Schiedsklausel Intwr EU Sanktions
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schiedsklausel-formular-portal-und-einreichung` | Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `intwr-eu-sanktionen-trade-compliance-spezial` | Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot. Pruefraster für Exportkontrolle und Bankzahlungen. |
-| `sanktions-compliance-pruefung` | Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russland-Paket 1–14), US-OFAC SDN-Liste, UK-HMT/OFSI, UN-Sicherheitsrat-Resolutionen. Asset-Freeze, sektorale Embargos, Dienstleistungsverbote, Re-Export-Klauseln. AWG §§ 18–19 Strafbarkeit, BAFA-Genehmigungen. Screening-Tools, Dokumentationspflicht 10 Jahre. Sofortmaßnahmen bei Verdacht. |
 
 ## Arbeitsweg
 
@@ -21,11 +13,11 @@ description: "Schiedsklausel Intwr EU Sanktions im Internationalen Wirtschaftsre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schiedsklausel-formular-portal-und-einreichung`
 
-**Fokus:** Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Schiedsklausel: Formular, Portal und Einreichungslogik
 

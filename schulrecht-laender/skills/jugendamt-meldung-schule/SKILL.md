@@ -1,6 +1,6 @@
 ---
 name: jugendamt-meldung-schule
-description: "Prüft Kindeswohlmeldung, Datenschutz, Elterninformation und Schutzpflichten im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Kindeswohlmeldung, Datenschutz, Elterninformation und Schutzpflichten im Schulrecht Länder."
 ---
 
 # Jugendamt-Meldung durch Schule

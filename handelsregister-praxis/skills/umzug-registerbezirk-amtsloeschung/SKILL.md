@@ -1,6 +1,6 @@
 ---
 name: umzug-registerbezirk-amtsloeschung
-description: "Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik im Handelsregister Praxis."
 ---
 
 # Sitzverlegung und Registerbezirk

@@ -1,19 +1,9 @@
 ---
 name: folgenorientierte-auslegung-formale
-description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buergerliches Recht: prüft konkret Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung, Lehrt den methodisch disziplinierten Umgang mit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buergerliches Recht: prüft konkret Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung, Lehrt den methodisch disziplinierten Umgang mit."
 ---
 
 # Folgenorientierte Auslegung Formale
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `folgenorientierte-auslegung-empirie` | Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt. |
-| `formale-legalitaet-vs-einzelfallgerechtigkeit` | Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung. |
-| `gesetzesbindung-art-20-gg-pruefprotokoll` | Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die verfassungsrechtlich gebotene Rückbindung an demokratisch legitimierte Normen verletzen. |
-| `gesetzgeberwille-und-materialien-disziplin` | Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf den Gesetzgeberwillen und unzulässiger Materialbindung liegt. Geeignet für Fälle mit strittiger historischer Auslegung. |
-| `gesetzgebung-justiz-wissenschaft-rollen` | Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt zwischen gesetzgeberischer, richterlicher und wissenschaftlicher Rechtsbildung unterschieden wird. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `folgenorientierte-auslegung-empirie`
 

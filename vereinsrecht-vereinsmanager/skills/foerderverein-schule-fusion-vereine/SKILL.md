@@ -1,6 +1,6 @@
 ---
 name: foerderverein-schule-fusion-vereine
-description: "Regelt Gemeinnützigkeit, Schulförderung, Kita-Nähe, Mittelverwendung, Datenschutz und Interessenkonflikte im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelt Gemeinnützigkeit, Schulförderung, Kita-Nähe, Mittelverwendung, Datenschutz und Interessenkonflikte im Vereinsrecht Vereinsmanager."
 ---
 
 # Förderverein Schule/Kita

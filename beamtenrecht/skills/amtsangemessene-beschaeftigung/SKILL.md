@@ -1,6 +1,6 @@
 ---
 name: amtsangemessene-beschaeftigung
-description: "Amtsangemessene Beschäftigung und Unterbeschäftigung: Statusamtgerechte Aufgaben, Degradierungsgefühl, Organisationsgewalt im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Amtsangemessene Beschäftigung und Unterbeschäftigung: Statusamtgerechte Aufgaben, Degradierungsgefühl, Organisationsgewalt im Beamtenrecht."
 ---
 
 # Amtsangemessene Beschaeftigung

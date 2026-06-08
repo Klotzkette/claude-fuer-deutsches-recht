@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-klage-skizzieren
-description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Klage skizzieren im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Volkseigener Betrieb Klage Skizzieren

@@ -1,19 +1,9 @@
 ---
 name: klage-niederschrift-zusammenstellen-bundle
-description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am Sozialgericht: prüft konkret Klage auf der Geschäftsstelle des SG diktieren § 90 SGG, Komplette Klage als Paket zusammenstellen, Welche Klage passt zu Ihrem Fall, Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am Sozialgericht: prüft konkret Klage auf der Geschäftsstelle des SG diktieren § 90 SGG, Komplette Klage als Paket zusammenstellen, Welche Klage passt zu Ihrem Fall, Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen."
 ---
 
 # Klage Niederschrift Zusammenstellen Bundle
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `klage-zur-niederschrift-90-sgg` | Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger. |
-| `klage-zusammenstellen-bundle-sozialgericht` | Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis für Gericht und Gegner. Checkliste für Buerger ohne Anwalt. |
-| `klagearten-uebersicht-sgg` | Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Leistungs- Feststellungs- und Untätigkeitsklage nach §§ 54 55 88 SGG. Mit Entscheidungshilfe und Mustern. |
-| `klagebegruendung-laienleitfaden` | Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht. |
-| `kostenfrei-vs-aufwendungsersatz-193-sgg` | Aufwendungsersatz nach § 193 SGG. Bei Erfolg muss Beklagte notwendige außergerichtliche Kosten erstatten. Anwalt Fahrtkosten Auslagenpauschale. Antrag stellen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `klage-zur-niederschrift-90-sgg`
 

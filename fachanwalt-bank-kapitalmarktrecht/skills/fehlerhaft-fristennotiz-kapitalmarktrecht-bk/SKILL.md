@@ -1,17 +1,9 @@
 ---
 name: fehlerhaft-fristennotiz-kapitalmarktrecht-bk
-description: "Fehlerhaft Fristennotiz Kapitalmarktrecht BK im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Fehlerhaft, Kapitalmarktrecht, Spezialfall Emissionsprospekthaftung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Fehlerhaft Fristennotiz Kapitalmarktrecht BK im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkret Fehlerhaft, Kapitalmarktrecht, Spezialfall Emissionsprospekthaftung."
 ---
 
 # Fehlerhaft Fristennotiz Kapitalmarktrecht BK
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-fehlerhaft-fristennotiz-und-naechster-schritt` | Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-kapitalmarktrecht-fristen-form-und-zuständigkeit` | Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `bk-emissionsprospekt-haftung-spezial` | Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklaerung, fehlerhafte Angaben, Schaden, Kausalitaet. Klagewege, Kapitalanleger-Musterverfahrensgesetz KapMuG, Insolvenz des Emittenten. Pruefraster. |
 
 ## Normenanker
 
@@ -38,16 +30,16 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-fehlerhaft-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Fehlerhaft: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Fehlerhaft: Fristennotiz und nächster Schritt
-- **Konkreter Gegenstand:** Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.
@@ -70,12 +62,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kapitalmarktrecht-fristen-form-und-zuständigkeit`
 
-**Fokus:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht.
 
 ### Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Konkreter Gegenstand:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung..
+- **Konkreter Gegenstand:** Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht..
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

@@ -1,19 +1,9 @@
 ---
 name: weg-verwalterbestellung
-description: "WEG Verwalterbestellung im Miet- und Wohnungseigentumsrecht: prüft konkret Verwalterbestellung, Verwalterpflichtverletzung, Beiratskommunikation, WEG Wärmepumpe/GEG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "WEG Verwalterbestellung im Miet- und Wohnungseigentumsrecht: prüft konkret Verwalterbestellung, Verwalterpflichtverletzung, Beiratskommunikation, WEG Wärmepumpe/GEG."
 ---
 
 # WEG Verwalterbestellung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-weg-verwalterbestellung` | Verwalterbestellung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-verwalterpflichtverletzung` | Verwalterpflichtverletzung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-verwaltungsbeirat-kommunikation` | Beiratskommunikation: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-waermepumpe-geg` | WEG Wärmepumpe/GEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-weihnachtsbaum-verkehrssicherung` | Weihnachtsbaum/Verkehrssicherung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "WEG Verwalterbestellung im Miet- und Wohnungseigentumsrecht: prüf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-weg-verwalterbestellung`
 

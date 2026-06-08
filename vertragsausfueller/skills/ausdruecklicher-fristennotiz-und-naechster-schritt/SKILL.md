@@ -1,6 +1,6 @@
 ---
 name: ausdruecklicher-fristennotiz-und-naechster-schritt
-description: "Ausdruecklicher: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ausdruecklicher: Fristennotiz und nächster Schritt im Vertragsausfueller."
 ---
 
 # Ausdruecklicher: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: unternehmensgegenstand-beanstandung
-description: "Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert eintragungsfähige Gegenstände ohne Erlaubnis-/Aufsichtsrechtsfalle und ohne zu enge Zukunftsfessel im Handelsregister Praxis."
 ---
 
 # Unternehmensgegenstand entwerfen

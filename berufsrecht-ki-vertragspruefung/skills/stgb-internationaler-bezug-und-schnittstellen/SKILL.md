@@ -1,6 +1,6 @@
 ---
 name: stgb-internationaler-bezug-und-schnittstellen
-description: "Stgb: Internationaler Bezug und Schnittstellen im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stgb: Internationaler Bezug und Schnittstellen im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
 ---
 
 # Stgb: Internationaler Bezug und Schnittstellen

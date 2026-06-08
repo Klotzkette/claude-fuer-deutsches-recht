@@ -1,6 +1,6 @@
 ---
 name: staatsrecht-monarchie-und-selbstbindung
-description: "PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Staatsrecht

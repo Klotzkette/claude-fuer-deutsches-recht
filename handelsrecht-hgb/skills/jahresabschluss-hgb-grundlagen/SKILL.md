@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-hgb-grundlagen
-description: "Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufstellung, Unterzeichnung, Gliederung, Offenlegung und Größenklassen in Grundzügen im Handelsrecht Hgb."
 ---
 
 # Jahresabschluss HGB Grundlagen

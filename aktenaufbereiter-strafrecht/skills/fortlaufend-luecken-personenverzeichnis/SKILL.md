@@ -1,6 +1,6 @@
 ---
 name: fortlaufend-luecken-personenverzeichnis
-description: "Fortlaufend: Internationaler Bezug und Schnittstellen im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fortlaufend: Internationaler Bezug und Schnittstellen im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Fortlaufend: Internationaler Bezug und Schnittstellen

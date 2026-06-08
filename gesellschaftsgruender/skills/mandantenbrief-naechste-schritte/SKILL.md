@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-naechste-schritte
-description: "Schreibt verständlichen Gründerbrief mit Entscheidungen, Risiken, To-dos, Kosten und Zeitplan im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schreibt verständlichen Gründerbrief mit Entscheidungen, Risiken, To-dos, Kosten und Zeitplan im Gesellschaftsgruender."
 ---
 
 # Mandantenbrief nächste Schritte

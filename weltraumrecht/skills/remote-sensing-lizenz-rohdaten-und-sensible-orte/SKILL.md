@@ -1,6 +1,6 @@
 ---
 name: remote-sensing-lizenz-rohdaten-und-sensible-orte
-description: "Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO im Weltraumrecht."
 ---
 
 # Weltraumrecht: Remote Sensing: Lizenz, Rohdaten, sensible Orte

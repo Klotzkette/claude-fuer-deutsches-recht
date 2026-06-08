@@ -1,6 +1,6 @@
 ---
 name: auskunft-einsicht-auslaendischer-principal
-description: "Unterstützt Handelsvertreter bei Auskunfts- und Einsichtsrechten nach § 87c Abs. 2 HGB und § 242 BGB: Umfang des Buchauszugsanspruchs, Einsicht in Geschäftsbücher, Durchsetzung bei Verweigerung durch den Unternehmer sowie Stufenklage auf Auskunft und Leistung nach § 254 ZPO im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterstützt Handelsvertreter bei Auskunfts- und Einsichtsrechten nach § 87c Abs. 2 HGB und § 242 BGB: Umfang des Buchauszugsanspruchs, Einsicht in Geschäftsbücher, Durchsetzung bei Verweigerung durch den Unternehmer sowie Stufenklage auf Auskunft und Leistung nach § 254 ZPO im Handelsvertreterrecht."
 ---
 
 # Auskunfts- und Einsichtsrechte des Handelsvertreters nach § 87c HGB

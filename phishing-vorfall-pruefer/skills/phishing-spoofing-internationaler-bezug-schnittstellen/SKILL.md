@@ -1,15 +1,9 @@
 ---
 name: phishing-spoofing-internationaler-bezug-schnittstellen
-description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing Vorfall Pruefer im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing Vorfall Pruefer im Phishing Vorfall Pruefer."
 ---
 
 # Spoofing Internationaler Bezug Schnittstellen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-spoofing-internationaler-bezug-und-schnittstellen` | Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -19,11 +13,11 @@ description: "Spoofing Internationaler Bezug Schnittstellen im Plugin Phishing V
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-spoofing-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer.
 
 ### Spoofing: Internationaler Bezug und Schnittstellen
 

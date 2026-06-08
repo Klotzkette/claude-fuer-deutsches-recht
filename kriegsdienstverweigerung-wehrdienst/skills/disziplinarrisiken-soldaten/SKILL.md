@@ -1,6 +1,6 @@
 ---
 name: disziplinarrisiken-soldaten
-description: "Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Disziplinarrisiken

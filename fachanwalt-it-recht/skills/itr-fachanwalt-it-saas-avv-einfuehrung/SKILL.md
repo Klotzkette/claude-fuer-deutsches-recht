@@ -1,19 +1,9 @@
 ---
 name: itr-fachanwalt-it-saas-avv-einfuehrung
-description: "ITR Fachanwalt IT Saas AVV Einfuehrung im Plugin Fachanwalt It Recht: prüft konkret Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder, SaaS-Vertrag mit AVV nach Art, IT-Recht einfuehrend, Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "ITR Fachanwalt IT Saas AVV Einfuehrung im Plugin Fachanwalt It Recht: prüft konkret Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder, SaaS-Vertrag mit AVV nach Art, IT-Recht einfuehrend, Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und."
 ---
 
 # ITR Fachanwalt IT Saas AVV Einfuehrung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-it-recht-software-mangel` | Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjährung. Prüfraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Rücktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen. |
-| `it-recht-saas-avv-und-tia-bundle` | SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-Schritt für Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte für Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Pruefung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence). |
-| `itr-einfuehrung-rechtsmaterien` | IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills. |
-| `itr-incident-response-runbook-spezial` | Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation. Pruefraster für KRITIS-Betreiber und besondere Bedeutung. |
-| `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung. Pruefraster und Umsetzungsplan. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "ITR Fachanwalt IT Saas AVV Einfuehrung im Plugin Fachanwalt It Rec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-it-recht-software-mangel`
 

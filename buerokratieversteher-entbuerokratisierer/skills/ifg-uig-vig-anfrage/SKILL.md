@@ -1,6 +1,6 @@
 ---
 name: ifg-uig-vig-anfrage
-description: "Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren im Bürokratie-Entbürokratisierung."
 ---
 
 # IFG/UIG/VIG-Anfrage

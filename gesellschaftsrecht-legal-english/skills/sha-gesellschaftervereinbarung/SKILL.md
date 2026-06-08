@@ -1,6 +1,6 @@
 ---
 name: sha-gesellschaftervereinbarung
-description: "Erklaert Shareholders Agreement, Gesellschaftervereinbarung, Stimmbindung, Pooling, Satzungsschnittstelle, Nebenabreden und Vollzug im Gesellschaftsrecht Legal English. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklaert Shareholders Agreement, Gesellschaftervereinbarung, Stimmbindung, Pooling, Satzungsschnittstelle, Nebenabreden und Vollzug im Gesellschaftsrecht Legal English."
 ---
 
 # Shareholders Agreement und Gesellschaftervereinbarung

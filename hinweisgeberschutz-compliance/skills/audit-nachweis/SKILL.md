@@ -1,6 +1,6 @@
 ---
 name: audit-nachweis
-description: "Baut Audit-Nachweis für das Hinweisgebersystem im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Audit-Nachweis für das Hinweisgebersystem im Hinweisgeberschutz Compliance."
 ---
 
 # Audit Nachweis

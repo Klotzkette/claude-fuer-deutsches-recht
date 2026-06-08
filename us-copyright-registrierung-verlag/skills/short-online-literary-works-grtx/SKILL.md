@@ -1,6 +1,6 @@
 ---
 name: short-online-literary-works-grtx
-description: "Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Veröffentlichungen prüfen, ohne Buch-, Newsletter- und Periodikumslogik zu vermischen im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Veröffentlichungen prüfen, ohne Buch-, Newsletter- und Periodikumslogik zu vermischen im Us Copyright Registrierung Verlag."
 ---
 
 # Short Online Literary Works und GRTX

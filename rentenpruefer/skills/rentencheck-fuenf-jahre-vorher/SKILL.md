@@ -1,6 +1,6 @@
 ---
 name: rentencheck-fuenf-jahre-vorher
-description: "Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn im Rentenpruefer."
 ---
 
 # rentencheck-fuenf-jahre-vorher

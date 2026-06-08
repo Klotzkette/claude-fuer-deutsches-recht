@@ -1,6 +1,6 @@
 ---
 name: mehrere-auftraggeber
-description: "Prüft mehrere Auftraggeber, wirtschaftliche Abhängigkeit, Hauptauftraggeber und zeitliche Kapazität im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft mehrere Auftraggeber, wirtschaftliche Abhängigkeit, Hauptauftraggeber und zeitliche Kapazität im Sozialversicherungsstatus Pruefer."
 ---
 
 # Mehrere Auftraggeber

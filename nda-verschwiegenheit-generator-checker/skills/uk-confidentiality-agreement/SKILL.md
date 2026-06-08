@@ -1,6 +1,6 @@
 ---
 name: uk-confidentiality-agreement
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Uk Confidentiality Agreement; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Uk Confidentiality Agreement; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # Uk Confidentiality Agreement

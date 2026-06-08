@@ -1,19 +1,9 @@
 ---
 name: stpo-strafrecht-strafverteidigung
-description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret StPO, Strafrecht, Strafverteidigung, Zeugenbeistand. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret StPO, Strafrecht, Strafverteidigung, Zeugenbeistand."
 ---
 
 # Stpo Strafrecht Strafverteidigung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-stpo-dokumentenmatrix-und-lueckenliste` | StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-strafrecht-tatbestand-beweis-und-belege` | Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-strafverteidigung-schriftsatz-brief-und-memo-bausteine` | Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-zeugenbeistand-internationaler-bezug-und-schnittstellen` | Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `strafprozess-abschluss-urteil-bewaehrung-vollstreckung` | Abschlussnach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Stpo Strafrecht Strafverteidigung im Strafrecht: prüft konkret St
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-stpo-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht.
 
 ### StPO: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -78,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-strafrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht.
 
 ### Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -103,7 +93,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-strafverteidigung-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt strafrecht.
 
 ### Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -128,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-zeugenbeistand-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht.
 
 ### Zeugenbeistand: Internationaler Bezug und Schnittstellen
 

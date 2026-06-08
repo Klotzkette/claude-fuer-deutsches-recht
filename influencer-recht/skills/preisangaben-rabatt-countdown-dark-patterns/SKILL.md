@@ -1,6 +1,6 @@
 ---
 name: preisangaben-rabatt-countdown-dark-patterns
-description: "Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer und Dark Patterns – PAngV, Omnibus-Richtlinie, UWG und Verbraucherschutz im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer und Dark Patterns – PAngV, Omnibus-Richtlinie, UWG und Verbraucherschutz im Influencer-Recht."
 ---
 
 # Influencer-Recht: Preisangaben, Rabatt, Countdown und Dark Patterns

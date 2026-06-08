@@ -1,6 +1,6 @@
 ---
 name: aeusserungsrecht-tatbestand-beweis-und-belege
-description: "Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Meinungspruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Meinungspruefer."
 ---
 
 # Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

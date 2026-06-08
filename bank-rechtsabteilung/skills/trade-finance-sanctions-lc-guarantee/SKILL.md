@@ -1,6 +1,6 @@
 ---
 name: trade-finance-sanctions-lc-guarantee
-description: "Trade Finance, Letter of Credit und Garantien prüfen: Sanktionen, Exportkontrolle, UCP/URDG, Dokumentenstrenge, Betrugsverdacht, Boykottklauseln und Zahlungsstopp im Bank-Rechtsabteilung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trade Finance, Letter of Credit und Garantien prüfen: Sanktionen, Exportkontrolle, UCP/URDG, Dokumentenstrenge, Betrugsverdacht, Boykottklauseln und Zahlungsstopp im Bank-Rechtsabteilung."
 ---
 
 # Trade Finance Sanktionen

@@ -1,6 +1,6 @@
 ---
 name: ernennung-wirksamkeit-ruecknahme-widerruf
-description: "Ernennung, Wirksamkeit, Form, Rücknahme und Widerruf: prüft Urkunde, Zuständigkeit, Nichtigkeit, Täuschung und Fehlerfolgen im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ernennung, Wirksamkeit, Form, Rücknahme und Widerruf: prüft Urkunde, Zuständigkeit, Nichtigkeit, Täuschung und Fehlerfolgen im Beamtenrecht."
 ---
 
 # Ernennung Wirksamkeit Rücknahme Widerruf

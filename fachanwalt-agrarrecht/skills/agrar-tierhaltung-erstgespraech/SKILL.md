@@ -1,17 +1,9 @@
 ---
 name: agrar-tierhaltung-erstgespraech
-description: "Agrar Tierhaltung Erstgespraech im Agrarrecht: prüft konkret Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung, Strukturierter Erstgespraechsleitfaden für Agrar-. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Agrar Tierhaltung Erstgespraech im Agrarrecht: prüft konkret Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung, Strukturierter Erstgespraechsleitfaden für Agrar-."
 ---
 
 # Agrar Tierhaltung Erstgespraech
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `agrar-tierhaltung-spezial-tieg` | Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung. Klage gegen Bescheid des Veterinaeramts, Bestandsschutz, Umweltvertraeglichkeitspruefung. Pruefraster und Mustertexte. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit` | Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhörung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Agrar Tierhaltung Erstgespraech im Agrarrecht: prüft konkret Spez
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `agrar-tierhaltung-spezial-tieg`
 

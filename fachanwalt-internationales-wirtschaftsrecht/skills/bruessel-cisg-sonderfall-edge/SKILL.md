@@ -1,17 +1,9 @@
 ---
 name: bruessel-cisg-sonderfall-edge
-description: "Bruessel CISG Sonderfall Edge im Internationalen Wirtschaftsrecht: prüft konkret Bruessel, Cisg, Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bruessel CISG Sonderfall Edge im Internationalen Wirtschaftsrecht: prüft konkret Bruessel, Cisg, Compliance."
 ---
 
 # Bruessel CISG Sonderfall Edge
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-bruessel-risikoampel-und-gegenargumente` | Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-cisg-dokumentenmatrix-und-lueckenliste` | Cisg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-compliance-sonderfall-und-edge-case` | Compliance: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-bruessel-risikoampel-und-gegenargumente`
 
-**Fokus:** Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-cisg-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Cisg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Cisg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Cisg: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-compliance-sonderfall-und-edge-case`
 
-**Fokus:** Compliance: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Compliance: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt internationales wirtschaftsrecht.
 
 ### Compliance: Sonderfall und Edge-Case-Prüfung
 

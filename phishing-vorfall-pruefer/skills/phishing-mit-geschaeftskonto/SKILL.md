@@ -1,6 +1,6 @@
 ---
 name: phishing-mit-geschaeftskonto
-description: "Phishing gegen Geschaeftskonto: keine Verbraucherregeln § 675f BGB, ggf. abweichende AGB der Bank, hoehere Sorgfaltsanforderungen. Pruefraster: Haftung Geschaeftsfuehrer für Organisationsverschulden gegenueber Gesellschaft im Phishing Vorfall Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Phishing gegen Geschaeftskonto: keine Verbraucherregeln § 675f BGB, ggf. abweichende AGB der Bank, hoehere Sorgfaltsanforderungen. Pruefraster: Haftung Geschaeftsfuehrer für Organisationsverschulden gegenueber Gesellschaft im Phishing Vorfall Pruefer."
 ---
 
 # Phishing gegen Geschaeftskonto

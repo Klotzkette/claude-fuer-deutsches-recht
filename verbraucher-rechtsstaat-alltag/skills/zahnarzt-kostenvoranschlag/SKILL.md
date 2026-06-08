@@ -1,6 +1,6 @@
 ---
 name: zahnarzt-kostenvoranschlag
-description: "Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Zahnarzt Kostenvoranschlag

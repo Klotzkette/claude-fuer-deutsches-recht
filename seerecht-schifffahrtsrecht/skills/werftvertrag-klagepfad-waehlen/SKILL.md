@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-klagepfad-waehlen
-description: "Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
 ---
 
 # Werftvertrag – Klagepfad wählen

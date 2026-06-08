@@ -1,6 +1,6 @@
 ---
 name: erbbauzins-struktur-erbbauzinsanpassung
-description: "Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang im Erbbaurecht Praxis."
 ---
 
 # Erbbauzins und Reallast

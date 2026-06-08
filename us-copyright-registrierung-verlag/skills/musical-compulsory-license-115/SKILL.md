@@ -1,6 +1,6 @@
 ---
 name: musical-compulsory-license-115
-description: "Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft mechanische Lizenzen, Covers, Downloads, Streams, Notice, MLC und Grenzen der compulsory license im Us Copyright Registrierung Verlag."
 ---
 
 # Musical Works Compulsory License § 115

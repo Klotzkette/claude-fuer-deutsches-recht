@@ -1,6 +1,6 @@
 ---
 name: art-6-hochrisiko-robotik
-description: "Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz im Robotik-Recht."
 ---
 
 # Art. 6 Hochrisiko Robotik

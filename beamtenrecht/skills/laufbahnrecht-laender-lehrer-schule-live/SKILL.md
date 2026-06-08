@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-laender-lehrer-schule-live
-description: "Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab im Beamtenrecht."
 ---
 
 # Laufbahnrecht Länder Matrix

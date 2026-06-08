@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-immobilienkauf-kammerantwort-und-ver
-description: "Notare: geldwaeschepruefung immobilienkauf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: geldwaeschepruefung immobilienkauf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: geldwaeschepruefung immobilienkauf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

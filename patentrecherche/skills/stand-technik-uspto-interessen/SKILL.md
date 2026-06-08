@@ -1,6 +1,6 @@
 ---
 name: stand-technik-uspto-interessen
-description: "Stand: Internationaler Bezug und Schnittstellen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stand: Internationaler Bezug und Schnittstellen im Patentrecherche."
 ---
 
 # Stand: Internationaler Bezug und Schnittstellen

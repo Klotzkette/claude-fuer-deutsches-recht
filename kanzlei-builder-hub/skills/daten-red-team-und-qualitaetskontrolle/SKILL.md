@@ -1,6 +1,6 @@
 ---
 name: daten-red-team-und-qualitaetskontrolle
-description: "Daten: Red-Team und Qualitätskontrolle im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Daten: Red-Team und Qualitätskontrolle im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Daten: Red-Team und Qualitätskontrolle

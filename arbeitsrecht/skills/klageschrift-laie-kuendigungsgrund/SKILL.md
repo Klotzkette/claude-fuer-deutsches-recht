@@ -1,18 +1,9 @@
 ---
 name: klageschrift-laie-kuendigungsgrund
-description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht: prüft konkret Bauklastenartige Klageschrift für Laien, Drei Kündigungsgründe nach § 1 Abs, Praxistipps für Laien in der muendlichen Verhandlung beim, § 12 KSchG einseitige Lösung nach Aufnahme eines neuen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht: prüft konkret Bauklastenartige Klageschrift für Laien, Drei Kündigungsgründe nach § 1 Abs, Praxistipps für Laien in der muendlichen Verhandlung beim, § 12 KSchG einseitige Lösung nach Aufnahme eines neuen."
 ---
 
 # Kueschk Klageschrift Laie Kuendigungsgrund
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-für-Schritt zum Selbstausfuellen mit Warnkopf. |
-| `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts. |
-| `kueschk-muendliche-verhandlung-praxistipps-laie` | Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation. |
-| `kueschk-paragraph-12-kschg-neuer-job-einseitig` | § 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `kueschk-klageschrift-laie-baustein`
 

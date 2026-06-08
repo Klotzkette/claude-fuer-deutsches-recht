@@ -1,6 +1,6 @@
 ---
 name: uebersetzungsablauf-wortebene-haus
-description: "Standardablauf Uebersetzung: 1. Original lesen, 2. Kernaussage extrahieren, 3. Satz für Satz uebertragen, 4. Pruefen gegen Pruefliste, 5. mit Zielgruppe gegenpruefen. Empfehlung: parallele Textspalten Original/Uebersetzung im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Standardablauf Uebersetzung: 1. Original lesen, 2. Kernaussage extrahieren, 3. Satz für Satz uebertragen, 4. Pruefen gegen Pruefliste, 5. mit Zielgruppe gegenpruefen. Empfehlung: parallele Textspalten Original/Uebersetzung im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # ELS-J: Uebersetzungsablauf

@@ -1,19 +1,9 @@
 ---
 name: beschlussanfechtung-abrechnungsfrist
-description: "Beschlussanfechtung Abrechnungsfrist im Miet- und Wohnungseigentumsrecht: prüft konkret Beschlussanfechtung nach § 44 WEG spezial, Abrechnungsfrist und Nachforderung aus Betriebskosten, Erhalt, Fristlose Kündigung wegen Störung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beschlussanfechtung Abrechnungsfrist im Miet- und Wohnungseigentumsrecht: prüft konkret Beschlussanfechtung nach § 44 WEG spezial, Abrechnungsfrist und Nachforderung aus Betriebskosten, Erhalt, Fristlose Kündigung wegen Störung."
 ---
 
 # Beschlussanfechtung Abrechnungsfrist
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beschlussanfechtung-spezial-fristen` | Beschlussanfechtung nach § 44 WEG spezial: Klagefrist 1 Monat, Begruendungsfrist 2 Monate ab Beschluss, formale Fehler vs. materielle Mangelhaftigkeit, ausschliesslich Eigentuemerklage nicht Mieter. Pruefraster und Klageaufbau. Routet in fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung. |
-| `spezial-abrechnungsfrist-nachforderung` | Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs. 3 BGB, Zugang, Jahresfrist, Vermieter-Nichtvertretenmüssen, Guthaben, Korrekturen, WEG-Verzögerung, Gewerberaumabweichungen und Prozessstrategie. |
-| `spezial-erhalt-fristennotiz-und-naechster-schritt` | Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-fristlose-kuendigung-stoerung` | Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wohnungseigentumsrecht-fristen-form-und-zuständigkeit` | Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Beschlussanfechtung Abrechnungsfrist im Miet- und Wohnungseigentum
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beschlussanfechtung-spezial-fristen`
 

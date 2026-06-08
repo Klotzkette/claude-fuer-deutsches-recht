@@ -1,6 +1,6 @@
 ---
 name: keine-pflicht-begruendet-ablehnen
-description: "Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wenn keine Berichtspflicht besteht: rechtssicher antworten, ohne unnötig Daten zu liefern oder Konflikt zu eskalieren im Berichtspflichten."
 ---
 
 # Keine Pflicht: sauber begründet ablehnen

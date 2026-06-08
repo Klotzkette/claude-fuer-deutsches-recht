@@ -1,6 +1,6 @@
 ---
 name: verifikation-fristennotiz-abtretung-an
-description: "Verifikation: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fluggastrechte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verifikation: Fristennotiz und nächster Schritt im Fluggastrechte."
 ---
 
 # Verifikation: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: hinweisgeber-betriebsrat-personenkreis
-description: "Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Betriebsratsmitglieder als Hinweisgeber oder Beschuldigte im Hinweisgeberschutz Compliance."
 ---
 
 # Hinweisgeber Im Betriebsrat

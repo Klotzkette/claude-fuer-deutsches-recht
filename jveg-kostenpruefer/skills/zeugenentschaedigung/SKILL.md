@@ -1,6 +1,6 @@
 ---
 name: zeugenentschaedigung
-description: "Checkliste Zeugenentschaedigung JVEG: Verdienstausfall, Fahrtkosten, Aufwandsentschaedigung, Kinderbetreuung. Pruefraster für Zeuge und Geschaeftsstelle im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Checkliste Zeugenentschaedigung JVEG: Verdienstausfall, Fahrtkosten, Aufwandsentschaedigung, Kinderbetreuung. Pruefraster für Zeuge und Geschaeftsstelle im Jveg Kostenpruefer."
 ---
 
 # JVEG: Zeugenentschaedigung

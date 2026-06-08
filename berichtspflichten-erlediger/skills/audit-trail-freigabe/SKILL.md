@@ -1,6 +1,6 @@
 ---
 name: audit-trail-freigabe
-description: "Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie im Berichtspflichten."
 ---
 
 # Audit-Trail und Vier-Augen-Freigabe

@@ -1,6 +1,6 @@
 ---
 name: adaptiver-dokumentenmatrix-und-lueckenliste
-description: "Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung

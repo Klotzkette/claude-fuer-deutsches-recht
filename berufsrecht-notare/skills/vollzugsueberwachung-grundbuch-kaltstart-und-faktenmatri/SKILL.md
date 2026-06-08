@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-kaltstart-und-faktenmatri
-description: "Notare: vollzugsueberwachung grundbuch - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: vollzugsueberwachung grundbuch - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

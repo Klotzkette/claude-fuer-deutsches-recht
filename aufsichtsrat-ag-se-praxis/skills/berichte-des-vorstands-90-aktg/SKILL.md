@@ -1,6 +1,6 @@
 ---
 name: berichte-des-vorstands-90-aktg
-description: "AG/SE-Aufsichtsrat Praxis: Berichte Des Vorstands 90 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: Berichte Des Vorstands 90 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # Berichte Des Vorstands 90 Aktg

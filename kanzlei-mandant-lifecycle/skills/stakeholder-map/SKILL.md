@@ -1,6 +1,6 @@
 ---
 name: stakeholder-map
-description: "Stakeholder Map: steuert GC, Legal Ops, CFO, Fachbereich, Vorstand, Kanzleipartner und Gericht/Behörde abbilden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stakeholder Map: steuert GC, Legal Ops, CFO, Fachbereich, Vorstand, Kanzleipartner und Gericht/Behörde abbilden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Stakeholder Map

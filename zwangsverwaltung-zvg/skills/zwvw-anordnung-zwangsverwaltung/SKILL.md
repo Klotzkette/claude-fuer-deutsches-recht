@@ -1,6 +1,6 @@
 ---
 name: zwvw-anordnung-zwangsverwaltung
-description: "Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster für Glaeubiger und Eigentuemer im Zwangsverwaltung Zvg."
 ---
 
 # ZwVw: Anordnung Bauleiter

@@ -1,6 +1,6 @@
 ---
 name: rechnung-pflichtangaben
-description: "Solo-Selbstständige: prüft Rechnungsnummer, Leistungsdatum, Steuernummer, USt und Leistungsbeschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Rechnungsnummer, Leistungsdatum, Steuernummer, USt und Leistungsbeschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft rechnungsnummer

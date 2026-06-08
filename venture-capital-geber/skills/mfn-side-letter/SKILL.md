@@ -1,6 +1,6 @@
 ---
 name: mfn-side-letter
-description: "Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # MFN und Side Letter

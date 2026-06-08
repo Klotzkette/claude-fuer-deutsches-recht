@@ -1,6 +1,6 @@
 ---
 name: unterauftragnehmer-erfassen
-description: "Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette im Lobbyregister Bundestag."
 ---
 
 # Unterauftragnehmer erfassen

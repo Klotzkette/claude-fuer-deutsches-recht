@@ -1,6 +1,6 @@
 ---
 name: minority-shareholdings-competition
-description: "Minderheitsbeteiligungen und Competition: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kontrolle, Einfluss, Informationsrechte, Common Ownership und Fusionskontrolle prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Minderheitsbeteiligungen und Competition: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kontrolle, Einfluss, Informationsrechte, Common Ownership und Fusionskontrolle prüfen, Evidenz, Fristen, Strategie und Quellen im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Minderheitsbeteiligungen und Competition

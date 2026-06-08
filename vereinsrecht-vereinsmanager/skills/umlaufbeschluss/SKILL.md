@@ -1,6 +1,6 @@
 ---
 name: umlaufbeschluss
-description: "Prüft Beschlüsse ohne Versammlung, Textform, Einstimmigkeit oder Satzungsregel, Dokumentation und Grenzen im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschlüsse ohne Versammlung, Textform, Einstimmigkeit oder Satzungsregel, Dokumentation und Grenzen im Vereinsrecht Vereinsmanager."
 ---
 
 # Umlaufbeschluss

@@ -1,6 +1,6 @@
 ---
 name: newsletter-und-mailingliste
-description: "Solo-Selbstständige: prüft Einwilligung, Double-Opt-In, Nachweis und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Einwilligung, Double-Opt-In, Nachweis und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Datenschutz IT und Website: Prüft einwilligung

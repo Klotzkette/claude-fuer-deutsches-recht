@@ -1,6 +1,6 @@
 ---
 name: schritt-schriftsatz-brief-und-memo-bausteine
-description: "Schritt: Schriftsatz-, Brief- und Memo-Bausteine; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Subsumtions Pruefer."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine

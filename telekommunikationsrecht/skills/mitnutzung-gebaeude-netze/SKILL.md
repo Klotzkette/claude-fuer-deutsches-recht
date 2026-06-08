@@ -1,6 +1,6 @@
 ---
 name: mitnutzung-gebaeude-netze
-description: "Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur im Telekommunikationsrecht."
 ---
 
 # Mitnutzung von Gebäudenetzen und passiver Infrastruktur

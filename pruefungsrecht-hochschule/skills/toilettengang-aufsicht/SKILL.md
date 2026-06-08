@@ -1,6 +1,6 @@
 ---
 name: toilettengang-aufsicht
-description: "Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf im Pruefungsrecht Hochschule."
 ---
 
 # Toilettengang und Aufsicht

@@ -1,6 +1,6 @@
 ---
 name: verwahrungsanzeige-und-gnotkg-kaltstart-und-faktenmatrix
-description: "Notare: verwahrungsanzeige und gnotkg - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: verwahrungsanzeige und gnotkg - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: verwahrungsanzeige und gnotkg - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

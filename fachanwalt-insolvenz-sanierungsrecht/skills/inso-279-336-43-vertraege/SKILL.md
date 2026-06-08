@@ -1,6 +1,6 @@
 ---
 name: inso-279-336-43-vertraege
-description: "Inso P279 Gegenseitige P336 Vertrag P043 im Insolvenz- und Sanierungsrecht: prüft konkret § 279 InsO (Gegenseitige Verträge) im Mandat prüfen, § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, § 43 InsO (Haftung mehrerer Personen) im Mandat prüfen, § 60 InsO (Haftung des Insolvenzverwalters) im Mandat prüfen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso P279 Gegenseitige P336 Vertrag P043 im Insolvenz- und Sanierungsrecht: prüft konkret § 279 InsO (Gegenseitige Verträge) im Mandat prüfen, § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, § 43 InsO (Haftung mehrerer Personen) im Mandat prüfen, § 60 InsO (Haftung des Insolvenzverwalters) im Mandat prüfen."
 ---
 
 # Inso P279 Gegenseitige P336 Vertrag P043
@@ -8,16 +8,6 @@ description: "Inso P279 Gegenseitige P336 Vertrag P043 im Insolvenz- und Sanieru
 ## Arbeitsbereich
 
 **Inso P279 Gegenseitige P336 Vertrag P043** ordnet den Fall über die tragenden Prüfungslinien: § 279 InsO (Gegenseitige Verträge) im Mandat prüfen, § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, § 43 InsO (Haftung mehrerer Personen) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `inso-p279-gegenseitige-vertrage` | § 279 InsO (Gegenseitige Verträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p336-vertrag-uber-einen-unbeweglichen-gegenstand` | § 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p043-haftung-mehrerer-personen` | § 43 InsO (Haftung mehrerer Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p060-haftung-des-insolvenzverwalters` | § 60 InsO (Haftung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p071-haftung-der-mitglieder-des-glaubigerausschusses` | § 71 InsO (Haftung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -27,7 +17,7 @@ description: "Inso P279 Gegenseitige P336 Vertrag P043 im Insolvenz- und Sanieru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `inso-p279-gegenseitige-vertrage`
 

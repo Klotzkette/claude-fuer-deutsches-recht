@@ -1,20 +1,9 @@
 ---
 name: livecheck-medizinrecht-medr-mpdg
-description: "Livecheck Medizinrecht Medr Mpdg im Medizinrecht: prüft konkret Livecheck, Medizinrecht, Medr, Mpdg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Livecheck Medizinrecht Medr Mpdg im Medizinrecht: prüft konkret Livecheck, Medizinrecht, Medr, Mpdg."
 ---
 
 # Livecheck Medizinrecht Medr Mpdg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-medizinrecht-tatbestand-beweis-und-belege` | Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-medr-mandantenkommunikation-entscheidungsvorlage` | Medr: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-mpdg-compliance-dokumentation-und-akte` | Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-patientenrechte-behoerden-gericht-und-registerweg` | Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstellen-internationaler-bezug-und-schnittstellen` | Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -24,11 +13,11 @@ description: "Livecheck Medizinrecht Medr Mpdg im Medizinrecht: prüft konkret L
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-livecheck-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht.
 
 ### Livecheck: Abschlussprodukt und Übergabe
 
@@ -54,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-medizinrecht-tatbestand-beweis-und-belege`
 
-**Fokus:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht.
 
 ### Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -80,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-medr-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Medr: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Medr: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt medizinrecht.
 
 ### Medr: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -106,7 +95,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-mpdg-compliance-dokumentation-und-akte`
 
-**Fokus:** Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht.
 
 ### Mpdg: Compliance-Dokumentation und Aktenvermerk
 
@@ -132,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-patientenrechte-behoerden-gericht-und-registerweg`
 
-**Fokus:** Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht.
 
 ### Patientenrechte: Behörden-, Gerichts- oder Registerweg
 
@@ -158,7 +147,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 6. `spezial-schnittstellen-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt medizinrecht.
 
 ### Schnittstellen: Internationaler Bezug und Schnittstellen
 

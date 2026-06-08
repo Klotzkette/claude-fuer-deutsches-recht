@@ -1,6 +1,6 @@
 ---
 name: bverwg-2018-innere-umkehr
-description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # BVerwG 2018 innere Umkehr

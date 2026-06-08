@@ -1,21 +1,9 @@
 ---
 name: liability-litigation-locked-box-nda-clean-team
-description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Liability Limitations, Basket, De Minimis und Cap, Litigation und Disputes DD. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (Großkanzlei-Praxis): prüft konkret Liability Limitations, Basket, De Minimis und Cap, Litigation und Disputes DD."
 ---
 
 # Liability Litigation Locked BOX NDA Clean Team
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `grosskanzlei-corporate-ma-liability-limitations-basket-cap` | Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjährung und Buyer Protections im SPA. |
-| `grosskanzlei-corporate-ma-litigation-disputes-dd` | Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer. |
-| `grosskanzlei-corporate-ma-locked-box-completion-accounts` | Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik. |
-| `grosskanzlei-corporate-ma-look-and-feel` | Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Prüfraster Statuskarten-Format, Ampelfarben, Deal-Phasenlayout, Risikokategorien, Owner-Matrix-Darstellung. Output konsistente visuelle Arbeitsoberflaeche für Partner, Counsel, Associate und Mandant. Abgrenzung zu Ausgabe-Versand-Signing für tatsaechlichen Versand und zu Schreibcanvas für inhaltliche Qualitaet. |
-| `grosskanzlei-corporate-ma-mac-ordinary-course-covenants` | MAC, Ordinary Course und Interim Covenants: prueft Signing-to-Closing-Pflichten, Zustimmungsvorbehalte, Notice-Prozesse und Covenant-Verstoesse. |
-| `grosskanzlei-corporate-ma-management-presentation-prep` | Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle für M&A-Managementtermine vor. |
-| `grosskanzlei-corporate-ma-nda-clean-team-protokoll` | NDA- und Clean-Team-Protokoll für Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Liability Litigation Locked BOX NDA Clean Team im Corporate/M&A (G
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `grosskanzlei-corporate-ma-liability-limitations-basket-cap`
 

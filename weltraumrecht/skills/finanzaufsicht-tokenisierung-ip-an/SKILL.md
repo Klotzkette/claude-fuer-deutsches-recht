@@ -1,6 +1,6 @@
 ---
 name: finanzaufsicht-tokenisierung-ip-an
-description: "Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR im Weltraumrecht."
 ---
 
 # Weltraumrecht: Finanzaufsicht: Tokenisierung von Satellitenerträgen

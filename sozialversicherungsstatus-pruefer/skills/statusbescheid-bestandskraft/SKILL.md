@@ -1,6 +1,6 @@
 ---
 name: statusbescheid-bestandskraft
-description: "Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Pruefer."
 ---
 
 # Statusbescheid und Bestandskraft

@@ -1,6 +1,6 @@
 ---
 name: losverfahren-neubewertung-verfahren
-description: "Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Pruefungsrecht Hochschule."
 ---
 
 # Losverfahren und Prüferzuteilung

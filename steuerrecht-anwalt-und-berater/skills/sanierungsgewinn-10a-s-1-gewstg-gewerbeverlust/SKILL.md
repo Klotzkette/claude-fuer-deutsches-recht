@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust
-description: "§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG im Steuerrecht Anwalt Und Berater."
 ---
 
 # § 10a Satz 1 GewStG — Gewerbeverlust bei Sanierung

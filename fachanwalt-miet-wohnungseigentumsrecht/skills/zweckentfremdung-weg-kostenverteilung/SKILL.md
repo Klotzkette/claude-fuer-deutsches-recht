@@ -1,18 +1,9 @@
 ---
 name: zweckentfremdung-weg-kostenverteilung
-description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentumsrecht: prüft konkret Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentumsrecht: prüft konkret Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht."
 ---
 
 # Zweckentfremdung WEG Kostenverteilung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-zweckentfremdung` | Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `weg-kostenverteilung-ruecklage-und-gewerbeprivileg` | Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs. 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `weg-einfuehrung-organe-beschluesse` | Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat. Beschlussarten (einfache Mehrheit, qualifizierte Mehrheit, Allstimmigkeit), Beschlussfaehigkeit nach WEMoG-Reform 2020. Ungueltige und nichtige Beschluesse abgrenzen. Routet in beschlussanfechtung-spezial. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-zweckentfremdung`
 

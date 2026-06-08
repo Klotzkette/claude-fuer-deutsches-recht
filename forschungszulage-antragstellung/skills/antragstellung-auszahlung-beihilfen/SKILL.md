@@ -1,6 +1,6 @@
 ---
 name: antragstellung-auszahlung-beihilfen
-description: "Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: lph8-rechnungspruefung-nachtraege-vob
-description: "HOAI-Fachfrage LPH 8: Rechnungsprüfung, Aufmaß, Nachträge, geänderte/zusätzliche Leistungen, VOB/B- oder BGB-Bauvertrag, Kostenkontrolle und Freigabevermerk prüfen im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Fachfrage LPH 8: Rechnungsprüfung, Aufmaß, Nachträge, geänderte/zusätzliche Leistungen, VOB/B- oder BGB-Bauvertrag, Kostenkontrolle und Freigabevermerk prüfen im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 8 Rechnungsprüfung, Nachträge Und VOB-Schnittstelle

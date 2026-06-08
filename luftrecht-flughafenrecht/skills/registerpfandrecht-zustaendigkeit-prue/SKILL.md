@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-zustaendigkeit-prue
-description: "Pfandrecht an Luftfahrzeugen: Zuständigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzuständigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zuständigkeits-Vermerk für nationales und internationales Pfandrecht im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pfandrecht an Luftfahrzeugen: Zuständigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzuständigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zuständigkeits-Vermerk für nationales und internationales Pfandrecht im Luftrecht Flughafenrecht."
 ---
 
 # Registerpfandrecht – Zuständigkeit prüfen

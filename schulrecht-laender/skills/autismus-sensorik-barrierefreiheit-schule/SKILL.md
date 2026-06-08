@@ -1,6 +1,6 @@
 ---
 name: autismus-sensorik-barrierefreiheit-schule
-description: "Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Autismus-spezifische Nachteilsausgleiche, Rückzugsräume und Schulbegleitung im Schulrecht Länder."
 ---
 
 # Autismus, Sensorik und Schule

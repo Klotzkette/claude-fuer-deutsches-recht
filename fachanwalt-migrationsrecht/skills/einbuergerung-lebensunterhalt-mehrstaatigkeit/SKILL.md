@@ -1,19 +1,9 @@
 ---
 name: einbuergerung-lebensunterhalt-mehrstaatigkeit
-description: "Einbuergerung Lebensunterhalt Mehrstaatigkeit im Migrationsrecht: prüft konkret Einbürgerung Lebensunterhalt, Einbürgerung Mehrstaatigkeit, Einbürgerung Vorstrafen, Einreise-/Aufenthaltsverbot. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Einbuergerung Lebensunterhalt Mehrstaatigkeit im Migrationsrecht: prüft konkret Einbürgerung Lebensunterhalt, Einbürgerung Mehrstaatigkeit, Einbürgerung Vorstrafen, Einreise-/Aufenthaltsverbot."
 ---
 
 # Einbuergerung Lebensunterhalt Mehrstaatigkeit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-einbuergerung-lebensunterhalt` | Einbürgerung Lebensunterhalt: Fachmodul im Migrationsrecht; prüft Einkommen, Sozialleistungen, Prognose, Ausnahmegründe; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-einbuergerung-mehrstaatigkeit` | Einbürgerung Mehrstaatigkeit: Fachmodul im Migrationsrecht; prüft Reformstand, Staatsangehörigkeitsrecht, Dokumente, Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-einbuergerung-strafen` | Einbürgerung Vorstrafen: Fachmodul im Migrationsrecht; prüft Bagatellgrenzen, Register, Tilgung, Ausschlüsse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-einreise-und-aufenthaltsverbot` | Einreise-/Aufenthaltsverbot: Fachmodul im Migrationsrecht; prüft Befristung, Verkürzung, Sperrwirkung, EU-Bezug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-elternnachzug` | Elternnachzug: Fachmodul im Migrationsrecht; prüft Minderjährige Schutzberechtigte, außergewöhnliche Härte, Sicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Einbuergerung Lebensunterhalt Mehrstaatigkeit im Migrationsrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-einbuergerung-lebensunterhalt`
 

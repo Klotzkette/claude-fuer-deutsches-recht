@@ -1,6 +1,6 @@
 ---
 name: 021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok
-description: "Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach § 17 BeurkG im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach § 17 BeurkG im Notariat."
 ---
 
 # Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation

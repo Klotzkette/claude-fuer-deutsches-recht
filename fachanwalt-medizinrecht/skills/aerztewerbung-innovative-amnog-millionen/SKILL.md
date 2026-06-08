@@ -1,16 +1,9 @@
 ---
 name: aerztewerbung-innovative-amnog-millionen
-description: "Aerztewerbung Innovative Amnog Millionen im Medizinrecht: prüft konkret Ärztewerbung innovative Therapie, AMNOG und Millionen-Therapie. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aerztewerbung Innovative Amnog Millionen im Medizinrecht: prüft konkret Ärztewerbung innovative Therapie, AMNOG und Millionen-Therapie."
 ---
 
 # Aerztewerbung Innovative Amnog Millionen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `aerztewerbung-innovative-therapie` | Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `amnog-millionen-therapie` | AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Aerztewerbung Innovative Amnog Millionen im Medizinrecht: prüft k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `aerztewerbung-innovative-therapie`
 

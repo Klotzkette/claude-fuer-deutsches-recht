@@ -1,6 +1,6 @@
 ---
 name: domain-marke-name
-description: "Solo-Selbstständige: prüft Name, Domain, Marke, Unternehmenskennzeichen und Kollisionsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: prüft Name, Domain, Marke, Unternehmenskennzeichen und Kollisionsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Marketing E-Commerce und Plattformen: Prüft name

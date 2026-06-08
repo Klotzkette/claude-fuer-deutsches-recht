@@ -1,19 +1,9 @@
 ---
 name: anspruchsgrundlagen-anwaltsperspektive
-description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill systematisiert die Auswahl und Durchsetzung, Dieses Skill erstellt aus anwaltlicher Perspektive eine, Dieses Skill bearbeitet methodische Vertragsauslegung mit, Dieses Skill definiert und strukturiert das juristische. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Buergerliches Recht: prüft konkret Dieses Skill systematisiert die Auswahl und Durchsetzung, Dieses Skill erstellt aus anwaltlicher Perspektive eine, Dieses Skill bearbeitet methodische Vertragsauslegung mit, Dieses Skill definiert und strukturiert das juristische."
 ---
 
 # Anspruchsgrundlagen Anwaltsperspektive
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten effizient durch die verschiedenen Rechtswege geführt werden. Der Fokus liegt auf methodischer Anspruchsprüfung und prozessstrategischer Weichenstellung im Schnittfeld von Zivilrecht und öffentlichem Recht. |
-| `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste` | Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen. |
-| `spezial-auslegung-verhandlung-vergleich-und-eskalation` | Dieses Skill bearbeitet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess. |
-| `spezial-buergerliches-abschlussprodukt-und-uebergabe` | Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken dokumentiert werden und wie der Mandant über mögliche Folgeschritte und Verjährungsrisiken aufgeklärt werden muss. Das Skill sichert die anwaltliche Sorgfaltspflicht und Haftungsreduktion durch vollständige Übergabedokumentation. |
-| `spezial-gutachtenstil-risikoampel-und-gegenargumente` | Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Bue
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg`
 

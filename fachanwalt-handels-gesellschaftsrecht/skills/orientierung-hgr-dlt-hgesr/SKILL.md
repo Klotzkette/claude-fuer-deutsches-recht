@@ -1,17 +1,9 @@
 ---
 name: orientierung-hgr-dlt-hgesr
-description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Handels- und, EU-DLT-Pilotregime VO 2022/858 anwendbar 23.3.2023, verlängert voraussichtlich, Grenzueberschreitende Formwechsel und Sitzverlegung nach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Einstieg in den Skill-Verbund Handels- und, EU-DLT-Pilotregime VO 2022/858 anwendbar 23.3.2023, verlängert voraussichtlich, Grenzueberschreitende Formwechsel und Sitzverlegung nach."
 ---
 
 # Orientierung HGR DLT Hgesr
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-handels-gesellschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung. |
-| `fachanwalt-hgr-dlt-pilotregime-token` | EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur. Tokenisierte Aktien und elektronische Wertpapiere (eWpG). Plattformtypen DLT-MTF (500 Mio. EUR) / DLT-TSS (6 Mrd. EUR) / DLT-SS. BaFin-Lizenzverfahren. Krypto-Wertpapierregister § 16 eWpG. Schwellenwerte, Compliance-Workflow, Risikomatrix, DORA-Schnittstelle, MiCA-Abgrenzung. Schriftsatzvorlagen BaFin-Antrag, Smart-Contract-Checkliste. |
-| `hgesr-grenzueberschreitende-formwechsel` | Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap für typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Orientierung HGR DLT Hgesr im Plugin Fachanwalt Handels Gesellscha
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-handels-gesellschaftsrecht-orientierung`
 

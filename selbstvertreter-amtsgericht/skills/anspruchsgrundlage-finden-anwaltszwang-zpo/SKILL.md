@@ -1,17 +1,9 @@
 ---
 name: anspruchsgrundlage-finden-anwaltszwang-zpo
-description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am Amtsgericht: prüft konkret Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am Amtsgericht: prüft konkret Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO."
 ---
 
 # Anspruchsgrundlage Finden Anwaltszwang ZPO
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anspruchsgrundlage-finden-laienhilfe` | Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag. |
-| `anwaltszwang-pruefen-78-zpo` | Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen. |
-| `augenscheinsbeweis-371-zpo` | Augenscheinsbeweis nach § 371 ZPO. Inaugenscheinnahme von Sachen am Ort oder im Gericht Fotos Videos als Augenscheins-Objekte. Wann Augenschein sinnvoll ist Bezeichnung im Beweisantrag und Sicherung von veraenderlichen Objekten. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anspruchsgrundlage-finden-laienhilfe`
 

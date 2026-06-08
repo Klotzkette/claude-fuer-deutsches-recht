@@ -1,19 +1,9 @@
 ---
 name: pflegegeld-pflegegrad-mds-gutachten-streit
-description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am Sozialgericht: prüft konkret Pflegegeld Pflegegrade 1 bis 5 §§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch, Pflegegrad-Streit nach SGB XI. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am Sozialgericht: prüft konkret Pflegegeld Pflegegrade 1 bis 5 §§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch, Pflegegrad-Streit nach SGB XI."
 ---
 
 # Pflegegeld Pflegegrad MDS Gutachten Streit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `pflegegeld-pflegegrad-1-bis-5` | Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation. |
-| `pflegegrad-mds-gutachten-widerspruch` | Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine. |
-| `pflegegrad-streit-mdk-pflegekasse-sgb-xi` | Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte für Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden für Betroffene und Angehoerige. |
-| `pflegekasse-pflegehilfsmittel-40-sgb-xi` | Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Massnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage. |
-| `pflegekasse-pflegekurse-und-angehoerige` | Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. SGB XI. Skill klaert die kostenlosen Pflegekurse Pflegeberatung Verhinderungspflegegeld Pflegezeit und Familienpflegezeit. Liefert Antragsvorlage. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `pflegegeld-pflegegrad-1-bis-5`
 

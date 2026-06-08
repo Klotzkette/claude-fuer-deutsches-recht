@@ -1,6 +1,6 @@
 ---
 name: ki-plagiat-hausarbeit-schule
-description: "Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen im Schulrecht Länder."
 ---
 
 # KI, Plagiat und Hausarbeit Schule

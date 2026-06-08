@@ -1,6 +1,6 @@
 ---
 name: jveg-tatbestand-beweis-und-belege
-description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
 ---
 
 # JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage

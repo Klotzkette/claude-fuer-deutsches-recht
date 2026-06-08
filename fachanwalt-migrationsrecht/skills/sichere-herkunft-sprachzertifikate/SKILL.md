@@ -1,16 +1,9 @@
 ---
 name: sichere-herkunft-sprachzertifikate
-description: "Sichere Herkunft Sprachzertifikate im Migrationsrecht: prüft konkret Sichere Herkunft/Drittstaat, Sprachzertifikate. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Sichere Herkunft Sprachzertifikate im Migrationsrecht: prüft konkret Sichere Herkunft/Drittstaat, Sprachzertifikate."
 ---
 
 # Sichere Herkunft Sprachzertifikate
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-sichere-herkunft-und-drittstaat` | Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-sprachzertifikate` | Sprachzertifikate: Fachmodul im Migrationsrecht; prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Sichere Herkunft Sprachzertifikate im Migrationsrecht: prüft konk
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-sichere-herkunft-und-drittstaat`
 

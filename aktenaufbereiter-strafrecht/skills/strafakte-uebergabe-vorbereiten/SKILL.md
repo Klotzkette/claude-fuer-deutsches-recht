@@ -1,6 +1,6 @@
 ---
 name: strafakte-uebergabe-vorbereiten
-description: "Strafakte für Uebergabe an Sozietaetskollegin, Wahlverteidiger oder Pflichtverteidiger sauber vorbereiten: Inhaltsverzeichnis, Personenverzeichnis, Tatkomplex-Liste, Chronologie, offene Fristen, naechste Termine. Output kompaktes Handover-Paket. Datenschutz und Schweigepflicht im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafakte für Uebergabe an Sozietaetskollegin, Wahlverteidiger oder Pflichtverteidiger sauber vorbereiten: Inhaltsverzeichnis, Personenverzeichnis, Tatkomplex-Liste, Chronologie, offene Fristen, naechste Termine. Output kompaktes Handover-Paket. Datenschutz und Schweigepflicht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Strafakte: Uebergabe vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-gewerbepark
-description: "Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit im Erbbaurecht Praxis."
 ---
 
 # Gewerbliches Erbbaurecht

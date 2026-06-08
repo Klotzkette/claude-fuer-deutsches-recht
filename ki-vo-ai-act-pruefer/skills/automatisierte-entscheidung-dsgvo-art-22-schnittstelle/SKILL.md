@@ -1,6 +1,6 @@
 ---
 name: automatisierte-entscheidung-dsgvo-art-22-schnittstelle
-description: "Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance im Ki Vo Ai Act Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance im Ki Vo Ai Act Pruefer."
 ---
 
 # KI-VO und DSGVO Art. 22

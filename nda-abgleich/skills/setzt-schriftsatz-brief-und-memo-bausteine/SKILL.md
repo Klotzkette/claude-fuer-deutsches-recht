@@ -1,6 +1,6 @@
 ---
 name: setzt-schriftsatz-brief-und-memo-bausteine
-description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Setzt: Schriftsatz-, Brief- und Memo-Bausteine

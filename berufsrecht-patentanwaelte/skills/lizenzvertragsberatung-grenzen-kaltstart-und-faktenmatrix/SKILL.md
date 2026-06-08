@@ -1,6 +1,6 @@
 ---
 name: lizenzvertragsberatung-grenzen-kaltstart-und-faktenmatrix
-description: "Patentanwälte: lizenzvertragsberatung grenzen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: lizenzvertragsberatung grenzen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: lizenzvertragsberatung grenzen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

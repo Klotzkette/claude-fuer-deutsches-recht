@@ -1,6 +1,6 @@
 ---
 name: problem-abschlussprodukt-und-uebergabe
-description: "Problem: Abschlussprodukt und Übergabe; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Problem: Abschlussprodukt und Übergabe im Patentrecherche."
 ---
 
 # Problem: Abschlussprodukt und Übergabe

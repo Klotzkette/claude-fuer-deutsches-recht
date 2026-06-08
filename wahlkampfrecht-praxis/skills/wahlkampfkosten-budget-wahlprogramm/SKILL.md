@@ -1,6 +1,6 @@
 ---
 name: wahlkampfkosten-budget-wahlprogramm
-description: "Wahlkampfrecht Praxis: Budget, Kostenstellen und Rechenschaftslogik bauen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Budget, Kostenstellen und Rechenschaftslogik bauen im Wahlkampfrecht."
 ---
 
 # Wahlkampfkosten Budget

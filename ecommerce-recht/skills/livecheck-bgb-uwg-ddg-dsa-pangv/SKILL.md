@@ -1,6 +1,6 @@
 ---
 name: livecheck-bgb-uwg-ddg-dsa-pangv
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV im Ecommerce Recht."
 ---
 
 # Livecheck BGB UWG DDG DSA PAngV

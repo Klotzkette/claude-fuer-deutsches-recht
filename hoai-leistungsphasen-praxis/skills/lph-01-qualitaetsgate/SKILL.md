@@ -1,6 +1,6 @@
 ---
 name: lph-01-qualitaetsgate
-description: "HOAI LPH 1 Grundlagenermittlung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 1 Grundlagenermittlung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 1 Grundlagenermittlung: Erstellt ein qualitygate

@@ -1,6 +1,6 @@
 ---
 name: inso-insolvenzbekanntmachungen-auskunfteien
-description: "Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien: Veröffentlichung, Abruffrist, Weiterverarbeitung und Löschdruck im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien: Veröffentlichung, Abruffrist, Weiterverarbeitung und Löschdruck im Insolvenzrecht."
 ---
 
 # Insolvenzbekanntmachungen und Auskunfteien

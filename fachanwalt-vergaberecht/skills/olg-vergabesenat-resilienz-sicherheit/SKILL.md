@@ -1,18 +1,9 @@
 ---
 name: olg-vergabesenat-resilienz-sicherheit
-description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergaberecht: prüft konkret OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen, Ruegeschriftsatz nach § 160 Abs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergaberecht: prüft konkret OLG-Vergabesenat und sofortige Beschwerde strategisch, Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen, Ruegeschriftsatz nach § 160 Abs."
 ---
 
 # OLG Vergabesenat Resilienz Sicherheit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `olg-vergabesenat-beschwerdebriefing` | OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten. |
-| `resilienz-sicherheit-kritische-infrastruktur` | Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe. |
-| `ruegeschriftsatz-erstellen` | Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertprüfung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachprüfungsstrategie enthalten. |
-| `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "OLG Vergabesenat Resilienz Sicherheit im Plugin Fachanwalt Vergabe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `olg-vergabesenat-beschwerdebriefing`
 

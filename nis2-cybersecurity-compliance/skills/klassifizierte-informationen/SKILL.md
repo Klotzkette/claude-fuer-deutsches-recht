@@ -1,6 +1,6 @@
 ---
 name: klassifizierte-informationen
-description: "Prüft Umgang mit vertraulichen oder behördlich sensiblen Informationen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Umgang mit vertraulichen oder behördlich sensiblen Informationen im Nis2 Cybersecurity Compliance."
 ---
 
 # Klassifizierte Informationen

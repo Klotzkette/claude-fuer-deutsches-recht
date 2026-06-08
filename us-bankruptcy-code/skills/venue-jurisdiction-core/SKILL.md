@@ -1,6 +1,6 @@
 ---
 name: venue-jurisdiction-core
-description: "Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions im US Bankruptcy Code."
 ---
 
 # Venue, Jurisdiction and Core Proceedings

@@ -1,6 +1,6 @@
 ---
 name: lph-06-foerdermittel-und-nachweis
-description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 6 Vorbereitung der Vergabe: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 6 Vorbereitung der Vergabe: Prüft fördermittelbedingungen

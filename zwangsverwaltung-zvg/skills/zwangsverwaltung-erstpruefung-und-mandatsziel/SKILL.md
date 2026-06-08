@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-erstpruefung-und-mandatsziel
-description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsverwaltung Zvg. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
 ---
 
 # Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel

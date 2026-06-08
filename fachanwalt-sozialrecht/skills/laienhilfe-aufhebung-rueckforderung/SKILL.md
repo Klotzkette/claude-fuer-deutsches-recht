@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-aufhebung-rueckforderung
-description: "Laienhilfe Aufhebung Rueckforderung im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Aufhebung, Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid, Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit, Laienverstaendlicher Sozialrechts-Skill zu Berufung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Aufhebung Rueckforderung im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Aufhebung, Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid, Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit, Laienverstaendlicher Sozialrechts-Skill zu Berufung."
 ---
 
 # Laienhilfe Aufhebung Rueckforderung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-aufhebung-rueckforderung` | Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-beitragsbescheid-krankenkasse` | Laienverstaendlicher Sozialrechts-Skill zu Beitragsbescheid Krankenkasse. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-berufskrankheit` | Laienverstaendlicher Sozialrechts-Skill zu Berufskrankheit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-berufung-beschwerde` | Laienverstaendlicher Sozialrechts-Skill zu Berufung Beschwerde. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Aufhebung Rueckforderung im Plugin Fachanwalt Sozialrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-aufhebung-rueckforderung`
 

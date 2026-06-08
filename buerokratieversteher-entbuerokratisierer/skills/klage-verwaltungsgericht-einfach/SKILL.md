@@ -1,6 +1,6 @@
 ---
 name: klage-verwaltungsgericht-einfach
-description: "Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt im Bürokratie-Entbürokratisierung."
 ---
 
 # Klage Verwaltungsgericht einfach

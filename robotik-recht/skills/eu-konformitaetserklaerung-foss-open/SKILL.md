@@ -1,6 +1,6 @@
 ---
 name: eu-konformitaetserklaerung-foss-open
-description: "Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung, Unterzeichner und technische Bezüge im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung, Unterzeichner und technische Bezüge im Robotik-Recht."
 ---
 
 # EU-Konformitäts- und Einbauerklärung

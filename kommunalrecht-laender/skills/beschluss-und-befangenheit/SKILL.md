@@ -1,6 +1,6 @@
 ---
 name: beschluss-und-befangenheit
-description: "Kommunalrecht der Länder: Beschluss und Befangenheit. Beschluss und Befangenheit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Beschluss und Befangenheit. Beschluss und Befangenheit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Beschluss Und Befangenheit

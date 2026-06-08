@@ -1,6 +1,6 @@
 ---
 name: ki-in-der-steuerkanzlei-kammerantwort-und-verfahr
-description: "Steuerberater: ki in der steuerkanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: ki in der steuerkanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: ki in der steuerkanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

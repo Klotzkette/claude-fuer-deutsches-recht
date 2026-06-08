@@ -1,6 +1,6 @@
 ---
 name: fernstudium-private-gruppenausarbeitung
-description: "Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz im Pruefungsrecht Hochschule."
 ---
 
 # Fernstudium und private Prüfstelle

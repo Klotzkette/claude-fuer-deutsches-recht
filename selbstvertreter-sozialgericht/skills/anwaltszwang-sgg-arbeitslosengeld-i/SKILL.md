@@ -1,19 +1,9 @@
 ---
 name: anwaltszwang-sgg-arbeitslosengeld-i
-description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialgericht: prüft konkret Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG, Arbeitslosengeld I nach SGB III, Arbeitsunfall, Arzt-Atteste und Befundberichte gezielt einholen und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialgericht: prüft konkret Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG, Arbeitslosengeld I nach SGB III, Arbeitsunfall, Arzt-Atteste und Befundberichte gezielt einholen und."
 ---
 
 # Anwaltszwang SGG Arbeitslosengeld I
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen. |
-| `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
-| `arbeitsunfall-bg-anerkennung-anzeige` | Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage. |
-| `arztberichte-vorlegen-laien-leitfaden` | Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext. |
-| `aufrechnung-laufende-leistungen-51-sgb-i` | Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhörung. Liefert Verteidigungsbausteine. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Anwaltszwang SGG Arbeitslosengeld I im Selbstvertretung am Sozialg
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anwaltszwang-pruefen-73-sgg`
 

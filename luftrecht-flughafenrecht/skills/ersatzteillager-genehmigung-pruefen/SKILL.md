@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-genehmigung-pruefen
-description: "Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizierung LBA-Anerkennung Zollgenehmigung Gefahrguterlaubnis. Skill prueft Genehmigungsstatus und liefert Genehmigungslücken-Analyse mit Antragsfristen im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizierung LBA-Anerkennung Zollgenehmigung Gefahrguterlaubnis. Skill prueft Genehmigungsstatus und liefert Genehmigungslücken-Analyse mit Antragsfristen im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Genehmigung prüfen

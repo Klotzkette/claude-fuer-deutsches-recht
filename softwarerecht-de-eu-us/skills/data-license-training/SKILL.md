@@ -1,6 +1,6 @@
 ---
 name: data-license-training
-description: "Prüft Datenlizenzen für Softwaretraining, Analytics, Benchmarking, KI, Produktverbesserung und Weitergabe im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenlizenzen für Softwaretraining, Analytics, Benchmarking, KI, Produktverbesserung und Weitergabe im Softwarerecht De Eu Us."
 ---
 
 # Datenlizenz für Training und Software

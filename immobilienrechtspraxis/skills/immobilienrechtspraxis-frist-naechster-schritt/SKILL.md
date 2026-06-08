@@ -1,6 +1,6 @@
 ---
 name: immobilienrechtspraxis-frist-naechster-schritt
-description: "Immobilienrechtspraxis: Fristennotiz und nächster Schritt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Immobilienrechtspraxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Immobilienrechtspraxis: Fristennotiz und nächster Schritt im Immobilienrechtspraxis."
 ---
 
 # Immobilienrechtspraxis: Fristennotiz und nächster Schritt

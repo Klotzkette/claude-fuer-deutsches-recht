@@ -1,19 +1,9 @@
 ---
 name: gartenpflege-baumfaellung-gewerberaum
-description: "Gartenpflege Baumfaellung Gewerberaum im Miet- und Wohnungseigentumsrecht: prüft konkret Gartenpflege/Baumfällung, Gewerberaum Betriebspflicht, Gewerberaum Störung der Geschäftsgrundlage, Konkurrenzschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gartenpflege Baumfaellung Gewerberaum im Miet- und Wohnungseigentumsrecht: prüft konkret Gartenpflege/Baumfällung, Gewerberaum Betriebspflicht, Gewerberaum Störung der Geschäftsgrundlage, Konkurrenzschutz."
 ---
 
 # Gartenpflege Baumfaellung Gewerberaum
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-gartenpflege-baumfaellung` | Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-betriebspflicht` | Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-covid-nachwirkungen` | Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-konkurrenzschutz` | Konkurrenzschutz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-schriftform-550` | Gewerberaum Schriftform § 550: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Gartenpflege Baumfaellung Gewerberaum im Miet- und Wohnungseigentu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-gartenpflege-baumfaellung`
 

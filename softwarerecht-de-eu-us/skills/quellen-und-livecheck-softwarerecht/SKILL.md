@@ -1,6 +1,6 @@
 ---
 name: quellen-und-livecheck-softwarerecht
-description: "Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate im Softwarerecht De Eu Us."
 ---
 
 # Quellen- und Livecheck Softwarerecht

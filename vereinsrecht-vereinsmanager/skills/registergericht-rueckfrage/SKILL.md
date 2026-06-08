@@ -1,6 +1,6 @@
 ---
 name: registergericht-rueckfrage
-description: "Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad im Vereinsrecht Vereinsmanager."
 ---
 
 # Registergericht Rückfrage

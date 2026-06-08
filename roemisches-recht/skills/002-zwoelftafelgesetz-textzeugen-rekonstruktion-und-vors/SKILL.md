@@ -1,6 +1,6 @@
 ---
 name: 002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors
-description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht."
 ---
 
 # Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors

@@ -1,6 +1,6 @@
 ---
 name: preferential-origin-not-usually
-description: "Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht im Festlandchina Wirtschaftsverkehr."
 ---
 
 # Präferenzursprung EU-China: Fehlende FTA und Alternativen

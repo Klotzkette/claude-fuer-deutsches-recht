@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollschuld-entstehung-haftung
-description: "Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass

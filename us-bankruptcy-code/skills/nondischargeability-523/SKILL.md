@@ -1,6 +1,6 @@
 ---
 name: nondischargeability-523
-description: "Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans im US Bankruptcy Code."
 ---
 
 # Nondischargeability § 523

@@ -1,18 +1,9 @@
 ---
 name: konzvgv-rahmenvereinbarung-international
-description: "Konzvgv Rahmenvereinbarung International im Plugin Fachanwalt Vergaberecht: prüft konkret Konzvgv, Rahmenvereinbarung, Schnittstelle, Sektvo. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Konzvgv Rahmenvereinbarung International im Plugin Fachanwalt Vergaberecht: prüft konkret Konzvgv, Rahmenvereinbarung, Schnittstelle, Sektvo."
 ---
 
 # Konzvgv Rahmenvereinbarung International
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-konzvgv-risikoampel-und-gegenargumente` | Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-rahmenvereinbarung-international-schnittstellen` | Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstelle-zahlen-schwellen-und-berechnung` | Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-sektvo-dokumentenmatrix-und-lueckenliste` | Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -37,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-konzvgv-risikoampel-und-gegenargumente`
 
-**Fokus:** Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht.
 
 ### Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -76,7 +67,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-rahmenvereinbarung-international-schnittstellen`
 
-**Fokus:** Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht.
 
 ### Rahmenvereinbarung: Internationaler Bezug und Schnittstellen
 
@@ -111,7 +102,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstelle-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt vergaberecht.
 
 ### Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 
@@ -146,7 +137,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-sektvo-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt vergaberecht.
 
 ### Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung
 

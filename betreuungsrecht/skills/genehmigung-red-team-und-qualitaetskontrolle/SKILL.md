@@ -1,6 +1,6 @@
 ---
 name: genehmigung-red-team-und-qualitaetskontrolle
-description: "Genehmigung: Red-Team und Qualitätskontrolle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Genehmigung: Red-Team und Qualitätskontrolle im Betreuungsrecht."
 ---
 
 # Genehmigung: Red-Team und Qualitätskontrolle

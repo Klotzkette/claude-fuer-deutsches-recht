@@ -1,6 +1,6 @@
 ---
 name: scheinkaufmann-und-rechtsschein
-description: "Prüft Rechtsschein kaufmännischen Auftretens und Vertrauensschutz im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Rechtsschein kaufmännischen Auftretens und Vertrauensschutz im Handelsrecht Hgb."
 ---
 
 # Scheinkaufmann und Rechtsschein

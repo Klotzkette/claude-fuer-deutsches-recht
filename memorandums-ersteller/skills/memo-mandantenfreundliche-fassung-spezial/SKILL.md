@@ -1,6 +1,6 @@
 ---
 name: memo-mandantenfreundliche-fassung-spezial
-description: "Spezialfall mandantenfreundliche Fassung eines juristischen Memos: Klartext, Handlungsoptionen, Risikoampel, Anhang für Tiefe. Pruefraster für Geschaeftsleitung als Adressat im Memorandums Ersteller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall mandantenfreundliche Fassung eines juristischen Memos: Klartext, Handlungsoptionen, Risikoampel, Anhang für Tiefe. Pruefraster für Geschaeftsleitung als Adressat im Memorandums Ersteller."
 ---
 
 # Memo: Mandantenfreundliche Fassung

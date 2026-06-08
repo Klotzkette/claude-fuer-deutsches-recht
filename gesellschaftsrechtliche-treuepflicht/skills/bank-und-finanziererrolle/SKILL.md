@@ -1,6 +1,6 @@
 ---
 name: bank-und-finanziererrolle
-description: "Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Bank Und Finanziererrolle

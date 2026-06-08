@@ -1,6 +1,6 @@
 ---
 name: beweisfotos-und-datenschutz
-description: "Tierschutzrecht: Beweisfotos und Datenschutz. Beweisfotos und Datenschutz im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tierschutzrecht: Beweisfotos und Datenschutz. Beweisfotos und Datenschutz im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Tierschutzrecht."
 ---
 
 # Beweisfotos Und Datenschutz

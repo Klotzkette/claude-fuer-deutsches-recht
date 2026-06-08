@@ -1,6 +1,6 @@
 ---
 name: notfallmodus-es-brennt
-description: "Solo-Selbstständige: ordnet Mahnung, Behördenbrief, Kunde droht, Konto leer oder Frist läuft; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: ordnet Mahnung, Behördenbrief, Kunde droht, Konto leer oder Frist läuft; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Kaltstart und Orientierung: Ordnet mahnung

@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflicht-jahresbericht
-description: "Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie Genehmigung Betreuungsgericht, § 1848 BGB, § 1850 BGB, § 1851 BGB, freiheitsentziehende Maßnahme oder Heimvertrag auftreten im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie Genehmigung Betreuungsgericht, § 1848 BGB, § 1850 BGB, § 1851 BGB, freiheitsentziehende Maßnahme oder Heimvertrag auftreten im Betreuungsrecht."
 ---
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)

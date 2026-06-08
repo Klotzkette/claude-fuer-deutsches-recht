@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-grundbuch-auswert
-description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Grundbuch auswerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Grundbuch auswerten im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Volkseigener Betrieb Grundbuch Auswert

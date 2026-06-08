@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-und-pommern-fortwirkung
-description: "PrALR: Nachbarrechtliche Fortwirkung, lokale Rechtsräume, Pommern-Bezüge und heutige Anwendungsrisiken prüfen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Nachbarrechtliche Fortwirkung, lokale Rechtsräume, Pommern-Bezüge und heutige Anwendungsrisiken prüfen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Nachbarrechtliche Fortwirkung

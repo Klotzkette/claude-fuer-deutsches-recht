@@ -1,6 +1,6 @@
 ---
 name: datenschutz-mitgliederliste
-description: "Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung im Vereinsrecht Vereinsmanager. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung im Vereinsrecht Vereinsmanager."
 ---
 
 # Datenschutz Mitgliederliste

@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-insolvenzrisiko-local
-description: "MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolvenzzeichen. Prueft InsO §§ 47 50 103 Aus- und Absonderungsrechte an Ersatzteilen und Werkzeugpfandrecht des Reparateurs und liefert Risikoampel für Glaeubiger im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolvenzzeichen. Prueft InsO §§ 47 50 103 Aus- und Absonderungsrechte an Ersatzteilen und Werkzeugpfandrecht des Reparateurs und liefert Risikoampel für Glaeubiger im Luftrecht Flughafenrecht."
 ---
 
 # Ersatzteillager – Insolvenzrisiko markieren

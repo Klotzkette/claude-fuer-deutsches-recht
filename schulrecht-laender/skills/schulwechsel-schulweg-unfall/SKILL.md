@@ -1,6 +1,6 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulwechsel zwischen Schulen, Schularten und Bundesländern im Schulrecht Länder."
 ---
 
 # Schulwechsel

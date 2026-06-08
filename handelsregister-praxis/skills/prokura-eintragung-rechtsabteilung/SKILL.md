@@ -1,6 +1,6 @@
 ---
 name: prokura-eintragung-rechtsabteilung
-description: "Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster im Handelsregister Praxis."
 ---
 
 # Prokura anmelden und löschen

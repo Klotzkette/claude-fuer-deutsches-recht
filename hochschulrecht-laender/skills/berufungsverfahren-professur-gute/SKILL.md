@@ -1,6 +1,6 @@
 ---
 name: berufungsverfahren-professur-gute
-description: "Prüft Berufungsverfahren für Professuren im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Berufungsverfahren für Professuren im Hochschulrecht Länder."
 ---
 
 # Berufungsverfahren Professur

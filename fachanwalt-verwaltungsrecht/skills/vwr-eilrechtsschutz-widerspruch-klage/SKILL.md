@@ -1,16 +1,9 @@
 ---
 name: vwr-eilrechtsschutz-widerspruch-klage
-description: "VWR Eilrechtsschutz Widerspruch Klage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Spezialfall Eilrechtsschutz vor Verwaltungsgericht, Entscheidung Widerspruch vs. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "VWR Eilrechtsschutz Widerspruch Klage im Plugin Fachanwalt Verwaltungsrecht: prüft konkret Spezialfall Eilrechtsschutz vor Verwaltungsgericht, Entscheidung Widerspruch vs."
 ---
 
 # VWR Eilrechtsschutz Widerspruch Klage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `vwr-spezial-eilrechtsschutz` | Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte für Eilantrag. |
-| `widerspruch-oder-klage-erstpruefung` | Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorläufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorläufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "VWR Eilrechtsschutz Widerspruch Klage im Plugin Fachanwalt Verwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `vwr-spezial-eilrechtsschutz`
 

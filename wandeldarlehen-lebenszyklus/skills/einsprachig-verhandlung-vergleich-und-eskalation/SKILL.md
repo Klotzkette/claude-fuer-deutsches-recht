@@ -1,6 +1,6 @@
 ---
 name: einsprachig-verhandlung-vergleich-und-eskalation
-description: "Einsprachig: Verhandlung, Vergleich und Eskalation im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Wandeldarlehen Lebenszyklus. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Einsprachig: Verhandlung, Vergleich und Eskalation im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
 ---
 
 # Einsprachig: Verhandlung, Vergleich und Eskalation

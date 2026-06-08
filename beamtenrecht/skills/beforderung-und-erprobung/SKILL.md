@@ -1,6 +1,6 @@
 ---
 name: beforderung-und-erprobung
-description: "Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten im Beamtenrecht."
 ---
 
 # Beforderung Und Erprobung

@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft
-description: "Berufsausübungsgesellschaft: vertiefter Berufsrechts-Skill für Steuerberater; prüft Gesellschaftsform, Fremdbeteiligung, Geschäftsführung, Compliance und Register, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berufsausübungsgesellschaft: vertiefter Berufsrechts-Skill für Steuerberater; prüft Gesellschaftsform, Fremdbeteiligung, Geschäftsführung, Compliance und Register, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Berufsausübungsgesellschaft

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-strafverteidigung-uebersichten
-description: "Strafrecht: Abschlussprodukt und Übergabe im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Strafrecht: Abschlussprodukt und Übergabe im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Strafrecht: Abschlussprodukt und Übergabe

@@ -1,19 +1,9 @@
 ---
 name: methodenlehre-zivilrecht-start-belegmatrix-fristen
-description: "Zivilrecht Start Belegmatrix Fristen im Plugin Methodenlehre Buergerliches Recht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Methodenlehre, Dieses Skill erstellt eine vollständige, Dieses Skill bearbeitet die systematische. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Zivilrecht Start Belegmatrix Fristen im Plugin Methodenlehre Buergerliches Recht: prüft konkret Einstieg, Schnelltriage und Fallrouting im Methodenlehre, Dieses Skill erstellt eine vollständige, Dieses Skill bearbeitet die systematische."
 ---
 
 # Zivilrecht Start Belegmatrix Fristen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `methodenlehre-buergerliches-recht-allgemein` | Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
-| `workflow-chronologie-und-belegmatrix` | Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs. |
-| `workflow-fristen-und-risikoampel` | Dieses Skill bearbeitet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate. Es zeigt, wie alle mandatsrelevanten Fristen in einem einheitlichen System erfasst werden, wie kritische Fristen durch ein Ampelsystem (grün, gelb, rot) nach Dringlichkeit priorisiert werden und wie Anwälte sicherstellen, dass keine Frist versäumt wird. Das Skill reduziert das Haftungsrisiko und sichert die methodische Qualität der Mandatsführung durch proaktive Fristenkontrolle. |
-| `workflow-mandantenkommunikation` | Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe. |
-| `workflow-redteam-qualitygate` | Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Ergebnis dokumentiert und für die Überarbeitung genutzt wird. Das Skill sichert die methodische und inhaltliche Qualität aller juristischen Endprodukte vor ihrer Verwendung und reduziert das Risiko von Überraschungen im Verfahren. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Zivilrecht Start Belegmatrix Fristen im Plugin Methodenlehre Buerg
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `methodenlehre-buergerliches-recht-allgemein`
 

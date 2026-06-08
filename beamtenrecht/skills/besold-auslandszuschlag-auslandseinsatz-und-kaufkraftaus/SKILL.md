@@ -1,6 +1,6 @@
 ---
 name: besold-auslandszuschlag-auslandseinsatz-und-kaufkraftaus
-description: "Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich im Beamtenrecht."
 ---
 
 # Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus

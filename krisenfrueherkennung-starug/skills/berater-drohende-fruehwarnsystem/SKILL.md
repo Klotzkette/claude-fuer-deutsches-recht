@@ -1,6 +1,6 @@
 ---
 name: berater-drohende-fruehwarnsystem
-description: "Berater: Verhandlung, Vergleich und Eskalation im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berater: Verhandlung, Vergleich und Eskalation im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Berater: Verhandlung, Vergleich und Eskalation

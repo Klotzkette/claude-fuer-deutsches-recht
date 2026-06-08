@@ -1,6 +1,6 @@
 ---
 name: kleinunternehmerregelung-und-wachstumsschmerz
-description: "Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen im Influencer-Recht."
 ---
 
 # Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz

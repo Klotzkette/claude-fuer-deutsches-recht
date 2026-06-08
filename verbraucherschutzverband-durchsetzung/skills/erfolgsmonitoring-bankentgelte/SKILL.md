@@ -1,6 +1,6 @@
 ---
 name: erfolgsmonitoring-bankentgelte
-description: "Verbraucherschutzverband Durchsetzung: Erfolgsmonitoring. Erfolgsmonitoring im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Erfolgsmonitoring. Erfolgsmonitoring im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Erfolgsmonitoring

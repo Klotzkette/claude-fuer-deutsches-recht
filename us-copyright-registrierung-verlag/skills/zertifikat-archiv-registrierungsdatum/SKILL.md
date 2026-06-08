@@ -1,6 +1,6 @@
 ---
 name: zertifikat-archiv-registrierungsdatum
-description: "Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report im Us Copyright Registrierung Verlag."
 ---
 
 # Zertifikat, Archiv und Registrierungsdatum

@@ -1,18 +1,9 @@
 ---
 name: long-covid-me-psychisch-somatisch-reha
-description: "Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozialrecht: prüft konkret ME/CFS, PEM und Beweisführung, Long-Covid psychisch, somatisch oder multifaktoriell. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozialrecht: prüft konkret ME/CFS, PEM und Beweisführung, Long-Covid psychisch, somatisch oder multifaktoriell."
 ---
 
 # Long Covid ME Psychisch Somatisch Reha
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `long-covid-me-cfs-pem-beweis` | ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.; Normanker: SGB VI § 43; SGB IX § 152; SGG §§ 103 und 106; AWMF Long/Post-COVID; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `long-covid-psychisch-oder-somatisch` | Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.; Normanker: SGB X Amtsermittlung; SGB VI § 43; SGB IX § 152; ICD U09.9 als Zusatzkennzeichen; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `long-covid-reha-und-teilhabe` | Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.; Normanker: SGB IX Teilhabe; SGB VI Reha; SGB V Heil-/Hilfsmittel; SGB III; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
-| `mandanten-intake` | Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behörden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check). |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Long Covid ME Psychisch Somatisch Reha im Plugin Fachanwalt Sozial
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `long-covid-me-cfs-pem-beweis`
 

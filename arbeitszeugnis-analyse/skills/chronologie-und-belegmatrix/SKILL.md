@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Chronologie und Belegmatrix im Plugin Arbeitszeugnis Analyse im Arbeitszeugnis-Analyse."
 ---
 
 # Chronologie und Belegmatrix

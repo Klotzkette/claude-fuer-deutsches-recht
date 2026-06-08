@@ -1,6 +1,6 @@
 ---
 name: erasmus-mobility-pruefungsfolgen
-description: "Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Auslandssemester im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Auslandssemester im Pruefungsrecht Hochschule."
 ---
 
 # Erasmus/Mobility und Prüfungsfolgen

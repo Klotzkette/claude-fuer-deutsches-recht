@@ -1,6 +1,6 @@
 ---
 name: beihilfe-und-heilfuersorge
-description: "Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit im Beamtenrecht."
 ---
 
 # Beihilfe Und Heilfürsorge

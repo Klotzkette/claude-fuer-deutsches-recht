@@ -1,6 +1,6 @@
 ---
 name: pitchdeck-und-teaser-analyse
-description: "Zerlegt Pitchdeck, Teaser oder Notion-Deck in These, Zahlen, Claims, Risiken, Auslassungen und Follow-up-Fragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zerlegt Pitchdeck, Teaser oder Notion-Deck in These, Zahlen, Claims, Risiken, Auslassungen und Follow-up-Fragen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pitchdeck- und Teaser-Analyse

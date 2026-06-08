@@ -1,6 +1,6 @@
 ---
 name: rechnung-streit-deeskalation
-description: "Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, Value Story, Kulanz, Nachlass und künftiger Prozess zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, Value Story, Kulanz, Nachlass und künftiger Prozess zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Rechnungsstreit deeskalieren

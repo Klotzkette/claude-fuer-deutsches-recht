@@ -1,6 +1,6 @@
 ---
 name: ifg-transparenz-hochschule
-description: "Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten im Hochschulrecht Länder."
 ---
 
 # IFG und Transparenz Hochschule

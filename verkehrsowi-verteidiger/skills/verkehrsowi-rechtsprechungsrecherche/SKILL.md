@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rechtsprechungsrecherche
-description: "Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverbot. Normen: §§ 24 StVG, 25 StVG, 4 StVG; OWiG §§ 67 und 79 und 80. Prüfraster: OLG-Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang), Suchstrategien für Messverfahren/Rohmessdaten/Verjährung/Fahrverbot, Kernzitate BVerfG, BGH, OLGs. Output Fundstellen-Liste mit Aktenzeichen, Datum, Leitsatz, Verwertungsnotiz. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Corporate-Rspr-Recherche siehe corporate-kanzlei-rechtsprechungsrecherche im Verkehrsowi Verteidiger. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverbot. Normen: §§ 24 StVG, 25 StVG, 4 StVG; OWiG §§ 67 und 79 und 80. Prüfraster: OLG-Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang), Suchstrategien für Messverfahren/Rohmessdaten/Verjährung/Fahrverbot, Kernzitate BVerfG, BGH, OLGs. Output Fundstellen-Liste mit Aktenzeichen, Datum, Leitsatz, Verwertungsnotiz. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Corporate-Rspr-Recherche siehe corporate-kanzlei-rechtsprechungsrecherche im Verkehrsowi Verteidiger."
 ---
 
 # Rechtsprechungsrecherche OWi-Verkehrsrecht

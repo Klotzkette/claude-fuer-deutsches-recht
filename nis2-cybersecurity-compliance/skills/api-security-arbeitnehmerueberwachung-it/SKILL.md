@@ -1,6 +1,6 @@
 ---
 name: api-security-arbeitnehmerueberwachung-it
-description: "Prüft API-Sicherheit in Produkten und internen Schnittstellen im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft API-Sicherheit in Produkten und internen Schnittstellen im Nis2 Cybersecurity Compliance."
 ---
 
 # API Security

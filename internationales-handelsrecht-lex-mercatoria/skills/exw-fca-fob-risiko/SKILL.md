@@ -1,6 +1,6 @@
 ---
 name: exw-fca-fob-risiko
-description: "Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # EXW, FCA, FOB: Risikoübergang und Pflichten

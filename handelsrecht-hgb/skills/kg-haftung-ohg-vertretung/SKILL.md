@@ -1,6 +1,6 @@
 ---
 name: kg-haftung-ohg-vertretung
-description: "Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Außenhaftung, Einlage, Rückzahlung, Registerpublizität und Wiederaufleben im Handelsrecht Hgb."
 ---
 
 # Kommanditistenhaftung §§ 171, 172 HGB

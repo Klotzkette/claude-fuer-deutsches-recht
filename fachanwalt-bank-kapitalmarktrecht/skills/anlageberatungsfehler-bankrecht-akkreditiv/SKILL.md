@@ -1,17 +1,9 @@
 ---
 name: anlageberatungsfehler-bankrecht-akkreditiv
-description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Bankgarantie auf erste Anforderung im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Bank Kapitalmarktrecht: prüft konkrete Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat, Bürgschaft oder Bankgarantie auf erste Anforderung im."
 ---
 
 # Anlageberatungsfehler Bankrecht Akkreditiv
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `anlageberatungsfehler-pruefen` | Anlageberatungsfehler Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `bankrecht-akkreditiv-standby-lc-dokumentenstreit` | Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung. |
-| `bankrecht-buergschaft-auf-erste-anforderung` | Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `anlageberatungsfehler-pruefen`
 

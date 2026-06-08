@@ -1,6 +1,6 @@
 ---
 name: kuendigung-zahlungsverzug-insolvenz
-description: "Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung im Leasingrecht."
 ---
 
 # Kündigung, Rückholung und Verwertung

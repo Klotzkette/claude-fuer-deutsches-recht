@@ -1,6 +1,6 @@
 ---
 name: beurkundung-ausland-beurkundungsabbruch
-description: "Notare: beurkundung im ausland bezug - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: beurkundung im ausland bezug - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: beurkundung im ausland bezug - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

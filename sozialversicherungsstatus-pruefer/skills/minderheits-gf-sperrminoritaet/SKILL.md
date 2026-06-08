@@ -1,6 +1,6 @@
 ---
 name: minderheits-gf-sperrminoritaet
-description: "Prüft Minderheitsgesellschafter-Geschäftsführer mit echter umfassender Sperrminorität im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Minderheitsgesellschafter-Geschäftsführer mit echter umfassender Sperrminorität im Sozialversicherungsstatus Pruefer."
 ---
 
 # Minderheits-GF mit Sperrminorität

@@ -1,6 +1,6 @@
 ---
 name: verhaltenskodex-integritaet-verstoesse-melden
-description: "Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check im Lobbyregister Bundestag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check im Lobbyregister Bundestag."
 ---
 
 # Verhaltenskodex und Integritaet

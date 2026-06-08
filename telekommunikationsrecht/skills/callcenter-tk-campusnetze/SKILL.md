@@ -1,6 +1,6 @@
 ---
 name: callcenter-tk-campusnetze
-description: "Telefonwerbung, Einwilligung, Rufnummernanzeige, Dokumentation, Bußgeldrisiko und Callcenter-Verträge im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Telefonwerbung, Einwilligung, Rufnummernanzeige, Dokumentation, Bußgeldrisiko und Callcenter-Verträge im Telekommunikationsrecht."
 ---
 
 # Werbeanrufe und Callcenter

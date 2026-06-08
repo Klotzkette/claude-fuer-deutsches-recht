@@ -1,6 +1,6 @@
 ---
 name: per-seat-per-core-usage-metrics
-description: "Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen im Softwarerecht De Eu Us."
 ---
 
 # Seat/Core/Usage-Metriken

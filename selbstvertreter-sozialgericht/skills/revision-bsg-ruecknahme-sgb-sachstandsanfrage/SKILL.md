@@ -1,19 +1,9 @@
 ---
 name: revision-bsg-ruecknahme-sgb-sachstandsanfrage
-description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung am Sozialgericht: prüft konkret Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im, Eigenes Gutachten nach § 109 SGG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung am Sozialgericht: prüft konkret Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im, Eigenes Gutachten nach § 109 SGG."
 ---
 
 # Revision BSG Rücknahme SGB Sachstandsanfrage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `revision-bsg-160-sgg` | Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil. |
-| `ruecknahme-48-sgb-x-aenderung` | Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung für die Zukunft oder rueckwirkend. Liefert Pruefraster. |
-| `sachstandsanfrage-und-untaetigkeitsbeschwerde` | Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behörde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage. |
-| `sachverstaendigen-wahlrecht-109-sgg` | Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag. |
-| `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `revision-bsg-160-sgg`
 

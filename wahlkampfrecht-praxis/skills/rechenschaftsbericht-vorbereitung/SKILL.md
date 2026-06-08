@@ -1,6 +1,6 @@
 ---
 name: rechenschaftsbericht-vorbereitung
-description: "Wahlkampfrecht Praxis: Wahlkampfbelege für den Rechenschaftsbericht aufbereiten im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Wahlkampfbelege für den Rechenschaftsbericht aufbereiten im Wahlkampfrecht."
 ---
 
 # Rechenschaftsbericht Vorbereitung

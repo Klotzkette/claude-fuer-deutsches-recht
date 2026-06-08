@@ -1,6 +1,6 @@
 ---
 name: ma-commercial-drafting
-description: "Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output Markup Risikomatrix Klausel-Vorschlaege. Abgrenzung zu common-law-representations-warranties-covenants (Klausel-Theorie) und common-law-bilingual-contract-review (bilingual) im Common Law Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output Markup Risikomatrix Klausel-Vorschlaege. Abgrenzung zu common-law-representations-warranties-covenants (Klausel-Theorie) und common-law-bilingual-contract-review (bilingual) im Common Law Kompass."
 ---
 
 # M&A und Commercial Drafting

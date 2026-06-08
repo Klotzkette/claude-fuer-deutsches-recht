@@ -1,6 +1,6 @@
 ---
 name: antwortschreiben-hinweisgeber
-description: "Formuliert Antworten an Hinweisgeber rechtssicher im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Formuliert Antworten an Hinweisgeber rechtssicher im Hinweisgeberschutz Compliance."
 ---
 
 # Antwortschreiben Hinweisgeber

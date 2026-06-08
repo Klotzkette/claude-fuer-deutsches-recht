@@ -1,6 +1,6 @@
 ---
 name: manufacturing-agreement
-description: "Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Produktionsvertrag International

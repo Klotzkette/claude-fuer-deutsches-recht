@@ -1,19 +1,9 @@
 ---
 name: fa-familienrecht-fristen-risiko-mandant
-description: "FA Familienrecht Fristen Risiko Mandant im Plugin Fachanwalt Familienrecht: prüft konkret Fristen- und Risikoampel im Plugin fachanwalt-familienrecht, Mandantenkommunikation im Plugin fachanwalt-familienrecht, Red-Team Qualitygate im Plugin fachanwalt-familienrecht, zur strukturierten Aufnahme. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "FA Familienrecht Fristen Risiko Mandant im Plugin Fachanwalt Familienrecht: prüft konkret Fristen- und Risikoampel im Plugin fachanwalt-familienrecht, Mandantenkommunikation im Plugin fachanwalt-familienrecht, Red-Team Qualitygate im Plugin fachanwalt-familienrecht, zur strukturierten Aufnahme."
 ---
 
 # FA Familienrecht Fristen Risiko Mandant
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-familienrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-familienrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-familienrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `scheidungsverbund-va-fristenplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Scheidungsverbund VA Fristenplan. |
-| `spezial-fristen-behoerden-gericht-und-registerweg` | Fristen: Behörden-, Gerichts- oder Registerweg im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "FA Familienrecht Fristen Risiko Mandant im Plugin Fachanwalt Famil
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-fristen-und-risikoampel`
 

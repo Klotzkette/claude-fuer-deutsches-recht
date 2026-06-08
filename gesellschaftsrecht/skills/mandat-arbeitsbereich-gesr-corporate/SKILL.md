@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich-gesr-corporate
-description: "Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei neues Mandat, Mandat wechseln, Mandate auflisten, Mandat schließen oder wenn der Nutzer nur auf Praxisebene arbeiten möchte im Gesellschaftsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei neues Mandat, Mandat wechseln, Mandate auflisten, Mandat schließen oder wenn der Nutzer nur auf Praxisebene arbeiten möchte im Gesellschaftsrecht."
 ---
 
 # Mandats-Workspace

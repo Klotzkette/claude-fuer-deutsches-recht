@@ -1,6 +1,6 @@
 ---
 name: ki-nutzung-plagiat-hausarbeit-klassenbildung
-description: "Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen im Schulrecht Länder."
 ---
 
 # KI Nutzung Schule

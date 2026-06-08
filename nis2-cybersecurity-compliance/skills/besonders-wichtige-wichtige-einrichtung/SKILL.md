@@ -1,6 +1,6 @@
 ---
 name: besonders-wichtige-wichtige-einrichtung
-description: "Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unterscheidet besonders wichtige und wichtige Einrichtungen und leitet Aufsichtstiefe ab im Nis2 Cybersecurity Compliance."
 ---
 
 # Besonders Wichtige Wichtige Einrichtung

@@ -1,6 +1,6 @@
 ---
 name: hochschulrat-aufsicht-ministerium
-description: "Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung im Hochschulrecht Länder."
 ---
 
 # Hochschulrat, Aufsicht und Ministerium

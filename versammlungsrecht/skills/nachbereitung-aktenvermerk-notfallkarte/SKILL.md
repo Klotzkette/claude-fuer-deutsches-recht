@@ -1,6 +1,6 @@
 ---
 name: nachbereitung-aktenvermerk-notfallkarte
-description: "Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Nachbereitung nach Durchführung, Auflagenproblemen, Polizeikontakt, Presse und möglichem Folgeverfahren im Versammlungsrecht."
 ---
 
 # Nach der Versammlung ist die Akte noch nicht fertig

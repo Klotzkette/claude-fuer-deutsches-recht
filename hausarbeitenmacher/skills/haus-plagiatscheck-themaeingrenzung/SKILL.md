@@ -1,6 +1,6 @@
 ---
 name: haus-plagiatscheck-themaeingrenzung
-description: "Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Pruefungsrecht, Tools. Pruefraster für Pruefungsamt und Studierende im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Pruefungsrecht, Tools. Pruefraster für Pruefungsamt und Studierende im Hausarbeitenmacher."
 ---
 
 # Haus: Plagiatscheck Eigenstaendigkeit

@@ -1,6 +1,6 @@
 ---
 name: gemeinde-kirche-stiftung-als-eigentuemer
-description: "Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis im Erbbaurecht Praxis."
 ---
 
 # Gemeinde/Kirche/Stiftung als Grundstückseigentümer

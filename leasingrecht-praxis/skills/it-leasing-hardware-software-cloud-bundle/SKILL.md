@@ -1,6 +1,6 @@
 ---
 name: it-leasing-hardware-software-cloud-bundle
-description: "IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung im Leasingrecht."
 ---
 
 # IT-Leasing: Hardware, Software und Cloud-Bundle

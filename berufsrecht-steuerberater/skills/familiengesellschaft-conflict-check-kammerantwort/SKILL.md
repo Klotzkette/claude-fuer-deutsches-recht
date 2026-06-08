@@ -1,6 +1,6 @@
 ---
 name: familiengesellschaft-conflict-check-kammerantwort
-description: "Steuerberater: familiengesellschaft conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: familiengesellschaft conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: familiengesellschaft conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

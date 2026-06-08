@@ -1,6 +1,6 @@
 ---
 name: auslandsurkunden-apostille-legalisation-uebersetzung
-description: "Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis im Handelsregister Praxis."
 ---
 
 # Auslandsurkunden registerfest machen

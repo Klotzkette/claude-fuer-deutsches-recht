@@ -1,6 +1,6 @@
 ---
 name: verlust-zeichenbudgets
-description: "Verlust: Formular, Portal und Einreichungslogik im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verlust: Formular, Portal und Einreichungslogik im Plugin forschungszulage antragstellung im Forschungszulage."
 ---
 
 # Verlust: Formular, Portal und Einreichungslogik

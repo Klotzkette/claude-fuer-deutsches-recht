@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-sgb-amtsermittlungsgrundsatz
-description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am Sozialgericht: prüft konkret Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs, Anlagen zur Klage richtig bezeichnen sortieren und. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am Sozialgericht: prüft konkret Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs, Anlagen zur Klage richtig bezeichnen sortieren und."
 ---
 
 # Akteneinsicht SGB Amtsermittlungsgrundsatz
@@ -8,16 +8,6 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 ## Arbeitsbereich
 
 **Akteneinsicht SGB Amtsermittlungsgrundsatz** ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `akteneinsicht-25-sgb-x` | Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage. |
-| `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
-| `anfechtungsklage-54-sgg` | Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt. |
-| `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
-| `anwaltskosten-bei-erfolg-erstattung` | Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte. |
 
 ## Arbeitsweg
 
@@ -27,7 +17,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `akteneinsicht-25-sgb-x`
 

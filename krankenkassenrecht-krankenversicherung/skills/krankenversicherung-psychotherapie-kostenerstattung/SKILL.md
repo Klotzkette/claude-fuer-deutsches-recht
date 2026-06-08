@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-psychotherapie-kostenerstattung
-description: "GKV-Psychotherapie: Richtlinienpsychotherapie, Systemversagen und Kostenerstattung privater Therapeuten, Akutbehandlung nach § 92 SGB V im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "GKV-Psychotherapie: Richtlinienpsychotherapie, Systemversagen und Kostenerstattung privater Therapeuten, Akutbehandlung nach § 92 SGB V im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Psychotherapie: Kostenerstattung, Systemversagen und Akutbehandlung

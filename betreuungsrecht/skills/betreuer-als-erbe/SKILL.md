@@ -1,6 +1,6 @@
 ---
 name: betreuer-als-erbe
-description: "Prüfungslinie für betreuer als erbe im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüfungslinie für betreuer als erbe im Betreuungsrecht."
 ---
 
 # Betreuer als Erbe und Beschenkter

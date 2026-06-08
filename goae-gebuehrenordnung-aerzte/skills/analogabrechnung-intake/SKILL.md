@@ -1,6 +1,6 @@
 ---
 name: analogabrechnung-intake
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ im Goae Gebührenordnung Aerzte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ im Goae Gebührenordnung Aerzte."
 ---
 
 # Analogabrechnung Intake § 6 GOÄ

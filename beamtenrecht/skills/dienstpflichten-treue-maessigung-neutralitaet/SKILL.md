@@ -1,6 +1,6 @@
 ---
 name: dienstpflichten-treue-maessigung-neutralitaet
-description: "Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dienstpflichten: Treuepflicht, Mäßigung, Neutralität, Wahrheitspflicht, Amtsverschwiegenheit und Social Media im Beamtenrecht."
 ---
 
 # Dienstpflichten Treue Maessigung Neutralitaet

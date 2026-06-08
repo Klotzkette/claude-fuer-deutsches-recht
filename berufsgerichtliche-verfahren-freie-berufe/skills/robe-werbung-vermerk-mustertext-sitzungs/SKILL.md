@@ -1,6 +1,6 @@
 ---
 name: robe-werbung-vermerk-mustertext-sitzungs
-description: "Robe, Werbung und Sachlichkeit: prüft Werberecht, Sachlichkeitsgebot, Auftritt vor Gericht und Berufsbild in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Robe, Werbung und Sachlichkeit: prüft Werberecht, Sachlichkeitsgebot, Auftritt vor Gericht und Berufsbild in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Robe, Werbung und Sachlichkeit

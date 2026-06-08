@@ -1,6 +1,6 @@
 ---
 name: belehrungspflicht-verbraucher-faktenma
-description: "Notare: belehrungspflicht und verbraucher - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: belehrungspflicht und verbraucher - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Notare."
 ---
 
 # Notare: belehrungspflicht und verbraucher - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

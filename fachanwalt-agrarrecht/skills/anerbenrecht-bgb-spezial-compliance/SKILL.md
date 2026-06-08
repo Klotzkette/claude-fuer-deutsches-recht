@@ -1,17 +1,9 @@
 ---
 name: anerbenrecht-bgb-spezial-compliance
-description: "Anerbenrecht BGB Spezial Compliance im Agrarrecht: prüft konkret Anerbenrecht, BGB, Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Anerbenrecht BGB Spezial Compliance im Agrarrecht: prüft konkret Anerbenrecht, BGB, Compliance."
 ---
 
 # Anerbenrecht BGB Spezial Compliance
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-anerbenrecht-risikoampel-und-gegenargumente` | Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-bgb-verhandlung-vergleich-und-eskalation` | BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-compliance-compliance-dokumentation-und-akte` | Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -38,11 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-anerbenrecht-risikoampel-und-gegenargumente`
 
-**Fokus:** Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt agrarrecht.
 
 ### Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -67,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bgb-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht.
 
 ### BGB: Verhandlung, Vergleich und Eskalation
 
@@ -92,7 +84,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-compliance-compliance-dokumentation-und-akte`
 
-**Fokus:** Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht.
 
 ### Compliance: Compliance-Dokumentation und Aktenvermerk
 

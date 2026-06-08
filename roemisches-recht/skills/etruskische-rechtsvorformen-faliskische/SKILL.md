@@ -1,6 +1,6 @@
 ---
 name: etruskische-rechtsvorformen-faliskische
-description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Römisches Recht."
 ---
 
 # Rom Etruskische Rechtsvorformen Quellenarmut Und Ritualr

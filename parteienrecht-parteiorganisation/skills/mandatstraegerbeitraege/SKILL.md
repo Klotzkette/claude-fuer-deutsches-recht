@@ -1,6 +1,6 @@
 ---
 name: mandatstraegerbeitraege
-description: "Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht im Parteienrecht."
 ---
 
 # Mandatsträgerbeiträge

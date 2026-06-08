@@ -1,6 +1,6 @@
 ---
 name: kaufmann-paragraph-kg-begriff
-description: "Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Istkaufmann und Handelsgewerbe nach Art und Umfang im Handelsrecht Hgb."
 ---
 
 # Kaufmann § 1 HGB

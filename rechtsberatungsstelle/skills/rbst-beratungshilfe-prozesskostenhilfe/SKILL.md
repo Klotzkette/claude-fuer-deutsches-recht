@@ -1,6 +1,6 @@
 ---
 name: rbst-beratungshilfe-prozesskostenhilfe
-description: "Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Pruefraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Beratungshilfe und Prozesskostenhilfe: Antragsvoraussetzungen, Vermoegen, Erfolgsaussicht, Eigenbeitrag. Pruefraster für Mandant und Rechtsanwalt im Rechtsberatungsstelle."
 ---
 
 # RBst: Beratungshilfe PKH

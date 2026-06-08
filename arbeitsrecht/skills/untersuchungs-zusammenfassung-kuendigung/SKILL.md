@@ -1,18 +1,9 @@
 ---
 name: untersuchungs-zusammenfassung-kuendigung
-description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: prüft konkret Entwirft den vertraulichen Untersuchungsvermerk aus dem, Entwirft eine zielgruppengerechte Zusammenfassung aus dem, Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen, Arbeitsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: prüft konkret Entwirft den vertraulichen Untersuchungsvermerk aus dem, Entwirft eine zielgruppengerechte Zusammenfassung aus dem, Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen, Arbeitsrecht."
 ---
 
 # Untersuchungs Zusammenfassung Kuendigung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben. |
-| `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll. |
-| `kuendigung-zugang-beweiswerkstatt` | Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen nach § 623 BGB und § 130 BGB: Bote, Einwurf, Einschreiben, Krankheit, Urlaub, Empfangsverweigerung, Dreiwochenfrist, Beweis des konkreten Inhalts und prozessfeste Zustellmatrix. |
-| `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment` | Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `untersuchungs-memo`
 

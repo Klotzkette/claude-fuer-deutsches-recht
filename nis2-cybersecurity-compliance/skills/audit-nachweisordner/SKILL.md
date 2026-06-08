@@ -1,6 +1,6 @@
 ---
 name: audit-nachweisordner
-description: "Baut den Nachweisordner für Audit, Aufsicht und Streit im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut den Nachweisordner für Audit, Aufsicht und Streit im Nis2 Cybersecurity Compliance."
 ---
 
 # Audit Nachweisordner

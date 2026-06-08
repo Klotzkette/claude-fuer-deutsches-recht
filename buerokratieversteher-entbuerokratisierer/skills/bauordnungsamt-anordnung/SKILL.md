@@ -1,6 +1,6 @@
 ---
 name: bauordnungsamt-anordnung
-description: "Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag im Bürokratie-Entbürokratisierung."
 ---
 
 # Bauordnungsamt-Anordnung

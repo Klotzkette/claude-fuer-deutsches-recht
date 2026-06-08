@@ -1,16 +1,9 @@
 ---
 name: produkthaftung-medizinprodukt-schmerzensgeld
-description: "Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prüft konkret Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prüft konkret Produkthaftung Medizinprodukt PLD 2024, Schmerzensgeld bei Hightech-Schaden."
 ---
 
 # Produkthaftung Medizinprodukt Schmerzensgeld
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `produkthaftung-medizinprodukt-pld` | Produkthaftung Medizinprodukt PLD 2024: moderner Medizinrechts-Skill für Defektes Medizinprodukt, Software, KI, Updatepflicht, Beweiserleichterung und Wirtschaftsakteure. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `schmerzensgeld-hightech-schaden` | Schmerzensgeld bei Hightech-Schaden: moderner Medizinrechts-Skill für Schwere Dauerschäden durch Medizinprodukt, Gentherapie oder Klinikfehler; materielle Folgeschäden. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -20,7 +13,7 @@ description: "Produkthaftung Medizinprodukt Schmerzensgeld im Medizinrecht: prü
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `produkthaftung-medizinprodukt-pld`
 

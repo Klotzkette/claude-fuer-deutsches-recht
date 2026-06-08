@@ -1,6 +1,6 @@
 ---
 name: vorsatzanfechtung-133-inso
-description: "Vorsatzanfechtung 133 Inso: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vorsatzanfechtung 133 Inso: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Insolvenzrecht."
 ---
 
 # Vorsatzanfechtung § 133 InsO

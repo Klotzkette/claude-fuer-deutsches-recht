@@ -1,17 +1,9 @@
 ---
 name: rechtsbegriff-geltung-rechtsrealismus
-description: "Rechtsbegriff Geltung Rechtsrealismus im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, was in einer Argumentation als Recht gilt, Nutzen realistischer Perspektiven, Prueft Rechtssicherheit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rechtsbegriff Geltung Rechtsrealismus im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft, was in einer Argumentation als Recht gilt, Nutzen realistischer Perspektiven, Prueft Rechtssicherheit."
 ---
 
 # Rechtsbegriff Geltung Rechtsrealismus
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `rechtsbegriff-und-geltung` | Prueft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law. |
-| `rechtsrealismus-und-entscheidungsprognose` | Nutzen realistischer Perspektiven: Wie entscheiden Institutionen tatsaechlich, welche Folgen hat das für Beratung, Prozessstrategie und Begründung? |
-| `rechtssicherheit-vertrauen-rueckwirkung` | Prueft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `rechtsbegriff-und-geltung`
 

@@ -1,6 +1,6 @@
 ---
 name: shared-resources
-description: "Gestaltet geteilte Ressourcen mittelgroßer Unternehmen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet geteilte Ressourcen mittelgroßer Unternehmen im Hinweisgeberschutz Compliance."
 ---
 
 # Shared Resources

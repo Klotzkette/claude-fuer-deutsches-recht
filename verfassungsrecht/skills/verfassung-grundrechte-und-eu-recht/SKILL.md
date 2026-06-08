@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundrechte-und-eu-recht
-description: "Verhaeltnis GG-Grundrechte und EU-Grundrechtecharta: Solange-II BVerfGE 73 S. 339, Bananenmarkt BVerfGE 102 S. 147, Recht auf Vergessen I sowie II BVerfG 1 BvR 16 aus 13 und 1 BvR 276 aus 17. Pruefraster: Anwendungsbereich Charta vs. GG im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verhaeltnis GG-Grundrechte und EU-Grundrechtecharta: Solange-II BVerfGE 73 S. 339, Bananenmarkt BVerfGE 102 S. 147, Recht auf Vergessen I sowie II BVerfG 1 BvR 16 aus 13 und 1 BvR 276 aus 17. Pruefraster: Anwendungsbereich Charta vs. GG im Verfassungsrecht."
 ---
 
 # GG vs. GRC

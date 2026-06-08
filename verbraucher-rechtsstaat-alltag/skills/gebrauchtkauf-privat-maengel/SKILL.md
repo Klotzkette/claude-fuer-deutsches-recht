@@ -1,6 +1,6 @@
 ---
 name: gebrauchtkauf-privat-maengel
-description: "Gebrauchtkauf privat mit Mängeln: führt Laien durch Privater Gebrauchtkauf, Gewährleistungsausschluss, arglistiges Verschweigen und Beweisprobleme. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gebrauchtkauf privat mit Mängeln: führt Laien durch Privater Gebrauchtkauf, Gewährleistungsausschluss, arglistiges Verschweigen und Beweisprobleme. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Gebrauchtkauf privat mit Mängeln

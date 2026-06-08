@@ -1,6 +1,6 @@
 ---
 name: europa-menschenrechte-familie-partnerschaft
-description: "Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen vorsichtig im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ergänzt EMRK/EU-Grundrechte bei internationalen Bezügen vorsichtig im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Europa und Menschenrechte

@@ -1,6 +1,6 @@
 ---
 name: tatkomplexe-uebersicht
-description: "Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-Ueberschneidungen und gemeinsame Beteiligte im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-Ueberschneidungen und gemeinsame Beteiligte im Strafrechts-Aktenaufbereiter."
 ---
 
 # Tatkomplexe-Uebersicht

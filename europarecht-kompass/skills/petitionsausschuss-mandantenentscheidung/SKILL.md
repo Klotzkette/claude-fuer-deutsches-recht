@@ -1,6 +1,6 @@
 ---
 name: petitionsausschuss-mandantenentscheidung
-description: "Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Europarecht Kompass. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass im Europarecht Kompass."
 ---
 
 # Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage

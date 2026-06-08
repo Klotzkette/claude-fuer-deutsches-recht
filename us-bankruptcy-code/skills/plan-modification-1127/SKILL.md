@@ -1,6 +1,6 @@
 ---
 name: plan-modification-1127
-description: "Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code."
 ---
 
 # Plan Modification § 1127

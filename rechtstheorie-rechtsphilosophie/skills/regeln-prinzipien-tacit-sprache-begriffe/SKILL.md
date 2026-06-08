@@ -1,17 +1,9 @@
 ---
 name: regeln-prinzipien-tacit-sprache-begriffe
-description: "Regeln Prinzipien Tacit Sprache Begriffe im Rechtstheorie und Rechtsphilosophie: prüft konkret Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, Prueft Regeln als gespeichertes Erfahrungswissen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Regeln Prinzipien Tacit Sprache Begriffe im Rechtstheorie und Rechtsphilosophie: prüft konkret Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, Prueft Regeln als gespeichertes Erfahrungswissen."
 ---
 
 # Regeln Prinzipien Tacit Sprache Begriffe
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
-| `regeln-tacit-knowledge-und-kognitive-entlastung` | Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
-| `sprache-begriffe-fiktionen` | Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `regeln-prinzipien-abwaegung`
 

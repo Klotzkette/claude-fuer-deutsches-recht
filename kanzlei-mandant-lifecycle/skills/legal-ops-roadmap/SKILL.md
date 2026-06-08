@@ -1,6 +1,6 @@
 ---
 name: legal-ops-roadmap
-description: "Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, eBilling, Dashboards und Wissensspeicher zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, eBilling, Dashboards und Wissensspeicher zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Legal Ops Roadmap

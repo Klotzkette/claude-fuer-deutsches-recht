@@ -1,15 +1,9 @@
 ---
 name: zustellung-postfach
-description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Juristische Sprache Deutsch Als Zweitsprache."
 ---
 
 # Zustellung Postfach
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `zustellung-brief-postfach` | Hilft bei Zustellung Brief Postfach für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Zustellung Postfach im Bereich Juristische Sprache (DaZ) im Jurist
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung, Dolmetscherprotokoll, Glossar, Mandanteninfo in einfacher Sprache, Übersetzte Belehrung nach §§ 136, 163a StPO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `zustellung-brief-postfach`
 

@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenbriefing-musik-sampling
-description: "Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen im Urheberrecht De Eu."
 ---
 
 # Sachverständigenbriefing Musik

@@ -1,6 +1,6 @@
 ---
 name: lph-08-genehmigungen-und-auflagen
-description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 % im Hoai Leistungsphasen Praxis."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten

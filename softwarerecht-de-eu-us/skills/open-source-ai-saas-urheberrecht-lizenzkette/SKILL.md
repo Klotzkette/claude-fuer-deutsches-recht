@@ -1,6 +1,6 @@
 ---
 name: open-source-ai-saas-urheberrecht-lizenzkette
-description: "Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte im Softwarerecht De Eu Us."
 ---
 
 # Open Source AI Models

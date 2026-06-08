@@ -1,6 +1,6 @@
 ---
 name: auskunft-schadensersatz-geheimhaltung
-description: "Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang im Gebrauchsmusterrecht."
 ---
 
 # Auskunft Schadensersatz Und Rechnungslegung

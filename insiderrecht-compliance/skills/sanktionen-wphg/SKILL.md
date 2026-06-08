@@ -1,6 +1,6 @@
 ---
 name: sanktionen-wphg
-description: "Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und strafrechtliche (§ 119 WpHG) Sanktionen für MAR-Verstaesse im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und strafrechtliche (§ 119 WpHG) Sanktionen für MAR-Verstaesse im Insiderrecht Compliance."
 ---
 
 # Sanktionen nach WpHG und MAR

@@ -1,6 +1,6 @@
 ---
 name: defense-dual-use-fdi
-description: "Prüft AWG/AWV, Exportkontrolle, Sanktionen, Sicherheitsinteressen, ausländische Co-Investoren und Behördenverfahren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AWG/AWV, Exportkontrolle, Sanktionen, Sicherheitsinteressen, ausländische Co-Investoren und Behördenverfahren im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Defense, Dual Use und FDI

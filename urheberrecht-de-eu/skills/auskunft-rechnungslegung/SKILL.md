@@ -1,6 +1,6 @@
 ---
 name: auskunft-rechnungslegung
-description: "Prueft Informationsansprüche, Drittauskunft, Rechnungslegung, Belegvorlage und Besichtigung im Urheberrechtsstreit im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Informationsansprüche, Drittauskunft, Rechnungslegung, Belegvorlage und Besichtigung im Urheberrechtsstreit im Urheberrecht De Eu."
 ---
 
 # Auskunft, Rechnungslegung und Besichtigung

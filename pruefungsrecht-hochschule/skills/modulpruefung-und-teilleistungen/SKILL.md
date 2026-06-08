@@ -1,6 +1,6 @@
 ---
 name: modulpruefung-und-teilleistungen
-description: "Prüft Modulprüfung und Teilleistungen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Modulprüfung und Teilleistungen im Pruefungsrecht Hochschule."
 ---
 
 # Modulpruefung Und Teilleistungen

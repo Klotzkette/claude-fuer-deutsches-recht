@@ -1,6 +1,6 @@
 ---
 name: se-beteiligungsvereinbarung
-description: "AG/SE-Aufsichtsrat Praxis: SE Beteiligungsvereinbarung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "AG/SE-Aufsichtsrat Praxis: SE Beteiligungsvereinbarung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
 # SE Beteiligungsvereinbarung

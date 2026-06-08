@@ -1,6 +1,6 @@
 ---
 name: kundenakten-datenschutz-solo-kundenupdate
-description: "Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Datenschutz IT und Website: Ordnet speicherung

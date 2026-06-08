@@ -1,6 +1,6 @@
 ---
 name: ipsplan-planstruktur-prepack-plan
-description: "Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster für Planerstellung im Insolvenzplan Starug Planwerkstatt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster für Planerstellung im Insolvenzplan Starug Planwerkstatt."
 ---
 
 # IPSPlan: Planstruktur

@@ -1,6 +1,6 @@
 ---
 name: mandant-self-service
-description: "Mandant Self Service: steuert Mandant lädt Dokumente, prüft Status, beantwortet Fragen und sieht nächste Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mandant Self Service: steuert Mandant lädt Dokumente, prüft Status, beantwortet Fragen und sieht nächste Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Mandant Self Service

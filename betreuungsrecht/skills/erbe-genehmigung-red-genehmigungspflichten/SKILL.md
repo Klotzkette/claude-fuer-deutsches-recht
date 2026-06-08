@@ -1,6 +1,6 @@
 ---
 name: erbe-genehmigung-red-genehmigungspflichten
-description: "Erbe: Compliance-Dokumentation und Aktenvermerk; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Betreuungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erbe: Compliance-Dokumentation und Aktenvermerk im Betreuungsrecht."
 ---
 
 # Erbe: Compliance-Dokumentation und Aktenvermerk

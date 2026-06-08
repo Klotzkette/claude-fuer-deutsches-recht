@@ -1,6 +1,6 @@
 ---
 name: artemis-accords-und-verhaeltnis-zu-un-vertraegen
-description: "Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion im Weltraumrecht."
 ---
 
 # Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen

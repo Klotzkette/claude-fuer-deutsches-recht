@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft
-description: "Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

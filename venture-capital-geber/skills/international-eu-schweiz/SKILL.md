@@ -1,6 +1,6 @@
 ---
 name: international-eu-schweiz
-description: "Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europäische Co-Investoren in deutsche GmbHs im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europäische Co-Investoren in deutsche GmbHs im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # EU und Schweiz Cross-Border

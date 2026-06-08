@@ -1,6 +1,6 @@
 ---
 name: bess-brandschutz-co-location-datenschutz
-description: "Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan im Energierecht."
 ---
 
 # Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher

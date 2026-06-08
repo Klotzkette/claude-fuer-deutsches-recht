@@ -1,6 +1,6 @@
 ---
 name: ordner-auswahl
-description: "Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Hilft bei Auswahl, Anzahl, Zuverlässigkeit und Briefing von Ordnerinnen und Ordnern im Versammlungsrecht."
 ---
 
 # Ordner sind Schutz, kein Privatpolizei-Ersatz

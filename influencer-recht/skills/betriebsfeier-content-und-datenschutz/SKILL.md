@@ -1,6 +1,6 @@
 ---
 name: betriebsfeier-content-und-datenschutz
-description: "Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Betriebsfeier und Content – KUG, DSGVO, Mitarbeiterfotos, Veröffentlichungspflichten und Datenschutz im Influencer-Recht."
 ---
 
 # Influencer-Recht: Betriebsfeier, Content und Datenschutz

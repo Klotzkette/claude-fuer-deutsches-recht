@@ -1,6 +1,6 @@
 ---
 name: zwischenschritte-ma
-description: "Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte im Insiderrecht Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte im Insiderrecht Compliance."
 ---
 
 # Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung)

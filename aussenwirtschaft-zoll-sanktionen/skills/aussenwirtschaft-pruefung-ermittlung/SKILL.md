@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-pruefung-ermittlung
-description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Pruefung, Auskunftspflicht vs. Schweigerecht, Umgang mit Pruefer-Fragen, Akteneinsicht, Einspruch gegen Pruefungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Pruefungsbegleit-Protokoll und Rechtsmittelschriftsatz im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Pruefung, Auskunftspflicht vs. Schweigerecht, Umgang mit Pruefer-Fragen, Akteneinsicht, Einspruch gegen Pruefungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Pruefungsbegleit-Protokoll und Rechtsmittelschriftsatz im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # BAFA-Aussenpruefung und Zollbetriebspruefung: Verteidigung und Protokollierung

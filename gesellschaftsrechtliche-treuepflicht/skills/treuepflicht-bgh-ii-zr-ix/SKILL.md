@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-bgh-ii-zr-ix
-description: "Gesellschaftsrechtliche Treuepflicht: BGH II ZR 91 21 Gesellschafterliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: BGH II ZR 91 21 Gesellschafterliste; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # BGH II ZR 91 21 Gesellschafterliste

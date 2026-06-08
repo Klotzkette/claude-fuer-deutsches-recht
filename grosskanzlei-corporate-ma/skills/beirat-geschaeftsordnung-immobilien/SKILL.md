@@ -1,21 +1,9 @@
 ---
 name: beirat-geschaeftsordnung-immobilien
-description: "Beirat Geschaeftsordnung Immobilien im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Beirat Geschaeftsordnung Immobilien im Corporate/M&A (Großkanzlei-Praxis): prüft konkret GmbH-Beirat im Plugin grosskanzlei-corporate-ma."
 ---
 
 # Beirat Geschaeftsordnung Immobilien
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `beirat-geschaeftsordnung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsordnung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-informationsrechte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Informationsrechte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-insolvenznaehe` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-interessenkonflikte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-kontrollfunktion` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -25,7 +13,7 @@ description: "Beirat Geschaeftsordnung Immobilien im Corporate/M&A (Großkanzlei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `beirat-geschaeftsordnung`
 

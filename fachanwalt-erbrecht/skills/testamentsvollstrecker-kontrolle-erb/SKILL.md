@@ -1,17 +1,9 @@
 ---
 name: testamentsvollstrecker-kontrolle-erb
-description: "Testamentsvollstrecker Kontrolle ERB im Plugin Fachanwalt Erbrecht: prüft konkret Testamentsvollstrecker, Spezialfall Erbschaftsteuer-Optimierung, Spezialfall Unternehmensnachfolge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Testamentsvollstrecker Kontrolle ERB im Plugin Fachanwalt Erbrecht: prüft konkret Testamentsvollstrecker, Spezialfall Erbschaftsteuer-Optimierung, Spezialfall Unternehmensnachfolge."
 ---
 
 # Testamentsvollstrecker Kontrolle ERB
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `testamentsvollstrecker-kontrolle-haftung` | Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.; Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `erb-erbschaftsteuer-progressionsoptimierung-spezial` | Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG. Pruefraster für Steuer- und Erbrechtspraxis. |
-| `erb-unternehmensnachfolge-spezial` | Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist. Pruefraster. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Testamentsvollstrecker Kontrolle ERB im Plugin Fachanwalt Erbrecht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `testamentsvollstrecker-kontrolle-haftung`
 

@@ -1,17 +1,9 @@
 ---
 name: lebens-leistungsablehnung-international
-description: "Lebens Leistungsablehnung International im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebens, Leistungsablehnung, Obliegenheitsverletzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Lebens Leistungsablehnung International im Plugin Fachanwalt Versicherungsrecht: prüft konkret Lebens, Leistungsablehnung, Obliegenheitsverletzung."
 ---
 
 # Lebens Leistungsablehnung International
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-lebens-behoerden-gericht-und-registerweg` | Lebens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-leistungsablehnung-international-schnittstellen` | Leistungsablehnung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-obliegenheitsverletzung-mandantenentscheidung` | Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-lebens-behoerden-gericht-und-registerweg`
 
-**Fokus:** Lebens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Lebens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt versicherungsrecht.
 
 ### Lebens: Behörden-, Gerichts- oder Registerweg
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-leistungsablehnung-international-schnittstellen`
 
-**Fokus:** Leistungsablehnung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Leistungsablehnung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt versicherungsrecht.
 
 ### Leistungsablehnung: Internationaler Bezug und Schnittstellen
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-obliegenheitsverletzung-mandantenentscheidung`
 
-**Fokus:** Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt versicherungsrecht.
 
 ### Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage
 

@@ -1,6 +1,6 @@
 ---
 name: export-control-sanctions-software
-description: "Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software im Softwarerecht De Eu Us."
 ---
 
 # Exportkontrolle und Sanktionen Software

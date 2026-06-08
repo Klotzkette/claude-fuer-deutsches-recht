@@ -1,6 +1,6 @@
 ---
 name: landesstrasse-sondernutzung-formuliere
-description: "Landesstraße: Sondernutzung formulieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Landesstraße: Sondernutzung formulieren im Straßenrecht und Infrastruktur: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Landesstrasse Sondernutzung Formuliere

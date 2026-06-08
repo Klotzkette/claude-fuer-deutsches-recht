@@ -1,6 +1,6 @@
 ---
 name: rdg-fristen-form-und-zustaendigkeit
-description: "RDG: Fristen, Form, Zuständigkeit und Rechtsweg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Rechtsberatungsstelle."
 ---
 
 # RDG: Fristen, Form, Zuständigkeit und Rechtsweg

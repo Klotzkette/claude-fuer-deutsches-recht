@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-abweichungsvereinbarung-objektive-beweislast
-description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf im BGB BT."
 ---
 
 # Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB

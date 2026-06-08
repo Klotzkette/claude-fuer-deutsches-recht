@@ -1,6 +1,6 @@
 ---
 name: bussgeld-und-remediation
-description: "Prüft Bußgeldrisiken und remediiert priorisiert im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bußgeldrisiken und remediiert priorisiert im Nis2 Cybersecurity Compliance."
 ---
 
 # Bussgeld Und Remediation

@@ -1,6 +1,6 @@
 ---
 name: rolle-ehrenamtlicher-sachverstaendiger
-description: "Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung im Schoeffen Handelsrichter Praxis."
 ---
 
 # Rolle ehrenamtlicher Richter

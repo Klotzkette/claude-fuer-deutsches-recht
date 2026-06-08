@@ -1,6 +1,6 @@
 ---
 name: umweltpruefung-startanlage-flora-fauna-wasserrecht
-description: "Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht im Weltraumrecht."
 ---
 
 # Weltraumrecht: Umweltprüfung Startanlage: Flora, Fauna, Wasserrecht

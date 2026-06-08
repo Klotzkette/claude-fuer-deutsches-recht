@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-deckungszusage-erfolgsaussicht
-description: "Rechtsschutzversicherung: Deckungsanfrage, Erfolgsaussicht, Mutwilligkeit, Stichentscheid, Schiedsgutachten, Gebühren und Mandatskommunikation im Versicherungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsschutzversicherung: Deckungsanfrage, Erfolgsaussicht, Mutwilligkeit, Stichentscheid, Schiedsgutachten, Gebühren und Mandatskommunikation im Versicherungsrecht."
 ---
 
 # Rechtsschutz: Deckungszusage und Stichentscheid

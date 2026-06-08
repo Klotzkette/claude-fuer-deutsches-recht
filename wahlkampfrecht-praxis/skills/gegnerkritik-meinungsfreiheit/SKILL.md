@@ -1,6 +1,6 @@
 ---
 name: gegnerkritik-meinungsfreiheit
-description: "Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen im Wahlkampfrecht."
 ---
 
 # Gegnerkritik Meinungsfreiheit

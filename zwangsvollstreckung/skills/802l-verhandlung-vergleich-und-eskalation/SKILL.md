@@ -1,6 +1,6 @@
 ---
 name: 802l-verhandlung-vergleich-und-eskalation
-description: "802L: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Zwangsvollstreckung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "802L: Verhandlung, Vergleich und Eskalation im Zwangsvollstreckung."
 ---
 
 # 802L: Verhandlung, Vergleich und Eskalation

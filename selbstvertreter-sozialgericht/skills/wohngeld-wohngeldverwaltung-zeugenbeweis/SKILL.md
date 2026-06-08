@@ -1,18 +1,9 @@
 ---
 name: wohngeld-wohngeldverwaltung-zeugenbeweis
-description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am Sozialgericht: prüft konkret Wohngeld nach dem Wohngeldgesetz (WoGG), Zeugen vor dem Sozialgericht, Zugunstenantrag nach § 44 SGB X, Zulassungs- und Rechtsmittelgrenzen im. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am Sozialgericht: prüft konkret Wohngeld nach dem Wohngeldgesetz (WoGG), Zeugen vor dem Sozialgericht, Zugunstenantrag nach § 44 SGB X, Zulassungs- und Rechtsmittelgrenzen im."
 ---
 
 # Wohngeld Wohngeldverwaltung Zeugenbeweis
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `wohngeld-wohngeldverwaltung` | Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster. |
-| `zeugenbeweis-sozialgericht-373-zpo-analog` | Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt. |
-| `zugunstenantrag-44-sgb-x-bestandskraft` | Zugunstenantrag nach § 44 SGB X: Antrag auf Aufhebung eines bestandskraeftigen rechtswidrigen Verwaltungsakts zugunsten des Buergers. Klaert Voraussetzungen Frist Rueckwirkung bis zu 4 Jahre. Skill liefert Antragsvorlage. |
-| `zulassungsgrenzen-check-sozialgericht` | Zulassungs- und Rechtsmittelgrenzen im Sozialgerichtsverfahren: § 144 SGG 750 EUR, laufende Leistungen über ein Jahr, Erstattungsstreitigkeiten 10.000 EUR, Berufungszulassung, Nichtzulassungsbeschwerde, Revision, BSG-Anwaltszwang und Kostenrisiken. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `wohngeld-wohngeldverwaltung`
 

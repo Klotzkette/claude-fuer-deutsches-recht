@@ -1,17 +1,9 @@
 ---
 name: machtkritik-interessenanalyse-menschenwuerde
-description: "Machtkritik Interessenanalyse Menschenwuerde im Rechtstheorie und Rechtsphilosophie: prüft konkret Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur präg, Prueft Menschenwuerde. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Machtkritik Interessenanalyse Menschenwuerde im Rechtstheorie und Rechtsphilosophie: prüft konkret Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur präg, Prueft Menschenwuerde."
 ---
 
 # Machtkritik Interessenanalyse Menschenwuerde
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `machtkritik-und-interessenanalyse` | Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten. |
-| `menschenwuerde-grundrechte-theoriekern` | Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch. |
-| `methodenkritik-larenz-canaris-ordnung-und-system` | Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `machtkritik-und-interessenanalyse`
 

@@ -1,6 +1,6 @@
 ---
 name: rfp-kanzleiauswahl
-description: "RFP Kanzleiauswahl: steuert Pitch/RFP für Kanzlei erstellen, Antworten vergleichen und nicht nur Stundensatz bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "RFP Kanzleiauswahl: steuert Pitch/RFP für Kanzlei erstellen, Antworten vergleichen und nicht nur Stundensatz bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # RFP Kanzleiauswahl

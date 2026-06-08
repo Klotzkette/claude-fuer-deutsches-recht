@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-kanzlei-grundaufbau-bea
-description: "Erstellt getrennte Anlagenverzeichnisse: schlank für Gericht, ausführlicher für Kanzlei und technisch mit Dateipfad, Hash, Quelle und Bearbeitungsstatus im Anlagen zu Schriftsätzen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt getrennte Anlagenverzeichnisse: schlank für Gericht, ausführlicher für Kanzlei und technisch mit Dateipfad, Hash, Quelle und Bearbeitungsstatus im Anlagen zu Schriftsätzen."
 ---
 
 # Anlagenverzeichnis für Gericht, Kanzlei und intern

@@ -1,6 +1,6 @@
 ---
 name: vertraegen-strafprozessuale-regelung
-description: "Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
 ---
 
 # Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung

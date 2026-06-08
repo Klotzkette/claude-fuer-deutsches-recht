@@ -1,6 +1,6 @@
 ---
 name: fokus-compliance-dokumentation-und-akte
-description: "Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrechts-E-Mail. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

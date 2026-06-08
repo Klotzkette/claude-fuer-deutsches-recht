@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-bundesanzeiger-keine
-description: "Offenlegung beim Unternehmensregister/Bundesanzeiger: Größenklasse, Frist, Erleichterung, Ordnungsgeld und Korrektur im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Offenlegung beim Unternehmensregister/Bundesanzeiger: Größenklasse, Frist, Erleichterung, Ordnungsgeld und Korrektur im Berichtspflichten."
 ---
 
 # Jahresabschluss und Offenlegung

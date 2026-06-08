@@ -1,6 +1,6 @@
 ---
 name: fassungen-sonderfall-und-edge-case
-description: "Fassungen: Sonderfall und Edge-Case-Prüfung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fassungen: Sonderfall und Edge-Case-Prüfung im Vertragsausfueller."
 ---
 
 # Fassungen: Sonderfall und Edge-Case-Prüfung

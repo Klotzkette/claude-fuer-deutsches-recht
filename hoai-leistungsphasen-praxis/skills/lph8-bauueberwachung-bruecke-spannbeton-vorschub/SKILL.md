@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-bruecke-spannbeton-vorschub
-description: "Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber im Hoai Leistungsphasen Praxis."
 ---
 
 # Bauueberwachung Bruecke Spannbeton Vorschub (LPH 8)

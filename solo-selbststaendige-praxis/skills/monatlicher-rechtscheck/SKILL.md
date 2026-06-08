@@ -1,6 +1,6 @@
 ---
 name: monatlicher-rechtscheck
-description: "Solo-Selbstständige: führt einen wiederkehrenden Monatscheck für Fristen, Geld, Aufträge und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Solo-Selbstständige: führt einen wiederkehrenden Monatscheck für Fristen, Geld, Aufträge und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis im Solo Selbststaendige Praxis."
 ---
 
 # Kaltstart und Orientierung: Führt einen wiederkehrenden monatscheck für fristen

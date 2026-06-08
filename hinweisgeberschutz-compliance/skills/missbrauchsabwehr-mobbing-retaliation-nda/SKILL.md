@@ -1,6 +1,6 @@
 ---
 name: missbrauchsabwehr-mobbing-retaliation-nda
-description: "Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise im Hinweisgeberschutz Compliance."
 ---
 
 # Missbrauchsabwehr

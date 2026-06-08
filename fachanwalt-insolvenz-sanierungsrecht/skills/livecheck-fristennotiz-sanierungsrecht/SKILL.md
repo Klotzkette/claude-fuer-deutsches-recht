@@ -1,19 +1,9 @@
 ---
 name: livecheck-fristennotiz-sanierungsrecht
-description: "Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sanierungsrecht: prüft konkret Livecheck, Sanierungsrecht, § 104 InsO Fixgeschäfte, Finanzleistungen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sanierungsrecht: prüft konkret Livecheck, Sanierungsrecht, § 104 InsO Fixgeschäfte, Finanzleistungen."
 ---
 
 # Inso Livecheck Fristennotiz Sanierungsrecht
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-sanierungsrecht-fristen-form-und-zuständigkeit` | Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `inso-p104-fixgeschafte-finanzleistungen-vertragliches-liquidatio` | § 104 InsO (Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p116-erloschen-von-geschaftsbesorgungsvertragen` | § 116 InsO (Erlöschen von Geschäftsbesorgungsverträgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `inso-p255-wiederauflebensklausel` | § 255 InsO (Wiederauflebensklausel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Inso Livecheck Fristennotiz Sanierungsrecht im Insolvenz- und Sani
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-livecheck-fristennotiz-und-naechster-schritt`
 

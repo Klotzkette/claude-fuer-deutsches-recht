@@ -1,6 +1,6 @@
 ---
 name: hochschulmedizin-klinik-hochschulrat-aufsicht
-description: "Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung im Hochschulrecht Länder."
 ---
 
 # Hochschulmedizin und Klinik-Schnittstelle

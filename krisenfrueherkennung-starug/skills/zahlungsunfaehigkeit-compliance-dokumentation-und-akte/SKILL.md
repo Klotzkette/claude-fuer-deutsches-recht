@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-compliance-dokumentation-und-akte
-description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk

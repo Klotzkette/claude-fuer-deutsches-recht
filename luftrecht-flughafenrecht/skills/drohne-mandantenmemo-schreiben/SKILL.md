@@ -1,6 +1,6 @@
 ---
 name: drohne-mandantenmemo-schreiben
-description: "Anwalt schreibt Mandantenmemo für Drohnenbetreiber zu Genehmigungsfrage Haftungsfall oder Behördenauflage. Skill strukturiert Memo mit Sachverhalt EU-VO 2019/947 Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwalt schreibt Mandantenmemo für Drohnenbetreiber zu Genehmigungsfrage Haftungsfall oder Behördenauflage. Skill strukturiert Memo mit Sachverhalt EU-VO 2019/947 Rechtslage Handlungsoptionen und Empfehlung im Luftrecht Flughafenrecht."
 ---
 
 # Drohne – Mandantenmemo schreiben

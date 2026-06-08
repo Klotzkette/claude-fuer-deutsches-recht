@@ -1,6 +1,6 @@
 ---
 name: weltraumrecht-kommunen-bergung-fremder
-description: "Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen im Weltraumrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen im Weltraumrecht."
 ---
 
 # Weltraumrecht: Weltraumrecht für Kommunen bei Startplatzwerbung

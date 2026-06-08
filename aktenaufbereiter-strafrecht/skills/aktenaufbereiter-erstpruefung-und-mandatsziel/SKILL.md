@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-erstpruefung-und-mandatsziel
-description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Strafrechts-Aktenaufbereiter. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
 ---
 
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel

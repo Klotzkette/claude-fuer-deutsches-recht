@@ -1,6 +1,6 @@
 ---
 name: schiedsgutachten-international-triage
-description: "Schiedsgutachten International Triage im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Schiedsgutachten, Schnittstellen, Triage, Vergaberecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Schiedsgutachten International Triage im Plugin Fachanwalt Bau Architektenrecht: prüft konkret Schiedsgutachten, Schnittstellen, Triage, Vergaberecht."
 ---
 
 # Schiedsgutachten International Triage
@@ -18,15 +18,6 @@ Als naechsten Schritt schlage ich vor: [...]
 ```
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-schiedsgutachten-international-schnittstellen` | Schiedsgutachten: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-triage-beweislast-und-darlegungslast` | Triage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-vergaberecht-zahlen-schwellen-und-berechnung` | Vergaberecht: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -51,11 +42,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-schiedsgutachten-international-schnittstellen`
 
-**Fokus:** Schiedsgutachten: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schiedsgutachten: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bau architektenrecht.
 
 ### Schiedsgutachten: Internationaler Bezug und Schnittstellen
 
@@ -80,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-schnittstellen-compliance-dokumentation-und-akte`
 
-**Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht.
 
 ### Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 
@@ -105,7 +96,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-triage-beweislast-und-darlegungslast`
 
-**Fokus:** Triage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Triage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bau architektenrecht.
 
 ### Triage: Beweislast, Darlegungslast und Substantiierung
 
@@ -130,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-vergaberecht-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Vergaberecht: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergaberecht: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bau architektenrecht.
 
 ### Vergaberecht: Zahlen, Schwellenwerte und Berechnung
 

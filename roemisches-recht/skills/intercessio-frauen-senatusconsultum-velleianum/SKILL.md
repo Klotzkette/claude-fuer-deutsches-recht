@@ -1,6 +1,6 @@
 ---
 name: intercessio-frauen-senatusconsultum-velleianum
-description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen für fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix im Römisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen für fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 136 Intercessio Frauen Senatusconsultum Velleianum

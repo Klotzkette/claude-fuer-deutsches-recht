@@ -1,6 +1,6 @@
 ---
 name: dankt-dsgvo-sonderfall-e-mail
-description: "Dankt: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dankt: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Dankt: Risikoampel, Gegenargumente und Verteidigungslinien

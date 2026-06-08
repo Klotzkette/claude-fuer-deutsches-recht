@@ -1,6 +1,6 @@
 ---
 name: praktikum-praxissemester-proctoring
-description: "Prüft Praktikum, Praxissemester und Anerkennung im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Praktikum, Praxissemester und Anerkennung im Pruefungsrecht Hochschule."
 ---
 
 # Praktikum Und Praxissemester

@@ -1,6 +1,6 @@
 ---
 name: bess-abstandsflaechen-baurecht-brandenburg
-description: "Prüft Containerabstände, Transformatoren, Umrichter, Zaun, Leitungen, Feuerwehrbewegungsflächen und Nachbarpositionen im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Containerabstände, Transformatoren, Umrichter, Zaun, Leitungen, Feuerwehrbewegungsflächen und Nachbarpositionen im Energierecht."
 ---
 
 # Abstandsflächen, Containerlayout und Nachbarschaft

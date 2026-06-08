@@ -1,6 +1,6 @@
 ---
 name: lieferanten-questionnaire
-description: "Erstellt Security-Fragebögen, die nicht nur Papier produzieren im Nis2 Cybersecurity Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt Security-Fragebögen, die nicht nur Papier produzieren im Nis2 Cybersecurity Compliance."
 ---
 
 # Lieferanten Questionnaire

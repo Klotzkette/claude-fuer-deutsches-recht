@@ -1,18 +1,9 @@
 ---
 name: verhandlungsverfahren-dialog
-description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: prüft konkret Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo, Verfahrensart waehlen und begruenden. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: prüft konkret Verhandlungsverfahren mit Teilnahmewettbewerb und, Nachpruefungsverfahren, Uvgo, Verfahrensart waehlen und begruenden."
 ---
 
 # Verhandlungsverfahren Dialog
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-vergaberecht-verhandlungsverfahren-dialog` | Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema. |
-| `spezial-nachpruefungsverfahren-textbausteine` | Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-uvgo-fristen-form-und-zuständigkeit` | Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `verfahrenswahl-kompass` | Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Verhandlungsverfahren Dialog im Plugin Fachanwalt Vergaberecht: pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-vergaberecht-verhandlungsverfahren-dialog`
 
@@ -94,7 +85,7 @@ OLG-Linien zu § 14 Abs. 3 VgV und zur Reduktion von Loesungen im Dialog vor Aus
 
 ## 2. `spezial-nachpruefungsverfahren-textbausteine`
 
-**Fokus:** Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt vergaberecht.
 
 ### Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -129,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-uvgo-fristen-form-und-zuständigkeit`
 
-**Fokus:** Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt vergaberecht.
 
 ### Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
 

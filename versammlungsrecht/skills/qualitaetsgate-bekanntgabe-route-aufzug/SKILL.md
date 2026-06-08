@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-bekanntgabe-route-aufzug
-description: "Letzter Check vor öffentlicher Einladung oder Versand der Anzeige im Versammlungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Letzter Check vor öffentlicher Einladung oder Versand der Anzeige im Versammlungsrecht."
 ---
 
 # Noch einmal durchatmen

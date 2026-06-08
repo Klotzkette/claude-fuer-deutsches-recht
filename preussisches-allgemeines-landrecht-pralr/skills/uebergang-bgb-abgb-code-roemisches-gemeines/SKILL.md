@@ -1,6 +1,6 @@
 ---
 name: uebergang-bgb-abgb-code-roemisches-gemeines
-description: "PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900 im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: Ablösung durch BGB, Fortgeltungsreste, Überleitung und historischer Vergleich bis 1900 im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Übergang zum BGB

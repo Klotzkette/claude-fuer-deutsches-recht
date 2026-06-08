@@ -1,6 +1,6 @@
 ---
 name: spendenrecht-partei-sponsoring-staatliche
-description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung im Parteienrecht."
 ---
 
 # Parteispende

@@ -1,6 +1,6 @@
 ---
 name: kommunalabgaben-pruefen
-description: "Kommunalrecht der Länder: Kommunalabgaben prüfen. Kommunalabgaben prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Kommunalrecht der Länder: Kommunalabgaben prüfen. Kommunalabgaben prüfen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Kommunalrecht."
 ---
 
 # Kommunalabgaben Pruefen

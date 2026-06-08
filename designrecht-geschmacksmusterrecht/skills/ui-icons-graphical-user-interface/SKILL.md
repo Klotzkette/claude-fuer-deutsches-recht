@@ -1,6 +1,6 @@
 ---
 name: ui-icons-graphical-user-interface
-description: "UI-Icons, grafische Benutzeroberflächen und digitale Designs prüfen: Bildschirmanzeigen, Icons, Animationen, EU-Designreform und Software-Schnittstellen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "UI-Icons, grafische Benutzeroberflächen und digitale Designs prüfen: Bildschirmanzeigen, Icons, Animationen, EU-Designreform und Software-Schnittstellen im Designrecht Geschmacksmusterrecht."
 ---
 
 # Ui Icons Graphical User Interface

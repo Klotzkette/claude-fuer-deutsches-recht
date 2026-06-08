@@ -1,6 +1,6 @@
 ---
 name: schema-schritt-subsumtions
-description: "Schema: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Subsumtions Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Schema: Verhandlung, Vergleich und Eskalation im Subsumtions Pruefer."
 ---
 
 # Schema: Verhandlung, Vergleich und Eskalation

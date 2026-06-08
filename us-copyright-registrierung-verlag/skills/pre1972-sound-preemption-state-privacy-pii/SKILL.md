@@ -1,6 +1,6 @@
 ---
 name: pre1972-sound-preemption-state-privacy-pii
-description: "Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken im Us Copyright Registrierung Verlag."
 ---
 
 # Pre-1972 Sound Recordings § 1401

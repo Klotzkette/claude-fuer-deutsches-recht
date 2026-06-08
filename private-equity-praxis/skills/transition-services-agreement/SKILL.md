@@ -1,6 +1,6 @@
 ---
 name: transition-services-agreement
-description: "Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels im Private Equity Praxis."
 ---
 
 # Transition Services Agreement

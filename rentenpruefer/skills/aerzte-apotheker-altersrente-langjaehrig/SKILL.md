@@ -1,6 +1,6 @@
 ---
 name: aerzte-apotheker-altersrente-langjaehrig
-description: "Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ärzte, Apotheker, Architekten und weitere Kammerberufe: Versorgungswerk, Beschäftigungsbezug, Befreiung und Satzungsprüfung im Rentenpruefer."
 ---
 
 # aerzte-apotheker-architekten-versorgungswerk

@@ -1,6 +1,6 @@
 ---
 name: public-funding-state-aid
-description: "Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Public Funding und Beihilfe

@@ -1,6 +1,6 @@
 ---
 name: bess-regelenergie-systemdienstleistung
-description: "Prüft Präqualifikation, Vermarktung, Verfügbarkeit, Messdaten, Sanktionen und Aggregator-Struktur im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Präqualifikation, Vermarktung, Verfügbarkeit, Messdaten, Sanktionen und Aggregator-Struktur im Energierecht."
 ---
 
 # Regelenergie und Systemdienstleistungen

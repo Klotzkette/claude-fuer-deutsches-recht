@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-unbundling-entflechtung-stellungnahme-e
-description: "Unbundling Entflechtung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Unbundling Entflechtung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG im BNetzA-Verfahren."
 ---
 
 # Energie-Regulierungsakte: Unbundling Entflechtung — Stellungnahme-Entwurf

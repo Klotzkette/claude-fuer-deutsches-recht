@@ -1,6 +1,6 @@
 ---
 name: heftplanung-mehrparteien-konflikt-und-interessen
-description: "Heftplanung: Mehrparteienkonflikt und Interessenmatrix; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verlagsredaktion. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Heftplanung: Mehrparteienkonflikt und Interessenmatrix im Verlagsredaktion."
 ---
 
 # Heftplanung: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: technik-formular-portal-und-einreichung
-description: "Technik: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Patentrecherche. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technik: Formular, Portal und Einreichungslogik im Patentrecherche."
 ---
 
 # Technik: Formular, Portal und Einreichungslogik

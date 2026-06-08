@@ -1,6 +1,6 @@
 ---
 name: npl-kauf-und-krzwmg
-description: "Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing im Private Equity Praxis."
 ---
 
 # NPL-Kauf und Kreditzweitmarktgesetz

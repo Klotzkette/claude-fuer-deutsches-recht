@@ -1,6 +1,6 @@
 ---
 name: verfassungsmaessigkeit-formular-portal-und-einreichung
-description: "Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik im Verfassungsrecht."
 ---
 
 # Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: influencer-beauty-filter-medienanstalt
-description: "Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken im Influencer-Recht."
 ---
 
 # Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation

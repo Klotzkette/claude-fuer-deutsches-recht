@@ -1,17 +1,9 @@
 ---
 name: krankenversicherung-beitraege-krankheit
-description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Krankenversicherung und Beiträge, Krankheit, Pflege, Behinderung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Krankenversicherung und Beiträge, Krankheit, Pflege, Behinderung."
 ---
 
 # Krankenversicherung Beitraege Krankheit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `krankenversicherung-und-beitraege` | Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.; Normanker: SGB V; VVG; InsO Forderungsbehandlung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `krankheit-pflege-behinderung` | Krankheit, Pflege, Behinderung: Mehrbedarf, Nachweise, Erwerbsobliegenheit und pfändungsfreie Leistungen.; Normanker: SGB IX/XI/XII; ZPO Pfändungsschutz; InsO § 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `lohnpfaendung-und-arbeitgeber` | Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.; Normanker: ZPO §§ 850 ff.; InsO §§ 35 und 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Krankenversicherung Beitraege Krankheit im Plugin Verbraucherinsol
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `krankenversicherung-und-beitraege`
 

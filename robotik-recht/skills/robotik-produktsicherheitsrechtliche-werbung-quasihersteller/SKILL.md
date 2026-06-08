@@ -1,6 +1,6 @@
 ---
 name: robotik-produktsicherheitsrechtliche-werbung-quasihersteller
-description: "Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität im Robotik-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität im Robotik-Recht."
 ---
 
 # Produktsicherheitsrechtliche Werbung

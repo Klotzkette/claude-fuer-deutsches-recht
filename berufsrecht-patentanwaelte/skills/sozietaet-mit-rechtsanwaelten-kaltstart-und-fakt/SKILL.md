@@ -1,6 +1,6 @@
 ---
 name: sozietaet-mit-rechtsanwaelten-kaltstart-und-fakt
-description: "Patentanwälte: sozietaet mit rechtsanwaelten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: sozietaet mit rechtsanwaelten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: sozietaet mit rechtsanwaelten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

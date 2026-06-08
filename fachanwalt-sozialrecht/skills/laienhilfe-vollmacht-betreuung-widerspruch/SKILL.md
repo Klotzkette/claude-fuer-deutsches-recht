@@ -1,18 +1,9 @@
 ---
 name: laienhilfe-vollmacht-betreuung-widerspruch
-description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Vollmacht, Laienverstaendlicher Sozialrechts-Skill zu Widerspruch, Laienverstaendlicher Sozialrechts-Skill zu Wohngeld, Long-Covid-Akte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt Sozialrecht: prüft konkret Laienverstaendlicher Sozialrechts-Skill zu Vollmacht, Laienverstaendlicher Sozialrechts-Skill zu Widerspruch, Laienverstaendlicher Sozialrechts-Skill zu Wohngeld, Long-Covid-Akte."
 ---
 
 # Laienhilfe Vollmacht Betreuung Widerspruch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `laienhilfe-vollmacht-betreuung-angehoerige` | Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-widerspruch-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `laienhilfe-wohngeld-kinderzuschlag-schnittstelle` | Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
-| `long-covid-akte-und-tagebuch` | Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.; Normanker: SGB X §§ 20 und 21 und 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `laienhilfe-vollmacht-betreuung-angehoerige`
 

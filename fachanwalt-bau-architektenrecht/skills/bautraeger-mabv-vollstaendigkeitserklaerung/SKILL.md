@@ -1,18 +1,9 @@
 ---
 name: bautraeger-mabv-vollstaendigkeitserklaerung
-description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt Bau Architektenrecht: prüft konkret MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung, Rangruecktritt der Bautraeger-Grundpfandrechte hinter die. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt Bau Architektenrecht: prüft konkret MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung, Rangruecktritt der Bautraeger-Grundpfandrechte hinter die."
 ---
 
 # Bautraeger Mabv Vollstaendigkeitserklaerung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bautraeger-mabv-vollstaendigkeitserklaerung-7` | MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster. |
-| `bautraeger-maengelruegen-und-formerfordernis` | Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage. |
-| `bautraeger-pfandfreigabe-und-loeschung` | Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster. |
-| `bautraeger-rangruecktritt-grundpfandrechte` | Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung für Erwerberschutz. Liefert Pruefraster. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bautraeger-mabv-vollstaendigkeitserklaerung-7`
 

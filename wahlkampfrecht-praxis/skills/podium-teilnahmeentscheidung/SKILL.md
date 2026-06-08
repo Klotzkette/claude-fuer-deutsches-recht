@@ -1,6 +1,6 @@
 ---
 name: podium-teilnahmeentscheidung
-description: "Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden im Wahlkampfrecht."
 ---
 
 # Podium Teilnahmeentscheidung

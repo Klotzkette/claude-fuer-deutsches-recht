@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnis-geschgehg
-description: "Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hinweisgeberschutz Compliance."
 ---
 
 # Geschaeftsgeheimnis Geschgehg

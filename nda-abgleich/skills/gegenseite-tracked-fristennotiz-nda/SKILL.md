@@ -1,6 +1,6 @@
 ---
 name: gegenseite-tracked-fristennotiz-nda
-description: "Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg

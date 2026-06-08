@@ -1,6 +1,6 @@
 ---
 name: aufsichtskommunikation-grundregeln
-description: "Grundregeln Aufsichtskommunikation: Mitteilungspflichten, Auskunftsrechte, Sonderpruefung, Anhörung, Bussgeldverfahren. Tonfall, Tempo, Vollstaendigkeit, Konsistenz Schriftverkehr. Pruefraster für Antworten an BaFin, BNetzA, Bundeskartellamt. Mustertexte im Regulatorisches Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Grundregeln Aufsichtskommunikation: Mitteilungspflichten, Auskunftsrechte, Sonderpruefung, Anhörung, Bussgeldverfahren. Tonfall, Tempo, Vollstaendigkeit, Konsistenz Schriftverkehr. Pruefraster für Antworten an BaFin, BNetzA, Bundeskartellamt. Mustertexte im Regulatorisches Recht."
 ---
 
 # Aufsichtskommunikation Grundregeln

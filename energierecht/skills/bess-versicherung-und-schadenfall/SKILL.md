@@ -1,6 +1,6 @@
 ---
 name: bess-versicherung-und-schadenfall
-description: "Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess im Energierecht."
 ---
 
 # Versicherung und Schadenfallmanagement

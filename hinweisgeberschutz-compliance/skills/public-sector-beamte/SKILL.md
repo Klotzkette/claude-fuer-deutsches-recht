@@ -1,6 +1,6 @@
 ---
 name: public-sector-beamte
-description: "Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Hinweisgeberschutz im öffentlichen Dienst im Hinweisgeberschutz Compliance."
 ---
 
 # Public Sector Beamte

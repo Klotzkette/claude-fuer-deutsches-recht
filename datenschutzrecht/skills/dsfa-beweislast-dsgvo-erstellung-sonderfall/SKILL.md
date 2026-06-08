@@ -1,19 +1,9 @@
 ---
 name: dsfa-beweislast-dsgvo-erstellung-sonderfall
-description: "Dsfa Beweislast DSGVO Erstellung Sonderfall im Datenschutzrecht: prüft konkret Dsfa, DSGVO, Erstellung, Generator. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Dsfa Beweislast DSGVO Erstellung Sonderfall im Datenschutzrecht: prüft konkret Dsfa, DSGVO, Erstellung, Generator."
 ---
 
 # Dsfa Beweislast DSGVO Erstellung Sonderfall
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-dsfa-beweislast-und-darlegungslast` | Dsfa: Beweislast, Darlegungslast und Substantiierung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-dsgvo-erstpruefung-und-mandatsziel` | DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-erstellung-sonderfall-und-edge-case` | Erstellung: Sonderfall und Edge-Case-Prüfung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-generator-red-team-und-qualitaetskontrolle` | Generator: Red-Team und Qualitätskontrolle im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-paket-internationaler-bezug-und-schnittstellen` | Paket: Internationaler Bezug und Schnittstellen im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -23,11 +13,11 @@ description: "Dsfa Beweislast DSGVO Erstellung Sonderfall im Datenschutzrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-dsfa-beweislast-und-darlegungslast`
 
-**Fokus:** Dsfa: Beweislast, Darlegungslast und Substantiierung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Dsfa: Beweislast, Darlegungslast und Substantiierung im Plugin datenschutzrecht.
 
 ### Dsfa: Beweislast, Darlegungslast und Substantiierung
 
@@ -83,7 +73,7 @@ Schlanke DSFA-Templates beschleunigen die Erstellung, lassen aber bei Hochrisiko
 
 ## 2. `spezial-dsgvo-erstpruefung-und-mandatsziel`
 
-**Fokus:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin datenschutzrecht.
 
 ### DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -120,7 +110,7 @@ Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7
 
 ## 3. `spezial-erstellung-sonderfall-und-edge-case`
 
-**Fokus:** Erstellung: Sonderfall und Edge-Case-Prüfung im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Erstellung: Sonderfall und Edge-Case-Prüfung im Plugin datenschutzrecht.
 
 ### Erstellung: Sonderfall und Edge-Case-Prüfung
 
@@ -162,7 +152,7 @@ Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entsp
 
 ## 4. `spezial-generator-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Generator: Red-Team und Qualitätskontrolle im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Generator: Red-Team und Qualitätskontrolle im Plugin datenschutzrecht.
 
 ### Generator: Red-Team und Qualitätskontrolle
 
@@ -187,7 +177,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-paket-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Paket: Internationaler Bezug und Schnittstellen im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Paket: Internationaler Bezug und Schnittstellen im Plugin datenschutzrecht.
 
 ### Paket: Internationaler Bezug und Schnittstellen
 

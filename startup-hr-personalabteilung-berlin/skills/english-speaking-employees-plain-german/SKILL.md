@@ -1,6 +1,6 @@
 ---
 name: english-speaking-employees-plain-german
-description: "Berliner Start-up-HR: Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # English Speaking Employees Plain German

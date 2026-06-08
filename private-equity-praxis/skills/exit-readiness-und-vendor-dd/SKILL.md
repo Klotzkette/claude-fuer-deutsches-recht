@@ -1,6 +1,6 @@
 ---
 name: exit-readiness-und-vendor-dd
-description: "Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor im Private Equity Praxis."
 ---
 
 # Exit Readiness und Vendor DD

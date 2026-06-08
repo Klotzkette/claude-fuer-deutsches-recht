@@ -1,6 +1,6 @@
 ---
 name: recall-crisis-retail-pop
-description: "Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behörden, Händler, Kundenkommunikation, Presse, Plattformen und Lessons Learned im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rückruf- und Krisenmanagement für Fashion-Produkte: GPSR, Behörden, Händler, Kundenkommunikation, Presse, Plattformen und Lessons Learned im Fashion Law Moderecht."
 ---
 
 # Recall Crisis Fashion

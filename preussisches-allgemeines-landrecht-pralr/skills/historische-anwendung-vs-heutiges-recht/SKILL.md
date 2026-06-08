@@ -1,6 +1,6 @@
 ---
 name: historische-anwendung-vs-heutiges-recht
-description: "PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Historisch oder heute?

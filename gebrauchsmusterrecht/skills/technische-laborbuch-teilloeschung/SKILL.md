@@ -1,6 +1,6 @@
 ---
 name: technische-laborbuch-teilloeschung
-description: "Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert im Gebrauchsmusterrecht."
 ---
 
 # Technische Dokumentation Laborbuch

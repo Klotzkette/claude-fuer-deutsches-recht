@@ -1,6 +1,6 @@
 ---
 name: bewertungen-rezensionen-und-fake-reviews
-description: "Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus-Richtlinie, strafrechtliche Risiken und Creator-Haftung im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus-Richtlinie, strafrechtliche Risiken und Creator-Haftung im Influencer-Recht."
 ---
 
 # Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews

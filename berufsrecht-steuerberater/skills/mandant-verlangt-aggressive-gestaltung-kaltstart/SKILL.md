@@ -1,6 +1,6 @@
 ---
 name: mandant-verlangt-aggressive-gestaltung-kaltstart
-description: "Steuerberater: mandant verlangt aggressive gestaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Steuerberater: mandant verlangt aggressive gestaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
 # Steuerberater: mandant verlangt aggressive gestaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

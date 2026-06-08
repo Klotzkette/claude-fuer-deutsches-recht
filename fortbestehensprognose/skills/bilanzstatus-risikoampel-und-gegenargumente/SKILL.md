@@ -1,6 +1,6 @@
 ---
 name: bilanzstatus-risikoampel-und-gegenargumente
-description: "Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Fortbestehensprognose. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien im Fortbestehensprognose."
 ---
 
 # Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien

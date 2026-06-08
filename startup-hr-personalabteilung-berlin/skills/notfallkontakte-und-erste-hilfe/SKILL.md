@@ -1,6 +1,6 @@
 ---
 name: notfallkontakte-und-erste-hilfe
-description: "Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Notfallkontakte Und Erste Hilfe

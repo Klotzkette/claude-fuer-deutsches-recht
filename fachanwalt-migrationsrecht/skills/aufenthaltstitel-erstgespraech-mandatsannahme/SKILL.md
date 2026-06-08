@@ -1,18 +1,9 @@
 ---
 name: aufenthaltstitel-erstgespraech-mandatsannahme
-description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: prüft konkret Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer, Abschiebung abwehren — Duldung § 60a AufenthG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: prüft konkret Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer, Abschiebung abwehren — Duldung § 60a AufenthG."
 ---
 
 # Aufenthaltstitel Erstgespraech Mandatsannahme
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `aufenthaltstitel-pruefung` | Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-migrationsrecht-abschiebungsabwehr` | Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfähigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg. |
-| `fachanwalt-migrationsrecht-asyl-folgeantrag-71` | Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `aufenthaltstitel-pruefung`
 

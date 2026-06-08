@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-begruendung-roadmap
-description: "Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Kurzfassung, Langfassung und Red-Team im Forschungszulage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Kurzfassung, Langfassung und Red-Team im Forschungszulage."
 ---
 
 # Plädoyer, Begründung und Verteidigung der Forschungszulage

@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-risiko-mar
-description: "Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Verpflichtungsermaechtigung Risiko Mar

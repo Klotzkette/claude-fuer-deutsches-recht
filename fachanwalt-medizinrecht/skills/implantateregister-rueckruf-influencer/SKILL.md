@@ -1,18 +1,9 @@
 ---
 name: implantateregister-rueckruf-influencer
-description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft konkret Implantateregister und Rückruf, Influencer Healthcare Werbung, IVDR und Lab Developed Test, Keimbahn-Grenze und Embryonenschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft konkret Implantateregister und Rückruf, Influencer Healthcare Werbung, IVDR und Lab Developed Test, Keimbahn-Grenze und Embryonenschutz."
 ---
 
 # Implantateregister Rueckruf Influencer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `implantateregister-rueckruf` | Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `influencer-healthcare-werbung` | Influencer Healthcare Werbung: moderner Medizinrechts-Skill für Ärztliche Influencer, Klinikmarketing, Kennzeichnung, Patientengeheimnis und irreführende Claims. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `ivdr-lab-developed-test` | IVDR und Lab Developed Test: moderner Medizinrechts-Skill für In-vitro-Diagnostikum, Labor-Eigenentwicklung, Companion Diagnostics und Übergangsrisiken. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `keimbahn-grenze-embryo` | Keimbahn-Grenze und Embryonenschutz: moderner Medizinrechts-Skill für Keimbahneingriff, Embryonen-/Fortpflanzungsmedizin und rote Linien bei innovativer Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft kon
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `implantateregister-rueckruf`
 

@@ -1,6 +1,6 @@
 ---
 name: bedingungen-aufschiebend-aufloesend-fristen
-description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen im Word Legal Ai Plugin And Skill For German Lawyers. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen im Word Legal Ai Plugin And Skill For German Lawyers."
 ---
 
 # Bedingungen aufschiebend, aufloesend, Fristen

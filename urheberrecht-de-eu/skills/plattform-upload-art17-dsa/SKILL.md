@@ -1,6 +1,6 @@
 ---
 name: plattform-upload-art17-dsa
-description: "Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen im Urheberrecht De Eu."
 ---
 
 # Plattformen, Uploads und Art. 17 DSM

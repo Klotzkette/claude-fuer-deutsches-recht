@@ -1,6 +1,6 @@
 ---
 name: widerruf-ernennung-arglistige-taeuschung
-description: "Widerruf Ernennung arglistige Täuschung: prüft SG §§ 43–44, Widerrufstatbestand, Folgen und Rechtsbehelfe. Norm-/Quellenanker: §§ 43–44 SG, VwVfG § 48 im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Widerruf Ernennung arglistige Täuschung: prüft SG §§ 43–44, Widerrufstatbestand, Folgen und Rechtsbehelfe. Norm-/Quellenanker: §§ 43–44 SG, VwVfG § 48 im Bundeswehrrecht Wehrrecht."
 ---
 
 # Widerruf der Ernennung wegen arglistiger Täuschung

@@ -1,6 +1,6 @@
 ---
 name: monats-risikoampel-und-gegenargumente
-description: "Monats: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Krisenfrueherkennung Starug. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Monats: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
 ---
 
 # Monats: Risikoampel, Gegenargumente und Verteidigungslinien

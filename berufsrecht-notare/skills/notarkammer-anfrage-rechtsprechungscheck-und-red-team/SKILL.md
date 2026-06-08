@@ -1,6 +1,6 @@
 ---
 name: notarkammer-anfrage-rechtsprechungscheck-und-red-team
-description: "Notare: notarkammer anfrage - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: notarkammer anfrage - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: notarkammer anfrage - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

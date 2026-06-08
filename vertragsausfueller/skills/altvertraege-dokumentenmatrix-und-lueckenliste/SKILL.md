@@ -1,6 +1,6 @@
 ---
 name: altvertraege-dokumentenmatrix-und-lueckenliste
-description: "Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Vertragsausfueller. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung im Vertragsausfueller."
 ---
 
 # Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung

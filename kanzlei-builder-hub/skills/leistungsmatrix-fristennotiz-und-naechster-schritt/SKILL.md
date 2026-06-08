@@ -1,6 +1,6 @@
 ---
 name: leistungsmatrix-fristennotiz-und-naechster-schritt
-description: "Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Kanzlei Builder Hub. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub im Kanzlei Builder Hub."
 ---
 
 # Leistungsmatrix: Fristennotiz und nächster Schritt

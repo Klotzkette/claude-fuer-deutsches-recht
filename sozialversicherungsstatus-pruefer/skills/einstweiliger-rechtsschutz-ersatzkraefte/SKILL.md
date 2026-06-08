@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-ersatzkraefte
-description: "Prüft Eilrechtsschutz, Aussetzung, Vollziehung und Zahlungsdruck bei Beitrags-/Statusstreit im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Eilrechtsschutz, Aussetzung, Vollziehung und Zahlungsdruck bei Beitrags-/Statusstreit im Sozialversicherungsstatus Pruefer."
 ---
 
 # Einstweiliger Rechtsschutz Sozialgericht

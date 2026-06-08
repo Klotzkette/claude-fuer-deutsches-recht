@@ -1,17 +1,9 @@
 ---
 name: freiheit-privatautonomie-freund-feind
-description: "Freiheit Privatautonomie Freund Feind im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang und Feinderkl. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Freiheit Privatautonomie Freund Feind im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft freiheitliche Argumente, Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang und Feinderkl."
 ---
 
 # Freiheit Privatautonomie Freund Feind
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `freiheit-privatautonomie-paternalismus` | Prueft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus. |
-| `freund-feind-rhetorik-und-pluralismuscheck` | Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang und Feinderklaerung in rechtlichen Argumenten; stellt pluralistische, grundrechts- und verfahrensgebundene Gegenpruefungen bereit. |
-| `gerechtigkeit-verteilung-effizienz` | Prueft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `freiheit-privatautonomie-paternalismus`
 

@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-verhandlung-vergleich-und-eskalation
-description: "Zivilrecht: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zivilrecht: Verhandlung, Vergleich und Eskalation im Hausarbeitenmacher."
 ---
 
 # Zivilrecht: Verhandlung, Vergleich und Eskalation

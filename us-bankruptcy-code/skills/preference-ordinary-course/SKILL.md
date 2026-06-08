@@ -1,6 +1,6 @@
 ---
 name: preference-ordinary-course
-description: "Prueft ordinary-course, contemporaneous exchange, new value and subsequent new value defenses im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft ordinary-course, contemporaneous exchange, new value and subsequent new value defenses im US Bankruptcy Code."
 ---
 
 # Preference Defense Ordinary Course

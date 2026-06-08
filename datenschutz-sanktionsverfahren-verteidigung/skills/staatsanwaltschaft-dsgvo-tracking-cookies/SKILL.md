@@ -1,18 +1,9 @@
 ---
 name: staatsanwaltschaft-dsgvo-tracking-cookies
-description: "Staatsanwaltschaft DSGVO Tracking Cookies im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Staatsanwaltschaft im DSGVO-OWiG-Verfahren, Tracking Cookies und TDDDG-Schnittstelle, Drittland-Transferstopp Art, Umsatz und wirtschaftliche Einheit. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Staatsanwaltschaft DSGVO Tracking Cookies im Datenschutz-Sanktionsverfahren-Verteidigung: prüft konkret Staatsanwaltschaft im DSGVO-OWiG-Verfahren, Tracking Cookies und TDDDG-Schnittstelle, Drittland-Transferstopp Art, Umsatz und wirtschaftliche Einheit."
 ---
 
 # Staatsanwaltschaft DSGVO Tracking Cookies
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `staatsanwaltschaft-im-dsgvo-owig` | Staatsanwaltschaft im DSGVO-OWiG-Verfahren: Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `tracking-cookies-und-ttddg-schnittstelle` | Tracking Cookies und TDDDG-Schnittstelle: Cookie-/Tracking-Sanktionen zwischen DSGVO, TDDDG, Einwilligung und Aufsichts-/Telemedienpraxis bearbeiten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `transferstopp-drittland-art-58` | Drittland-Transferstopp Art. 58: DPF, SCC, TIA, Transferregister, Migrationsplan und Eilrechtsschutz bei Transferstopp verbinden. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
-| `umsatz-und-wirtschaftliche-einheit` | Umsatz und wirtschaftliche Einheit: 2-/4-Prozent-Grenze, unionsrechtliches Unternehmen, Konzernumsatz und Adressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Staatsanwaltschaft DSGVO Tracking Cookies im Datenschutz-Sanktions
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `staatsanwaltschaft-im-dsgvo-owig`
 

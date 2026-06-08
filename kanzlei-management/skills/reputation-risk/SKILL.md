@@ -1,6 +1,6 @@
 ---
 name: reputation-risk
-description: "Prüft heikle Mandate auf Markt-, Team-, Berufsrechts- und Kulturfolgen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft heikle Mandate auf Markt-, Team-, Berufsrechts- und Kulturfolgen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Reputationsrisiko Mandat

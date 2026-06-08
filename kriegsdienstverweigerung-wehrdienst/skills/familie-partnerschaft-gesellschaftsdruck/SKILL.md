@@ -1,6 +1,6 @@
 ---
 name: familie-partnerschaft-gesellschaftsdruck
-description: "Trennt externe Erwartungen von der eigenen Gewissensentscheidung im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Trennt externe Erwartungen von der eigenen Gewissensentscheidung im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Familien- und Gesellschaftsdruck

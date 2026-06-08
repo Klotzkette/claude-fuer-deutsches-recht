@@ -1,6 +1,6 @@
 ---
 name: ksv-abgabe-auftraggeber
-description: "Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus im Sozialversicherungsstatus Pruefer."
 ---
 
 # Künstlersozialabgabe Auftraggeber

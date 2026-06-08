@@ -1,6 +1,6 @@
 ---
 name: streitbeilegung-mediation-einstweilige
-description: "Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht im Franchiserecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht im Franchiserecht."
 ---
 
 # Franchiserecht: Streitbeilegung, Mediation, Beirat und Schiedsgericht

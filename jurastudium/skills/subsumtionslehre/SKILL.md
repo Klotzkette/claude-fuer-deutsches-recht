@@ -1,6 +1,6 @@
 ---
 name: subsumtionslehre
-description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer Subsumtion üben, subsumiere mit mir, Tatbestandsmerkmal prüfen, Obersatz-Definition-Subsumtion oder warum springe ich im Gutachten sagt im Jurastudium. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer Subsumtion üben, subsumiere mit mir, Tatbestandsmerkmal prüfen, Obersatz-Definition-Subsumtion oder warum springe ich im Gutachten sagt im Jurastudium."
 ---
 
 # Subsumtionslehre

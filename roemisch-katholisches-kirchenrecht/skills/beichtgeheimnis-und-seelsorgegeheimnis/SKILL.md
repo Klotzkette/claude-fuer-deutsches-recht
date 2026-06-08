@@ -1,6 +1,6 @@
 ---
 name: beichtgeheimnis-und-seelsorgegeheimnis
-description: "Beichtgeheimnis und Seelsorgegeheimnis: sakramentales Siegel, geistliche Begleitung und staatlicher Druck; CIC can. 983-984 und 1386; KKK 1467 und 2491; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beichtgeheimnis und Seelsorgegeheimnis: sakramentales Siegel, geistliche Begleitung und staatlicher Druck; CIC can. 983-984 und 1386; KKK 1467 und 2491; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung im Röm.-kath. Kirchenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Beichtgeheimnis und Seelsorgegeheimnis

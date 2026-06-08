@@ -1,6 +1,6 @@
 ---
 name: vob-b-wiederholungsleistungen
-description: "HOAI-Praxis: prüft Bauverträge, Abnahme, Behinderung, Nachträge und Architektenrolle; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: prüft Bauverträge, Abnahme, Behinderung, Nachträge und Architektenrolle; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Prüft bauverträge

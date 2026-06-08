@@ -1,6 +1,6 @@
 ---
 name: foto-im-wahlraum-und-stimmzettel
-description: "Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken pruefen im Wahlkampfrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken pruefen im Wahlkampfrecht."
 ---
 
 # Foto Im Wahlraum Und Stimmzettel

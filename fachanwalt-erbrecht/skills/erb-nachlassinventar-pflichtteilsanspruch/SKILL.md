@@ -1,17 +1,9 @@
 ---
 name: erb-nachlassinventar-pflichtteilsanspruch
-description: "ERB Nachlassinventar Pflichtteilsanspruch im Plugin Fachanwalt Erbrecht: prüft konkret Nachlassinventar erstellen, Spezialfall Pflichtteilsberechnung detailliert, Testamentsformen Grundzuege. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "ERB Nachlassinventar Pflichtteilsanspruch im Plugin Fachanwalt Erbrecht: prüft konkret Nachlassinventar erstellen, Spezialfall Pflichtteilsberechnung detailliert, Testamentsformen Grundzuege."
 ---
 
 # ERB Nachlassinventar Pflichtteilsanspruch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `erb-nachlassinventar-erstellung` | Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses. Excel-Vorlage und Pruefliste für Erbengemeinschaft. |
-| `erb-pflichtteilsanspruch-berechnung-spezial` | Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Hoehe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB für Schenkungen 10-Jahres-Frist mit Abschmelzung. Beispielrechnung. |
-| `erb-testamentsformen-grundzuege` | Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, öffentliches Testament § 2232 BGB, Nottestament § 2249 BGB, Berliner Testament § 2269 BGB. Form, Aufbewahrung, Aenderung, Widerruf. Beispieltexte und typische Fehler. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "ERB Nachlassinventar Pflichtteilsanspruch im Plugin Fachanwalt Erb
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `erb-nachlassinventar-erstellung`
 

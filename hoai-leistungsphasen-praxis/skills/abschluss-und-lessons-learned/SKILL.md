@@ -1,6 +1,6 @@
 ---
 name: abschluss-und-lessons-learned
-description: "HOAI-Praxis: erstellt Abschlussbericht, Gewährleistungsplan und Lessons Learned; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "HOAI-Praxis: erstellt Abschlussbericht, Gewährleistungsplan und Lessons Learned; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren im Hoai Leistungsphasen Praxis."
 ---
 
 # HOAI Querschnitt: Erstellt abschlussbericht

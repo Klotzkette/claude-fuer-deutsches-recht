@@ -1,19 +1,9 @@
 ---
 name: kaution-abrechnung-kuendigung-vollmacht-laerm
-description: "Kaution Abrechnung Kuendigung Vollmacht Laerm im Miet- und Wohnungseigentumsrecht: prüft konkret Kaution Abrechnung, Kündigungsform/Vollmacht/Zugang, Lärm/Geruch/Störung, Maklercourtage Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kaution Abrechnung Kuendigung Vollmacht Laerm im Miet- und Wohnungseigentumsrecht: prüft konkret Kaution Abrechnung, Kündigungsform/Vollmacht/Zugang, Lärm/Geruch/Störung, Maklercourtage Mietrecht."
 ---
 
 # Kaution Abrechnung Kuendigung Vollmacht Laerm
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-kaution-abrechnung` | Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kuendigung-form-vollmacht-zugang` | Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-laerm-geruch-stoerung` | Lärm/Geruch/Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-makler-courtage-mietrecht` | Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Kaution Abrechnung Kuendigung Vollmacht Laerm im Miet- und Wohnung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-kaution-abrechnung`
 

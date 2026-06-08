@@ -1,6 +1,6 @@
 ---
 name: datenerhebung-zahlen-schwellen-und-berechnung
-description: "Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertieftes Modul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Mietrecht."
 ---
 
 # Datenerhebung: Zahlen, Schwellenwerte und Berechnung

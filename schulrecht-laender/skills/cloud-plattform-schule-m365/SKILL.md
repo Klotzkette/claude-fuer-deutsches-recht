@@ -1,6 +1,6 @@
 ---
 name: cloud-plattform-schule-m365
-description: "Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation im Schulrecht Länder."
 ---
 
 # Cloud-Plattform Schule und M365

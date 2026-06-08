@@ -1,24 +1,9 @@
 ---
 name: strafr-dysfunk-darlegungslast-empirie-nutzen
-description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft konkret Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs, Hinweis auf einen heilbaren Fehler im Ablehnungs- oder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft konkret Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs, Hinweis auf einen heilbaren Fehler im Ablehnungs- oder."
 ---
 
 # Strafr Dysfunk Darlegungslast Empirie Nutzen
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafr-dysfunk-darlegungslast-umkehren` | Darlegungs- und Substantiierungslast für den Missbrauchsvorwurf konsequent auf die Gegenseite verlagern. Wer dem Verteidiger Rechtsmissbrauch vorwirft muss konkret darlegen welcher Antrag aus welchem Grund welchen Eingriffstatbestand erfuellt. Pauschalvorwuerfe sind nicht ausreichend. Praktische Schriftsatzformulierungen und Antwortbausteine. Folgenbetrachtung wenn Gericht in Urteilen Senatsschelte ohne Begruendung anfuehrt. Revisionsrelevanz pruefen. |
-| `strafr-dysfunk-empirie-nutzen` | Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen. Praxiserhebungen an Oberlandesgerichten und Diplomarbeiten zeigen sehr geringe Fallzahlen problematischer Verteidigung. Wer Dysfunktionalitaet behauptet hat empirische Darlegungslast. Daten zu Verfahren mit hoher Beweisantragszahl Befangenheitsantraegen und tatsaechlichem Missbrauch. Argumentation in Schriftsatz und mediennaher Auseinandersetzung. Quellen vor Verwendung verifizieren. |
-| `strafr-dysfunk-erklaerungsrecht-257-stpo` | Erklaerungsrecht § 257 Abs. 2 StPO und schriftliche Form § 257a StPO als legitime offensive Verteidigungsmittel nutzen. Erklaerung nach Beweiserhebung zu jeder einzelnen Beweisaufnahmehandlung. Sachgerechte Form mit Bezug zu konkreter Aussage Indizienlage Beweiswuerdigung. Abgrenzung zu polemischer Eskalation. Praktische Mustertexte. Folge wenn Vorsitz das Wort entzieht oder § 178 GVG droht. |
-| `strafr-dysfunk-hinweis-auf-heilbaren-fehler` | Hinweis auf einen heilbaren Fehler im Ablehnungs- oder Sanktionsbeschluss als Verteidigungswerkzeug. Statt sofortiger Eskalation eine schriftliche Erinnerung und Bitte um ergaenzende Begruendung. Kollegiale Form schuetzt vor Missbrauchsvorwurf und gibt dem Gericht Gelegenheit. Falls keine Reaktion erfolgt verstaerkt sich die Revisionsruege. Mustertexte und Eskalationsstufen. |
-| `strafr-dysfunk-institutsmissbrauch-kritik` | Lehre vom Institutsmissbrauch in der Strafverteidigung kritisch dekonstruieren. Die ueberkommene Lehre stammt methodisch aus dem Zivilprozess und unterstellt der StPO einen einheitlichen Hauptzweck. Tatsaechlich konkurrieren Wahrheit Gerechtigkeit Rechtsfrieden und Beschuldigtenrechte. Drei Untergruppen Rechte Dritter fehlender Sachbezug Prozessverschleppung sind nicht trennscharf. Lehre wird auch in der modernen Zivilrechtsdoktrin selbst zunehmend hinterfragt. Argumentation gegen Berufung des Gerichts auf diese Lehre. |
-| `strafr-dysfunk-ki-schriftsatz-falle-vermeiden` | Einsatz KI-gestuetzter Schriftsaetze in der Strafverteidigung ohne Eroeffnung des Vorwurfs der dysfunktionalen Verteidigung. KI-generierte Zitate erfinden Aktenzeichen und Entscheidungen sind Schlechterfuellung des Mandatsvertrags und beruehren das Beistandsrecht. Verifizierung jedes Zitats Aktenzeichen Gericht Datum vor Versendung. Kein Versteck hinter dem Modell. Konkrete Qualitaetssicherung Mustertexte und Verantwortung des Verteidigers. |
-| `strafr-dysfunk-konfliktverteidigung-vs-dysfunktional` | Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen. Schwerpunkt liegt im aktiven Akt. Konfliktverteidigung ist Negation der Verfahrensherrschaft des Gerichts durch zugespitzten Einsatz prozessualer Rechte. Dysfunktional waere erst das verdeckte Unterlassen zielfuehrenden Prozessierens. Wer harte Mittel einsetzt aber die Sache vorantreibt verteidigt nicht dysfunktional sondern engagiert. Wichtige praktische Indikatoren zur Selbstkontrolle und zur Argumentation gegen das Gericht. |
-| `strafr-dysfunk-mandant-strategie-schuetzen` | Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen. Klare Kommunikation mit dem Mandanten. Strategie wird nicht durch Druck des Gerichts geaendert sondern durch sachliche Bewertung. Mandanteneinwilligung zur Strategie dokumentieren. Wechselrede mit Mandanten zu Folgen einer harten Linie. Mandanteninteresse als Mittelpunkt nicht Verteidigerego. |
-| `strafr-dysfunk-pflichtverteidiger-entpflichtung-143a` | Entpflichtung des Pflichtverteidigers nach § 143a Abs. 2 StPO insbesondere Variante 2 (zerruettetes Vertrauensverhaeltnis) abwehren. Strenge Voraussetzungen. Konkrete Tatsachen die das Vertrauensverhaeltnis endgueltig zerruetten. Pauschale Konfliktverteidigung traegt die Entpflichtung nicht. Stellungnahme des Mandanten ist entscheidend. Verteidigung gegen den Antrag der StA oder des Gerichts. |
-| `strafr-dysfunk-senatsschelte-obiter-dicta` | Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen. Unterscheidung zwischen tragender Wuerdigung und beilaeufiger Kritik an der Verteidigung. Revisionsrelevanz wenn Verteidigerkritik in die Beweiswuerdigung einfliesst. Ruegestrategie nach § 261 StPO und § 338 StPO. Kein Anlass für ueberzogene Reaktion sondern für praezise Filterung und ggf Ruege. |
 
 ## Arbeitsweg
 
@@ -28,7 +13,7 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafr-dysfunk-darlegungslast-umkehren`
 

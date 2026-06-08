@@ -1,6 +1,6 @@
 ---
 name: iap-anmeldepruefung-bauleiter-aussonderung
-description: "Bauleiter Pruefung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Pruefraster für Insolvenzverwalter im Insolvenzforderungsanmeldungspruefung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Pruefung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Pruefraster für Insolvenzverwalter im Insolvenzforderungsanmeldungspruefung."
 ---
 
 # IAP: Anmeldepruefung Bauleiter

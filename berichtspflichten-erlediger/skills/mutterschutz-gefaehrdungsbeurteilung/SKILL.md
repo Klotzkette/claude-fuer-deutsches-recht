@@ -1,6 +1,6 @@
 ---
 name: mutterschutz-gefaehrdungsbeurteilung
-description: "Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation im Berichtspflichten."
 ---
 
 # Mutterschutz Gefährdungsbeurteilung und Meldung

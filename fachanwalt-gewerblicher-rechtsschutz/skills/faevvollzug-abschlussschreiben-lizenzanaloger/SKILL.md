@@ -1,17 +1,9 @@
 ---
 name: faevvollzug-abschlussschreiben-lizenzanaloger
-description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz."
 ---
 
 # Faevvollzug Abschlussschreiben Lizenzanaloger
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-redteam-qualitygate` | Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien. |
-| `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` | Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz. |
-| `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt` | Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-redteam-qualitygate`
 

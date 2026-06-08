@@ -1,6 +1,6 @@
 ---
 name: executive-summary-1-pager-template
-description: "Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und 26 sowie BRAO Paragraf 43a und Paragraf 43e und DSGVO Artikel 5 und 6 und 28 und 32 ab und ist als Anlage zur Vollrichtlinie oder als Aushang für Onboarding und Schulungen einsetzbar im Ki Richtlinie Kanzleien. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und 26 sowie BRAO Paragraf 43a und Paragraf 43e und DSGVO Artikel 5 und 6 und 28 und 32 ab und ist als Anlage zur Vollrichtlinie oder als Aushang für Onboarding und Schulungen einsetzbar im Ki Richtlinie Kanzleien."
 ---
 
 # Executive Summary 1-Pager Template

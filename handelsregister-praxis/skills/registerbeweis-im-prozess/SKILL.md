@@ -1,6 +1,6 @@
 ---
 name: registerbeweis-im-prozess
-description: "Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet Registerauszüge, Bekanntmachungen und Nachweise prozesstauglich auf im Handelsregister Praxis."
 ---
 
 # Registerbeweis im Zivilprozess

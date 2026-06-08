@@ -1,6 +1,6 @@
 ---
 name: schoeffe-ermuedung-komplexverfahren
-description: "Ermüdung im Komplexverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ermüdung im Komplexverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck im Schoeffen Handelsrichter Praxis."
 ---
 
 # Ermüdung im Komplexverfahren: Sitzungspraxis

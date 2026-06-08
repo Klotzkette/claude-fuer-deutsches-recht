@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung
-description: "Zuständigkeiten und Praxis von Finanzamt und Betriebsprüfung bei Sanierungsanträgen. Sachgebietsleiter, Großbetriebsprüfung, BMF-Erlass-Bindung, Einspruchsverfahren und mögliche Streitpunkte im Steuerrecht Anwalt Und Berater. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Zuständigkeiten und Praxis von Finanzamt und Betriebsprüfung bei Sanierungsanträgen. Sachgebietsleiter, Großbetriebsprüfung, BMF-Erlass-Bindung, Einspruchsverfahren und mögliche Streitpunkte im Steuerrecht Anwalt Und Berater."
 ---
 
 # Sanierungsgewinn — Zuständigkeiten FA und Betriebsprüfung

@@ -1,6 +1,6 @@
 ---
 name: ruege-und-gegenvorstellung-kammerantwort-und-verfahren
-description: "Anwälte: ruege und gegenvorstellung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anwälte: ruege und gegenvorstellung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
 # Anwälte: ruege und gegenvorstellung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

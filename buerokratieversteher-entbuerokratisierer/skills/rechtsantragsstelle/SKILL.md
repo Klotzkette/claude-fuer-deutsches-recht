@@ -1,6 +1,6 @@
 ---
 name: rechtsantragsstelle
-description: "Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind im Bürokratie-Entbürokratisierung."
 ---
 
 # Rechtsantragsstelle

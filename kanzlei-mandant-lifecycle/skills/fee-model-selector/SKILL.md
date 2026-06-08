@@ -1,6 +1,6 @@
 ---
 name: fee-model-selector
-description: "Fee Model Selector: steuert Stundensatz, Festpreis, Cap, Blended Rate, Success-Komponente und Retainer vergleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fee Model Selector: steuert Stundensatz, Festpreis, Cap, Blended Rate, Success-Komponente und Retainer vergleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Fee Model Selector

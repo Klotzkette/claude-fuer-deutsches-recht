@@ -1,6 +1,6 @@
 ---
 name: strafz-strafrahmenmilderung-leitfaden
-description: "Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster für Verteidiger im Strafzumessung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster für Verteidiger im Strafzumessung."
 ---
 
 # StrafZ: Strafrahmenmilderung

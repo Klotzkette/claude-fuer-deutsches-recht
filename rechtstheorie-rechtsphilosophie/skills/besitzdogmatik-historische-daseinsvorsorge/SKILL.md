@@ -1,17 +1,9 @@
 ---
 name: besitzdogmatik-historische-daseinsvorsorge
-description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal, Prueft Daseinsvorsorge. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal, Prueft Daseinsvorsorge."
 ---
 
 # Besitzdogmatik Historische Daseinsvorsorge
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `besitzdogmatik-historische-schule-und-systemdenken` | Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
-| `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz. |
-| `demokratie-gesetzgeber-gericht` | Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `besitzdogmatik-historische-schule-und-systemdenken`
 

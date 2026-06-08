@@ -1,6 +1,6 @@
 ---
 name: familiengerichtliche-genehmigung-grundbuch
-description: "Prüft Minderjährige, betreute Personen, Genehmigungsbedürftigkeit, Rechtskraft und Nachweisform im Grundbuchamt Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Minderjährige, betreute Personen, Genehmigungsbedürftigkeit, Rechtskraft und Nachweisform im Grundbuchamt Praxis."
 ---
 
 # Familien-/Betreuungsgerichtliche Genehmigung

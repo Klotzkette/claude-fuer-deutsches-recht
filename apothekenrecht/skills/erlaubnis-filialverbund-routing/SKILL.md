@@ -1,6 +1,6 @@
 ---
 name: erlaubnis-filialverbund-routing
-description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing im Apothekenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing im Apothekenrecht."
 ---
 
 # Erlaubnis Filialverbund Routing

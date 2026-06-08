@@ -1,6 +1,6 @@
 ---
 name: trade-fair-china-ip-risk
-description: "IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll im Festlandchina Wirtschaftsverkehr. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll im Festlandchina Wirtschaftsverkehr."
 ---
 
 # IP-Schutz auf chinesischen Messen: Prävention und Enforcement

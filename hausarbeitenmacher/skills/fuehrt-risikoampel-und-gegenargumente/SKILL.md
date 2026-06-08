@@ -1,6 +1,6 @@
 ---
 name: fuehrt-risikoampel-und-gegenargumente
-description: "Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien im Hausarbeitenmacher."
 ---
 
 # Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,18 +1,9 @@
 ---
 name: arbeitnehmer-status-problem
-description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret Statusfeststellung für eine geplante Beschaeftigung -, Gezielte Anpassung des Arbeitsrechts-Praxisprofils –, Risiko, Mandatsakten verwalten – neu anlegen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret Statusfeststellung für eine geplante Beschaeftigung -, Gezielte Anpassung des Arbeitsrechts-Praxisprofils –, Risiko, Mandatsakten verwalten – neu anlegen."
 ---
 
 # Arbeitnehmer Status Problem
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten. |
-| `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen. |
-| `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert. |
-| `arbeitsrecht-problem-sortieren` | Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `arbeitnehmer-status`
 

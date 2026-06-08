@@ -1,6 +1,6 @@
 ---
 name: anrede-anwaltskanzleien-bittet
-description: "Anrede: Verhandlung, Vergleich und Eskalation im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Mandantenanfragen Assistent. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anrede: Verhandlung, Vergleich und Eskalation im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
 ---
 
 # Anrede: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: pacer-ecf-confidentiality
-description: "Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations im US Bankruptcy Code."
 ---
 
 # PACER, ECF and Confidentiality

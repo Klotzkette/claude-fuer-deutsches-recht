@@ -1,6 +1,6 @@
 ---
 name: asylbewerberleistungsgesetz-und-gesundheitsversorgung
-description: "Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4 und 6: Anspruchsumfang, Krankenschein, Übergang zu GKV und aktuelle Rechtsentwicklungen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4 und 6: Anspruchsumfang, Krankenschein, Übergang zu GKV und aktuelle Rechtsentwicklungen im Krankenkassen-/Krankenversicherungsrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Asylbewerberleistungsgesetz und Gesundheitsversorgung

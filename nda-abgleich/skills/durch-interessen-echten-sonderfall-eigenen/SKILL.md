@@ -1,6 +1,6 @@
 ---
 name: durch-interessen-echten-sonderfall-eigenen
-description: "Durch: Mehrparteienkonflikt und Interessenmatrix im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Durch: Mehrparteienkonflikt und Interessenmatrix im Plugin nda abgleich im NDA-Abgleich."
 ---
 
 # Durch: Mehrparteienkonflikt und Interessenmatrix

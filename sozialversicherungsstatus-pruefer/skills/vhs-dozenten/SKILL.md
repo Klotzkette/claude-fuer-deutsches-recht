@@ -1,6 +1,6 @@
 ---
 name: vhs-dozenten
-description: "Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgelt, Freiheit und Wiederholungsbeauftragungen im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgelt, Freiheit und Wiederholungsbeauftragungen im Sozialversicherungsstatus Pruefer."
 ---
 
 # VHS-Dozenten

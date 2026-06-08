@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-scheinselbststaendigkeit
-description: "Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Handelsvertreterrecht."
 ---
 
 # Rechtsabteilung: Scheinselbstständigkeit des Handelsvertreters

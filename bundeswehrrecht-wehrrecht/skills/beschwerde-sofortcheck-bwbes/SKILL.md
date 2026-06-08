@@ -1,6 +1,6 @@
 ---
 name: beschwerde-sofortcheck-bwbes
-description: "Beschwerde-Fristen Sofortcheck WBO: prüft Fristbeginn, Berechnung, Form, Wiedereinsetzung und Vollzugsaussetzung. Norm-/Quellenanker: §§ 6–11 und 23a WBO im Bundeswehrrecht Wehrrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschwerde-Fristen Sofortcheck WBO: prüft Fristbeginn, Berechnung, Form, Wiedereinsetzung und Vollzugsaussetzung. Norm-/Quellenanker: §§ 6–11 und 23a WBO im Bundeswehrrecht Wehrrecht."
 ---
 
 # Beschwerde-Fristen Sofortcheck (WBO)

@@ -1,17 +1,9 @@
 ---
 name: uwg-systematik-statt-streit
-description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft konkret UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen."
 ---
 
 # UWG Systematik Statt Streit
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `uwg-systematik-und-anwendung` | UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbände. Beispielfälle und Schriftsatzbausteine. |
-| `vergleich-statt-streit-strategie` | Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz. Wann Vergleich sinnvoll, Vergleichsoptionen (Abgrenzung, Kreuzlizenz, Einmalzahlung), Vergleichsprotokoll, RVG-Einigungsgebühr, Vergleichsklauseln und Risiken. |
-| `vergleichsverhandlung-strategie` | Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für WIPO-Schiedsverfahren. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `uwg-systematik-und-anwendung`
 

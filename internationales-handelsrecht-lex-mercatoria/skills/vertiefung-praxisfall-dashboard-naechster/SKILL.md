@@ -1,6 +1,6 @@
 ---
 name: vertiefung-praxisfall-dashboard-naechster
-description: "Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Praxisfall-Auswertung Internationales Handelsrecht

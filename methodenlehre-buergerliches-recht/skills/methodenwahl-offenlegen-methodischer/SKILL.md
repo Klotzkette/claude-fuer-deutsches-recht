@@ -1,19 +1,9 @@
 ---
 name: methodenwahl-offenlegen-methodischer
-description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buergerliches Recht: prüft konkret Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die, Lehrt die methodisch korrekte Bildung wertungsoffener. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buergerliches Recht: prüft konkret Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die, Lehrt die methodisch korrekte Bildung wertungsoffener."
 ---
 
 # Methodenwahl Offenlegen Methodischer
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `methodenwahl-offenlegen-schriftsatz` | Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Haltbarkeit von Schriftsätzen durch methodische Klarheit. |
-| `methodischer-demokratiecheck` | Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen. |
-| `narrativkritik-und-subsumtion` | Analysiert den Einfluss von Narrativen und Framings auf die juristische Subsumtion im Zivilrecht. Das Skill zeigt, wie die sprachliche Rahmung eines Sachverhalts die Subsumtionsergebnisse beeinflusst, wie Narrative dekonstruiert werden und wie methodisch saubere Subsumtion von narrativer Überformung getrennt wird. Geeignet für Schriftsatzkritik und wissenschaftliche Methodenanalyse. |
-| `obersatzbildung-wertungsoffen` | Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vorwegzunehmen. Geeignet für juristische Ausbildung, Klausuren und Praxisgutachten. |
-| `objektiv-teleologische-auslegung-red-team` | Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem historischen Gesetzgeberwillen vorzugswürdig ist und wann nicht. Geeignet für strategische Prozessplanung. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `methodenwahl-offenlegen-schriftsatz`
 

@@ -1,6 +1,6 @@
 ---
 name: finanzprodukte-krypto-gluecksspiel
-description: "Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken im Influencer-Recht."
 ---
 
 # Influencer-Recht: Finanzprodukte, Krypto-Affiliate und BaFin-Risiko

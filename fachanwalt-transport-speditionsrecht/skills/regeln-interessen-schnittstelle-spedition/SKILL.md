@@ -1,17 +1,9 @@
 ---
 name: regeln-interessen-schnittstelle-spedition
-description: "Regeln Interessen Schnittstelle Spedition im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Regeln, Schnittstelle, Spedition. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Regeln Interessen Schnittstelle Spedition im Plugin Fachanwalt Transport Speditionsrecht: prüft konkret Regeln, Schnittstelle, Spedition."
 ---
 
 # Regeln Interessen Schnittstelle Spedition
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-regeln-mehrparteien-konflikt-und-interessen` | Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-schnittstelle-formular-portal-und-einreichung` | Schnittstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-spedition-behoerden-gericht-und-registerweg` | Spedition: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Normenanker
 
@@ -36,11 +28,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-regeln-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht.
 
 ### Regeln: Mehrparteienkonflikt und Interessenmatrix
 
@@ -65,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-schnittstelle-formular-portal-und-einreichung`
 
-**Fokus:** Schnittstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt transport speditionsrecht.
 
 ### Schnittstelle: Formular, Portal und Einreichungslogik
 
@@ -90,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-spedition-behoerden-gericht-und-registerweg`
 
-**Fokus:** Spedition: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Spedition: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt transport speditionsrecht.
 
 ### Spedition: Behörden-, Gerichts- oder Registerweg
 

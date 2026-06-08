@@ -1,18 +1,9 @@
 ---
 name: rahmenvereinbarung-abrufe-angebotsoeffnung
-description: "Rahmenvereinbarung Abrufe Angebotsoeffnung im Plugin Fachanwalt Vergaberecht: prüft konkret Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern, Angebot, Formfehler. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Rahmenvereinbarung Abrufe Angebotsoeffnung im Plugin Fachanwalt Vergaberecht: prüft konkret Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern, Angebot, Formfehler."
 ---
 
 # Rahmenvereinbarung Abrufe Angebotsoeffnung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `rahmenvereinbarung-abrufe-mini-wettbewerb` | Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern: Laufzeit, Hoechstmengen, Abrufmechanik, Rangfolge, Transparenz und Vertragsmanagement. |
-| `angebotsoeffnung-formfehler-preisblatt` | Angebot, Formfehler, Preisblatt und Ausschlussrisiken pruefen: Signatur, Datei, Frist, Nebenangebote, Preisangaben, Mischkalkulation und Unvollstaendigkeit. |
-| `auftragswert-losbildung-rechner` | Auftragswert, Lose, Optionen, Verlaengerungen, Rahmenvereinbarungen und Umgehungsrisiken berechnen und dokumentieren. |
-| `bieterfragen-antworten-management` | Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Aenderung der Unterlagen, Fristverlaengerung und Antwortlog. |
 
 ## Arbeitsweg
 
@@ -22,7 +13,7 @@ description: "Rahmenvereinbarung Abrufe Angebotsoeffnung im Plugin Fachanwalt Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `rahmenvereinbarung-abrufe-mini-wettbewerb`
 

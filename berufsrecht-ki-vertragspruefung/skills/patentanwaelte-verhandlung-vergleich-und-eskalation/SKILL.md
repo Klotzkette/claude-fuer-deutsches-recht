@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-verhandlung-vergleich-und-eskalation
-description: "Patentanwälte: Verhandlung, Vergleich und Eskalation im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Berufsrecht KI-Vertragsprüfung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: Verhandlung, Vergleich und Eskalation im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
 ---
 
 # Patentanwälte: Verhandlung, Vergleich und Eskalation

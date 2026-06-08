@@ -1,6 +1,6 @@
 ---
 name: termination-203-304-recapture
-description: "Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD im Us Copyright Registrierung Verlag."
 ---
 
 # Termination Rights § 203 und § 304

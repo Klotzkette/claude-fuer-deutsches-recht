@@ -1,6 +1,6 @@
 ---
 name: rechenschaft-rechenschaftsbericht-satzung
-description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor im Parteienrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor im Parteienrecht."
 ---
 
 # Prüfung Rechenschaft

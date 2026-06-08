@@ -1,17 +1,9 @@
 ---
 name: gesellschaftsrecht-gesellschafterstreit-eilrechtsschutz
-description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkrete Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkrete Prüfungslinie für fachanwalt handels gesellschaftsrecht, Anwalt hat Datensichtung abgeschlossen und muss."
 ---
 
 # Gesellschafterstreit Eilrechtsschutz
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. |
-| `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` | Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Gesellschafterstreit Eilrechtsschutz im Plugin Fachanwalt Handels 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`
 

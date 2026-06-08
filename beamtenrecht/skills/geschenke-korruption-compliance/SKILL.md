@@ -1,6 +1,6 @@
 ---
 name: geschenke-korruption-compliance
-description: "Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Geschenke, Einladungen, Sponsoring und Korruptionsprävention im öffentlichen Dienst im Beamtenrecht."
 ---
 
 # Geschenke Korruption Compliance

@@ -1,6 +1,6 @@
 ---
 name: time-entry-hygiene
-description: "Time Entry Hygiene: steuert Zeiterfassung präzise, verständlich, abrechenbar und nicht peinlich machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Time Entry Hygiene: steuert Zeiterfassung präzise, verständlich, abrechenbar und nicht peinlich machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Time Entry Hygiene

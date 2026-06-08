@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenmeldung-organisationspflicht
-description: "Notare: haftpflicht und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: haftpflicht und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: haftpflicht und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

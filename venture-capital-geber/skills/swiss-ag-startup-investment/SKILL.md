@@ -1,6 +1,6 @@
 ---
 name: swiss-ag-startup-investment
-description: "Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Schweizer Startup-Investment

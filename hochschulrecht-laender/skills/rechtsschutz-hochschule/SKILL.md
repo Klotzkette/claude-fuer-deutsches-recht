@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-hochschule
-description: "Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht im Hochschulrecht Länder."
 ---
 
 # Rechtsschutz Hochschule

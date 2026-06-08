@@ -1,6 +1,6 @@
 ---
 name: haus-themaeingrenzung-bauleiter
-description: "Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Pruefraster für Erstsemester und Examenskandidaten im Hausarbeitenmacher. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Pruefraster für Erstsemester und Examenskandidaten im Hausarbeitenmacher."
 ---
 
 # Haus: Themaeingrenzung

@@ -1,6 +1,6 @@
 ---
 name: gaststaette-und-sondernutzung
-description: "Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt im Bürokratie-Entbürokratisierung."
 ---
 
 # Gaststätte und Sondernutzung

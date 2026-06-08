@@ -1,6 +1,6 @@
 ---
 name: standby-letter-isp98
-description: "Internationales Handelsrecht: Standby Letter of Credit nach ISP98 (ICC 1998). Abgrenzung zu Akkreditiv und Bankgarantie, Demand-Charakter, ISP98 Rule 1.06 (Unabhängigkeit), Rule 4 (Dokumentenprüfung) und häufige Einsatzgebiete im Internationales Handelsrecht Lex Mercatoria. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Internationales Handelsrecht: Standby Letter of Credit nach ISP98 (ICC 1998). Abgrenzung zu Akkreditiv und Bankgarantie, Demand-Charakter, ISP98 Rule 1.06 (Unabhängigkeit), Rule 4 (Dokumentenprüfung) und häufige Einsatzgebiete im Internationales Handelsrecht Lex Mercatoria."
 ---
 
 # Standby Letter of Credit nach ISP98

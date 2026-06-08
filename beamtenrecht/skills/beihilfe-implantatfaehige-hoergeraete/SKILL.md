@@ -1,6 +1,6 @@
 ---
 name: beihilfe-implantatfaehige-hoergeraete
-description: "Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den Landesvorschriften die Festbetragsregelung den medizinischen Notwendigkeitsnachweis sowie die Grundsaetze der Wirtschaftlichkeit und Sparsamkeit. Behandelt typische Konstellationen Streit um Hoergeraet ueber Festbetrag Cochlea-Implantat-Nachsorge und elektronische Sehhilfen. Liefert Pruefraster und Klagebausteine im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den Landesvorschriften die Festbetragsregelung den medizinischen Notwendigkeitsnachweis sowie die Grundsaetze der Wirtschaftlichkeit und Sparsamkeit. Behandelt typische Konstellationen Streit um Hoergeraet ueber Festbetrag Cochlea-Implantat-Nachsorge und elektronische Sehhilfen. Liefert Pruefraster und Klagebausteine im Beamtenrecht."
 ---
 
 # Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen

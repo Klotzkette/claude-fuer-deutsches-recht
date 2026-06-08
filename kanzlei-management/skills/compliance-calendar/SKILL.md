@@ -1,6 +1,6 @@
 ---
 name: compliance-calendar
-description: "Sammelt wiederkehrende Pflichten: Versicherung, Kammer, Datenschutz, Arbeitsschutz, Steuern, IT. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Sammelt wiederkehrende Pflichten: Versicherung, Kammer, Datenschutz, Arbeitsschutz, Steuern, IT. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene im Kanzlei Management."
 ---
 
 # Compliance-Kalender Kanzlei

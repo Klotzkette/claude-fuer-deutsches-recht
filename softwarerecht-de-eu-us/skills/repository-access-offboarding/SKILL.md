@@ -1,6 +1,6 @@
 ---
 name: repository-access-offboarding
-description: "Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung im Softwarerecht De Eu Us."
 ---
 
 # Repository Access und Offboarding

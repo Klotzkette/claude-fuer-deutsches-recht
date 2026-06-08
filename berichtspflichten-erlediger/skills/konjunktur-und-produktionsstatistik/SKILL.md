@@ -1,6 +1,6 @@
 ---
 name: konjunktur-und-produktionsstatistik
-description: "Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang im Berichtspflichten. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Produktions-, Monats-, Jahres- und Konjunkturstatistiken für produzierende Betriebe: Erzeugnisse, Mengen, Umsätze, Auftragseingang im Berichtspflichten."
 ---
 
 # Konjunktur- und Produktionsstatistik

@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-ki-und-datenzugriff
-description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Treuepflicht KI Und Datenzugriff; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Treuepflicht KI Und Datenzugriff

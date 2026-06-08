@@ -1,6 +1,6 @@
 ---
 name: jugendamt-anschreiben-kindergeld-antrag
-description: "Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinschätzung, Mitwirkung und Grenzen freiwilliger Angaben im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinschätzung, Mitwirkung und Grenzen freiwilliger Angaben im Bürokratie-Entbürokratisierung."
 ---
 
 # Jugendamt-Anschreiben

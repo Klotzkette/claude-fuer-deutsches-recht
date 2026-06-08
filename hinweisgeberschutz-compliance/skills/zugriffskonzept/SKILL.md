@@ -1,6 +1,6 @@
 ---
 name: zugriffskonzept
-description: "Baut Zugriffskonzept für Case-Management-Systeme im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Baut Zugriffskonzept für Case-Management-Systeme im Hinweisgeberschutz Compliance."
 ---
 
 # Zugriffskonzept

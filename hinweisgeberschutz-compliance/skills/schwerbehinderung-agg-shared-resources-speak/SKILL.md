@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderung-agg-shared-resources-speak
-description: "Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft AGG-/Schwerbehindertenbezug in Hinweisfällen im Hinweisgeberschutz Compliance."
 ---
 
 # Schwerbehinderung Agg

@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-einspruch-begruend
-description: "Datenschutzbußgeld: Einspruch begründen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Datenschutzbußgeld: Einspruch begründen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Datenschutzbussgeld Einspruch Begruend

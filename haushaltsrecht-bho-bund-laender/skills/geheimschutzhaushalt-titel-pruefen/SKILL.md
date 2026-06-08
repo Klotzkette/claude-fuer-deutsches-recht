@@ -1,6 +1,6 @@
 ---
 name: geheimschutzhaushalt-titel-pruefen
-description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
 # Geheimschutzhaushalt Titel Pruefen

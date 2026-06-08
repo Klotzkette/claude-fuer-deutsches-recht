@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-und-interessenkollision-kammerantwort
-description: "Notare: nebentaetigkeit und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notare: nebentaetigkeit und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Notare."
 ---
 
 # Notare: nebentaetigkeit und interessenkollision - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

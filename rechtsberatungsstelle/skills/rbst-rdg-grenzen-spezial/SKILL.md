@@ -1,6 +1,6 @@
 ---
 name: rbst-rdg-grenzen-spezial
-description: "Spezialfall RDG-Grenzen für Nichtanwaelte: Verbraucherzentrale, Mietervereine, Inkassodienstleister, Legal-Tech. Pruefraster für Erlaubnispflicht im Rechtsberatungsstelle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialfall RDG-Grenzen für Nichtanwaelte: Verbraucherzentrale, Mietervereine, Inkassodienstleister, Legal-Tech. Pruefraster für Erlaubnispflicht im Rechtsberatungsstelle."
 ---
 
 # RBst: RDG-Grenzen

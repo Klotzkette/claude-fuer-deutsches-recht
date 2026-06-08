@@ -1,15 +1,9 @@
 ---
 name: urheberrecht-angewandte
-description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law Moderecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law Moderecht."
 ---
 
 # Urheberrecht Angewandte
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `urheberrecht-angewandte-kunst` | Urheberrecht bei Mode und angewandter Kunst prüfen: Werkqualität, Gestaltungshöhe, Designerleistung, Doppelschutz und Beweisbarkeit. |
 
 ## Arbeitsweg
 
@@ -19,7 +13,7 @@ description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `urheberrecht-angewandte-kunst`
 

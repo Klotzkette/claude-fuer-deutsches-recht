@@ -1,6 +1,6 @@
 ---
 name: spezialkanzlei-risikoampel-und-gegenargumente
-description: "Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Verfassungsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien im Verfassungsrecht."
 ---
 
 # Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien

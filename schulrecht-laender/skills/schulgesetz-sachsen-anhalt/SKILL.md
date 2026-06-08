@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-sachsen-anhalt
-description: "Prüft Schulrecht in Sachsen-Anhalt mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Schulrecht in Sachsen-Anhalt mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht im Schulrecht Länder."
 ---
 
 # Schulgesetz Sachsen Anhalt

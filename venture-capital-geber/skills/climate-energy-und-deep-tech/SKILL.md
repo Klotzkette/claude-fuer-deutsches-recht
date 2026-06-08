@@ -1,6 +1,6 @@
 ---
 name: climate-energy-und-deep-tech
-description: "Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Genehmigung, IP, Exportkontrolle und Förderlogik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Genehmigung, IP, Exportkontrolle und Förderlogik im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Climate, Energy und Deep Tech

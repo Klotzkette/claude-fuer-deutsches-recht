@@ -1,6 +1,6 @@
 ---
 name: bewerber-ehemalige
-description: "Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Bewerber und ehemalige Beschäftigte im Hinweisgeberschutz Compliance."
 ---
 
 # Bewerber Ehemalige

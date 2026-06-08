@@ -1,19 +1,9 @@
 ---
 name: strafrecht-untreue-schaden
-description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern, Steuerhinterziehung nach Paragraph 370 AO. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern, Steuerhinterziehung nach Paragraph 370 AO."
 ---
 
 # Untreue Schaden
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit` | Vermoegensschaden bei Paragraph 266 StGB Untreue. BGH-Stufenmodell und BVerfG-Vorgaben zur Bezifferbarkeit. Schadensgleiche Vermoegensgefaehrdung als Verfassungsfrage. Revisionsangriffe gegen unzureichende Schadensfeststellung. Sachverstaendigenbeweis und Bilanzierung im Strafverfahren. |
-| `strafrecht-spezial-verbandssanktionengesetz-stand-2026` | Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung. |
-| `strafprozess-akteneinsicht-nachlieferungen-und-sonderbaende` | Akteneinsicht operativ steuern: Antrag, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, digitale Beweismittel, Asservate, Nachlieferungen, Opferdaten, Schwärzungen und Aktenvollständigkeit nach § 147 StPO kontrollieren. |
-| `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung` | Steuerhinterziehung nach Paragraph 370 AO. Vorsatztatbestand mit Verkuerzungserfolg. Drei Tathandlungen unrichtige Angaben pflichtwidriges Verschweigen Unterlassung. Schwellen besonders schwerer Fall Paragraph 370 III AO ab 50.000 Euro grosses Ausmass. Abgrenzung Paragraph 378 AO leichtfertige Verkuerzung als OWi. Verteidigung Vorsatz Verbotsirrtum Schaetzung. |
-| `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig` | Paragraph 370a AO historisch — gewerbsmäßige oder bandenmäßige Steuerhinterziehung; Tatbestand 2008 vom BVerfG für nichtig erklaert und ausser Kraft. Skill markiert die historische Norm und verweist auf Nachfolgeregelung Paragraph 370 III AO Regelbeispiele. Beweisrechtliche Relevanz für Altfaelle. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden be
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
 

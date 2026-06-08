@@ -1,6 +1,6 @@
 ---
 name: ruecknahme-einstellung-170-153
-description: "Was nach Anzeige passiert: Einstellung, Rücknahme Strafantrag, Opportunität, Beschwerde, Kommunikation mit StA im Strafanzeige-Vorbereitung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Was nach Anzeige passiert: Einstellung, Rücknahme Strafantrag, Opportunität, Beschwerde, Kommunikation mit StA im Strafanzeige-Vorbereitung."
 ---
 
 # Rücknahme, Einstellung, § 170 Abs. 2, §§ 153 ff. StPO

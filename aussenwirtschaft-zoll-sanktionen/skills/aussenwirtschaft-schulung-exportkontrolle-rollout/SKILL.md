@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-schulung-exportkontrolle-rollout
-description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BAFA-ICP-Anforderungen: Zielgruppen (Vertrieb, Einkauf, Logistik, IT), Schulungsinhalte, Nachweisdokumentation, E-Learning vs. Praesenz, jaehrliche Wiederholung. Output: Schulungskonzept und Nachweisprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BAFA-ICP-Anforderungen: Zielgruppen (Vertrieb, Einkauf, Logistik, IT), Schulungsinhalte, Nachweisdokumentation, E-Learning vs. Praesenz, jaehrliche Wiederholung. Output: Schulungskonzept und Nachweisprotokoll im Außenwirtschaft/Zoll/Sanktionen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Exportkontroll-Schulungskonzept: ICP-konforme Schulungsplanung und Nachweis

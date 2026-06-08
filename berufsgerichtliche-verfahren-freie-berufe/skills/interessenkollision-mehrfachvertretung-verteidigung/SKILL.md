@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-mehrfachvertretung-verteidigung
-description: "Interessenkollision Mehrfachvertretung (Verteidigungs- und Kammerantwort): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Interessenkollision Mehrfachvertretung (Verteidigungs- und Kammerantwort): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt im Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Interessenkollision Mehrfachvertretung: Verteidigungs- und Kammerantwort

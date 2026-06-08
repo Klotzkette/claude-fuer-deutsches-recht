@@ -1,6 +1,6 @@
 ---
 name: datenraum-und-trade-secrets-rechtsprechungscheck
-description: "Patentanwälte: datenraum und trade secrets - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Patentanwälte: datenraum und trade secrets - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
 # Patentanwälte: datenraum und trade secrets - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

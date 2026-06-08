@@ -1,6 +1,6 @@
 ---
 name: handelsmakler-paragraphen-93-104-hgb
-description: "Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Handelsmakler, Schlussnote, Tagebuch, Provision und Haftung im Handelsrecht Hgb."
 ---
 
 # Handelsmakler §§ 93-104 HGB

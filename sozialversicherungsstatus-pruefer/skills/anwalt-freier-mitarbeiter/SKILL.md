@@ -1,6 +1,6 @@
 ---
 name: anwalt-freier-mitarbeiter
-description: "Prüft freie anwaltliche Mitarbeit, Kanzleieingliederung, Versorgungswerk, Weisungen, Mandatskontakt und Abrechnung im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft freie anwaltliche Mitarbeit, Kanzleieingliederung, Versorgungswerk, Weisungen, Mandatskontakt und Abrechnung im Sozialversicherungsstatus Pruefer."
 ---
 
 # Freier Mitarbeiter Anwalt

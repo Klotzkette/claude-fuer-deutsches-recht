@@ -1,6 +1,6 @@
 ---
 name: nebenberuf
-description: "Nebenberuf: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Nebenberuf im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Nebenberuf: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Nebenberuf im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Patentanwaelte."
 ---
 
 # Nebenberuf

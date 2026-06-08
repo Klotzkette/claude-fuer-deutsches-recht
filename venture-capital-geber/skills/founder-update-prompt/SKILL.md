@@ -1,6 +1,6 @@
 ---
 name: founder-update-prompt
-description: "Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Founder-Update-Anfrage

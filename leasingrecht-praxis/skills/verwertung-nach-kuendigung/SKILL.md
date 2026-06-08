@@ -1,6 +1,6 @@
 ---
 name: verwertung-nach-kuendigung
-description: "Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadensminderungspflicht, Erlösoptimierung, Dokumentation und Schadensersatzberechnung im Leasingrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadensminderungspflicht, Erlösoptimierung, Dokumentation und Schadensersatzberechnung im Leasingrecht."
 ---
 
 # Verwertung nach Kündigung: Prozess und Schadensminderung

@@ -1,6 +1,6 @@
 ---
 name: register-mandantenbrief
-description: "Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung im Handelsregister Praxis."
 ---
 
 # Mandantenbrief Registerstand

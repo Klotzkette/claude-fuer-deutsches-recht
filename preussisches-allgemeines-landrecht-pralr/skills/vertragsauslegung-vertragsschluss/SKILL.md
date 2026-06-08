@@ -1,6 +1,6 @@
 ---
 name: vertragsauslegung-vertragsschluss
-description: "Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das Auslegungsraster die bona fides die exceptio doli und die Fortwirkung in § 242 BGB. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das Auslegungsraster die bona fides die exceptio doli und die Fortwirkung in § 242 BGB. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Vertragsauslegung Und Treu Und Glauben

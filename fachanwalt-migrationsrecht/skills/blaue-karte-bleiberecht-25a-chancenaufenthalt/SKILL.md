@@ -1,19 +1,9 @@
 ---
 name: blaue-karte-bleiberecht-25a-chancenaufenthalt
-description: "Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: prüft konkret Blaue Karte, Bleiberecht §§ 25a/25b, Chancen-Aufenthalt. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: prüft konkret Blaue Karte, Bleiberecht §§ 25a/25b, Chancen-Aufenthalt."
 ---
 
 # Blaue Karte Bleiberecht 25A Chancenaufenthalt
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-blaue-karte-eu-mobilitaet` | Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-blaue-karte-gehalt-abschluss` | Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-bleiberecht-25a-25b` | Bleiberecht §§ 25a/25b: Fachmodul im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-chancenaufenthalt` | Chancen-Aufenthalt: Fachmodul im Migrationsrecht; prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-chancenkarte-punktesystem` | Chancenkarte Punktesystem: Fachmodul im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Blaue Karte Bleiberecht 25A Chancenaufenthalt im Migrationsrecht: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-blaue-karte-eu-mobilitaet`
 

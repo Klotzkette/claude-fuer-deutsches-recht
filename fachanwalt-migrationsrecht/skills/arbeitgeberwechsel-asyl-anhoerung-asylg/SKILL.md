@@ -1,19 +1,9 @@
 ---
 name: arbeitgeberwechsel-asyl-anhoerung-asylg
-description: "Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft konkret Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg, Ausbildungsduldung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft konkret Arbeitgeberwechsel, Asylanhörung/Glaubhaftigkeit, Asylg, Ausbildungsduldung."
 ---
 
 # Arbeitgeberwechsel Asyl Anhörung Asylg
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-arbeitgeberwechsel` | Arbeitgeberwechsel: Fachmodul im Migrationsrecht; prüft Nebenbestimmung, Frist, Mitteilung, Zustimmung und Risiko Arbeitsplatzverlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-asyl-anhoerung-glaubhaftigkeit` | Asylanhörung/Glaubhaftigkeit: Fachmodul im Migrationsrecht; bereitet Kernschilderung, Widersprüche, Chronologie und Beweismittel vor; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-asylg-dokumentenmatrix-und-lueckenliste` | Asylg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-ausbildungsduldung` | Ausbildungsduldung: Fachmodul im Migrationsrecht; prüft Ausbildung, Identität, Ausschlüsse, Fristen, Anschlussaufenthalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-ausweisung-abwaegung` | Ausweisung Abwägung: Fachmodul im Migrationsrecht; prüft §§ 53 ff. AufenthG, Bleibeinteressen, Familie, Straftat, Prognose; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-arbeitgeberwechsel`
 
@@ -81,7 +71,7 @@ description: "Arbeitgeberwechsel Asyl Anhörung Asylg im Migrationsrecht: prüft
 
 ## 3. `spezial-asylg-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Asylg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Asylg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt migrationsrecht.
 
 ### Asylg: Dokumentenmatrix, Lückenliste und Nachforderung
 

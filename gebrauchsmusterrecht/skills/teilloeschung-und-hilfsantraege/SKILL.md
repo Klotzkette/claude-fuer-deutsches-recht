@@ -1,6 +1,6 @@
 ---
 name: teilloeschung-und-hilfsantraege
-description: "Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert im Gebrauchsmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert im Gebrauchsmusterrecht."
 ---
 
 # Teilloeschung Und Hilfsantraege

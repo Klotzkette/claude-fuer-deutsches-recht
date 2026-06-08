@@ -1,6 +1,6 @@
 ---
 name: commercial-dd-contract-value
-description: "Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen im Private Equity Praxis."
 ---
 
 # Commercial DD und Vertragswert

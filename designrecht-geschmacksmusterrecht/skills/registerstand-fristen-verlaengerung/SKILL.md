@@ -1,6 +1,6 @@
 ---
 name: registerstand-fristen-verlaengerung
-description: "Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen im Designrecht Geschmacksmusterrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen im Designrecht Geschmacksmusterrecht."
 ---
 
 # Registerstand Fristen Verlaengerung

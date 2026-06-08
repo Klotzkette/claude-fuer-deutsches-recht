@@ -1,6 +1,6 @@
 ---
 name: fusion-buergerbeteiligung-foerderung
-description: "Plant Beteiligung, Umweltinformationen, Presse, Einwendungen, Bürgerentscheid-Schnittstellen und Konfliktmanagement im Energierecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Beteiligung, Umweltinformationen, Presse, Einwendungen, Bürgerentscheid-Schnittstellen und Konfliktmanagement im Energierecht."
 ---
 
 # Fusion: Bürgerbeteiligung und politische Kommunikation

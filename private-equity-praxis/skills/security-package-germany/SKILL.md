@@ -1,6 +1,6 @@
 ---
 name: security-package-germany
-description: "Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck im Private Equity Praxis."
 ---
 
 # Deutsches Sicherheitenpaket

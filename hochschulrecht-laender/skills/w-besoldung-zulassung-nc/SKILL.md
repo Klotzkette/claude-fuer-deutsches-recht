@@ -1,6 +1,6 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Hochschulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Hochschulrecht Länder."
 ---
 
 # W Besoldung Und Leistungsbezuege

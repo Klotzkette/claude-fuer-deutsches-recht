@@ -1,6 +1,6 @@
 ---
 name: schulvertrag-privatschule-bussgeld
-description: "Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft privatschulische Aufnahme, Kündigung, Hausordnung und Vertragsrechte im Schulrecht Länder."
 ---
 
 # Schulvertrag Privatschule Kündigung

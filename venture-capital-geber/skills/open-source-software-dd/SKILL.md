@@ -1,6 +1,6 @@
 ---
 name: open-source-software-dd
-description: "Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Open Source und Software-DD

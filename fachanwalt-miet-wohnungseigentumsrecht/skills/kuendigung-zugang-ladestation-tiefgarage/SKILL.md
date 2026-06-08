@@ -1,19 +1,9 @@
 ---
 name: kuendigung-zugang-ladestation-tiefgarage
-description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseigentumsrecht: prüft konkret Kündigung-Zugang-Check, Ladestation Tiefgarage, Laienmodus Wohnraummiete, Mandantenbrief einfach. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseigentumsrecht: prüft konkret Kündigung-Zugang-Check, Ladestation Tiefgarage, Laienmodus Wohnraummiete, Mandantenbrief einfach."
 ---
 
 # Kuendigung Zugang Ladestation Tiefgarage
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `workflow-kuendigung-zugang-check` | Kündigung-Zugang-Check: Prüfungslinie für Miet- und WEG-Recht; prüft Zugang, Vollmacht, Form, Begründung, Frist und Widerspruch; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-ladestation-tiefgarage` | Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht; klärt § 20 WEG, Leitungswege, Brandschutz, Kosten und Betrieb; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-laienmodus-wohnraummiete` | Laienmodus Wohnraummiete: Prüfungslinie für Miet- und WEG-Recht; erklärt Mietpost, Kündigung, Mangel oder Abrechnung in einfacher Sprache, ohne Rechte zu verschenken; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mandantenbrief-einfach` | Mandantenbrief einfach: Prüfungslinie für Miet- und WEG-Recht; übersetzt das Ergebnis in kurze Entscheidungssätze und nächste Schritte; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-miet-wohnungseigentumsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Kuendigung Zugang Ladestation Tiefgarage im Miet- und Wohnungseige
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `workflow-kuendigung-zugang-check`
 

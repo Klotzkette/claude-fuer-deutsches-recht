@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-maengelrechte-deliktsrecht
-description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Werkvertrag-Mängelrechte §§ 633-638 BGB: Nacherfüllung, Selbstvornahme, Minderung, Schadensersatz im BGB BT."
 ---
 
 # Werkvertrag Mängelrechte §§ 633-638 BGB

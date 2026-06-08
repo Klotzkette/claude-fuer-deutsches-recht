@@ -1,6 +1,6 @@
 ---
 name: conversion-dismissal
-description: "Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences im US Bankruptcy Code."
 ---
 
 # Conversion and Dismissal

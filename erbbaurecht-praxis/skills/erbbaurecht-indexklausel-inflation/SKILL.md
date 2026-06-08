@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-indexklausel-inflation
-description: "Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel im Erbbaurecht Praxis."
 ---
 
 # Indexklausel und Inflation

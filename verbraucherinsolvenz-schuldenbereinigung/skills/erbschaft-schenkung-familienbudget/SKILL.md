@@ -1,17 +1,9 @@
 ---
 name: erbschaft-schenkung-familienbudget
-description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Erbschaft, Schenkung, Gewinn, Familienbudget und Haushaltsplan. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz Schuldenbereinigung: prüft konkret Erbschaft, Schenkung, Gewinn, Familienbudget und Haushaltsplan."
 ---
 
 # Erbschaft Schenkung Familienbudget
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
-| `formularcheck-insolvenzantrag` | Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Erbschaft Schenkung Familienbudget im Plugin Verbraucherinsolvenz 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `erbschaft-schenkung-gewinn`
 

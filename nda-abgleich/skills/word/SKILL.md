@@ -1,15 +1,9 @@
 ---
 name: word
-description: "Word im NDA-Abgleich im NDA-Abgleich. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Word im NDA-Abgleich im NDA-Abgleich."
 ---
 
 # Word
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `spezial-word-zahlen-schwellen-und-berechnung` | Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
@@ -19,11 +13,11 @@ description: "Word im NDA-Abgleich im NDA-Abgleich. Liefert priorisierten Output
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `spezial-word-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich.
 
 ### Word: Zahlen, Schwellenwerte und Berechnung
 

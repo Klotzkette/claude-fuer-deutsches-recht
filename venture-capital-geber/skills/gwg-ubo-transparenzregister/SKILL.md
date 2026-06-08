@@ -1,6 +1,6 @@
 ---
 name: gwg-ubo-transparenzregister
-description: "Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen im Venture Capital (Geber): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # UBO und Transparenzregister

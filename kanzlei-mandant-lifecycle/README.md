@@ -182,6 +182,6 @@ Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Beschre
 | `translation-management` | Translation Management: steuert Übersetzungen, beglaubigte Fassungen, bilinguale Schriftsätze und Kosten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Que... |
 | `vat-reverse-charge-legalfees` | Umsatzsteuer bei Legal Fees: steuert grenzüberschreitende Kanzleirechnungen, Reverse Charge, Auslagen und Kostenstellen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungs... |
 | `vergleichswert-story` | Vergleichswert Story: steuert Warum ein Vergleich wirtschaftlich sinnvoll oder falsch ist; Kosten, Zeit, Risiko und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungsp... |
-| `weekly-status` | Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt. |
+| `weekly-status` | Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Mandant-Lifecycle. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

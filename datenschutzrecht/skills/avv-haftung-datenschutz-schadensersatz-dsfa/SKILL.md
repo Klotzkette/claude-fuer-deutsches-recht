@@ -1,19 +1,9 @@
 ---
 name: avv-haftung-datenschutz-schadensersatz-dsfa
-description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: prüft konkret Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA, Spezialfall Schadensersatz Art. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: prüft konkret Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA, Spezialfall Schadensersatz Art."
 ---
 
 # AVV Haftung Datenschutz Schadensersatz Dsfa
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `avv-haftung-risikoallokation-art-82-dsgvo` | Haftungsverteilung Risikoallokation und Haftungscaps im AVV im Lichte von Art. 82 DSGVO. Klaert Aussenhaftung gegenueber Betroffenen Innenregress zwischen Verantwortlichem und Auftragsverarbeiter sowie zulaessige und unzulaessige vertragliche Begrenzungen. Output: Klausel-Bausteine für Innen- und Aussenhaftung mit Cap-Hinweisen. |
-| `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit` | Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjährung Anspruchskonkurrenz. Schritt-für-Schritt für Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung. |
-| `dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden` | Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung. |
-| `dsr-schadensersatz-art82-spezial` | Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster für Klaegervertreter. |
-| `dsv-bussgeldverteidigung-art-83` | Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: p
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `avv-haftung-risikoallokation-art-82-dsgvo`
 

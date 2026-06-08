@@ -1,6 +1,6 @@
 ---
 name: soldatinnen-und-kdv
-description: "Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Soldatinnen und KDV

@@ -1,17 +1,9 @@
 ---
 name: adressatenwuerde-rechtssteuerung-besitz-law
-description: "Adressatenwuerde Rechtssteuerung Besitz LAW im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Adressatenwuerde Rechtssteuerung Besitz LAW im Rechtstheorie und Rechtsphilosophie: prüft konkret Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch."
 ---
 
 # Adressatenwuerde Rechtssteuerung Besitz LAW
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `adressatenwuerde-und-rechtssteuerung` | Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden. |
-| `besitz-law-and-economics-transaktionskosten` | Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus. |
-| `besitz-rechtsrealismus-und-praktische-beduerfnisse` | Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen. |
 
 ## Regelungs- und Quellenanker
 
@@ -38,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `adressatenwuerde-und-rechtssteuerung`
 

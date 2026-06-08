@@ -1,6 +1,6 @@
 ---
 name: evidence-request-pack
-description: "Evidence Request Pack: steuert Belege vom Mandanten so anfordern, dass sie wirklich kommen und verwendbar sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Evidence Request Pack: steuert Belege vom Mandanten so anfordern, dass sie wirklich kommen und verwendbar sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene im Kanzlei-Mandant-Lifecycle."
 ---
 
 # Evidence Request Pack

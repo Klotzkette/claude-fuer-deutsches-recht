@@ -1,6 +1,6 @@
 ---
 name: inkasso-brief-erste-hilfe
-description: "Inkasso-Brief erste Hilfe: führt Laien durch Inkassoschreiben, Hauptforderung, Nebenforderungen, Drohkulisse und Widerspruchsstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Inkasso-Brief erste Hilfe: führt Laien durch Inkassoschreiben, Hauptforderung, Nebenforderungen, Drohkulisse und Widerspruchsstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Inkasso-Brief erste Hilfe

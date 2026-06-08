@@ -1,6 +1,6 @@
 ---
 name: chapter9-municipal-plan-chapter11-dip
-description: "Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities im US Bankruptcy Code."
 ---
 
 # Chapter 9 Municipal Eligibility

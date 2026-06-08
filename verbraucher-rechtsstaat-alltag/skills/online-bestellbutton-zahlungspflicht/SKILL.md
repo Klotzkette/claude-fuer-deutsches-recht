@@ -1,6 +1,6 @@
 ---
 name: online-bestellbutton-zahlungspflicht
-description: "Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhrmann-2, Buttontext, Checkout-Screenshots, Plattformbuchung, Rückforderung und Inkassoabwehr, wenn Verbraucher angeblich durch einen Klick zahlen sollen im Verbraucher Rechtsstaat Alltag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhrmann-2, Buttontext, Checkout-Screenshots, Plattformbuchung, Rückforderung und Inkassoabwehr, wenn Verbraucher angeblich durch einen Klick zahlen sollen im Verbraucher Rechtsstaat Alltag."
 ---
 
 # Online-Bestellbutton Und Zahlungspflicht

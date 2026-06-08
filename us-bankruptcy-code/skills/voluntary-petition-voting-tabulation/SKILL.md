@@ -1,6 +1,6 @@
 ---
 name: voluntary-petition-voting-tabulation
-description: "Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline im US Bankruptcy Code. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Organisiert voluntary filing, petition package, schedules, statements, certificates, filing authority and first-day timeline im US Bankruptcy Code."
 ---
 
 # Voluntary Petition Intake

@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-hochschule
-description: "Prüft Nachteilsausgleich an Hochschulen im Pruefungsrecht Hochschule. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Nachteilsausgleich an Hochschulen im Pruefungsrecht Hochschule."
 ---
 
 # Nachteilsausgleich Hochschule

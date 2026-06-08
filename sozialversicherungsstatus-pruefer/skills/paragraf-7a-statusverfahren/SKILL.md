@@ -1,6 +1,6 @@
 ---
 name: paragraf-7a-statusverfahren
-description: "Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf im Sozialversicherungsstatus Pruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf im Sozialversicherungsstatus Pruefer."
 ---
 
 # § 7a SGB IV Statusfeststellung

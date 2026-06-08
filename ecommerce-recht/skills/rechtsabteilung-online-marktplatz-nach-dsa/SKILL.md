@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-online-marktplatz-nach-dsa
-description: "Rechtsabteilungs-Fachmodul für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rechtsabteilungs-Fachmodul für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ecommerce Recht."
 ---
 
 # Rechtsabteilung: Online-Marktplatz nach DSA

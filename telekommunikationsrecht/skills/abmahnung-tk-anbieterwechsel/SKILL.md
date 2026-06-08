@@ -1,6 +1,6 @@
 ---
 name: abmahnung-tk-anbieterwechsel
-description: "Abmahnungen bei TK-Marketing, Preiswerbung, Rufnummernmissbrauch, Vergleichsportalen und Informationspflichten im Telekommunikationsrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Abmahnungen bei TK-Marketing, Preiswerbung, Rufnummernmissbrauch, Vergleichsportalen und Informationspflichten im Telekommunikationsrecht."
 ---
 
 # Abmahnung nach UWG/TKG

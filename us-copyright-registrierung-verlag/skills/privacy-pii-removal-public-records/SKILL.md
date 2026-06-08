@@ -1,6 +1,6 @@
 ---
 name: privacy-pii-removal-public-records
-description: "PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren im Us Copyright Registrierung Verlag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren im Us Copyright Registrierung Verlag."
 ---
 
 # Privacy, PII Removal und Public Records

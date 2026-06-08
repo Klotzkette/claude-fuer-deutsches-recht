@@ -1,6 +1,6 @@
 ---
 name: sanktionen-investorcheck-gewerbeanmeldung
-description: "Prüft Investoren und Gesellschafter auf Sanktions-, Geldwäsche- und Außenwirtschaftsrisiken im Gesellschaftsgruender. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Investoren und Gesellschafter auf Sanktions-, Geldwäsche- und Außenwirtschaftsrisiken im Gesellschaftsgruender."
 ---
 
 # Sanktions- und Investorencheck

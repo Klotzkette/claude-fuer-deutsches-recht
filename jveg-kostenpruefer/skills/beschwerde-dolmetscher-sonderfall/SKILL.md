@@ -1,6 +1,6 @@
 ---
 name: beschwerde-dolmetscher-sonderfall
-description: "Beschwerde: Internationaler Bezug und Schnittstellen im Plugin jveg kostenpruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Jveg Kostenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Beschwerde: Internationaler Bezug und Schnittstellen im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
 ---
 
 # Beschwerde: Internationaler Bezug und Schnittstellen

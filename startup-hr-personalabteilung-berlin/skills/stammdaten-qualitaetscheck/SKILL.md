@@ -1,6 +1,6 @@
 ---
 name: stammdaten-qualitaetscheck
-description: "Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
 # Stammdaten Qualitaetscheck

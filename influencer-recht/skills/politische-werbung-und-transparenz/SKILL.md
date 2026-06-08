@@ -1,6 +1,6 @@
 ---
 name: politische-werbung-und-transparenz
-description: "Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz im Influencer-Recht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz im Influencer-Recht."
 ---
 
 # Influencer-Recht: Politische Werbung und Transparenz

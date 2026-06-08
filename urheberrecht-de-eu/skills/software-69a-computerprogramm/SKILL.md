@@ -1,6 +1,6 @@
 ---
 name: software-69a-computerprogramm
-description: "Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung im Urheberrecht De Eu. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prueft Software, Quellcode, Objektcode, GUI, API, Datenformat, Funktionalitaet, Interoperabilitaet und Dekompilierung im Urheberrecht De Eu."
 ---
 
 # Computerprogramm nach §§ 69a ff. UrhG

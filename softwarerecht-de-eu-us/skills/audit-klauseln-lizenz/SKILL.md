@@ -1,6 +1,6 @@
 ---
 name: audit-klauseln-lizenz
-description: "Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz im Softwarerecht De Eu Us."
 ---
 
 # Audit-Klauseln in Softwarelizenzen

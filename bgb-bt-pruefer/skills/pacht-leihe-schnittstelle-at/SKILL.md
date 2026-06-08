@@ -1,6 +1,6 @@
 ---
 name: pacht-leihe-schnittstelle-at
-description: "Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung im BGB BT. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung im BGB BT."
 ---
 
 # Pacht, Leihe und Verwahrung BGB

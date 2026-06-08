@@ -1,6 +1,6 @@
 ---
 name: finanzplan-mandantenkommunikation-entscheidungsvorlage
-description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Finanzplan: Mandantenkommunikation und Entscheidungsvorlage

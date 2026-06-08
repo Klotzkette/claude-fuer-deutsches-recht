@@ -1,6 +1,6 @@
 ---
 name: dpia-risikoampel-und-gegenargumente
-description: "Dpia: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im Ki Governance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Dpia: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki governance im Ki Governance."
 ---
 
 # Dpia: Risikoampel, Gegenargumente und Verteidigungslinien

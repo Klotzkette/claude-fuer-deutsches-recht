@@ -1,6 +1,6 @@
 ---
 name: meldekanal-design
-description: "Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital im Hinweisgeberschutz Compliance."
 ---
 
 # Meldekanal Design

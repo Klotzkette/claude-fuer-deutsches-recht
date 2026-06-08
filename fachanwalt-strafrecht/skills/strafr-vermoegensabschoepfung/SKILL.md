@@ -1,19 +1,9 @@
 ---
 name: strafr-vermoegensabschoepfung
-description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von, Reaktion auf Anklage. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von, Reaktion auf Anklage."
 ---
 
 # Strafr Vermoegensabschoepfung
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `strafr-vermoegensabschoepfung-spezial` | Spezialfall Vermoegensabschoepfung §§ 73 ff. StGB nach Reform 2017: Einziehung von Taterzeugnissen, Wertersatzeinziehung, erweiterte Einziehung. Pruefraster für Verteidiger und Drittbetroffene. |
-| `strafr-wirtschaftsstrafrecht-leitfaden` | Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Pruefraster Wirtschaftsstrafkammer. |
-| `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung` | Strafverteidigung bei Vorwurf wegen Filmens von Polizeieinsätzen: § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beschlagnahme des Smartphones, Beweisverwertung, Strafbefehl, Widerspruch gegen polizeiliche Maßnahmen und Verteidigungslinie. |
-| `strafrecht-spezial-188-stgb-anklage-und-strafbefehl` | Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB. Baut eine schnelle Verteidigungsakte mit Fristen, Einspruch, Akteneinsicht, § 199 StPO-Erwiderung, § 203 StPO-Eröffnungsangriff, Einstellungsanregung, Strafantrag/besonderes öffentliches Interesse nach § 194 StGB und einer Checkliste gegen überdehnte Politikerbeleidigungs-Vorwürfe. |
-| `strafrecht-spezial-188-stgb-art5-schrift-und-hv` | Art.-5-GG-Verteidigung bei § 188 StGB in Schriftsatz und Hauptverhandlung. Entwickelt Argumentation zu politischer Machtkritik, Deutung der Äußerung, Meinung/Tatsache, § 193 StGB, Schmähkritik-Engführung, Eignung zur erheblichen Erschwerung, Befragung von Anzeigeerstatter/Zeugen und Plädoyerbausteinen. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `strafr-vermoegensabschoepfung-spezial`
 

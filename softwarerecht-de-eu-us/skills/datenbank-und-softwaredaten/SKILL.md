@@ -1,6 +1,6 @@
 ---
 name: datenbank-und-softwaredaten
-description: "Prüft Datenbanken, Logdaten, Trainingsdaten, Telemetrie, Data Act und Rechte an Softwaredaten im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Datenbanken, Logdaten, Trainingsdaten, Telemetrie, Data Act und Rechte an Softwaredaten im Softwarerecht De Eu Us."
 ---
 
 # Datenbank und Softwaredaten

@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-008-schutzschrift-register-und-forumstrategie
-description: "EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister, Forumsstrategie des Antragsgegners und vorauseilende Rechtsverteidigung gegen einstweilige Verfügungen im gewerblichen Rechtsschutz im Gewerblicher Rechtsschutz. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister, Forumsstrategie des Antragsgegners und vorauseilende Rechtsverteidigung gegen einstweilige Verfügungen im gewerblichen Rechtsschutz im Gewerblicher Rechtsschutz."
 ---
 
 # EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive)

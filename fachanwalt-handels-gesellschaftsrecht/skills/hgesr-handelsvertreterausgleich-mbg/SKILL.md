@@ -1,17 +1,9 @@
 ---
 name: hgesr-handelsvertreterausgleich-mbg
-description: "Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Handelsvertreterausgleich § 89b HGB detailliert, MoPeG (Modernisierungsgesetz Personengesellschaftsrecht), Handelsregister-Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels Gesellschaftsrecht: prüft konkret Handelsvertreterausgleich § 89b HGB detailliert, MoPeG (Modernisierungsgesetz Personengesellschaftsrecht), Handelsregister-Praxis."
 ---
 
 # Hgesr Handelsvertreterausgleich MBG
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `hgesr-handelsvertreterausgleich-detail` | Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit. Berechnung in mehreren Schritten: Rohausgleich, Billigkeitskorrektur, Hoechstgrenze. Beispielfall und Tabellenformeln. Routet in fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich. |
-| `hgesr-mbg-modernisierungsgesetz-praxis` | MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen. Pruefraster für Altvertraege, Anpassungsbedarf, neue Standardklauseln. |
-| `registerrecht-handelsregister-praxis` | Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubigt), zuständiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG. Typische Beanstandungen, Zwischenverfuegung, Beschwerde gegen Eintragungs-Verweigerung. Mustertexte. |
 
 ## Arbeitsweg
 
@@ -21,7 +13,7 @@ description: "Hgesr Handelsvertreterausgleich MBG im Plugin Fachanwalt Handels G
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `hgesr-handelsvertreterausgleich-detail`
 

@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-insolvenzverwalter-register-und-grundbuch
-description: "Register- und Grundbuchvollzug bei ausländischer Insolvenz: GmbH-Anteile, Gesellschafterliste, Handelsregister, Grundbuch, Notar, § 29 GBO, § 346 InsO und Nachweis der Rechtsmacht ausländischer office holder im Insolvenzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Register- und Grundbuchvollzug bei ausländischer Insolvenz: GmbH-Anteile, Gesellschafterliste, Handelsregister, Grundbuch, Notar, § 29 GBO, § 346 InsO und Nachweis der Rechtsmacht ausländischer office holder im Insolvenzrecht."
 ---
 
 # Ausländischer Insolvenzverwalter — Register und Grundbuch

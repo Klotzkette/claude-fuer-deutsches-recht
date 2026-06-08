@@ -1,6 +1,6 @@
 ---
 name: frist-bei-nachforderung-ein-monat
-description: "Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Einmonatsfrist Nachforderung

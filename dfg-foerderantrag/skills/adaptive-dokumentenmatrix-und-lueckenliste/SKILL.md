@@ -1,6 +1,6 @@
 ---
 name: adaptive-dokumentenmatrix-und-lueckenliste
-description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung

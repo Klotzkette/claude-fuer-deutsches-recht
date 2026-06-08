@@ -1,6 +1,6 @@
 ---
 name: pflegezeiten-rentenpunkte
-description: "Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung im Rentenpruefer. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Rentenpunkte durch Pflege: Pflegegrad, Pflegeumfang, Erwerbstätigkeit, Pflegekasse und Beitragsmeldung im Rentenpruefer."
 ---
 
 # pflegezeiten-rentenpunkte

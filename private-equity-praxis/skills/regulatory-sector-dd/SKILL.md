@@ -1,6 +1,6 @@
 ---
 name: regulatory-sector-dd
-description: "Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur im Private Equity Praxis."
 ---
 
 # Regulatory Sector DD

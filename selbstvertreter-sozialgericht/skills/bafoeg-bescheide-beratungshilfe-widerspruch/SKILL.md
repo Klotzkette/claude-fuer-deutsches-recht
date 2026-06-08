@@ -1,19 +1,9 @@
 ---
 name: bafoeg-bescheide-beratungshilfe-widerspruch
-description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am Sozialgericht: prüft konkret BAfoeG-Bescheide und Widerspruch, Beratungshilfe nach BerHG für kostenlose Anwaltsberatung, Berufskrankheit, Berufung zum LSG nach § 144 SGG. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Schritt."
+description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am Sozialgericht: prüft konkret BAfoeG-Bescheide und Widerspruch, Beratungshilfe nach BerHG für kostenlose Anwaltsberatung, Berufskrankheit, Berufung zum LSG nach § 144 SGG."
 ---
 
 # Bafoeg Bescheide Beratungshilfe Widerspruch
-
-## Prüfungslinien
-
-| Prüfungslinie | Fokus |
-| --- | --- |
-| `bafoeg-bescheide-widerspruch` | BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage. |
-| `beratungshilfe-vor-widerspruch-brh` | Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil. |
-| `berufskrankheit-bk-meldung-bkv` | Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-Liste der Berufskrankheitenverordnung (BKV) typische BK (Larmschwerhoerigkeit Asbestose Hauterkrankungen) den Wie-Tatbestand (§ 9 Abs. 2 SGB VII) und das aufwendige Anerkennungsverfahren. Liefert Vorlage. |
-| `berufung-lsg-144-sgg-wertgrenze-750` | Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung. |
-| `berufung-zulassung-besondere-bedeutung` | Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt. |
 
 ## Arbeitsweg
 
@@ -23,7 +13,7 @@ description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüfungslinien im Detail
+## Fachliche Module
 
 ## 1. `bafoeg-bescheide-widerspruch`
 

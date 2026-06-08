@@ -1,6 +1,6 @@
 ---
 name: entlassung-und-statusbeendigung
-description: "Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung im Beamtenrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Entlassung, Verlust der Beamtenrechte, Altersgrenze, einstweiliger Ruhestand und Statusbeendigung im Beamtenrecht."
 ---
 
 # Entlassung Und Statusbeendigung

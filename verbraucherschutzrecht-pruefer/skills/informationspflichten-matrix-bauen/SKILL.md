@@ -1,6 +1,6 @@
 ---
 name: informationspflichten-matrix-bauen
-description: "Verbraucherschutzrecht Prüfer: Informationspflichten-Matrix bauen. Informationspflichten-Matrix bauen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzrecht Prüfer: Informationspflichten-Matrix bauen. Informationspflichten-Matrix bauen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherschutzrecht."
 ---
 
 # Informationspflichten Matrix Bauen

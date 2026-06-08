@@ -1,6 +1,6 @@
 ---
 name: frueherer-abgelehnter-fuehrungszeugnis
-description: "Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit im Kriegsdienstverweigerung Wehrdienst. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit im Kriegsdienstverweigerung Wehrdienst."
 ---
 
 # Früherer abgelehnter Antrag

@@ -1,6 +1,6 @@
 ---
 name: rundfunkbeitrag
-description: "Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise im Bürokratie-Entbürokratisierung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise im Bürokratie-Entbürokratisierung."
 ---
 
 # Rundfunkbeitrag

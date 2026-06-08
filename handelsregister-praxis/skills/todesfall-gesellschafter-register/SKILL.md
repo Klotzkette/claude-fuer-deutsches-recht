@@ -1,6 +1,6 @@
 ---
 name: todesfall-gesellschafter-register
-description: "Prüft Erbnachweis, Sonderrechtsnachfolge, Testamentsvollstrecker, Liste und Registerkommunikation im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Erbnachweis, Sonderrechtsnachfolge, Testamentsvollstrecker, Liste und Registerkommunikation im Handelsregister Praxis."
 ---
 
 # Todesfall eines Gesellschafters

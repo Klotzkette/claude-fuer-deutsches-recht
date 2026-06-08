@@ -1,6 +1,6 @@
 ---
 name: ip-und-brand-dd-pe
-description: "Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten im Private Equity Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten im Private Equity Praxis."
 ---
 
 # IP und Brand DD im PE-Deal

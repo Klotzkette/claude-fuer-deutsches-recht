@@ -1,6 +1,6 @@
 ---
 name: stimmverbot-und-selbstbetroffenheit
-description: "Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
 # Stimmverbot Und Selbstbetroffenheit

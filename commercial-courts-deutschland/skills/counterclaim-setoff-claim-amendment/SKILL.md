@@ -1,6 +1,6 @@
 ---
 name: counterclaim-setoff-claim-amendment
-description: "Plant Widerklage, Hilfswiderklage, Aufrechnung, Klageänderung und amendment strategy in englischsprachigen Wirtschaftsprozessen im Commercial Courts Deutschland. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Plant Widerklage, Hilfswiderklage, Aufrechnung, Klageänderung und amendment strategy in englischsprachigen Wirtschaftsprozessen im Commercial Courts Deutschland."
 ---
 
 # Counterclaim and Set-off

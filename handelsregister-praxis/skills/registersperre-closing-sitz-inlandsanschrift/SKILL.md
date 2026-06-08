@@ -1,6 +1,6 @@
 ---
 name: registersperre-closing-sitz-inlandsanschrift
-description: "Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug im Handelsregister Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug im Handelsregister Praxis."
 ---
 
 # Registersperre als Deal-Risiko

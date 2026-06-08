@@ -1,6 +1,6 @@
 ---
 name: anfaenger-antraege-dfg
-description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung im DFG-Förderantrag. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin dfg foerderantrag im DFG-Förderantrag."
 ---
 
 # Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien

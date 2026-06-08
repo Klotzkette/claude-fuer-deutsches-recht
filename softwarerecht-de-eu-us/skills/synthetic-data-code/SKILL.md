@@ -1,6 +1,6 @@
 ---
 name: synthetic-data-code
-description: "Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken im Softwarerecht De Eu Us. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft synthetische Daten, generierten Code, Testdaten, Anonymisierung und Re-Identifikationsrisiken im Softwarerecht De Eu Us."
 ---
 
 # Synthetic Data und Code

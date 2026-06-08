@@ -1,6 +1,6 @@
 ---
 name: verbandsklageregister-vorbereiten
-description: "Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Verbraucherverband-Durchsetzung."
 ---
 
 # Verbandsklageregister Vorbereiten

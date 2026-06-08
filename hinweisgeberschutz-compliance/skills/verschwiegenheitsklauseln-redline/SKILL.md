@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklauseln-redline
-description: "Redlinet Verschwiegenheitsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Redlinet Verschwiegenheitsklauseln hinweisgeberfest im Hinweisgeberschutz Compliance."
 ---
 
 # Verschwiegenheitsklauseln Redline

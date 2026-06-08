@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-betreiberwechsel
-description: "Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln im Erbbaurecht Praxis. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln im Erbbaurecht Praxis."
 ---
 
 # Betreiberwechsel

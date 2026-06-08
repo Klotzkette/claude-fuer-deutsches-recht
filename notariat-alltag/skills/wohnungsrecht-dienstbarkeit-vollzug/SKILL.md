@@ -1,6 +1,6 @@
 ---
 name: wohnungsrecht-dienstbarkeit-vollzug
-description: "Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung. Grunddienstbarkeit, beschränkte persönliche Dienstbarkeit, Wohnungsrecht und Baulast – Inhalt, Bestellung und Grenzen im Notariat. Liefert priorisierten Output mit Norm-Pinpoints, Risikoampel und nächstem Arbeitsschritt."
+description: "Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung. Grunddienstbarkeit, beschränkte persönliche Dienstbarkeit, Wohnungsrecht und Baulast – Inhalt, Bestellung und Grenzen im Notariat."
 ---
 
 # Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung
