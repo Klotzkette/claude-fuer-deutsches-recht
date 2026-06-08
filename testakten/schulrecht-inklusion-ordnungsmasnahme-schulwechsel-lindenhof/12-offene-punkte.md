@@ -1,76 +1,81 @@
-# Offene Punkte — Schulrechtsmandat Lindenhof / Wendelsbach
+# Offene Punkte — Lindenhof-Gymnasium, 14-jährige Schülerin, Unterrichtsausschluss und drohender Schulwechsel
 
 ## Status
 
-Stand: 02.06.2026. Mandanten: Eheleute H., Erziehungsberechtigte für Mara H. (10 Jahre, anerkannter sonderpädagogischer Förderbedarf "geistige Entwicklung"). Beratung: Frau Anne-Marie Tönnesen (Familien- und Schulrecht).
+Stand: 02.06.2026. Mandanten: Erziehungsberechtigte einer 14-jährigen Schülerin am **Lindenhof-Gymnasium** mit anerkanntem **Nachteilsausgleich wegen ADHS und LRS**. Auslöser: Mobbingvorwurf mit Handyvideo, daraufhin Unterrichtsausschluss durch die Schulleitung; zugleich Streit über die Ganztagsbetreuung und Andeutung eines Schulwechsels. Beratung: Frau Anne-Marie Tönnesen (Familien- und Schulrecht).
 
 ## Offene Punkte
 
 ### 1. Aktuelle Landesnorm und Ordnungsversion
 
-- **HSchG Hessen**: aktuelle Fassung live verifizieren — insbesondere § 82 (Ordnungsmaßnahmen) und § 53 (Inklusion). Das HSchG wurde 2024 in der Inklusionsfrage modifiziert; Übergangsregelung prüfen.
-- **VOSB Hessen** (Verordnung sonderpädagogische Förderung): Stand 2024 oder neueste Fassung? Maßgeblich für Verfahren zur Anpassung der Förderschwerpunkte.
-- **Schulordnung Grundschule Lindenhof**: aktuelle Fassung 09/2024; insbesondere die internen Verhaltensregeln und Eskalationsstufen.
-- **Inklusionsleitfaden** Hessen: zwar nicht verbindlich, aber regelmäßig als Auslegungshilfe herangezogen.
+- **Schulgesetz des einschlägigen Bundeslandes**: aus dem Kopfbogen des Schreibens der Schulleitung (Aktenstück 04) zu verifizieren; danach Live-Check gegen die jeweilige Landesrechts-Datenbank.
+- **Verordnung über Ordnungsmaßnahmen**: stufenleiter-Regelung des Landes; Bedingungen für Unterrichtsausschluss und Schulwechsel.
+- **Inklusionsverordnung / Richtlinie Nachteilsausgleich**: aktuelle Fassung mit etwaiger Übergangsregelung.
+- **Schulordnung Lindenhof-Gymnasium**: konkrete schulinterne Verhaltensregeln, Eskalationsstufen, Mobbing-/Cybermobbing-Regelungen.
 
 ### 2. Rechtsqualität der Schreiben und Beschlüsse
 
-- **Anhörungsschreiben** vom 14.05.2026 an die Eltern: Verfahrenshandlung nach § 28 HVwVfG; wesentliche Fehler können nach § 46 HVwVfG zur Aufhebung führen. Frist zur Stellungnahme nur 7 Tage — angemessen kurz für komplexen Sachverhalt? **Wir tragen Verfahrensfehler vor.**
-- **Beschluss der Klassenkonferenz** vom 22.05.2026: Vorbereitende Hochschulorganhandlung; nicht selbstständig anfechtbar.
-- **Beschluss der Gesamtkonferenz**: ebenfalls Verwaltungsinternakt; gewinnt Außenwirkung durch nachfolgenden Bescheid.
-- **Bescheid des Schulleiters** vom 28.05.2026 zur Überweisung an die Grundschule Wendelsbach: Verwaltungsakt iSv § 35 HVwVfG; mit Rechtsbehelfsbelehrung; greifbar als Klagegegenstand.
+- **Schreiben Schulleitung Unterrichtsausschluss** (Aktenstück 04): Verwaltungsakt iSv § 35 VwVfG; greifbar als Klagegegenstand.
+- **Beschluss Klassenkonferenz**: Vorbereitungshandlung; eigene Anfechtbarkeit verneint.
+- **E-Mail-Verkehr Eltern ↔ Schule** (Aktenstück 07): kein Verwaltungsakt, aber Beweis für Beteiligungs- und Anhörungsfragen.
+- **Drohung Schulwechsel**: noch nicht formell beschlossen; deshalb Eilrechtsschutz präventiv vorbereiten (§ 123 VwGO).
+- **Förderplan / Schulpsychologische Notiz** (Aktenstück 06): keine Außenwirkung, aber zentrale Beweisstücke für die Frage der behinderungsbedingten Verhaltensursache.
 
 ### 3. Frist und zuständiger Rechtsbehelf
 
-- **Bekanntgabe** Bescheid 28.05.2026 per Einwurf-Einschreiben; Eingang bei den Eltern: 30.05.2026.
-- **Widerspruchsfrist** § 70 VwGO iVm HVwVfG: 1 Monat ab Bekanntgabe → endet **30.06.2026**.
-- **Widerspruchsbehörde**: Staatliches Schulamt Wiesbaden.
-- **Eilrechtsschutz** dringend: Schulwechsel zum 01.08.2026 angedroht. Antrag nach § 80 Abs. 5 VwGO zur Wiederherstellung der aufschiebenden Wirkung.
-- **Hauptsacheklage** nach erfolglosem Widerspruch beim VG Wiesbaden.
+- **Widerspruchsfrist** § 70 VwGO iVm Landesrecht: 1 Monat nach Bekanntgabe Unterrichtsausschluss; konkretes Bekanntgabedatum aus Aktenstück 04.
+- **Widerspruchsbehörde**: Staatliches Schulamt / Bezirksregierung des Landes.
+- **Klagefrist**: 1 Monat nach Widerspruchsbescheid, beim örtlich zuständigen Verwaltungsgericht.
+- **Eilrechtsschutz § 80 Abs. 5 VwGO** zur Wiederherstellung der aufschiebenden Wirkung des Unterrichtsausschlusses — Anordnungsanspruch (Verfahrensfehler, Diskriminierung wegen ADHS, Verhältnismäßigkeit), Anordnungsgrund (drohende Schulleistungsverluste, drohender Schulwechsel mit Folgewirkung).
+- **§ 123 VwGO** zur einstweiligen Anordnung gegen den drohenden Schulwechsel.
 
 ### 4. Akteneinsicht und fehlende Protokolle
 
-- **Akteneinsichtsantrag** nach § 29 HVwVfG: gestellt 30.05.2026 — Eingang bestätigt 02.06.2026. Termin angefragt für 06.06.2026.
+- **Akteneinsichtsantrag** nach § 29 VwVfG: sofort stellen, da der Verfahrensstand für Eilrechtsschutz benötigt wird.
 - **Fehlende Unterlagen**:
-  - Vollständige Protokolle aller Klassenkonferenzen mit Mara H. der letzten 12 Monate.
-  - Förderpläne und IEP (Individueller Entwicklungsplan).
-  - Berichte der Schulbegleitung (LWV Hessen).
-  - Pädagogische Stellungnahme der Klassenlehrerin und der Sonderpädagogin.
-  - Schulinterne Eskalationsdokumente (Stufenplan bei Verhaltensauffälligkeit).
-  - Beschwerdebriefe / Schreiben anderer Eltern, sofern existent und Bezug zur Maßnahme.
+  - Vollständiges **Klassenkonferenzprotokoll** mit Begründung des Unterrichtsausschlusses und Abstimmungsergebnis.
+  - **Schulpsychologische Stellungnahme** zur Wechselwirkung ADHS / Verhaltensauffälligkeit.
+  - **Förderplan-Historie** (bisherige Förderkonferenzen, Beschlüsse, Umsetzungsdokumentation).
+  - **Handyvideo** als Beweisstück und alle damit zusammenhängenden Chat-Verläufe (mit Erlaubnis der Beteiligten oder über Schul-IT).
+  - **Beweise zur Verbreitung** (wer hat das Video wem geschickt, wann, mit welchem Kommentar).
+  - **Mediationsversuche der Schule** vor dem Ausschluss — Belege?
+  - **Vergleichsfälle**: Wie hat die Schule früher auf vergleichbare Vorfälle reagiert?
 
 ### 5. Beweisthemen für unsere Position
 
-- **Inklusionspflicht** (§ 53 HSchG, UN-BRK Art. 24): Hat die Schule alle angemessenen Vorkehrungen getroffen?
-- **Mildere Mittel**: Wurden Klassenwechsel, zusätzliche Schulbegleitungs-Stunden, Mediation oder externe Unterstützung tatsächlich versucht?
-- **Verhaltenswurzeln**: Sind die als störend bewerteten Verhaltensweisen behinderungsbedingt? Wenn ja: Diskriminierungsverbot Art. 3 III 2 GG.
-- **Beteiligung der Eltern**: Wurden die Eltern frühzeitig informiert? Wurden sie an Lösungsstrategien beteiligt?
-- **Wendelsbach-Eignung**: Ist die Aufnahmeschule überhaupt geeignet, Mara H. mit ihrem Förderbedarf zu beschulen? Hat sie Ressourcen?
+- **Verhältnismäßigkeit**: Unterrichtsausschluss ist gravierender Eingriff. Schule muss zunächst mildere Mittel (Klassengespräch, Mediation, Einzelförderung, schulinterne Sanktion ohne Ausschluss) ausgeschöpft haben.
+- **Wechselwirkung ADHS / Verhalten**: Inkriminiertes Verhalten muss vor dem Hintergrund der diagnostizierten ADHS bewertet werden (Diskriminierungsverbot, Verhältnismäßigkeit).
+- **Anhörungsrecht** der Eltern und der Schülerin vor Ordnungsmaßnahme: § 28 VwVfG; bei Verletzung kann § 46 VwVfG-Heilung versagen.
+- **Beteiligungsrechte** des Schulvertretungs-Gremiums und des Schulelternbeirats.
+- **Schutz vor Cybermobbing**: Hat die Schule selbst die Mobbing-Prävention erfüllt? § 6 SchulG-Vorschriften zu Mobbing-Konzepten (je nach Land).
+- **Handyvideo-Status**: Was zeigt das Video tatsächlich? Wer ist Aufnehmer, wer ist Aufgenommener? Welche Rolle spielte die Mandantenschülerin?
 
-### 6. Schnittstelle zur Eingliederungshilfe
+### 6. Gegen-Angriffspunkte (interne Risikobewertung)
 
-- **Schulbegleitung**: aktuell 18 Stunden/Woche, bewilligt durch LWV Hessen. Übertragung auf Wendelsbach mit Aufwand verbunden; ggf. Unterbrechung.
-- **Beförderung**: Wendelsbach ist 14 km vom Wohnort entfernt — Schulwegproblem. Wer übernimmt die Beförderung? Anspruch nach § 161 HSchG auf Schülerbeförderung prüfen.
-- **Therapien**: Mara H. besucht 2x wöchentlich Ergotherapie in Lindenhof. Schulwechsel könnte Therapierhythmus stören.
+- **Verbreitung des Videos**: Wenn die Mandantenschülerin selbst das Video verbreitet hat, ist das eine gravierende Verfehlung (KUG, § 201a StGB, ggf. § 33 KUG / § 22 KUG).
+- **Vorgeschichte**: gibt es frühere Vorfälle (Verwarnungen, Konferenzbeschlüsse)? Eskalationskette ist für Verhältnismäßigkeit entscheidend.
+- **Beweislage zur Mobbing-Handlung**: Schule wird Zeugenaussagen vorbringen — gegenkonkret befragen.
+- **Schwere des Vorfalls**: Wenn die Aufgenommene Person psychisch geschädigt ist, kann das Maßnahmenschwere rechtfertigen.
 
-### 7. Soziale Folgen — kindeswohl-relevant
+### 7. Schnittstelle zur Ganztagsbetreuung
 
-- **Soziale Eingliederung**: Mara H. hat zwei enge Freundinnen in der Lindenhof-Klasse. Trennung mitten im Schuljahr.
-- **Stigmatisierung**: Ankommen an einer neuen Schule mit dem "Stigma" der Überweisung kann Mobbing-Risiko erhöhen.
-- **Eltern-Berufstätigkeit**: Beide Eltern berufstätig in Lindenhof; Schulweg 14 km nach Wendelsbach erschwert die Vereinbarkeit.
+- **Anspruch auf Ganztagsbetreuung** je nach Landesrecht prüfen.
+- **Wegfall durch Unterrichtsausschluss**: Mit dem Ausschluss entfällt regelmäßig auch die Ganztagsbetreuung. Folge: Eltern müssen Betreuung organisieren, was bei beidseitiger Berufstätigkeit gravierend ist.
+- **Argument für Anordnungsgrund** im Eilrechtsschutz: Vereinbarkeit Familie und Beruf.
 
 ## Sofortmaßnahmen (heute)
 
-1. Akteneinsicht am 06.06.2026 wahrnehmen; alle Unterlagen kopieren und dokumentieren.
-2. Widerspruch fristgerecht bis 30.06.2026 einreichen — wir senden ihn bewusst früh, am 16.06.2026, um die Aussetzung der Vollziehung zu erbitten.
-3. Parallel Eilantrag § 80 Abs. 5 VwGO beim VG Wiesbaden, fertig zum Einreichen.
-4. Stellungnahme der externen Inklusionspädagogin Frau Dr. Erbenstein zur Geeignetheit der bisherigen Förderung einholen.
-5. Vorbereitung einer Mediations-Anregung gegenüber dem Schulamt als Alternative zum Schulwechsel.
-6. Gespräch mit LWV Hessen zur Sicherung der Schulbegleitung — unabhängig vom Schulort.
+1. **Akteneinsichtsantrag** schriftlich an die Schulleitung, mit Bitte um Termin binnen 5 Werktagen.
+2. **Widerspruch** gegen den Unterrichtsausschluss vorbereiten (Vorlage in 48 Stunden).
+3. **Eilantrag § 80 Abs. 5 VwGO** fertig zum Einreichen, sobald das Schreiben der Schulleitung formal als Verwaltungsakt vollziehbar ist.
+4. **Externes Gutachten** schulpsychologisch / kinder- und jugendpsychiatrisch zur Wechselwirkung ADHS / Verhaltensauffälligkeit.
+5. **Sicherung des Handyvideos** und der Chat-Verläufe — Forensik durch unabhängige Stelle, um Verfälschung auszuschließen.
+6. **Mandantin Schülerin** und Eltern: detaillierte Sachverhaltsschilderung schriftlich, mit Versionsstand vor und nach dem Vorfall.
+7. **Gespräch Schulleitung** als Vorbereitung einer einvernehmlichen Lösung (Mediation, Konfliktgespräch) als Alternative zum gerichtlichen Verfahren.
 
 ## Risiken transparent benennen
 
-- Schulrechtliche Eilrechtsschutzverfahren werden teils restriktiv beschieden; Verwaltungsgerichte respektieren weiten Beurteilungsspielraum der Schule.
-- Bei Bestätigung der Überweisung können wir kaum dauerhaft den Verbleib erstreiten, sondern allenfalls Verfahrensfehler-bedingte Aufhebung erreichen.
-- Risiko der Belastung des Kindes durch das gerichtliche Verfahren.
-- Kosten: Eilverfahren ca. 1.500-3.000 EUR; Hauptsacheklage zusätzlich 2.500-5.000 EUR.
+- Schulrechtliche Eilrechtsschutzverfahren werden teils restriktiv beschieden; Verwaltungsgerichte respektieren den weiten Beurteilungsspielraum der Schule.
+- Bei nachgewiesener Verbreitung des Videos durch die Mandantenschülerin sinken die Erfolgsaussichten erheblich.
+- Bei Bestätigung des Unterrichtsausschlusses ist die Schulleistungslücke ggf. nicht mehr aufholbar.
+- Kosten: Eilverfahren ca. 1.500-3.000 EUR; Hauptsache zusätzlich 2.500-5.000 EUR. Rechtsschutzversicherung der Eltern prüfen.

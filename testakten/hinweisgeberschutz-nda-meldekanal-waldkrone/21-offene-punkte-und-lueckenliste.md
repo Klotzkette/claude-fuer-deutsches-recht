@@ -1,8 +1,8 @@
-# Offene Punkte und Lückenliste — Hinweisgeberverfahren Wallkrone
+# Offene Punkte und Lückenliste — Hinweisgeberverfahren Waldkrone
 
 ## Status
 
-Stand: 02.06.2026, nach Eingang der Nachreichung der hinweisgebenden Person vom 30.05.2026. Verantwortlich: Justiziariat Wallkrone (Dr. Wedekind), externer Compliance (Steinmark). Eskalationspfad: Geschäftsleitung — Aufsichtsrat (vgl. Aufsichtsratsbefugnisse nach Satzung § 11).
+Stand: 02.06.2026, nach Eingang der Nachreichung der hinweisgebenden Person vom 30.05.2026. Verantwortlich: Justiziariat Waldkrone (Dr. Wedekind), externer Compliance (Steinmark). Eskalationspfad: Geschäftsleitung — Aufsichtsrat (vgl. Aufsichtsratsbefugnisse nach Satzung § 11).
 
 ## Offene Punkte
 

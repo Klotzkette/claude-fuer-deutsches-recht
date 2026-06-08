@@ -1,60 +1,79 @@
-# Normenkette — Live-Check für Drittversuch-/KI-Täuschungsverdacht Masterarbeit Mondsee
+# Normenkette — Live-Check für Drittversuch, Online-Klausur und KI-/Plagiatsverdacht (Jana Mondsee)
 
 ## Vorgehen
 
-Im Prüfungsrecht ist die Normenkette von hochrangiger Verfassungsnorm bis zur konkreten Prüfungsentscheidung sauber zu durchlaufen. Bei dem hier vorliegenden Fall — Drittversuch Masterarbeit mit Verdacht der KI-Täuschung an der Universität Mondsee — sind besonders die Schnittstellen Hochschulrecht und IT-Beweisrecht relevant.
+Im Prüfungsrecht ist die Normenkette von hochrangiger Verfassungsnorm bis zur konkreten Prüfungsentscheidung sauber zu durchlaufen. Im Fall Jana Mondsee greifen drei besonders sensitive Themen ineinander: (1) Drittversuch mit drohendem endgültigem Nichtbestehen, (2) Online-Klausur-Bedingungen und Beweisfragen zur unbeobachteten Phase, (3) Behindertengleichstellung / Nachteilsausgleich.
 
 ### Stufe 1: Verfassungsrang
 
-- **Art. 12 Abs. 1 GG** — Berufsfreiheit; bei endgültigem Nichtbestehen kann ein gravierender Eingriff vorliegen, weil die Berufszulassung im Masterstudiengang Maschinenbau abhängt.
-- **Art. 3 Abs. 1 GG** — Gleichbehandlung im Vergleich zu anderen Prüflingen, insbesondere bei Bewertungsmaßstäben.
-- **Art. 19 Abs. 4 GG** — effektiver Rechtsschutz, der bei Fristdruck regelmäßig zum Eilantrag zwingt.
+- **Art. 12 Abs. 1 GG** — Berufsfreiheit. Bei endgültigem Nichtbestehen liegt ein gravierender Eingriff vor; die berufliche Zukunft hängt am Studienabschluss.
+- **Art. 3 Abs. 3 Satz 2 GG** — Benachteiligungsverbot wegen Behinderung. Maßgeblich für die LRS-/Angststörungs-bedingten Nachteilsausgleichs-Ansprüche.
+- **Art. 19 Abs. 4 GG** — effektiver Rechtsschutz; rechtfertigt Eilantrag bei drohender Exmatrikulation.
+- **Art. 2 Abs. 1 GG iVm Sozialstaatsprinzip** — Hintergrund-Norm für die BAföG-Frage.
 
 ### Stufe 2: Bundesland und aktuelles Hochschulgesetz
 
-- **Bayerisches Hochschulinnovationsgesetz (BayHIG)** — Universität Mondsee als bayerische Universität; live prüfen gegen `gesetze-bayern.de`.
-- Schlüsselparagraphen: §§ 56-58 BayHIG zu Prüfungen, § 88 BayHIG zur Selbstverwaltung und Prüfungsordnung.
+- **Bundesland der Hochschule prüfen**: in den Aktenstücken ist die Universität nicht eindeutig identifiziert; bitte über Bescheidkopf in Aktenstück 04 (`bescheid-endgueltig-nicht-bestanden.docx`) verifizieren.
+- Falls Bayern: **Bayerisches Hochschulinnovationsgesetz (BayHIG)** live gegen `gesetze-bayern.de`.
+- Falls NRW: **HG NRW** gegen `recht.nrw.de`.
+- Falls Baden-Württemberg: **LHG BW** gegen `landesrecht-bw.de`.
+- Schlüsselparagraphen: Regelungen zur Wiederholung von Prüfungen, zum endgültigen Nichtbestehen, zur Anhörung im Prüfungsverfahren.
 
 ### Stufe 3: Verordnung und untergesetzliche Ordnungen
 
-- **Bayerische Hochschulprüferverordnung** — Anforderungen an Bewertungsbegründung.
-- **Universitätsweite Allgemeine Prüfungsordnung (APO)** der Universität Mondsee.
+- **Hochschulprüfungsverordnung** des jeweiligen Landes.
+- **Allgemeine Prüfungsordnung (APO)** der Hochschule — Regelungen zur Online-Klausur und zu deren Aufzeichnungs-/Aufsichtsbedingungen.
+- **Inklusionsverordnung / Richtlinie zum Nachteilsausgleich** der Hochschule.
+- **Datenschutz-Regelungen** zur Browser-Lockdown-Software und Video-Aufzeichnung.
 
-### Stufe 4: Studien- und Prüfungsordnung Masterstudiengang Maschinenbau
+### Stufe 4: Studien- und Prüfungsordnung des konkreten Studiengangs
 
-- **Fachprüfungsordnung (FPO) Master Maschinenbau** Universität Mondsee, Fassung 2022 mit Änderung 2024.
-- § 16 FPO zu Wiederholbarkeit von Masterarbeiten (Drittversuch maximal; Übergangsregelung?).
-- § 22 FPO zu Täuschungsversuchen und KI-Einsatz (in der 2024er Fassung neu eingefügt; gilt sie für die im SoSe 2025 begonnene Masterarbeit?).
-- § 23 FPO zu Bewertung und Wiederholungsfristen.
+- **Fachprüfungsordnung (FPO)** des Studiengangs Jana Mondsee: § ... zu Wiederholbarkeit (Drittversuch ist letztes), § ... zu Täuschungsversuchen und Hilfsmittelnutzung.
+- **Modulhandbuch** "Quantitative Methoden III" — welche Lernziele wurden in der Klausur abgeprüft? Welche Hilfsmittel waren erlaubt?
+- **Online-Klausur-Ordnung** (sofern vorhanden) — regelt typischerweise Bildaufzeichnung, Browser-Lockdown, Verhalten bei technischen Störungen.
 
-### Stufe 5: Konkreter Bescheid und Verfahrensschritte
+### Stufe 5: Konkreter Bescheid, Beschluss und Verwaltungsakt
 
-- **Bescheid des Prüfungsamts** vom 03.05.2026: Bewertung der Masterarbeit mit "nicht ausreichend" und Mitteilung der Täuschungsverdachts. Verwaltungsakt iSv Art. 35 BayVwVfG.
-- **Anhörungsschreiben** vom 28.04.2026: Anhörung nach Art. 28 BayVwVfG, Frist 14 Tage zur Stellungnahme.
-- **Beschluss des Prüfungsausschusses** vom 18.05.2026 nach Anhörung: Bestätigung der Täuschungsbewertung.
-- **Bescheid endgültiges Nichtbestehen** in Vorbereitung — kritischste Schwelle, weil er die Exmatrikulation auslöst.
+- **Bescheid endgültiges Nichtbestehen** vom 05.05.2026 (Aktenstück 04): Verwaltungsakt iSv § 35 BayVwVfG / § 35 VwVfG NRW (je nach Land).
+- **Interne Vermerke** des Prüfungsamts (Aktenstück 05/06) — Bewertungsbogen und Rügematrix.
+- **E-Mail** der Prüfungsabteilung vom 24.04.2026 (Aktenstück 07): Rechtsqualität streitig; wir tendieren zu Wissenserklärung, weil keine Regelungswirkung; aber: zugleich Vorwirkung für die Anhörungspflicht.
 
 ### Stufe 6: Rechtsbehelf und Frist
 
-- **Widerspruch** nach Art. 68 ff. BayVwGO iVm BayHIG: 1 Monat ab Bekanntgabe (Bayern hat in Bezug auf Hochschulprüfungen ein Widerspruchsverfahren, anders als NRW).
-- **Klage** vor dem Verwaltungsgericht München / Augsburg / Regensburg nach örtlicher Zuständigkeit.
-- **Eilantrag** § 80 Abs. 5 VwGO zur Aussetzung der Vollziehung des Nichtbestehensbescheids (Anordnungsanspruch + Anordnungsgrund, um Exmatrikulation zu verhindern).
+- **Widerspruch** § 70 VwGO iVm Landesrecht: 1 Monat ab Bekanntgabe → endet **08.06.2026**; bereits eingelegt 22.05.2026.
+- **Widerspruchsbehörde**: Prüfungsausschuss bzw. Rektorat — je nach FPO.
+- **Klage** vor zuständigem Verwaltungsgericht: 1 Monat nach Widerspruchsbescheid.
+- **Eilantrag § 80 Abs. 5 VwGO** zur Aussetzung der Vollziehung des Nichtbestehensbescheids — Anordnungsanspruch (Verfahrensfehler bei Anhörung und Nachteilsausgleich), Anordnungsgrund (drohende Exmatrikulation, Verlust BAföG, Verlust Praktikumsplatz).
+- **Beweissicherungsantrag** zur Konservierung der Browser-Lockdown-Logs und Zoom-Aufzeichnung (falls noch vorhanden).
 
-## Spezialthema: KI-Täuschung Beweis
+## Spezialthema 1: Nachteilsausgleich (Art. 3 III 2 GG, BGG, UN-BRK)
 
-- **Methodische Grenzen** der KI-Detektoren (Turnitin AI, GPTZero u.a.): falsch-positive Rate bekanntlich hoch. Hochschule muss substantiieren, nicht nur auf Detektor-Score verweisen.
-- **Belastungs- und Beweisführungspflicht** liegt bei der Hochschule (BVerwG zur Täuschungsfeststellung — Az im Mandat verifizieren).
-- **Anhörungspflicht** und Möglichkeit der Stellungnahme einschließlich Vorlage von Entwürfen, Versionen, Recherchenotizen.
-- **Verhältnismäßigkeit**: Bei zweifelhafter Beweislage ist statt "endgültig nicht bestanden" eine Nachbesserung / mündliche Prüfung verhältnismäßiger.
+- **Anhörungsrecht** vor Verkürzung des beantragten Nachteilsausgleichs ist Verfahrensvoraussetzung (Art. 28 BayVwVfG / § 28 VwVfG).
+- **Verhältnismäßigkeit**: Die Verkürzung von 25 % auf 15 % Schreibverlängerung ohne Begründung ist materiell angreifbar.
+- **Wissenschaftliche Studienlage** zu Online-Klausuren mit LRS: vielfach kritisiert, weil Bildschirmlesen die Symptomatik verstärkt.
+
+## Spezialthema 2: KI-/Plagiatsverdacht
+
+- **Belastungs- und Beweispflicht** liegt bei der Hochschule (BVerwG-Linie zur Täuschungsfeststellung — Az im Mandat live verifizieren).
+- **KI-Detektoren** (Turnitin AI, GPTZero u.a.): hohe falsch-positive Rate, deshalb nicht allein tragend.
+- **Hilfsmittelnutzung in Offline-Phase**: Vermutung allein reicht nicht; konkrete Indizien erforderlich; Schwächeanfall ärztlich attestiert (Aktenstück 09).
+
+## Spezialthema 3: Online-Klausur-Bedingungen
+
+- **Datenschutz**: Browser-Lockdown und Videoaufzeichnung müssen rechtmäßige Datenverarbeitung sein (Art. 6 DSGVO + Hochschulrecht).
+- **Technische Mindestanforderungen**: bei technischer Störung muss Hochschule Verfahrensregeln haben (Pause, Wiederholung, alternative Bewertung).
+- **Gleichbehandlung**: Online-Klausur und Präsenzklausur unterliegen unterschiedlichen Bedingungen; Bewertungsmaßstab muss vergleichbar sein.
 
 ## Live-Quellen-Karte
 
-- `gesetze-bayern.de` — BayHIG, BayVwVfG, BayVwGO.
-- `verkuendung-bayern.de` — Verordnungen.
-- Universität Mondsee → Bereich "Satzungen", Studien- und Prüfungsordnungen.
-- `bverwg.de` — aktuelle Prüfungsrechtsprechung.
-- KMK-Beschlüsse zu KI in Prüfungen — als Auslegungshilfe, keine Norm.
+- Landesrecht-Datenbank des jeweiligen Bundeslandes (`gesetze-bayern.de`, `recht.nrw.de`, etc.).
+- `bverwg.de` und Landesoberverwaltungsgerichte — aktuelle Prüfungs- und Hochschulrechtsprechung.
+- Hochschulwebsite → Bereich "Satzungen", Studien- und Prüfungsordnungen.
+- KMK-Beschlüsse zu Online-Prüfungen und KI in Prüfungen — als Auslegungshilfe.
+- BGG / Behindertenrechtskonvention (UN-BRK Art. 24) für Nachteilsausgleich.
 
 ## Quellenhygiene
 
-Keine Az aus Modellwissen. KI-Detektor-Outputs nicht als Beweis akzeptieren, sondern als Indiz mit Substantiierungspflicht. Alle Entscheidungen mit Gericht, Datum und Az über offizielle Datenbank verifizieren.
+- Keine Aktenzeichen aus Modellwissen ausgeben — vor Verwendung verifizieren.
+- KI-Detektor-Outputs nicht als Beweis akzeptieren, sondern als Indiz mit Substantiierungspflicht.
+- Konkrete Hochschule und Bundesland aus Aktenstück 04 verifizieren, bevor landesspezifische Aussagen getroffen werden.

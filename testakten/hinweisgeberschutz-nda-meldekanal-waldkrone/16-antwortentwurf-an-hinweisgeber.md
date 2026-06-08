@@ -1,6 +1,6 @@
 # Antwortentwurf an Hinweisgeber
 
-**Eingang im Meldekanal:** Wallkrone-WB-2026-014
+**Eingang im Meldekanal:** Waldkrone-WB-2026-014
 **Bearbeiter Meldestelle:** Dr. R. Holländer (intern)
 **Datum:** 02.06.2026
 **Empfangsbestätigung gesendet am:** 24.05.2026 (innerhalb 7-Tage-Frist, § 17 HinSchG)
@@ -25,7 +25,7 @@ Wir bestätigen ausdrücklich: Ihre Identität wird **weiterhin nicht angeforder
 
 **3. Schutz vor Repressalien**
 
-Sie genießen den Schutz nach §§ 33-37 HinSchG. Sollten Sie Anhaltspunkte für Benachteiligungen, Entzug von Aufgaben, ungerechtfertigte Beurteilungen, Versetzungen oder Druck im Arbeitsumfeld bemerken, melden Sie diese bitte umgehend unter Wiederverwendung der Vorgangsnummer Wallkrone-WB-2026-014. Wir behandeln derartige Hinweise vorrangig.
+Sie genießen den Schutz nach §§ 33-37 HinSchG. Sollten Sie Anhaltspunkte für Benachteiligungen, Entzug von Aufgaben, ungerechtfertigte Beurteilungen, Versetzungen oder Druck im Arbeitsumfeld bemerken, melden Sie diese bitte umgehend unter Wiederverwendung der Vorgangsnummer Waldkrone-WB-2026-014. Wir behandeln derartige Hinweise vorrangig.
 
 **4. Bitte um nur erforderliche Unterlagen**
 
@@ -42,7 +42,7 @@ Nach § 17 Abs. 2 HinSchG informieren wir Sie spätestens drei Monate nach Best�
 Sollten Sie weitere Erkenntnisse einbringen oder Rückfragen zur Bearbeitungsfrist haben, können Sie diese jederzeit über den Hinweisgeberkanal mitteilen. Bei besonderer Eilbedürftigkeit (z. B. wenn Sie konkrete Repressalien befürchten) markieren Sie die Nachricht bitte mit dem Schlagwort "EIL".
 
 Mit freundlichen Grüßen
-Interne Meldestelle der Wallkrone GmbH
+Interne Meldestelle der Waldkrone GmbH
 
 — Diese Nachricht wurde automatisch über das Hinweisgeberportal versendet. Eine personalisierte Empfängeradresse wird intern geführt. —
 

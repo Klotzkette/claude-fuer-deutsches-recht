@@ -1,60 +1,58 @@
-# Zeitstrahl, Fristen und Verfahrensstand — Masterarbeit Mondsee, KI-Täuschungsverdacht
+# Zeitstrahl, Fristen und Verfahrensstand — Jana Mondsee, Online-Klausur und KI-/Plagiatsverdacht
 
 ## Vorgeschichte und Verfahrensschritte
 
-### 2024 — Studienverlauf
+### 2024 — Studienverlauf vor dem Drittversuch
 
-- **WiSe 2024/25**: Mandant schließt das letzte Modulsemester ab. Notendurchschnitt 2,3. Anmeldung Masterarbeit für SoSe 2025.
-- **15.03.2025**: Themenvergabe der Masterarbeit ("Optimierung additiv gefertigter Strukturen durch generative Algorithmen") bei Prof. Dr.-Ing. Frieder Hartleben, Lehrstuhl für Maschinenelemente.
+- **WiSe 2024/25**: Jana Mondsee schließt die meisten Module ihres Studiengangs ab. Notendurchschnitt 2,7. Verbleibendes Modul "Quantitative Methoden III" muss noch bestanden werden — sie steht im Drittversuch (zwei vorherige Klausuren nicht bestanden).
+- **November 2024**: Erste ärztliche Diagnose Stresssymptomatik. Hausärztin empfiehlt psychologische Begleitung, Mandantin nimmt diese in Anspruch.
 
-### 2025 — Anfertigung der Masterarbeit
+### 2025 — Klausur und Anhörung
 
-- **April-Mai 2025**: Erste Recherchen, Literatur-Sichtung, Aufbau eines OneDrive-Versionsordners; bis Mitte Mai sind 11 Versionen abgelegt.
-- **Juni-August 2025**: Implementierung der numerischen Untersuchung in Python; Wartung Versionsstand bei 22 Versionen Ende August.
-- **September 2025**: Schreibphase; Kapitel 1-3 grob fertig.
-- **November 2025**: ärztliches Attest wegen Erschöpfungssyndrom; zweimonatige Verlangsamung der Schreibarbeit. Verlängerungsantrag an Prüfungsamt um 8 Wochen gestellt, gewährt am 12.11.2025.
-- **Januar/Februar 2026**: intensive Schlussphase; Kapitel 4 (Validierung) und 5 (Diskussion) entstehen unter Zeitdruck. Mandant räumt selbst ein, dass diese beiden Kapitel stilistisch von den vorherigen abweichen (kürzere Sätze, weniger Übergänge).
-- **28.02.2026**: Abgabe der Masterarbeit beim Prüfungsamt.
+- **15.01.2025**: Antrag auf **Nachteilsausgleich** wegen festgestellter LRS und Angststörung; Schreibverlängerung um 25 %, separater Raum, ggf. mündliche Ersatzleistung. Antrag liegt bei der Prüfungsabteilung in Aktenstück 09.
+- **02.02.2025**: Bescheid des Prüfungsamts zum Nachteilsausgleich: nur Schreibverlängerung um 15 % bewilligt, separater Raum abgelehnt, mündliche Ersatzleistung "nicht vorgesehen". Anhörung der Mandantin vorher nicht durchgeführt — **Verfahrensfehler erste Stufe**.
+- **08.04.2026**: **Online-Klausur** "Quantitative Methoden III" in der videoüberwachten Form (Zoom + Browser-Lockdown-Software). Mandantin macht in Aktenstück 08 (Chat mit Berater) deutlich, dass sie während der Klausur einen Schwächeanfall hatte; technisch wurde sie 11 Minuten ohne Bildübertragung erfasst, anschließend wieder online.
+- **11.04.2026**: **Erste interne Entscheidung** des Prüfungsamts: Klausur als "nicht bestanden" gewertet; intern Vermerk über "Verdacht der Hilfsmittelnutzung" während der Offline-Phase. Mandantin wird noch nicht informiert.
+- **24.04.2026**: **E-Mail mit unklarer Rechtsqualität** der Prüfungsabteilung an Jana Mondsee: "Wir prüfen den Vorgang und werden Sie zeitnah informieren." Keine Rechtsbehelfsbelehrung, keine Mitteilung über Anhörungsrechte. Mandantin versteht: "Bescheid kommt noch", reagiert nicht.
 
-### 2026 — Bewertung und Täuschungsverdacht
+### 2026 — Bescheid und Akteneinsicht
 
-- **15.03.2026**: Erstkorrektor Prof. Hartleben äußert in einer informellen E-Mail an die Zweitkorrektorin Dr. Anke Wendlinger Zweifel an der Eigenständigkeit insbesondere von Kapitel 4 und 5; Verweis auf "auffällige Ähnlichkeit mit generierten Texten".
-- **22.03.2026**: Beauftragung eines internen KI-Detektor-Reports durch das Prüfungsamt. Verwendetes Tool: Turnitin AI Detection (Version Q1/2026). Detektor-Score für die Arbeit: gesamt 47 % "wahrscheinlich KI-generiert", für Kapitel 4 und 5 jeweils > 70 %.
-- **28.04.2026**: **Anhörungsschreiben** des Prüfungsamts an den Mandanten nach Art. 28 BayVwVfG. Anhörungsfrist 14 Tage zur Stellungnahme.
-- **05.05.2026**: Mandant gibt Stellungnahme ab — bestreitet KI-Einsatz, legt OneDrive-Versionsverlauf und Recherche-Notizen vor.
-- **03.05.2026**: **Bescheid des Prüfungsamts**: Bewertung der Masterarbeit mit "nicht ausreichend" (5,0); Begründung: KI-Täuschungsverdacht bestätigt nach Auswertung der Stellungnahme.
-- **06.05.2026**: Zustellung Bescheid an Mandant per Einwurf-Einschreiben.
-- **12.05.2026**: Anwaltliche Beauftragung; Akteneinsichtsantrag wird gestellt.
-- **18.05.2026**: **Beschluss des Prüfungsausschusses** bestätigt die Bewertung und die Täuschungsfeststellung.
-- **22.05.2026**: **Widerspruch** wird eingelegt, mit ausführlicher Begründung (Aktenstück 09). Inhalt: Verfahrensfehler bei der Anhörungsfrist (zu kurz), methodische Mängel der KI-Detektor-Anwendung, Verstoß gegen Vertrauensschutz (KI-Klausel der FPO erst seit 04/2024, Anmeldung Masterarbeit im SoSe 2025 erfolgte bereits davor).
-- **27.05.2026**: **Fristdruck** wird akut: Anschlussstelle als wissenschaftlicher Mitarbeiter an der Universität ist zum 01.10.2026 zugesagt — Voraussetzung erfolgreicher Masterabschluss bis Ende August 2026. Bei Bescheid des endgültigen Nichtbestehens (drohend) drohen Exmatrikulation und Verlust der Anschlussstelle.
+- **05.05.2026**: **Bescheid endgültiges Nichtbestehen** wird der Mandantin per Einschreiben übersandt (Aktenstück 04). Begründung: KI-/Plagiatsverdacht aufgrund auffälliger Lösungsmuster sowie Hilfsmittelnutzung während der unbeobachteten Klausurphase. Rechtsbehelfsbelehrung enthalten (Widerspruch 1 Monat).
+- **08.05.2026**: Zustellung Bescheid an Jana Mondsee am Wohnort. Eingang ist durch Postunterschrift dokumentiert.
+- **09.05.2026**: Mandantin sucht das Akademische Auslandsamt und die psychologische Beratungsstelle der Hochschule auf, bekommt dort Hinweis auf Anwaltsberatung.
+- **12.05.2026**: Anwaltliches Erstgespräch (vorab telefonisch).
+- **18.05.2026**: **Akteneinsichtsantrag** der Mandantin formal beim Prüfungsamt; Eingangsbestätigung 21.05.2026. Termin für Einsicht: "voraussichtlich KW 23-24" — vage, nicht durchsetzbar.
+- **22.05.2026**: **Widerspruch** wird eingelegt (Aktenstück 11). Wesentliche Rügen: (1) Nachteilsausgleich war unzureichend und ohne Anhörung beschnitten; (2) Klausurbedingungen (Online, Browser-Lock, Zoom) waren für eine Klausurform mit Schreibverlängerung ungeeignet; (3) KI-Verdacht ist nicht substantiiert dargestellt; (4) Hilfsmittel-Vermutung in der Offline-Phase verkennt den ärztlich attestierten Schwächeanfall (Aktenstück 09).
+- **27.05.2026**: **Fristdruck** wird akut. Das laufende Semester ist die letzte Chance auf den Abschluss. BAföG-Bezug endet zum 30.09.2026, weitergehende Bezugsmöglichkeit nur bei nachvollziehbarer Studienverzögerung (§ 15 Abs. 3 BAföG); Praktikumsplatz für das anschließende Berufspraktikum ist zum 01.10.2026 angetreten — nur bei erfolgreichem Abschluss bis Ende September haltbar.
 
-### 2026 — Aktuelle Lage
+### Aktuelle Lage (heute)
 
-- **02.06.2026** (heute): Akteneinsicht noch nicht gewährt; Mahnung gesetzt, Frist 7 Werktage; ansonsten Untätigkeitsklage nach § 75 VwGO. Vorbereitung des Eilantrags § 80 Abs. 5 VwGO.
-- **Erwartung**: Bescheid endgültiges Nichtbestehen voraussichtlich Mitte Juni nach Widerspruchsentscheidung.
+- **02.06.2026**: Akteneinsicht weiter nicht gewährt. Mahnung gesetzt mit Frist 09.06.2026, danach Untätigkeitsklage nach § 75 VwGO. Parallel Vorbereitung des Eilantrags § 80 Abs. 5 VwGO.
+- **Erwartung**: Bei nicht-Heilung des Verfahrensmangels droht endgültige Exmatrikulation Ende Juli 2026.
 
 ## Fristen-Übersicht (anwaltlich)
 
 | Frist | Datum | Bemerkung |
 | --- | --- | --- |
-| Widerspruchsfrist Bewertungsbescheid | 06.06.2026 | bereits eingelegt 22.05.2026, fristwahrend |
-| Akteneinsicht | rolling | Mahnfrist bis 09.06.2026; danach Untätigkeitsklage |
-| Bescheid endgültiges Nichtbestehen | erwartet Mitte Juni | sofort Eilantrag § 80 V VwGO |
-| Anschlussstelle Universität | 01.10.2026 | Voraussetzung Masterabschluss |
-| Exmatrikulation | spätestens Ende SoSe 2026 ohne erfolgreichen Abschluss | wirkt auf Lebenslauf und BAföG-Rückzahlung |
-| Hauptsacheklage | nach Widerspruchsbescheid | 1 Monat nach Bekanntgabe |
+| Widerspruchsfrist Bescheid endgültiges Nichtbestehen | 08.06.2026 | bereits eingelegt 22.05.2026, fristwahrend |
+| Akteneinsicht | rolling | Mahnfrist bis 09.06.2026; ansonsten Untätigkeitsklage § 75 VwGO |
+| BAföG-Bezug Ende | 30.09.2026 | Bezugsverlängerung nur bei nachvollziehbarer Verzögerung |
+| Praktikumsplatzantritt | 01.10.2026 | Voraussetzung erfolgreicher Abschluss |
+| Eilantrag § 80 V VwGO | bei Vollzug | Antrag bereits vorbereitet |
+| Hauptsacheklage | nach Widerspruchsbescheid | 1 Monat ab Bekanntgabe |
+| Hochschulinterne Beschwerde | parallel | informelle Eingabe an Hochschulleitung; nicht ersetzend |
 
 ## Verfahrensstand
 
-- **Prüfungsausschuss / Universität**: hält an Täuschungsbewertung fest, stützt sich primär auf Turnitin-Report.
-- **Mandant**: bestreitet KI-Einsatz, hat dokumentierte Eigenarbeit, kann Inhalte mündlich erläutern.
-- **Anwaltskanzlei**: prüft Akten, holt externes SV-Gutachten zur Methodik des KI-Detektors ein, bereitet Eilantrag vor.
+- **Prüfungsamt**: hält an Bewertung "nicht bestanden" und KI-Verdacht fest; wartet auf Widerspruchsbescheidung.
+- **Mandantin Jana Mondsee**: hat Anwaltskanzlei beauftragt; substantiiert Verfahrensfehler (Nachteilsausgleich, fehlende Anhörung) und materielle Mängel (KI-Verdacht-Substanz, Schwächeanfall in Offline-Phase).
+- **Anwaltskanzlei**: prüft Akten, bereitet Eilantrag und Hauptsacheklage vor; holt SV-Stellungnahme zur Methodik der KI-Verdachts-Begründung ein.
 
 ## Nächste Schritte
 
-1. Akteneinsicht durchsetzen.
-2. Eilantrag § 80 Abs. 5 VwGO unmittelbar nach Bekanntgabe des Nichtbestehensbescheids einreichen.
-3. SV-Gutachten zur KI-Detektor-Methodik beauftragen.
-4. Vorbereitung Hauptsacheklage mit Schwerpunkt Verfahrensfehler und Vertrauensschutz.
-5. Vorgespräch mit zukünftigem Arbeitgeber (Lehrstuhl) wegen Anschlussstelle — Aufschub um 1-2 Monate prüfen.
+1. Akteneinsicht durchsetzen — Mahnfrist 09.06.2026, danach § 75 VwGO.
+2. Eilantrag § 80 Abs. 5 VwGO bei Drohung der Exmatrikulation einreichen.
+3. SV-Stellungnahme zur KI-Detektor-Methodik und zur Online-Klausur-Bedingungen einholen.
+4. Ärztliche Folgebewertung zum Schwächeanfall vom 08.04.2026 anfordern.
+5. Gespräch mit BAföG-Amt zur Verzögerungsanzeige (Bedingung: schwebendes Rechtsstreitsverfahren).
+6. Praktikumsstelle informieren über Verzögerungsrisiko mit Bitte um Aufschub um 1-2 Monate.

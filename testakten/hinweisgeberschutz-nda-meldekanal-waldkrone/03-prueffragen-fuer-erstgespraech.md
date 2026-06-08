@@ -1,8 +1,8 @@
-# Prüffragen für das Erstgespräch — Wallkrone GmbH ./. Hinweisgeber
+# Prüffragen für das Erstgespräch — Waldkrone GmbH ./. Hinweisgeber
 
 ## Gesprächskonstellation
 
-- Mandant: Wallkrone GmbH, vertreten durch Justiziarin Dr. Wedekind und externen Compliance Officer Herrn Steinmark.
+- Mandant: Waldkrone GmbH, vertreten durch Justiziarin Dr. Wedekind und externen Compliance Officer Herrn Steinmark.
 - Gesprächsgrund: Eingang einer HinSchG-Meldung am 22.05.2026, Nachreichung 30.05.2026; interne Bearbeitung gemäß §§ 12 ff. HinSchG.
 - Anwesend für Kanzlei: Partnerin Dr. Brettschneider (Strafrecht/Compliance), Associate Hellbrunn.
 - Datum/Ort: 04.06.2026, Konferenzraum Kanzlei.
@@ -10,7 +10,7 @@
 
 ## Übergeordnete Gesprächsziele
 
-1. Sachverhalt aus Sicht der Wallkrone GmbH so vollständig wie möglich aufnehmen, ohne den Schutz der hinweisgebenden Person zu gefährden.
+1. Sachverhalt aus Sicht der Waldkrone GmbH so vollständig wie möglich aufnehmen, ohne den Schutz der hinweisgebenden Person zu gefährden.
 2. Pflichten-Inventar erstellen: HinSchG, DSGVO, AWG, ProdSG, ggf. § 130 OWiG.
 3. Schutzmaßnahmen für die hinweisgebende Person dokumentieren.
 4. Klären, ob externe Eskalation (BfJ, Datenschutzaufsicht, BAFA) eingeleitet werden muss.
@@ -21,7 +21,7 @@
 ### Block A: Welche Entscheidung soll am Ende unterschrieben werden?
 
 1. Soll bis zum Ende des Erstgesprächs eine **interne Prüfungsstrategie** abgestimmt werden, oder eine externe Meldung sofort vorbereitet?
-2. Wer ist intern bei der Wallkrone für **letzte Freigaben** verantwortlich — Geschäftsleitung allein, oder mit Compliance-Komitee?
+2. Wer ist intern bei der Waldkrone für **letzte Freigaben** verantwortlich — Geschäftsleitung allein, oder mit Compliance-Komitee?
 3. Soll die Kommunikation an die hinweisgebende Person allein durch die interne Meldestelle erfolgen oder mit Beteiligung externer Beratung?
 4. Welche **Worst-Case-Szenarien** soll die heutige Strategie bereits adressieren (z. B. Pressekontakt, Whistleblower geht an externe Meldestelle, Behördenanfrage)?
 
