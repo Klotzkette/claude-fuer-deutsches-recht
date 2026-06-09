@@ -635,8 +635,7 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
                     flow.extend(image_to_flowables(f))
             except Exception as e:
                 flow.append(Paragraph(f"<i>Inhalt konnte nicht gerendert werden: {escape(str(e))}</i>", s_meta))
-            flow.append(Spacer(1, 14))
-        if flow:
+            # Jedes Aktenstueck beginnt im Gesamt-PDF auf einer neuen Seite
             flow.append(PageBreak())
 
     if not flow:
