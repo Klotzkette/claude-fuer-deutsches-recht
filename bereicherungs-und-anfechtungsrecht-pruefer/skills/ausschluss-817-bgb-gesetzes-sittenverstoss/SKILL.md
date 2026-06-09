@@ -1,6 +1,6 @@
 ---
 name: ausschluss-817-bgb-gesetzes-sittenverstoss
-description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoß, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgr..."
+description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoß, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgr — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt ausschluss 817 bgb gesetzes sittenverstoss."
 ---
 
 # Ausschluss nach § 817 BGB — Gesetzes- und Sittenverstoß

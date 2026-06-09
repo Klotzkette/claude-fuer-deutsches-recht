@@ -1,6 +1,6 @@
 ---
 name: schulung-urteilsbauer-aktenintake-beschluss
-description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Er..."
+description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Er — Arbeitskontext: Urteilsbauer/Relationsmacher, Schwerpunkt schulung urteilsbauer aktenintake beschluss."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer

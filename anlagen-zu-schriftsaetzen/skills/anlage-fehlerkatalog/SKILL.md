@@ -5,54 +5,60 @@ description: "Anlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 # Anlage Fehlerkatalog
 
-## Normenanker
+## Zweck
 
-Arbeitsfokus: **Anlage Fehlerkatalog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Anlagen zu Schriftsätzen** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenschein.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Frist falsch berechnet oder übersehen (Klageerwiderungsfrist)
 
-## Einsatzlage
+- **Symptom:** Frist falsch berechnet oder übersehen (Klageerwiderungsfrist)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Dieser Fehlerkatalog prüft im Bereich **Anlagen Zu Schriftsaetzen** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Parallelfrist vergessen (Ergänzende Stellungnahme im Termin)
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Parallelfrist vergessen (Ergänzende Stellungnahme im Termin)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-- `anlage-red-anlagen-anlagenkonvolut-sonderfall-arial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-an-assistenz-uebersetzungspflicht-vorlagepflicht-zpo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-aus-datenraum-und-sharepoint`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-aus-edv-systemen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-aus-mandantenmaterial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-bei-berufung-revision`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-bei-eilantrag-eu-arrest`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-berufung-revision-eilantrag-eu-bilder-screenshots`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-bilder-screenshots`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlagen-check-zustellung-redaktion-dsgvo-schwaerzen-stempel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Falsche Zuständigkeit adressiert (richtig: Zivilgerichte)
 
-## Heilung
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Zivilgerichte)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Beweismittel nicht gesichert (Urkunden)
 
-## Normen und Rechtsprechung
+- **Symptom:** Beweismittel nicht gesichert (Urkunden)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
 
-### Kuratierte Normen-Bibliothek
+### 5. Schlüsseldokument fehlt oder veraltet (Verträge)
 
-- § 31 VVG
-- § 16 GeschGehG
-- § 174 GVG
-- Art. 32 DSGVO
-- § 29 VwVfG
-- § 203 StGB
-- § 184 GVG
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Verträge)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
 
-### Leitentscheidungen
+### 6. Normzitat ohne Fassungsprüfung (§§ 131, 253 ZPO Anlagen)
 
-- BGH X ZR 39/16
+- **Symptom:** Normzitat ohne Fassungsprüfung (§§ 131, 253 ZPO Anlagen)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

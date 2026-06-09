@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-tlfdi
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung tlfdi."
 ---
 
 # Reicht eine Meldung nach Art

@@ -5,35 +5,41 @@ description: "Mauer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, 
 
 # Mauer Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Nachbarschaftsstreit Prüfer** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Nachbarschaftsstreit** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-anschluss-router-workflow-chronologie`
-- `anspruchslandkarte-bgb-aufforderungsschreiben-nachbar`
-- `aufforderung-beweise-red-grenzbaum`
-- `drohender-einsturz-einfriedung-zaun-einstweilige-verfuegung`
-- `fristennotiz-naechster-ueberbau-akten-grundstuecksaufnahme`
-- `grenzbaum-grenzanlage-hammerschlags-leiterrecht-horrorfall`
-- `hammerschlagsrecht-hecke-immissionen`
-- `immissionen-laerm-landesnachbarrecht-nach-grenzbebauung`
-- `klage-beweislast-nachbarrecht-nachbarschaftsstreit`
-- `nach-laermimmissionen-mediation-vorrang-nachbarrechtsuebersicht`
-- `nachbarrecht-kaltstart-triage`
-- `notweg-ueberhang-sonderfall-edge`
+- **BGB §§ 906, 1004** — amtlichen Stand vor tragender Aussage prüfen
+- **Landesnachbarrechtsgesetze** — amtlichen Stand vor tragender Aussage prüfen
+- **BauO Länder** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Amtsgericht
+- Schiedsamt (oft Pflichtverfahren vor Klage)
+- Bauamt
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- § 906 II 2 BGB jährliche Berechnung
+- Schiedsamtsverfahren vor Klage
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

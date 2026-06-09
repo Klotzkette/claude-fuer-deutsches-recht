@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-sonderfall-edge-case
-description: "Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert — Arbeitskontext: Energierecht (EnWG, EEG), Schwerpunkt rechtsquellen sonderfall edge case."
 ---
 
 # Rechtsquellen: Sonderfall und Edge-Case-Prüfung

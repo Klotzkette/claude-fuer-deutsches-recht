@@ -5,59 +5,28 @@ description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot
 
 # Rom 136 Intercessio Frauen Senatusconsultum Velleianum
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 1.142-196** — tutela impuberum und tutela mulierum
+- **D. 26.1.1 pr. (Paulus)** — tutela est vis ac potestas in capite libero ad tuendum eum
+- **D. 16.1.2.1 (Ulpian)** — SC Velleianum: Interzessionsverbot für Frauen
+- **D. 27.3** — actio tutelae: Rechenschaftsklage gegen den Vormund, infamierend
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Tutela impuberum schützt Unmündige sui iuris: Der tutor verwaltet (negotiorum gestio) oder ergänzt durch auctoritatis interpositio. Nach Mündigkeit drohen actio tutelae (bonae fidei, infamierend) und seit republikanischer Zeit strafrechtlich das crimen suspecti tutoris. Die tutela mulierum verkam klassisch zur Form (auctoritas erzwingbar); das SC Velleianum verbietet Frauen die Interzession (Bürgschaft/Schuldübernahme für Dritte) — Schutznorm mit zweischneidiger Wirkung (Kreditausschluss). Cura ergänzt für minores XXV annis (cura minorum mit in integrum restitutio ob aetatem), furiosi und prodigi.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Heute: rechtliche Betreuung §§ 1814 ff. BGB (seit 2023 reformiert) statt Entmündigung; Vormundschaft §§ 1773 ff. BGB nur noch für Minderjährige. Die Velleianum-Logik kehrt in der Rechtsprechung zur Sittenwidrigkeit krass überfordernder Angehörigenbürgschaften (§ 138 BGB, BVerfGE 89, 214) strukturell wieder — Schutz vor Interzession aus emotionaler Verbundenheit.
 
-## Rechtsquelle
+## Typische Fehler
 
-- Senatusconsultum Velleianum (ca. 46 n. Chr. unter Claudius oder Nero; Datum vor Zitat verifizieren).
-- D. 16.1 (Ad senatusconsultum Velleianum).
-- Insbesondere D. 16.1.1 (Paulus).
+Tutela mulierum nicht als faktische Entrechtung der klassischen Römerin überzeichnen — Juristen halfen mit Zwangs-auctoritas und tutor optivus; die Frau sui iuris verwaltete ihr Vermögen weitgehend selbst.
 
-## Tatbestand
+## Arbeitsweise
 
-- Intercessio (Buergschaft, Schuldbeitritt oder Vermoegensgabe) durch eine Frau zugunsten eines Dritten.
-
-## Rechtsfolge
-
-- Frau erhielt eine exceptio (Einrede), wenn der Glaeubiger gegen sie klagte.
-- Verpflichtung war nicht nichtig, aber unklagbar.
-- Schutz der Frau vor Ueberforderung.
-
-## Umgehungen
-
-- Wenn die Frau bei klarer Kenntnis bewusst intercessio ueblichkeitsgemaess uebernommen hat.
-- Wenn der Glaeubiger nach Aufklaerung erneute Bestaetigung erhielt.
-
-## Vergleich zu modernem Recht
-
-- BGH-Linie zu Ehegattenbuergschaften: § 138 BGB Sittenwidrigkeit bei kraesser ueberforderung (BGH IX ZR 56/93 Buergschaft Vermoegenslose).
-- BVerfG zur Ehegattenbuergschaft (Beschluss vom 19.10.1993, Az 1 BvR 567/89): Schutzpflicht des Staates.
-
-## Pruefraster
-
-1. Frauenintercessio?
-2. Wirksame exceptio?
-3. Bestaetigung erfolgt?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

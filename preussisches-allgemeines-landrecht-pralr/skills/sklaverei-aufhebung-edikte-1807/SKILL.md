@@ -1,6 +1,6 @@
 ---
 name: sklaverei-aufhebung-edikte-1807
-description: "Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefe..."
+description: "Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefe — Arbeitskontext: Preussisches Allgemeines Landrecht Pralr, Schwerpunkt sklaverei aufhebung edikte 1807."
 ---
 
 # Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857

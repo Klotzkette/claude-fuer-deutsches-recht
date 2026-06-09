@@ -5,48 +5,28 @@ description: "Römisches Recht: Romanistische Begriffe Im BGB. Geführter Fachmo
 
 # Romanistische Begriffe Im BGB
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Accursius, Glossa ordinaria (ca. 1230)** — Standardglosse: quicquid non agnoscit glossa, non agnoscit curia
+- **Bartolus de Saxoferrato (1313-1357)** — Kommentatoren: nemo iurista nisi Bartolista — Praxisanpassung des römischen Rechts
+- **Reichskammergerichtsordnung 1495** — Rezeption: Urteil 'nach des Reichs gemeinen Rechten'
+- **Windscheid, Pandektenrecht (1862 ff.)** — Pandektistik: Anspruchsbegriff, Rechtsgeschäftslehre — direkte BGB-Vorlage
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Wirkungsgeschichte in Stufen: Glossatoren (Bologna, ab ca. 1100) erschließen den wiederentdeckten Digestentext philologisch (Glossen, Summen); Kommentatoren (Bartolus, Baldus) machen ihn praxistauglich (Statutentheorie als IPR-Geburt, Handelsrecht); mos italicus (praktisch) vs. mos gallicus (humanistisch-historisch, Cujas) markieren den Methodenstreit des 16. Jh.; usus modernus pandectarum wendet selektiv an ('heutiger Gebrauch'); Pandektenwissenschaft des 19. Jh. (Savigny, Puchta, Windscheid) baut das Begriffssystem, das 1900 BGB wird. Kanonisches Recht steuert bei: pacta sunt servanda, Zinsverbot-Diskussion, Prozessrecht.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+Das BGB ist geronnene Pandektistik: Rechtsgeschäft, Willenserklärung, Anspruch (§ 194), Trennungs- und Abstraktionsprinzip sind Wissenschaftsschöpfungen des 19. Jh. auf römischem Material. Wer BGB-AT versteht, liest Windscheid; wer Windscheid prüft, braucht die Digesten.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Rezeption nicht als 'Import 1495' datieren — sie war ein Jahrhunderte langer Prozess (Frühreseption über kirchliche Gerichte, Juristenausbildung). Und: 'römisch' im usus modernus heißt oft 'bartolistisch gefiltert', nicht klassisch.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

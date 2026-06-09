@@ -1,6 +1,6 @@
 ---
 name: bmds-it-ki-verordnung
-description: "Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfe..."
+description: "Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfe — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmds it ki verordnung."
 ---
 
 # IT-Sicherheit (BSIG) (BMDS)

@@ -1,6 +1,6 @@
 ---
 name: ressort-verbaendeanhoerung
-description: "Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fisk..."
+description: "Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fisk — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt ressort verbaendeanhoerung."
 ---
 
 # Ressort-Heranfuehrung BMF

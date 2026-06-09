@@ -1,6 +1,6 @@
 ---
 name: inso-grundtatbestand-129-glaeubigerbenachteiligung
-description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Eins..."
+description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Eins — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt inso grundtatbestand 129 glaeubigerbenachteiligung."
 ---
 
 # Grundtatbestand Insolvenzanfechtung — § 129 InsO

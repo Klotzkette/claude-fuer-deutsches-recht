@@ -1,6 +1,6 @@
 ---
 name: staatsanwalt-rolle-legalitaet-objektivitaet
-description: "Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvo..."
+description: "Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvo — Arbeitskontext: Staatsanwaltschaft Praxis Einstieg, Schwerpunkt staatsanwalt rolle legalitaet objektivitaet."
 ---
 
 # Rolle der Staatsanwaltschaft: Legalität und Objektivität

@@ -1,6 +1,6 @@
 ---
 name: bmg-arzneimittel-medizinprodukterecht
-description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko..."
+description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmg arzneimittel medizinprodukterecht."
 ---
 
 # Arzneimittel- und Medizinprodukterecht (BMG)

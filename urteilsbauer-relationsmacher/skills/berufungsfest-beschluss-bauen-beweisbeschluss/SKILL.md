@@ -1,6 +1,6 @@
 ---
 name: berufungsfest-beschluss-bauen-beweisbeschluss
-description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein..."
+description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein — Arbeitskontext: Urteilsbauer/Relationsmacher, Schwerpunkt berufungsfest beschluss bauen beweisbeschluss."
 ---
 
 # Berufungsfestigkeit prüfen

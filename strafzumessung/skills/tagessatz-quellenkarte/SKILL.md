@@ -5,35 +5,40 @@ description: "Tagessatz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechu
 
 # Tagessatz Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Strafzumessung** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Strafzumessung** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `153a-stpo-iii-stpo-bewaehrung-stgb`
-- `bewaehrung-auflagen-bewaehrungswiderruf-56f-freiheitsstrafe-ohne`
-- `bewaehrung-interessen-deutschem-freiheitsstrafe`
-- `freiheitsstrafe-strafmass-geldstrafe-tagessatzanzahl-vs-stgb`
-- `geldstrafe-grossen-rechtsmittel-gesamtstrafenfolgen`
-- `gesamtstrafenbildung-stgb-gestaendnis-strafmilderung`
-- `jgg-jugendstrafe-minder-schwerer-nachtraegliche`
-- `orientierung-triage-paragraph-stgb-besonders`
-- `regelbeispiele-stgb-strafbefehl`
-- `strafbefehl-stpo-strafmilderung-stgb-strafrahmen`
-- `strafkammer-strafzumessung-strafzumessungstatsachen`
-- `strafrecht-verfahrensstadium-strafbefehl-taeter-opfer`
+- **§ 46 StGB** — amtlichen Stand vor tragender Aussage prüfen
+- **§§ 47-50 StGB Strafmilderung/-schärfung** — amtlichen Stand vor tragender Aussage prüfen
+- **BGH-Strafzumessungsleitlinien** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Strafgericht (Amts-/Landgericht)
+- Generalstaatsanwaltschaft
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Revision 1 Woche/1 Monat § 341 StPO
+- Strafvollstreckung
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

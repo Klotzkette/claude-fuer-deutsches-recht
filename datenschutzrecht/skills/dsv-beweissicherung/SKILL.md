@@ -1,6 +1,6 @@
 ---
 name: dsv-beweissicherung
-description: "Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben: Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Bew..."
+description: "Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben: Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Bew — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv beweissicherung."
 ---
 
 # Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben

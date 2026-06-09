@@ -5,50 +5,28 @@ description: "Cessio bonorum nach der Lex Iulia: freiwillige Vermoegensabtretung
 
 # Rom 111 Cessio Bonorum Lex Iulia
 
-## Rechtsquelle
+## Quellenanker
 
-- Lex Iulia de cessione bonorum (vermutlich 17 v. Chr. unter Augustus; Datum vor Zitat verifizieren).
-- D. 42.3 (Justinianische Digesten, Buch 42, Titel 3 — De cessione bonorum).
-- Gaius, Institutiones III.78 ff. (Hinweise).
+- **Gaius, Institutiones 3.77-81** — bonorum venditio: Gesamtvermögensverkauf an den bonorum emptor
+- **D. 42.4 / 42.5** — missio in bona: Einweisung der Gläubiger; Rangfolge und Privilegien
+- **C. 7.71** — cessio bonorum (lex Iulia): freiwillige Vermögensabtretung schützt vor Personalexekution und Infamie
+- **D. 27.10.5 / 42.5.39** — bonorum distractio: schonender Einzelverkauf statt Gesamtverwertung
 
-## Voraussetzungen
+## Kernregeln
 
-- Schuldner ist in unverschuldete wirtschaftliche Notlage geraten ("non sua culpa").
-- Bietet sein gesamtes Vermoegen den Glaeubigern an.
-- Erklaerung vor dem Magistrat.
+Römisches 'Insolvenzrecht': Auf Antrag weist der Prätor die Gläubiger in das Schuldnervermögen ein (missio in bona — Beschlagnahme), ein magister bonorum organisiert die bonorum venditio: Gesamtverkauf an den Meistbietenden (bonorum emptor wird Universalsukzessor und zahlt die Quote). Folge für den Schuldner: infamia. Die cessio bonorum (lex Iulia, augusteisch) erlaubt dem redlichen Schuldner die freiwillige Abtretung — keine Infamie, kein Schuldturm, beneficium competentiae (Pfändungsschutz fürs Existenzminimum). Für Senatoren u. a. die mildere bonorum distractio (Einzelverwertung durch curator).
 
-## Rechtsfolgen
+## Moderne Parallele
 
-- Glaeubiger erhalten Vermoegen zur Versteigerung.
-- Schuldner entgeht der entehrenden bonorum venditio mit infamia.
-- Beneficium competentiae: schuldner haftet kuenftig nur, soweit er ohne Beeintraechtigung seines Lebensunterhalts zahlen kann.
-- Schuldner behaelt persönliche Freiheit (Schutz vor manus iniectio).
+InsO-Parallelen Schritt für Schritt: missio = Sicherungsmaßnahmen/Eröffnung §§ 21, 80 InsO; magister/curator = (vorläufiger) Insolvenzverwalter; venditio als übertragende Sanierung; cessio bonorum = Restschuldbefreiungsgedanke §§ 286 ff. InsO; beneficium competentiae = Pfändungsfreigrenzen §§ 850 ff. ZPO.
 
-## Fortwirkung
+## Typische Fehler
 
-- Vorbild für das moderne Restschuldbefreiungsverfahren (§ 286 ff. InsO).
-- Idee der Restschuldfreiheit nach Vermoegensabgabe.
+Die Quote des bonorum emptor nicht mit moderner quotaler Verteilung verwechseln — der emptor KAUFTE das Vermögen gegen Quotenzusage an die Gläubiger; er war Spekulant, nicht Amtswalter.
 
-## Pruefraster
+## Arbeitsweise
 
-1. Liegt unverschuldete Notlage vor?
-2. Wurde Vermoegen vollstaendig angeboten?
-3. Praetorische Anordnung erfolgt?
-4. Beneficium competentiae greift?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

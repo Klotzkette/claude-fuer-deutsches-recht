@@ -1,6 +1,6 @@
 ---
 name: bmwsb-stadtentwicklung-foerderprogramme
-description: "Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben un..."
+description: "Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Länder-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben un — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmwsb stadtentwicklung foerderprogramme."
 ---
 
 # Stadtentwicklung und Foerderprogramme (BMWSB)

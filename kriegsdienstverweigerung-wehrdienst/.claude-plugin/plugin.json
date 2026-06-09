@@ -1,6 +1,6 @@
 {
   "name": "kriegsdienstverweigerung-wehrdienst",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

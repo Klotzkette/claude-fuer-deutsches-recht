@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-beweislast-darlegungslast
-description: "Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert — Arbeitskontext: Jurastudium (Klausur, AG, Examen), Schwerpunkt rechtsquellen beweislast darlegungslast."
 ---
 
 # Rechtsquellen: Beweislast, Darlegungslast und Substantiierung

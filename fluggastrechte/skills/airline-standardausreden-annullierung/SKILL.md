@@ -1,6 +1,6 @@
 ---
 name: airline-standardausreden-annullierung
-description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumun..."
+description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumun — Arbeitskontext: Fluggastrechte VO 261/2004, Schwerpunkt airline standardausreden annullierung."
 ---
 
 # Airline-Standardausreden — Katalog und Gegenargumente

@@ -1,62 +1,33 @@
 ---
 name: restitutio-integrum-ob-aetatem
-description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Q..."
+description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Q — Arbeitskontext: Roemisches Recht, Schwerpunkt restitutio integrum ob aetatem."
 ---
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz
 
-## Rechtsquelle
+## Quellenanker
 
-- Lex Plaetoria de circumscriptione adolescentium (Daten und Inhalt vor Zitat verifizieren).
-- Praetorische restitutio in integrum ob aetatem.
-- D. 4.4 (De minoribus viginti quinque annis).
+- **Gaius, Institutiones 4.11-29** — legis actiones: sakramentale Spruchformeln, Wortformalismus (qui vites dixisset...)
+- **Gaius, Institutiones 4.30-68** — Formularprozess: Klageformel mit intentio, condemnatio; exceptiones als Einredeklauseln
+- **Gaius, Institutiones 4.116-125** — exceptio doli, pacti, metus; replicatio, duplicatio
+- **D. 4.4 (de minoribus)** — in integrum restitutio ob aetatem: Prätor hebt Folgen nachteiliger Geschäfte Minderjähriger auf
+- **D. 1.2.2.10 (Pomponius)** — Edikt als ius honorarium: adiuvandi supplendi corrigendi iuris civilis gratia
 
-## Tatbestand
+## Kernregeln
 
-- Adolescens (junger Mann unter 25 Jahre).
-- Vermoegensnachteil durch eigenes Geschaeft.
-- Geschaeft an sich wirksam, aber praetorische Restitution moeglich.
+Drei Prozessepochen: (1) legis actiones — Wortformalismus, ein falsches Wort verliert den Prozess (Gaius' Weinstock-Beispiel); (2) Formularprozess — der Prätor gewährt typisierte Klageformeln (intentio: Anspruchsbehauptung; condemnatio: stets auf Geld!), Zweiteilung in iure / apud iudicem, exceptio als formelhafte Einrede (dolus, pactum, metus) macht das strenge ius civile billigkeitsfähig; (3) Kognitionsverfahren — kaiserliche Beamtenjustiz, Instanzenzug, Vollstreckung in Einzelstücke. Das prätorische Edikt ist Motor der Rechtsfortbildung: Es hilft, ergänzt und korrigiert das Zivilrecht (Pomponius) — mit Klagen, Einreden, missiones und in integrum restitutiones.
 
-## Voraussetzungen
+## Moderne Parallele
 
-- Antrag innerhalb einer Frist (annus utilis nach Volljaehrigkeit).
-- Nachweis des Vermoegensnachteils.
+Das aktionenrechtliche Denken (kein 'Anspruch', sondern 'gibt es eine Klage?') prägt noch heute das Common Law (writ-System als Parallele); das BGB dreht mit § 194 BGB (Anspruchsbegriff, Windscheid) die Blickrichtung. Die exceptio lebt in §§ 214, 273, 320, 821, 853 BGB als 'Einrede' fort; die condemnatio pecuniaria erklärt, warum Rom keine Naturalvollstreckung von Speziesleistungen kannte — anders § 894 ZPO heute.
 
-## Rechtsfolge
+## Typische Fehler
 
-- Aufhebung der wirtschaftlichen Nachteile.
-- Rueckgaengigmachung des Geschaefts.
+Nicht 'subjektive Rechte' in die Klassik projizieren — der römische Jurist fragt nach actio, exceptio, Formel. Windscheids Anspruchslehre ist die Übersetzung, nicht die Quelle.
 
-## Verhaeltnis zur cura minorum
+## Arbeitsweise
 
-- Mit 25 Jahren konnte ein cura minorum bestellt werden, um vorbeugend zu schuetzen (Lex Iulia et Titia).
-
-## Fortwirkung
-
-- Heute §§ 104 ff. BGB Geschaeftsfaehigkeit.
-- § 108 ff. BGB: schwebende Unwirksamkeit Minderjaehrigenvertraege.
-- § 1644 BGB Gerichtliche Genehmigung.
-
-## Pruefraster
-
-1. Adolescens-Status?
-2. Vermoegensnachteil?
-3. Frist gewahrt?
-4. Restitution moeglich?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

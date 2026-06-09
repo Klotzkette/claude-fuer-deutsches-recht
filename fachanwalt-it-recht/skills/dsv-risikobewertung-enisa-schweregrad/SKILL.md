@@ -1,6 +1,6 @@
 ---
 name: dsv-risikobewertung-enisa-schweregrad
-description: "Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an: Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data br..."
+description: "Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an: Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data br — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv risikobewertung enisa schweregrad."
 ---
 
 # Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an

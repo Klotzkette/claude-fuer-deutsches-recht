@@ -5,48 +5,28 @@ description: "Römisches Recht: Interdikte Und Besitzschutz. Geführter Fachmodu
 
 # Interdikte Und Besitzschutz
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 41.2.1 pr. (Paulus)** — possessio appellata est a sedibus — Besitz als tatsächliche Sachherrschaft mit animus
+- **D. 41.2.3.1 (Paulus)** — corpus und animus als Besitzerwerbselemente
+- **D. 43.17.1 (Ulpian)** — interdictum uti possidetis für Grundstücke
+- **Gaius, Institutiones 4.148-160** — Interdiktensystem: uti possidetis, utrubi, unde vi
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Possessio ist tatsächliche Herrschaft (corpus) mit Herrschaftswillen (animus); sie ist vom Eigentum streng getrennt (nihil commune habet proprietas cum possessione, D. 41.2.12.1). Besitzschutz läuft über prätorische Interdikte: uti possidetis (Grundstücke, Schutz des gegenwärtigen fehlerfreien Besitzers), utrubi (bewegliche Sachen, klassisch: wer im letzten Jahr länger besessen hat), unde vi (Wiedereinsetzung nach gewaltsamer Entsetzung). Fehlerhafter Besitz (vi, clam, precario) gegenüber dem Gegner schützt nicht.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB §§ 854 ff. übernehmen die Trennung Besitz/Eigentum; possessorischer Schutz §§ 858-862 BGB (verbotene Eigenmacht, Besitzentziehungs-/störungsanspruch) ist direkte Nachfahre der Interdikte; petitorische Widerklage-Sperre § 863 BGB spiegelt die interdiktale Trennung.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Detentio (Fremdbesitz ohne animus domini: Mieter, Verwahrer) hatte KEINEN Interdiktenschutz — anders als heute § 854 BGB, der auch dem Mieter Besitz gibt. Diesen Unterschied nicht verwischen.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

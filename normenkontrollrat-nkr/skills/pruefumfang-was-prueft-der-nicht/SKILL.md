@@ -1,6 +1,6 @@
 ---
 name: pruefumfang-was-prueft-der-nicht
-description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Stand..."
+description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Stand — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt pruefumfang was prueft der nicht."
 ---
 
 # NKR-Pruefumfang — was prueft der NKR nicht

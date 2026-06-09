@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-pressepolitik-jahresbericht
-description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintr..."
+description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintr — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt stellungnahme pressepolitik jahresbericht."
 ---
 
 # NKR-Stellungnahme — Pressepolitik und Jahresbericht

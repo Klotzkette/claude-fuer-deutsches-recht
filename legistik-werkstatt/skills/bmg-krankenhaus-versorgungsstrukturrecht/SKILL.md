@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenhaus-versorgungsstrukturrecht
-description: "Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Länder (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Prue..."
+description: "Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Länder (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Prue — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmg krankenhaus versorgungsstrukturrecht."
 ---
 
 # Krankenhaus- und Versorgungsstrukturrecht (BMG)

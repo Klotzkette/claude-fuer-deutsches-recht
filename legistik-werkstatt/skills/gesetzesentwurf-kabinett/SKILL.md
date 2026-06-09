@@ -1,6 +1,6 @@
 ---
 name: gesetzesentwurf-kabinett
-description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt En..."
+description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt En — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt gesetzesentwurf kabinett."
 ---
 
 # Gesetzesentwurf Kabinett

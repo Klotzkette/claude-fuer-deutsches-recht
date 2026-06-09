@@ -1,6 +1,6 @@
 ---
 name: ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster
-description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wege..."
+description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wege — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt ust rechnungspflicht ustg vorsteuerabzug vga pruefraster."
 ---
 
 # Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG

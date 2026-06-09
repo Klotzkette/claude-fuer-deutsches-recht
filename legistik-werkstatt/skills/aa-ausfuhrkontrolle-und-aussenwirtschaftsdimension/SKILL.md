@@ -1,6 +1,6 @@
 ---
 name: aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension
-description: "Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und..."
+description: "Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt aa ausfuhrkontrolle und aussenwirtschaftsdimension."
 ---
 
 # Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA)

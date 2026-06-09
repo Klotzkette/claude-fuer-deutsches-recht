@@ -1,6 +1,6 @@
 ---
 name: dsv-meldekette-auftragsverarbeiter
-description: "Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art: 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt..."
+description: "Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art: 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv meldekette auftragsverarbeiter."
 ---
 
 # Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art

@@ -1,6 +1,6 @@
 ---
 name: dsv-kommunikationssperre
-description: "Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden: Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall..."
+description: "Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden: Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv kommunikationssperre."
 ---
 
 # Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden

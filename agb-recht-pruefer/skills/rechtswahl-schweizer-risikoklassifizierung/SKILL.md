@@ -1,6 +1,6 @@
 ---
 name: rechtswahl-schweizer-risikoklassifizierung
-description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verw..."
+description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verw — Arbeitskontext: Agb Recht Pruefer, Schwerpunkt rechtswahl schweizer risikoklassifizierung."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I

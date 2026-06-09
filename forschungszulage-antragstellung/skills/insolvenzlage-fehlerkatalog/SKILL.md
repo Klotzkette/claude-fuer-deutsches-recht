@@ -5,38 +5,60 @@ description: "Insolvenzlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zustän
 
 # Insolvenzlage Fehlerkatalog
 
-## Normenanker
+## Zweck
 
-Arbeitsfokus: **Insolvenzlage Fehlerkatalog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Forschungszulage FZulG** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `§ 7 FZulG` — Kumulierung und Beihilfebezug.
-- `Art. 107 Abs. 1 AEUV` — Beihilfebegriff.
-- `Art. 25 AGVO` — Forschungs- und Entwicklungsbeihilfen.
-- `§ 46 AO` — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen.
-- `§ 80 Abs. 1 InsO` — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters.
-- `§ 94 InsO` — Aufrechnungslage vor Verfahrenseröffnung.
-- `§ 96 InsO` — unzulässige Aufrechnung.
-- `§ 1 Abs. 1 AStG` — Konzern-/Verrechnungspreisnähe bei grenzüberschreitenden F&E-Strukturen.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Frist falsch berechnet oder übersehen (Antrag jederzeit)
 
-## Einsatzlage
+- **Symptom:** Frist falsch berechnet oder übersehen (Antrag jederzeit)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Dieser Fehlerkatalog prüft im Bereich **Forschungszulage Antragstellung** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Parallelfrist vergessen (Festsetzung mit ESt/KSt-Erklärung)
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Parallelfrist vergessen (Festsetzung mit ESt/KSt-Erklärung)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-- `abgrenzung-adaptiver-antrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `antragstellung-auszahlung-beihilfen-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bemessungsgrundlage-interessen-bsfz-definition`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `forsch-bsfz-pruefung-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `forsch-konzernverbund-forschung-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `forsch-projektbeschreibung-bauleiter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `forsch-stundenaufzeichnung-fz-ablehnung-bemessungsgrundlage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `forsch-stundenaufzeichnung-leitfaden`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `forschungszulage-insolvenzlage-red-portaltexte`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Falsche Zuständigkeit adressiert (richtig: Bescheinigungsstelle Forschungszulage (BSFZ))
 
-## Heilung
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Bescheinigungsstelle Forschungszulage (BSFZ))
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Beweismittel nicht gesichert (F&E-Stundenaufzeichnungen)
+
+- **Symptom:** Beweismittel nicht gesichert (F&E-Stundenaufzeichnungen)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Projektbeschreibung)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Projektbeschreibung)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (FZulG)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (FZulG)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

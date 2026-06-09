@@ -1,6 +1,6 @@
 ---
 name: gpai-systemisches-risiko-urheberrecht-policy
-description: "Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Ar..."
+description: "Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Ar — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt gpai systemisches risiko urheberrecht policy."
 ---
 
 # GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO

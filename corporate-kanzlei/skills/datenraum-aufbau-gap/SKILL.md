@@ -1,6 +1,6 @@
 ---
 name: datenraum-aufbau-gap
-description: "Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Wor..."
+description: "Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Wor — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt datenraum aufbau gap."
 ---
 
 # Datenraum-Aufbau

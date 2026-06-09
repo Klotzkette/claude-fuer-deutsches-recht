@@ -5,33 +5,48 @@ description: "Gruen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit,
 
 # Gruen Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Nda Abgleich** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **NDA-Abgleich** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `ausgabe-changes-docx-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `durch-interessen-echten-sonderfall-eigenen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gegen-gelb-gleicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gegenseite-tracked-fristennotiz-nda-definitionsklausel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `geschaeftsgeheimnis-geschgehg-kartellsensitiven-daten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `haltelinien-setzt-standard`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `it-saas-laufzeit-survival-m-a`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `m-a-aenderungsmodus-ampelmatrix`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mitarbeiter-need-non-solicit-permitted-disclosure`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Geltungsdauer NDA (5-10 Jahre))
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Geltungsdauer NDA (5-10 Jahre))
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Beweismittel nicht gesichert (Versionsverlauf)
 
-## Normen & Rechtsprechung
+- **Symptom:** Beweismittel nicht gesichert (Versionsverlauf)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
 
-Konkret zu prüfen:
+### 3. Schlüsseldokument fehlt oder veraltet (NDA-Entwurf)
 
-- § 305 BGB (AGB-Begriff)
-- § 305c BGB (überraschende Klauseln)
-- § 307 BGB (Inhaltskontrolle)
-- § 90 HGB (Geschäftsgeheimnisse)
-- GeschGehG (Geschäftsgeheimnisgesetz)
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (NDA-Entwurf)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 4. Normzitat ohne Fassungsprüfung (BGB §§ 145 ff., 280, 339)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGB §§ 145 ff., 280, 339)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 5. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 6. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

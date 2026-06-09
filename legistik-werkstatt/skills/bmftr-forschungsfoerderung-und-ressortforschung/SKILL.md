@@ -1,6 +1,6 @@
 ---
 name: bmftr-forschungsfoerderung-und-ressortforschung
-description: "Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typ..."
+description: "Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typ — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmftr forschungsfoerderung und ressortforschung."
 ---
 
 # Forschungsfoerderung und Ressortforschung (BMFTR)

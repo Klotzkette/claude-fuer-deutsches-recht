@@ -1,6 +1,6 @@
 ---
 name: bmg-berufsrecht-heilberufe-und-approbation
-description: "Sachbereich Berufsrecht der Heilberufe und Approbation im Geschaeftsbereich BMG: Normbestand (BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.); Akteure (Approbationsbehoerden der Länder; Aerzte- und Zahnaerztekammern; BMG.); EU-Bezug (Berufsanerkennungs-RL; EU-Patientenrecht..."
+description: "Sachbereich Berufsrecht der Heilberufe und Approbation im Geschaeftsbereich BMG: Normbestand (BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.); Akteure (Approbationsbehoerden der Länder; Aerzte- und Zahnaerztekammern; BMG.); EU-Bezug (Berufsanerkennungs-RL; EU-Patientenrecht — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmg berufsrecht heilberufe und approbation."
 ---
 
 # Berufsrecht der Heilberufe und Approbation (BMG)

@@ -1,6 +1,6 @@
 ---
 name: bmz-menschenrechte-multilaterale
-description: "Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschaeftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachf..."
+description: "Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschaeftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachf — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmz menschenrechte multilaterale."
 ---
 
 # Menschenrechte in Lieferketten (LkSG) (BMZ)

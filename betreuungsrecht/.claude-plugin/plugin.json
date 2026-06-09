@@ -1,6 +1,6 @@
 {
   "name": "betreuungsrecht",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bau-und-planungsrecht-baugb-baunvo
-description: "Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Länder-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko..."
+description: "Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Länder-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmwsb bau und planungsrecht baugb baunvo."
 ---
 
 # Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB)

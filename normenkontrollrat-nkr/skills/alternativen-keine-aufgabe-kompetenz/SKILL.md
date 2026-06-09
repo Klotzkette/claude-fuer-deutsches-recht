@@ -1,6 +1,6 @@
 ---
 name: alternativen-keine-aufgabe-kompetenz
-description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem..."
+description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt alternativen keine aufgabe kompetenz."
 ---
 
 # NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug

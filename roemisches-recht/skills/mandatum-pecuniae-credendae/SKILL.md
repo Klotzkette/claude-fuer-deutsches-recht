@@ -5,52 +5,28 @@ description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemisch
 
 # Rom 138 Mandatum Pecuniae Credendae Bankvertrag
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 17.1 (Mandati vel contra).
-- Insbesondere D. 17.1.6.3 (Ulpian).
+- **Gaius, Institutiones 3.155-156** — mandatum: unentgeltlich, sonst locatio conductio
+- **D. 17.1.1.4 (Paulus)** — mandatum nisi gratuitum nullum est
+- **D. 17.1.12.13 (Ulpian)** — mandatum pecuniae credendae: Kreditauftrag als Sicherungsmittel
+- **D. 46.1 (de fideiussoribus)** — Verhältnis Kreditmandat / Bürgschaft
 
-## Tatbestand
+## Kernregeln
 
-- A (Buerge) gibt B (Glaeubiger) den Auftrag, dem C (Schuldner) Geld zu leihen.
-- Wirtschaftlich: A garantiert die Rueckzahlung durch C.
+Mandatum ist Konsensualvertrag, zwingend unentgeltlich (honorar nur als 'salarium' extra ordinem durchsetzbar), bonae fidei, beidseitig klagbar (actio mandati directa/contraria). Es erlischt durch Widerruf und Tod (mandatum morte solvitur). Das mandatum qualificatum (pecuniae credendae) — 'leihe dem X Geld' — wirkt als Kreditsicherheit: Der Mandant haftet dem Beauftragten auf Ersatz, funktional eine Bürgschaft ohne Stipulationsform.
 
-## Rechtsfolge
+## Moderne Parallele
 
-- Wenn C nicht zahlt, hat B actio mandati contraria gegen A auf Ausgleich.
-- Im Verhaeltnis A-B: mandatum (Auftrag mit Aufwendungsersatz).
-- Im Verhaeltnis B-C: regulaeres mutuum (Darlehen).
+BGB: Auftrag §§ 662 ff. bewahrt Unentgeltlichkeit und freie Widerruflichkeit (§ 671); entgeltlich wird es Geschäftsbesorgung § 675 BGB. Das Kreditmandat ist als eigenständiger Sicherungstyp im BGB aufgegangen (Bürgschaft §§ 765 ff., Garantie, Schuldbeitritt). § 673 BGB (Tod des Beauftragten) führt mandatum morte solvitur fort — abgeschwächt.
 
-## Funktionale Aequivalenz zur Buergschaft
+## Typische Fehler
 
-- Wirtschaftlich Buergschaftsersatz.
-- Vorteil: A behielt die Stellung des Auftraggebers, kein Buergenprivilegien-System.
+Mandatum nicht mit moderner Stellvertretung verwechseln: Der Mandatar handelt im eigenen Namen und muss Erworbenes übertragen (keine direkte Stellvertretung im klassischen Recht!).
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- § 311 BGB iVm § 765 BGB Buergschaft.
-- § 651 BGB Schuldbeitritt.
-- Garantievertrag (eigenstaendige Schuld).
-
-## Pruefraster
-
-1. Mandatum oder mutuum?
-2. Aufwendungsersatz?
-3. Garantiezweck?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

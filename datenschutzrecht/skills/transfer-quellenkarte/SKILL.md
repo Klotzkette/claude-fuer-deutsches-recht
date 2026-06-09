@@ -5,35 +5,45 @@ description: "Transfer Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechun
 
 # Transfer Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Datenschutzrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Datenschutzrecht DSGVO/BDSG** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `anwendungsfall-triage`
-- `avv-art-26-joint-controllership-deutsch`
-- `avv-art-28-dsgvo-grundtatbestand`
-- `avv-art-28-mindestinhalte-checkliste`
-- `avv-audit-avv-cloud-avv-eu-avv-konzern-avv`
-- `avv-audit-und-kontrollrechte`
-- `avv-bestehender-avv-rolemix-avv-tom-datenpanne-meldung`
-- `avv-cloud-und-subverarbeitung-art-28-iv`
-- `avv-eu-kommission-musterklauseln-2021-915`
-- `avv-eu-us-data-privacy-framework-bezug`
-- `avv-haftung-datenschutz-schadensersatz-dsfa-risikoanalyse-dsr`
-- `avv-haftung-risikoallokation-art-82-dsgvo`
+- **DSGVO Art. 5, 6, 13, 15, 28, 32, 33, 35** — amtlichen Stand vor tragender Aussage prüfen
+- **BDSG** — amtlichen Stand vor tragender Aussage prüfen
+- **TTDSG** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- BfDI Bund
+- LfDI Länder
+- EDSA
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- edpb.europa.eu (EDSA-Leitlinien)
+- Datenschutzkonferenz DSK (Beschlüsse)
+- CURIA (EuGH)
+
+## Fristen mit Quellenrelevanz
+
+- Art. 33 Meldung 72h
+- Art. 12 Antrag 1 Monat
+- Art. 15 Auskunft 1 Monat
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

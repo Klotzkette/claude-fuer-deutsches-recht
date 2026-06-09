@@ -1,6 +1,6 @@
 ---
 name: dfg-internationale-kooperation-aufbau
-description: "Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller, Gemeinsame Arbeitspakete, Datenaustausch. Pruefraster für..."
+description: "Internationale Kooperation in DFG-Antrag aufbauen: D-A-CH-Lead-Agency-Verfahren (DACH, SNF, FWF), Bilateral mit DFG-Partnerorganisationen (NSF, JSPS, ISF, NSFC). Kooperationszusagen, Mittelverteilung, Hauptantragsteller, Co-Antragsteller, Gemeinsame Arbeitspakete, Datenaustausch. Pruefraster für — Arbeitskontext: DFG-Förderantrag, Schwerpunkt dfg internationale kooperation aufbau."
 ---
 
 # DFG: Internationale Kooperation

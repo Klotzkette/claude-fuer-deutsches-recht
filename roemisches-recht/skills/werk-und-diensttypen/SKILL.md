@@ -5,48 +5,27 @@ description: "Römisches Recht: Werk Und Diensttypen. Geführter Fachmodul mit Q
 
 # Werk Und Diensttypen
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 19.2.2 pr. (Gaius)** — locatio conductio als einheitlicher Konsensualvertrag
+- **D. 19.2.15.2 (Ulpian)** — remissio mercedis: Pachtzinserlass bei Missernte durch vis maior
+- **D. 19.2.25.7** — Werkverschaffung: conductor haftet für custodia bei locatio conductio operis
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Locatio conductio umfasst als Einheitstyp drei moderne Verträge: rei (Miete/Pacht — locator gibt die Sache), operarum (Dienstvertrag — locator gibt seine Arbeit), operis (Werkvertrag — locator gibt den Stoff, conductor schuldet das Werk). Merces muss in Geld bestehen. Bei der Landpacht mildert die remissio mercedis das Ertragsrisiko (Erlass bei vis maior, Nachzahlung in guten Jahren). 'Kauf bricht Miete' — der Mieter hat nur obligatorischen Schutz gegen den Vermieter, keinen Bestand gegen den Erwerber.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB trennt die drei Typen: Miete §§ 535 ff., Pacht §§ 581 ff. (mit § 593 BGB als ferner remissio-Erbin), Dienstvertrag §§ 611 ff., Werkvertrag §§ 631 ff. 'Kauf bricht nicht Miete' (§ 566 BGB) kehrt die römische Regel sozialpolitisch um.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Die Dreiteilung nicht in die Quellen zurückprojizieren — die Römer dachten in EINEM Vertragstyp mit Rollenverteilung locator/conductor, die je nach Untertyp wechselt (beim Werkvertrag ist der Besteller locator!).
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

@@ -5,60 +5,28 @@ description: "Römisches Recht: Leihe Commodatum. Geführter Fachmodul mit Quell
 
 # Leihe Commodatum
 
-## Sofortsortierung
+## Quellenanker
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **D. 13.6.5.2 (Ulpian)** — commodatum: utilitas des Entleihers → Haftung für custodia
+- **D. 13.6.18 pr. (Gaius)** — Verschlechterung durch vertragsgemäßen Gebrauch nicht zu vertreten
+- **D. 16.3.1.8 (Ulpian)** — depositum: Verwahrer haftet nur für dolus (und culpa lata)
+- **D. 16.3.31 (Tryphonin)** — depositum und bona fides — Rückgabe auch an den Dieb?
 
-## Fachlicher Zugriff
+## Kernregeln
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Commodatum (Leihe) und depositum (Verwahrung) sind Realverträge, unentgeltlich, bonae fidei. Haftungsverteilung nach dem Utilitätsprinzip: Der Entleiher hat den Nutzen → er haftet streng (custodia, also auch für Diebstahl durch Dritte); der Verwahrer hat keinen Nutzen → er haftet nur für dolus und culpa lata. Verschuldensunabhängige Grenze beidseits: vis maior. Aufwendungsersatz über actio contraria.
 
-## Prüfroutine
+## Moderne Parallele
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+BGB: Leihe §§ 598 ff. — § 599 BGB privilegiert den VERLEIHER (nur Vorsatz/grobe Fahrlässigkeit), während der Entleiher voll nach §§ 276, 280 BGB haftet; das Utilitätsprinzip wirkt also fort, aber als Privilegierung des Unentgeltlich-Leistenden. Verwahrung §§ 688 ff. mit § 690 BGB (eigenübliche Sorgfalt bei Unentgeltlichkeit) als depositum-Erbin.
 
-## Typische Ausgabe
+## Typische Fehler
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+Die custodia-Haftung des Entleihers nicht mit moderner Verschuldenshaftung verwechseln — sie war objektive Einstandspflicht für Diebstahl (nicht für vis maior). Und: § 599 BGB begrenzt die Haftung des Verleihers, NICHT des Entleihers.
 
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+## Arbeitsweise
 
-### Schluesselstellen
-- **D. 13.6.1 (Ulpian)**: "Commodatum est gratuita rerum prestatio" — unentgeltliche Sachleihe.
-- **D. 13.6**: Allgemein.
-
-### Tatbestand
-- Unentgeltliche Ueberlassung.
-- Sache zur Nutzung, nicht zum Verbrauch.
-- Eigentum bleibt beim Verleiher.
-
-### Haftungsmasstab
-- Custodia-Haftung des Entleihers: er haftet auch für Zufall, soweit kein Casus maior.
-- D. 13.6.5.4 — Haftung "exactissima diligentia" (hoechste Sorgfalt).
-
-### Subsumtionsbeispiel: Geliehenes Pferd geht im Feldzug verloren
-Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd entlaeuft.
-- **Roemisch**: Custodia-Haftung; Diebstahl ist nicht casus maior; B haftet. Ausnahme: Feindangriff = vis maior (D. 13.6.18).
-- **BGB**: § 598 BGB Leihvertrag; **Entleiher haftet voll für jede Fahrlaessigkeit** nach allgemeinen Regeln (§§ 280, 276 BGB) — insbesondere muss er die Sache pflegen und zurueckgeben (§ 604 BGB). Bei Diebstahl durch einfache Fahrlaessigkeit (z. B. unverschlossen abgestellt) haftet B regelmaessig auf Schadensersatz. NICHT zu verwechseln mit § 599 BGB: dieser begrenzt die Haftung des **Verleihers** auf Vorsatz und grobe Fahrlaessigkeit (weil unentgeltlich gibt) — Entleiher bleibt der vollen Sorgfaltspflicht unterworfen.
-
-### Pflichten des Entleihers
-- Pflegliche Behandlung.
-- Rueckgabe nach Abschluss.
-- Aufwendungsersatz beim Verleiher (D. 13.6.5.5).
-
-### Modernes Aequivalent
-- §§ 598-606 BGB Leihe.
-- Wesentlicher Unterschied: roemisches Recht Haftung haerter (custodia); BGB hat das gelockert.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

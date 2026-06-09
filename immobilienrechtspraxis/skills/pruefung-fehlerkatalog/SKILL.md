@@ -5,23 +5,60 @@ description: "Prüfung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigke
 
 # Prüfung Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Immobilienrechtspraxis** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Immobilienrechtspraxis** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `case-gegen-grundbuchanalyse`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `case-management-grundbuchanalyse-immo-aufteilungsplan`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immo-bauliche-veraenderung-energieausweis-gewerbliche-mieter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immo-bauvertrag-vob-kaufvertrag-grundstueck-mietkaufvertrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immo-grundschuld-bestellung-makler-honorar-wohnungseigentum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immo-immobilienrechtliche-live-beweislast`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immo-zwangsversteigerung-frist-naechster-rechtsabteilungen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immor-bauvertrag-vob-erbbaurecht-vertrag-grundstueckskaufvertrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `immor-bodenrichtwert-betriebskostenabrechnung-erstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Vormerkung)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Vormerkung)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (Auflassungsvormerkung)
+
+- **Symptom:** Parallelfrist vergessen (Auflassungsvormerkung)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: Grundbuchamt)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Grundbuchamt)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Grundbuchauszug)
+
+- **Symptom:** Beweismittel nicht gesichert (Grundbuchauszug)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Notarvertrag)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Notarvertrag)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (BGB §§ 433, 873, 925)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGB §§ 433, 873, 925)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

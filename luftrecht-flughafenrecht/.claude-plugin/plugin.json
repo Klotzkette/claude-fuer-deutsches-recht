@@ -1,6 +1,6 @@
 {
   "name": "luftrecht-flughafenrecht",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance.",
   "license": "Apache-2.0 OR MIT",
   "author": {

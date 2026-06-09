@@ -1,6 +1,6 @@
 ---
 name: dsv-kein-risiko-dokumentation
-description: "Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht: Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an..."
+description: "Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht: Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv kein risiko dokumentation."
 ---
 
 # Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht

@@ -5,23 +5,60 @@ description: "Seit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, 
 
 # Seit Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Handels Gesellschaftsrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Handels- und Gesellschaftsrecht** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `erstpruefung-und-mandatsziel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gesellschafterstreit-handelsvertreterausgleich-ma-due`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gesellschaftervertrag-geschaeftsfuehrerhaftung-hgr`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gmbh-beirat-vetorechte-und-organnaehe`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gmbhg-handels-handelsvertreterausgleich-international`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `hgb-risikoampel-und-gegenargumente`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `hgesr-einfuehrung-hgr-due-erstgespraech-mandatsannahme`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (§ 246 AktG Anfechtung 1 Monat)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (§ 246 AktG Anfechtung 1 Monat)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (§ 325 HGB Bilanzpublizität)
+
+- **Symptom:** Parallelfrist vergessen (§ 325 HGB Bilanzpublizität)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: Handelsregister)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Handelsregister)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Gesellschafterprotokolle)
+
+- **Symptom:** Beweismittel nicht gesichert (Gesellschafterprotokolle)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Satzung)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Satzung)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (HGB, GmbHG, AktG)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (HGB, GmbHG, AktG)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

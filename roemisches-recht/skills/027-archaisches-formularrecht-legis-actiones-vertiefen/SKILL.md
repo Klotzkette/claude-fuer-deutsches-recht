@@ -5,56 +5,29 @@ description: "Römisches Recht: Archaisches Formularrecht legis actiones vertief
 
 # Rom Archaisches Formularrecht Legis Actiones Vertiefen
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 4.11-29** — legis actiones: sakramentale Spruchformeln, Wortformalismus (qui vites dixisset...)
+- **Gaius, Institutiones 4.30-68** — Formularprozess: Klageformel mit intentio, condemnatio; exceptiones als Einredeklauseln
+- **Gaius, Institutiones 4.116-125** — exceptio doli, pacti, metus; replicatio, duplicatio
+- **D. 4.4 (de minoribus)** — in integrum restitutio ob aetatem: Prätor hebt Folgen nachteiliger Geschäfte Minderjähriger auf
+- **D. 1.2.2.10 (Pomponius)** — Edikt als ius honorarium: adiuvandi supplendi corrigendi iuris civilis gratia
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Drei Prozessepochen: (1) legis actiones — Wortformalismus, ein falsches Wort verliert den Prozess (Gaius' Weinstock-Beispiel); (2) Formularprozess — der Prätor gewährt typisierte Klageformeln (intentio: Anspruchsbehauptung; condemnatio: stets auf Geld!), Zweiteilung in iure / apud iudicem, exceptio als formelhafte Einrede (dolus, pactum, metus) macht das strenge ius civile billigkeitsfähig; (3) Kognitionsverfahren — kaiserliche Beamtenjustiz, Instanzenzug, Vollstreckung in Einzelstücke. Das prätorische Edikt ist Motor der Rechtsfortbildung: Es hilft, ergänzt und korrigiert das Zivilrecht (Pomponius) — mit Klagen, Einreden, missiones und in integrum restitutiones.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Das aktionenrechtliche Denken (kein 'Anspruch', sondern 'gibt es eine Klage?') prägt noch heute das Common Law (writ-System als Parallele); das BGB dreht mit § 194 BGB (Anspruchsbegriff, Windscheid) die Blickrichtung. Die exceptio lebt in §§ 214, 273, 320, 821, 853 BGB als 'Einrede' fort; die condemnatio pecuniaria erklärt, warum Rom keine Naturalvollstreckung von Speziesleistungen kannte — anders § 894 ZPO heute.
 
-## Legis actiones
+## Typische Fehler
 
-- Aelteste roemische Klageformen, in den XII Tafeln verankert.
-- Streng formelhaft, sakralrechtlich.
-- Verlust eines Buchstaben fuehrt zum Prozessverlust.
+Nicht 'subjektive Rechte' in die Klassik projizieren — der römische Jurist fragt nach actio, exceptio, Formel. Windscheids Anspruchslehre ist die Übersetzung, nicht die Quelle.
 
-## Fuenf Formen
+## Arbeitsweise
 
-1. **Legis actio sacramento** (Geld-Wette / Eid).
-2. **Legis actio per iudicis postulationem** (Bitte um Schiedsrichter).
-3. **Legis actio per condictionem** (Forderungsklage).
-4. **Legis actio per manus iniectionem** (Schuldnerexekution).
-5. **Legis actio per pignoris capionem** (Pfandnahme).
-
-## Aufloesung
-
-- Lex Aebutia (ca. 130 v. Chr.) und Lex Iulia iudiciaria (17 v. Chr.) loesten legis actiones durch Formularprozess ab.
-
-## Bedeutung
-
-- Quellenkritik für fruehe Periode.
-- Verstaendnis sakraler Rechtsformalitaet.
-
-## Pruefraster
-
-1. Welche legis actio?
-2. Zeit?
-3. Quellen?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmds
-description: "Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Digitales und Staatsmodernisierung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat..."
+description: "Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Digitales und Staatsmodernisierung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt ressortaufgaben bmds."
 ---
 
 # Ressortaufgaben BMDS

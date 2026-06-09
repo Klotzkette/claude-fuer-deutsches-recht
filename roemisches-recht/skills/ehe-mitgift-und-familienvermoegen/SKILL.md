@@ -5,48 +5,28 @@ description: "Römisches Recht: Ehe Mitgift Und Familienvermoegen. Geführter Fa
 
 # Ehe Mitgift Und Familienvermoegen
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 23.3.1 (Paulus)** — dos: Mitgift als Beitrag zu den Ehelasten (ad onera matrimonii)
+- **D. 24.3.1** — Rückgabe der dos nach Eheende: actio rei uxoriae
+- **D. 24.1.1 (Ulpian)** — Schenkungsverbot unter Ehegatten: ne mutuo amore invicem spoliarentur
+- **C. 5.12 ff.** — justinianische Dotalreform: Generalhypothek der Frau
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Die klassische Ehe (sine manu) lässt die Vermögen getrennt: Die Frau bleibt in ihrer Herkunftsfamilie bzw. sui iuris. Die dos (Mitgift) geht ins Eigentum des Mannes über, ist aber rückgabebelastet (actio rei uxoriae, später ex stipulatu): bei Scheidung Rückgabe mit Abzügen (retentiones propter liberos, propter mores). Die Frau hat Vorrang vor anderen Gläubigern (privilegium dotis, justinianisch: Generalhypothek). Schenkungen unter Ehegatten sind nichtig — Schutz der Vermögenstrennung; geheilt nur durch Tod des Schenkers (oratio Severi).
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB: Zugewinngemeinschaft §§ 1363 ff. — Vermögenstrennung während der Ehe mit Ausgleich am Ende ist der dos-Logik strukturell näher als der Gütergemeinschaft. Das Ehegattenschenkungsverbot ist aufgehoben, aber § 1380 BGB (Anrechnung von Zuwendungen) und die Rechtsprechung zu unbenannten Zuwendungen verwalten dieselben Wertungsfragen.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Manus-Ehe und freie Ehe nicht vermengen: Die klassische Normalehe war manus-frei — die Frau wechselte NICHT in die Familie des Mannes. Hollywood-Bilder römischer 'Übergabe der Braut' sind archaisch.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

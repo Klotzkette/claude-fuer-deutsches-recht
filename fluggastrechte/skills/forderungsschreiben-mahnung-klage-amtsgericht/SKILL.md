@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-mahnung-klage-amtsgericht
-description: "Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Schlichtung oder Klage zum Amtsgericht. Bei Reaktion der Airlin..."
+description: "Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Schlichtung oder Klage zum Amtsgericht. Bei Reaktion der Airlin — Arbeitskontext: Fluggastrechte VO 261/2004, Schwerpunkt forderungsschreiben mahnung klage amtsgericht."
 ---
 
 # Forderungsschreiben — Mahnung (zweite Stufe)

@@ -5,32 +5,48 @@ description: "Nutzen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 # Nutzen Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Einfache Leichte Sprache Jura** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Einfache/Leichte Sprache Jura** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `leichte-sprache-jura-ls-bescheid-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `einfache-elsj-bescheidmodus-elsj`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-aufenthaltsrecht-mandant`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-bescheidmodus`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-betreuung-vormundschaft`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-einfache-sprache`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-familienrecht-erstgespraech`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-familienrecht-erstgespraech-juristische-sicherung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elsj-juristische-sicherung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Falsche Zuständigkeit adressiert (richtig: Behörden mit Verständlichkeitspflicht)
 
-## Heilung
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Behörden mit Verständlichkeitspflicht)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Beweismittel nicht gesichert (Verständlichkeits-Test)
 
-## Normen & Rechtsprechung
+- **Symptom:** Beweismittel nicht gesichert (Verständlichkeits-Test)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
 
-Konkret zu prüfen:
+### 3. Schlüsseldokument fehlt oder veraltet (Originalbescheid)
 
-- § 11 SGB I (Verständlichkeit)
-- BGG (Behindertengleichstellungsgesetz) § 11
-- BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
-- UN-BRK Art. 9, 21
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Originalbescheid)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 4. Normzitat ohne Fassungsprüfung (BGG § 11 Leichte Sprache)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGG § 11 Leichte Sprache)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 5. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 6. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

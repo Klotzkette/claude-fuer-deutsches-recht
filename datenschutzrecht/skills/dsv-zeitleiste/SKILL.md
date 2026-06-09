@@ -1,6 +1,6 @@
 ---
 name: dsv-zeitleiste
-description: "Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung: Behandelt: Eintritt; Erstwa..."
+description: "Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung: Behandelt: Eintritt; Erstwa — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv zeitleiste."
 ---
 
 # Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung

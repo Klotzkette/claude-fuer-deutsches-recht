@@ -5,50 +5,29 @@ description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des 
 
 # Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 3.88-89** — Obligationen entstehen ex contractu oder ex delicto; Vierteilung re, verbis, litteris, consensu
+- **Gaius, Institutiones 3.92** — stipulatio: spondesne? spondeo — Verbalkontrakt durch Frage und Antwort
+- **D. 45.1.1 pr. (Ulpian)** — Einheit von Frage und Antwort, unitas actus
+- **D. 2.14.7.4 (Ulpian)** — nuda pactio obligationem non parit — formloses pactum klagt nicht
+- **D. 19.5 (de praescriptis verbis)** — Innominatkontrakte: do ut des, do ut facias, facio ut des, facio ut facias
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Das römische Vertragssystem ist ein Typensystem: Klagbar ist nur, was als Real- (mutuum, commodatum, depositum, pignus), Verbal- (stipulatio), Litteral- oder Konsensualkontrakt (emptio venditio, locatio conductio, societas, mandatum) anerkannt ist. Die stipulatio ist das Universalwerkzeug: jede beliebige Leistung wird durch Frage-Antwort-Form klagbar (stricti iuris). Formlose pacta sind nur einredeweise geschützt (pacta de non petendo) — nuda pactio obligationem non parit. Atypische Austauschgeschäfte werden spät über die Innominatkontrakte (actio praescriptis verbis) klagbar, wenn eine Seite vorgeleistet hat.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Das BGB kehrt das Prinzip um: Vertragsfreiheit § 311 I BGB — jeder formfrei geschlossene Vertrag bindet (pacta sunt servanda, kanonistisches Erbe). Typenzwang überlebt nur im Sachenrecht. Die stipulatio lebt strukturell im abstrakten Schuldversprechen §§ 780 f. BGB fort.
 
-## Lex mercatoria
+## Typische Fehler
 
-- Mittelalterliches Handelsrecht (12.-18. Jh.).
-- Auf roemisch-rechtlicher Obligationen-Basis.
-- Eigene Faktur, Buchfuehrung, Wechsel.
+Pacta sunt servanda ist NICHT römisch-klassisch, sondern kanonistisch-naturrechtlich. Wer den Satz Ulpian zuschreibt, verwechselt D. 2.14.7.7 (pacta conventa servabo — nur prätorischer Einredeschutz) mit moderner Vertragsbindung.
 
-## Wichtige Adaptionen
+## Arbeitsweise
 
-- **Wechsel**: italienisches Bankwesen entwickelt aus stipulatio + Brief.
-- **Bottomry-Vertrag**: Seerecht mit Anlehnung an fenus nauticum.
-- **Commenda**: stille Gesellschaft.
-
-## Verbindung zu Rezeption
-
-- Italienische Statuten + Handelsbraeuche + roemisches Recht.
-- Vorbild für ADHGB 1861 und HGB 1900.
-
-## Pruefraster
-
-1. Welche Handelsform?
-2. Roemische Wurzel?
-3. Moderne Aequivalenz?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

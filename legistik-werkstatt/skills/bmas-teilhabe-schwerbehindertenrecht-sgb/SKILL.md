@@ -1,6 +1,6 @@
 ---
 name: bmas-teilhabe-schwerbehindertenrecht-sgb
-description: "Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. O..."
+description: "Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur für Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. O — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmas teilhabe schwerbehindertenrecht sgb."
 ---
 
 # Teilhaberecht (SGB IX) (BMAS)

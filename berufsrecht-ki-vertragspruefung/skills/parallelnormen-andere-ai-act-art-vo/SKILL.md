@@ -1,6 +1,6 @@
 ---
 name: parallelnormen-andere-ai-act-art-vo
-description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemisch..."
+description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemisch — Arbeitskontext: Berufsrechts-KI bei Vertragsprüfung, Schwerpunkt parallelnormen andere ai act art vo."
 ---
 
 # Parallelnormen — alle fünf Berufe

@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfd-niedersachsen
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für den Datenschutz Niedersachsen (LfD NI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Niedersachsen und für nicht-öffentliche Ste..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für den Datenschutz Niedersachsen (LfD NI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Niedersachsen und für nicht-öffentliche Ste — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung lfd niedersachsen."
 ---
 
 # Reicht eine Meldung nach Art

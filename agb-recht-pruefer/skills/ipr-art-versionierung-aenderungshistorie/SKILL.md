@@ -1,6 +1,6 @@
 ---
 name: ipr-art-versionierung-aenderungshistorie
-description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswa..."
+description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswa — Arbeitskontext: Agb Recht Pruefer, Schwerpunkt ipr art versionierung aenderungshistorie."
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher

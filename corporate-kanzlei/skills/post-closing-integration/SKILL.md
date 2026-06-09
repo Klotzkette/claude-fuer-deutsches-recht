@@ -1,6 +1,6 @@
 ---
 name: post-closing-integration
-description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranm..."
+description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranm — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt post closing integration."
 ---
 
 # Post-Closing-Integration (PMI)

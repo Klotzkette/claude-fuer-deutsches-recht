@@ -5,69 +5,29 @@ description: "Römisches Recht: Systemüberblick nach Gaius Inst. 1.8 (personae,
 
 # Kaltstart: Das Institutionensystem des römischen Rechts
 
-## Aktenstart statt Formularstart
+## Quellenanker
 
-Wenn zu **Kaltstart Institutionensystem** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Roemisches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+- **D. 1.1.1 pr. (Ulpian/Celsus)** — ius est ars boni et aequi
+- **D. 19.1.11.1 (Ulpian)** — bona fides im Kaufrecht: quidquid dare facere oportet ex fide bona
+- **D. 44.4.2.1 (Ulpian)** — exceptio doli generalis: dolo facit, qui petit quod redditurus est
+- **D. 50.17 (de diversis regulis iuris)** — 211 Rechtsregeln — Steinbruch der lateinischen Maximen
+- **D. 9.2.44 pr.** — in lege Aquilia et levissima culpa venit — Verschuldensstufen
 
-Starte dann mit einer knappen Rueckmeldung:
+## Kernregeln
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Die Wertbegriffe: bona fides macht Konsensualverträge flexibel (der iudex prüft, was Treu und Glauben fordern — Einfallstor für Nebenpflichten, Auslegung, Anpassung); aequitas korrigiert das strenge Recht (summum ius summa iniuria, Cicero); die exceptio doli generalis sanktioniert widersprüchliches und unredliches Prozessieren. Verschuldensstufen: dolus (Vorsatz, nie abdingbar — D. 50.17.23), culpa lata (grobe F., dem dolus gleichgestellt), culpa levis (abstrakt: bonus pater familias / konkret: quam in suis), custodia (objektive Obhutshaftung). Maximen aus D. 50.17 sind Argumentationstopoi — keine Normen.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+## Moderne Parallele
 
-## Worum es geht
+§ 242 BGB ist die geronnene bona fides — die deutsche Generalklausel-Judikatur (Verwirkung, venire contra factum proprium, Geschäftsgrundlage vor § 313 BGB) ist exceptio-doli-Dogmatik unter neuem Namen. § 276 BGB staffelt Verschulden römisch; § 277 BGB ist diligentia quam in suis wörtlich.
 
-Das römische Privatrecht gliedert sich nach Gaius Inst. 1.8 in personae, res und actiones. Gaius (um 160 n.Chr.) entwickelte dieses Schema; Justinian übernahm es in Inst. 1.2.12. Das Corpus Iuris Civilis (528-534 n.Chr.) umfasst Institutiones, Digesta (50 Bücher, Exzerpte aus ca. 39 Juristen), Codex Iustinianus und Novellae. Epochen: Vorklassik (Republik), Klassik (1.-3. Jh. n.Chr.), Nachklassik, Justinian.
+## Typische Fehler
 
-## Kernquellen
+Lateinische Maximen nie unbesehen als geltendes Recht zitieren — 'pacta sunt servanda' (kanonistisch), 'in dubio pro reo' (prozessual, spätere Zuspitzung) und Co. haben je eigene Geschichte. Immer Quelle + Kontext + heutige Geltungsgrundlage trennen.
 
-- **Gaius Inst. 1.8**: omne ius, quo utimur, vel ad personas pertinet vel ad res vel ad actiones
-- **Iust. Inst. 1.2.12**: Übernahme des gaianischen Dreiteilungsschemas
-- **D. 1.1.1 pr. (Ulpian)**: Einleitungstext der Digesten zur Rechtswissenschaft
-- **D. 1.2.2 (Pomponius, Enchiridion)**: Einzige antike Darstellung der röm. Rechtsgeschichte
-- **D. 1.1.10 (Ulpian)**: Definitionen ius civile, ius gentium, ius naturale
-- **Const. Tanta (533 n.Chr.)**: Promulgationskonstitution der Digesten
+## Arbeitsweise
 
-## Schlüsselbegriffe
-
-- Corpus Iuris Civilis: Institutiones, Digesta, Codex Iustinianus, Novellae
-- Klassikerkanon: Gaius, Ulpian, Papinian, Paulus, Modestin (Zitiergesetz 426)
-- Vorklassik: XII Tafeln (451/450 v.Chr.), pontifikales Recht, ius civile
-- Klassik (1.-3. Jh. n.Chr.): Höhepunkt der Rechtswissenschaft
-- Tribonian: Leiter der Kompilationskommission unter Justinian
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Interpolationsforschung: Wie viel justinianische Überarbeitung steckt in den Digesten?
-2. War Gaius ein anerkannter Jurist seiner Zeit oder Lehrbuchautor der Provinz?
-3. Dreiteilung als logisches System oder pragmatische Lehrbucheinteilung?
-4. Kontinuität zwischen klassischem und justinianischem Recht?
-5. Methode: historisch-genetische vs. systematisch-dogmatische Lektüre?
-
-## Methodik
-
-- Primärtext: Mommsen-Krüger CIC vol. I (Inst.+Dig.), vol. II (Cod.), vol. III (Nov.) - archive.org
-- Gaius Institutiones: Verona-Palimpsest (Studemund 1874), Faksimile
-- Interpolationenkritik: Lenel Palingenesia Iuris Civilis (1889); Index Interpolationum
-- Sekundär: Kaser Römisches Privatrecht I-II; Wieacker Römische Rechtsgeschichte; Kunkel/Schermaier
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

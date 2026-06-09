@@ -1,6 +1,6 @@
 ---
 name: bmjv-zivilrecht-und-buergerliches-gesetzbuch-pflege
-description: "Sachbereich Zivilrecht und BGB-Pflege im Geschaeftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.)..."
+description: "Sachbereich Zivilrecht und BGB-Pflege im Geschaeftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.) — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmjv zivilrecht und buergerliches gesetzbuch pflege."
 ---
 
 # Zivilrecht und BGB-Pflege (BMJV)

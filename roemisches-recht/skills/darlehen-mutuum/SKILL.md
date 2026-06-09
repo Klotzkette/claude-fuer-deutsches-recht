@@ -5,78 +5,28 @@ description: "Römisches Recht: Darlehen Mutuum. Geführter Fachmodul mit Quelle
 
 # Darlehen Mutuum
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 3.90** — mutuum: Realvertrag durch datio; nur die Summe selbst geschuldet
+- **D. 12.1.2.1 (Paulus)** — mutuum quasi de meo tuum — Eigentumsübertragung an vertretbaren Sachen
+- **D. 22.2 (de nautico faenore)** — Seedarlehen: Zins über Landzinsmaximum, Rückzahlung nur bei glücklicher Ankunft
+- **C. 4.32.26.2 (Justinian)** — Zinsstaffel: 4-8 % je nach Person, 12 % fenus nauticum
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Mutuum ist Realvertrag: erst die datio (Eigentumsübertragung an Geld oder vertretbaren Sachen) begründet die Rückzahlungspflicht — stricti iuris, zinslos. Zinsen brauchen eine separate stipulatio usurarum. Das fenus nauticum (Seedarlehen) ist Roms Versicherungsersatz: Der Darlehensgeber trägt die Seegefahr (Rückzahlung nur si salva navis pervenerit), dafür unbegrenzter, später auf 12 % gedeckelter Zins — Risikoprämie statt Versicherungsprämie.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB § 488 macht das Darlehen zum Konsensualvertrag; Zinsen sind heute Regelfall. Das fenus nauticum ist der dogmatische Urahn von Seeversicherung und projektbezogener Risikofinanzierung (non-recourse-Finanzierung: Rückzahlung nur aus dem Projekterfolg).
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Mutuum-Zinsen nicht aus dem Vertrag selbst ableiten — ohne Zins-Stipulation gab es nur die Summe. Realvertragsnatur ernst nehmen: bloße Einigung verpflichtete nicht.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 12.1.1 (Ulpian)**: "Mutuum non potest contrahi nisi pecunia vel rebus, quae pondere numero mensura constant" — Darlehen nur ueber vertretbare Sachen.
-- **D. 12.1**: De rebus creditis.
-- **Gaius III.90**: Realvertrag — Eigentumserwerb durch traditio des Geldes.
-
-### Tatbestand
-- Vertretbare Sachen (genus, nicht species).
-- Eigentumsuebergang an Darlehensnehmer.
-- Pflicht zur Rueckgabe in gleicher Art und Menge.
-
-### Form
-- Realvertrag — Auszahlung erforderlich.
-- Stipulationsform zusaetzlich für Zinsen ueblich (Stipulationszinsen).
-
-### Zinsen
-- Centesima usura: 1 Prozent pro Monat = 12 Prozent pro Jahr maximum.
-- Justinian: 6 Prozent für Privatleute, 4 Prozent für illustres, 12 Prozent bei fenus nauticum.
-
-### Subsumtionsbeispiel: Zinsuebermaessigkeit
-Sachverhalt: A leiht 100 an B; vereinbart 24 Prozent Zinsen.
-- **Roemisch**: D. 22.1; D. 12.6 — uebermäßige Zinsen sind unwirksam; nicht gezahlt: nicht eintreibbar. Bereits gezahlt: condictio indebiti auf Ueberschuss.
-- **BGB**: § 138 Abs. 2 BGB Wucher; oder § 138 Abs. 1 BGB Sittenwidrigkeit bei Bewucher-aehnlichen Konstellationen. BGH: doppelter ueblicher Marktzins als Indikator.
-
-### Subsumtionsbeispiel: SC Macedonianum (Sohn-Darlehen)
-- D. 14.6: Senatusconsultum Macedonianum — Darlehen an filius familias (Hausunterworfenen) ist unklagbar.
-- Schutz vor verschuldetem Eltern-Vermoegen.
-- Modern: kein direktes Pendant; allenfalls Verbraucherdarlehensschutz §§ 491 ff. BGB.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

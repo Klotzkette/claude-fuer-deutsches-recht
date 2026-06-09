@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache-mietrecht
-description: "Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüf..."
+description: "Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüf — Arbeitskontext: Einfache/Leichte Sprache Jura, Schwerpunkt leichte sprache mietrecht."
 ---
 
 # Leichte Sprache

@@ -5,48 +5,29 @@ description: "Römisches Recht: Laesio Und Preisgerechtigkeit. Geführter Fachmo
 
 # Laesio Und Preisgerechtigkeit
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 18.1.1 (Paulus)** — Ursprung des Kaufs im Tausch; Konsensualvertrag über Ware und Preis
+- **D. 18.6.8 pr. (Paulus)** — periculum est emptoris — Preisgefahr trägt ab perfectio der Käufer
+- **D. 21.1 (ädilizisches Edikt)** — actio redhibitoria (6 Monate) und actio quanti minoris (1 Jahr) bei Sachmängeln
+- **D. 21.2 (de evictionibus)** — Eviktionshaftung: auctoritas, stipulatio duplae
+- **C. 4.44.2 (Diokletian, 285)** — laesio enormis: Rücktritt bei Verkauf unter halbem Wert (Grundstücke)
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Emptio venditio ist Konsensualvertrag bonae fidei: Einigung über merx und pretium (certum, verum, in pecunia numerata) genügt. Gefahrtragung: periculum est emptoris ab Perfektion (Sache bestimmt, Preis fix, keine Bedingung offen) — der Käufer zahlt auch bei zufälligem Untergang vor Übergabe, erhält aber commoda. Mängelhaftung: Das ädilizische Edikt (Sklaven-/Viehmarkt) gibt redhibitoria und quanti minoris verschuldensunabhängig; daneben actio empti bei dolus oder dicta et promissa. Eviktionshaftung sichert gegen Drittansprüche auf das Doppelte (stipulatio duplae).
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB: Gefahrübergang erst mit Übergabe § 446 BGB (Abkehr von periculum emptoris!); Mängelrechte §§ 434 ff. BGB führen redhibitoria (Rücktritt) und quanti minoris (Minderung) fort, ergänzt um Nacherfüllungsvorrang; Rechtsmängelhaftung § 435 BGB ersetzt die Eviktionsstipulationen. Laesio enormis lebt nur als Wucherkontrolle § 138 II BGB fort — keine objektive Halbwert-Regel.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Periculum emptoris nicht ins BGB hineinlesen (§ 446!); umgekehrt die zweimonatige Rügefrist des § 377 HGB nicht für römisch halten — die Ädilenfristen (6 Monate/1 Jahr) waren Klagefristen, keine Rügeobliegenheiten.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

@@ -1,6 +1,6 @@
 ---
 name: dsv-schnelltriage-risiko
-description: "Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung: Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsg..."
+description: "Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung: Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsg — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv schnelltriage risiko."
 ---
 
 # Liefert in 15-30 Minuten eine Schnelltriage zum Risiko eines gemeldeten Datenschutzvorfalls als Entscheidungsgrundlage für die 72-Stunden-Meldung

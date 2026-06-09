@@ -1,6 +1,6 @@
 ---
 name: dsv-forensische-erstsicherung
-description: "Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei: Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant..."
+description: "Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei: Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv forensische erstsicherung."
 ---
 
 # Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-transparenz-informationen
-description: "Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken..."
+description: "Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt hochrisiko transparenz informationen."
 ---
 
 # Transparenz und Informationen für Betreiber — Art. 13 KI-VO

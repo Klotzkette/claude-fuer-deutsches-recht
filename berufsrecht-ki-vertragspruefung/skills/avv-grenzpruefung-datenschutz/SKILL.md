@@ -1,6 +1,6 @@
 ---
 name: avv-grenzpruefung-datenschutz
-description: "Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfal..."
+description: "Kanzlei nutzt KI-Dienstleister und prüft ob AVV nach Art. 28 DSGVO die berufsrechtliche Prüfung ersetzt. Berufsrecht laeuft parallel und ist strenger als Datenschutzrecht. Normen Art. 28 DSGVO §§ 43e BRAO 62a StBerG. Prüfraster AVV-Prüfpunkte Berufsrecht-Parallelitaet Abgrenzungspunkte Stolperfal — Arbeitskontext: Berufsrechts-KI bei Vertragsprüfung, Schwerpunkt avv grenzpruefung datenschutz."
 ---
 
 # AVV-Grenzprüfung Datenschutz

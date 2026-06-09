@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-grenzueberschreitend
-description: "Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten: Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO;..."
+description: "Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten: Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv meldung grenzueberschreitend."
 ---
 
 # Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten

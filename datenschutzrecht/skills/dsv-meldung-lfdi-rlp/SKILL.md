@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-rlp
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung lfdi rlp."
 ---
 
 # Reicht eine Meldung nach Art

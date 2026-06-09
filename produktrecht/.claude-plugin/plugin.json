@@ -1,7 +1,7 @@
 {
   "name": "produktrecht",
   "displayName": "Produkthaftung und Produktrecht",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.",
   "license": "Apache-2.0 OR MIT",
   "author": {

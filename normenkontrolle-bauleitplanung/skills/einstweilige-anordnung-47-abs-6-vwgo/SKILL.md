@@ -1,6 +1,6 @@
 ---
 name: einstweilige-anordnung-47-abs-6-vwgo
-description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaft..."
+description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaft — Arbeitskontext: Normenkontrolle Bauleitplanung, Schwerpunkt einstweilige anordnung 47 abs 6 vwgo."
 ---
 
 # Einstweilige Anordnung § 47 Abs. 6 VwGO

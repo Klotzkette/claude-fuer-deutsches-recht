@@ -5,76 +5,30 @@ description: "Römisches Recht: Erbrecht Testament. Geführter Fachmodul mit Que
 
 # Erbrecht Testament
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 2.101-108** — Testamentsformen: calatis comitiis, in procinctu, per aes et libram
+- **Gaius, Institutiones 2.224 ff.** — lex Falcidia: dem Erben bleibt das Viertel
+- **D. 5.2 (de inofficioso testamento)** — querela inofficiosi testamenti — Pflichtteilsschutz über das officium pietatis
+- **D. 28.2.11** — sui heredes: Hauserben erwerben ipso iure
+- **D. 29.7 / D. 30-32** — Kodizille und Legate; Fideikommisse als formfreie Zuwendungen
+- **Gaius, Institutiones 3.1-38** — Intestaterbfolge: sui — proximi agnati — gentiles; prätorische bonorum possessio unde liberi/unde cognati
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Das römische Erbrecht ruht auf der Universalsukzession: heres tritt in alle Rechte und Pflichten (auch Schulden — daher beneficium abstinendi für sui, später beneficium inventarii Justinians). Testamentsformen entwickeln sich von den Komitialformen zum Manzipationstestament (per aes et libram) und zum prätorischen Testament (tabulae septem signis signatae). Pflichtteilsschutz dreifach: formelle Enterbungsregeln (sui sind zu erwähnen oder ausdrücklich zu enterben), querela inofficiosi testamenti (materiell: pars quarta der Intestatquote), lex Falcidia (Erbenviertel gegen Legatsüberlastung). Fideikommisse — formlose Bitten an den Erben — werden ab Augustus klagbar (extra ordinem) und zum flexibelsten Nachlassinstrument (Familienfideikommiss, Universalfideikommiss mit SC Trebellianum).
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB: Universalsukzession § 1922, Pflichtteil §§ 2303 ff. (Geldanspruch statt Erbenstellung — Abkehr von der querela-Logik), Vor-/Nacherbschaft §§ 2100 ff. als gezähmte Fideikommiss-Erbin (Familienfideikommisse 1919 abgeschafft), Vermächtnis §§ 2147 ff. als Damnationslegat-Nachfahre (nur obligatorisch — das Vindikationslegat ist mit der EU-ErbVO-Diskussion zurück im Gespräch).
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Querela nicht als 'Pflichtteilsklage' im BGB-Sinn beschreiben — sie kassierte das GANZE Testament (color insaniae). Und: Legatstypen (per vindicationem/per damnationem) nicht vermengen; nur ersteres gab dinglichen Erwerb.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **Gaius II.99-289**: Erbrecht und Testament.
-- **D. 28**: De testamentis.
-- **D. 5.2**: Querela inofficiosi testamenti.
-
-### Wichtige Testamentsformen
-1. **Testamentum calatis comitiis**: vor Volksversammlung (alt).
-2. **Testamentum in procinctu**: vor Schlacht (alt).
-3. **Testamentum per aes et libram**: Mancipationstestament — klassisch.
-4. **Testamentum praetorium**: 7 Zeugen siegeln — praetorisch.
-
-### Heredis institutio
-- Erbeneinsetzung im Eingang des Testaments zwingend.
-- "Si quis ex prima parte testamenti haeres non sit, testamentum nullum est" (D. 28.5).
-
-### Subsumtionsbeispiel: Pflichtteil verletzt
-Sachverhalt: Reicher Vater enterbt seinen Sohn vollstaendig zugunsten eines Sklaven; Sohn klagt querela inofficiosi testamenti.
-- **Roemisch**: D. 5.2 — querela inofficiosi testamenti; Pflichtteil = 1/4 des Intestaterbteils; bei Verletzung Testament insgesamt für ungueltig erklaert ("rescissio testamenti"); Intestaterbfolge greift.
-- **ALR I 12 §§ 380 ff.**: Pflichtteil als Geldanspruch; Testament bleibt im Uebrigen wirksam.
-- **BGB**: §§ 2303 ff. BGB; Pflichtteil = 1/2 des gesetzlichen Erbteils; Anspruch auf Geld; Testament bleibt wirksam.
-
-### Subsumtionsbeispiel: Fideikommiss
-Sachverhalt: Vater verfuegt: "Ich setze meinen Sklaven Marcus als Erben ein. Marcus, ich bitte dich, das gesamte Vermoegen meinem Vater zu geben." — Vater des Erblassers ist nicht erbfaehig (z. B. capitis deminutio).
-- **Roemisch**: Fideikommissum; Marcus ist verpflichtet, das Erbe an den Vater zu uebertragen. SC Trebellianum (56 n. Chr.): Fideikommissar erhaelt eigene Klage.
-- **BGB**: Vor- und Nacherbschaft § 2100 ff. BGB.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

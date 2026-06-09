@@ -5,46 +5,27 @@ description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehn
 
 # Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext
 
-## Kaltstart in 6 Fragen
+## Quellenanker
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+- **Gaius, Institutiones 2.1-96** — Sachenrechtssystem: Sacheinteilungen, Erwerbsarten, Nutzungsrechte
+- **Libri Feudorum (Mailand, 12. Jh.)** — lombardisches Lehnrecht — als Anhang des Corpus Iuris tradiert
+- **D. 41.1 (de adquirendo rerum dominio)** — Erwerbstatbestände: occupatio, accessio, specificatio, traditio
 
-## Prüfprogramm
+## Kernregeln
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+Das römische Sachenrecht (geschlossener Kreis dinglicher Rechte: dominium, Servituten, Pfand, Emphyteuse, Superfizies) trifft im Mittelalter auf das Lehnswesen — gespaltenes 'Eigentum' zwischen Lehnsherr und Vasall. Die Glossatoren lösen den Konflikt mit der Lehre vom dominium duplex: dominium directum (Obereigentum des Herrn) und dominium utile (Nutzeigentum des Vasallen/Bauern) — eine bewusste Umdeutung der Quellen (Anknüpfung an actiones utiles), um Feudalrealität romanistisch zu fassen. Die Libri Feudorum wandern als Anhang in die Corpus-Iuris-Ausgaben.
 
-## Typische Fallen
+## Moderne Parallele
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+Das BGB kehrt zum einheitlichen Eigentum zurück (§ 903) — dominium duplex stirbt 1900; Reste leben im Erbbaurecht (ErbbauRG) und im Verhältnis Eigentum/Nießbrauch fort. Begriffsgeschichtlich wichtig: 'wirtschaftliches Eigentum' (§ 39 AO) ist ein später Wiedergänger des dominium utile.
 
-## Historische Quellenanker
+## Typische Fehler
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Dominium duplex nicht für klassisch-römisch halten — es ist mittelalterliche Schöpfung AUF römischem Material; die Klassik kannte nur EIN dominium.
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Arbeitsweise
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

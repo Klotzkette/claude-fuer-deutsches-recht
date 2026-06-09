@@ -5,35 +5,44 @@ description: "Lanham Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung,
 
 # Lanham Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Markenrecht Fashion Luxus** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Markenrecht Fashion/Luxus** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `abmahnung-markenrecht-euipo-beschwerdekammer-absolute-anmeldung`
-- `anti-ki-beweissicherung-testkauf-bildmarke-wort-boesglaeubige`
-- `discounter-graumarkt-dpma-bpatg-dpma-widerspruch`
-- `duftmarke-geschmacksmarke-einstweilige-verfuegung-erschoepfung`
-- `euipo-korrespondenz-markenarten-markenrecht`
-- `fashion-luxus-kaltstart-interview`
-- `green-claims-haptik-tastmarke-keyword-advertising-ki-generierte`
-- `klageantraege-auskunft-madrid-protokoll-markenbewertung-asset`
-- `koexistenz-abgrenzungsvereinbarung-vertikale-preisbindung-waren`
-- `luxus-agb-haendlervertrag-rechtsabteilung-plattformhaftung`
-- `markenmonitoring-watchlist-markenuebertragung-chain-marketplace`
-- `modehaeuser-uspto-wort-interessen-ttab-opposition`
+- **MarkenG** — amtlichen Stand vor tragender Aussage prüfen
+- **UMV (EU)** — amtlichen Stand vor tragender Aussage prüfen
+- **UWG §§ 3, 5** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- DPMA
+- EUIPO
+- WIPO
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- DPMAregister
+- EUIPO eSearch
+- TMview
+
+## Fristen mit Quellenrelevanz
+
+- Widerspruch 3 Monate § 42 MarkenG
+- Verlängerung 10 Jahre
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

@@ -5,40 +5,60 @@ description: "Formalia Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigke
 
 # Formalia Fehlerkatalog
 
-## Regelungs- und Quellenanker
+## Zweck
 
-Arbeitsfokus: **Formalia Fehlerkatalog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **DFG-Förderantrag** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 91b Abs. 1 GG` — Forschungsförderung im Bund-Länder-System.
-- `§ 23 BHO` — Zuwendungsvoraussetzungen.
-- `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.
-- `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit und Sparsamkeit.
-- `§ 48 Abs. 1 VwVfG` — Rücknahme rechtswidriger Bewilligungen.
-- `§ 49 Abs. 1 VwVfG` — Widerruf rechtmäßiger Bewilligungen.
-- `DFG-Kodex Leitlinie 1` — Redlichkeit.
-- `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
-- `DFG-Kodex Leitlinie 14` — Autorschaft.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Frist falsch berechnet oder übersehen (Antragsfrist Ausschreibungstermin)
 
-## Einsatzlage
+- **Symptom:** Frist falsch berechnet oder übersehen (Antragsfrist Ausschreibungstermin)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Dieser Fehlerkatalog prüft im Bereich **Dfg Foerderantrag** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Parallelfrist vergessen (Berichtspflichten jährlich)
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Parallelfrist vergessen (Berichtspflichten jährlich)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anfaenger-antraege-dfg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-bis-200k-begutachtung-light`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-eigenanteil-und-grundausstattung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-eigene-vorarbeiten-darstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-erstantragsteller-besondere-checks`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-finanzplan-module-personal-geraete`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-foerderstrategie-schnell-oder-gross`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-grossgeraete-und-cluster-antrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dfg-grundsystem-foerderlinien`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Falsche Zuständigkeit adressiert (richtig: Deutsche Forschungsgemeinschaft)
 
-## Heilung
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Deutsche Forschungsgemeinschaft)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Beweismittel nicht gesichert (Publikationsverzeichnis)
+
+- **Symptom:** Beweismittel nicht gesichert (Publikationsverzeichnis)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Projektbeschreibung)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Projektbeschreibung)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (DFG-Verwendungsrichtlinien)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (DFG-Verwendungsrichtlinien)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

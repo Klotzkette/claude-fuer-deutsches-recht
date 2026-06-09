@@ -1,6 +1,6 @@
 ---
 name: verfahrensgang-referentenentwurf
-description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabel..."
+description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabel — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt verfahrensgang referentenentwurf."
 ---
 
 # NKR-Verfahrensgang Referentenentwurf bis Bundestag

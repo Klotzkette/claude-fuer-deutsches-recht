@@ -1,6 +1,6 @@
 ---
 name: normenkontrollantrag-schriftsatz
-description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsant..."
+description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsant — Arbeitskontext: Normenkontrolle Bauleitplanung, Schwerpunkt normenkontrollantrag schriftsatz."
 ---
 
 # Normenkontrollantrag — Schriftsatz

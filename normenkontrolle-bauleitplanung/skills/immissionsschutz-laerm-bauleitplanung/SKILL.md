@@ -1,6 +1,6 @@
 ---
 name: immissionsschutz-laerm-bauleitplanung
-description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm B..."
+description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm B — Arbeitskontext: Normenkontrolle Bauleitplanung, Schwerpunkt immissionsschutz laerm bauleitplanung."
 ---
 
 # Immissionsschutz und Lärm in der Bauleitplanung

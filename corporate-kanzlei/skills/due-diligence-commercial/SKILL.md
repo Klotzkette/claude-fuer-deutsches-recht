@@ -1,6 +1,6 @@
 ---
 name: due-diligence-commercial
-description: "Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klau..."
+description: "Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klau — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt due diligence commercial."
 ---
 
 # Due Diligence — Commercial Contracts

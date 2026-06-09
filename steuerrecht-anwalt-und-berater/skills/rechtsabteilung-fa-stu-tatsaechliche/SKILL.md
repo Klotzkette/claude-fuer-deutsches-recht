@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-fa-stu-tatsaechliche
-description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behand..."
+description: "Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behand — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt rechtsabteilung fa stu tatsaechliche."
 ---
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO

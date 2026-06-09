@@ -5,39 +5,29 @@ description: "Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladu
 
 # Zwölftafelgesetz - Prozess und Vollstreckung
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Tafel I (Ladung)** — si in ius vocat, ito — Selbsthilfe-geprägter Prozessbeginn
+- **Tafel III (Schuldvollstreckung)** — tertiis nundinis partis secanto — drastische Personalexekution (umstritten: wörtlich oder symbolisch)
+- **Tafel VIII** — Deliktstatbestände: membrum ruptum (Talion), os fractum (feste Bußen), iniuria (25 As)
+- **Cicero, de legibus 2.59** — Schulkinder lernten die XII Tafeln auswendig (carmen necessarium)
+- **Livius 3.32-37** — Decemvirat 451/450 v. Chr.; Überlieferungsrahmen mit Vorsicht
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Die XII Tafeln (451/450 v. Chr.) sind kein Gesetzbuch, sondern punktuelle Fixierung umstrittenen Gewohnheitsrechts — Prozessrecht, Vollstreckung, Familien-, Erb-, Nachbar- und Deliktsrecht in knappen Imperativen. Kein Originaltext erhalten: Rekonstruktion aus Zitaten bei Cicero, Gellius, Festus und den Juristen — jede moderne Tafel-Nummerierung ist Konvention (Standardrekonstruktion: Schöll/FIRA). Vorformen italischen Rechts (etruskisch, oskisch — tabula Bantina, faliskisch) sind epigraphisch greifbar und zeigen: Rom war Teil einer italischen Rechtskoine. Pompejis Wände (Wahlaufrufe, Geschäftsurkunden des Iucundus) liefern Alltagsrechtspraxis.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. Handelt es sich um Prozessbeginn, Beweis, Urteil, Vollstreckung oder Schuldnerstatus?
-2. Soll ein archaischer Mechanismus nur erklärt oder mit späterem Formular-/Kognitionsverfahren verglichen werden?
-3. Gibt es eine moderne Analogiefrage, etwa Vollstreckung, Insolvenz, Personenschutz oder Verfahrensgrundrechte?
+Methodisch wie heute mit fragmentarischer Überlieferung umgehen: Rekonstruktionsgrad stets offenlegen (gesichert / wahrscheinlich / spekulativ), Zitierkonvention nennen. Wer 'Tafel 8.4' zitiert, zitiert eine moderne Hypothese — wie bei jeder kritischen Edition.
 
-## Prüfroutine
+## Typische Fehler
 
-1. **Ladung und Präsenz:** Welche Rolle spielt persönliche Vorführung, Mitwirkung und Öffentlichkeit?
-2. **Formstrenge:** Was ist Ritual, was ist Rechtsschutz, was ist soziale Disziplinierung?
-3. **Entscheidung und Frist:** Wie wird Verfahrensbindung erzeugt?
-4. **Vollstreckungsdruck:** Schuldhaft und Zugriff auf Person/Vermögen historisch erklären, nicht normativ romantisieren.
-5. **Fortbildung:** Übergang zu Legisaktionen, prätorischer Steuerung, Formularprozess und späterem Kognitionsverfahren skizzieren.
+XII-Tafel-Sätze nicht als wörtliche Zitate ausgeben, wenn nur der Inhalt bezeugt ist; die Nummerierung nicht für antik halten. Und Livius' Erzählung vom Decemvirat ist Literatur, keine Urkunde.
 
-## Fehlervermeidung
+## Arbeitsweise
 
-- Keine Gleichsetzung mit moderner ZPO.
-- Keine ungesicherte wörtliche Tafelübersetzung ohne Nutzerquelle.
-- Keine Beschönigung archaischer Zwangsmittel.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

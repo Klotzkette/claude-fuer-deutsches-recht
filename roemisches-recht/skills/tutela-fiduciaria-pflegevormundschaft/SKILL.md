@@ -5,58 +5,28 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung f�
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermoegen
 
-## Tutela impuberum
+## Quellenanker
 
-- Vormundschaft für Minderjaehrige (impuberes) bis 14 Jahre (Knaben) / 12 Jahre (Maedchen).
-- Tutor verwaltet das Vermoegen.
+- **Gaius, Institutiones 1.142-196** — tutela impuberum und tutela mulierum
+- **D. 26.1.1 pr. (Paulus)** — tutela est vis ac potestas in capite libero ad tuendum eum
+- **D. 16.1.2.1 (Ulpian)** — SC Velleianum: Interzessionsverbot für Frauen
+- **D. 27.3** — actio tutelae: Rechenschaftsklage gegen den Vormund, infamierend
 
-## Tutela mulierum
+## Kernregeln
 
-- Vormundschaft für erwachsene Frauen (mulieres sui iuris).
-- Eingeschraenkt auf Vermoegensverfuegungen (auctoritas).
-- Praktisch bedeutungslos ab dem Prinzipat.
+Tutela impuberum schützt Unmündige sui iuris: Der tutor verwaltet (negotiorum gestio) oder ergänzt durch auctoritatis interpositio. Nach Mündigkeit drohen actio tutelae (bonae fidei, infamierend) und seit republikanischer Zeit strafrechtlich das crimen suspecti tutoris. Die tutela mulierum verkam klassisch zur Form (auctoritas erzwingbar); das SC Velleianum verbietet Frauen die Interzession (Bürgschaft/Schuldübernahme für Dritte) — Schutznorm mit zweischneidiger Wirkung (Kreditausschluss). Cura ergänzt für minores XXV annis (cura minorum mit in integrum restitutio ob aetatem), furiosi und prodigi.
 
-## Cura minorum
+## Moderne Parallele
 
-- Pflegevormundschaft für 14-25-Jaehrige.
-- Optional.
+Heute: rechtliche Betreuung §§ 1814 ff. BGB (seit 2023 reformiert) statt Entmündigung; Vormundschaft §§ 1773 ff. BGB nur noch für Minderjährige. Die Velleianum-Logik kehrt in der Rechtsprechung zur Sittenwidrigkeit krass überfordernder Angehörigenbürgschaften (§ 138 BGB, BVerfGE 89, 214) strukturell wieder — Schutz vor Interzession aus emotionaler Verbundenheit.
 
-## Actio tutelae
+## Typische Fehler
 
-- Klage des Muendels gegen Tutor wegen Pflichtverletzung.
-- Actio tutelae directa: Muendel klagt gegen Tutor.
-- Actio tutelae contraria: Tutor klagt gegen Muendel auf Aufwendungsersatz.
+Tutela mulierum nicht als faktische Entrechtung der klassischen Römerin überzeichnen — Juristen halfen mit Zwangs-auctoritas und tutor optivus; die Frau sui iuris verwaltete ihr Vermögen weitgehend selbst.
 
-## Schutzbestimmungen
+## Arbeitsweise
 
-- Verbot der Eigengeschaefte des Tutors mit dem Muendelvermoegen.
-- Hypothek auf das Vermoegen des Tutors (tacita hypotheca) zugunsten des Muendels.
-
-## Vergleich zu modernem Recht
-
-- §§ 1773 ff. BGB Vormundschaft.
-- § 1837 BGB Genehmigung durch Vormundschaftsgericht.
-- § 1908i BGB Betreuung.
-
-## Pruefraster
-
-1. Tutela oder cura?
-2. Pflichtverletzung des Tutor?
-3. Klage?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

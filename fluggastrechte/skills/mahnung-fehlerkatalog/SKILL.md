@@ -5,33 +5,60 @@ description: "Mahnung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkei
 
 # Mahnung Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Fluggastrechte** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fluggastrechte VO 261/2004** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `abtretung-an-fluggastportal-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `airline-bonitaet-und-vollstreckung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `airline-standardausreden-annullierung-verspaetung-anschlussflug`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `airline-standardausreden-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `allgemein-anschluss-router-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `annullierung-oder-verspaetung-einordnen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anschlussflug-und-reiseplan`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `ausnahmen-aussergewoehnliche-umstaende-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `aussergewoehnliche-distanz-interessen-erfassen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Verjährung 3 Jahre § 195 BGB)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Verjährung 3 Jahre § 195 BGB)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (Reklamation umgehend)
 
-## Normen & Rechtsprechung
+- **Symptom:** Parallelfrist vergessen (Reklamation umgehend)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-Konkret zu prüfen:
+### 3. Falsche Zuständigkeit adressiert (richtig: LBA)
 
-- VO (EG) Nr. 261/2004 (Fluggastrechte)
-- Art. 5 VO 261/2004 (Annullierung)
-- Art. 6 VO 261/2004 (Verspätung)
-- Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
-- EuGH C-402/07 (Sturgeon)
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: LBA)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Boardingpass)
+
+- **Symptom:** Beweismittel nicht gesichert (Boardingpass)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Buchungsbestätigung)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Buchungsbestätigung)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (VO (EG) 261/2004)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (VO (EG) 261/2004)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

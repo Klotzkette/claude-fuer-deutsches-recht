@@ -1,44 +1,64 @@
 ---
 name: gate-fehlerkatalog
-description: "Gate Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
+description: "Gate Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand — Arbeitskontext: Common Law Kompass, Schwerpunkt gate fehlerkatalog."
 ---
 
 # Gate Fehlerkatalog
 
-## Regelungs- und Quellenanker
+## Zweck
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Common Law Kompass** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Frist falsch berechnet oder übersehen (Statutes of Limitations je Jurisdiction)
 
-## Einsatzlage
+- **Symptom:** Frist falsch berechnet oder übersehen (Statutes of Limitations je Jurisdiction)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Dieser Fehlerkatalog prüft im Bereich **Common Law Kompass** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Parallelfrist vergessen (Discovery deadlines)
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Parallelfrist vergessen (Discovery deadlines)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `begriffe-uebersetzung-bilingual-contract-client-explainer`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bilinguale-client-commercial-sonderfall`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `cl-mandantenuebersicht-cl-prozesskostenrisiko-cl-precedent`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `cl-vertragsklauseln-vertragsbegriffe-cl-discovery`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `common-consideration-discovery`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `contract-formation-false-friends-governing-jurisdiction`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `drafting-interessen-explainer-beweislast-false-friends`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `friends-indemnity-quality`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `humor-coach-interpretation-precedent-common-law`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Falsche Zuständigkeit adressiert (richtig: UK Supreme Court, US Supreme Court)
 
-## Heilung
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: UK Supreme Court, US Supreme Court)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Beweismittel nicht gesichert (Witness statements)
+
+- **Symptom:** Beweismittel nicht gesichert (Witness statements)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Pleadings)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Pleadings)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (UK/US/Commonwealth common law)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (UK/US/Commonwealth common law)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

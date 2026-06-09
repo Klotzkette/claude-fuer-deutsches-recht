@@ -1,6 +1,6 @@
 ---
 name: bwa-jahres-bwa-erstellen
-description: "Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-..."
+description: "Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations- — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt bwa jahres bwa erstellen."
 ---
 
 # Jahres-BWA — Ergaenzung zum Jahresabschluss

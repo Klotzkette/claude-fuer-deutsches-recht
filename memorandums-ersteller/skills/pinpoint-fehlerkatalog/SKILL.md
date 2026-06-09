@@ -5,23 +5,42 @@ description: "Pinpoint Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigke
 
 # Pinpoint Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Memorandums Ersteller** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Memorandum-Ersteller** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `antworten-interessen-ausfuehrungen-fragen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `due-diligence-ergebnis-handlungsempfehlung-mandant-vs`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gliederung-mandantenunterlagen-memorandum`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `haftungsrisiko-rechtsanwalt-board-pack-vorfall-intern`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `juristisches-questions-fristennotiz-vertragsentscheidung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `laenge-formate-mandantenfreundliche-fassung-typenuebersicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mandantenanfrage-schnell-rechtsmittelentscheidung-memorandums`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `optional-beweislast-piercing-sonderfall-rechtliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `prozessstrategie-klageerhebung-gutachtenstil-quellen-zitierregel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Mandantenbericht-Fristen)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Mandantenbericht-Fristen)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Schlüsseldokument fehlt oder veraltet (Sachverhalt)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Sachverhalt)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 3. Normzitat ohne Fassungsprüfung (Anwendungsbereich nach Mandat)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (Anwendungsbereich nach Mandat)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 4. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 5. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

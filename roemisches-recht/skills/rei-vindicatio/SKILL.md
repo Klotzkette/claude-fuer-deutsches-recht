@@ -5,58 +5,29 @@ description: "Römisches Recht: Rei Vindicatio. Geführter Fachmodul mit Quellen
 
 # Rei Vindicatio
 
-## Sofortsortierung
+## Quellenanker
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius, Institutiones 2.40-2.61** — duplex dominium: quiritisches und bonitarisches Eigentum; usucapio heilt Formmängel
+- **D. 41.1.20 pr. (Ulpian)** — traditio überträgt nur, was und wie der Veräußerer berechtigt ist
+- **D. 41.1.31 pr. (Paulus)** — nuda traditio genügt nie ohne iusta causa — Kausalität der Übereignung
+- **D. 6.1 (rei vindicatio)** — Herausgabeklage des nichtbesitzenden Eigentümers gegen den besitzenden Nichteigentümer
+- **Gaius, Institutiones 2.41-44** — usucapio: 1 Jahr Mobilien, 2 Jahre Grundstücke; res furtivae ausgeschlossen (lex Atinia)
 
-## Fachlicher Zugriff
+## Kernregeln
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Eigentumsübertragung kennt drei Akte: mancipatio (Formalakt für res mancipi: Grundstücke, Sklaven, Zugtiere), in iure cessio (Scheinprozess), traditio (formlose Übergabe für res nec mancipi — wirksam nur mit iusta causa: Rom folgt dem Kausalprinzip!). Wer eine res mancipi nur tradiert bekommt, hat bonitarisches Eigentum (in bonis) und wird durch usucapio (1/2 Jahre, bona fides, iusta causa, res habilis) quiritischer Eigentümer; bis dahin schützt ihn die actio Publiciana. Die rei vindicatio verlangt Eigentumsbeweis — gegen die 'probatio diabolica' hilft praktisch die Ersitzungskette.
 
-## Prüfroutine
+## Moderne Parallele
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+Das BGB bricht mit Rom doppelt: Abstraktionsprinzip (§§ 873, 929 BGB — Einigung wirksam unabhängig vom Kausalgeschäft) statt Kausalprinzip; gutgläubiger Sofort-Erwerb §§ 932 ff. BGB statt Ersitzung (die als §§ 937 ff. BGB nur noch Restfunktion hat). § 985 BGB ist die direkte Erbin der rei vindicatio.
 
-## Typische Ausgabe
+## Typische Fehler
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+Rom kannte KEIN Abstraktionsprinzip — D. 41.1.36 (Julian) zum Konsensmangel ist die berühmte Ausnahme-Diskussion, nicht die Regel. Wer 'abstrakte traditio' ins klassische Recht liest, modernisiert unzulässig (Savigny-Brille).
 
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+## Arbeitsweise
 
-### Schluesselstellen
-- **D. 6.1.1 (Ulpian)**: "Per hanc autem actionem liberae personae, quae sunt sui iuris, non petuntur" — die rei vindicatio ist die Eigentumsherausgabeklage.
-- **D. 6.1.9**: Klage erfordert Beweis des Eigentums durch den Klaeger.
-- **D. 6.1.17**: Bei Wertverlust waehrend Prozess Schadensersatz.
-
-### Tatbestand
-1. Klaeger ist Eigentuemer.
-2. Beklagter ist Besitzer.
-3. Sache ist identifizierbar (Specifikation).
-
-### Folgen
-- Hauptfolge: Herausgabe der Sache.
-- Bei boesglaeubigem Besitzer: Schadensersatz für Fruechte, Nutzungen, Wertminderung.
-- Bei gutglaeubigem Besitzer: nur seit Klagerhebung Haftung.
-
-### Subsumtionsbeispiel: Gestohlene Vase
-Sachverhalt: A hat Vase; B stiehlt sie; B verkauft sie an C, der nichts weiss; nach 6 Monaten findet A die Vase bei C.
-- **Roemisch**: D. 6.1 — A kann rei vindicatio gegen C erheben; C muss herausgeben; Schadensersatz für Nutzungen seit Klage. C hat actio empti gegen B auf Kaufpreis.
-- **BGB**: § 985 BGB Vindikation gegen C; § 935 BGB schliesst gutglaeubigen Erwerb gestohlener Sachen aus; C verliert; C hat § 437 Nr. 2 iVm § 433 BGB Anspruch gegen B.
-
-### Subsumtionsbeforderung: Nutzungen
-- Boesglaeubiger Besitzer: Haftung ab Besitzbegin.
-- Gutglaeubiger Besitzer: Haftung erst ab Klageerhebung (litiscontestation).
-- Heute: §§ 987-993 BGB Eigentuemer-Besitzer-Verhaeltnis — sehr aehnliches System.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

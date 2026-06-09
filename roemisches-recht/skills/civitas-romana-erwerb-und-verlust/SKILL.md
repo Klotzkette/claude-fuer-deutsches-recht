@@ -5,66 +5,28 @@ description: "Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. S
 
 # Rom 150 Civitas Romana Erwerb Und Verlust
 
-## Erwerbsarten
+## Quellenanker
 
-### Geburtserwerb
-- Iure sanguinis: roemischer Vater + roemische Mutter.
-- Iure conubii: rechtsgueltige Ehe (matrimonium).
-- Bei nicht-conubium-faehigen Partnern: Status der Mutter zur Zeit der Empfaengnis.
+- **Gaius, Institutiones 1.9-1.17** — Statusabstufungen: cives, Latini, peregrini
+- **D. 1.5.17 (Ulpian)** — in orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt
+- **Cassius Dio 78.9** — Constitutio Antoniniana 212 n. Chr. — fiskalische Motive der Bürgerrechtsverleihung
+- **lex Irnitana (Flavisches Stadtgesetz)** — Munizipalverfassung: ius Latii, Bürgerrechtserwerb durch Ämter
 
-### Manumissio
-- Sklavenbefreiung durch dominus.
-- Drei klassische Formen: manumissio vindicta (vor Magistrat), censu (Einschreibung in die Zensus-Liste), testamento.
-- Manumittierter Sklave wurde libertus mit eingeschraenkter Buergerstellung.
+## Kernregeln
 
-### Naturalisationsdekret
-- Verleihung durch Volksversammlung, Senat, Kaiser.
-- Vielfach an Soldaten nach 25 Dienstjahren (auxilia).
+Das römische Bürgerrecht bündelt ius suffragii (Stimmrecht), ius honorum (Ämterfähigkeit), conubium (Ehefähigkeit nach ius civile) und commercium (Teilnahme an mancipatio, Testament). Latiner haben commercium, meist kein conubium; peregrini leben nach ius gentium und ihrem Heimatrecht. Die Constitutio Antoniniana (212) verlieh fast allen Reichsbewohnern das Bürgerrecht — Folge: ius civile wurde Reichsrecht, Provinzialpraxis und klassisches Recht verschmolzen (Vulgarisierung).
 
-### Lex Iulia et Plautia (90/89 v. Chr.)
-- Verleihung an Bundesgenossen Italiens nach dem Bundesgenossenkrieg.
+## Moderne Parallele
 
-### Constitutio Antoniniana (212 n. Chr.)
-- Caracalla verlieh fast allen freien Reichsbewohnern das Buergerrecht.
+Moderne Parallelen: gestuftes Aufenthalts-/Staatsangehörigkeitsrecht (StAG), Unionsbürgerschaft Art. 20 AEUV als 'commercium und Freizügigkeit ohne volle politische Rechte' auf Bundesstaatsebene gedacht.
 
-## Verlust
+## Typische Fehler
 
-### Capitis deminutio maxima
-- Verlust der Freiheit (z. B. Kriegsgefangenschaft).
-- Folge: Verlust auch von civitas und familia.
+Die Constitutio Antoniniana nicht als humanitären Akt lesen — Steuerpflicht (vicesima hereditatium) war Hauptmotiv. Nach 212 nicht weiter scharf zwischen cives und peregrini argumentieren, außer für dediticii.
 
-### Capitis deminutio media
-- Verlust der civitas (z. B. Verbannung).
-- Freiheit blieb.
+## Arbeitsweise
 
-### Capitis deminutio minima
-- Aenderung der Familienstellung (adoptio, Heirat in manus, Verstoss).
-- Buergerschaft blieb.
-
-## Vergleich zu modernem Recht
-
-- § 4 StAG Erwerb der deutschen Staatsangehoerigkeit.
-- §§ 17 ff. StAG Verlust.
-
-## Pruefraster
-
-1. Erwerbsart?
-2. Vorgaengerstatus?
-3. Capitis deminutio eingetreten?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

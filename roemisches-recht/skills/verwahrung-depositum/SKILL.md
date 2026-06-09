@@ -5,73 +5,28 @@ description: "Römisches Recht: Verwahrung Depositum. Geführter Fachmodul mit Q
 
 # Verwahrung Depositum
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 13.6.5.2 (Ulpian)** — commodatum: utilitas des Entleihers → Haftung für custodia
+- **D. 13.6.18 pr. (Gaius)** — Verschlechterung durch vertragsgemäßen Gebrauch nicht zu vertreten
+- **D. 16.3.1.8 (Ulpian)** — depositum: Verwahrer haftet nur für dolus (und culpa lata)
+- **D. 16.3.31 (Tryphonin)** — depositum und bona fides — Rückgabe auch an den Dieb?
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Commodatum (Leihe) und depositum (Verwahrung) sind Realverträge, unentgeltlich, bonae fidei. Haftungsverteilung nach dem Utilitätsprinzip: Der Entleiher hat den Nutzen → er haftet streng (custodia, also auch für Diebstahl durch Dritte); der Verwahrer hat keinen Nutzen → er haftet nur für dolus und culpa lata. Verschuldensunabhängige Grenze beidseits: vis maior. Aufwendungsersatz über actio contraria.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB: Leihe §§ 598 ff. — § 599 BGB privilegiert den VERLEIHER (nur Vorsatz/grobe Fahrlässigkeit), während der Entleiher voll nach §§ 276, 280 BGB haftet; das Utilitätsprinzip wirkt also fort, aber als Privilegierung des Unentgeltlich-Leistenden. Verwahrung §§ 688 ff. mit § 690 BGB (eigenübliche Sorgfalt bei Unentgeltlichkeit) als depositum-Erbin.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Die custodia-Haftung des Entleihers nicht mit moderner Verschuldenshaftung verwechseln — sie war objektive Einstandspflicht für Diebstahl (nicht für vis maior). Und: § 599 BGB begrenzt die Haftung des Verleihers, NICHT des Entleihers.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 16.3.1 (Ulpian)**: "Depositum est, quod custodiendum alicui datum est" — Verwahrung zur Aufbewahrung.
-- **D. 16.3**: Allgemein.
-
-### Tatbestand
-- Unentgeltlich.
-- Ueberlassung zur sicheren Aufbewahrung.
-- Eigentum und Besitzwillen beim Hinterleger.
-
-### Haftung
-- Nur Vorsatz (dolus) — sehr milde Haftung (D. 16.3.1.1).
-- Bei Mangel an Sorgfalt: keine Haftung (anders als commodatum).
-- Sondertypus depositum miserabile (Notverwahrung): doppelte Haftung des Verwahrers.
-
-### Subsumtionsbeispiel: Geld waehrend Feuersbrunst zur Aufbewahrung gegeben
-Sachverhalt: A gibt sein Geld waehrend eines Brandes bei B in Verwahrung; B unterschlaegt es.
-- **Roemisch**: Depositum miserabile (D. 16.3.1.1) — doppelte Haftung; B haftet auf das Doppelte des Wertes.
-- **BGB**: §§ 688-700 BGB Verwahrung; § 695 BGB Rueckgabepflicht.
-
-### Receptum nautarum cauponum stabulariorum
-- D. 4.9 — Sondervorschrift: Reeder, Gastwirte, Stallbetreiber haften strenger für eingebrachte Sachen (custodia-Haftung).
-- Modern: §§ 701-704 BGB Gastwirtshaftung.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

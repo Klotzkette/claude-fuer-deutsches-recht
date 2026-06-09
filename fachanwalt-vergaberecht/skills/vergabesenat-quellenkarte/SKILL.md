@@ -5,35 +5,45 @@ description: "Vergabesenat Quellenkarte: Quellenprüfung; Normenstand, Rechtspre
 
 # Vergabesenat Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Fachanwalt Vergaberecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Fachanwalt Vergaberecht** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `bieterstrategie-go-eforms-ted-eignung-referenzen-erstgespraech`
-- `fachanwalt-vergaberecht-aufklaerung-nachforderung-ruege-zuschlag`
-- `fachanwalt-vergaberecht-facto-eignungspruefung-freiberufliche`
-- `fachanwalt-vergaberecht-olg-orientierung-ruegeschriftsatz-gwb`
-- `it-sicherheits-konzessionsvergabe-konzvgv-losbildung`
-- `konzvgv-rahmenvereinbarung-international-schnittstelle-sektvo`
-- `mandantenpadlet-vergabe-triage-vergaberecht-nachhaltigkeit`
-- `olg-vergabesenat-resilienz-sicherheit-ruegeschriftsatz-erstellen`
-- `rahmenvereinbarung-abrufe-angebotsoeffnung-formfehler`
-- `schwellenwerte-livecheck-architektenrecht-fachanwalt-konzession`
-- `ungewoehnlich-niedriges-unterschwellen-rechtsschutz-verg`
-- `uvgo-unterschwellenvergabe-vergabesperre-korruption-vk`
+- **GWB §§ 97 ff.** — amtlichen Stand vor tragender Aussage prüfen
+- **VgV** — amtlichen Stand vor tragender Aussage prüfen
+- **VOB/A, VOL/A, UVgO** — amtlichen Stand vor tragender Aussage prüfen
+- **SektVO** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Vergabekammer Bund/Länder
+- OLG Vergabesenat
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- Vergabekammern-Entscheidungen (Bund: bundeskartellamt.de)
+- OLG-Vergabesenate
+- TED (EU-Ausschreibungen)
+
+## Fristen mit Quellenrelevanz
+
+- § 160 III GWB Rüge unverzüglich (10 Tage)
+- Nachprüfungsantrag 15 Tage
+- Sofortige Beschwerde 2 Wochen
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

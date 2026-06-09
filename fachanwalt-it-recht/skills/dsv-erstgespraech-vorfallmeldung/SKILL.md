@@ -1,6 +1,6 @@
 ---
 name: dsv-erstgespraech-vorfallmeldung
-description: "Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung: Behan..."
+description: "Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung: Behan — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv erstgespraech vorfallmeldung."
 ---
 
 # Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung

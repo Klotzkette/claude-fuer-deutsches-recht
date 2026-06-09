@@ -1,6 +1,6 @@
 ---
 name: schulung-legistik
-description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing..."
+description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt schulung legistik."
 ---
 
 # Trainerleitfaden Schulung Legistik

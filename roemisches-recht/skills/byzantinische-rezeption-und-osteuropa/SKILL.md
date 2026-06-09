@@ -5,33 +5,28 @@ description: "Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprä
 
 # Byzantinische Rezeption und Osteuropa
 
-## Startfragen
+## Quellenanker
 
-1. Welcher Raum steht im Vordergrund: Balkan, Griechenland, slawische Rechtskulturen, kirchliche Rechtssammlungen oder allgemeine Rezeptionsgeschichte?
-2. Geht es um Privatrecht, Kirchenrecht, Herrschaftsordnung, Verwaltungsrecht oder Quellenübertragung?
-3. Soll eine historische Linie oder ein moderner rechtsvergleichender Hinweis entstehen?
+- **Accursius, Glossa ordinaria (ca. 1230)** — Standardglosse: quicquid non agnoscit glossa, non agnoscit curia
+- **Bartolus de Saxoferrato (1313-1357)** — Kommentatoren: nemo iurista nisi Bartolista — Praxisanpassung des römischen Rechts
+- **Reichskammergerichtsordnung 1495** — Rezeption: Urteil 'nach des Reichs gemeinen Rechten'
+- **Windscheid, Pandektenrecht (1862 ff.)** — Pandektistik: Anspruchsbegriff, Rechtsgeschäftslehre — direkte BGB-Vorlage
 
-## Prüfroutine
+## Kernregeln
 
-1. **Rezeptionskanal bestimmen:** Übersetzung, kirchliche Vermittlung, Verwaltung, Gerichtspraxis, Gelehrtenrecht.
-2. **Quellenschicht prüfen:** Justinian, Basiliken, Nomokanones, lokale Kompilationen oder spätere nationale Kodifikation.
-3. **Institutionen verfolgen:** Ehe, Erbe, Eigentum, Verpflichtung, Prozess, kirchliche Zuständigkeit.
-4. **Politischen Kontext markieren:** Reich, Kirche, lokale Herrschaft, Nationenbildung.
-5. **Moderne Vorsicht:** keine lineare Abstammung behaupten, wenn nur kulturelle oder punktuelle Einflüsse erkennbar sind.
+Wirkungsgeschichte in Stufen: Glossatoren (Bologna, ab ca. 1100) erschließen den wiederentdeckten Digestentext philologisch (Glossen, Summen); Kommentatoren (Bartolus, Baldus) machen ihn praxistauglich (Statutentheorie als IPR-Geburt, Handelsrecht); mos italicus (praktisch) vs. mos gallicus (humanistisch-historisch, Cujas) markieren den Methodenstreit des 16. Jh.; usus modernus pandectarum wendet selektiv an ('heutiger Gebrauch'); Pandektenwissenschaft des 19. Jh. (Savigny, Puchta, Windscheid) baut das Begriffssystem, das 1900 BGB wird. Kanonisches Recht steuert bei: pacta sunt servanda, Zinsverbot-Diskussion, Prozessrecht.
 
-## Historische Quellenanker
+## Moderne Parallele
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Das BGB ist geronnene Pandektistik: Rechtsgeschäft, Willenserklärung, Anspruch (§ 194), Trennungs- und Abstraktionsprinzip sind Wissenschaftsschöpfungen des 19. Jh. auf römischem Material. Wer BGB-AT versteht, liest Windscheid; wer Windscheid prüft, braucht die Digesten.
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Typische Fehler
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Rezeption nicht als 'Import 1495' datieren — sie war ein Jahrhunderte langer Prozess (Frühreseption über kirchliche Gerichte, Juristenausbildung). Und: 'römisch' im usus modernus heißt oft 'bartolistisch gefiltert', nicht klassisch.
+
+## Arbeitsweise
+
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

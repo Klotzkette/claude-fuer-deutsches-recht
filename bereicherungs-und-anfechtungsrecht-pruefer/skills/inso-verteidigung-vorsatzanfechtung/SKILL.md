@@ -1,6 +1,6 @@
 ---
 name: inso-verteidigung-vorsatzanfechtung
-description: "Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatr..."
+description: "Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatr — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt inso verteidigung vorsatzanfechtung."
 ---
 
 # Verteidigung des Anfechtungsgegners — §§ 129 ff. InsO

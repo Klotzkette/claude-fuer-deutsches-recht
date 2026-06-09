@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-mv
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv meldung lfdi mv."
 ---
 
 # Reicht eine Meldung nach Art

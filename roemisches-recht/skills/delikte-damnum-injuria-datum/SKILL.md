@@ -5,61 +5,30 @@ description: "Römisches Recht: Delikte Damnum Injuria Datum. Geführter Fachmod
 
 # Delikte Damnum Injuria Datum
 
-## Sofortsortierung
+## Quellenanker
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius, Institutiones 3.183-208** — furtum: manifestum/nec manifestum; contrectatio fraudulosa
+- **D. 47.2.1.3 (Paulus)** — furtum est contrectatio rei fraudulosa lucri faciendi gratia
+- **D. 9.2.2 pr. (Gaius)** — lex Aquilia Kap. 1: Tötung von Sklaven und vierfüßigen Herdentieren — Höchstwert des letzten Jahres
+- **D. 9.2.27.5 (Ulpian)** — Kap. 3: urere frangere rumpere → corrumpere; Wert der letzten 30 Tage
+- **D. 47.10.1 (Ulpian)** — iniuria: Persönlichkeitsverletzung von Realinjurie bis Ehrverletzung
+- **Gaius, Institutiones 4.75-79** — Noxalhaftung: Gewalthaber liefert aus oder zahlt
 
-## Fachlicher Zugriff
+## Kernregeln
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Römisches Deliktsrecht ist Pönalrecht: Die actio furti geht auf das Doppelte (nec manifestum) oder Vierfache (manifestum) — daneben kondiziert der Bestohlene die Sache (condictio furtiva). Die lex Aquilia gibt bei Sachbeschädigung den Höchstwert (Jahr/30 Tage) — Litiskreszenz aufs Doppelte bei Leugnen; Voraussetzungen: iniuria (Rechtswidrigkeit), später culpa-Erfordernis (culpa levissima genügt: in lege Aquilia et levissima culpa venit, D. 9.2.44 pr.). Iniuria schützt die Persönlichkeit umfassend mit aestimatorischer Buße. Deliktsklagen sind passiv unvererblich, kumulieren bei Tätermehrheit und unterliegen der Noxalhaftung bei Gewaltunterworfenen.
 
-## Prüfroutine
+## Moderne Parallele
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+BGB § 823 I ist die entpönalisierte Aquilia-Erbin (nur Kompensation, keine Buße); das allgemeine Persönlichkeitsrecht (§ 823 I BGB i.V.m. Art. 1, 2 GG) leistet, was die iniuria leistete. Furtum spaltet sich heute in Strafrecht (§ 242 StGB) und zivilrechtliche §§ 823 II, 992 BGB. Geldentschädigung bei Persönlichkeitsverletzung ist funktional die alte iniuria-Buße.
 
-## Typische Ausgabe
+## Typische Fehler
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+Aquilische Klage nicht als reine Schadensersatzklage lesen — der Höchstwert-Rückblick und die Litiskreszenz sind Pönalelemente. Und: damnum iniuria datum verlangt unmittelbare Körpereinwirkung (corpore corpori) — mittelbare Schäden liefen über actiones utiles/in factum.
 
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+## Arbeitsweise
 
-### Schluesselstellen
-- **Lex Aquilia (286 v. Chr.; Datum vor Zitat verifizieren)**: Grundlage des roemischen Schadensersatzrechts.
-- **D. 9.2**: Ad legem Aquiliam.
-
-### Lex Aquilia Kapitel 1 und 3
-- **Kapitel 1**: Toetung eines fremden Sklaven oder vierfuessigen Herdentiers; Haftung auf hoechsten Wert im letzten Jahr.
-- **Kapitel 3**: Sonstige Sachschaedigungen (urere frangere rumpere — "Brennen, Brechen, Zerreissen"); Haftung auf hoechsten Wert im letzten Monat.
-
-### Subjektives Element
-- Vorsatz (dolus) oder Fahrlaessigkeit (culpa) erforderlich.
-- D. 9.2.5.1 — Verschuldensprinzip etabliert.
-- D. 9.2.31 (Paulus) — sehr ausdifferenzierte culpa-Lehre.
-
-### Subsumtionsbeispiel: Pferd erschossen beim Jagen
-Sachverhalt: A schiesst beim Wildschwein-Jagen; verfehlt; Kugel trifft Pferd des B.
-- **Roemisch**: Lex Aquilia Kapitel 1 (Tier); culpa-Haftung; Frage ob noch im Beschossenen Wildbahnbereich; Schaden auf hoechsten Pferdewert im letzten Jahr.
-- **ALR I 6 § 8**: Generalklausel für Fahrlaessigkeit; Pferdewert ersetzen.
-- **BGB**: § 823 Abs. 1 BGB Eigentumsverletzung; § 249 BGB Naturalherstellung oder Schadensersatz.
-
-### Subsumtionsbeispiel: Schiff im Hafen rammt Boote
-Sachverhalt: Schiffer schiebt sein Schiff in den Hafen; rammt andere Boote.
-- **Roemisch**: Lex Aquilia Kapitel 3; culpa-Pruefung; volle Wertersatz.
-- **BGB**: § 823 Abs. 1 BGB; ggf. § 833 BGB nicht anwendbar (kein Tier); volle Wertersatzpflicht.
-
-### Bedeutung für modernes Recht
-- Lex Aquilia ist die Wurzel des deutschen Deliktsrechts.
-- BGB § 823 Abs. 1 ist im Kern lex-Aquilia-Modell.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

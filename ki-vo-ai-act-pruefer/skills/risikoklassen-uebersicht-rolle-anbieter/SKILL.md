@@ -1,6 +1,6 @@
 ---
 name: risikoklassen-uebersicht-rolle-anbieter
-description: "Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art. 6 Abs. 2 und Anhang III. Prueft verboten, Hochrisiko nach Art. 6 Abs. 1/2, Rueckausnahme Art. 6 Abs. 3, begrenztes Risiko Art. 50, GPAI und minimales Risiko. Behandelt allgemeine Chatbots/GPAI: nicht automatisch Hochrisiko, sondern zweck..."
+description: "Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art. 6 Abs. 2 und Anhang III. Prueft verboten, Hochrisiko nach Art. 6 Abs. 1/2, Rueckausnahme Art. 6 Abs. 3, begrenztes Risiko Art. 50, GPAI und minimales Risiko. Behandelt allgemeine Chatbots/GPAI: nicht automatisch Hochrisiko, sondern zweck — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt risikoklassen uebersicht rolle anbieter."
 ---
 
 # Risikoklassen-Übersicht und Triage — KI-VO

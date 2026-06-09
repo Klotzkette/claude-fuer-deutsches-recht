@@ -5,23 +5,60 @@ description: "Immobiliendarlehen Fehlerkatalog: Fehlerbremse; prüft Fristen, Zu
 
 # Immobiliendarlehen Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Fachanwalt Bank Kapitalmarktrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Bank- und Kapitalmarktrecht** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `einstieg-schnelltriage-fallrouting`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlageberatung-fehlerhaft-cybertrading-anlagebetrug`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bankrecht-buergschaft-aval-garantieabruf-eilrechtsschutz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bankrecht-privatbuergschaft-bankrecht-regress-bk-aufsicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `beratungshaftung-zahlen-schwellen-und-berechnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bk-bankenfehlberatung-bk-einfuehrung-bk-mandantenrouting`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bk-mifid-suitability-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `fehlerhaft-fristennotiz-kapitalmarktrecht-bk-emissionsprospekt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Widerrufsfrist Verbraucherdarlehen 14 Tage § 355 BGB)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (MiFID II-Reports)
+
+- **Symptom:** Parallelfrist vergessen (MiFID II-Reports)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: BaFin)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: BaFin)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Beratungsprotokoll)
+
+- **Symptom:** Beweismittel nicht gesichert (Beratungsprotokoll)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Darlehensvertrag)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Darlehensvertrag)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (BGB §§ 488, 491-505)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGB §§ 488, 491-505)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

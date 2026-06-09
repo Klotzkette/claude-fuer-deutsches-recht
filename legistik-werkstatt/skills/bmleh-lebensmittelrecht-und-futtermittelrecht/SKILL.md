@@ -1,6 +1,6 @@
 ---
 name: bmleh-lebensmittelrecht-und-futtermittelrecht
-description: "Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-V..."
+description: "Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Länder-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-V — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmleh lebensmittelrecht und futtermittelrecht."
 ---
 
 # Lebensmittel- und Futtermittelrecht (BMLEH)

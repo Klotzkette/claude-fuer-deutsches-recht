@@ -5,62 +5,29 @@ description: "Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht.
 
 # Rom 122 Seehandel Lex Rhodia De Iactu
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 14.2 (Justinianische Digesten, Buch 14, Titel 2 — De lege Rhodia de iactu).
-- Insbesondere D. 14.2.1 (Paulus), D. 14.2.2 (Iulianus), D. 14.2.4 (Callistratus).
-- Stammt aus der griechisch-hellenistischen Praxis der Insel Rhodos.
+- **D. 14.2.1 (Paulus)** — lex Rhodia de iactu: Seewurf wird anteilig von allen getragen
+- **D. 14.2.2 pr. (Paulus)** — Abwicklung über die Frachtvertragsklagen (locatio conductio), nicht direkt
+- **D. 4.9.1 pr. (Ulpian)** — receptum nautarum cauponum stabulariorum: Erfolgshaftung für eingebrachte Sachen
+- **D. 4.9.3.1** — Haftungsgrenze: vis maior (Schiffbruch, Piraten) befreit
+- **D. 14.1.1 (Ulpian)** — actio exercitoria: Reeder haftet voll für Geschäfte des magister navis
 
-## Tatbestand
+## Kernregeln
 
-- Seenot.
-- Werfen (iactus) eines Teils der Ladung ueber Bord zur Rettung des Restes (Schiff plus restliche Ladung).
-- Entscheidung des magister navis (Schiffskapitaen) ist verbindlich.
+Das römische Seehandelsrecht rezipiert griechische Praxis: Die lex Rhodia verteilt Seewurf-Schäden (iactus) anteilig auf Ladung und Schiff — abgewickelt elegant über die Frachtvertragsklagen (Ladungseigentümer → actio locati gegen den Kapitän; dieser → actio conducti gegen die übrigen Befrachter). Das receptum nautarum macht Schiffer, Wirte und Stallhalter verschuldensunabhängig für eingebrachte Sachen haftbar (Misstrauen gegen das Gewerbe!), Grenze: vis maior. Die actio exercitoria lässt den Reeder (exercitor) unbeschränkt für Verträge seines Kapitäns haften — Verkehrsschutz im Überseegeschäft.
 
-## Rechtsfolge
+## Moderne Parallele
 
-- Geschaedigter Befrachter erhaelt anteiligen Ausgleich von allen geretteten Beteiligten:
- - Reeder (für das Schiff).
- - Andere Befrachter (für ihre geretteten Sachen).
-- Quote bemisst sich nach Wert der geretteten Sachen.
+Lex Rhodia lebt fort als Große Haverei (§§ 588 ff. HGB, York-Antwerp Rules); receptum als Gastwirtshaftung §§ 701 ff. BGB (verschuldensunabhängig bis heute!) und in der Obhutshaftung des Frachtführers § 425 HGB; exercitoria in §§ 477 ff. HGB (Ausrüsterhaftung) und der Rechtsscheinvollmacht.
 
-## Verfahrensgang
+## Typische Fehler
 
-- Aktiv: actio locati gegen Reeder; Reeder erhebt actio conducti gegen die uebrigen Befrachter.
-- Beweisfuehrung: Schiffslogbuch (Tabula), Zeugen, Schiffspriester.
+Rom kannte KEINE Versicherung — Risikoverteilung lief über fenus nauticum, lex Rhodia und Haftungsregeln. 'Römische Seeversicherung' ist ein Anachronismus; die Police entsteht im italienischen Spätmittelalter.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-### Grosse Havarie HGB
-- §§ 588-617 HGB (Stand vor Seehandelsreform 2013): geregelt im 7. Abschnitt Grosse Havarie.
-- Nach Reform 2013 ueber Verweisungstechnik auf York-Antwerp Rules.
-
-### York-Antwerp Rules
-- Internationale Privatcodifizierung der Havarie-Grosse-Regeln.
-- York Antwerp Rules 1994, ueberarbeitet 2004, 2016.
-- Lloyd's Open Form.
-
-## Pruefraster
-
-1. Seenot und iactus-Tatbestand?
-2. Entscheidung des magister navis?
-3. Wertberechnung der geretteten Sachen?
-4. Quote pro rata?
-5. Beweismittel?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

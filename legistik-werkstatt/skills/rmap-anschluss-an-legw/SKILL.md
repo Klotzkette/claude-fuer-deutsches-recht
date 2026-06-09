@@ -1,6 +1,6 @@
 ---
 name: rmap-anschluss-an-legw
-description: "Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrigen Legistik-Werkstatt (Auftragsaufnahme; Ressort-Router; Heranfuehrung; Ressortaufgaben; Sachfeld-Spezialfelder; normhierarchie-routing; verfassungsmaessigkeit-quercheck; europarechtskonformitaet; folgenabschaetzung). Output Ketten..."
+description: "Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrigen Legistik-Werkstatt (Auftragsaufnahme; Ressort-Router; Heranfuehrung; Ressortaufgaben; Sachfeld-Spezialfelder; normhierarchie-routing; verfassungsmaessigkeit-quercheck; europarechtskonformitaet; folgenabschaetzung). Output Ketten — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt rmap anschluss an legw."
 ---
 
 # Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt

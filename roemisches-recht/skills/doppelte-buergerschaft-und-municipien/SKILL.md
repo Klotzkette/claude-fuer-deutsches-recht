@@ -5,50 +5,28 @@ description: "Doppelte Buergerschaft und Municipien. Skill behandelt die roemisc
 
 # Rom 157 Doppelte Buergerschaft Und Municipien
 
-## Municipes
+## Quellenanker
 
-- Buerger einer municipium (selbstverwaltete Stadt mit roemischem Buergerrecht).
-- Doppelte Buergerschaft: Stadt und Rom.
-- Origo (Geburtsstadt) und domicilium (Wohnsitz) wurden unterschieden.
+- **Gaius, Institutiones 1.9-1.17** — Statusabstufungen: cives, Latini, peregrini
+- **D. 1.5.17 (Ulpian)** — in orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt
+- **Cassius Dio 78.9** — Constitutio Antoniniana 212 n. Chr. — fiskalische Motive der Bürgerrechtsverleihung
+- **lex Irnitana (Flavisches Stadtgesetz)** — Munizipalverfassung: ius Latii, Bürgerrechtserwerb durch Ämter
 
-## Rechtsfolgen
+## Kernregeln
 
-- Munera (Gemeindelasten) der Heimatstadt.
-- Roemisches ius civile in privaten Rechtsstreitigkeiten.
-- Stadtrecht (ius municipale) galt subsidiaer.
+Das römische Bürgerrecht bündelt ius suffragii (Stimmrecht), ius honorum (Ämterfähigkeit), conubium (Ehefähigkeit nach ius civile) und commercium (Teilnahme an mancipatio, Testament). Latiner haben commercium, meist kein conubium; peregrini leben nach ius gentium und ihrem Heimatrecht. Die Constitutio Antoniniana (212) verlieh fast allen Reichsbewohnern das Bürgerrecht — Folge: ius civile wurde Reichsrecht, Provinzialpraxis und klassisches Recht verschmolzen (Vulgarisierung).
 
-## Lex Iulia municipalis (45 v. Chr.)
+## Moderne Parallele
 
-- Reorganisation der Municipalverwaltung.
-- Einheitliches Verwaltungsschema.
+Moderne Parallelen: gestuftes Aufenthalts-/Staatsangehörigkeitsrecht (StAG), Unionsbürgerschaft Art. 20 AEUV als 'commercium und Freizügigkeit ohne volle politische Rechte' auf Bundesstaatsebene gedacht.
 
-## Edictum perpetuum
+## Typische Fehler
 
-- Vereinheitlichung der praetorischen Edikte (zugeschrieben Hadrian 130-138 n. Chr.).
+Die Constitutio Antoniniana nicht als humanitären Akt lesen — Steuerpflicht (vicesima hereditatium) war Hauptmotiv. Nach 212 nicht weiter scharf zwischen cives und peregrini argumentieren, außer für dediticii.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- Doppelte Staatsangehoerigkeit: Erwerb nach § 4 StAG; Reform des Hinnahmeprinzips (Mehrstaatigkeit seit Aenderung des StAG 2024 in vielen Fallgruppen ueberlagert). § 25 StAG (Verlust kraft Erwerb fremder Staatsangehoerigkeit) ist mit Wirkung 27.06.2024 weggefallen — Mehrstaatigkeit jetzt generell hingenommen; stattdessen Sondernormen pruefen (§ 25 StAG a.F. nur für Altfaelle).
-
-## Pruefraster
-
-1. Origo und domicilium?
-2. Welche Pflichten?
-3. Welches Stadtrecht?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

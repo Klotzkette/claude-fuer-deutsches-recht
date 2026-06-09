@@ -1,6 +1,6 @@
 ---
 name: haendler-distributor-harmonisierte-normen
-description: "Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei kei..."
+description: "Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei kei — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt haendler distributor harmonisierte normen."
 ---
 
 # Händler-Pflichten (Distributor) — Art. 24 KI-VO

@@ -5,35 +5,45 @@ description: "Universitaetsstaedte Quellenkarte Check: Quellenprüfung; Normenst
 
 # Universitaetsstaedte Quellenkarte Check
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Mietrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Mietrecht (Wohnraum/Gewerbe)** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-workflow-chronologie-workflow-fristen`
-- `amtlichen-amtsgericht-sonderfall-ausschliesslich`
-- `bundesland-datenerhebung-grossstadt-mietspiegel`
-- `klageentwurf-amtsgericht-miet-gewerbemiete-mietvertrag-bauleiter`
-- `lage-ausstattung-mahnung-zahlungsverzug-mandat-triage`
-- `miet-kuendigungsschutz-miet-mietminderung-mieteranfragen`
-- `mieter-mieteranfragen-mandantenentscheidung-mieterhoehungs`
-- `mieterhoehung-widersprechen-mieterhoehungsverlangen-erstellen`
-- `mietpreisueberhoehung-wistrg-mietsenkungsverlangen-mietspiegel`
-- `mietrecht-mietsenkungsverlangen-international-mietspiegel`
-- `mr-betriebskostenabrechnung-mr-kuendigungsschutz-mr`
-- `mr-einfuehrung-klageentwurf-beweislast-eigenbedarfskuendigung`
+- **BGB §§ 535, 536, 543, 558, 573 ff.** — amtlichen Stand vor tragender Aussage prüfen
+- **WEG** — amtlichen Stand vor tragender Aussage prüfen
+- **BetrKV** — amtlichen Stand vor tragender Aussage prüfen
+- **HeizkostenV** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Amtsgericht Belegenheit
+- Mieterverein
+- Schiedsstelle
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- bundesgerichtshof.de (VIII. und V. Zivilsenat)
+- Mietspiegel-Portale der Kommunen
+
+## Fristen mit Quellenrelevanz
+
+- § 573c BGB Kündigung 3 Mon.
+- § 574 BGB Widerspruch 2 Mon. vor Beendigung
+- Mietminderung unverzüglich § 536c
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

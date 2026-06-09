@@ -1,6 +1,6 @@
 ---
 name: einfuehrer-importer-pflichten-art-23
-description: "Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU..."
+description: "Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt einfuehrer importer pflichten art 23."
 ---
 
 # Einführer-Pflichten (Importer) — Art. 23 KI-VO

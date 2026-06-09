@@ -5,60 +5,30 @@ description: "Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbscha
 
 # Rom 149 Fideicommissa Und Substitutionsformen
 
-## Fideicommissa
+## Quellenanker
 
-- Treuhaenderische letztwillige Verfuegung.
-- Erbe oder Legatar wird verpflichtet, einen Vermoegensvorteil an einen Dritten weiterzugeben.
-- Ursprung: Schutzinstrument für Personen, die nicht erbfaehig waren (z. B. peregrini, Frauen mit Velleianum-Problem).
+- **Gaius, Institutiones 2.101-108** — Testamentsformen: calatis comitiis, in procinctu, per aes et libram
+- **Gaius, Institutiones 2.224 ff.** — lex Falcidia: dem Erben bleibt das Viertel
+- **D. 5.2 (de inofficioso testamento)** — querela inofficiosi testamenti — Pflichtteilsschutz über das officium pietatis
+- **D. 28.2.11** — sui heredes: Hauserben erwerben ipso iure
+- **D. 29.7 / D. 30-32** — Kodizille und Legate; Fideikommisse als formfreie Zuwendungen
+- **Gaius, Institutiones 3.1-38** — Intestaterbfolge: sui — proximi agnati — gentiles; prätorische bonorum possessio unde liberi/unde cognati
 
-## Senatusconsultum Trebellianum (56 n. Chr.)
+## Kernregeln
 
-- Fideikommissar erhielt eigene Klage gegen den Fideikommittenten.
-- Verwandelt fideicommissum in echte Erbschaft.
+Das römische Erbrecht ruht auf der Universalsukzession: heres tritt in alle Rechte und Pflichten (auch Schulden — daher beneficium abstinendi für sui, später beneficium inventarii Justinians). Testamentsformen entwickeln sich von den Komitialformen zum Manzipationstestament (per aes et libram) und zum prätorischen Testament (tabulae septem signis signatae). Pflichtteilsschutz dreifach: formelle Enterbungsregeln (sui sind zu erwähnen oder ausdrücklich zu enterben), querela inofficiosi testamenti (materiell: pars quarta der Intestatquote), lex Falcidia (Erbenviertel gegen Legatsüberlastung). Fideikommisse — formlose Bitten an den Erben — werden ab Augustus klagbar (extra ordinem) und zum flexibelsten Nachlassinstrument (Familienfideikommiss, Universalfideikommiss mit SC Trebellianum).
 
-## Senatusconsultum Pegasianum (75 n. Chr.)
+## Moderne Parallele
 
-- Quarta Falcidia: Treuhaender (Erbe) durfte 1/4 der Erbschaft für sich behalten.
+BGB: Universalsukzession § 1922, Pflichtteil §§ 2303 ff. (Geldanspruch statt Erbenstellung — Abkehr von der querela-Logik), Vor-/Nacherbschaft §§ 2100 ff. als gezähmte Fideikommiss-Erbin (Familienfideikommisse 1919 abgeschafft), Vermächtnis §§ 2147 ff. als Damnationslegat-Nachfahre (nur obligatorisch — das Vindikationslegat ist mit der EU-ErbVO-Diskussion zurück im Gespräch).
 
-## Substitutio vulgaris
+## Typische Fehler
 
-- Ersatzeinsetzung für den Fall, dass der eingesetzte Erbe nicht erbt.
-- Reihenfolge.
+Querela nicht als 'Pflichtteilsklage' im BGB-Sinn beschreiben — sie kassierte das GANZE Testament (color insaniae). Und: Legatstypen (per vindicationem/per damnationem) nicht vermengen; nur ersteres gab dinglichen Erwerb.
 
-## Substitutio pupillaris
+## Arbeitsweise
 
-- Ersatzeinsetzung für den Fall, dass das Hauskind (impubes) vor Volljaehrigkeit stirbt.
-
-## Justinian
-
-- Lockerung der Form-Strenge.
-- Fideicommissum universale faellt mit testamentary trust zusammen.
-
-## Vergleich zu modernem Recht
-
-- § 2100 ff. BGB Vor- und Nacherbe.
-- § 2096 BGB Ersatzerbe.
-- Trust im Common Law als funktionales Aequivalent.
-
-## Pruefraster
-
-1. Fideicommissum oder Substitution?
-2. Quarta Falcidia einschlaegig?
-3. Trebellianum-Wirkung?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

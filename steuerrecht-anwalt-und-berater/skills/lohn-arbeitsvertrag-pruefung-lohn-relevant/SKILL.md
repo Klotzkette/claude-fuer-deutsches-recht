@@ -1,6 +1,6 @@
 ---
 name: lohn-arbeitsvertrag-pruefung-lohn-relevant
-description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz E..."
+description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz E — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt lohn arbeitsvertrag pruefung lohn relevant."
 ---
 
 # Arbeitsvertrag aus lohnrelevanter Sicht pruefen

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-forsch-konzernverbund
-description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse,..."
+description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, — Arbeitskontext: Forschungszulage FZulG, Schwerpunkt insolvenz forsch konzernverbund."
 ---
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel

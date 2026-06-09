@@ -5,55 +5,27 @@ description: "Actio institoria: Klage gegen den Geschaeftsherrn (dominus) für V
 
 # Rom 125 Actio Institoria Prokuristenhaftung
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 14.3 (De institoria actione).
-- Insbesondere D. 14.3.1 (Ulpian), D. 14.3.5 (Ulpian).
-- Praetorisches Edikt.
+- **D. 14.3.1 (Ulpian)** — actio institoria: Geschäftsherr haftet voll für Verträge des Ladenleiters (institor)
+- **D. 14.3.5.11** — Begrenzung durch praepositio: nur Geschäfte im Rahmen der Anstellung
+- **D. 14.3.11.2** — öffentlicher Aushang (proscriptio) kann Haftung begrenzen
 
-## Tatbestand
+## Kernregeln
 
-- Institor: vom dominus eingesetzter Verwalter eines Handelsgeschaefts (taberna, officina).
-- Vertraege des institor verpflichten den dominus unmittelbar.
+Die actio institoria lässt den Prinzipal unbeschränkt für Verträge haften, die sein institor (Laden-/Betriebsleiter, oft Sklave oder Haussohn) im Rahmen der praepositio (Anstellung für einen Geschäftskreis) schließt. Die praepositio wirkt wie eine kundgemachte Vollmacht: Was der institor innerhalb des Aufgabenkreises vereinbart, bindet den Geschäftsherrn; Beschränkungen wirken nur bei deutlicher proscriptio am Geschäftslokal. Rom erreicht so Stellvertretungswirkung ohne Stellvertretungsdogmatik — über die Haftungszurechnung im Handelsverkehr.
 
-## Sonderfaelle
+## Moderne Parallele
 
-- Institor als Sklave: dominus haftet aus actio institoria voll.
-- Institor als Hausunterworfener (filius familias): pater familias haftet.
-- Institor als Freier: dominus haftet, aber actio institoria nur, soweit Vertrag im Rahmen des Geschaeftsbereichs.
+Direkter Vorläufer der handelsrechtlichen Vollmachten: Prokura §§ 48 ff. HGB (unbeschränkbar im Außenverhältnis — wie die praepositio!), Handlungsvollmacht § 54 HGB, Ladenvollmacht § 56 HGB. Die Rechtsscheinlogik (Kundmachung bindet) ist identisch.
 
-## Vergleich zu modernem Recht
+## Typische Fehler
 
-- § 49 HGB Prokura.
-- § 54 HGB Handlungsvollmacht.
-- §§ 164 ff. BGB Stellvertretung.
+Die institoria nicht als 'Stellvertretung' bezeichnen — der institor verpflichtete sich (wenn frei) auch selbst; der Verkehr bekam einen ZUSÄTZLICHEN Schuldner, keinen ersetzten.
 
-## Pruefraster
+## Arbeitsweise
 
-1. Institor bestellt?
-2. Geschaeftsbereich abgegrenzt?
-3. Vertrag im Rahmen?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Powersprint-Vertiefung
-
-- **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
-- **Actio-Denken:** Prüfe bei `Rom 125 Actio Institoria Prokuristenhaftung` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
-- **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
-- **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

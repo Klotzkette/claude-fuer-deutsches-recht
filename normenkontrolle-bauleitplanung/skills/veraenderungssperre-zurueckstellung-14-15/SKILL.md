@@ -1,6 +1,6 @@
 ---
 name: veraenderungssperre-zurueckstellung-14-15
-description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung §..."
+description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § — Arbeitskontext: Normenkontrolle Bauleitplanung, Schwerpunkt veraenderungssperre zurueckstellung 14 15."
 ---
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB

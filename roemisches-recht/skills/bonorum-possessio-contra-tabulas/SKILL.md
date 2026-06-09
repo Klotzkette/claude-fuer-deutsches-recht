@@ -5,62 +5,30 @@ description: "Bonorum possessio contra tabulas: Vermoegensbesitzbestaetigung des
 
 # Rom 146 Bonorum Possessio Contra Tabulas
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 37.4 (De bonorum possessione contra tabulas).
-- Praetorisches Edikt.
+- **Gaius, Institutiones 2.101-108** — Testamentsformen: calatis comitiis, in procinctu, per aes et libram
+- **Gaius, Institutiones 2.224 ff.** — lex Falcidia: dem Erben bleibt das Viertel
+- **D. 5.2 (de inofficioso testamento)** — querela inofficiosi testamenti — Pflichtteilsschutz über das officium pietatis
+- **D. 28.2.11** — sui heredes: Hauserben erwerben ipso iure
+- **D. 29.7 / D. 30-32** — Kodizille und Legate; Fideikommisse als formfreie Zuwendungen
+- **Gaius, Institutiones 3.1-38** — Intestaterbfolge: sui — proximi agnati — gentiles; prätorische bonorum possessio unde liberi/unde cognati
 
-## Tatbestand
+## Kernregeln
 
-- Testator hat sui heredes (Hauskinder) uebergangen, ohne sie zu enterben.
-- Praetor gewaehrt den Sui heredes die Vermoegensbesitzbestaetigung gegen das Testament.
+Das römische Erbrecht ruht auf der Universalsukzession: heres tritt in alle Rechte und Pflichten (auch Schulden — daher beneficium abstinendi für sui, später beneficium inventarii Justinians). Testamentsformen entwickeln sich von den Komitialformen zum Manzipationstestament (per aes et libram) und zum prätorischen Testament (tabulae septem signis signatae). Pflichtteilsschutz dreifach: formelle Enterbungsregeln (sui sind zu erwähnen oder ausdrücklich zu enterben), querela inofficiosi testamenti (materiell: pars quarta der Intestatquote), lex Falcidia (Erbenviertel gegen Legatsüberlastung). Fideikommisse — formlose Bitten an den Erben — werden ab Augustus klagbar (extra ordinem) und zum flexibelsten Nachlassinstrument (Familienfideikommiss, Universalfideikommiss mit SC Trebellianum).
 
-## Anforderungen
+## Moderne Parallele
 
-- Suus heres muss im Testament entweder eingesetzt oder ausdruecklich enterbt sein.
-- Stille Uebergehung loest contra tabulas-Anspruch aus.
+BGB: Universalsukzession § 1922, Pflichtteil §§ 2303 ff. (Geldanspruch statt Erbenstellung — Abkehr von der querela-Logik), Vor-/Nacherbschaft §§ 2100 ff. als gezähmte Fideikommiss-Erbin (Familienfideikommisse 1919 abgeschafft), Vermächtnis §§ 2147 ff. als Damnationslegat-Nachfahre (nur obligatorisch — das Vindikationslegat ist mit der EU-ErbVO-Diskussion zurück im Gespräch).
 
-## Wirkung
+## Typische Fehler
 
-- Testament wird ueberlagert.
-- Suus heres erhaelt Vermoegensbesitz.
+Querela nicht als 'Pflichtteilsklage' im BGB-Sinn beschreiben — sie kassierte das GANZE Testament (color insaniae). Und: Legatstypen (per vindicationem/per damnationem) nicht vermengen; nur ersteres gab dinglichen Erwerb.
 
-## Verhaeltnis zur querela inofficiosi
+## Arbeitsweise
 
-- BPCT: bei stiller Uebergehung sui heredes.
-- Querela: bei zu geringer Bedachtung naechster Verwandter.
-
-## Vergleich zu modernem Recht
-
-- § 2303 BGB Pflichtteil.
-- § 2306 BGB Beschraenkungen und Beschwerungen.
-
-## Pruefraster
-
-1. Suus heres uebergangen?
-2. Enterbung ausgesprochen?
-3. BPCT beantragt?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Powersprint-Vertiefung
-
-- **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
-- **Actio-Denken:** Prüfe bei `Rom 146 Bonorum Possessio Contra Tabulas` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
-- **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
-- **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

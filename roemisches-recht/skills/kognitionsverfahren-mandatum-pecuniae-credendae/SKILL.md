@@ -5,64 +5,29 @@ description: "Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab 
 
 # Das Kognitionsverfahren (cognitio extra ordinem)
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 4.11-29** — legis actiones: sakramentale Spruchformeln, Wortformalismus (qui vites dixisset...)
+- **Gaius, Institutiones 4.30-68** — Formularprozess: Klageformel mit intentio, condemnatio; exceptiones als Einredeklauseln
+- **Gaius, Institutiones 4.116-125** — exceptio doli, pacti, metus; replicatio, duplicatio
+- **D. 4.4 (de minoribus)** — in integrum restitutio ob aetatem: Prätor hebt Folgen nachteiliger Geschäfte Minderjähriger auf
+- **D. 1.2.2.10 (Pomponius)** — Edikt als ius honorarium: adiuvandi supplendi corrigendi iuris civilis gratia
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Drei Prozessepochen: (1) legis actiones — Wortformalismus, ein falsches Wort verliert den Prozess (Gaius' Weinstock-Beispiel); (2) Formularprozess — der Prätor gewährt typisierte Klageformeln (intentio: Anspruchsbehauptung; condemnatio: stets auf Geld!), Zweiteilung in iure / apud iudicem, exceptio als formelhafte Einrede (dolus, pactum, metus) macht das strenge ius civile billigkeitsfähig; (3) Kognitionsverfahren — kaiserliche Beamtenjustiz, Instanzenzug, Vollstreckung in Einzelstücke. Das prätorische Edikt ist Motor der Rechtsfortbildung: Es hilft, ergänzt und korrigiert das Zivilrecht (Pomponius) — mit Klagen, Einreden, missiones und in integrum restitutiones.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Das aktionenrechtliche Denken (kein 'Anspruch', sondern 'gibt es eine Klage?') prägt noch heute das Common Law (writ-System als Parallele); das BGB dreht mit § 194 BGB (Anspruchsbegriff, Windscheid) die Blickrichtung. Die exceptio lebt in §§ 214, 273, 320, 821, 853 BGB als 'Einrede' fort; die condemnatio pecuniaria erklärt, warum Rom keine Naturalvollstreckung von Speziesleistungen kannte — anders § 894 ZPO heute.
 
-## Worum es geht
+## Typische Fehler
 
-Die cognitio extra ordinem ist das kaiserliche/amtliche Gerichtsverfahren, das sich ab dem 2. Jh. n.Chr. neben dem Formularprozess entwickelt und diesen verdrängt. Es wird ohne Formel geführt; der Beamte (iudex/cognitio) urteilt amtlich. Justinian bestätigte das Kognitionsverfahren als einzige Prozessform. Appellationsrecht (appellatio) ist möglich. Nov. 82 enthält verfahrensrechtliche Einzelheiten.
+Nicht 'subjektive Rechte' in die Klassik projizieren — der römische Jurist fragt nach actio, exceptio, Formel. Windscheids Anspruchslehre ist die Übersetzung, nicht die Quelle.
 
-## Kernquellen
+## Arbeitsweise
 
-- **D. 4.4.1 (Ulpian)**: In integrum restitutio als cognitio-Beispiel
-- **D. 49.1.1 (Ulpian)**: Appellatio - Definition
-- **C. 7.62-70**: Appellationsrecht im Codex
-- **Nov. 82 (Justinian 539 n.Chr.)**: Verfahrensrecht
-- **D. 1.21.1 (Ulpian)**: Kaiserliche Gerichtsbarkeit
-- **D. 49.8.1 (Macer)**: Causae cognitio als amtliche Untersuchung
-
-## Schlüsselbegriffe
-
-- cognitio extra ordinem: amtliches Verfahren außerhalb des ordo iudiciorum
-- iudex: amtlicher Richter (kein Privatrichter)
-- appellatio: Berufung zum höheren Gericht
-- rescriptum principis: kaiserliches Reskript als Rechtsquelle
-- libellus conventionis: Klageschrift im Kognitionsverfahren
-- executio: amtliche Vollstreckung
-
-## Typische Streitfragen / Forschungsfragen
-
-1. Parallelbetrieb Kognitionsverfahren - Formularprozess im 2./3. Jh.
-2. Abschaffung des Formularprozesses: Wann genau?
-3. Appellationsrecht: neue Qualität der Rechtseinheit?
-4. Verhältnis kaiserliche Reskripte - Kognitionsverfahren
-5. Auswirkung auf Rechtsentwicklung: mehr kaiserliche Steuerung
-
-## Methodik
-
-- D. 49.1 (De appellationibus) und D. 4.4 als Beispieltitel
-- C. 7.62-70; Nov. 82
-- Kaser/Hackl Zivilprozessrecht §§ 80-105
-- Marotta Multa de iure sanxit - kaiserliche Rechtsgebung
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-fristennotiz-naechster-schritt
-description: "Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt rechtsquellen fristennotiz naechster schritt."
 ---
 
 # Rechtsquellen: Fristennotiz und nächster Schritt

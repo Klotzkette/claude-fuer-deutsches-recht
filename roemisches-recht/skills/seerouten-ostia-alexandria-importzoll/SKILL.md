@@ -5,56 +5,29 @@ description: "Roemische Seerouten und Importzollordnung. Skill behandelt die his
 
 # Rom 128 Seerouten Ostia Alexandria Und Importzoll
 
-## Hauptrouten
+## Quellenanker
 
-- Ostia (Tiber-Muendung) - Alexandria (Aegypten): Getreide, Papyrus.
-- Ostia - Karthago: Olivenoel.
-- Ostia - Hispania: Garum, Salz, Metalle.
-- Ostia - Indien: Pfeffer, Edelsteine, Seide (ueber das Rote Meer).
+- **D. 14.2.1 (Paulus)** — lex Rhodia de iactu: Seewurf wird anteilig von allen getragen
+- **D. 14.2.2 pr. (Paulus)** — Abwicklung über die Frachtvertragsklagen (locatio conductio), nicht direkt
+- **D. 4.9.1 pr. (Ulpian)** — receptum nautarum cauponum stabulariorum: Erfolgshaftung für eingebrachte Sachen
+- **D. 4.9.3.1** — Haftungsgrenze: vis maior (Schiffbruch, Piraten) befreit
+- **D. 14.1.1 (Ulpian)** — actio exercitoria: Reeder haftet voll für Geschäfte des magister navis
 
-## Portoria
+## Kernregeln
 
-- Zoll auf importierte und exportierte Gueter.
-- Hoehe: typischerweise 2,5 Prozent (XL = quadragesima Galliarum), zum Teil hoeher.
-- Indienhandel: 25 Prozent (vicesima quinta).
+Das römische Seehandelsrecht rezipiert griechische Praxis: Die lex Rhodia verteilt Seewurf-Schäden (iactus) anteilig auf Ladung und Schiff — abgewickelt elegant über die Frachtvertragsklagen (Ladungseigentümer → actio locati gegen den Kapitän; dieser → actio conducti gegen die übrigen Befrachter). Das receptum nautarum macht Schiffer, Wirte und Stallhalter verschuldensunabhängig für eingebrachte Sachen haftbar (Misstrauen gegen das Gewerbe!), Grenze: vis maior. Die actio exercitoria lässt den Reeder (exercitor) unbeschränkt für Verträge seines Kapitäns haften — Verkehrsschutz im Überseegeschäft.
 
-## Aufsicht
+## Moderne Parallele
 
-- Procuratores des Fiscus.
-- Conductores publicanorum (Steuerpaechter).
+Lex Rhodia lebt fort als Große Haverei (§§ 588 ff. HGB, York-Antwerp Rules); receptum als Gastwirtshaftung §§ 701 ff. BGB (verschuldensunabhängig bis heute!) und in der Obhutshaftung des Frachtführers § 425 HGB; exercitoria in §§ 477 ff. HGB (Ausrüsterhaftung) und der Rechtsscheinvollmacht.
 
-## Rechtspraxis
+## Typische Fehler
 
-- Importeur deklarierte Ware bei der Zollstelle.
-- Quittung (chirographum).
-- Bei Schmuggel: Konfiskation plus Strafzahlung.
+Rom kannte KEINE Versicherung — Risikoverteilung lief über fenus nauticum, lex Rhodia und Haftungsregeln. 'Römische Seeversicherung' ist ein Anachronismus; die Police entsteht im italienischen Spätmittelalter.
 
-## Quellen
+## Arbeitsweise
 
-- Plinius der Aeltere, Naturalis Historia.
-- Periplus Maris Erythraei (anonymes Werk ca. 1. Jh. n. Chr.).
-- D. 39.4 (De publicanis et vectigalibus et commissis).
-
-## Pruefraster
-
-1. Welche Route?
-2. Welche Ware?
-3. Welcher Zollsatz?
-4. Welche Deklaration?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

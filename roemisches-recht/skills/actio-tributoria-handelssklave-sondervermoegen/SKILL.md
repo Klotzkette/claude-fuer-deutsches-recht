@@ -5,60 +5,27 @@ description: "Actio tributoria: Klage gegen den dominus für Verbindlichkeiten a
 
 # Rom 132 Actio Tributoria Handelssklave Sondervermoegen
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 14.4.1 pr. (Ulpian)** — actio tributoria: Sondervermögen (merx peculiaris) wird quotal unter Gläubigern verteilt
+- **D. 14.4.5.19** — Gewaltherr konkurriert nur quotal — anders als bei der actio de peculio
+- **D. 14.4.7.1** — Verteilung durch den Gewalthaber selbst; bei dolus die tributoria
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Wirtschaftet ein Gewaltunterworfener mit Wissen des Herrn mit einer merx peculiaris (Handelsvermögen aus dem peculium), wird dieses bei Insolvenz quotal unter den Geschäftsgläubigern verteilt — und der Gewalthaber konkurriert mit eigenen Forderungen nur ANTEILIG (anders als bei der actio de peculio, wo er vorab abziehen darf). Die Verteilung nimmt der Herr selbst vor; verteilt er unredlich, gibt die actio tributoria den Gläubigern die Differenzklage. Funktional: ein Mini-Insolvenzverfahren über ein kaufmännisches Sondervermögen mit Gleichbehandlungsgrundsatz.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Strukturvorläufer der par condicio creditorum (§ 1 InsO, quotale Befriedigung) und der Spartrennung von Sondervermögen; die Schlechterstellung des Insiders (Herr nur quotal) klingt im Nachrang der Gesellschafterdarlehen § 39 I Nr. 5 InsO nach.
 
-## Rechtsquelle
+## Typische Fehler
 
-- D. 14.4 (De tributoria actione).
-- Praetorisches Edikt.
+Tributoria und de peculio nicht verwechseln: peculio = Haftung bis zur peculium-Höhe mit Vorabzug des Herrn; tributoria = quotale Verteilung der merx OHNE Herrenprivileg — der Gläubiger wählt die günstigere.
 
-## Tatbestand
+## Arbeitsweise
 
-- Sklave (servus) oder filius familias handelt mit Wissen und Duldung des dominus.
-- Sklave benutzt sein peculium (Sondervermoegen) für Handelsgeschaefte.
-- Glaeubiger des Sklaven verlangt anteilige Befriedigung aus dem peculium.
-
-## Rechtsfolge
-
-- Dominus muss den Glaeubiger anteilig aus dem peculium befriedigen.
-- Dominus selbst als Glaeubiger der eigenen Sklaven steht nicht besser; pari passu mit anderen.
-
-## Abgrenzung
-
-- Actio de peculio: Klage in Hoehe des Peculium-Werts ohne Quotenpflicht.
-- Actio tributoria: Quote bei mehreren Glaeubigern, mit Berechnung "in tributum".
-
-## Vergleich zu modernem Recht
-
-- Heute Trennung in juristische Person und Geschaeftsfuehrer.
-- Schaedigungshaftung im Konzern (Existenzvernichtungshaftung BGH II ZR 256/02).
-
-## Pruefraster
-
-1. Sklavenhandel mit peculium?
-2. Wissen des dominus?
-3. Welche Aktion?
-4. Quote berechnen.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

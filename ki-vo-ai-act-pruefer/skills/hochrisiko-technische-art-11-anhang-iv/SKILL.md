@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-technische-art-11-anhang-iv
-description: "Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokumentation enthalten und wie aktuell muss sie sein? Art. 11 i.V.m. Anhang IV KI-VO. Prüfraster: vollständiger Inhaltskatalog nach Anhang IV Systembeschreibung Entwicklungsprozess Datensaetze Leistungsmetriken Risikomanagement Konformitä..."
+description: "Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokumentation enthalten und wie aktuell muss sie sein? Art. 11 i.V.m. Anhang IV KI-VO. Prüfraster: vollständiger Inhaltskatalog nach Anhang IV Systembeschreibung Entwicklungsprozess Datensaetze Leistungsmetriken Risikomanagement Konformitä — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt hochrisiko technische art 11 anhang iv."
 ---
 
 # Technische Dokumentation — Art. 11 und Anhang IV KI-VO

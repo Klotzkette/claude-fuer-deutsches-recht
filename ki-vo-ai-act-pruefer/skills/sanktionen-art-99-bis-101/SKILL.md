@@ -1,6 +1,6 @@
 ---
 name: sanktionen-art-99-bis-101
-description: "Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bi..."
+description: "Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bi — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt sanktionen art 99 bis 101."
 ---
 
 # Sanktionen — Art. 99 bis 101 KI-VO

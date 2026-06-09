@@ -1,6 +1,6 @@
 ---
 name: eu-ebene-eu-richtlinien
-description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Ma..."
+description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Ma — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt eu ebene eu richtlinien."
 ---
 
 # NKR-EU-Ebene und Better Regulation

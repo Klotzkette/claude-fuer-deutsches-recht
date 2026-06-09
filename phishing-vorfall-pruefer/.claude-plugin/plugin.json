@@ -1,6 +1,6 @@
 {
   "name": "phishing-vorfall-pruefer",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.",
   "license": "Apache-2.0 OR MIT",
   "author": {

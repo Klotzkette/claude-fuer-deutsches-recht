@@ -1,6 +1,6 @@
 ---
 name: rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao
-description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten geb..."
+description: "Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten geb — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt rueckstellungen hgb rvg steuerstreit selbstanzeige ao."
 ---
 
 # Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG

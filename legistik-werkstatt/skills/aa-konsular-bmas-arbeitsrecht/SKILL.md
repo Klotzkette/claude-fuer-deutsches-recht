@@ -1,6 +1,6 @@
 ---
 name: aa-konsular-bmas-arbeitsrecht
-description: "Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kom..."
+description: "Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kom — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt aa konsular bmas arbeitsrecht."
 ---
 
 # Konsularrecht und Passrecht (AA)

@@ -5,23 +5,60 @@ description: "Fahrlaessigkeit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zust�
 
 # Fahrlaessigkeit Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Phishing Vorfall Prüfer** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Phishing-Vorfall-Prüfer** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `675u-675w-banking`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `arbeitnehmer-haftung-bgb-675u-phish-ceo`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `aufsicht-bafin-bank-strategie-banking-app`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bankpflichten-beweislast-beweislast-bgb`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bea-notfall-bgb-675v-erstkontakt-mandant`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `call-interessen-faelle-freistehender`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `grobe-online-phishing`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `klage-fristennotiz-vorfall-phish-banking`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `phish-incident-phish-meldepflichten-arten-erkennen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Art. 33 DSGVO 72h)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Art. 33 DSGVO 72h)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (NIS2 Frühwarnung 24h)
+
+- **Symptom:** Parallelfrist vergessen (NIS2 Frühwarnung 24h)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: BSI)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: BSI)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Mail-Forensik)
+
+- **Symptom:** Beweismittel nicht gesichert (Mail-Forensik)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Vorfallsbericht)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Vorfallsbericht)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (DSGVO Art. 33 Meldung)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (DSGVO Art. 33 Meldung)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

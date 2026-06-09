@@ -5,63 +5,29 @@ description: "Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fach
 
 # Römisches Recht - Allgemeiner Einstieg
 
-## Aktenstart statt Formularstart
+## Quellenanker
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Roemisches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+- **D. 1.1.1 pr. (Ulpian/Celsus)** — ius est ars boni et aequi
+- **D. 19.1.11.1 (Ulpian)** — bona fides im Kaufrecht: quidquid dare facere oportet ex fide bona
+- **D. 44.4.2.1 (Ulpian)** — exceptio doli generalis: dolo facit, qui petit quod redditurus est
+- **D. 50.17 (de diversis regulis iuris)** — 211 Rechtsregeln — Steinbruch der lateinischen Maximen
+- **D. 9.2.44 pr.** — in lege Aquilia et levissima culpa venit — Verschuldensstufen
 
-Starte dann mit einer knappen Rueckmeldung:
+## Kernregeln
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Die Wertbegriffe: bona fides macht Konsensualverträge flexibel (der iudex prüft, was Treu und Glauben fordern — Einfallstor für Nebenpflichten, Auslegung, Anpassung); aequitas korrigiert das strenge Recht (summum ius summa iniuria, Cicero); die exceptio doli generalis sanktioniert widersprüchliches und unredliches Prozessieren. Verschuldensstufen: dolus (Vorsatz, nie abdingbar — D. 50.17.23), culpa lata (grobe F., dem dolus gleichgestellt), culpa levis (abstrakt: bonus pater familias / konkret: quam in suis), custodia (objektive Obhutshaftung). Maximen aus D. 50.17 sind Argumentationstopoi — keine Normen.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+## Moderne Parallele
 
-## Historische Quellenanker
+§ 242 BGB ist die geronnene bona fides — die deutsche Generalklausel-Judikatur (Verwirkung, venire contra factum proprium, Geschäftsgrundlage vor § 313 BGB) ist exceptio-doli-Dogmatik unter neuem Namen. § 276 BGB staffelt Verschulden römisch; § 277 BGB ist diligentia quam in suis wörtlich.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+## Typische Fehler
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+Lateinische Maximen nie unbesehen als geltendes Recht zitieren — 'pacta sunt servanda' (kanonistisch), 'in dubio pro reo' (prozessual, spätere Zuspitzung) und Co. haben je eigene Geschichte. Immer Quelle + Kontext + heutige Geltungsgrundlage trennen.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## Arbeitsweise
 
-## Startfragen
-
-1. Was soll entstehen: Verständnis, Gutachten, Vertragsbaustein, Risiko-Dashboard, Unterrichtseinheit, Board-Memo oder Streitstrategie?
-2. Welche Quelle liegt vor: Normtext, Vertrag, Handelsdokument, Archivstück, Behördenseite, Schiedsklausel, Register, E-Mail oder Datenraum?
-3. Welche Rechtsordnung, Epoche, Institution, Branche oder Gegenpartei ist betroffen?
-4. Gibt es Live-Check-Bedarf wegen Tagesrecht, Sanktionen, Exportkontrolle, Behördenpraxis oder aktueller Rechtsprechung?
-5. Welche Ausgabe braucht die Nutzerin in welcher Tiefe?
-
-## Kernanker
-
-- Institutionensystem: personae, res, actiones
-- Actio-Mechanik: ohne Klage, Einrede oder Interdikt ist ein abstraktes "Recht" praktisch nicht viel wert
-- Rechtsschichten: ius civile, ius honorarium, ius gentium sauber trennen; ius gentium nicht als modernes Völkerrecht behandeln
-- Prozess: zweigeteilter Ablauf `in iure` vor dem Prätor/Magistrat und `apud iudicem` vor dem privaten Richter
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex, Novellen und byzantinische Fortbildung
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
-
-## Routing nach der neuen Grundmechanik
-
-- System verstehen: `rom-160-actio-denken-und-rechtsmechanik`
-- Formularprozess: `rom-046-formularprozess`
-- Prätor und Edikt: `rom-048-praetorisches-edikt`
-- Vertragstypen: `rom-162-vertragstypen-konsens-real-verbal-litteral`
-- Kauf: `rom-020-kauf-emptio-venditio`
-- Darlehen/Zinsen: `rom-023-darlehen-mutuum`
-- Seedarlehen/Versicherungsersatz: `rom-123-fenus-nauticum-seedarlehen`
-- Erbrecht/Testament/Pflichtteil: `rom-052-erbrecht-testament`, `rom-145-querela-inofficiosi-testamenti-pflichtteil`
-- Unklare Anfrage "Vergebung": `rom-161-vergebung-vererbung-vergabe-begriffsklaerung`
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

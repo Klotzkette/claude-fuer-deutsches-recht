@@ -1,6 +1,6 @@
 ---
 name: bmleh
-description: "Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bundesministerien, Bundestag, Fraktionen, Landesministerien, Landtage und sonstige Normgeber. Fragt Startbahn, Institution, Bundesland, Ressort, Fraktion, Verfahrensstand, Fristen, Unterlagen, Risiken und Wunsch-Output ab, s..."
+description: "Einstieg, Schnelltriage und Fallrouting im Legistik Werkstatt-Plugin für Bundesministerien, Bundestag, Fraktionen, Landesministerien, Landtage und sonstige Normgeber. Fragt Startbahn, Institution, Bundesland, Ressort, Fraktion, Verfahrensstand, Fristen, Unterlagen, Risiken und Wunsch-Output ab, s — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmleh."
 ---
 
 # Legistik-Werkstatt — Allgemein

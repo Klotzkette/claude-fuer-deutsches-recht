@@ -1,6 +1,6 @@
 ---
 name: deal-intake
-description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dea..."
+description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dea — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt deal intake."
 ---
 
 # Deal-Intake

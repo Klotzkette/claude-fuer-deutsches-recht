@@ -1,6 +1,6 @@
 ---
 name: beteiligung-frueh-foermlich
-description: "Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behördenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Aender..."
+description: "Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behördenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Aender — Arbeitskontext: Normenkontrolle Bauleitplanung, Schwerpunkt beteiligung frueh foermlich."
 ---
 
 # Beteiligung — frühzeitig und förmlich

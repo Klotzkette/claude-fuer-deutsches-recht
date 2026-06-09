@@ -5,48 +5,29 @@ description: "Römisches Recht: Innominatkontrakte. Geführter Fachmodul mit Que
 
 # Innominatkontrakte
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 3.88-89** — Obligationen entstehen ex contractu oder ex delicto; Vierteilung re, verbis, litteris, consensu
+- **Gaius, Institutiones 3.92** — stipulatio: spondesne? spondeo — Verbalkontrakt durch Frage und Antwort
+- **D. 45.1.1 pr. (Ulpian)** — Einheit von Frage und Antwort, unitas actus
+- **D. 2.14.7.4 (Ulpian)** — nuda pactio obligationem non parit — formloses pactum klagt nicht
+- **D. 19.5 (de praescriptis verbis)** — Innominatkontrakte: do ut des, do ut facias, facio ut des, facio ut facias
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Das römische Vertragssystem ist ein Typensystem: Klagbar ist nur, was als Real- (mutuum, commodatum, depositum, pignus), Verbal- (stipulatio), Litteral- oder Konsensualkontrakt (emptio venditio, locatio conductio, societas, mandatum) anerkannt ist. Die stipulatio ist das Universalwerkzeug: jede beliebige Leistung wird durch Frage-Antwort-Form klagbar (stricti iuris). Formlose pacta sind nur einredeweise geschützt (pacta de non petendo) — nuda pactio obligationem non parit. Atypische Austauschgeschäfte werden spät über die Innominatkontrakte (actio praescriptis verbis) klagbar, wenn eine Seite vorgeleistet hat.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+Das BGB kehrt das Prinzip um: Vertragsfreiheit § 311 I BGB — jeder formfrei geschlossene Vertrag bindet (pacta sunt servanda, kanonistisches Erbe). Typenzwang überlebt nur im Sachenrecht. Die stipulatio lebt strukturell im abstrakten Schuldversprechen §§ 780 f. BGB fort.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Pacta sunt servanda ist NICHT römisch-klassisch, sondern kanonistisch-naturrechtlich. Wer den Satz Ulpian zuschreibt, verwechselt D. 2.14.7.7 (pacta conventa servabo — nur prätorischer Einredeschutz) mit moderner Vertragsbindung.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

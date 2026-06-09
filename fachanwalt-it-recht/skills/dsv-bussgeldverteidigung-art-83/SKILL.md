@@ -1,6 +1,6 @@
 ---
 name: dsv-bussgeldverteidigung-art-83
-description: "Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art: 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur B..."
+description: "Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art: 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur B — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv bussgeldverteidigung art 83."
 ---
 
 # Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art

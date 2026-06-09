@@ -1,6 +1,6 @@
 ---
 name: internationales-privatrecht-kollidierende-agb
-description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraste..."
+description: "Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraste — Arbeitskontext: Urteilsbauer/Relationsmacher, Schwerpunkt internationales privatrecht kollidierende agb."
 ---
 
 # Internationales Privatrecht

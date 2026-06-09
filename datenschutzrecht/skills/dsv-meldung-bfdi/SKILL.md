@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-bfdi
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bund (Telekommunikation, Post,..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bund (Telekommunikation, Post, — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung bfdi."
 ---
 
 # Reicht eine Meldung nach Art

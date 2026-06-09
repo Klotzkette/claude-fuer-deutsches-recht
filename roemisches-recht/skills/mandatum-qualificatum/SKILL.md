@@ -5,50 +5,28 @@ description: "Mandatum qualificatum: qualifizierte Auftragserteilung als Buergsc
 
 # Rom 141 Mandatum Qualificatum Buergschaftsersatz
 
-## Konstruktion
+## Quellenanker
 
-- A erteilt B den Auftrag, einer dritten Person (C) Geld zu leihen.
-- A garantiert wirtschaftlich die Rueckzahlung durch C.
-- Bei Ausfall von C kann B mit der actio mandati contraria gegen A vorgehen.
+- **Gaius, Institutiones 3.155-156** — mandatum: unentgeltlich, sonst locatio conductio
+- **D. 17.1.1.4 (Paulus)** — mandatum nisi gratuitum nullum est
+- **D. 17.1.12.13 (Ulpian)** — mandatum pecuniae credendae: Kreditauftrag als Sicherungsmittel
+- **D. 46.1 (de fideiussoribus)** — Verhältnis Kreditmandat / Bürgschaft
 
-## Abgrenzungen
+## Kernregeln
 
-- Mandatum simplex: einfacher Auftrag ohne Garantiezweck.
-- Mandatum qualificatum: Garantiezweck im Vordergrund.
-- Mandatum pecuniae credendae: Sonderfall der Geldleihe als Auftragsgegenstand.
+Mandatum ist Konsensualvertrag, zwingend unentgeltlich (honorar nur als 'salarium' extra ordinem durchsetzbar), bonae fidei, beidseitig klagbar (actio mandati directa/contraria). Es erlischt durch Widerruf und Tod (mandatum morte solvitur). Das mandatum qualificatum (pecuniae credendae) — 'leihe dem X Geld' — wirkt als Kreditsicherheit: Der Mandant haftet dem Beauftragten auf Ersatz, funktional eine Bürgschaft ohne Stipulationsform.
 
-## Vergleich zu modernem Recht
+## Moderne Parallele
 
-- Garantievertrag als selbstaendiges Versprechen (anders als Buergschaft akzessorisch).
-- § 311 Abs. 1 BGB allgemeine Vertragsfreiheit.
-- BGH zum Garantievertrag (st. Rspr.).
+BGB: Auftrag §§ 662 ff. bewahrt Unentgeltlichkeit und freie Widerruflichkeit (§ 671); entgeltlich wird es Geschäftsbesorgung § 675 BGB. Das Kreditmandat ist als eigenständiger Sicherungstyp im BGB aufgegangen (Bürgschaft §§ 765 ff., Garantie, Schuldbeitritt). § 673 BGB (Tod des Beauftragten) führt mandatum morte solvitur fort — abgeschwächt.
 
-## Pruefraster
+## Typische Fehler
 
-1. Auftragscharakter klar?
-2. Garantiefunktion?
-3. Aufwendungsersatzanspruch?
+Mandatum nicht mit moderner Stellvertretung verwechseln: Der Mandatar handelt im eigenen Namen und muss Erworbenes übertragen (keine direkte Stellvertretung im klassischen Recht!).
 
-## Historische Quellenanker
+## Arbeitsweise
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Powersprint-Vertiefung
-
-- **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
-- **Actio-Denken:** Prüfe bei `Rom 141 Mandatum Qualificatum Buergschaftsersatz` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
-- **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
-- **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

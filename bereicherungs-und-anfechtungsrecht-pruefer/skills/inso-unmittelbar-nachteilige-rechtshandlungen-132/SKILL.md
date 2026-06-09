@@ -1,6 +1,6 @@
 ---
 name: inso-unmittelbar-nachteilige-rechtshandlungen-132
-description: "Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 InsO prüfen: Benachteiligung in den letzten drei Monaten. Normen: §§ 132 129 InsO. Prüfraster: unmittelbare Nachteiligkeit, Kausalität, Drei-Monats-Frist, Abgrenzung § 129 InsO. Output: Prüfergebnis Anfechtbarkeit unmittelbar nachtei..."
+description: "Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 InsO prüfen: Benachteiligung in den letzten drei Monaten. Normen: §§ 132 129 InsO. Prüfraster: unmittelbare Nachteiligkeit, Kausalität, Drei-Monats-Frist, Abgrenzung § 129 InsO. Output: Prüfergebnis Anfechtbarkeit unmittelbar nachtei — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt inso unmittelbar nachteilige rechtshandlungen 132."
 ---
 
 # Unmittelbar nachteilige Rechtshandlungen — § 132 InsO

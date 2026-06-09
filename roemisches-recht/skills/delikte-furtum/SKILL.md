@@ -5,75 +5,30 @@ description: "Römisches Recht: Delikte Furtum. Geführter Fachmodul mit Quellen
 
 # Delikte Furtum
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 3.183-208** — furtum: manifestum/nec manifestum; contrectatio fraudulosa
+- **D. 47.2.1.3 (Paulus)** — furtum est contrectatio rei fraudulosa lucri faciendi gratia
+- **D. 9.2.2 pr. (Gaius)** — lex Aquilia Kap. 1: Tötung von Sklaven und vierfüßigen Herdentieren — Höchstwert des letzten Jahres
+- **D. 9.2.27.5 (Ulpian)** — Kap. 3: urere frangere rumpere → corrumpere; Wert der letzten 30 Tage
+- **D. 47.10.1 (Ulpian)** — iniuria: Persönlichkeitsverletzung von Realinjurie bis Ehrverletzung
+- **Gaius, Institutiones 4.75-79** — Noxalhaftung: Gewalthaber liefert aus oder zahlt
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Römisches Deliktsrecht ist Pönalrecht: Die actio furti geht auf das Doppelte (nec manifestum) oder Vierfache (manifestum) — daneben kondiziert der Bestohlene die Sache (condictio furtiva). Die lex Aquilia gibt bei Sachbeschädigung den Höchstwert (Jahr/30 Tage) — Litiskreszenz aufs Doppelte bei Leugnen; Voraussetzungen: iniuria (Rechtswidrigkeit), später culpa-Erfordernis (culpa levissima genügt: in lege Aquilia et levissima culpa venit, D. 9.2.44 pr.). Iniuria schützt die Persönlichkeit umfassend mit aestimatorischer Buße. Deliktsklagen sind passiv unvererblich, kumulieren bei Tätermehrheit und unterliegen der Noxalhaftung bei Gewaltunterworfenen.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+BGB § 823 I ist die entpönalisierte Aquilia-Erbin (nur Kompensation, keine Buße); das allgemeine Persönlichkeitsrecht (§ 823 I BGB i.V.m. Art. 1, 2 GG) leistet, was die iniuria leistete. Furtum spaltet sich heute in Strafrecht (§ 242 StGB) und zivilrechtliche §§ 823 II, 992 BGB. Geldentschädigung bei Persönlichkeitsverletzung ist funktional die alte iniuria-Buße.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Aquilische Klage nicht als reine Schadensersatzklage lesen — der Höchstwert-Rückblick und die Litiskreszenz sind Pönalelemente. Und: damnum iniuria datum verlangt unmittelbare Körpereinwirkung (corpore corpori) — mittelbare Schäden liefen über actiones utiles/in factum.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
-
-### Schluesselstellen
-- **D. 47.2 (Paulus)**: "Furtum est contrectatio rei fraudulosa lucri faciendi gratia vel ipsius rei vel etiam usus eius possessionisve" — Diebstahl als arglistige Wegnahme zum Gewinn.
-- **Gaius III.183**: Vier Arten von furtum.
-
-### Vier furtum-Arten
-1. **Furtum manifestum**: auf frischer Tat ertappt; 4-fache Strafe.
-2. **Furtum nec manifestum**: nicht auf frischer Tat; 2-fache Strafe.
-3. **Furtum conceptum**: Sache wird beim Besitzer gefunden, der bestraft wird.
-4. **Furtum oblatum**: Sache wurde aufgedraengt.
-
-### Klagen
-- **Actio furti**: poena (Strafzahlung), nicht Eigentumsherausgabe.
-- **Condictio furtiva**: kombinierbar; auf Wertersatz (poenale plus Wertersatz!).
-- **Rei vindicatio**: zusaetzlich auf Herausgabe.
-
-### Subsumtionsbeispiel: Sklave stiehlt Geld
-Sachverhalt: Sklave des A stiehlt Geld bei B; Sklave hat es zu seinem peculium genommen.
-- **Roemisch**: Actio furti gegen Sklavenhalter A (mit noxa-Auslieferung Moeglichkeit). D. 47.2.21 — actio noxalis.
-- **BGB**: keine noxale Haftung; § 831 BGB Verrichtungsgehilfen-Haftung des Halters; § 823 Abs. 1 BGB durch Sklaven (heute Arbeitnehmer).
-
-### Subsumtionsbeispiel: Furtum usus
-Sachverhalt: A leiht von B; verwendet die Sache anders als vereinbart (furtum usus).
-- **Roemisch**: D. 47.2.40 — auch furtum usus moeglich.
-- **BGB**: kein eigener "furtum usus"; allenfalls § 826 BGB sittenwidrige Schaedigung; § 280 BGB Pflichtverletzung Leih-Vertrag.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

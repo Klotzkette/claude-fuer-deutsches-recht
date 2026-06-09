@@ -5,23 +5,54 @@ description: "Rechenprotokolle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zust
 
 # Rechenprotokolle Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Jveg Kostenpruefer** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **JVEG-Kostenprüfer** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `beschwerde-dolmetscher-sonderfall-dolmetscherkosten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `fahrtkosten-festsetzung-interessen-freistehender`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gate-beweislast-jveg-quality`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `jveg-anspruchsberechtigung-antragsgenerator-dolmetscher`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `jveg-dolmetscher-uebersetzer-fahrtkosten-festsetzung-beschwerde`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `jveg-gate-rechenblatt-sachverstaendigenrechnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `jveg-gerichtsschreiben-jveg-kuerzung-wegfall`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `jveg-sonstige-aufwendungen-uebernachtung-aufwand`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `jveg-vorschuss-kostenrisiko-zeugenentschaedigung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Entschädigungsantrag binnen 3 Monaten)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Entschädigungsantrag binnen 3 Monaten)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Falsche Zuständigkeit adressiert (richtig: Gericht)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Gericht)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 3. Beweismittel nicht gesichert (Aktennotizen)
+
+- **Symptom:** Beweismittel nicht gesichert (Aktennotizen)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 4. Schlüsseldokument fehlt oder veraltet (SV-Rechnung)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (SV-Rechnung)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 5. Normzitat ohne Fassungsprüfung (JVEG)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (JVEG)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 6. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 7. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

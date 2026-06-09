@@ -5,40 +5,36 @@ description: "Vorrang Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkei
 
 # Vorrang Fehlerkatalog
 
-## Regelungs- und Quellenanker
+## Zweck
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Methodenlehre Bürgerliches Recht** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Schlüsseldokument fehlt oder veraltet (Norm-/Gesetzestext)
 
-## Einsatzlage
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Norm-/Gesetzestext)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
 
-Dieser Fehlerkatalog prüft im Bereich **Methodenlehre Buergerliches Recht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Normzitat ohne Fassungsprüfung (BGB)
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGB)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
 
-- `abwaegung-gewichtung-intensitaet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `abwaegung-material-abwaegungslast-non-argumentum-figuren`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `abwaegung-material-auswahl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `abwaegungslast-non-liquet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `abwaegungszuständigkeit-institutionen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `abwaegungszuständigkeit-institutionen-buergerlichen-verjaehrung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `analogie-und-teleologische-reduktion`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anspruchsgrundlagen-anwaltsperspektive-auslegung-buergerliches`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `auslegung-rechtsfortbildung-grenzprotokoll`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Rechtsprechung aus Modellwissen zitiert
 
-## Heilung
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

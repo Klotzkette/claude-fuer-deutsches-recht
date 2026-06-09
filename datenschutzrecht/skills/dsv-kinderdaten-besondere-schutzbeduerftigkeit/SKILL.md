@@ -1,6 +1,6 @@
 ---
 name: dsv-kinderdaten-besondere-schutzbeduerftigkeit
-description: "Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO: Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schut..."
+description: "Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO: Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schut — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv kinderdaten besondere schutzbeduerftigkeit."
 ---
 
 # Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO

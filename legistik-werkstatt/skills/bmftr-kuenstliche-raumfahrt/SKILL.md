@@ -1,6 +1,6 @@
 ---
 name: bmftr-kuenstliche-raumfahrt
-description: "Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.);..."
+description: "Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmftr kuenstliche raumfahrt."
 ---
 
 # Kuenstliche Intelligenz und Technikregulierung (BMFTR)

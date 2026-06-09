@@ -1,6 +1,6 @@
 ---
 name: disclosure-schedules-distressed-ma
-description: "Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster:..."
+description: "Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt disclosure schedules distressed ma."
 ---
 
 # Disclosure Schedules

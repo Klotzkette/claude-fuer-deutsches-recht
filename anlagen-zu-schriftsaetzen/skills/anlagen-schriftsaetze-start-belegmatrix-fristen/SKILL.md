@@ -1,6 +1,6 @@
 ---
 name: anlagen-schriftsaetze-start-belegmatrix-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Anlagen Zu Schriftsaetzen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigen..."
+description: "Einstieg, Schnelltriage und Fallrouting im Anlagen Zu Schriftsaetzen-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigen — Arbeitskontext: Anlagen zu Schriftsätzen, Schwerpunkt anlagen schriftsaetze start belegmatrix fristen."
 ---
 
 # Anlagen zu Schriftsätzen — Allgemein

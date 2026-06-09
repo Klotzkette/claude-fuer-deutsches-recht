@@ -1,6 +1,6 @@
 ---
 name: insolvenz-verlust-liquiditaet
-description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse,..."
+description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, — Arbeitskontext: Forschungszulage FZulG, Schwerpunkt insolvenz verlust liquiditaet."
 ---
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel

@@ -1,6 +1,6 @@
 ---
 name: blue-pencil-und-geltungserhaltende-reduktion
-description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ab..."
+description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ab — Arbeitskontext: Agb Recht Pruefer, Schwerpunkt blue pencil und geltungserhaltende reduktion."
 ---
 
 # Blue Pencil Und Geltungserhaltende Reduktion

@@ -5,48 +5,28 @@ description: "Römisches Recht: Justinianische Kompilation. Geführter Fachmodul
 
 # Justinianische Kompilation
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Const. Deo auctore (530)** — Auftrag an Tribonian: 50 Bücher Digesten aus 2000 Büchern Juristenschrifttum
+- **Const. Tanta (533)** — Inkraftsetzung; Interpolationsverbot und Kommentierungsverbot
+- **Institutiones Iustiniani 1.1** — Lehrbuch mit Gesetzeskraft, nach Gaius-Vorbild
+- **Basiliken (ca. 900)** — griechische Neuordnung des Corpus Iuris in 60 Büchern; Prochiron und Epanagoge als Handbücher
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Justinians Kompilation (528-534): Codex (Kaiserkonstitutionen), Digesten/Pandekten (Juristenrecht, in 3 Jahren aus ca. 1500 Büchern exzerpiert), Institutionen (Lehrbuch mit Gesetzeskraft), später Novellen (großteils griechisch). Die Kompilatoren interpolierten — Textänderungen zur Anpassung an das Recht des 6. Jh. (klassisches Beispiel: mancipatio durchgängig durch traditio ersetzt). Die Interpolationenkritik (Ende 19./20. Jh.) versuchte die klassischen Originale zu rekonstruieren — heute gilt methodische Zurückhaltung: Nicht jede Glättung ist Interpolation. Byzanz ordnet das Corpus neu (Basiliken um 900) und hält das römische Recht bis 1453 lebendig.
 
-## Sofortsortierung
+## Moderne Parallele
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+Quellenkritik an den Digesten ist das Urmodell juristischer Textstufenforschung — wer heute Gesetzesmaterialien, Referentenentwürfe und Endfassung vergleicht, betreibt dieselbe Methodik. Das Kommentierungsverbot Justinians scheiterte übrigens sofort — wie jedes seither.
 
-## Fachlicher Zugriff
+## Typische Fehler
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Digestenstellen nicht unbesehen als 'klassisches Recht' zitieren — immer Interpolationsverdacht mitdenken, besonders bei justinianischen Lieblingsbegriffen (aequitas-Floskeln, naturalis ratio). Palingenesie (Lenel) nutzen, um den Werkkontext zu rekonstruieren.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
-
-## Typische Ausgabe
-
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

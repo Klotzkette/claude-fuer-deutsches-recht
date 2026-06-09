@@ -5,61 +5,29 @@ description: "Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichte
 
 # Actio-Denken und Rechtsmechanik
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 4.11-29** — legis actiones: sakramentale Spruchformeln, Wortformalismus (qui vites dixisset...)
+- **Gaius, Institutiones 4.30-68** — Formularprozess: Klageformel mit intentio, condemnatio; exceptiones als Einredeklauseln
+- **Gaius, Institutiones 4.116-125** — exceptio doli, pacti, metus; replicatio, duplicatio
+- **D. 4.4 (de minoribus)** — in integrum restitutio ob aetatem: Prätor hebt Folgen nachteiliger Geschäfte Minderjähriger auf
+- **D. 1.2.2.10 (Pomponius)** — Edikt als ius honorarium: adiuvandi supplendi corrigendi iuris civilis gratia
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Drei Prozessepochen: (1) legis actiones — Wortformalismus, ein falsches Wort verliert den Prozess (Gaius' Weinstock-Beispiel); (2) Formularprozess — der Prätor gewährt typisierte Klageformeln (intentio: Anspruchsbehauptung; condemnatio: stets auf Geld!), Zweiteilung in iure / apud iudicem, exceptio als formelhafte Einrede (dolus, pactum, metus) macht das strenge ius civile billigkeitsfähig; (3) Kognitionsverfahren — kaiserliche Beamtenjustiz, Instanzenzug, Vollstreckung in Einzelstücke. Das prätorische Edikt ist Motor der Rechtsfortbildung: Es hilft, ergänzt und korrigiert das Zivilrecht (Pomponius) — mit Klagen, Einreden, missiones und in integrum restitutiones.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Das aktionenrechtliche Denken (kein 'Anspruch', sondern 'gibt es eine Klage?') prägt noch heute das Common Law (writ-System als Parallele); das BGB dreht mit § 194 BGB (Anspruchsbegriff, Windscheid) die Blickrichtung. Die exceptio lebt in §§ 214, 273, 320, 821, 853 BGB als 'Einrede' fort; die condemnatio pecuniaria erklärt, warum Rom keine Naturalvollstreckung von Speziesleistungen kannte — anders § 894 ZPO heute.
 
-## Sofortdiagnose
+## Typische Fehler
 
-1. **Epoche bestimmen:** archaisches Recht, klassisches Recht, spätrepublikanisch/prinzipatszeitlich, justinianisch oder byzantinisch.
-2. **Falltyp bestimmen:** Personenstatus, Sache/Besitz/Eigentum, Vertrag, Delikt, Erbe, Prozess, Vollstreckung oder Handel.
-3. **Rechtsquelle bestimmen:** Zwölftafelfragment, Juristenfragment, Digesten-/Institutionenstelle, Edikt, kaiserliche Konstitution, spätere Kompilation.
-4. **Durchsetzung bestimmen:** Gibt es eine Klage, Einrede, Interdikt oder nur moralische/soziale Erwartung?
-5. **Rezeption trennen:** Antike Lösung, gemeinrechtliche Bearbeitung, Pandektistik, BGB-Analogie und heutiges geltendes Recht getrennt ausgeben.
+Nicht 'subjektive Rechte' in die Klassik projizieren — der römische Jurist fragt nach actio, exceptio, Formel. Windscheids Anspruchslehre ist die Übersetzung, nicht die Quelle.
 
-## Drei Rechtsschichten
+## Arbeitsweise
 
-| Schicht | Funktion | Typische Gefahr bei moderner Deutung |
-| --- | --- | --- |
-| `ius civile` | Bürgerrechtlich-alte, formalere Ordnung für römische Bürger; etwa mancipatio, in iure cessio, strenge familia- und Erbformen. | Zu schnell als heutiges Privatrecht lesen; Status- und Bürgerrechtsbindung übersehen. |
-| `ius honorarium` | Prätorisches Recht zur Ergänzung, Unterstützung oder Korrektur des ius civile; praktisch über Edikt, Formel, actiones und exceptiones. | Prätor als "Gesetzgeber" missverstehen; er schafft primär Prozessschutz und faktische Durchsetzbarkeit. |
-| `ius gentium` | Verkehrsfähigere Regeln für Bürger und Nichtbürger, besonders Handel und Konsensualverträge. | Nicht mit modernem Völkerrecht gleichsetzen; es ist vor allem privatrechtlich-praktisches Verkehrsrecht. |
-
-## Actio-Matrix
-
-| Frage | Römische Arbeitsrichtung | Moderne Anschlussfrage |
-| --- | --- | --- |
-| "Ich will eine Sache zurück" | `rei vindicatio`, ggf. `actio Publiciana`, Interdikte für Besitz. | Eigentum, Besitzschutz, § 985 BGB nur als Vergleich, nicht als antike Quelle. |
-| "Der Kauf ist mangelhaft" | `actio empti`, ädilizische `actio redhibitoria`, `actio quanti minoris`. | Sachmangel, Rücktritt/Minderung; Eigentumsübergang separat prüfen. |
-| "Ich habe Geld verliehen" | `mutuum` plus Darlehensklage; Zinsen regelmäßig nur über gesonderte Stipulation. | Darlehen und Zinsabrede trennen; Verbraucherschutz nur modern. |
-| "Der Gegner klagt treuwidrig" | `exceptio doli`, pacta, prätorische Schutzinstrumente. | Einwendungen/Einreden, Treu und Glauben; keine direkte Gleichsetzung. |
-| "Der Schuldner verschiebt Vermögen" | `actio Pauliana`, `interdictum fraudatorium`, `missio in bona`. | Insolvenzanfechtung/AnfG nur dogmengeschichtliche Linie. |
-
-## Red-Team
-
-- Wird ein moderner Anspruch in das römische Recht hineingelesen, ohne nach der antiken Klage zu fragen?
-- Wird eine bloße Quellenrekonstruktion als gesicherte Norm ausgegeben?
-- Wird `ius gentium` als modernes öffentliches Völkerrecht missverstanden?
-- Wird das Trennungsproblem Kaufvertrag/Eigentumsübertragung übersehen?
-- Wird eine prätorische Einrede als materieller Anspruch verwechselt?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

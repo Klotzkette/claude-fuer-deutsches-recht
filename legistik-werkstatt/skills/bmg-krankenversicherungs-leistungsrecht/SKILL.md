@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenversicherungs-leistungsrecht
-description: "Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pru..."
+description: "Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pru — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmg krankenversicherungs leistungsrecht."
 ---
 
 # Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)

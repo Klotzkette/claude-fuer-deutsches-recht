@@ -1,6 +1,6 @@
 ---
 name: vertragsmarkup-key-agio
-description: "Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemni..."
+description: "Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemni — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt vertragsmarkup key agio."
 ---
 
 # Vertragsmarkup und Key Issues

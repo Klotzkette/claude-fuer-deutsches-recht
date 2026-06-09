@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-saarland
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung lfdi saarland."
 ---
 
 # Reicht eine Meldung nach Art

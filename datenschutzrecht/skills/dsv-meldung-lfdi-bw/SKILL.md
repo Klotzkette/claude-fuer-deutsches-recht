@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-bw
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Wü..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Wü — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung lfdi bw."
 ---
 
 # Reicht eine Meldung nach Art

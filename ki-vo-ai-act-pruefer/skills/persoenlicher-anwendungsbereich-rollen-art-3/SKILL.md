@@ -1,6 +1,6 @@
 ---
 name: persoenlicher-anwendungsbereich-rollen-art-3
-description: "Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22...."
+description: "Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22 — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt persoenlicher anwendungsbereich rollen art 3."
 ---
 
 # Persönlicher Anwendungsbereich — Rollen nach Art. 3 KI-VO

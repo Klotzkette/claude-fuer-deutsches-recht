@@ -5,62 +5,28 @@ description: "Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoe
 
 # Rom 114 Bonorum Distractio Vermoegenseinzelverkauf
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 3.77-81** — bonorum venditio: Gesamtvermögensverkauf an den bonorum emptor
+- **D. 42.4 / 42.5** — missio in bona: Einweisung der Gläubiger; Rangfolge und Privilegien
+- **C. 7.71** — cessio bonorum (lex Iulia): freiwillige Vermögensabtretung schützt vor Personalexekution und Infamie
+- **D. 27.10.5 / 42.5.39** — bonorum distractio: schonender Einzelverkauf statt Gesamtverwertung
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Römisches 'Insolvenzrecht': Auf Antrag weist der Prätor die Gläubiger in das Schuldnervermögen ein (missio in bona — Beschlagnahme), ein magister bonorum organisiert die bonorum venditio: Gesamtverkauf an den Meistbietenden (bonorum emptor wird Universalsukzessor und zahlt die Quote). Folge für den Schuldner: infamia. Die cessio bonorum (lex Iulia, augusteisch) erlaubt dem redlichen Schuldner die freiwillige Abtretung — keine Infamie, kein Schuldturm, beneficium competentiae (Pfändungsschutz fürs Existenzminimum). Für Senatoren u. a. die mildere bonorum distractio (Einzelverwertung durch curator).
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+InsO-Parallelen Schritt für Schritt: missio = Sicherungsmaßnahmen/Eröffnung §§ 21, 80 InsO; magister/curator = (vorläufiger) Insolvenzverwalter; venditio als übertragende Sanierung; cessio bonorum = Restschuldbefreiungsgedanke §§ 286 ff. InsO; beneficium competentiae = Pfändungsfreigrenzen §§ 850 ff. ZPO.
 
-## Rechtsquelle
+## Typische Fehler
 
-- Senatusconsultum (Daten und Inhalte vor Zitat verifizieren).
-- D. 42.7 (De curatore bonis dando).
+Die Quote des bonorum emptor nicht mit moderner quotaler Verteilung verwechseln — der emptor KAUFTE das Vermögen gegen Quotenzusage an die Gläubiger; er war Spekulant, nicht Amtswalter.
 
-## Tatbestand
+## Arbeitsweise
 
-- Bonorum distractio als alternative zur bonorum venditio.
-- Eingefuehrt mit der Begruendung der Schonung des sozialen Standes des Schuldners.
-
-## Verfahren
-
-- Bestellung eines curator bonorum.
-- Einzelverkauf der Vermoegensgegenstaende.
-- Schuldner bleibt Eigentuemer der nicht verkauften Gegenstaende.
-- Keine bonorum emptor-Konstruktion; kein Gesamtrechtsnachfolge-Geschehen.
-- Keine infamia (jedenfalls in der senatorischen Variante).
-
-## Privilegierte Personenkreise
-
-- Senatoren und ehrenwerte Personen.
-- Erblasser eines verstorbenen Schuldners (zum Schutz der Erben).
-
-## Heutige Fortwirkung
-
-- Vorbild der Einzelvollstreckung in das Vermoegen statt Universalexekution.
-- Heute ZPO Buch 8.
-
-## Pruefraster
-
-1. Senatorischer Status oder Erbenschutz?
-2. Curator bonorum bestellt?
-3. Einzelverkauf moeglich?
-4. Restvermoegen beim Schuldner?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

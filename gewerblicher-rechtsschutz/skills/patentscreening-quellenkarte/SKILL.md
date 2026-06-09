@@ -5,35 +5,43 @@ description: "Patentscreening Quellenkarte: Quellenprüfung; Normenstand, Rechts
 
 # Patentscreening Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Gewerblicher Rechtsschutz** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Gewerblicher Rechtsschutz (allgemein)** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `abmahnung-urheberrecht-erfindungsmeldung-aufnahme-evvollzug`
-- `allgemein-workflow-chronologie-workflow-fristen`
-- `anmeldung-spezial-compliance-euipo`
-- `evvollzug-auslandszustellung-ev-abmahnung-abschlussschreiben`
-- `evvollzug-zustellung-durch-bea-einstweiliger`
-- `freedom-gewerblicher-markenrecherche`
-- `fto-triage-gewerblicher-rechtsschutz-mandat-arbeitsbereich`
-- `gewerblicher-rechtsschutz-kaltstart-interview`
-- `gewr-einstweilige-dpma-spezial-fristen`
-- `gewr-geschaeftsgeheimnisgesetz-markenanmeldung-bauleiter-uwg`
-- `gw-einfuehrung-gw-einstweilige-mandat-triage`
-- `markenanmeldung-dpma-markenrecherche-open-source`
+- **MarkenG, PatG, GeschmMG, GebrMG, UrhG** — amtlichen Stand vor tragender Aussage prüfen
+- **UWG** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- DPMA
+- EPA
+- EUIPO
+- WIPO
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- Zentrales Testamentsregister (testamentsregister.de)
+- bundesgerichtshof.de (IV. Zivilsenat)
+
+## Fristen mit Quellenrelevanz
+
+- Markenwiderspruch 3 Monate
+- Patentbeschwerde EPA 4 Monate
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

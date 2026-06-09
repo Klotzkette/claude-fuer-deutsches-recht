@@ -5,44 +5,27 @@ description: "Römisches Recht: Römisches Recht in griechischer Sprache Termino
 
 # Rom Roemisches Recht In Griechischer Sprache Terminologi
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Novellen Justinians** — großteils griechisch verkündet — Sprache der Reichsbevölkerung
+- **Basiliken (ca. 900)** — griechische Gesamtordnung: ta basilika = 'das Kaiserliche'
+- **Theophilus-Paraphrase (6. Jh.)** — griechische Institutionen-Fassung für den Rechtsunterricht
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Im Osten lebt das römische Recht griechisch: Schon Justinians Novellen erscheinen überwiegend auf Griechisch; die Rechtsschule von Beirut/Konstantinopel lehrt mit griechischen Paraphrasen (Theophilus). Die Basiliken (um 900, unter Leon VI.) ordnen den Corpus-Stoff in 60 Büchern neu — griechisch, mit Scholien; Handbücher (Prochiron, Epanagoge/Eisagoge) versorgen die Praxis. Terminologie-Transfer: actio wird agoge, dominium wird despoteia — wer byzantinische Quellen liest, braucht beide Begriffswelten.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Methodische Parallele: Mehrsprachige Rechtsordnungen heute (EU mit 24 Amtssprachen, EuGH-Französisch als Arbeitssprache) stehen vor identischen Übersetzungsproblemen — Begriffsäquivalenz vs. Funktionsäquivalenz. Wer 'consideration' mit 'causa' übersetzt, macht denselben Fehler wie ein Skoliast, der despoteia unbesehen als dominium liest.
 
-## Griechische Uebersetzung
+## Typische Fehler
 
-- Theophilus' Paraphrasis (Institutionen-Uebersetzung) 6. Jh.
-- Justinianische Novellen oft griechisch.
-- Basiliken vollstaendig griechisch.
+Griechische Rechtstermini nicht 1:1 auf klassisch-römische Institute zurückrechnen — zwischen Ulpian und den Basiliken liegen 700 Jahre Bedeutungswandel.
 
-## Terminologische Probleme
+## Arbeitsweise
 
-- Lateinische Begriffe (z. B. "stipulatio", "mancipatio") griechisch wiedergegeben.
-- Doppelterminologie: lateinisch + griechisch.
-
-## Pruefraster
-
-1. Welcher griechische Begriff?
-2. Lateinisches Aequivalent?
-3. Wirkung?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

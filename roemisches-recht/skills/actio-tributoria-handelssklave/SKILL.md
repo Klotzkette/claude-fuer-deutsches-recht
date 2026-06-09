@@ -5,52 +5,27 @@ description: "Actio tributoria: Klage gegen den dominus für Verbindlichkeiten a
 
 # Rom 132 Actio Tributoria Handelssklave Sondervermoegen
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 14.4 (De tributoria actione).
-- Praetorisches Edikt.
+- **D. 14.4.1 pr. (Ulpian)** — actio tributoria: Sondervermögen (merx peculiaris) wird quotal unter Gläubigern verteilt
+- **D. 14.4.5.19** — Gewaltherr konkurriert nur quotal — anders als bei der actio de peculio
+- **D. 14.4.7.1** — Verteilung durch den Gewalthaber selbst; bei dolus die tributoria
 
-## Tatbestand
+## Kernregeln
 
-- Sklave (servus) oder filius familias handelt mit Wissen und Duldung des dominus.
-- Sklave benutzt sein peculium (Sondervermoegen) für Handelsgeschaefte.
-- Glaeubiger des Sklaven verlangt anteilige Befriedigung aus dem peculium.
+Wirtschaftet ein Gewaltunterworfener mit Wissen des Herrn mit einer merx peculiaris (Handelsvermögen aus dem peculium), wird dieses bei Insolvenz quotal unter den Geschäftsgläubigern verteilt — und der Gewalthaber konkurriert mit eigenen Forderungen nur ANTEILIG (anders als bei der actio de peculio, wo er vorab abziehen darf). Die Verteilung nimmt der Herr selbst vor; verteilt er unredlich, gibt die actio tributoria den Gläubigern die Differenzklage. Funktional: ein Mini-Insolvenzverfahren über ein kaufmännisches Sondervermögen mit Gleichbehandlungsgrundsatz.
 
-## Rechtsfolge
+## Moderne Parallele
 
-- Dominus muss den Glaeubiger anteilig aus dem peculium befriedigen.
-- Dominus selbst als Glaeubiger der eigenen Sklaven steht nicht besser; pari passu mit anderen.
+Strukturvorläufer der par condicio creditorum (§ 1 InsO, quotale Befriedigung) und der Spartrennung von Sondervermögen; die Schlechterstellung des Insiders (Herr nur quotal) klingt im Nachrang der Gesellschafterdarlehen § 39 I Nr. 5 InsO nach.
 
-## Abgrenzung
+## Typische Fehler
 
-- Actio de peculio: Klage in Hoehe des Peculium-Werts ohne Quotenpflicht.
-- Actio tributoria: Quote bei mehreren Glaeubigern, mit Berechnung "in tributum".
+Tributoria und de peculio nicht verwechseln: peculio = Haftung bis zur peculium-Höhe mit Vorabzug des Herrn; tributoria = quotale Verteilung der merx OHNE Herrenprivileg — der Gläubiger wählt die günstigere.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- Heute Trennung in juristische Person und Geschaeftsfuehrer.
-- Schaedigungshaftung im Konzern (Existenzvernichtungshaftung BGH II ZR 256/02).
-
-## Pruefraster
-
-1. Sklavenhandel mit peculium?
-2. Wissen des dominus?
-3. Welche Aktion?
-4. Quote berechnen.
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

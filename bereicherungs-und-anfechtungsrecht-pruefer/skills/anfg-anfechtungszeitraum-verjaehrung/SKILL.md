@@ -1,6 +1,6 @@
 ---
 name: anfg-anfechtungszeitraum-verjaehrung
-description: "Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungsz..."
+description: "Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungsz — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt anfg anfechtungszeitraum verjaehrung."
 ---
 
 # Fristen und Anfechtungszeitraum — AnfG

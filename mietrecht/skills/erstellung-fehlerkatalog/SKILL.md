@@ -5,23 +5,60 @@ description: "Erstellung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständig
 
 # Erstellung Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Mietrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Mietrecht (Wohnraum/Gewerbe)** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `amtlichen-amtsgericht-sonderfall-ausschliesslich`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bundesland-datenerhebung-grossstadt-mietspiegel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `klageentwurf-amtsgericht-miet-gewerbemiete-mietvertrag-bauleiter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `lage-ausstattung-mahnung-zahlungsverzug-mandat-triage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `miet-kuendigungsschutz-miet-mietminderung-mieteranfragen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mieter-mieteranfragen-mandantenentscheidung-mieterhoehungs`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mieterhoehung-widersprechen-mieterhoehungsverlangen-erstellen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mietpreisueberhoehung-wistrg-mietsenkungsverlangen-mietspiegel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mietrecht-mietsenkungsverlangen-international-mietspiegel`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (§ 573c BGB Kündigung 3 Mon.)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (§ 573c BGB Kündigung 3 Mon.)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (§ 574 BGB Widerspruch 2 Mon. vor Beendigung)
+
+- **Symptom:** Parallelfrist vergessen (§ 574 BGB Widerspruch 2 Mon. vor Beendigung)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+
+### 3. Falsche Zuständigkeit adressiert (richtig: Amtsgericht Belegenheit)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Amtsgericht Belegenheit)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 4. Beweismittel nicht gesichert (Mängelfotos)
+
+- **Symptom:** Beweismittel nicht gesichert (Mängelfotos)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Mietvertrag)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Mietvertrag)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (BGB §§ 535, 536, 543, 558, 573 ff.)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (BGB §§ 535, 536, 543, 558, 573 ff.)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

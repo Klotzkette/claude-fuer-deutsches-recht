@@ -1,6 +1,6 @@
 ---
 name: bmleh-agrar-forst-jagdrecht
-description: "Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO;..."
+description: "Sachbereich Agrar- und Förderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Länder-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmleh agrar forst jagdrecht."
 ---
 
 # Agrar- und Förderungsrecht (GAK; GAP) (BMLEH)

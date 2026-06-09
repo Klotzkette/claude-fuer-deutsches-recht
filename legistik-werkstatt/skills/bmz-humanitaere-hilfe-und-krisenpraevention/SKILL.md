@@ -1,6 +1,6 @@
 ---
 name: bmz-humanitaere-hilfe-und-krisenpraevention
-description: "Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typ..."
+description: "Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typ — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmz humanitaere hilfe und krisenpraevention."
 ---
 
 # Humanitaere Hilfe und Krisenpraevention (BMZ)

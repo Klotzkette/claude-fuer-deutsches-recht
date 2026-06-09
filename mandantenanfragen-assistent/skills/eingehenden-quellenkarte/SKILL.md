@@ -5,35 +5,37 @@ description: "Eingehenden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprec
 
 # Eingehenden Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Mandantenanfragen Assistent** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Mandantenanfragen-Assistent** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-workflow-chronologie-workflow-fristen`
-- `anrede-anwaltskanzleien-bittet`
-- `dankt-dsgvo-sonderfall-e-mail`
-- `dringlichkeitsmarker-einwilligung-hinweis-erstantwort-generator`
-- `erstantwort-foermlich-mail`
-- `folgekorrespondenz-vorbereiten-konfliktcheck-vorab-ma`
-- `ma-einfuehrung-ma-erstvermerk-ma-konfliktcheck`
-- `ma-mandant-manda-erstgespraechsleitfaden-manda-erstkontakt`
-- `manda-mandatsablehnung-rechtsschutz-eintrittsanfrage`
-- `mandantenanfragen-anfrage-eingang-anrede-uebernehmen`
-- `mehrsprachige-antwort-muster-erstantwort-spam-massen`
-- `nennt-sachverhalt-telefon`
+- **BRAO § 43 Sachlichkeit** — amtlichen Stand vor tragender Aussage prüfen
+- **BORA** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- zuständige Fachgerichte und Behörden des Sachgebiets
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Unverzügliche Antwort
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

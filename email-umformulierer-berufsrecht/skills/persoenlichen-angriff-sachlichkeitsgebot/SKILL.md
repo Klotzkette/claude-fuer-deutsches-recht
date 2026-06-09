@@ -1,6 +1,6 @@
 ---
 name: persoenlichen-angriff-sachlichkeitsgebot
-description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenz..."
+description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenz — Arbeitskontext: E-Mail-Umformulierung im Berufsrecht, Schwerpunkt persoenlichen angriff sachlichkeitsgebot."
 ---
 
 # Persönlichen Angriff entschärfen

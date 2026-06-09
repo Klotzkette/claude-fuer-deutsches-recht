@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-baylda
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht-..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht- — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung baylda."
 ---
 
 # Reicht eine Meldung nach Art

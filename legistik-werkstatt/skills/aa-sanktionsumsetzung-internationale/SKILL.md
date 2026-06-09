@@ -1,6 +1,6 @@
 ---
 name: aa-sanktionsumsetzung-internationale
-description: "Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschaeftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen Drittstaaten und Personen.); typische Legistik-Aufgaben und..."
+description: "Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschaeftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen Drittstaaten und Personen.); typische Legistik-Aufgaben und — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt aa sanktionsumsetzung internationale."
 ---
 
 # Sanktionsumsetzung und internationale Abkommen (AA)

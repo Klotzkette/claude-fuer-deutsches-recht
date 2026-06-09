@@ -5,35 +5,41 @@ description: "Notare Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung,
 
 # Notare Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Berufsrecht Ki Vertragspruefung** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Berufsrechts-KI bei Vertragsprüfung** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `ai-act-rollen-kanzlei-provider-deployer-api`
-- `br-ki-vertragspruefung-brki-rollout-chronologie`
-- `anbietern-belehrung-sonderfall-edge`
-- `art-50-ki-vo-schriftsatz-marketing-chatbot`
-- `avv-grenzpruefung-brki-anbieter-brki-eu`
-- `avv-grenzpruefung-datenschutz`
-- `berufsrecht-ki-vertragspruefung-kaltstart-interview`
-- `berufsrechtliche-bnoto-interessen-brao`
-- `brki-anbieter-due-diligence`
-- `brki-eu-us-dpf-transferpruefung`
-- `brki-rag-bro-grundlagen-cloud-act`
-- `brki-rag-vertraulichkeit-spezial`
+- **§ 43a BRAO** — amtlichen Stand vor tragender Aussage prüfen
+- **§ 50 BRAO Aktenführung** — amtlichen Stand vor tragender Aussage prüfen
+- **DSGVO Art. 28 AVV** — amtlichen Stand vor tragender Aussage prüfen
+- **KI-VO Art. 6, 50** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- RAK
+- Datenschutzaufsicht
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Rechtzeitige Mandatsannahme
+- Schriftform-Erfordernisse
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

@@ -1,6 +1,6 @@
 ---
 name: bmi-verwaltungsverfahren
-description: "Sachbereich Verwaltungsverfahren und Bundesverwaltung im Geschaeftsbereich BMI: Normbestand (VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.); Akteure (Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.); EU-Bezug (EU-Verwaltungsverfahren; Single Digital Gateway.); typische Leg..."
+description: "Sachbereich Verwaltungsverfahren und Bundesverwaltung im Geschaeftsbereich BMI: Normbestand (VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.); Akteure (Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.); EU-Bezug (EU-Verwaltungsverfahren; Single Digital Gateway.); typische Leg — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmi verwaltungsverfahren."
 ---
 
 # Verwaltungsverfahren und Bundesverwaltung (BMI)

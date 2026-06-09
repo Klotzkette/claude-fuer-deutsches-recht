@@ -1,6 +1,6 @@
 {
   "name": "strassenrecht-infrastruktur",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

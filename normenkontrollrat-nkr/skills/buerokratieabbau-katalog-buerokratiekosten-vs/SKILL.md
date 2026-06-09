@@ -1,6 +1,6 @@
 ---
 name: buerokratieabbau-katalog-buerokratiekosten-vs
-description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung u..."
+description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung u — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt buerokratieabbau katalog buerokratiekosten vs."
 ---
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege

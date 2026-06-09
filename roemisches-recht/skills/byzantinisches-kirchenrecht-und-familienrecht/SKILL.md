@@ -5,41 +5,28 @@ description: "Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Eh
 
 # Byzantinisches Kirchenrecht und Familienrecht
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Const. Deo auctore (530)** — Auftrag an Tribonian: 50 Bücher Digesten aus 2000 Büchern Juristenschrifttum
+- **Const. Tanta (533)** — Inkraftsetzung; Interpolationsverbot und Kommentierungsverbot
+- **Institutiones Iustiniani 1.1** — Lehrbuch mit Gesetzeskraft, nach Gaius-Vorbild
+- **Basiliken (ca. 900)** — griechische Neuordnung des Corpus Iuris in 60 Büchern; Prochiron und Epanagoge als Handbücher
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Justinians Kompilation (528-534): Codex (Kaiserkonstitutionen), Digesten/Pandekten (Juristenrecht, in 3 Jahren aus ca. 1500 Büchern exzerpiert), Institutionen (Lehrbuch mit Gesetzeskraft), später Novellen (großteils griechisch). Die Kompilatoren interpolierten — Textänderungen zur Anpassung an das Recht des 6. Jh. (klassisches Beispiel: mancipatio durchgängig durch traditio ersetzt). Die Interpolationenkritik (Ende 19./20. Jh.) versuchte die klassischen Originale zu rekonstruieren — heute gilt methodische Zurückhaltung: Nicht jede Glättung ist Interpolation. Byzanz ordnet das Corpus neu (Basiliken um 900) und hält das römische Recht bis 1453 lebendig.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Quellenkritik an den Digesten ist das Urmodell juristischer Textstufenforschung — wer heute Gesetzesmaterialien, Referentenentwürfe und Endfassung vergleicht, betreibt dieselbe Methodik. Das Kommentierungsverbot Justinians scheiterte übrigens sofort — wie jedes seither.
 
-## Startfragen
+## Typische Fehler
 
-1. Geht es um Ehe, Scheidung, Verwandtschaft, Adoption, Erbrecht, kirchliche Zuständigkeit oder moralische Sanktion?
-2. Soll die Linie von klassischem Recht über Justinian nach Byzanz erklärt werden?
-3. Ist eine spätere orthodoxe oder osteuropäische Rezeptionsfrage berührt?
+Digestenstellen nicht unbesehen als 'klassisches Recht' zitieren — immer Interpolationsverdacht mitdenken, besonders bei justinianischen Lieblingsbegriffen (aequitas-Floskeln, naturalis ratio). Palingenesie (Lenel) nutzen, um den Werkkontext zu rekonstruieren.
 
-## Prüfroutine
+## Arbeitsweise
 
-1. **Privatrechtliche Ausgangsfigur bestimmen:** Ehe, Mitgift, Erbfolge, Status, Vormundschaft.
-2. **Kirchlichen Einfluss markieren:** Sakramentalität, Moral, Zuständigkeit, religiöse Normbindung.
-3. **Kaiserrecht einordnen:** Gesetzgebung als Verbindung von Reichsordnung und christlicher Normativität.
-4. **Soziale Realität beachten:** Status, Geschlecht, Familie, Vermögen und Herrschaftsstruktur nicht glätten.
-5. **Vergleich sauber halten:** klassisch, justinianisch, byzantinisch und modern getrennt ausgeben.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

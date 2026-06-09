@@ -1,6 +1,6 @@
 ---
 name: dsv-massenbenachrichtigung
-description: "Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art: 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität;..."
+description: "Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art: 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv massenbenachrichtigung."
 ---
 
 # Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art

@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-hbdi
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung hbdi."
 ---
 
 # Reicht eine Meldung nach Art

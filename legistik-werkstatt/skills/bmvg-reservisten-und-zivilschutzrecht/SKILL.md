@@ -1,6 +1,6 @@
 ---
 name: bmvg-reservisten-und-zivilschutzrecht
-description: "Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output..."
+description: "Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmvg reservisten und zivilschutzrecht."
 ---
 
 # Reservistenrecht und Zivilschutzrecht (BMVg)

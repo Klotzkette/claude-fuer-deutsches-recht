@@ -1,6 +1,6 @@
 ---
 name: handelsregister-elektronische-zustellung
-description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only..."
+description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt handelsregister elektronische zustellung."
 ---
 
 # NKR-Handelsregister und elektronische Zustellung

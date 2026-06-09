@@ -1,6 +1,6 @@
 ---
 name: simulation-bidder-steps-plan
-description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exk..."
+description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exk — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt simulation bidder steps plan."
 ---
 
 # Simulation Bieter-Prozess

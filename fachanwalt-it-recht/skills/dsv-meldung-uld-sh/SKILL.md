@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-uld-sh
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öff..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öff — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv meldung uld sh."
 ---
 
 # Reicht eine Meldung nach Art

@@ -1,6 +1,6 @@
 ---
 name: planvollzug-monitoring
-description: "Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweic..."
+description: "Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweic — Arbeitskontext: Insolvenzplan / StaRUG, Schwerpunkt planvollzug monitoring."
 ---
 
 # Planvollzug und Monitoring

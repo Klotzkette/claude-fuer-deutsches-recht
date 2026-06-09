@@ -5,50 +5,28 @@ description: "Interdictum fraudatorium und restitutio in integrum: weitere praet
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum
 
-## Interdictum fraudatorium
+## Quellenanker
 
-- Praetorisches Eilinstrument zur Sicherung des Status quo.
-- Inhalt: der Praetor verbietet dem Empfaenger des fraudulenten Vermoegens die weitere Verfuegung.
-- D. 42.8 ergaenzt um diese Verfahrensseite.
+- **D. 42.8.1 pr. (Ulpian)** — Edikt: quae fraudationis causa gesta erunt — Anfechtung gläubigerbenachteiligender Akte
+- **D. 42.8.6.11** — consilium fraudis und scientia fraudis des Erwerbers bei entgeltlichem Erwerb
+- **D. 42.8.25.1** — unentgeltlicher Erwerb: Rückgewähr auch ohne Kenntnis
+- **D. 22.1.38.4** — Umfang: Rückgewähr cum omni causa (mit Früchten)
 
-## Restitutio in integrum
+## Kernregeln
 
-- "Wiedereinsetzung in den vorigen Stand".
-- Praetorisches Gesamtinstitut, das den Schuldigen oder Geschaedigten in seinen vorherigen Vermoegenszustand zurueckversetzt.
-- Faelle: minderjaehriger Vertragspartner (ob aetatem), arglistige Taeuschung (ob dolum), Furcht (ob metum), Glaeubigerbenachteiligung (ob fraudem).
-- D. 4.6 (De in integrum restitutionibus).
+Die actio Pauliana (klassisch: interdictum fraudatorium + in integrum restitutio, justinianisch verschmolzen) ficht Vermögensverschiebungen des insolventen Schuldners an. Voraussetzungen: eventus damni (Gläubigerbenachteiligung), consilium fraudis (Benachteiligungsvorsatz des Schuldners), bei entgeltlichem Erwerb zusätzlich scientia fraudis des Erwerbers — der unentgeltliche Erwerber muss auch gutgläubig zurückgewähren (qui certat de damno vitando vs. de lucro captando). Jahresfrist (annus utilis).
 
-## Verzahnung
+## Moderne Parallele
 
-- Restitutio in integrum ob fraudem ist die uebergeordnete Lehre.
-- Actio Pauliana ist die spezifische Aktion für Glaeubigeranfechtung.
-- Interdictum fraudatorium sichert den Anspruch waehrend der Verfahrensdauer.
+Direkte Nachfahren: §§ 129 ff. InsO (Vorsatzanfechtung § 133 InsO = consilium + scientia; Schenkungsanfechtung § 134 InsO = strengere Haftung des Unentgeltlichen) und AnfG für die Einzelzwangsvollstreckung. Die Wertungsachse entgeltlich/unentgeltlich ist seit 2000 Jahren stabil.
 
-## Vergleich zu modernem Recht
+## Typische Fehler
 
-- Einstweilige Verfuegung nach §§ 935 ff. ZPO als Sicherungsinstrument.
-- Anfechtungsklage nach AnfG als Hauptverfahren.
-- Restitutio-Wirkung in § 143 InsO (Rueckgewaehrungsanspruch nach Insolvenzanfechtung).
+Pauliana nicht als Nichtigkeitsregel lesen — das Geschäft bleibt wirksam, nur die Rückgewähr wird geschuldet (relative Unwirksamkeit, wie § 143 InsO). Fristen und Beweislast je nach Fallgruppe trennen.
 
-## Pruefraster
+## Arbeitsweise
 
-1. Welches Instrument einschlaegig?
-2. Schutzbedarf wegen Vermoegensentzug?
-3. Beweislage hinreichend?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

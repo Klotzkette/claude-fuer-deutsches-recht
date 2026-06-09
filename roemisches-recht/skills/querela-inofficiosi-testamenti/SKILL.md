@@ -5,53 +5,30 @@ description: "Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Ski
 
 # Rom 145 Querela Inofficiosi Testamenti Pflichtteil
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 5.2 (De inofficioso testamento).
-- Codex 3.28.
-- Pliny, Letters.
+- **Gaius, Institutiones 2.101-108** — Testamentsformen: calatis comitiis, in procinctu, per aes et libram
+- **Gaius, Institutiones 2.224 ff.** — lex Falcidia: dem Erben bleibt das Viertel
+- **D. 5.2 (de inofficioso testamento)** — querela inofficiosi testamenti — Pflichtteilsschutz über das officium pietatis
+- **D. 28.2.11** — sui heredes: Hauserben erwerben ipso iure
+- **D. 29.7 / D. 30-32** — Kodizille und Legate; Fideikommisse als formfreie Zuwendungen
+- **Gaius, Institutiones 3.1-38** — Intestaterbfolge: sui — proximi agnati — gentiles; prätorische bonorum possessio unde liberi/unde cognati
 
-## Tatbestand
+## Kernregeln
 
-- Testator hat naechsten Verwandten (Kinder, Eltern) im Testament uebergangen oder unter portio legitima bedacht.
-- Pflichtteilsbruchteil: 1/4 dessen, was bei Intestaterbfolge zugefallen waere.
-- Spaeter Justinian: 1/3 bei wenigen Kindern, 1/2 bei mehr als 5 Kindern (Novelle 18).
+Das römische Erbrecht ruht auf der Universalsukzession: heres tritt in alle Rechte und Pflichten (auch Schulden — daher beneficium abstinendi für sui, später beneficium inventarii Justinians). Testamentsformen entwickeln sich von den Komitialformen zum Manzipationstestament (per aes et libram) und zum prätorischen Testament (tabulae septem signis signatae). Pflichtteilsschutz dreifach: formelle Enterbungsregeln (sui sind zu erwähnen oder ausdrücklich zu enterben), querela inofficiosi testamenti (materiell: pars quarta der Intestatquote), lex Falcidia (Erbenviertel gegen Legatsüberlastung). Fideikommisse — formlose Bitten an den Erben — werden ab Augustus klagbar (extra ordinem) und zum flexibelsten Nachlassinstrument (Familienfideikommiss, Universalfideikommiss mit SC Trebellianum).
 
-## Wirkung
+## Moderne Parallele
 
-- Testament wird vollstaendig für ungueltig erklaert ("rescissio testamenti").
-- Anschliessend Intestaterbfolge.
+BGB: Universalsukzession § 1922, Pflichtteil §§ 2303 ff. (Geldanspruch statt Erbenstellung — Abkehr von der querela-Logik), Vor-/Nacherbschaft §§ 2100 ff. als gezähmte Fideikommiss-Erbin (Familienfideikommisse 1919 abgeschafft), Vermächtnis §§ 2147 ff. als Damnationslegat-Nachfahre (nur obligatorisch — das Vindikationslegat ist mit der EU-ErbVO-Diskussion zurück im Gespräch).
 
-## Voraussetzungen
+## Typische Fehler
 
-- Klagebefugnis nur für naechste Verwandte.
-- Frist (annus utilis ab Kenntnis).
+Querela nicht als 'Pflichtteilsklage' im BGB-Sinn beschreiben — sie kassierte das GANZE Testament (color insaniae). Und: Legatstypen (per vindicationem/per damnationem) nicht vermengen; nur ersteres gab dinglichen Erwerb.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- §§ 2303 ff. BGB Pflichtteilsrecht.
-- Pflichtteil: 1/2 des gesetzlichen Erbteils als Geldanspruch.
-- Im Unterschied zum roemischen Recht: Testament bleibt wirksam; Pflichtteilberechtigter erhaelt Geld.
-
-## Pruefraster
-
-1. Pflichtteilsberechtigter Personenkreis?
-2. Portio legitima verletzt?
-3. Klage rechtzeitig?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

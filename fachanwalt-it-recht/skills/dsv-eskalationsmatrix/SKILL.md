@@ -1,6 +1,6 @@
 ---
 name: dsv-eskalationsmatrix
-description: "Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern: Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleit..."
+description: "Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern: Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleit — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv eskalationsmatrix."
 ---
 
 # Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern

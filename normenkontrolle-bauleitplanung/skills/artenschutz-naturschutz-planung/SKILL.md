@@ -1,6 +1,6 @@
 ---
 name: artenschutz-naturschutz-planung
-description: "Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNat..."
+description: "Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNat — Arbeitskontext: Normenkontrolle Bauleitplanung, Schwerpunkt artenschutz naturschutz planung."
 ---
 
 # Artenschutz und Naturschutz in der Bauleitplanung

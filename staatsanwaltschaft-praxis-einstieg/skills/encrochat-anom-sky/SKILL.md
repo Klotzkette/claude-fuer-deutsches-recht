@@ -1,6 +1,6 @@
 ---
 name: encrochat-anom-sky
-description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem S..."
+description: "EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem S — Arbeitskontext: Staatsanwaltschaft Praxis Einstieg, Schwerpunkt encrochat anom sky."
 ---
 
 # EncroChat, ANOM, Sky ECC und Kryptodienste

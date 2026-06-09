@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-richter-cisg-dsgvo
-description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz,..."
+description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, — Arbeitskontext: Urteilsbauer/Relationsmacher, Schwerpunkt beweiswuerdigung richter cisg dsgvo."
 ---
 
 # Beweiswürdigung mit haendischem Richter-Input

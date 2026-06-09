@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-bln-bdi
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Berlin und für nicht-öffentliche..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Berlin und für nicht-öffentliche — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv meldung bln bdi."
 ---
 
 # Reicht eine Meldung nach Art

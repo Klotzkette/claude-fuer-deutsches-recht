@@ -1,6 +1,6 @@
 ---
 name: bmukn-wasser-bmv-luft-mobilitaets
-description: "Sachbereich Wasser- und Bodenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Länder-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben un..."
+description: "Sachbereich Wasser- und Bodenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Länder-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben un — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmukn wasser bmv luft mobilitaets."
 ---
 
 # Wasser- und Bodenschutzrecht (BMUKN)

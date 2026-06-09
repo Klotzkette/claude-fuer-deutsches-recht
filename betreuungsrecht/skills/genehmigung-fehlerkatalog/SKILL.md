@@ -5,40 +5,60 @@ description: "Genehmigung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständi
 
 # Genehmigung Fehlerkatalog
 
-## Normenanker
+## Zweck
 
-Arbeitsfokus: **Genehmigung Fehlerkatalog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Betreuungsrecht** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `§ 1814 Abs. 1 BGB` — Erforderlichkeit der Betreuung.
-- `§ 1815 Abs. 1 BGB` — Aufgabenkreis.
-- `§ 1816 BGB` — Auswahl des Betreuers.
-- `§ 1821 Abs. 1 BGB` — Wunschbefolgung.
-- `§ 274 FamFG` — Beteiligte.
-- `§ 278 FamFG` — persönliche Anhörung.
-- `§ 280 FamFG` — Sachverständigengutachten.
-- `§ 293 FamFG` — Erweiterung oder Einschränkung der Betreuung.
-- `§ 5 BtOG` — Beratung und Unterstützung.
-- `§ 23 BtOG` — Registrierung beruflicher Betreuer.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Frist falsch berechnet oder übersehen (Beschwerde 1 Monat § 63 FamFG)
 
-## Einsatzlage
+- **Symptom:** Frist falsch berechnet oder übersehen (Beschwerde 1 Monat § 63 FamFG)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Dieser Fehlerkatalog prüft im Bereich **Betreuungsrecht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Parallelfrist vergessen (Genehmigung gerichtlich vor Maßnahme)
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Parallelfrist vergessen (Genehmigung gerichtlich vor Maßnahme)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-- `allgemein-anschluss-router-workflow-chronologie`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `aufgabenkreise-festlegen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `bericht-betreuer-betreuerpflichten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuer-als-erbe`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuer-als-registrierung-betreuung-anwaltskosten`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuer-registrierung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuerpflichten-genehmigung-betreuung-interessen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuung-anwaltskosten-rvg`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuung-bei-demenz`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `betreuung-demenz-erbe-werden-erwachsene-kinder`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Falsche Zuständigkeit adressiert (richtig: Betreuungsgericht (AG))
 
-## Heilung
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Betreuungsgericht (AG))
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Beweismittel nicht gesichert (Ärztliches Gutachten)
+
+- **Symptom:** Beweismittel nicht gesichert (Ärztliches Gutachten)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Betreuungsbeschluss)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Betreuungsbeschluss)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (§§ 1814 ff. BGB)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (§§ 1814 ff. BGB)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

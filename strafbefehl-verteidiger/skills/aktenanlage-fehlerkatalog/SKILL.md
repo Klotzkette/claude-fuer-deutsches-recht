@@ -5,46 +5,60 @@ description: "Aktenanlage Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständi
 
 # Aktenanlage Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Strafbefehl Verteidiger** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Strafbefehl-Verteidigung** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `deal-beweislast-einspruch-einspruchsentscheidung-folgen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `einstellung-153a-hauptverhandlung-vorbereitung-strafbefehl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `einstellung-fahrerlaubnis-mandantenentscheidung-hauptverhandlung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `gegen-strafbefehl-einspruch-strafbefehl-aktenanlage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `nebenfolgen-fahrerlaubnis-strafbefehl-pflichtverteidiger`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `nebenfolgen-strafbefehl-strafbefehls`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `rechtsmittel-nach-tagessaetze-geldstrafe-strafbefehl`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `stbv-einspruch-strafbefehl-fahrerlaubnis-auslaendischer-mandant`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `stbv-strafbefehl-abwesenheit-vertretung-akteneinsicht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (§ 410 StPO Einspruch 2 Wochen)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (§ 410 StPO Einspruch 2 Wochen)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Parallelfrist vergessen (Hauptverhandlung Antrag)
 
-## Normen und Rechtsprechung
+- **Symptom:** Parallelfrist vergessen (Hauptverhandlung Antrag)
+- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
+- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 
-### Kuratierte Normen-Bibliothek
+### 3. Falsche Zuständigkeit adressiert (richtig: Amtsgericht)
 
-- § 46 StGB
-- § 69 StGB
-- § 40 StGB
-- § 44 StGB
-- § 17 StGB
-- § 69a StGB
-- § 1 StGB
-- § 15 StGB
-- § 16 StGB
-- § 42 StGB
-- § 43 StGB
-- § 201 StGB
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Amtsgericht)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
 
-### Leitentscheidungen
+### 4. Beweismittel nicht gesichert (Vernehmungen)
 
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
+- **Symptom:** Beweismittel nicht gesichert (Vernehmungen)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 5. Schlüsseldokument fehlt oder veraltet (Strafbefehl)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Strafbefehl)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 6. Normzitat ohne Fassungsprüfung (§§ 407 ff. StPO)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (§§ 407 ff. StPO)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 7. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

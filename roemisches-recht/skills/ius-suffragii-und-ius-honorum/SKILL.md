@@ -5,54 +5,28 @@ description: "Ius suffragii und ius honorum: politische Buergerrechte im roemisc
 
 # Rom 155 Ius Suffragii Und Ius Honorum
 
-## Ius suffragii
+## Quellenanker
 
-- Stimmrecht in den Volksversammlungen (comitia centuriata, tributa, curiata).
-- Civis Romanus: voll.
-- Cives sine suffragio: keine politische Stimme, aber zivilrechtliche Buergerrechte (z. B. Bewohner einzelner Halb-Buergerschaftsstaedte).
-- Latini: eingeschraenkt, nur bei Anwesenheit in Rom.
+- **Gaius, Institutiones 1.9-1.17** — Statusabstufungen: cives, Latini, peregrini
+- **D. 1.5.17 (Ulpian)** — in orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt
+- **Cassius Dio 78.9** — Constitutio Antoniniana 212 n. Chr. — fiskalische Motive der Bürgerrechtsverleihung
+- **lex Irnitana (Flavisches Stadtgesetz)** — Munizipalverfassung: ius Latii, Bürgerrechtserwerb durch Ämter
 
-## Ius honorum
+## Kernregeln
 
-- Wahlbarkeit zu Aemtern (Quaestur, Aedilitaet, Praetur, Konsulat, Zensur).
-- Voraussetzung: civis sui iuris, vermoegen (census), bestimmtes Alter.
+Das römische Bürgerrecht bündelt ius suffragii (Stimmrecht), ius honorum (Ämterfähigkeit), conubium (Ehefähigkeit nach ius civile) und commercium (Teilnahme an mancipatio, Testament). Latiner haben commercium, meist kein conubium; peregrini leben nach ius gentium und ihrem Heimatrecht. Die Constitutio Antoniniana (212) verlieh fast allen Reichsbewohnern das Bürgerrecht — Folge: ius civile wurde Reichsrecht, Provinzialpraxis und klassisches Recht verschmolzen (Vulgarisierung).
 
-## Einschraenkungen
+## Moderne Parallele
 
-- Frauen: kein politisches Buergerrecht.
-- Liberti: kein ius honorum (erst Nachkommen freier libertini erhielten Aemtertaehigkeit).
-- Senatorenfamilien: Geburtsrecht zum cursus honorum.
+Moderne Parallelen: gestuftes Aufenthalts-/Staatsangehörigkeitsrecht (StAG), Unionsbürgerschaft Art. 20 AEUV als 'commercium und Freizügigkeit ohne volle politische Rechte' auf Bundesstaatsebene gedacht.
 
-## Vergleich zu modernem Recht
+## Typische Fehler
 
-- Aktives und passives Wahlrecht Art. 38 GG.
-- Geschlechtergleichstellung Art. 3 GG.
+Die Constitutio Antoniniana nicht als humanitären Akt lesen — Steuerpflicht (vicesima hereditatium) war Hauptmotiv. Nach 212 nicht weiter scharf zwischen cives und peregrini argumentieren, außer für dediticii.
 
-## Pruefraster
+## Arbeitsweise
 
-1. Welche politische Stellung?
-2. Welche Wahlbarkeit?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Powersprint-Vertiefung
-
-- **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
-- **Actio-Denken:** Prüfe bei `Rom 155 Ius Suffragii Und Ius Honorum` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
-- **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
-- **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

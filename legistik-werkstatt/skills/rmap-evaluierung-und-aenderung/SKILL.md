@@ -1,6 +1,6 @@
 ---
 name: rmap-evaluierung-und-aenderung
-description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfad..."
+description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfad — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt rmap evaluierung und aenderung."
 ---
 
 # Evaluierung und Aenderung von Rulemap-Normen

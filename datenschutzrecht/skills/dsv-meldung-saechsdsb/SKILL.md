@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-saechsdsb
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung saechsdsb."
 ---
 
 # Reicht eine Meldung nach Art

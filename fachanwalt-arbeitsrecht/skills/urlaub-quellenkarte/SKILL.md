@@ -5,35 +5,46 @@ description: "Urlaub Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung,
 
 # Urlaub Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Fachanwalt Arbeitsrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Fachanwalt Arbeitsrecht** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-ar-kuendigungspruefung-fazugang-arbeitgeber`
-- `ar-aufhebungsvertrag-konkurrenzklausel-fachanwalt-arbeitsrecht`
-- `ar-betriebsuebergang-ar-einfuehrung-ar-leiharbeit`
-- `arbeitsgericht-abrechnung-vergleichsverhandlung-strategie-zugang`
-- `befristung-compliance-dokumentation-und-akte`
-- `befristung-tzbfg-bem-verfahren-fazugang-kuendigungsfrist`
-- `beteiligung-betriebsrat-erstgespraech-mandatsannahme-fachanwalt`
-- `betriebsrat-zahlen-schwellen-und-berechnung`
-- `entgtranspg-verhandlung-vergleich-und-eskalation`
-- `fachanwalt-arbeitsrecht-bag-betriebsratsanhoerung`
-- `fachanwalt-arbeitsrecht-freistellungsklausel-sonderfall-ar`
-- `fachanwalt-arbeitsrecht-hinschg-kuendigungsschutzklage`
+- **BGB §§ 611a ff., 623** — amtlichen Stand vor tragender Aussage prüfen
+- **KSchG §§ 1, 4, 7** — amtlichen Stand vor tragender Aussage prüfen
+- **AGG** — amtlichen Stand vor tragender Aussage prüfen
+- **TzBfG** — amtlichen Stand vor tragender Aussage prüfen
+- **BetrVG** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Arbeitsgericht (1. Instanz)
+- LAG
+- BAG
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- bundesarbeitsgericht.de (BAG-Entscheidungen)
+- rechtsprechung-im-internet.de
+
+## Fristen mit Quellenrelevanz
+
+- § 4 KSchG 3 Wochen Kündigungsschutzklage
+- § 7 KSchG Wirksamkeitsfiktion
+- § 15 AGG 2 Monate Geltendmachung
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

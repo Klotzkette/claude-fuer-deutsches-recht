@@ -1,6 +1,6 @@
 ---
 name: datenqualitaet-xai
-description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette..."
+description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt datenqualitaet xai."
 ---
 
 # Datenqualität und Qualitätskontrolle im M&A-Mandat

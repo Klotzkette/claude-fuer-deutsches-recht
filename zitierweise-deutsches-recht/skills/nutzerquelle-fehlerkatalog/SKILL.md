@@ -5,38 +5,36 @@ description: "Nutzerquelle Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständ
 
 # Nutzerquelle Fehlerkatalog
 
-## Regelungs- und Quellenanker
+## Zweck
 
-Arbeitsfokus: **Nutzerquelle Fehlerkatalog**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Zitierweise deutsches Recht** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
-- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
-- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
-- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
-- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
-- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
-- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+## Fehlerkatalog
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+### 1. Schlüsseldokument fehlt oder veraltet (Entscheidung)
 
-## Einsatzlage
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Entscheidung)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
 
-Dieser Fehlerkatalog prüft im Bereich **Zitierweise Deutsches Recht** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+### 2. Normzitat ohne Fassungsprüfung (Standardzitierregeln (Gericht, Datum, Az, Fundstelle, Rn))
 
-## Fachspezifische Fehlerachsen
+- **Symptom:** Normzitat ohne Fassungsprüfung (Standardzitierregeln (Gericht, Datum, Az, Fundstelle, Rn))
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `aufsatz-interessen-beckrs-blindzitate`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `datum-entscheidungsform-spezial-gericht`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `hauszitierweise-juristische-kommentar`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `literatur-live-beweislast-lizenziertem`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `rechtsprechung-zit-rechtsprechungszitierung-zitat-eugh`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `verifizierbarer-zugriff-sonderfall-zit-gesetzeszitierung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `zit-gesetzeszitierung-bauleiter`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `zit-internationale-urteile-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `zit-internationale-zit-kommentar-zitat-amtliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 3. Rechtsprechung aus Modellwissen zitiert
 
-## Heilung
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 4. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

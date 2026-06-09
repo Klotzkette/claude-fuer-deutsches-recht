@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lda-brandenburg
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenbu..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenbu — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung lda brandenburg."
 ---
 
 # Reicht eine Meldung nach Art

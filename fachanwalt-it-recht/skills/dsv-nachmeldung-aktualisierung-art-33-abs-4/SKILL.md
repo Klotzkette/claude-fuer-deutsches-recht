@@ -1,6 +1,6 @@
 ---
 name: dsv-nachmeldung-aktualisierung-art-33-abs-4
-description: "Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art: 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener..."
+description: "Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art: 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv nachmeldung aktualisierung art 33 abs 4."
 ---
 
 # Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art

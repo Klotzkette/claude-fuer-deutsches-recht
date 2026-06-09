@@ -5,54 +5,28 @@ description: "Pignus conventum und hypotheca: dingliche Sicherheiten im roemisch
 
 # Rom 137 Pignus Conventum Hypotheca Praxisfaelle
 
-## Pignus
+## Quellenanker
 
-- Verpfaendung mit Besitzuebergabe.
-- Glaeubiger erhaelt Realbesitz.
-- Bei Nichterfuellung Verkaufsbefugnis.
+- **D. 13.7 (de pigneraticia actione)** — pignus als Besitzpfand mit Rückgabepflicht
+- **D. 20.1.4 (Gaius)** — hypotheca: Verpfändung ohne Besitzübergabe, auch künftiger Sachen
+- **D. 20.4.11 (Gaius)** — prior tempore potior iure — Rangfolge mehrerer Pfandrechte
+- **D. 20.1.15.1** — Generalhypothek an gegenwärtigem und künftigem Vermögen
 
-## Hypotheca
+## Kernregeln
 
-- Verpfaendung ohne Besitzuebergabe.
-- Hauptschuldner behaelt Sache.
-- Glaeubiger erhielt actio Serviana, actio quasi-Serviana, actio hypothecaria.
+Rom kennt drei Sicherungsstufen: fiducia (Sicherungsübereignung mit pactum fiduciae), pignus (Faustpfand), hypotheca (besitzloses Pfand, aus dem griechisch-hellenistischen Verkehr übernommen). Hypothek ist akzessorisch, formfrei, an allem Verkehrsfähigen möglich — auch Generalhypotheken am Gesamtvermögen waren üblich (Publizitätsproblem!). Rangfolge: prior tempore; Privilegien (Fiskus, Mitgift) durchbrechen die Zeitreihenfolge.
 
-## Sondertyp invecta et illata
+## Moderne Parallele
 
-- Im Mietvertrag (locatio conductio rei): das vom Paechter eingebrachte Inventar (Geraete, Mobiliar) hatte stillschweigend Pfandqualitaet zugunsten des Vermieters.
-- D. 20.2.
+BGB spaltet auf: Faustpfand §§ 1204 ff. (strenges Publizitätsprinzip — Reaktion auf die römische Heimlichkeit!), Hypothek/Grundschuld §§ 1113 ff./1191 ff. nur an Grundstücken mit Grundbuchpublizität. Die formlose Mobiliarhypothek Roms lebt wirtschaftlich in der Sicherungsübereignung fort — mit denselben Publizitätsproblemen.
 
-## Rangordnung
+## Typische Fehler
 
-- Praetorische Privilegien (fiscus, vom Mann verschuldete Mitgift).
-- Mehrere Pfandrechte: prior tempore potior iure.
+Römische hypotheca nicht mit BGB-Hypothek gleichsetzen: keine Registereintragung, keine Beschränkung auf Immobilien. Gerade das Publizitätsdefizit erklärt die BGB-Gestaltung.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- §§ 1204 ff. BGB Pfandrecht beweglicher Sachen.
-- §§ 1113 ff. BGB Hypothek (an Grundstuecken).
-- § 562 BGB Vermieterpfandrecht (Pendant invecta et illata).
-- § 559 BGB Verpfaendung in der Mietsache.
-
-## Pruefraster
-
-1. Welche Sicherungsform?
-2. Besitzuebergabe erfolgt?
-3. Rangverhaeltnis?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

@@ -1,6 +1,6 @@
 ---
 name: anfg-unentgeltliche-vorsatzanfechtung
-description: "Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebni..."
+description: "Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebni — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt anfg unentgeltliche vorsatzanfechtung."
 ---
 
 # Unentgeltliche Leistung — § 4 AnfG

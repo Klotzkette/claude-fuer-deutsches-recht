@@ -1,6 +1,6 @@
 ---
 name: normenkartierung-normenkontrollrat-kmu
-description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrech..."
+description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrech — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt normenkartierung normenkontrollrat kmu."
 ---
 
 # Normenkartierung

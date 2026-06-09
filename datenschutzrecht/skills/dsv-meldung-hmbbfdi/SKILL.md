@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-hmbbfdi
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffe..."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffe — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung hmbbfdi."
 ---
 
 # Reicht eine Meldung nach Art

@@ -1,6 +1,6 @@
 ---
 name: agb-bei-versicherungsvertraegen-vvg
-description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert..."
+description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert — Arbeitskontext: Agb Recht Pruefer, Schwerpunkt agb bei versicherungsvertraegen vvg."
 ---
 
 # Agb Bei Versicherungsvertraegen Vvg

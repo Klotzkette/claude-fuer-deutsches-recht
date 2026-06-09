@@ -1,6 +1,6 @@
 ---
 name: dsv-interne-dokumentation-art-33-abs-5
-description: "Pflegt das interne Vorfallregister nach Art: 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; A..."
+description: "Pflegt das interne Vorfallregister nach Art: 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; A — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv interne dokumentation art 33 abs 5."
 ---
 
 # Pflegt das interne Vorfallregister nach Art

@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-regelung-tom-zertifizierungen
-description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz..."
+description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz — Arbeitskontext: Berufsrechts-KI bei Vertragsprüfung, Schwerpunkt subunternehmer regelung tom zertifizierungen."
 ---
 
 # Subunternehmer-Regelung prüfen

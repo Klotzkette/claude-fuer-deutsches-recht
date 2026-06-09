@@ -1,6 +1,6 @@
 ---
 name: leitfaden-ermittlung-und-darstellung
-description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Ch..."
+description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Ch — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt leitfaden ermittlung und darstellung."
 ---
 
 # NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands

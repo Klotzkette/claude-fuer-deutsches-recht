@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-sicht-zeitwerttabelle
-description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. M..."
+description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. M — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt verhaeltnismaessigkeit sicht zeitwerttabelle."
 ---
 
 # NKR-Verhaeltnismaessigkeit aus NKR-Sicht

@@ -5,35 +5,41 @@ description: "Famfg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, 
 
 # Famfg Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Fachanwalt Familienrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Fachanwalt Familienrecht** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-famr-trennungsfolgen-vermoegensauseinandersetzung`
-- `anpassung-wegen-anwartschaft-dynamisch-ausgleich-nach`
-- `anrechte-dokumentenintake`
-- `beamtenrechtliche-kuerzung-und-rueckausnahme`
-- `erstgespraech-mandatsannahme-eu-auslandsrenten-excel-pruefmatrix`
-- `fachanwalt-familienrecht-kindeswohlgefaehrdung-mediation-famfg`
-- `fachanwalt-familienrecht-unterhaltsberechnung-zugewinnausgleich`
-- `familiengericht-familienrecht-lebenspartnerschaft-beweislast`
-- `famr-mandantenaufnahme-regenbogenfamilien-versorgungsausgleich`
-- `geringfuegigkeit-versausglg-gesetzliche-rentenversicherung`
-- `kanzlei-fristennotiz-und-naechster-schritt`
-- `kapitalwert-korrespondierender-kindeswohl-hochkonflikt`
+- **BGB §§ 1297 ff.** — amtlichen Stand vor tragender Aussage prüfen
+- **FamFG** — amtlichen Stand vor tragender Aussage prüfen
+- **VersAusglG** — amtlichen Stand vor tragender Aussage prüfen
+- **KindUVO** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Familiengericht (AG)
+- Jugendamt
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Trennungsjahr § 1565 BGB
+- Beschwerde 1 Monat § 63 FamFG
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

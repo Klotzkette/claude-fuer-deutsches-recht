@@ -1,6 +1,6 @@
 ---
 name: dsv-benachrichtigung-art-34-betroffene
-description: "Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art: 34 DSGVO. Behandelt: Pflichtinhalte n..."
+description: "Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art: 34 DSGVO. Behandelt: Pflichtinhalte n — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv benachrichtigung art 34 betroffene."
 ---
 
 # Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art

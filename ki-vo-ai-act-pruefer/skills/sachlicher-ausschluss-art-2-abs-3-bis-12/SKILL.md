@@ -1,6 +1,6 @@
 ---
 name: sachlicher-ausschluss-art-2-abs-3-bis-12
-description: "Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 p..."
+description: "Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 p — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt sachlicher ausschluss art 2 abs 3 bis 12."
 ---
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO

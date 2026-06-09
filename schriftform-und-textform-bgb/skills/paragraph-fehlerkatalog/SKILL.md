@@ -5,23 +5,54 @@ description: "Paragraph Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigk
 
 # Paragraph Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Schriftform Und Textform Bgb** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Schriftform/Textform BGB** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anspruchsformulierungen-formverstoss-buergschaft`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `arbeitsrecht-befristung-schriftform-checker-vertrag`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `elektronische-paragraph-formerfordernisse-ueberblick`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `formwahl-zugang-live-prozessablauf-mandantenentscheidung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `klauselgenerator-formvorbehalt-maklervertrag-paragraph-amtlicher`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `kuendigung-per-mandantenkorrespondenz-zugang-mandantenwarnung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `notarielle-beurkundung-prozessablauf-papier-paragraph`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `prozessordnungen-textform-verifikation`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `sftf-arbeitsvertraege-nachweisgesetz-doppelschriftform-aufhebung`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Form vor Wirksamkeit)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Form vor Wirksamkeit)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Falsche Zuständigkeit adressiert (richtig: Zivilgerichte)
+
+- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Zivilgerichte)
+- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
+- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
+
+### 3. Beweismittel nicht gesichert (Empfangsbestätigung)
+
+- **Symptom:** Beweismittel nicht gesichert (Empfangsbestätigung)
+- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
+- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
+
+### 4. Schlüsseldokument fehlt oder veraltet (Vertrag)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Vertrag)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 5. Normzitat ohne Fassungsprüfung (§§ 126, 126a, 126b BGB)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (§§ 126, 126a, 126b BGB)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 6. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 7. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

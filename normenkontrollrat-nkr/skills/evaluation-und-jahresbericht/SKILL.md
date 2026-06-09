@@ -1,6 +1,6 @@
 ---
 name: evaluation-und-jahresbericht
-description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen für Jahresberichts-Bezugnahmen und ex-p..."
+description: "Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen für Jahresberichts-Bezugnahmen und ex-p — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt evaluation und jahresbericht."
 ---
 
 # NKR-Evaluation und Jahresbericht

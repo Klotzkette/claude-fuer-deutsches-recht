@@ -1,6 +1,6 @@
 ---
 name: bmleh-oekolandbau-pflanzenschutzrecht
-description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschaeftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typisch..."
+description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschaeftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typisch — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmleh oekolandbau pflanzenschutzrecht."
 ---
 
 # Oekolandbau und Pflanzenschutzrecht (BMLEH)

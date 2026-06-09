@@ -5,56 +5,28 @@ description: "Fenus nauticum: Seedarlehen als roemisches Vorlaeufer der Seeversi
 
 # Rom 123 Fenus Nauticum Seedarlehen
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 22.2 (De nautico fenore).
-- D. 45.1.122.1 zu Bezahlung.
-- Cicero, Pro Murena, mit Andeutungen zur Praxis.
+- **Gaius, Institutiones 3.90** — mutuum: Realvertrag durch datio; nur die Summe selbst geschuldet
+- **D. 12.1.2.1 (Paulus)** — mutuum quasi de meo tuum — Eigentumsübertragung an vertretbaren Sachen
+- **D. 22.2 (de nautico faenore)** — Seedarlehen: Zins über Landzinsmaximum, Rückzahlung nur bei glücklicher Ankunft
+- **C. 4.32.26.2 (Justinian)** — Zinsstaffel: 4-8 % je nach Person, 12 % fenus nauticum
 
-## Tatbestand
+## Kernregeln
 
-- Darlehen (mutuum) zum Seetransport von Gut.
-- Sondervorschrift: Risiko liegt beim Darlehensgeber.
-- Bei Schiffsuntergang erlischt die Darlehensschuld.
-- Bei sicherer Ankunft schuldet der Darlehensnehmer Hauptbetrag plus Zinsen.
+Mutuum ist Realvertrag: erst die datio (Eigentumsübertragung an Geld oder vertretbaren Sachen) begründet die Rückzahlungspflicht — stricti iuris, zinslos. Zinsen brauchen eine separate stipulatio usurarum. Das fenus nauticum (Seedarlehen) ist Roms Versicherungsersatz: Der Darlehensgeber trägt die Seegefahr (Rückzahlung nur si salva navis pervenerit), dafür unbegrenzter, später auf 12 % gedeckelter Zins — Risikoprämie statt Versicherungsprämie.
 
-## Zinsen
+## Moderne Parallele
 
-- Allgemeine Zinsobergrenze 12 Prozent pro Jahr (centesima usura) gilt bei fenus nauticum nicht.
-- Sonderhoehe wegen Risikotragung — historisch 30 Prozent für eine einfache Mittelmeerfahrt belegt.
-- Sondervorschrift D. 22.2.
+BGB § 488 macht das Darlehen zum Konsensualvertrag; Zinsen sind heute Regelfall. Das fenus nauticum ist der dogmatische Urahn von Seeversicherung und projektbezogener Risikofinanzierung (non-recourse-Finanzierung: Rückzahlung nur aus dem Projekterfolg).
 
-## Beendigung
+## Typische Fehler
 
-- Bei Schiffsuntergang (perit res): Darlehen erlischt.
-- Bei sicherer Ankunft: Hauptbetrag plus Zinsen geschuldet.
+Mutuum-Zinsen nicht aus dem Vertrag selbst ableiten — ohne Zins-Stipulation gab es nur die Summe. Realvertragsnatur ernst nehmen: bloße Einigung verpflichtete nicht.
 
-## Fortwirkung
+## Arbeitsweise
 
-- Versicherung war damit funktional als Element des Darlehens vorhanden.
-- Spaeteres Vorbild für die mittelalterlichen "Bottomry Bonds".
-- Heute strikte Trennung von Darlehen und Versicherung.
-
-## Pruefraster
-
-1. Darlehensvertrag?
-2. Risiko auf Darlehensgeber?
-3. Zinsenrahmen?
-4. Untergang oder Ankunft?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

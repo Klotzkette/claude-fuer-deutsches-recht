@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-abgetretene-forderung
-description: "Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgre..."
+description: "Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgre — Arbeitskontext: Bereicherungs Und Anfechtungsrecht Pruefer, Schwerpunkt verschaerfte haftung abgetretene forderung."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit

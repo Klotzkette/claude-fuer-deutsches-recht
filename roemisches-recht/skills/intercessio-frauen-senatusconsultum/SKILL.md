@@ -5,51 +5,28 @@ description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot
 
 # Rom 136 Intercessio Frauen Senatusconsultum Velleianum
 
-## Rechtsquelle
+## Quellenanker
 
-- Senatusconsultum Velleianum (ca. 46 n. Chr. unter Claudius oder Nero; Datum vor Zitat verifizieren).
-- D. 16.1 (Ad senatusconsultum Velleianum).
-- Insbesondere D. 16.1.1 (Paulus).
+- **Gaius, Institutiones 1.142-196** — tutela impuberum und tutela mulierum
+- **D. 26.1.1 pr. (Paulus)** — tutela est vis ac potestas in capite libero ad tuendum eum
+- **D. 16.1.2.1 (Ulpian)** — SC Velleianum: Interzessionsverbot für Frauen
+- **D. 27.3** — actio tutelae: Rechenschaftsklage gegen den Vormund, infamierend
 
-## Tatbestand
+## Kernregeln
 
-- Intercessio (Buergschaft, Schuldbeitritt oder Vermoegensgabe) durch eine Frau zugunsten eines Dritten.
+Tutela impuberum schützt Unmündige sui iuris: Der tutor verwaltet (negotiorum gestio) oder ergänzt durch auctoritatis interpositio. Nach Mündigkeit drohen actio tutelae (bonae fidei, infamierend) und seit republikanischer Zeit strafrechtlich das crimen suspecti tutoris. Die tutela mulierum verkam klassisch zur Form (auctoritas erzwingbar); das SC Velleianum verbietet Frauen die Interzession (Bürgschaft/Schuldübernahme für Dritte) — Schutznorm mit zweischneidiger Wirkung (Kreditausschluss). Cura ergänzt für minores XXV annis (cura minorum mit in integrum restitutio ob aetatem), furiosi und prodigi.
 
-## Rechtsfolge
+## Moderne Parallele
 
-- Frau erhielt eine exceptio (Einrede), wenn der Glaeubiger gegen sie klagte.
-- Verpflichtung war nicht nichtig, aber unklagbar.
-- Schutz der Frau vor Ueberforderung.
+Heute: rechtliche Betreuung §§ 1814 ff. BGB (seit 2023 reformiert) statt Entmündigung; Vormundschaft §§ 1773 ff. BGB nur noch für Minderjährige. Die Velleianum-Logik kehrt in der Rechtsprechung zur Sittenwidrigkeit krass überfordernder Angehörigenbürgschaften (§ 138 BGB, BVerfGE 89, 214) strukturell wieder — Schutz vor Interzession aus emotionaler Verbundenheit.
 
-## Umgehungen
+## Typische Fehler
 
-- Wenn die Frau bei klarer Kenntnis bewusst intercessio ueblichkeitsgemaess uebernommen hat.
-- Wenn der Glaeubiger nach Aufklaerung erneute Bestaetigung erhielt.
+Tutela mulierum nicht als faktische Entrechtung der klassischen Römerin überzeichnen — Juristen halfen mit Zwangs-auctoritas und tutor optivus; die Frau sui iuris verwaltete ihr Vermögen weitgehend selbst.
 
-## Vergleich zu modernem Recht
+## Arbeitsweise
 
-- BGH-Linie zu Ehegattenbuergschaften: § 138 BGB Sittenwidrigkeit bei kraesser ueberforderung (BGH IX ZR 56/93 Buergschaft Vermoegenslose).
-- BVerfG zur Ehegattenbuergschaft (Beschluss vom 19.10.1993, Az 1 BvR 567/89): Schutzpflicht des Staates.
-
-## Pruefraster
-
-1. Frauenintercessio?
-2. Wirksame exceptio?
-3. Bestaetigung erfolgt?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

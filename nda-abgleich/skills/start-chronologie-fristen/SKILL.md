@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im NDA Abgleich-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordn..."
+description: "Einstieg, Schnelltriage und Fallrouting im NDA Abgleich-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordn — Arbeitskontext: NDA-Abgleich, Schwerpunkt start chronologie fristen."
 ---
 
 # NDA Abgleich — Allgemein

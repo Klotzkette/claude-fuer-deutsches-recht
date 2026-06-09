@@ -1,6 +1,6 @@
 ---
 name: dsv-risikobewertung-edsa-leitlinie
-description: "Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch: Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die..."
+description: "Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch: Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv risikobewertung edsa leitlinie."
 ---
 
 # Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch

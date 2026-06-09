@@ -1,6 +1,6 @@
 ---
 name: dsv-schadensersatz-art-82
-description: "Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art: 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterielle..."
+description: "Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art: 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterielle — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv schadensersatz art 82."
 ---
 
 # Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art

@@ -1,6 +1,6 @@
 ---
 name: orientierung-und-mandatsaufnahme
-description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pr..."
+description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pr — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt orientierung und mandatsaufnahme."
 ---
 
 # NKR-Orientierung und Mandatsaufnahme

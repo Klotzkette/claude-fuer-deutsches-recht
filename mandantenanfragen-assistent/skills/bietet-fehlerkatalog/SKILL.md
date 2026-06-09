@@ -5,23 +5,42 @@ description: "Bietet Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit
 
 # Bietet Fehlerkatalog
 
-## Einsatzlage
+## Zweck
 
-Dieser Fehlerkatalog prüft im Bereich **Mandantenanfragen Assistent** Ergebnisse vor Abgabe, Versand, Einreichung oder Mandantenfreigabe belastbar gegen.
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Mandantenanfragen-Assistent** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
 
-## Fachspezifische Fehlerachsen
+## Fehlerkatalog
 
-- `allgemein-workflow-chronologie-workflow-fristen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `anrede-anwaltskanzleien-bittet`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dankt-dsgvo-sonderfall-e-mail`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `dringlichkeitsmarker-einwilligung-hinweis-erstantwort-generator`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `erstantwort-foermlich-mail`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `folgekorrespondenz-vorbereiten-konfliktcheck-vorab-ma`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `ma-einfuehrung-ma-erstvermerk-ma-konfliktcheck`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `ma-mandant-manda-erstgespraechsleitfaden-manda-erstkontakt`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `manda-mandatsablehnung-rechtsschutz-eintrittsanfrage`: für dieses Thema typischen Fehler aktiv gegenprüfen.
-- `mandantenanfragen-anfrage-eingang-anrede-uebernehmen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
+### 1. Frist falsch berechnet oder übersehen (Unverzügliche Antwort)
 
-## Heilung
+- **Symptom:** Frist falsch berechnet oder übersehen (Unverzügliche Antwort)
+- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
+- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+### 2. Schlüsseldokument fehlt oder veraltet (Mandantenmail)
+
+- **Symptom:** Schlüsseldokument fehlt oder veraltet (Mandantenmail)
+- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
+- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
+
+### 3. Normzitat ohne Fassungsprüfung (BRAO § 43 Sachlichkeit)
+
+- **Symptom:** Normzitat ohne Fassungsprüfung (BRAO § 43 Sachlichkeit)
+- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
+- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
+
+### 4. Rechtsprechung aus Modellwissen zitiert
+
+- **Symptom:** Rechtsprechung aus Modellwissen zitiert
+- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
+- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
+
+### 5. Mandantengeheimnis bei Tool-Einsatz verletzt
+
+- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
+- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+
+## Ausgabe
+
+Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.

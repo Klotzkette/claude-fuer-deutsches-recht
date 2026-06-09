@@ -5,64 +5,29 @@ description: "Roemische Seerouten und Importzollordnung. Skill behandelt die his
 
 # Rom 128 Seerouten Ostia Alexandria Und Importzoll
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **D. 14.2.1 (Paulus)** — lex Rhodia de iactu: Seewurf wird anteilig von allen getragen
+- **D. 14.2.2 pr. (Paulus)** — Abwicklung über die Frachtvertragsklagen (locatio conductio), nicht direkt
+- **D. 4.9.1 pr. (Ulpian)** — receptum nautarum cauponum stabulariorum: Erfolgshaftung für eingebrachte Sachen
+- **D. 4.9.3.1** — Haftungsgrenze: vis maior (Schiffbruch, Piraten) befreit
+- **D. 14.1.1 (Ulpian)** — actio exercitoria: Reeder haftet voll für Geschäfte des magister navis
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Das römische Seehandelsrecht rezipiert griechische Praxis: Die lex Rhodia verteilt Seewurf-Schäden (iactus) anteilig auf Ladung und Schiff — abgewickelt elegant über die Frachtvertragsklagen (Ladungseigentümer → actio locati gegen den Kapitän; dieser → actio conducti gegen die übrigen Befrachter). Das receptum nautarum macht Schiffer, Wirte und Stallhalter verschuldensunabhängig für eingebrachte Sachen haftbar (Misstrauen gegen das Gewerbe!), Grenze: vis maior. Die actio exercitoria lässt den Reeder (exercitor) unbeschränkt für Verträge seines Kapitäns haften — Verkehrsschutz im Überseegeschäft.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lex Rhodia lebt fort als Große Haverei (§§ 588 ff. HGB, York-Antwerp Rules); receptum als Gastwirtshaftung §§ 701 ff. BGB (verschuldensunabhängig bis heute!) und in der Obhutshaftung des Frachtführers § 425 HGB; exercitoria in §§ 477 ff. HGB (Ausrüsterhaftung) und der Rechtsscheinvollmacht.
 
-## Hauptrouten
+## Typische Fehler
 
-- Ostia (Tiber-Muendung) - Alexandria (Aegypten): Getreide, Papyrus.
-- Ostia - Karthago: Olivenoel.
-- Ostia - Hispania: Garum, Salz, Metalle.
-- Ostia - Indien: Pfeffer, Edelsteine, Seide (ueber das Rote Meer).
+Rom kannte KEINE Versicherung — Risikoverteilung lief über fenus nauticum, lex Rhodia und Haftungsregeln. 'Römische Seeversicherung' ist ein Anachronismus; die Police entsteht im italienischen Spätmittelalter.
 
-## Portoria
+## Arbeitsweise
 
-- Zoll auf importierte und exportierte Gueter.
-- Hoehe: typischerweise 2,5 Prozent (XL = quadragesima Galliarum), zum Teil hoeher.
-- Indienhandel: 25 Prozent (vicesima quinta).
-
-## Aufsicht
-
-- Procuratores des Fiscus.
-- Conductores publicanorum (Steuerpaechter).
-
-## Rechtspraxis
-
-- Importeur deklarierte Ware bei der Zollstelle.
-- Quittung (chirographum).
-- Bei Schmuggel: Konfiskation plus Strafzahlung.
-
-## Quellen
-
-- Plinius der Aeltere, Naturalis Historia.
-- Periplus Maris Erythraei (anonymes Werk ca. 1. Jh. n. Chr.).
-- D. 39.4 (De publicanis et vectigalibus et commissis).
-
-## Pruefraster
-
-1. Welche Route?
-2. Welche Ware?
-3. Welcher Zollsatz?
-4. Welche Deklaration?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

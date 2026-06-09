@@ -1,6 +1,6 @@
 ---
 name: onboarding-bescheid-lesen-festsetzungsverjaehrung
-description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Be..."
+description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Be — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt onboarding bescheid lesen festsetzungsverjaehrung."
 ---
 
 # Steuerbescheid lesen — die ersten 10 Minuten

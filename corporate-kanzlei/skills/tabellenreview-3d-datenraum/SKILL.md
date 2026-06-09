@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-datenraum
-description: "Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Ka..."
+description: "Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Ka — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt tabellenreview 3d datenraum."
 ---
 
 # Tabellenreview 3D-Datenraum

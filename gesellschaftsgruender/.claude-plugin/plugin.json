@@ -1,6 +1,6 @@
 {
   "name": "gesellschaftsgruender",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden, Steuerstart, IP, Datenschutz, erste 100 Tage und Streitprävention.",
   "license": "Apache-2.0 OR MIT",
   "author": {

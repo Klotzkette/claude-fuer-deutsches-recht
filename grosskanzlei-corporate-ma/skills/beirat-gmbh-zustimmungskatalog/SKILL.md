@@ -1,6 +1,6 @@
 ---
 name: beirat-gmbh-zustimmungskatalog
-description: "Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie."
+description: "Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie — Arbeitskontext: Grosskanzlei Corporate Ma, Schwerpunkt beirat gmbh zustimmungskatalog."
 ---
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik

@@ -1,6 +1,6 @@
 ---
 name: dsv-stakeholder-mapping
-description: "Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher: Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Ver..."
+description: "Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher: Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Ver — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv stakeholder mapping."
 ---
 
 # Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher

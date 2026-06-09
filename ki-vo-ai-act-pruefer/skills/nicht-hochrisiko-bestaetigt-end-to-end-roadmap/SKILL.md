@@ -1,6 +1,6 @@
 ---
 name: nicht-hochrisiko-bestaetigt-end-to-end-roadmap
-description: "Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transpa..."
+description: "Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transpa — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt nicht hochrisiko bestaetigt end to end roadmap."
 ---
 
 # Kein Hochrisiko bestätigt — die End-to-End-Roadmap

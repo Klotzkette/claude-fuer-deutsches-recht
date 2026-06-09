@@ -5,35 +5,43 @@ description: "Kündigung Quellenkarte: Quellenprüfung; Normenstand, Rechtsprech
 
 # Kündigung Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Fachanwalt Miet Wohnungseigentumsrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Fachanwalt Miet- und Wohnungseigentumsrecht** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-abschlusskontrolle-weg-anschluss-router`
-- `antennen-satellitenschuessel-aufrechnung-zurueckbehaltung`
-- `bauliche-veraenderung-betriebskosten-schnellscan-workflow`
-- `baurecht-schnittstelle-belegeinsicht-betriebskosten-berliner`
-- `beschlussanfechtung-abrechnungsfrist-nachforderung-erhalt`
-- `betrkv-interessen-bgb-co2kostenaufteilung-diskriminierung-agg`
-- `dokumentenstapel-sortieren-first-year-fotobeweis-mangel-workflow`
-- `eigenbedarf-personenkreis-energieausweis-mietrecht-erhaltung-vs`
-- `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung-weg`
-- `fachanwalt-steuer-schnittstelle-erstgespraech-mandatsannahme`
-- `gartenpflege-baumfaellung-gewerberaum-betriebspflicht`
-- `geg-waermepumpe-gerichtstermin-vorbereitung-gewerberaum-intake`
+- **BGB §§ 535-580a, WEG** — amtlichen Stand vor tragender Aussage prüfen
+- **BetrKV** — amtlichen Stand vor tragender Aussage prüfen
+- **HeizkostenV** — amtlichen Stand vor tragender Aussage prüfen
+- **BImSchG** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Amtsgericht Belegenheit (Miete + WEG)
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- bundesgerichtshof.de (VIII. und V. Zivilsenat)
+- Mietspiegel-Portale der Kommunen
+
+## Fristen mit Quellenrelevanz
+
+- § 573c BGB Kündigung
+- § 44/45 WEG Beschlussanfechtung
+- § 558b Mieterhöhung-Zustimmung
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

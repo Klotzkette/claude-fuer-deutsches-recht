@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachm..."
+description: "Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Fachm — Arbeitskontext: Betreuungsrecht, Schwerpunkt kaltstart triage."
 ---
 
 ## Aktenstart statt Formularstart

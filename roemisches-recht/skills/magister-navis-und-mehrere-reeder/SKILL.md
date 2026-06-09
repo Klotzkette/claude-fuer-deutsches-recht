@@ -5,58 +5,29 @@ description: "Magister navis und Mehrfachreederschaft im roemischen Seerecht. Sk
 
 # Rom 127 Magister Navis Und Mehrere Reeder
 
-## Rechtsquelle
+## Quellenanker
 
-- D. 14.1 (De exercitoria actione).
-- D. 17.2 (Pro socio - Vergesellschaftung).
+- **D. 14.2.1 (Paulus)** — lex Rhodia de iactu: Seewurf wird anteilig von allen getragen
+- **D. 14.2.2 pr. (Paulus)** — Abwicklung über die Frachtvertragsklagen (locatio conductio), nicht direkt
+- **D. 4.9.1 pr. (Ulpian)** — receptum nautarum cauponum stabulariorum: Erfolgshaftung für eingebrachte Sachen
+- **D. 4.9.3.1** — Haftungsgrenze: vis maior (Schiffbruch, Piraten) befreit
+- **D. 14.1.1 (Ulpian)** — actio exercitoria: Reeder haftet voll für Geschäfte des magister navis
 
-## Konstellation
+## Kernregeln
 
-- Mehrere Reeder besitzen ein Schiff gemeinschaftlich oder als societas.
-- Magister navis wird von der Mehrheit oder dem Hauptbeteiligten bestellt.
+Das römische Seehandelsrecht rezipiert griechische Praxis: Die lex Rhodia verteilt Seewurf-Schäden (iactus) anteilig auf Ladung und Schiff — abgewickelt elegant über die Frachtvertragsklagen (Ladungseigentümer → actio locati gegen den Kapitän; dieser → actio conducti gegen die übrigen Befrachter). Das receptum nautarum macht Schiffer, Wirte und Stallhalter verschuldensunabhängig für eingebrachte Sachen haftbar (Misstrauen gegen das Gewerbe!), Grenze: vis maior. Die actio exercitoria lässt den Reeder (exercitor) unbeschränkt für Verträge seines Kapitäns haften — Verkehrsschutz im Überseegeschäft.
 
-## Vertretungsregeln
+## Moderne Parallele
 
-- Magister navis vertritt die exercitores in solidum.
-- Gegen jeden Reeder kann actio exercitoria erhoben werden.
-- Innenausgleich nach Anteilen.
+Lex Rhodia lebt fort als Große Haverei (§§ 588 ff. HGB, York-Antwerp Rules); receptum als Gastwirtshaftung §§ 701 ff. BGB (verschuldensunabhängig bis heute!) und in der Obhutshaftung des Frachtführers § 425 HGB; exercitoria in §§ 477 ff. HGB (Ausrüsterhaftung) und der Rechtsscheinvollmacht.
 
-## Rechtsfolge
+## Typische Fehler
 
-- Gesamtschuldnerstellung der exercitores.
-- Voller Schadensersatzanspruch des Dritten gegen jeden einzelnen.
+Rom kannte KEINE Versicherung — Risikoverteilung lief über fenus nauticum, lex Rhodia und Haftungsregeln. 'Römische Seeversicherung' ist ein Anachronismus; die Police entsteht im italienischen Spätmittelalter.
 
-## Innenausgleich
+## Arbeitsweise
 
-- Pro Anteil am Schiff.
-- Gleichschritt mit actio pro socio bei Vergesellschaftung.
-
-## Vergleich zu modernem Recht
-
-- § 426 BGB Gesamtschuldnerausgleich.
-- §§ 705 ff. BGB GbR.
-- §§ 484 ff. HGB Schiffsgemeinschaft (aufgehoben durch Seehandelsreform 2013).
-
-## Pruefraster
-
-1. Wie viele exercitores?
-2. Magister navis bestellt?
-3. Geschaeftsbereich?
-4. Innenausgleich?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

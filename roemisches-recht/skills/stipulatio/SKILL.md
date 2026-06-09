@@ -5,61 +5,29 @@ description: "Römisches Recht: Stipulatio. Geführter Fachmodul mit Quellenlogi
 
 # Stipulatio
 
-## Sofortsortierung
+## Quellenanker
 
-1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
-2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
-3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
-4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+- **Gaius, Institutiones 3.88-89** — Obligationen entstehen ex contractu oder ex delicto; Vierteilung re, verbis, litteris, consensu
+- **Gaius, Institutiones 3.92** — stipulatio: spondesne? spondeo — Verbalkontrakt durch Frage und Antwort
+- **D. 45.1.1 pr. (Ulpian)** — Einheit von Frage und Antwort, unitas actus
+- **D. 2.14.7.4 (Ulpian)** — nuda pactio obligationem non parit — formloses pactum klagt nicht
+- **D. 19.5 (de praescriptis verbis)** — Innominatkontrakte: do ut des, do ut facias, facio ut des, facio ut facias
 
-## Fachlicher Zugriff
+## Kernregeln
 
-- Institutionensystem: personae, res, actiones
-- Quellen: Zwölftafeltradition, klassische Juristen, Digesten, Institutionen, Codex
-- Privatrechtliche Kerne: Eigentum, Besitz, Verträge, Delikte, Erbrecht, Familienrecht
-- Rezeptionsregel: antike Figur, gemeinrechtliche Fortbildung und heutige Analogie strikt trennen
+Das römische Vertragssystem ist ein Typensystem: Klagbar ist nur, was als Real- (mutuum, commodatum, depositum, pignus), Verbal- (stipulatio), Litteral- oder Konsensualkontrakt (emptio venditio, locatio conductio, societas, mandatum) anerkannt ist. Die stipulatio ist das Universalwerkzeug: jede beliebige Leistung wird durch Frage-Antwort-Form klagbar (stricti iuris). Formlose pacta sind nur einredeweise geschützt (pacta de non petendo) — nuda pactio obligationem non parit. Atypische Austauschgeschäfte werden spät über die Innominatkontrakte (actio praescriptis verbis) klagbar, wenn eine Seite vorgeleistet hat.
 
-## Prüfroutine
+## Moderne Parallele
 
-1. Begriffe klären und False Friends markieren.
-2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
-3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
-4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
-5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+Das BGB kehrt das Prinzip um: Vertragsfreiheit § 311 I BGB — jeder formfrei geschlossene Vertrag bindet (pacta sunt servanda, kanonistisches Erbe). Typenzwang überlebt nur im Sachenrecht. Die stipulatio lebt strukturell im abstrakten Schuldversprechen §§ 780 f. BGB fort.
 
-## Typische Ausgabe
+## Typische Fehler
 
-- Kurzbefund
-- Quellen- und Belegmatrix
-- Risikoampel mit nächstem Schritt
-- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+Pacta sunt servanda ist NICHT römisch-klassisch, sondern kanonistisch-naturrechtlich. Wer den Satz Ulpian zuschreibt, verwechselt D. 2.14.7.7 (pacta conventa servabo — nur prätorischer Einredeschutz) mit moderner Vertragsbindung.
 
-## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
+## Arbeitsweise
 
-### Schluesselstellen
-- **Gaius III.92**: "Verbis obligatio fit ex interrogatione et responsione" — durch Frage und Antwort entsteht die Obligation.
-- **D. 45.1**: De verborum obligationibus — die ganze Lehre der stipulatio.
-- **D. 45.1.1 (Ulpian)**: "Stipulatio est verborum conceptio, quibus is qui interrogatur daturum facturumve se quod interrogatus est responderit."
-
-### Form
-- Muendliche Frage-Antwort-Form: "Centum dari spondes? — Spondeo."
-- Strikte Form; abweichende Antwort fuehrt zur Unwirksamkeit (D. 45.1.1.6).
-- Spaeter (Justinian) auch in Urkundenform.
-
-### Wirkung
-- Abstrakter Verpflichtungstatbestand: Stipulationsschuldner muss leisten, ohne dass causa noch verlangt wird.
-- Bei Wegfall der causa: condictio sine causa (D. 12.7).
-
-### Subsumtionsbeispiel: Stipulationsschuld trotz Wegfall des Grundgeschaefts
-Sachverhalt: A stipuliert 100 für einen Sklaven; vor Uebergabe stirbt der Sklave; A hat noch nicht gezahlt.
-- **Roemisch**: Stipulationspflicht bleibt formal (abstrakt); A kann aber condictio sine causa gegen das Stipulationsversprechen einlegen, weil causa weggefallen.
-- **BGB**: § 311 BGB Vertrag; § 313 BGB Stoerung der Geschaeftsgrundlage; § 326 BGB Befreiung bei Unmoeglichkeit.
-
-### Abstraktion und Akzessorietaet
-- Stipulation = abstrakt (wie heutige Wechselforderung).
-- Aber: Akzessorische Stipulationen wie sponsio (Buergschaft) sind akzessorisch.
-
-### BGB-Pendants
-- § 780 BGB Schuldversprechen (abstrakt).
-- § 781 BGB Schuldanerkenntnis.
-- Erbe der roemischen Stipulationslehre.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

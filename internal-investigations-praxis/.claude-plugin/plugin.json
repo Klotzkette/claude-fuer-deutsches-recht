@@ -1,7 +1,7 @@
 {
   "name": "internal-investigations-praxis",
   "displayName": "Internal Investigations Praxis",
-  "version": "253.0.0",
+  "version": "290.0.0",
   "description": "Internal-Investigations-Praxisplugin fuer Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

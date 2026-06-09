@@ -5,35 +5,44 @@ description: "Starug Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung,
 
 # Starug Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Fachanwalt Insolvenz Sanierungsrecht** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Fachanwalt Insolvenz- und Sanierungsrecht** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `eroeffnung-fachanwalt-fao-glaeubigerantrag-inso`
-- `fa-insolvenz-schuldschein-und-lma`
-- `glaeubigerantrag-insolvenzanfechtung-orientierung`
-- `glaeubigerverhandlung-sanierung-idw-s6-krypto-verwertung`
-- `inso-insanw-eigenverwaltung-konzerninsolvenz-koordination`
-- `inso-kommunikation-glaeubiger-p002-amtsgericht-p003-ortliche`
-- `inso-livecheck-fristennotiz-sanierungsrecht-p104-fixgeschafte`
-- `inso-p001-ziele-p003c-zustandigkeit-p004a-stundung-p005-p011`
-- `inso-p003d`
-- `inso-p003e-unternehmensgruppe-p004b-ruckzahlung-p004c-aufhebung`
-- `inso-p020-auskunfts-p021-anordnung-p022-rechtsstellung-p022a`
-- `inso-p040-unterhaltsanspruche-p041-nicht-p042-auflosend-p044`
+- **InsO** — amtlichen Stand vor tragender Aussage prüfen
+- **StaRUG** — amtlichen Stand vor tragender Aussage prüfen
+- **InsVV** — amtlichen Stand vor tragender Aussage prüfen
+- **EuInsVO** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Insolvenzgericht (AG)
+- Restrukturierungsgericht
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+- insolvenzbekanntmachungen.de
+- bundesgerichtshof.de (IX. Zivilsenat)
+
+## Fristen mit Quellenrelevanz
+
+- § 15a InsO 3 Wochen Antragspflicht
+- Anmeldefrist Eröffnung
+- §§ 130-146 InsO Anfechtung
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

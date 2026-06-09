@@ -5,69 +5,28 @@ description: "Status-Lehre: status libertatis status civitatis status familiae a
 
 # Rom 151 Status Libertatis Status Civitatis Status Familiae
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 1.9-1.12** — Grundeinteilung: omnes homines aut liberi sunt aut servi; Freie sind ingenui oder libertini
+- **D. 1.5.4 (Florentinus)** — libertas als naturalis facultas; Sklaverei als Einrichtung des ius gentium contra naturam
+- **D. 4.5.11 (Paulus)** — capitis deminutio maxima, media, minima — Verlust von libertas, civitas oder familia
+- **Gaius, Institutiones 1.48-1.55** — patria potestas: Gewalt des pater familias über Hauskinder, ius vitae necisque (historisch)
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Der Status einer Person bestimmt sich dreifach: status libertatis (frei/unfrei), status civitatis (civis/Latinus/peregrinus), status familiae (sui iuris/alieni iuris). Nur der freie römische Bürger sui iuris hat volle Rechtsfähigkeit. Die capitis deminutio stuft ab: maxima vernichtet die Freiheit (und damit alles), media die Bürgerschaft, minima verändert nur die Familienzugehörigkeit (z. B. adoptio, emancipatio). Frauen sui iuris standen historisch unter tutela mulierum, die in klassischer Zeit zur Formalität wurde.
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Heutiges Pendant: Rechtsfähigkeit § 1 BGB beginnt mit Geburtsvollendung — statusunabhängig. Die Dreiteilung lebt begrifflich fort in Statusfragen des IPR (Personalstatut, Art. 7 EGBGB) und im Familienrecht (elterliche Sorge §§ 1626 ff. BGB als gewandelte potestas).
 
-## Drei Achsen
+## Typische Fehler
 
-### Status libertatis
-- Frei oder Sklave.
-- Sklaven sind res, nicht personae.
-- Befreite (liberti) haben eingeschraenkte Buergerstellung.
+Patria potestas nicht mit moderner elterlicher Sorge gleichsetzen — sie war lebenslang und vermögensrechtlich total (Hauskinder erwarben dem Vater). Capitis deminutio minima nicht als 'Strafe' lesen; sie trat auch bei für den Betroffenen günstigen Akten ein (adoptio).
 
-### Status civitatis
-- Cives Romani (Vollbuerger).
-- Latini (eingeschraenkte Buergerrechte).
-- Peregrini (Auslaender, oft mit eigenem Heimatrecht).
-- Dediticii (Unterworfene ohne Buergerrechte).
+## Arbeitsweise
 
-### Status familiae
-- Pater familias (Hausvater, sui iuris).
-- Filius familias (Hausunterworfene Kinder).
-- Sklaven im Haus (servi).
-
-## Wechselwirkungen
-
-- Cives Romani sui iuris: volle Rechtsstellung.
-- Cives Romani filii familias: vermoegensrechtlich gebunden, aber buergerrechtlich frei.
-- Liberti: cives, aber mit operae-Pflichten gegenueber dem ehemaligen dominus.
-
-## Folgen für Vermoegen und Erbrecht
-
-- Filius familias kann nicht selbststaendig Eigentum erwerben (Erwerb faellt an pater).
-- Sklaven erwerben für den dominus.
-- Cives Romani peregrini-Ehe: Kinder folgen dem niedrigeren Status.
-
-## Rechtsquelle
-
-- Gaius, Institutiones I.9-200.
-- D. 1.5-1.7.
-
-## Pruefraster
-
-1. Welcher status libertatis?
-2. Welcher status civitatis?
-3. Welcher status familiae?
-4. Folgen für das konkrete Geschaeft?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

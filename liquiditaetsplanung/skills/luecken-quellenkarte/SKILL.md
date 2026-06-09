@@ -5,35 +5,40 @@ description: "Luecken Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung
 
 # Luecken Quellenkarte
 
-## Einsatzlage
+## Zweck
 
-Diese Quellenkarte sichert im Bereich **Liquiditaetsplanung** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
+Diese Quellenkarte sichert für **Liquiditätsplanung** jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert.
 
-## Suchraster
+## Tragende Normen (live prüfen)
 
-- `allgemein-workflow-chronologie-workflow-fristen`
-- `deutschem-dokumentationspaket-excel`
-- `export-forecast-fortbestehensprognose-international`
-- `idw-s6-integrierte-sanierungsplanung`
-- `insolvenzrecht-liqui-sonderfall-liquiditaetsplanung`
-- `interessen-verifikation-beweislast-vorschau`
-- `liqp-bankenreporting-leitfaden`
-- `liqp-liquiditaetspool-cash-pooling-spezial`
-- `liqp-liquiditaetspool-cash-rollende-13wochen-warenkredit-skonto`
-- `liqp-rollende-13wochen-bauleiter`
-- `liqp-warenkredit-skonto-szenarien-spezial`
-- `liqui-ausgabengruppen-systematik`
+- **IDW S 11 (Sanierung)** — amtlichen Stand vor tragender Aussage prüfen
+- **§ 18 InsO drohende ZU** — amtlichen Stand vor tragender Aussage prüfen
+
+## Zuständige Spruchkörper und Behörden
+
+- Bank
+- Wirtschaftsprüfer
+
+## Amtliche und frei zugängliche Datenbanken
+
+- gesetze-im-internet.de (Bundesrecht amtlich)
+- rechtsprechung-im-internet.de
+- dejure.org / openJur (frei zugängliche Rechtsprechung)
+
+## Fristen mit Quellenrelevanz
+
+- Rolling 13-week-Plan
+- Quartalsplan
+- 24-Monats-Plan
 
 ## Prüfroute
 
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
+1. Normtext gegen die amtliche Quelle prüfen (Fassung, Inkrafttreten, Übergangsrecht).
+2. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Fundstelle ausgeben; Senat/Spruchkörper benennen.
+3. Behördenpraxis (Merkblätter, Erlasse, FAQ) mit Stand-Datum zitieren.
+4. Ergebnis als Quellenmatrix: Aussage — Quelle — Stand — Tragweite — Restunsicherheit.
 
 ## Fehlerbremse
 
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
+- Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

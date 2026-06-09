@@ -5,65 +5,28 @@ description: "Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwal
 
 # Rom 159 Romanisierung Der Provinzen Und Stadtrecht
 
-## Historische Quellenanker
+## Quellenanker
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- **Gaius, Institutiones 1.9-1.17** — Statusabstufungen: cives, Latini, peregrini
+- **D. 1.5.17 (Ulpian)** — in orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt
+- **Cassius Dio 78.9** — Constitutio Antoniniana 212 n. Chr. — fiskalische Motive der Bürgerrechtsverleihung
+- **lex Irnitana (Flavisches Stadtgesetz)** — Munizipalverfassung: ius Latii, Bürgerrechtserwerb durch Ämter
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+## Kernregeln
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Das römische Bürgerrecht bündelt ius suffragii (Stimmrecht), ius honorum (Ämterfähigkeit), conubium (Ehefähigkeit nach ius civile) und commercium (Teilnahme an mancipatio, Testament). Latiner haben commercium, meist kein conubium; peregrini leben nach ius gentium und ihrem Heimatrecht. Die Constitutio Antoniniana (212) verlieh fast allen Reichsbewohnern das Bürgerrecht — Folge: ius civile wurde Reichsrecht, Provinzialpraxis und klassisches Recht verschmolzen (Vulgarisierung).
 
-## Arbeitsweg
+## Moderne Parallele
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — usucapio (Ersitzung) 1/2 Jahre Mobilia/Immobilia, praescriptio longi temporis, longissimi temporis; heute über § 195 BGB / § 937 BGB.
-- Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Moderne Parallelen: gestuftes Aufenthalts-/Staatsangehörigkeitsrecht (StAG), Unionsbürgerschaft Art. 20 AEUV als 'commercium und Freizügigkeit ohne volle politische Rechte' auf Bundesstaatsebene gedacht.
 
-## Ius Latinum
+## Typische Fehler
 
-- Verleihung des "lateinischen Rechts" an Provinzialstaedte.
-- Status zwischen peregrinus und civis Romanus.
-- Beamte (Duumviri, Aedili, Quaestoren) erwarben durch Amtsausuebung das volle Buergerrecht.
+Die Constitutio Antoniniana nicht als humanitären Akt lesen — Steuerpflicht (vicesima hereditatium) war Hauptmotiv. Nach 212 nicht weiter scharf zwischen cives und peregrini argumentieren, außer für dediticii.
 
-## Lex Irnitana
+## Arbeitsweise
 
-- Gemeindegesetz der Stadt Irni in der Baetica (Spanien).
-- 91 n. Chr. (Flavische Zeit).
-- Stadtrechtsverfassung mit ueber 90 Kapiteln.
-- Enthaltene Bestimmungen zu Magistratsaemtern, Senat, Gerichtsverfahren, kommunalen Aufgaben.
-
-## Spanien
-
-- Vespasian verlieh 73/74 n. Chr. das ius Latinum allen spanischen Gemeinden (Edictum Vespasiani).
-- Massive Romanisierung.
-
-## Britannien
-
-- Spaetere und unvollstaendigere Romanisierung.
-
-## Gallien
-
-- Frueh teilweise Romanisierung (Gallia Narbonensis).
-
-## Verhaeltnis zum Reichsrecht
-
-- Roemisches Privatrecht in Provinzialstaedten.
-- Stadtrecht (ius municipale) subsidiaer.
-- Praetor und Statthalter (procurator, propraetor) als Gerichtshof.
-
-## Pruefraster
-
-1. Welche Provinz?
-2. Welcher Buergerstatus?
-3. Welche Quellen (Stadtrechte, Inschriften)?
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

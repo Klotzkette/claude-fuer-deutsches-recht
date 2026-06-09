@@ -1,6 +1,6 @@
 ---
 name: ressort-bmvg-bmwe-bmwsb-bmz
-description: "Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus;..."
+description: "Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt ressort bmvg bmwe bmwsb bmz."
 ---
 
 # Ressort-Heranfuehrung BMVg

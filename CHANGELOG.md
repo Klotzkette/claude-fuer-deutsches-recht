@@ -1,3 +1,22 @@
+# v290.0.0 — Qualitätsoffensive: Fachkerne statt Boilerplate, Testakten-Veredelung
+
+## Skills
+
+- **roemisches-recht**: 223 Skills, die nur identisches Boilerplate trugen (Zwölftafel-Einheitsblock, generische "Sofortsortierung" mit Importeur/Exporteur-Rollenliste), durch themenspezifische romanistische Fachkerne ersetzt — je Skill: Quellenanker mit Digesten-/Gaius-Inskriptionen, Kernregeln, moderne BGB-Parallele, typische Fehler, romanistische Arbeitsweise. 30+ Themencluster (Status/personae, Besitz/Interdikte, Eigentum/usucapio, Kauf/Gefahrtragung, locatio conductio, Delikte/lex Aquilia, Kondiktionen, Erbrecht, Bürgschaft, Pauliana, Konkurs, Seehandel/lex Rhodia, Prozessepochen, Juristen, Kompilation, Rezeption u. a.).
+- **Quellenkarten** (73) und **Fehlerkataloge** (53), die nur Slug-Listen bzw. Tautologien enthielten, mit plugin-spezifischer Substanz gefüllt: tragende Normen, zuständige Spruchkörper, amtliche Datenbanken (BFH/BAG/BSG/DPMA/BAFA je nach Gebiet), konkrete Fehler mit Symptom-Diagnose-Heilung.
+- 549 Skills mit identischen Descriptions plugin-/schwerpunktspezifisch differenziert; keine Dup-Gruppen mehr.
+- 6 verbliebene Fallback-rom-Skills (actio institoria/tributoria, res-Einteilungen, dominium duplex, griechische Terminologie) mit eigenen Fachkernen.
+
+## Testakten
+
+- **kirchenrecht-cic-sancta-caecilia**: 10 Aktenstücke von Stubs zu vollwertigen Dokumenten ausgebaut — Kirchenaustritt (DBK-Dekret 2012, cc. 96, 849, 11 CIC, Omnium in mentem), Mischehe samt Ligamen-Prüfspur (cc. 1085, 1124 f.), Kommunionzulassung (cc. 912, 915 f.), Orgelspende (cc. 1267, 1300, 1303 ff.), förmliches Ordinariatsschreiben sowie sechs vollwertige mehrsprachige Schreiben (EN/ES/IT/LA/AR/PT) im jeweils passenden Register.
+- **kernfusion-transrapid-starnberger-see (Projekt Isarlicht)**: 5 Kernvermerke ausgebaut — Standort (BayLplG-ROV, § 35 BauGB, WHG, § 34/44 BNatSchG), Transrapid-Einordnung (AMbG-Planfeststellung vs. Werksbahn), Strahlenschutz (kein § 7 AtG, aber §§ 12 StrlSchG-Genehmigungen, Tritium, Aktivierung), Netz/Vermarktung (§ 17 EnWG, kein EEG-Vorrang, PPA, HkN-Lücke), Förderung/IP/Beihilfe (ArbnErfG, Dual-Use-VO, AGVO/FuEuI-Unionsrahmen, AWV-Investitionsprüfung).
+- **private-equity-nachtfalter**: Management-Roll-over als vollwertiger Verhandlungsvermerk (Vendor-Loan-Wirkung auf die Equity-Bridge, Leaver-Tabelle mit Verhandlungsrahmen, § 21 UmwStG, Dry-Income/§ 19 EStG, Non-Compete-Grenzen).
+
+## Sonstiges
+
+- Validator grün; 212 Plugins, alle auf 290.0.0.
+
 # v253.0.0 — Testakten-Sweep: reale Kanzleien und reale Adresse entfernt
 
 ## Schwerpunkt

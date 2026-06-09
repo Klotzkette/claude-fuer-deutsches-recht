@@ -1,6 +1,6 @@
 ---
 name: dsv-pressemitteilung-krisenkommunikation
-description: "Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung: Behan..."
+description: "Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung: Behan — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv pressemitteilung krisenkommunikation."
 ---
 
 # Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung

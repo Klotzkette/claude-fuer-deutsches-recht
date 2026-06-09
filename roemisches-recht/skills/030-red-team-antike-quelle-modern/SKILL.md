@@ -5,52 +5,29 @@ description: "Rom Red Team Antike Quelle Modern Ueberdehnt im Römisches Recht i
 
 # Rom Red Team Antike Quelle Modern Ueberdehnt
 
+## Quellenanker
+
+- **D. 1.1.1 pr. (Ulpian/Celsus)** — ius est ars boni et aequi
+- **D. 19.1.11.1 (Ulpian)** — bona fides im Kaufrecht: quidquid dare facere oportet ex fide bona
+- **D. 44.4.2.1 (Ulpian)** — exceptio doli generalis: dolo facit, qui petit quod redditurus est
+- **D. 50.17 (de diversis regulis iuris)** — 211 Rechtsregeln — Steinbruch der lateinischen Maximen
+- **D. 9.2.44 pr.** — in lege Aquilia et levissima culpa venit — Verschuldensstufen
+
+## Kernregeln
+
+Die Wertbegriffe: bona fides macht Konsensualverträge flexibel (der iudex prüft, was Treu und Glauben fordern — Einfallstor für Nebenpflichten, Auslegung, Anpassung); aequitas korrigiert das strenge Recht (summum ius summa iniuria, Cicero); die exceptio doli generalis sanktioniert widersprüchliches und unredliches Prozessieren. Verschuldensstufen: dolus (Vorsatz, nie abdingbar — D. 50.17.23), culpa lata (grobe F., dem dolus gleichgestellt), culpa levis (abstrakt: bonus pater familias / konkret: quam in suis), custodia (objektive Obhutshaftung). Maximen aus D. 50.17 sind Argumentationstopoi — keine Normen.
+
+## Moderne Parallele
+
+§ 242 BGB ist die geronnene bona fides — die deutsche Generalklausel-Judikatur (Verwirkung, venire contra factum proprium, Geschäftsgrundlage vor § 313 BGB) ist exceptio-doli-Dogmatik unter neuem Namen. § 276 BGB staffelt Verschulden römisch; § 277 BGB ist diligentia quam in suis wörtlich.
+
 ## Typische Fehler
 
-- "Roemer hatten schon Datenschutzrecht" — anachronistisch.
-- "Bona fides ist § 242 BGB" — zu starke Gleichsetzung.
-- "Aequitas heisst Treu und Glauben" — Bedeutung verschoben.
+Lateinische Maximen nie unbesehen als geltendes Recht zitieren — 'pacta sunt servanda' (kanonistisch), 'in dubio pro reo' (prozessual, spätere Zuspitzung) und Co. haben je eigene Geschichte. Immer Quelle + Kontext + heutige Geltungsgrundlage trennen.
 
-## Methodische Pruefung
+## Arbeitsweise
 
-1. Welche roemische Quelle wird zitiert?
-2. Welche moderne Norm wird verglichen?
-3. Welche Aenderungen sind zwischen den Begriffen eingetreten?
-4. Welche Kontextverschiebung?
-
-## Typische Anachronismen
-
-- Sklavenarbeitsrecht ≠ heutiges Arbeitsrecht.
-- Mancipatio ≠ § 929 BGB.
-- Roemische Buergschaft ≠ § 765 BGB (akzessorisch + abstrakt).
-- Familia ≠ moderne Familie.
-
-## Pruefraster
-
-1. Welche Behauptung?
-2. Welches Vergleichsobjekt?
-3. Wirklich Aequivalenz?
-
-## Historische Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Powersprint-Vertiefung
-
-- **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
-- **Actio-Denken:** Prüfe bei `Rom Red Team Antike Quelle Modern Ueberdehnt` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
-- **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
-- **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

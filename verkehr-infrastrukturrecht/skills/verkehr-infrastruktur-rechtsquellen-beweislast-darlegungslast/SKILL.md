@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastruktur-rechtsquellen-beweislast-darlegungslast
-description: "Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert — Arbeitskontext: Verkehr-Infrastrukturrecht, Schwerpunkt verkehr infrastruktur rechtsquellen beweislast darlegungslast."
 ---
 
 # Rechtsquellen: Beweislast, Darlegungslast und Substantiierung

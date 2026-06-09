@@ -1,6 +1,6 @@
 ---
 name: kaltstart-abschlussprodukt-und-uebergabe
-description: "Kaltstart: Einstieg und Routing; Abschlussprodukt und Übergabe: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
+description: "Kaltstart: Einstieg und Routing; Abschlussprodukt und Übergabe: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad — Arbeitskontext: Nachbarschaftsstreit, Schwerpunkt kaltstart abschlussprodukt und uebergabe."
 ---
 
 # Kaltstart: Abschlussprodukt und Übergabe

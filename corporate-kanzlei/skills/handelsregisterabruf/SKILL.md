@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf
-description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesel..."
+description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesel — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt handelsregisterabruf."
 ---
 
 # Handelsregisterabruf und -analyse

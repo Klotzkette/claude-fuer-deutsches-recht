@@ -5,55 +5,28 @@ description: "Römisches Recht: Einstieg in byzantinisches Recht von Justinian b
 
 # Byzantinisches Recht - Kaltstart
 
-## Aktenstart statt Formularstart
+## Quellenanker
 
-Wenn zu **Byzantinisches Recht Kaltstart** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Roemisches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+- **Const. Deo auctore (530)** — Auftrag an Tribonian: 50 Bücher Digesten aus 2000 Büchern Juristenschrifttum
+- **Const. Tanta (533)** — Inkraftsetzung; Interpolationsverbot und Kommentierungsverbot
+- **Institutiones Iustiniani 1.1** — Lehrbuch mit Gesetzeskraft, nach Gaius-Vorbild
+- **Basiliken (ca. 900)** — griechische Neuordnung des Corpus Iuris in 60 Büchern; Prochiron und Epanagoge als Handbücher
 
-Starte dann mit einer knappen Rueckmeldung:
+## Kernregeln
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Justinians Kompilation (528-534): Codex (Kaiserkonstitutionen), Digesten/Pandekten (Juristenrecht, in 3 Jahren aus ca. 1500 Büchern exzerpiert), Institutionen (Lehrbuch mit Gesetzeskraft), später Novellen (großteils griechisch). Die Kompilatoren interpolierten — Textänderungen zur Anpassung an das Recht des 6. Jh. (klassisches Beispiel: mancipatio durchgängig durch traditio ersetzt). Die Interpolationenkritik (Ende 19./20. Jh.) versuchte die klassischen Originale zu rekonstruieren — heute gilt methodische Zurückhaltung: Nicht jede Glättung ist Interpolation. Byzanz ordnet das Corpus neu (Basiliken um 900) und hält das römische Recht bis 1453 lebendig.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+## Moderne Parallele
 
-## Historische Quellenanker
+Quellenkritik an den Digesten ist das Urmodell juristischer Textstufenforschung — wer heute Gesetzesmaterialien, Referentenentwürfe und Endfassung vergleicht, betreibt dieselbe Methodik. Das Kommentierungsverbot Justinians scheiterte übrigens sofort — wie jedes seither.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+## Typische Fehler
 
-- `Zwölftafeln Tafel I` — Ladung und Prozessbeginn.
-- `Zwölftafeln Tafel IV` — Familien- und Hausgewalt.
-- `Zwölftafeln Tafel VI` — Eigentum, Verbindlichkeiten und formale Akte.
-- `Zwölftafeln Tafel VIII` — Delikts- und Schadensfolgen.
-- `Gaius Institutiones 1.8` — Grundteilung Personen/Sachen/Klagen.
-- `Gaius Institutiones 2.14` — res mancipi/res nec mancipi.
-- `Gaius Institutiones 3.88` — Obligationen aus Vertrag.
-- `Digesten D.1.1.1` — ius und Gerechtigkeitsformel.
-- `Digesten D.9.2.2` — lex Aquilia als Deliktsanker.
-- `Digesten D.44.7.1` — Obligationenquellen.
+Digestenstellen nicht unbesehen als 'klassisches Recht' zitieren — immer Interpolationsverdacht mitdenken, besonders bei justinianischen Lieblingsbegriffen (aequitas-Floskeln, naturalis ratio). Palingenesie (Lenel) nutzen, um den Werkkontext zu rekonstruieren.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## Arbeitsweise
 
-## Startfragen
-
-1. Welche Zeit interessiert: Justinian, nachjustinianische Gesetzgebung, mittlere byzantinische Kompilationen oder spätere Rezeption?
-2. Geht es um Privatrecht, Familien-/Erbrecht, Kirche, Verwaltung, Prozess, Sachenrecht, Handel oder Herrschaftsstruktur?
-3. Soll der Output eine historische Erklärung, Quellenmatrix, Synopse oder rechtsvergleichende Notiz sein?
-4. Ist eine Verbindung zu römischer Klassik, gemeinem Recht, orthodoxer Rechtskultur oder osteuropäischer Rezeption gefragt?
-
-## Prüfroutine
-
-1. **Zeitschicht festlegen:** klassisch, justinianisch, byzantinisch, mittelalterlich, modern-rezeptionsgeschichtlich.
-2. **Sprach- und Quellenebene trennen:** Latein, Griechisch, Übersetzung, Exzerpt, Kommentar, Kompilation.
-3. **Normgeber klären:** Kaiserrecht, Verwaltung, Kirche, lokale Praxis oder gelehrte Bearbeitung.
-4. **Materie auswählen:** Familie, Erbe, Sachen, Schuld, Prozess, Verwaltung, Kirche, Handel.
-5. **Nachwirkung prüfen:** welche byzantinische Linie wirkt in späteren Rechtsräumen oder im gelehrten Recht weiter?
-
-## Ausgabe
-
-- Byzantinische Quellenlandkarte.
-- Kurze Epochenlinie.
-- Materienbezogene Prüfmatrix.
-- Anschluss-Skills zu Novellen, Basiliken, Kirchenrecht oder Rezeptionsvergleich.
+1. Quellen zuerst: einschlägige Stellen (Gaius, Digesten, Codex) mit Inskription benennen; Rekonstruktionsgrad und Interpolationsverdacht offenlegen.
+2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
+3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
+4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.

@@ -1,6 +1,6 @@
 ---
 name: dsv-sammelklagen-praevention
-description: "Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne: Behandelt: Verb..."
+description: "Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne: Behandelt: Verb — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv sammelklagen praevention."
 ---
 
 # Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne

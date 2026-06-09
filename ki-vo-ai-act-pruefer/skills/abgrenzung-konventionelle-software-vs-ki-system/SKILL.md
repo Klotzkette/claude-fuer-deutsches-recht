@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-konventionelle-software-vs-ki-system
-description: "Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit bel..."
+description: "Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit bel — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt abgrenzung konventionelle software vs ki system."
 ---
 
 # Abgrenzung: Konventionelle Software versus KI-System

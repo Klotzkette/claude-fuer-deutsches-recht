@@ -1,6 +1,6 @@
 ---
 name: emotionale-trigger-ironie-sarkasmus-klare
-description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umfor..."
+description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persönliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umfor — Arbeitskontext: E-Mail-Umformulierung im Berufsrecht, Schwerpunkt emotionale trigger ironie sarkasmus klare."
 ---
 
 # Emotionaler Trigger-Katalog

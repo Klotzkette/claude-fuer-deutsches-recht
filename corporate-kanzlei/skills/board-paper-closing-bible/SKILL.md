@@ -1,6 +1,6 @@
 ---
 name: board-paper-closing-bible
-description: "Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage für Vorstand/Geschäftsführung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Prüfraster: Informationsgrundlage, Entscheidungsalternativen, Interessenkonflikte, KI-Einsatztransparenz. Output..."
+description: "Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage für Vorstand/Geschäftsführung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Prüfraster: Informationsgrundlage, Entscheidungsalternativen, Interessenkonflikte, KI-Einsatztransparenz. Output — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt board paper closing bible."
 ---
 
 # Board Paper und Business Judgment

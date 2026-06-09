@@ -1,6 +1,6 @@
 ---
 name: dsv-art-9-besondere-kategorien
-description: "Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art: 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinunge..."
+description: "Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art: 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinunge — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv art 9 besondere kategorien."
 ---
 
 # Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art
