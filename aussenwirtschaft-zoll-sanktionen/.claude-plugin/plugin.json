@@ -1,6 +1,6 @@
 {
   "name": "aussenwirtschaft-zoll-sanktionen",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

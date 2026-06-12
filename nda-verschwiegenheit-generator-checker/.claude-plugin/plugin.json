@@ -1,6 +1,6 @@
 {
   "name": "nda-verschwiegenheit-generator-checker",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion.",
   "license": "Apache-2.0 OR MIT",
   "author": {

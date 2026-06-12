@@ -1,6 +1,6 @@
 {
   "name": "tierschutzrecht",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle.",
   "license": "Apache-2.0 OR MIT",
   "author": {

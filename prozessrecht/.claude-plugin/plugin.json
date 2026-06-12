@@ -1,6 +1,6 @@
 {
   "name": "prozessrecht",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze.",
   "license": "Apache-2.0 OR MIT",
   "author": {

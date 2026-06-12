@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-wirtschaftspruefer",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigkeit, Qualitätskontrolle, Abschlussprüfung, Bestätigungsvermerk, PIE, Berufsaufsicht und berufsgerichtliche Risiken.",
   "license": "Apache-2.0 OR MIT",
   "author": {

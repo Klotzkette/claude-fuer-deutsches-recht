@@ -1,6 +1,6 @@
 {
   "name": "berufsgerichtliche-verfahren-freie-berufe",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht, Rüge, Disziplinarverfahren, Zulassung, Vermögensverfall, beA, Werbung, Sachlichkeit und Rechtsmittel.",
   "license": "Apache-2.0 OR MIT",
   "author": {

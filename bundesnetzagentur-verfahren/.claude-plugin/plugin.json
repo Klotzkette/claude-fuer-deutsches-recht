@@ -1,6 +1,6 @@
 {
   "name": "bundesnetzagentur-verfahren",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services.",
   "license": "Apache-2.0 OR MIT",
   "author": {

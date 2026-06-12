@@ -1,7 +1,7 @@
 {
   "name": "roemisch-katholisches-kirchenrecht",
   "displayName": "Römisch-katholisches Kirchenrecht CIC und Katechismus",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.",
   "license": "Apache-2.0 OR MIT",
   "author": {

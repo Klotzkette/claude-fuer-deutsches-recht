@@ -1,6 +1,6 @@
 {
   "name": "anlagen-zu-schriftsaetzen",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Anlagenmanagement fuer gerichtliche Schriftsaetze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblaettern, Stempel-/Dateinamenregeln, Hashlog, Lueckenliste und Qualitygate.",
   "license": "Apache-2.0 OR MIT",
   "author": {

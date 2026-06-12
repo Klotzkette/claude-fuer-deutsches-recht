@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-ki-vertragspruefung",
-  "version": "310.0.0",
+  "version": "311.0.0",
   "description": "Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: § 43e BRAO, § 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge.",
   "license": "Apache-2.0 OR MIT",
   "author": {

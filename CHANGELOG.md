@@ -1,3 +1,55 @@
+# v311.0.0 — Pflege-Release: Validator-Fix, Megaprompt-Cleanup, Konsistenzkorrekturen
+
+Reiner Pflege- und Hygiene-Release. Keine inhaltlichen Skill-Änderungen.
+
+## Was sich ändert
+
+### Release-Workflow läuft wieder durch
+
+- `scripts/validate-testakten-gesamt-pdf.py`: Hilfsmaterial-Ordner `testakten/formatvorlagen-paradebeispiele` und `testakten/megaprompts` werden via `SKIP_DIRS` ausgenommen. Diese Ordner enthalten Formatvorlagen bzw. Megaprompt-Markdown, aber keine Mandatsakten und brauchen daher keine `gesamt-pdf`-Struktur.
+- Damit ist die seit v306 schwelende Workflow-Failure-Ursache behoben — die `release-plugin-zips`-Pipeline ist in v311 wieder grün.
+
+### Megaprompts rauschfrei
+
+- Aus allen 209 Markdown-Dateien in `testakten/megaprompts/` wurde der Disclaimer- und Verwendungs-Block („Achtung: experimentelles Mega-Prompt-Markdown … / Verwendung: …“) entfernt. Dieser Text gehört in das jeweilige Plugin-README, nicht in den Prompt selbst, der in einen Chat-Agenten kopiert wird.
+- `scripts/generate-megaprompt.py` schreibt den Block nicht mehr in zukünftige Builds.
+- Neues idempotentes Hilfsscript `scripts/cleanup-megaprompt-disclaimers.py` (kann jederzeit nachgezogen werden).
+
+### Plugin-READMEs lesen sich freundlicher für Neueinsteiger
+
+- In den 209 betroffenen Plugin-READMEs wurde der autogenerierte Block `<!-- BEGIN megaprompt-und-vorlagen --> ... <!-- END megaprompt-und-vorlagen -->` aus der prominenten Position direkt nach dem ersten Plugin-Absatz an das Datei-Ende verschoben. Damit beginnt jedes Plugin-README mit der Plugin-Beschreibung, nicht mit einem „Experimentell“-Hinweis.
+- Neues idempotentes Hilfsscript `scripts/move-megaprompt-block-to-end.py`.
+
+### Konsistenzkorrekturen
+
+- README-Kennzahl `Testakten` korrigiert auf 204 (echte Mandatsakten mit `gesamt-pdf`). Der bisherige Wert 209 zählte Hilfsmaterial-Ordner mit, was zur Validator-Failure passte.
+- README-Installationshinweis (`marketplace add`-Geduldsabschnitt): 203 → 204 Testakten.
+- `TESTBERICHT.md`: Kennzahlen entsprechend nachgezogen; Hilfsmaterial-Ordner sind explizit ausgewiesen.
+- `verfassungsrecht/README.md`: gebrochener Anker-Link auf den jetzt eigenständigen Setup-Guide unter `0_setup-cowork3p-eu-gateway/README.md` umgebogen.
+
+## Kennzahlen
+
+| Kennzahl | Wert |
+|---|---:|
+| Plugins | 213 |
+| Skills (SKILL.md) | 20.908 |
+| Testakten (mit gesamt-pdf) | 204 |
+| Hilfsmaterial-Ordner (Formatvorlagen, Megaprompts) | 2 |
+| Skills im `verhaeltnismaessigkeitspruefer` | 85 |
+
+## Validatoren
+
+- `scripts/validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `scripts/validate-plugin-structure.mjs`: OK
+- `scripts/validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+
+## Enthaltene Pull Requests seit v310
+
+- #271 — `fix(validator)`: Hilfsmaterial-Ordner aus Gesamt-PDF-Pflicht ausnehmen
+- #272 — `chore(megaprompts)`: Disclaimer raus, README-Block ans Ende
+
+---
+
 # v310.0.0 — Sammel-Release: Welle 2 + Welle 3 + Inhalts-Erweiterungen
 
 Konsolidierter Release, der die seit v305 angefallenen Aenderungen unter einem gemeinsamen Tag buendelt. Inhaltlich enthaelt der Release die Wellen 2 und 3 des Umlaut- und Komposita-Sweeps, eine substantielle Erweiterung des `verhaeltnismaessigkeitspruefer` um Art. 3 GG, AGG und Drittwirkungsdimensionen, ein Eval-Harness-Bundle fuer den `arbeitszeugnispruefer-skill` sowie eine vollstaendige Neutralisierung des EU-Gateway-Setup-Plugins.

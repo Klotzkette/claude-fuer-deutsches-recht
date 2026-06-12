@@ -1,14 +1,14 @@
 # Testbericht — Klotzkette German Legal Skills
 
 **Erstellt:** 2026-06-12
-**Arbeitsstand:** v310.0.0 / Sammel-Release nach Wellen 2 und 3 (Umlaut- und Komposita-Hygiene) sowie Inhalts-Erweiterungen im `verhaeltnismaessigkeitspruefer` um Art. 3 GG, AGG und Drittwirkungsdimensionen. 213 Plugins, 20.908 Skills, 209 Testakten.
+**Arbeitsstand:** v311.0.0 / Pflege-Release über v310 — Validator-Fix (Release-Workflow), Megaprompt-Cleanup (Disclaimer raus, README-Block ans Ende), Konsistenzkorrekturen Testakten-Zahl. Keine inhaltlichen Skill-Änderungen. 213 Plugins, 20.908 Skills, 204 Testakten.
 **Plugins gesamt:** 213
 **Skills gesamt:** 20908
-**Testakten gesamt:** 209
+**Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)
 
 ## Kurzbefund
 
-Das Repository ist nach dem v310-Release stabil und uploadfähig. Der `verhaeltnismaessigkeitspruefer` ist auf 85 Skills gewachsen; in zwei thematischen Wellen kamen je 5 Skills hinzu (Art. 3 GG / AGG und Drittwirkung der Grundrechte). Welle 2 und Welle 3 haben gemeinsam die Umlaut- und Komposita-Stamm-Hygiene über das gesamte Repo gezogen.
+Das Repository ist nach dem v311-Pflege-Release stabil und uploadfähig. Der seit v306 schwelende Workflow-Failure (Hilfsmaterial-Ordner in `testakten/` ohne `gesamt-pdf`) ist behoben. Der `verhaeltnismaessigkeitspruefer` ist auf 85 Skills gewachsen; in zwei thematischen Wellen kamen je 5 Skills hinzu (Art. 3 GG / AGG und Drittwirkung der Grundrechte). Welle 2 und Welle 3 haben gemeinsam die Umlaut- und Komposita-Stamm-Hygiene über das gesamte Repo gezogen.
 
 Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: Plugin-Manifests, Marketplace, Top-Level-README, Asset-Index, SKILLS.md und der pro-Plugin-Detailindex stehen auf demselben Stand.
 
@@ -18,8 +18,8 @@ Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: P
 |---|---:|
 | Plugin-Manifests | 213 |
 | Skill-Dateien `SKILL.md` | 20908 |
-| Testakten-Verzeichnisse | 209 |
-| Testakten mit Gesamt-PDF nach Validator | 209 |
+| Testakten-Verzeichnisse | 204 |
+| Testakten mit Gesamt-PDF nach Validator | 204 |
 | Skills im `verhaeltnismaessigkeitspruefer` | 85 |
 | seit v305 enthaltene Pull Requests | 8 |
 
