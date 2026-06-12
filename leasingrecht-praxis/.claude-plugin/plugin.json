@@ -1,6 +1,6 @@
 {
   "name": "leasingrecht-praxis",
-  "version": "305.0.0",
+  "version": "310.0.0",
   "description": "Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

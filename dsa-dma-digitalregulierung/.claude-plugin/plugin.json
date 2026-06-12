@@ -1,7 +1,7 @@
 {
   "name": "dsa-dma-digitalregulierung",
   "displayName": "DSA DMA und Digitalregulierung EU",
-  "version": "305.0.0",
+  "version": "310.0.0",
   "description": "Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege.",
   "license": "Apache-2.0 OR MIT",
   "author": {

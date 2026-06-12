@@ -1,14 +1,14 @@
 # Testbericht — Klotzkette German Legal Skills
 
-**Erstellt:** 2026-06-10
-**Arbeitsstand:** v292.0.0 / Rechtsvergleich auf zwölf europäische Rechtsordnungen ausgebaut (Frankreich, Italien, Spanien, Niederlande, Belgien, Österreich, Luxemburg, Dänemark, Polen, Tschechien, Griechenland, Irland) im `verhaeltnismaessigkeitspruefer`. 212 Plugins, 20.859 Skills, 203 Testakten.
-**Plugins gesamt:** 212
-**Skills gesamt:** 20859
-**Testakten gesamt:** 203
+**Erstellt:** 2026-06-12
+**Arbeitsstand:** v310.0.0 / Sammel-Release nach Wellen 2 und 3 (Umlaut- und Komposita-Hygiene) sowie Inhalts-Erweiterungen im `verhaeltnismaessigkeitspruefer` um Art. 3 GG, AGG und Drittwirkungsdimensionen. 213 Plugins, 20.908 Skills, 209 Testakten.
+**Plugins gesamt:** 213
+**Skills gesamt:** 20908
+**Testakten gesamt:** 209
 
 ## Kurzbefund
 
-Das Repository ist nach dem v292-Release stabil und uploadfähig. Der `verhaeltnismaessigkeitspruefer` ist von 49 auf 61 Skills angewachsen; die Gruppe „Rechtsvergleich" deckt damit 17 Rechtsordnungen ab (Deutschland mit Vier-Stufen-Schranken-Schranke, Südafrika Section 36, Kanada Oakes-Test, EGMR/EMRK, EuGH/Charta, USA Tiers of Scrutiny sowie 12 europäische Nachbarordnungen).
+Das Repository ist nach dem v310-Release stabil und uploadfähig. Der `verhaeltnismaessigkeitspruefer` ist auf 85 Skills gewachsen; in zwei thematischen Wellen kamen je 5 Skills hinzu (Art. 3 GG / AGG und Drittwirkung der Grundrechte). Welle 2 und Welle 3 haben gemeinsam die Umlaut- und Komposita-Stamm-Hygiene über das gesamte Repo gezogen.
 
 Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: Plugin-Manifests, Marketplace, Top-Level-README, Asset-Index, SKILLS.md und der pro-Plugin-Detailindex stehen auf demselben Stand.
 
@@ -16,12 +16,12 @@ Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: P
 
 | Kennzahl | Wert |
 |---|---:|
-| Plugin-Manifests | 212 |
-| Skill-Dateien `SKILL.md` | 20859 |
-| Testakten-Verzeichnisse | 203 |
-| Testakten mit Gesamt-PDF nach Validator | 203 |
-| Release-Assets v292.0.0 | 419 (Plugin-ZIPs + Testakten-ZIPs + Sammel-Assets) |
-| Rechtsvergleichs-Skills im `verhaeltnismaessigkeitspruefer` | 20 (für 17 Rechtsordnungen) |
+| Plugin-Manifests | 213 |
+| Skill-Dateien `SKILL.md` | 20908 |
+| Testakten-Verzeichnisse | 209 |
+| Testakten mit Gesamt-PDF nach Validator | 209 |
+| Skills im `verhaeltnismaessigkeitspruefer` | 85 |
+| seit v305 enthaltene Pull Requests | 8 |
 
 ## Validatoren
 
@@ -29,16 +29,41 @@ Alle Übersichten, Sofort-Download-Sektionen und Release-Assets sind synchron: P
 |---|---|
 | `python3 scripts/validate-yaml-frontmatter.py` | OK — 0 Fehler, 0 Warnungen |
 | `node scripts/validate-plugin-structure.mjs` | OK |
-| `python3 scripts/validate-testakten-gesamt-pdf.py` | OK — 203 Testakten |
-| `python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json` | OK — Release-Workflow ZIP-Build durch (alle 212 Plugins) |
-| `git diff --check` | OK |
+| `python3 scripts/validate-testakten-gesamt-pdf.py` | OK |
+| Eval-Harness Welle 2 und Welle 3 | 204/204 All-Pass |
+| Repo-weiter Grep nach Anbieternamen im EU-Gateway-Plugin | 0 Treffer |
+| JSON-Validität der EU-Gateway-Config | OK |
 
-## Veränderungen v291 → v292
+## Veränderungen v305 → v310
 
-- **12 neue Rechtsvergleich-Skills** im `verhaeltnismaessigkeitspruefer` für Frankreich (CE Triple Test, Conciliation, QPC), Italien (Corte costituzionale Ragionevolezza, Bilanciamento), Spanien (Tribunal Constitucional Juicio de proporcionalidad, Contenido esencial), Niederlande (Art 3:4 Awb, Maxis & Praxis 2022), Belgien (Grondwettelijk Hof Art 10 11 GW), Österreich (VfGH Sachlichkeitsgebot, EMRK im Verfassungsrang), Luxemburg (Cour constitutionnelle Triple Test), Dänemark (Politilov, Retsplejelov), Polen (Trybunał Konstytucyjny Art 31 III), Tschechien (Ústavní soud Pl ÚS 4/94), Griechenland (Art 25 I 4 Syntagma) und Irland (Heaney Test).
-- Jeder neue Skill enthält Verfassungsrahmen, Prüfungsstufen mit Leading cases, Wesensgehalts-Funktion, Rezeption europäischer Maßstäbe (EMRK, Charta), Strukturunterschiede-Tabelle zur deutschen Vier-Stufen-Prüfung und einen Live-Recherche-Disclaimer.
-- Plugin-Versionsbump 291.0.0 → 292.0.0 für alle 212 Plugins.
-- SKILLS.md, `skills-index/`, ASSET_INDEX.md, Top-Level-README, CHANGELOG.md vollständig synchronisiert.
+### Inhaltliche Erweiterungen im `verhaeltnismaessigkeitspruefer`
+
+**Wellenkomplex Art. 3 GG und AGG (5 neue Skills):**
+- `art-3-gg-allgemeiner-gleichheitssatz` — Willkuerformel, Neue Formel, gleitender Massstab
+- `art-3-abs-2-3-besondere-gleichheitssaetze` — Geschlecht, Behinderung, Diskriminierungsverbote
+- `agg-systematik-und-verhaeltnismaessigkeit` — AGG-Aufbau, Paragraph 8/10/20 AGG
+- `verhaeltnismaessigkeit-mittelbare-diskriminierung` — Paragraph 3 II AGG, EuGH-Linie Bilka
+- `gleichbehandlung-arbeitsrecht-praxischeck` — Paragraph 7/15/22 AGG, BAG-Linien
+
+**Wellenkomplex Drittwirkung der Grundrechte (5 neue Skills):**
+- `drittwirkung-grundrechte-mittelbar` — Lueth-Linie, Generalklauseln als Einbruchstellen
+- `schutzpflichtdimension-grundrechte` — Triage-Beschluss BVerfG 16.12.2021, Art. 3 III 2 GG
+- `drittwirkung-stadionverbot-bundesverfassungsgericht` — BVerfGE 148, 267, eingriffsaehnliche Drittwirkung
+- `drittwirkung-unionsgrundrechte-charta` — EuGH Mangold/Egenberger/Bauer, Art. 52 I GRCh
+- `drittwirkung-praxischeck-zivilrecht` — Paragraph 138, 242, 826, 307, 315 BGB als Einbruchstellen
+
+### Welle 2 und Welle 3 — Hygiene-Sweeps
+
+- **Welle 2:** Umlaut-Hygiene-Sweep über 6498 Dateien mit 204/204 All-Pass im Eval-Harness. Quellenhygiene-Anschluss in den vom Sweep berührten Skills.
+- **Welle 3:** Komposita-Stamm-Sweep mit `scripts/sweep-umlaut-welle-3.py`. Erfasst ASCII-Schreibungen am Wortanfang (Pattern `\bStamm`, ohne `\b` am Ende) und damit zusammengesetzte Wörter, die Welle 2 nicht treffen konnte. Zusätzlich Behandlung des `description:`-Feldes in YAML-Frontmatter; das `name:`-Feld bleibt geschützt. 5253 Dateien angefasst, rund 31,7 Millionen Zeichen geändert.
+
+### `arbeitszeugnispruefer-skill` — Eval-Harness-Drop-In
+
+Bundle mit eigenem Eval-Harness-Drop-In nach Harvey-LAB-Vorbild.
+
+### `0_setup-cowork3p-eu-gateway` — vollständige Neutralisierung
+
+Anbieterneutrale Setup-Anleitung für Cowork-3P über einen EU-Gateway-Anbieter. Ordner-, Datei- und Inhaltsbenennung ohne konkreten Anbieternamen. Anbieterneutrale Voraussetzungen (AVV nach Art. 28 DSGVO, Zusatzvereinbarung nach § 43e Abs. 3 BRAO i. V. m. § 203 Abs. 4 StGB, EU-Hosting) und Hinweisblock zur Anbieterauswahl.
 
 ## Konsolidierungslogik
 
@@ -54,8 +79,14 @@ Die Pflege folgt konservativen Regeln:
 
 Einige große Fach- und Werkstattplugins bleiben oberhalb einer niedrigen Zielmarke, wenn die sichtbare Auswahl einzelner Fallgruppen praktisch wichtiger ist als weitere Verdichtung. Das gilt insbesondere für stark differenzierte Steuer-, Arbeitszeugnis-, Liquiditäts-, Selbstvertreter- und Fachanwaltsworkflows.
 
+## Offen für Welle 4
+
+- 83 false-positive Sanity-Check-Abbrüche aus Welle 3 manuell adressieren
+- Restliche Stamm-Familien ergänzen (`Bruecke*`, `Tatbestaenden`, `Erklaert`, `Rechtfertigungs*` etc.)
+- 213 Skills mit verbleibendem „Az verifizieren"-Marker (unverändert seit Welle 2)
+
 ## Residualrisiko
 
 Die Validierung prüft Struktur, Frontmatter, Gesamt-PDF-Verfügbarkeit und grundlegende Markdown-/Git-Sauberkeit. Sie ersetzt keine vollständige fachliche Rechtsprüfung jedes einzelnen Skill-Abschnitts. Für Rechtsprechung, Normstand und Literaturhinweise bleibt die Regel des Repos maßgeblich: nur mit überprüfbarer Quelle, Datum, Aktenzeichen und frei zugänglicher Fundstelle ausgeben, soweit keine Nutzerquelle ausdrücklich bereitgestellt wird.
 
-Die Rechtsvergleichs-Skills enthalten in jedem Land einen Live-Recherche-Disclaimer mit Original-Datenbanken (Légifrance, ArianeWeb, conseil-constitutionnel.fr, cortecostituzionale.it, tribunalconstitucional.es, rechtspraak.nl, const-court.be, ris.bka.gv.at, justice.public.lu, retsinformation.dk, trybunal.gov.pl, usoud.cz, ste.gr, BAILII/courts.ie).
+Die Rechtsvergleichs-Skills enthalten in jedem Land einen Live-Recherche-Disclaimer mit Original-Datenbanken.

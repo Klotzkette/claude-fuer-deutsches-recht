@@ -1,6 +1,6 @@
 {
   "name": "energierecht",
-  "version": "305.0.0",
+  "version": "310.0.0",
   "description": "Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

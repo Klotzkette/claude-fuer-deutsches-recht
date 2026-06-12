@@ -1,7 +1,7 @@
 {
   "name": "lobbyregister-bundestag",
   "displayName": "Lobbyregister Bundestag",
-  "version": "305.0.0",
+  "version": "310.0.0",
   "description": "Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.",
   "license": "Apache-2.0 OR MIT",
   "author": {

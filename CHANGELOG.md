@@ -1,4 +1,72 @@
-# v307.0.0 — Welle 3: Komposita-Stamm + description-Frontmatter
+# v310.0.0 — Sammel-Release: Welle 2 + Welle 3 + Inhalts-Erweiterungen
+
+Konsolidierter Release, der die seit v305 angefallenen Aenderungen unter einem gemeinsamen Tag buendelt. Inhaltlich enthaelt der Release die Wellen 2 und 3 des Umlaut- und Komposita-Sweeps, eine substantielle Erweiterung des `verhaeltnismaessigkeitspruefer` um Art. 3 GG, AGG und Drittwirkungsdimensionen, ein Eval-Harness-Bundle fuer den `arbeitszeugnispruefer-skill` sowie eine vollstaendige Neutralisierung des EU-Gateway-Setup-Plugins.
+
+## Highlights
+
+### `verhaeltnismaessigkeitspruefer`: 10 neue Skills
+
+Das Plugin ist von 75 auf 85 Skills gewachsen.
+
+**Wellenkomplex Art. 3 GG und AGG (5 Skills):**
+- `art-3-gg-allgemeiner-gleichheitssatz` — Willkuerformel, Neue Formel, gleitender Massstab
+- `art-3-abs-2-3-besondere-gleichheitssaetze` — Geschlecht, Behinderung, Diskriminierungsverbote
+- `agg-systematik-und-verhaeltnismaessigkeit` — AGG-Aufbau, Paragraph 8/10/20 AGG
+- `verhaeltnismaessigkeit-mittelbare-diskriminierung` — Paragraph 3 II AGG, EuGH-Linie Bilka
+- `gleichbehandlung-arbeitsrecht-praxischeck` — Paragraph 7/15/22 AGG, BAG-Linien
+
+**Wellenkomplex Drittwirkung der Grundrechte (5 Skills):**
+- `drittwirkung-grundrechte-mittelbar` — Lueth-Linie, Generalklauseln als Einbruchstellen
+- `schutzpflichtdimension-grundrechte` — Triage-Beschluss BVerfG 16.12.2021, Art. 3 III 2 GG
+- `drittwirkung-stadionverbot-bundesverfassungsgericht` — BVerfGE 148, 267, eingriffsaehnliche Drittwirkung
+- `drittwirkung-unionsgrundrechte-charta` — EuGH Mangold/Egenberger/Bauer, Art. 52 I GRCh
+- `drittwirkung-praxischeck-zivilrecht` — Paragraph 138, 242, 826, 307, 315 BGB als Einbruchstellen
+
+### Welle 2 — Umlaut-Hygiene und Quellenhygiene-Anschluss
+
+Umlaut-Hygiene-Sweep ueber 6498 Dateien mit 204/204 All-Pass im Eval-Harness. Quellenhygiene-Anschluss in den vom Sweep beruehrten Skills.
+
+### Welle 3 — Komposita-Stamm + description-Frontmatter
+
+`scripts/sweep-umlaut-welle-3.py`: Komposita-Stamm-Sweep, der ASCII-Schreibungen am Wortanfang erkennt (Pattern `\bStamm`, ohne `\b` am Ende) und damit zusammengesetzte Woerter erfasst, die Welle 2 nicht treffen konnte. Zusaetzlich behandelt Welle 3 das `description:`-Feld in YAML-Frontmatter, waehrend `name:` (Plugin-/Skill-Slug) weiterhin geschuetzt bleibt. 5253 Dateien angefasst, rund 31,7 Millionen Zeichen geaendert.
+
+### `arbeitszeugnispruefer-skill` — Eval-Harness-Drop-In
+
+Bundle, das den `arbeitszeugnispruefer-skill` mit einem eigenen Eval-Harness-Drop-In nach Harvey-LAB-Vorbild ergaenzt.
+
+### `0_setup-cowork3p-eu-gateway` — vollstaendige Neutralisierung
+
+Das Setup-Plugin fuer Cowork-3P ueber einen EU-Gateway-Anbieter ist anbieterneutral. Ordner-, Datei- und Inhaltsbenennung sprechen jetzt durchgaengig von "EU-Gateway-Anbieter". Die Anleitung beschreibt anbieterneutrale Voraussetzungen (AVV nach Art. 28 DSGVO, Zusatzvereinbarung nach Paragraph 43e Abs. 3 BRAO i. V. m. Paragraph 203 Abs. 4 StGB, EU-Hosting) und einen Hinweisblock zur Anbieterauswahl.
+
+### Codex P2-Fixes
+
+Zwei Codex-Fix-Runden auf den Pull Requests #260 und #266: Drittwirkung-Klassifikation, Skill-Slug-Korrektur sowie EU-Gateway-Config-Neutralisierung und README-Verweise.
+
+## Validatoren
+
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler, 0 Warnungen
+- `node scripts/validate-plugin-structure.mjs` — OK
+- Eval-Harness Welle 2 und Welle 3: 204/204 All-Pass
+- JSON-Validitaet der EU-Gateway-Config: OK
+- Repo-weiter Grep nach Anbieternamen im EU-Gateway-Plugin: 0 Treffer
+
+## Kennzahlen
+
+| Kennzahl | Wert |
+|---|---:|
+| Plugin-Manifests | 213 |
+| Skills gesamt | 20908 |
+| Testakten | 209 |
+| Skills im `verhaeltnismaessigkeitspruefer` | 85 |
+| seit v305 enthaltene Pull Requests | 8 (#260, #262, #263, #264, #265, #266, #267, #268, #269) |
+
+## Enthaltene CHANGELOG-Abschnitte
+
+Die folgenden Abschnitte unten dokumentieren Teilreleases, die zwischen v305 und v310 als CHANGELOG-Eintraege geschrieben aber nicht eigenstaendig getaggt wurden. Sie bleiben aus historischen Gruenden im CHANGELOG erhalten; massgeblicher Veroeffentlichungs-Tag ist v310.0.0.
+
+---
+
+# v307.0.0 — Welle 3: Komposita-Stamm + description-Frontmatter (in v310 enthalten)
 
 ## Stamm-Sweep ueber das Repo
 
@@ -47,7 +115,7 @@ Beispiel `verhaeltnismaessigkeitspruefer/skills/agg-systematik-und-verhaeltnisma
 
 ---
 
-# v306.0.0 — Welle 2: Umlaut-Hygiene und Quellenhygiene-Anschluss
+# v306.0.0 — Welle 2: Umlaut-Hygiene und Quellenhygiene-Anschluss (in v310 enthalten)
 
 ## Umlaut-Sweep über das Repo
 
