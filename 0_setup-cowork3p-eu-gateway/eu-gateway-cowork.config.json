@@ -1,6 +1,6 @@
 {
-  "_comment_de": "ALLGEMEINE EU-Gateway-Konfiguration fuer Claude Cowork. Vor Verwendung die Platzhalter durch die konkreten Werte deines EU-Gateway-Anbieters ersetzen (z. B. Langdock mit https://api.langdock.com/anthropic/eu, oder andere EU-Hosted-Provider mit Anthropic-Routing). Die URL unten ist ein neutraler Platzhalter und muss zwingend ersetzt werden, sonst schlaegt die Verbindung fehl.",
-  "_comment_en": "Generic EU gateway configuration for Claude Cowork. Replace placeholders with your chosen EU gateway provider's actual values (e.g. Langdock with https://api.langdock.com/anthropic/eu, or another EU-hosted provider with Anthropic routing). The URL below is a neutral placeholder and MUST be replaced, otherwise the connection will fail.",
+  "_comment_de": "Allgemeine EU-Gateway-Konfiguration fuer Claude Cowork. Vor Verwendung die Platzhalter durch die konkreten Werte deines EU-Gateway-Anbieters ersetzen (EU-gehosteter Provider mit Anthropic-Routing in der EU). Die URL unten ist ein neutraler Platzhalter und muss zwingend ersetzt werden, sonst schlaegt die Verbindung fehl. Konkreten Pfad zu den Anthropic-Modellen siehe Doku des jeweiligen Anbieters.",
+  "_comment_en": "Generic EU gateway configuration for Claude Cowork. Replace placeholders with your chosen EU gateway provider's actual values (EU-hosted provider with Anthropic routing in the EU). The URL below is a neutral placeholder and MUST be replaced, otherwise the connection will fail. See your provider's documentation for the correct Anthropic-models path.",
   "inferenceProvider": "gateway",
   "inferenceGatewayBaseUrl": "https://REPLACE-WITH-YOUR-EU-GATEWAY-PROVIDER/anthropic/eu",
   "inferenceGatewayApiKey": "DEIN_EU_GATEWAY_API_KEY_HIER",
