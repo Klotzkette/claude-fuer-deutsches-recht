@@ -17,6 +17,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = ROOT / "testakten"
 
+# Hilfsmaterial-Ordner unterhalb testakten/ ohne Akten-Struktur.
+# Diese enthalten Formatvorlagen / Megaprompt-Material, keine Mandatsakten,
+# und sind daher von der Gesamt-PDF-Pflicht ausgenommen.
+SKIP_DIRS = {
+    "formatvorlagen-paradebeispiele",
+    "megaprompts",
+}
+
 
 def fs_path(path: Path) -> Path:
     """Return a Windows long-path-safe Path without changing display paths."""
@@ -57,7 +65,7 @@ def is_probable_pdf(path: Path) -> str | None:
 
 def main() -> int:
     errors: list[str] = []
-    dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir())
+    dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
     for d in dirs:
         slug = d.name
         pdf = d / "gesamt-pdf" / f"{slug}_gesamt.pdf"
